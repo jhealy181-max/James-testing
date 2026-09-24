@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QS One Build Brief</title>
+<meta name="description" content="Stage 2 build brief for the QS One Replit proof of concept.">
+<style>
+:root{
+  color-scheme:light;
+  --ink:#1f1830;--muted:#675f75;--faint:#8d869a;
+  --purple:#221638;--purple2:#3a2458;--violet:#6b3b9b;--magenta:#d83b88;--aqua:#16858a;--amber:#a86a12;
+  --paper:#f7f6fa;--card:#ffffff;--line:#e6e1ee;--soft:#f1ebf6;--soft2:#eaf5f5;--soft3:#fff1f7;--soft4:#fbf1df;
+  --code:#f3f0f7;--shadow:0 10px 30px rgba(31,17,52,.06);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;
+  --ink:#eeeaf4;--muted:#b8b0c6;--faint:#968fa5;--purple:#170f26;--purple2:#2a1c40;--violet:#b995e0;--magenta:#ff7fb8;--aqua:#5cc7cc;--amber:#e8b25a;
+  --paper:#120d1c;--card:#1b1429;--line:#2f2640;--soft:#241a36;--soft2:#12292b;--soft3:#2c1624;--soft4:#2d2313;--code:#211933;--shadow:none}}
+:root[data-theme="dark"]{color-scheme:dark;--ink:#eeeaf4;--muted:#b8b0c6;--faint:#968fa5;--purple:#170f26;--purple2:#2a1c40;--violet:#b995e0;--magenta:#ff7fb8;--aqua:#5cc7cc;--amber:#e8b25a;--paper:#120d1c;--card:#1b1429;--line:#2f2640;--soft:#241a36;--soft2:#12292b;--soft3:#2c1624;--soft4:#2d2313;--code:#211933;--shadow:none}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.58 "Segoe UI",system-ui,-apple-system,Arial,sans-serif}
+a{color:var(--violet)}
+.wrap{max-width:1120px;margin:0 auto;padding-inline:24px}
+.cover{background:linear-gradient(118deg,#1d1230 0%,#3a2258 62%,#6d376d 100%);color:#fff;padding-block:52px 44px}
+.qs{font-weight:800;letter-spacing:.14em;font-size:12px;text-transform:uppercase;color:#e7dcf1}
+.qs b{font-size:28px;letter-spacing:-.04em;color:#fff;text-transform:none;margin-right:10px}
+.qs b span{color:#ff7fb8}
+.cover h1{font-size:clamp(32px,4.6vw,52px);line-height:1.08;letter-spacing:-.03em;margin:22px 0 12px;max-width:860px;text-wrap:balance}
+.cover p{font-size:clamp(16px,2vw,19px);color:#e3d9ec;max-width:780px;margin:0 0 22px}
+.meta-row{display:flex;flex-wrap:wrap;gap:8px 22px;font-size:13px;color:#cbbfd8}
+.meta-row span{border-left:2px solid #ff91c5;padding-left:10px}
+.toc{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:env(safe-area-inset-top,0px);z-index:5}
+.toc .wrap{display:flex;gap:4px;overflow-x:auto;padding-block:8px}
+.toc a{flex:none;text-decoration:none;color:var(--muted);font-size:13px;font-weight:650;padding:6px 10px;border-radius:8px;white-space:nowrap}
+.toc a:hover{background:var(--soft);color:var(--ink)}
+section{padding-block:48px 4px}
+.eyebrow{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--magenta);margin:0 0 8px}
+h2{font-size:clamp(24px,3vw,34px);line-height:1.14;letter-spacing:-.025em;margin:0 0 10px;text-wrap:balance}
+h3{font-size:17px;line-height:1.3;margin:0 0 8px}
+.sub{color:var(--muted);max-width:820px;font-size:16.5px;margin:0 0 22px}
+p{margin:0 0 10px}
+.grid{display:grid;gap:14px}
+.g2{grid-template-columns:repeat(2,minmax(0,1fr))}.g3{grid-template-columns:repeat(3,minmax(0,1fr))}.g4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;box-shadow:var(--shadow);min-width:0}
+.card p,.card li{color:var(--muted);font-size:14.5px}
+.card ul,.card ol{margin:6px 0 0;padding-left:18px}.card li{margin:3px 0}
+.tag{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.04em;padding:4px 9px;border-radius:99px;background:var(--soft);color:var(--violet);margin:0 6px 8px 0}
+.tag.aqua{background:var(--soft2);color:var(--aqua)}.tag.pink{background:var(--soft3);color:var(--magenta)}.tag.amber{background:var(--soft4);color:var(--amber)}
+.steps{counter-reset:s;list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.steps li{counter-increment:s;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 20px 20px 62px;position:relative;color:var(--muted);font-size:15px}
+.steps li::before{content:counter(s);position:absolute;left:18px;top:18px;width:30px;height:30px;border-radius:50%;background:var(--magenta);color:#fff;font-weight:800;display:grid;place-items:center}
+.steps b{display:block;color:var(--ink);font-size:16px;margin-bottom:4px}
+code,.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.88em;background:var(--code);padding:2px 6px;border-radius:5px}
+.tbl{width:100%;border-collapse:separate;border-spacing:0;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;font-size:14px}
+.tbl th{background:var(--soft);text-align:left;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:11px 13px}
+.tbl td{padding:12px 13px;border-top:1px solid var(--line);vertical-align:top;color:var(--muted)}
+.tbl td:first-child{color:var(--ink);font-weight:700}
+.ok{color:var(--aqua);font-weight:800}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.callout{border-left:4px solid var(--magenta);background:var(--card);border-radius:0 12px 12px 0;padding:15px 19px;margin:16px 0;color:var(--muted);box-shadow:var(--shadow)}
+.callout b{color:var(--ink)}.callout.aqua{border-color:var(--aqua)}
+.arch{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;overflow-x:auto}
+.arch svg{display:block;min-width:760px;width:100%;height:auto}
+.arch text{font-family:"Segoe UI",system-ui,Arial,sans-serif}
+.status{display:grid;gap:10px;grid-template-columns:repeat(3,minmax(0,1fr))}
+.status .card{border-top:4px solid var(--aqua)}
+.status .card.saved{border-top-color:var(--faint)}.status .card.stale{border-top-color:var(--amber)}
+.prompt{background:var(--code);border:1px solid var(--line);border-radius:12px;padding:16px 18px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;line-height:1.6;white-space:pre-wrap;color:var(--ink);overflow-x:auto}
+footer{padding-block:44px 56px;color:var(--faint);font-size:13px}
+@media (max-width:900px){.g3,.g4,.steps,.status{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:640px){.wrap{padding-inline:16px}.g2,.g3,.g4,.steps,.status{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<header class="cover"><div class="wrap">
+  <div class="qs"><b>QS <span>One</span></b> Build brief · Stage 2 of 3</div>
+  <h1>A proof of concept that runs on Replit with one click</h1>
+  <p>What the QS One demo must show, how it is built so that someone who doesn't code can run it, and how it reads live QS content, starting with Global Student Flows for recruitment.</p>
+  <div class="meta-row"><span>Version 1.0 · 24 September 2026</span><span>Pairs with the Stage 1 strategy</span><span>Built and tested: see Stage 3 ZIP</span></div>
+</div></header>
+
+<nav class="toc" aria-label="Contents"><div class="wrap">
+  <a href="#goal">Goal</a><a href="#replit">Replit approach</a><a href="#arch">Architecture</a><a href="#scope">Screens</a><a href="#rules">Access rules</a><a href="#qsdata">QS content</a><a href="#demo">Demo script</a><a href="#accept">Acceptance</a><a href="#data">Data &amp; API</a><a href="#next">Production path</a><a href="#agent">Extending it</a>
+</div></nav>
+
+<main class="wrap">
+
+<section id="goal">
+  <div class="eyebrow">What the demo must prove</div>
+  <h2>Five things a senior audience should see in ten minutes</h2>
+  <p class="sub">The proof of concept isn't a prototype of every feature. It is built to make the Stage 1 strategy tangible and to test the hypotheses behind it.</p>
+  <div class="grid g3">
+    <div class="card"><span class="tag">1 · Decision network</span><h3>Evidence, peers and the room in one place</h3><p>A leader lands on a home page showing their next Circle session, an open Pulse, pending introductions and the next QS summit, not a list of articles.</p></div>
+    <div class="card"><span class="tag">2 · Give to get</span><h3>Pulse results unlock after contributing</h3><p>An institution answers five recruitment questions, then sees peer benchmarks. Groups smaller than five are hidden.</p></div>
+    <div class="card"><span class="tag">3 · Live QS evidence</span><h3>Global Student Flows, read from qs.com</h3><p>The mobility hub shows the three scenarios, key published figures and page excerpts, each marked live or saved, with the date.</p></div>
+    <div class="card"><span class="tag pink">4 · Two paying sides</span><h3>Partners in a space members control</h3><p>A partner publishes labelled briefings, responds to member challenges and sees aggregated priorities, with no contact unless the member opts in.</p></div>
+    <div class="card"><span class="tag aqua">5 · Tiers that mean something</span><h3>Access rules enforced on the server</h3><p>Switching to a Network-tier institution visibly locks Circles and cohort cuts. The rules live in the API, not just the screen.</p></div>
+    <div class="card"><span class="tag amber">6 · Summits as heartbeat</span><h3>Convene links the calendar to the network</h3><p>Mark attendance, get suggested meetings, and reserve closed roundtables, which follow on in Circles afterwards.</p></div>
+  </div>
+</section>
+
+<section id="replit">
+  <div class="eyebrow">The Replit approach</div>
+  <h2>Upload, press Run, open the link</h2>
+  <p class="sub">The main requirement is that someone without coding knowledge can run it first time. That drives three design choices.</p>
+  <ol class="steps">
+    <li><b>Upload the ZIP</b>Open replit.com/import, choose ZIP file, and upload <span class="mono">qs-one-replit.zip</span>.</li>
+    <li><b>Press Run</b>The <span class="mono">.replit</span> file tells Replit to use Node 20 and run <span class="mono">npm start</span> on port 3000.</li>
+    <li><b>Use the app</b>It opens in the Webview. Demo data is created automatically on first run, and QS pages are read in the background.</li>
+  </ol>
+  <div class="grid g3" style="margin-top:14px">
+    <div class="card"><h3>Front end already built</h3><p>The React app is built into <span class="mono">public/</span> before zipping, so Replit has no build step to fail. The source is included for anyone who wants to edit it.</p></div>
+    <div class="card"><h3>No runtime dependencies</h3><p>The server uses only Node's standard library (HTTP, file system, fetch). There is no <span class="mono">npm install</span> to wait for or break.</p></div>
+    <div class="card"><h3>Self-contained data</h3><p>A JSON-file database is created and seeded on first run, and reset from the team console. There is no external database or API key.</p></div>
+  </div>
+</section>
+
+<section id="arch">
+  <div class="eyebrow">Architecture</div>
+  <h2>How the pieces fit</h2>
+  <div class="arch" role="img" aria-label="Architecture: the browser runs the React app, which calls the Node API. The API reads and writes a JSON database and reads the QS source cache. A source service fetches public qs.com pages every 12 hours and falls back to saved copies.">
+    <svg viewBox="0 0 980 300" xmlns="http://www.w3.org/2000/svg">
+      <defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8d869a"/></marker></defs>
+      <g font-size="13">
+        <rect x="10" y="100" width="190" height="100" rx="12" fill="#f1ebf6" stroke="#6b3b9b"/>
+        <text x="105" y="135" text-anchor="middle" font-weight="700" fill="#221638">Browser</text>
+        <text x="105" y="157" text-anchor="middle" fill="#675f75">React app (prebuilt)</text>
+        <text x="105" y="177" text-anchor="middle" fill="#675f75">"View as" demo persona</text>
+        <rect x="290" y="80" width="230" height="140" rx="12" fill="#221638"/>
+        <text x="405" y="115" text-anchor="middle" font-weight="700" fill="#ffffff">Node server</text>
+        <text x="405" y="140" text-anchor="middle" fill="#e3d9ec">API with tier and consent rules</text>
+        <text x="405" y="160" text-anchor="middle" fill="#e3d9ec">Pulse aggregation (n ≥ 5)</text>
+        <text x="405" y="180" text-anchor="middle" fill="#e3d9ec">Feed ranking with "why"</text>
+        <text x="405" y="200" text-anchor="middle" fill="#e3d9ec">Activity log</text>
+        <rect x="610" y="20" width="170" height="80" rx="12" fill="#eaf5f5" stroke="#16858a"/>
+        <text x="695" y="55" text-anchor="middle" font-weight="700" fill="#0d5f5c">data/db.json</text>
+        <text x="695" y="77" text-anchor="middle" fill="#3f6664">members, Circles, Pulse…</text>
+        <rect x="610" y="190" width="170" height="90" rx="12" fill="#fbf1df" stroke="#a86a12"/>
+        <text x="695" y="222" text-anchor="middle" font-weight="700" fill="#7a4d0e">Source service</text>
+        <text x="695" y="244" text-anchor="middle" fill="#7a5a2a">every 12 h + on demand</text>
+        <text x="695" y="264" text-anchor="middle" fill="#7a5a2a">robots.txt · 1 req at a time</text>
+        <rect x="850" y="150" width="120" height="60" rx="12" fill="#ffffff" stroke="#6b3b9b"/>
+        <text x="910" y="185" text-anchor="middle" font-weight="700" fill="#221638">qs.com</text>
+        <rect x="850" y="230" width="120" height="60" rx="12" fill="#ffffff" stroke="#8d869a" stroke-dasharray="4 3"/>
+        <text x="910" y="258" text-anchor="middle" font-weight="700" fill="#675f75">Saved copies</text>
+        <text x="910" y="276" text-anchor="middle" fill="#8d869a" font-size="11">24 Sep 2026</text>
+      </g>
+      <g stroke="#8d869a" stroke-width="1.6" fill="none">
+        <path d="M200 150 L286 150" marker-end="url(#ar)"/>
+        <path d="M520 120 C 560 100, 570 70, 606 62" marker-end="url(#ar)"/>
+        <path d="M520 185 C 560 200, 570 225, 606 232" marker-end="url(#ar)"/>
+        <path d="M780 222 L846 188" marker-end="url(#ar)"/>
+        <path d="M780 250 L846 258" marker-end="url(#ar)" stroke-dasharray="4 3"/>
+      </g>
+      <g font-size="11" fill="#8d869a">
+        <text x="243" y="140" text-anchor="middle">/api</text>
+        <text x="813" y="196" text-anchor="middle">live</text>
+        <text x="813" y="270" text-anchor="middle">if it fails</text>
+      </g>
+    </svg>
+  </div>
+</section>
+
+<section id="scope">
+  <div class="eyebrow">Screens</div>
+  <h2>The seven strategy modules, as working screens</h2>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>Strategy module</th><th>Screen(s) in the demo</th><th>What works</th></tr></thead>
+    <tbody>
+      <tr><td>① Leader profiles &amp; directory</td><td>Network, Institution pages, My profile</td><td>Search by domain and region; request introductions both sides must accept; quota per tier; admins edit institution pages; opt-in to partner contact</td></tr>
+      <tr><td>② Circles</td><td>Circles, Circle detail</td><td>Domain Circles, Regional Chapters, private Peer Circles, Executive Council; join and leave by tier; request a place for invitation-only Circles; members-only discussion; sessions</td></tr>
+      <tr><td>③ Intelligence</td><td>Home, Intelligence, briefing reader</td><td>Feed ranked by role and interests, with a "why you are seeing this" line; trust labels; so-what and suggested action; QS source links with live or saved status</td></tr>
+      <tr><td>④ Member Exchange</td><td>Exchange</td><td>Practice notes and questions; replies; "useful" votes; Circle-only posts; partners limited to labelled briefings with a quarterly quota</td></tr>
+      <tr><td>⑤ Pulse benchmarks</td><td>Pulse, Pulse detail, Mobility hub</td><td>Three Pulses; answer once per institution; results unlock after contributing; cohort cuts from Leadership tier; groups under 5 hidden</td></tr>
+      <tr><td>⑥ Convene</td><td>Convene</td><td>QS 2026–27 events; year-round cycle; attendance; suggested meetings with reasons; roundtable places with capacity and tier rules</td></tr>
+      <tr><td>⑦ Partner Hub</td><td>Partner Hub (Partners · Challenge Board · Leader priorities)</td><td>Partner profiles by tier; Challenge Board where institutions post and partners propose, then institutions shortlist or select; aggregated priorities for Domain and Principal partners</td></tr>
+      <tr><td>Commercial &amp; governance</td><td>Membership, Team console</td><td>Institution and partner packages; demo tier switch; Independence Charter; team console with illustrative ARR, participation and activity log; data reset</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="rules">
+  <div class="eyebrow">Access rules</div>
+  <h2>Enforced on the server, visible on screen</h2>
+  <p class="sub">Every rule below is checked by the API. The screen explains the lock but isn't the only safeguard.</p>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>Capability</th><th>Network</th><th>Leadership</th><th>Council</th><th>Partner</th></tr></thead>
+    <tbody>
+      <tr><td>Intelligence and QS sources</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr>
+      <tr><td>Member Exchange</td><td>✓</td><td>✓</td><td>✓</td><td>Partner briefings only (1 / 3 / 6 a quarter by package)</td></tr>
+      <tr><td>Pulse</td><td>Contribute + headline results</td><td>+ cohort cuts</td><td>+ cohort cuts</td><td>No results; aggregated priorities from Domain package</td></tr>
+      <tr><td>Domain Circles &amp; Chapters</td><td>View only</td><td>✓</td><td>✓</td><td>—</td></tr>
+      <tr><td>Peer Circles &amp; Executive Council</td><td>—</td><td>—</td><td>Request a place</td><td>—</td></tr>
+      <tr><td>Introductions</td><td>2 a quarter</td><td>Unlimited</td><td>Unlimited</td><td>10 a quarter, to opted-in members only</td></tr>
+      <tr><td>Closed roundtables</td><td>Partner-hosted only</td><td>✓</td><td>✓</td><td>Host, not attend</td></tr>
+      <tr><td>Challenge Board</td><td>Post and select</td><td>Post and select</td><td>Post and select</td><td>Propose (sees own proposals only)</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="qsdata">
+  <div class="eyebrow">QS content &amp; scraping</div>
+  <h2>Reading QS pages responsibly, starting with recruitment</h2>
+  <p class="sub">The source service reads 21 public qs.com pages plus the QS Insights listing. The recruitment (mobility) domain is the deepest: it covers Global Student Flows, the International Student Survey, recruitment datasets, market reports and a case study.</p>
+  <div class="grid g2">
+    <div class="card"><span class="tag">Recruitment sources</span><ul>
+      <li>QS Global Student Flows report and framework hub</li>
+      <li>Global Student Flows: UK, US, Europe, Australia &amp; New Zealand</li>
+      <li>QS Student Recruitment Datasets</li>
+      <li>QS International Student Survey, plus the China insight</li>
+      <li>UK recruitment and US 2026 market insights</li>
+      <li>Global Student Flows recruitment case study</li>
+      <li>New QS Insights articles, classified by keyword</li>
+    </ul></div>
+    <div class="card"><span class="tag aqua">Rules the reader follows</span><ul>
+      <li>Public pages only; checks robots.txt first</li>
+      <li>One request at a time, with a pause; 15-second timeout</li>
+      <li>Keeps the title, description, headings and up to five short excerpts, with a link back</li>
+      <li>Never copies whole pages or licensed datasets</li>
+      <li>Every item carries its read time; the app shows live, stale or saved</li>
+      <li>Runs on start-up, every 12 hours, and on demand</li>
+    </ul></div>
+  </div>
+  <div class="status" style="margin-top:14px">
+    <div class="card"><h3>● Live from qs.com</h3><p>Read successfully. Shows "Live from qs.com · 2 h ago".</p></div>
+    <div class="card stale"><h3>● Last read, refresh failed</h3><p>Was live before; the latest attempt failed. Shows the last good date.</p></div>
+    <div class="card saved"><h3>○ Saved copy</h3><p>Never read live on this server. Shows a saved summary dated 24 Sep 2026.</p></div>
+  </div>
+  <div class="callout"><b>Two caveats.</b> This build environment could not reach qs.com (its network policy blocks the site), so live reading was tested for failures only. The parser was tested on sample pages, and the saved copies were prepared from QS's public pages via search. On Replit the reader should work. If qs.com refuses automated requests, the app keeps working on saved copies and the Sources page says so. QS pages also showed different dates for the Middle East summit, so the demo flags "check date".</div>
+  <div class="callout aqua"><b>Published figures used on screen:</b> the three Global Student Flows scenarios; about 4% annual growth in demand and about 8.5 million mobile students by 2030; 80+ markets and 15 drivers; and ISS findings such as "45% consider four or more universities". Each figure links to its QS page. Market-level forecasts stay in the licensed QS Student Recruitment Datasets.</div>
+</section>
+
+<section id="demo">
+  <div class="eyebrow">Demo script</div>
+  <h2>Ten minutes, six personas</h2>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>Step</th><th>Persona ("View as")</th><th>What to show</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>Jordan Price · Northbridge (Council)</td><td>Home: this week's session, open Pulse, introduction waiting. Then the Mobility hub: scenarios, figures, live QS excerpts.</td></tr>
+      <tr><td>2</td><td>Jordan Price</td><td>Pulse → answer five questions → results unlock → filter to Asia Pacific → small group hidden.</td></tr>
+      <tr><td>3</td><td>Dr Amara Okafor · Savanna (Network)</td><td>Circles are locked with the reason; request an introduction to Jordan (2-a-quarter quota shown).</td></tr>
+      <tr><td>4</td><td>Sam Rivera · Atlas EdTech (Domain Partner)</td><td>Partner Hub: propose a pilot on Jordan's challenge; see leader priorities; Pulse results refused.</td></tr>
+      <tr><td>5</td><td>Jordan Price</td><td>Accept Amara's introduction; shortlist Atlas's proposal; Convene: attend APAC, see suggested meetings, reserve a roundtable.</td></tr>
+      <tr><td>6</td><td>Maya Chen · QS One team</td><td>Team console: illustrative ARR, Pulse participation, full activity log of the steps above. Sources page: refresh from qs.com.</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="accept">
+  <div class="eyebrow">Acceptance criteria</div>
+  <h2>Checked in the Stage 3 build</h2>
+  <p class="sub">Each journey was run in a headless browser against the packaged ZIP.</p>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>Journey</th><th>Expected</th><th>Result</th></tr></thead>
+    <tbody>
+      <tr><td>Fresh start from ZIP</td><td>Unzip, <span class="mono">npm start</span>, app loads and seeds data</td><td class="ok">Pass</td></tr>
+      <tr><td>All 20 screens render</td><td>No script errors; no sideways scrolling on a 390px phone</td><td class="ok">Pass</td></tr>
+      <tr><td>Pulse give-to-get</td><td>Results hidden until contributing; shown after; groups under 5 hidden</td><td class="ok">Pass</td></tr>
+      <tr><td>Tier lock</td><td>Network member cannot join Circles (API returns 403 with reason)</td><td class="ok">Pass</td></tr>
+      <tr><td>Consent-based introductions</td><td>Request → recipient accepts → contact shown to both</td><td class="ok">Pass</td></tr>
+      <tr><td>Partner boundaries</td><td>Partner proposes pilot; cannot see Pulse or members who opted out</td><td class="ok">Pass</td></tr>
+      <tr><td>Source fallback</td><td>qs.com unreachable → all sources show saved copies with the error recorded</td><td class="ok">Pass</td></tr>
+      <tr><td>Source parsing</td><td>Title, description, headings, excerpts and QS Insights links extracted from sample HTML; navigation and cookie text ignored</td><td class="ok">Pass</td></tr>
+      <tr><td>Live read from qs.com</td><td>Pages marked live with read time</td><td>To confirm on Replit</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="data">
+  <div class="eyebrow">Data &amp; API</div>
+  <h2>What is stored and how the screens get it</h2>
+  <div class="grid g2">
+    <div class="card"><h3>Data model</h3><ul>
+      <li><b>Institutions:</b> tier, region, type, priorities, challenges, "open to", visibility, verified</li>
+      <li><b>People:</b> organisation, role family, interests, regions, partner-contact opt-in, digest preference</li>
+      <li><b>Partners:</b> package tier, sector, domains, offers</li>
+      <li><b>Circles:</b> type, minimum tier, invitation-only, members, sessions</li>
+      <li><b>Posts and replies</b> (Exchange and Circle discussion)</li>
+      <li><b>Pulses, questions and responses</b> (one per institution; demo responses flagged)</li>
+      <li><b>Events, roundtables, introductions, challenges and proposals</b></li>
+      <li><b>Activity log;</b> source cache with read times and errors</li>
+    </ul></div>
+    <div class="card"><h3>API (all JSON)</h3><ul>
+      <li><span class="mono">GET /api/bootstrap</span>: person, access, network</li>
+      <li><span class="mono">GET /api/feed</span>, <span class="mono">/api/briefings/:id</span>, <span class="mono">/api/domains/:id</span></li>
+      <li><span class="mono">GET /api/sources</span>, <span class="mono">POST /api/sources/refresh</span></li>
+      <li><span class="mono">GET|POST /api/posts</span>, replies, upvote</li>
+      <li><span class="mono">GET /api/pulses/:id?region=&amp;type=</span>, <span class="mono">POST …/responses</span></li>
+      <li><span class="mono">POST|DELETE /api/circles/:id/join</span>, request</li>
+      <li><span class="mono">POST /api/intros</span>, <span class="mono">PATCH /api/intros/:id</span></li>
+      <li><span class="mono">POST /api/events/:id/attend</span>, <span class="mono">GET …/matches</span>, roundtable RSVP</li>
+      <li>Challenges, proposals, <span class="mono">GET /api/partner-insights</span></li>
+      <li><span class="mono">PATCH /api/me</span>, <span class="mono">/api/institutions/:id</span>; team overview and reset</li>
+    </ul></div>
+  </div>
+</section>
+
+<section id="next">
+  <div class="eyebrow">From demo to pilot</div>
+  <h2>What changes for a real founding cohort</h2>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>Area</th><th>In the demo</th><th>For the pilot</th></tr></thead>
+    <tbody>
+      <tr><td>Identity</td><td>"View as" switcher, no sign-in</td><td>QS single sign-on; verified institutions; delegated admins; seat management</td></tr>
+      <tr><td>Data store</td><td>JSON file on Replit</td><td>Managed database with backups, migrations and audit</td></tr>
+      <tr><td>QS content</td><td>Public page excerpts, saved copies</td><td>Approved feeds from QS data owners with rights, edition and embargo metadata; editorial CMS with review</td></tr>
+      <tr><td>Pulse</td><td>Three sample Pulses, demo responses</td><td>Legal review of design; consent records; methodology notes; minimum cohort enforced across combined filters</td></tr>
+      <tr><td>Communications</td><td>None sent</td><td>Digest email, calendar invites and notifications, with consent and unsubscribe</td></tr>
+      <tr><td>Partners</td><td>Package rules in code</td><td>Contract-backed entitlements from CRM; moderation queue for partner content</td></tr>
+      <tr><td>Events</td><td>Five calendar entries</td><td>Session-level agenda feed, ticket pool, check-in and recordings</td></tr>
+      <tr><td>Machine access</td><td>Not in scope</td><td>Later: attributed API or MCP access to member-verified data (Authority Strategy, move 4)</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="agent">
+  <div class="eyebrow">Extending it</div>
+  <h2>A starter prompt for Replit Agent or Claude Code</h2>
+  <p class="sub">To change the demo without coding, paste a request like this into Replit's AI assistant. It keeps the build's guardrails in place.</p>
+  <div class="prompt">This is the QS One proof of concept (Node server in /server with no dependencies, React source in /client, built output in /public).
+Keep these rules:
+- Do not add runtime npm dependencies to the root package.json.
+- After changing /client, run "npm run build" so /public is updated.
+- Enforce any new access rule in server/index.js, not only in the UI.
+- Label every content item with its source and date; never present saved content as live.
+- Keep all institutions, people and partners fictional.
+
+Change request: [describe the change, e.g. "add a fourth Pulse on TNE partner selection with five questions and demo responses from six institutions"].</div>
+</section>
+
+</main>
+<footer><div class="wrap">
+  <p>QS One · Stage 2 build brief. Prices, tiers and content are illustrative. All institutions, people and partners in the demo are fictional. QS content is public, linked to its source, and read under the rules above.</p>
+</div></footer>
+</body>
+</html>
