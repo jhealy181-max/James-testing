@@ -1,0 +1,516 @@
+<title>QS Leadership Network Strategy</title>
+<meta name="description" content="Product strategy for a QS membership network for senior higher-education leaders and the partners who serve them.">
+<style>
+:root{
+  --ink:#1f1830;--muted:#675f75;--faint:#8d869a;
+  --purple:#221638;--purple2:#3a2458;--violet:#6b3b9b;--magenta:#d83b88;--aqua:#16858a;--amber:#b7791f;
+  --paper:#f7f6fa;--card:#ffffff;--line:#e6e1ee;--soft:#f1ebf6;--soft2:#eaf5f5;--soft3:#fff1f7;
+  --shadow:0 10px 30px rgba(31,17,52,.06);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --ink:#eeeaf4;--muted:#b8b0c6;--faint:#968fa5;--purple:#170f26;--purple2:#2a1c40;--violet:#b995e0;--magenta:#ff7fb8;--aqua:#5cc7cc;--amber:#e8b25a;
+  --paper:#120d1c;--card:#1b1429;--line:#2f2640;--soft:#241a36;--soft2:#12292b;--soft3:#2c1624;--shadow:none}}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark}}
+:root[data-theme="dark"]{color-scheme:dark;--ink:#eeeaf4;--muted:#b8b0c6;--faint:#968fa5;--purple:#170f26;--purple2:#2a1c40;--violet:#b995e0;--magenta:#ff7fb8;--aqua:#5cc7cc;--amber:#e8b25a;--paper:#120d1c;--card:#1b1429;--line:#2f2640;--soft:#241a36;--soft2:#12292b;--soft3:#2c1624;--shadow:none}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.58 Inter,"Segoe UI",Arial,Helvetica,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:var(--violet)}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px}
+/* cover */
+.cover{background:linear-gradient(118deg,#1d1230 0%,#3a2258 62%,#6d376d 100%);color:#fff;padding:56px 0 48px;position:relative;overflow:hidden}
+.cover:after{content:"";position:absolute;right:-160px;top:-160px;width:420px;height:420px;border-radius:50%;border:1px solid #ffffff22;box-shadow:0 0 0 60px #ffffff06,0 0 0 120px #ffffff04}
+.qs{display:inline-flex;align-items:center;gap:12px;font-weight:800;letter-spacing:.14em;font-size:12px;text-transform:uppercase;color:#e7dcf1}
+.qs b{font-size:30px;letter-spacing:-.08em;color:#fff}
+.cover h1{font-size:clamp(34px,5vw,56px);line-height:1.06;letter-spacing:-.035em;margin:26px 0 14px;max-width:860px}
+.cover .lede{font-size:clamp(17px,2vw,20px);color:#e3d9ec;max-width:780px;margin:0 0 26px}
+.cover .meta{display:flex;flex-wrap:wrap;gap:8px 22px;font-size:13px;color:#cbbfd8}
+.cover .meta span{border-left:2px solid #ff91c5;padding-left:10px}
+/* nav */
+.toc{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:env(safe-area-inset-top,0px);z-index:5}
+.toc .wrap{display:flex;gap:4px;overflow-x:auto;padding-top:8px;padding-bottom:8px;scrollbar-width:thin}
+.toc a{flex:none;text-decoration:none;color:var(--muted);font-size:13px;font-weight:650;padding:6px 10px;border-radius:8px;white-space:nowrap}
+.toc a:hover{background:var(--soft);color:var(--ink)}
+/* sections */
+section{padding:56px 0 8px}
+.eyebrow{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:800;color:var(--magenta);margin:0 0 8px}
+h2{font-size:clamp(26px,3.2vw,36px);line-height:1.12;letter-spacing:-.03em;margin:0 0 12px}
+h3{font-size:18px;line-height:1.3;margin:0 0 8px;letter-spacing:-.01em}
+.sub{color:var(--muted);max-width:820px;font-size:17px;margin:0 0 26px}
+p{margin:0 0 12px}
+.grid{display:grid;gap:16px}
+.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.g4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px;box-shadow:var(--shadow);min-width:0}
+.card p,.card li{color:var(--muted);font-size:15px}
+.card ul{margin:6px 0 0;padding-left:18px}
+.card li{margin:3px 0}
+.tag{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.04em;padding:4px 9px;border-radius:99px;background:var(--soft);color:var(--violet);margin:0 6px 8px 0}
+.tag.aqua{background:var(--soft2);color:var(--aqua)}
+.tag.pink{background:var(--soft3);color:var(--magenta)}
+.num{font-size:34px;font-weight:850;letter-spacing:-.04em;line-height:1;color:var(--ink);margin-bottom:6px}
+.stat p{font-size:13.5px;margin:0}
+.src{font-size:12px;color:var(--faint);margin-top:8px}
+/* executive summary */
+.answer{background:var(--purple);color:#fff;border-radius:18px;padding:30px 32px;margin-bottom:18px}
+.answer .eyebrow{color:#ff9acb}
+.answer p{font-size:20px;line-height:1.45;margin:0;color:#f1eaf7;max-width:900px}
+.answer strong{color:#fff}
+.points{counter-reset:p;display:grid;gap:12px}
+.points li{list-style:none;counter-increment:p;position:relative;padding:16px 18px 16px 58px;background:var(--card);border:1px solid var(--line);border-radius:12px}
+.points li:before{content:counter(p);position:absolute;left:18px;top:15px;width:26px;height:26px;border-radius:50%;background:var(--magenta);color:#fff;font-weight:800;font-size:13px;display:grid;place-items:center}
+.points{padding:0;margin:0}
+.points b{color:var(--ink)}
+.points span{color:var(--muted)}
+/* shift table */
+.shift{display:grid;grid-template-columns:1fr 60px 1fr;gap:0;align-items:stretch}
+.shift .col{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+.shift .arrow{display:grid;place-items:center;font-size:28px;color:var(--magenta);font-weight:300}
+.shift ul{margin:0;padding-left:18px}
+.shift li{margin:6px 0;color:var(--muted)}
+.shift .from h3{color:var(--faint)}
+.shift .to{border-color:var(--magenta);box-shadow:0 0 0 3px var(--soft3)}
+/* tables */
+.tbl{width:100%;border-collapse:separate;border-spacing:0;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;font-size:14.5px}
+.tbl th{background:var(--soft);text-align:left;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:12px 14px}
+.tbl td{padding:13px 14px;border-top:1px solid var(--line);vertical-align:top;color:var(--muted)}
+.tbl td:first-child{color:var(--ink);font-weight:700}
+.tbl tr.hl td{background:var(--soft3)}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+/* module map */
+.stack{display:grid;gap:10px}
+.layer{display:grid;grid-template-columns:190px 1fr;gap:14px;align-items:stretch}
+.layer .lab{background:var(--purple2);color:#fff;border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;justify-content:center}
+.layer .lab small{color:#d9c9ea;font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700}
+.layer .lab b{font-size:16px}
+.layer .mods{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.mod{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.mod h4{margin:0 0 4px;font-size:15px}
+.mod p{margin:0;font-size:13.5px;color:var(--muted)}
+.mod .who{font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--aqua);margin-top:8px}
+/* cycle */
+.cycle{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;position:relative}
+.phase{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;position:relative}
+.phase .step{font-size:11px;font-weight:850;letter-spacing:.12em;text-transform:uppercase;color:var(--magenta)}
+.phase h3{margin-top:4px}
+.phase ul{margin:6px 0 0;padding-left:18px}
+.phase li{font-size:14px;color:var(--muted);margin:4px 0}
+.phase:not(:last-child):after{content:"→";position:absolute;right:-12px;top:50%;transform:translate(50%,-50%);color:var(--magenta);font-size:20px;background:var(--paper);border-radius:50%;width:24px;height:24px;display:grid;place-items:center;z-index:1}
+.loopnote{margin-top:12px;background:var(--soft);border-radius:12px;padding:14px 18px;font-size:14.5px;color:var(--muted)}
+.loopnote b{color:var(--ink)}
+/* callouts */
+.callout{border-left:4px solid var(--magenta);background:var(--card);border-radius:0 12px 12px 0;padding:16px 20px;margin:18px 0;color:var(--muted);box-shadow:var(--shadow)}
+.callout b{color:var(--ink)}
+.callout.aqua{border-color:var(--aqua)}
+/* price */
+.price{font-size:26px;font-weight:850;letter-spacing:-.03em;color:var(--ink);margin:4px 0 2px}
+.price span{font-size:13px;font-weight:500;color:var(--muted);letter-spacing:0}
+.feat{border:2px solid var(--violet)}
+/* bars */
+.bars{display:grid;gap:8px;margin-top:10px}
+.bar{display:grid;grid-template-columns:200px 1fr 70px;gap:10px;align-items:center;font-size:14px}
+.bar .t{height:14px;border-radius:7px;background:var(--soft);overflow:hidden}
+.bar .t i{display:block;height:100%;background:var(--violet);border-radius:7px}
+.bar .t i.p{background:var(--magenta)}
+.bar .t i.a{background:var(--aqua)}
+.bar b{text-align:right}
+/* timeline */
+.tl{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.tl .card{border-top:4px solid var(--violet)}
+.tl .when{font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--violet)}
+.decide li{margin:8px 0}
+footer{padding:48px 0 60px;color:var(--faint);font-size:13px}
+footer li{margin:4px 0}
+@media (max-width:900px){
+  .g3,.g4,.cycle,.tl{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .phase:nth-child(2):after{display:none}
+  .layer{grid-template-columns:1fr}
+}
+@media (max-width:640px){
+  .wrap{padding:0 16px}
+  .g2,.g3,.g4,.cycle,.tl{grid-template-columns:1fr}
+  .phase:not(:last-child):after{display:none}
+  .shift{grid-template-columns:1fr}
+  .shift .arrow{transform:rotate(90deg);height:40px}
+  .bar{grid-template-columns:1fr 60px}.bar .t{grid-column:1/-1;order:3}
+  .answer{padding:22px}.answer p{font-size:17px}
+}
+@media print{
+  .toc{display:none}
+  body{background:#fff}
+  section{break-inside:avoid-page;padding-top:28px}
+  .card,.phase,.mod{box-shadow:none}
+  .cover{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+}
+</style>
+
+<header class="cover">
+  <div class="wrap">
+    <div class="qs"><b>QS</b> Strategy paper · Stage 1 of 3</div>
+    <h1>QS Leadership Network: from content subscription to decision network</h1>
+    <p class="lede">A membership product strategy for senior higher-education leaders and the organisations that want to work with them. It builds on the QS Authority Strategy and <em>The Next Disruption of Information</em>, and on the existing Strategic Intelligence proof of concept.</p>
+    <div class="meta"><span>Version 1.0 · 24 September 2026</span><span>For executive discussion</span><span>Prices and revenue figures are illustrative hypotheses to test</span></div>
+  </div>
+</header>
+
+<nav class="toc" aria-label="Contents"><div class="wrap">
+  <a href="#summary">Summary</a><a href="#why">Why now</a><a href="#proposition">Proposition</a><a href="#clients">Target clients</a><a href="#modules">The offering</a><a href="#content">Content model</a><a href="#summits">Summits</a><a href="#fit">Strategic fit</a><a href="#commercial">Commercial model</a><a href="#trust">Governance</a><a href="#position">Right to win</a><a href="#roadmap">Roadmap</a><a href="#risks">Risks</a><a href="#decisions">Decisions</a>
+</div></nav>
+
+<main class="wrap">
+
+<!-- 1 SUMMARY -->
+<section id="summary">
+  <div class="eyebrow">01 · Executive summary</div>
+  <h2>The answer on one page</h2>
+  <div class="answer">
+    <div class="eyebrow">The proposition</div>
+    <p><strong>QS Leadership Network</strong> is a verified, year-round network of university decision-makers. It puts QS evidence, peer data and QS convening into one member workspace. <strong>Institutions pay for it</strong> because it helps with live decisions. <strong>Partners pay for it</strong> because it is the most credible way to build relationships with the leaders who make those decisions.</p>
+  </div>
+  <ol class="points">
+    <li><b>Don't sell content.</b> <span>AI is making analysis and summaries close to free, and seat-based "insight" is the most exposed way to price information (Gartner fell 50% in 2025). The things that will stay scarce are verified people, data members contribute, trusted evidence with a clear source, and the room. The membership is built on those four.</span></li>
+    <li><b>Two paying sides, one network.</b> <span>Institutional subscriptions priced for the whole institution fund the core. High-value corporate partnerships pay for credible, opt-in access to the network, not for audience data. Governments and university systems can buy for groups of institutions.</span></li>
+    <li><b>Members produce value as well as consume it.</b> <span>Circles (curated peer networks), member-written practice notes and give-to-get "Pulse" benchmarks turn members into contributors. This is the embryo of the contributory data rail set out in the Authority Strategy.</span></li>
+    <li><b>Summits become the heartbeat, not one-off transactions.</b> <span>Each QS summit becomes a peak in a continuous cycle: matchmaking before, closed roundtables and live Pulse during, digests and Circles after. Delegates convert into members, and one-off sponsors convert into annual partners.</span></li>
+    <li><b>Independence is part of the product.</b> <span>A published Independence Charter separates membership, partners and consulting from the rankings. When the ranked party pays, the ranking is exposed, and governance is QS's licence to operate.</span></li>
+    <li><b>Start narrow, prove, then scale.</b> <span>A founding cohort of 15–20 institutions and 3 founding partners, launched at the APAC and Middle East summits in November 2026, with a go/no-go at Global Skills Week in March 2027. Illustrative scale at year 3 is about £8m in annual recurring revenue.</span></li>
+  </ol>
+</section>
+
+<!-- 2 WHY NOW -->
+<section id="why">
+  <div class="eyebrow">02 · Why now</div>
+  <h2>Value is moving away from words and towards trust, data and the room</h2>
+  <p class="sub">Two forces meet. AI is repricing the information industry, and higher education's decisions have become harder than the data available to make them. A membership network sits where the two meet.</p>
+  <div class="grid g4">
+    <div class="card stat"><div class="num">÷280</div><p>Fall in the cost of GPT-3.5-level analysis, Nov 2022 to Oct 2024. Summaries and "insight" are becoming commodities.</p><div class="src">Next Disruption of Information</div></div>
+    <div class="card stat"><div class="num">−50%</div><p>Gartner's share price in 2025, as AI Deep Research substituted for seat-based insight subscriptions.</p><div class="src">Next Disruption of Information</div></div>
+    <div class="card stat"><div class="num">~60%</div><p>Share of Semafor's revenue from invitation-only, sponsor-funded convening of senior leaders. It reached profitability within three years.</p><div class="src">QS Authority Strategy, case §09</div></div>
+    <div class="card stat"><div class="num">~90%</div><p>Politico Pro's renewal rate. It charges for decision-critical intelligence for a small professional group, not for reach.</p><div class="src">QS Authority Strategy, case §06</div></div>
+  </div>
+  <div class="grid g4" style="margin-top:16px">
+    <div class="card stat"><div class="num">−48%</div><p>Fall in Canadian new study permits in 2024. The cap overshot its own target.</p><div class="src">Next Disruption, sector briefs</div></div>
+    <div class="card stat"><div class="num">−36%</div><p>Fall in US F-1 visa issuance in summer 2025. No forecast predicted it.</p><div class="src">Next Disruption, sector briefs</div></div>
+    <div class="card stat"><div class="num">45%</div><p>Share of English providers forecast to be in deficit in 2025–26. One failed intake can threaten solvency.</p><div class="src">OfS, via Next Disruption</div></div>
+    <div class="card stat"><div class="num">12–24 mo</div><p>Lag on official mobility statistics. Leaders need earlier signals, and peers already hold them.</p><div class="src">Next Disruption, sector briefs</div></div>
+  </div>
+  <div class="callout"><b>What this means for us:</b> the "what's scarce?" list in <em>The Next Disruption of Information</em> excludes content, insight and reach, the three things most memberships sell. It includes <b>contributory pools, verified provenance, workflow embedding, convening and methodology trust</b>. This membership is designed around that list.</div>
+</section>
+
+<!-- 3 PROPOSITION -->
+<section id="proposition">
+  <div class="eyebrow">03 · The proposition</div>
+  <h2>A decision network, not a content subscription</h2>
+  <p class="sub">The existing Strategic Intelligence proof of concept got the domains, journeys and guardrails right. The shift is in <b>where the value sits and who pays</b>.</p>
+  <div class="shift">
+    <div class="col from"><h3>From: a strategy portal</h3><ul>
+      <li>A library of briefings and links; value depends on how much we publish</li>
+      <li>Paid per institution, mostly for access to content</li>
+      <li>Peer contact limited to a directory and drafts</li>
+      <li>Events listed as links to the calendar</li>
+      <li>One paying side (universities)</li>
+      <li>Engagement is reading</li>
+    </ul></div>
+    <div class="arrow" aria-hidden="true">→</div>
+    <div class="col to"><h3>To: the leadership network</h3><ul>
+      <li>A verified graph of decision-makers; value grows with every member</li>
+      <li>Priced for the whole institution by depth of participation: Circles, benchmarks, the room</li>
+      <li>Curated Circles, concierge introductions and private networks</li>
+      <li>Summits built into a year-round cycle, including matchmaking and roundtables</li>
+      <li>Two paying sides: institutions and corporate partners, plus government and system buyers</li>
+      <li>Engagement is contribution: Pulse data, practice notes, Q&amp;A</li>
+    </ul></div>
+  </div>
+  <div class="grid g3" style="margin-top:18px">
+    <div class="card"><span class="tag">For institutions</span><h3>"Decide with evidence and with peers who have done it."</h3><p>Role-tailored QS intelligence, benchmarks you can only see by contributing, and trusted counterparts facing the same decision.</p></div>
+    <div class="card"><span class="tag pink">For partners</span><h3>"Earn the trust of the leaders who decide."</h3><p>Credible, opt-in, well-governed access to university leaders through content, roundtables and problem-led collaboration, all year round.</p></div>
+    <div class="card"><span class="tag aqua">For QS</span><h3>"Turn episodic reach into recurring relationships."</h3><p>A single member graph that feeds summits, data products, consulting pipeline and, over time, the contributory data rail.</p></div>
+  </div>
+</section>
+
+<!-- 4 CLIENTS -->
+<section id="clients">
+  <div class="eyebrow">04 · Target clients</div>
+  <h2>Who pays and why</h2>
+  <p class="sub">There are three buyer groups and one entry route. Institutions are the core, partners bring the high-value B2B revenue, and system buyers open the largest deals.</p>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>Buyer group</th><th>Who, specifically</th><th>What they are really paying for</th><th>Role in the model</th></tr></thead>
+    <tbody>
+      <tr><td>1 · Institutional members</td><td>Internationally ambitious universities: research-intensive institutions building global standing, fast-growing universities in Asia, the Middle East, Latin America and Africa, specialist and business schools, TNE and branch-campus operators</td><td>Better decisions on recruitment markets, reputation, skills and AI, with less risk. Peer benchmarks. A seat in the room with global counterparts.</td><td><b>Core recurring revenue.</b> Anchors the network.</td></tr>
+      <tr class="hl"><td>2 · Corporate partners</td><td>Any organisation that needs to reach senior institutional decision-makers: EdTech and enterprise software (SIS, CRM, LMS, AI), cloud and AI platforms, pathway and recruitment providers, student-housing investors, banks and fintech, employers, consultancies, publishers, testing bodies, destination and investment-promotion agencies</td><td>Relationships and category authority with a hard-to-reach audience. Visibility of what leaders prioritise, aggregated and with consent. Co-created pilots with institutions.</td><td><b>High-value B2B revenue.</b> Turns one-off summit sponsorship into annual contracts.</td></tr>
+      <tr><td>3 · System and consortium buyers</td><td>Ministries and national HE agencies, e.g. those with ranking-linked goals (Saudi Vision 2030 targets five universities in the global top 200); university alliances and consortia; scholarship bodies</td><td>Improvement across a cohort of institutions. A private network space for their group. System-level benchmarks.</td><td><b>Largest single deals.</b> Brings in many institutions at once.</td></tr>
+      <tr><td>Entry route · Individual Fellows</td><td>Senior leaders whose institution is not yet a member, including summit delegates after their trial</td><td>Personal access to intelligence and the Exchange</td><td><b>Acquisition funnel</b> into institutional membership</td></tr>
+    </tbody>
+  </table></div>
+
+  <h3 style="margin-top:26px">Who uses it inside a member institution</h3>
+  <div class="grid g3">
+    <div class="card"><span class="tag">Executive</span><h3>Vice-chancellor, president, provost</h3><p>Portfolio, international positioning, partnerships. <b>Returns for:</b> the Executive Council, monthly briefing, closed summit roundtables.</p></div>
+    <div class="card"><span class="tag">Strategy</span><h3>Strategy and planning directors</h3><p>Peer benchmarking and scenarios. <b>Returns for:</b> Pulse benchmarks, rankings-to-strategy frameworks.</p></div>
+    <div class="card"><span class="tag">Recruitment</span><h3>International and recruitment directors</h3><p>Source-market risk, agents, TNE. <b>Returns for:</b> Global Student Flows signals, the recruitment risk Circle, deposit and intake Pulse.</p></div>
+    <div class="card"><span class="tag">Research</span><h3>Research and reputation leaders</h3><p>Visibility and collaboration. <b>Returns for:</b> the reputation Circle, research partnership matching.</p></div>
+    <div class="card"><span class="tag">Skills</span><h3>Careers and employability leaders</h3><p>Employer demand and outcomes. <b>Returns for:</b> employer partners in the network, Global Skills Week.</p></div>
+    <div class="card"><span class="tag">Innovation</span><h3>Digital and academic innovation leaders</h3><p>AI governance, assessment, EdTech choices. <b>Returns for:</b> the AI Circle, the partner Challenge Board, vendor evaluations shared by peers.</p></div>
+  </div>
+</section>
+
+<!-- 5 MODULES -->
+<section id="modules">
+  <div class="eyebrow">05 · The offering</div>
+  <h2>Seven modules in three layers</h2>
+  <p class="sub">The four existing domains stay as the organising spine: <b>Global talent &amp; mobility · Institutions &amp; reputation · Skills, jobs &amp; outcomes · Innovation &amp; new models</b>. Every module is tagged to them.</p>
+  <div class="stack">
+    <div class="layer">
+      <div class="lab"><small>Layer 1 · Connect</small><b>The network</b></div>
+      <div class="mods">
+        <div class="mod"><h4>① Leader Profiles &amp; Directory</h4><p>Verified institution and individual profiles: priorities, challenges and what each member is open to. Peer discovery by shared challenge, with concierge introductions that require both sides' consent.</p><div class="who">All tiers</div></div>
+        <div class="mod"><h4>② Circles</h4><p>Bespoke networks. <b>Domain Circles</b> are open working groups. <b>Peer Circles</b> are curated cohorts of 8–12 institutions working on a shared challenge. <b>Regional Chapters</b> are aligned to the summit regions. <b>Private Networks</b> are hosted spaces for alliances and consortia.</p><div class="who">Leadership tier and above</div></div>
+      </div>
+    </div>
+    <div class="layer">
+      <div class="lab"><small>Layer 2 · Know</small><b>Intelligence &amp; data</b></div>
+      <div class="mods">
+        <div class="mod"><h4>③ Intelligence</h4><p>Central QS content: role-tailored Signals, monthly executive briefings, data stories from QS datasets (e.g. Global Student Flows), frameworks and summit digests. Every item shows its source and date.</p><div class="who">All tiers</div></div>
+        <div class="mod"><h4>④ Member Exchange</h4><p>Content written by members: practice notes, case examples, "Ask the network" Q&amp;A, session notes. Only verified people can post, and moderation follows the Chatham House rule where requested.</p><div class="who">All tiers</div></div>
+        <div class="mod"><h4>⑤ Pulse Benchmarks</h4><p>Give-to-get peer data. Members answer short operational pulses (e.g. deposits by source market, stage of AI adoption) and see aggregated results only after contributing. Results are suppressed below a minimum cohort size.</p><div class="who">Contribute: all · Cohort cuts: Leadership+</div></div>
+      </div>
+    </div>
+    <div class="layer">
+      <div class="lab"><small>Layer 3 · Meet &amp; transact</small><b>Convening &amp; partners</b></div>
+      <div class="mods">
+        <div class="mod"><h4>⑥ Convene</h4><p>Summit matchmaking, member lounges, closed-door roundtables, virtual roundtables between summits and an annual Members' Forum. Includes a pool of summit passes.</p><div class="who">Pass pool: Leadership+</div></div>
+        <div class="mod"><h4>⑦ Partner Hub</h4><p>Verified partner profiles, clearly labelled partner briefings, partner-hosted roundtables and a <b>Challenge Board</b> where institutions post problems and partners propose pilots. Members choose whether they can be contacted.</p><div class="who">Partners · members opt in</div></div>
+      </div>
+    </div>
+  </div>
+  <div class="callout aqua"><b>How it links to QS data products:</b> the membership doesn't give away licensed datasets. It is their <b>shop window and way in</b>. Data stories and Pulse show what the evidence can do, and the next step (a Student Recruitment Dataset, AI Capability Assessment or consulting project) is a clear, separate purchase.</div>
+</section>
+
+<!-- 6 CONTENT MODEL -->
+<section id="content">
+  <div class="eyebrow">06 · Content model</div>
+  <h2>Central QS evidence and member-written content, with trust built into both</h2>
+  <p class="sub">The mix matters. Content from QS provides the authority, and content from members provides relevance and makes the network hard to leave. Both follow one rule: <b>every claim shows who said it, when, and on what evidence.</b></p>
+  <div class="grid g2">
+    <div class="card"><span class="tag">Central · QS-produced</span><h3>Evidence and interpretation</h3><ul>
+      <li><b>Signals:</b> short, role-matched items, each ending with a "so what" and a suggested action</li>
+      <li><b>Data stories:</b> drawn from public QS research (Global Student Flows, World Future Skills Index, rankings methodology), with a link to the source</li>
+      <li><b>Executive briefing:</b> a monthly note per domain, written for vice-chancellors and their executive teams</li>
+      <li><b>Frameworks:</b> market-prioritisation canvas, TNE partner evaluation, AI roadmap</li>
+      <li><b>Summit digests:</b> what was said in the room, turned into actions</li>
+    </ul><p class="src">AI can help summarise and tag; an analyst signs off every item.</p></div>
+    <div class="card"><span class="tag pink">Member · user-generated</span><h3>Practice and peer signal</h3><ul>
+      <li><b>Practice notes:</b> "how we did it" write-ups by named leaders</li>
+      <li><b>Ask the network:</b> questions answered by peers, with the best answers promoted</li>
+      <li><b>Pulse results:</b> aggregated, anonymised operational data</li>
+      <li><b>Circle outputs:</b> charters, shared templates, quarterly outputs</li>
+      <li><b>Partner content:</b> always labelled "Partner", never mixed into QS editorial</li>
+    </ul><p class="src">Only verified posters, moderated by coordinators; members can report posts; no named data about prospective students.</p></div>
+  </div>
+  <div class="scroll" style="margin-top:16px"><table class="tbl">
+    <thead><tr><th>Trust label</th><th>Meaning</th><th>Example</th></tr></thead>
+    <tbody>
+      <tr><td><span class="tag">QS Evidence</span></td><td>Published QS research or data, linked to the source</td><td>QS Global Student Flows report</td></tr>
+      <tr><td><span class="tag aqua">QS Analysis</span></td><td>Interpretation by a QS analyst; views are labelled as views</td><td>"What the new UK levy means for your 2027 intake"</td></tr>
+      <tr><td><span class="tag">Member Practice</span></td><td>Written by a verified member; not endorsed by QS</td><td>"How we rebuilt our agent network in 12 months"</td></tr>
+      <tr><td><span class="tag aqua">Pulse</span></td><td>Aggregated member data with cohort size (n) and date</td><td>"Postgraduate deposits vs last year, n=23, Oct 2026"</td></tr>
+      <tr><td><span class="tag pink">Partner</span></td><td>Paid or partner-authored; editorially separate</td><td>A partner-hosted roundtable summary</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- 7 SUMMITS -->
+<section id="summits">
+  <div class="eyebrow">07 · Connection to QS conferences &amp; summits</div>
+  <h2>Summits become the heartbeat of a year-round cycle</h2>
+  <p class="sub">Today a summit is a peak of engagement followed by silence. The membership fills the gaps between summits, and the summits in turn become the membership's main way to recruit and renew.</p>
+  <div class="cycle">
+    <div class="phase"><div class="step">Before · 6 weeks out</div><h3>Prime</h3><ul><li>Suggested meetings between members, matched on their profiles</li><li>Pre-reads and Pulse questions for the summit</li><li>Circle meet-ups scheduled into the agenda</li><li>Partners invited to host themed roundtables</li></ul></div>
+    <div class="phase"><div class="step">During</div><h3>Convene</h3><ul><li>Member lounge and closed-door roundtables (Chatham House)</li><li>Live Pulse polls, with results shown in the room</li><li>Structured one-to-one meetings between members and partners</li><li>Delegates who aren't members get a 60-day trial</li></ul></div>
+    <div class="phase"><div class="step">After · 2 weeks</div><h3>Capture</h3><ul><li>Summit digest and recordings go into the library</li><li>Actions and introductions followed up by coordinators</li><li>Roundtable outputs published as practice notes</li><li>Trial users onboarded into the relevant Circles</li></ul></div>
+    <div class="phase"><div class="step">Between summits</div><h3>Sustain</h3><ul><li>Monthly Circle sessions and virtual roundtables</li><li>Signals and briefings keep the questions live</li><li>Challenge Board pilots run to results</li><li>Outputs brought back to the next summit stage</li></ul></div>
+  </div>
+  <div class="loopnote"><b>The commercial loop:</b> summit delegates become members, and one-off summit sponsors become annual partners, because a summit sponsorship bundled with year-round membership access is worth more than either alone. Member outputs in turn give summit agendas more original, better-evidenced content, which strengthens QS's convening brand.</div>
+
+  <h3 style="margin-top:26px">Regional Chapters follow the QS calendar</h3>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>QS event (2026–27 calendar)</th><th>Chapter or Circle it anchors</th><th>Membership moment</th></tr></thead>
+    <tbody>
+      <tr><td>Higher Ed Summit: Americas · Guadalajara · 30 Sep–2 Oct 2026</td><td>Americas Chapter</td><td>Concept testing with 10–15 leaders (research sprint)</td></tr>
+      <tr class="hl"><td>Higher Ed Summit: Asia Pacific · Bali · 3–5 Nov 2026</td><td>APAC Chapter · Recruitment risk Circle</td><td><b>Founding-cohort launch</b> and first live Pulse</td></tr>
+      <tr class="hl"><td>Higher Ed Summit: Middle East · Abu Dhabi · 22–24 Nov 2026</td><td>Middle East Chapter · system buyers</td><td><b>Founding cohort, part 2</b>; conversations with system and ministry buyers</td></tr>
+      <tr><td>Reimagine Education · London · 6–8 Dec 2026</td><td>AI &amp; assessment Circle · EdTech partners</td><td>First Partner Hub roundtables; Challenge Board launch</td></tr>
+      <tr><td>Global Skills Week · Washington, D.C. · 23–25 Mar 2027</td><td>Skills &amp; employer partnerships Circle</td><td>Employers join as partners; <b>go/no-go review of the pilot</b></td></tr>
+    </tbody>
+  </table></div>
+  <p class="src">Dates are as listed in the QS conference calendar used by the existing proof of concept. Check them against the live calendar before publishing.</p>
+</section>
+
+<!-- 8 STRATEGIC FIT -->
+<section id="fit">
+  <div class="eyebrow">08 · Fit with QS strategy</div>
+  <h2>The membership connects QS's five layers into one loop</h2>
+  <p class="sub">The Authority Strategy says QS already owns every layer of the authority operating model (rankings and data, media, events, data subscriptions, decision intelligence) but not the architecture that joins them. The membership is that architecture for the executive audience.</p>
+  <div class="grid g2">
+    <div class="card">
+      <span class="tag">Value spectrum</span><h3>Moving left on the value map</h3>
+      <p>QS sits in band 3 (authority verdict). Selling seat-based insight would pull it right, towards the AI-exposed bands. The membership instead strengthens the two most durable positions:</p>
+      <ul>
+        <li><b>Band 5 · Convening:</b> the least automatable leg, turned from episodic to continuous</li>
+        <li><b>Towards band 2 · Operating data:</b> Pulse benchmarks and decision tools that sit inside members' planning cycles</li>
+      </ul>
+    </div>
+    <div class="card">
+      <span class="tag">Horizons</span><h3>Distribution for H1, a bridge to H2</h3>
+      <ul>
+        <li><b>H1.1 Student-demand &amp; mobility intelligence:</b> the mobility domain and recruitment Pulse become a test bed and sales route</li>
+        <li><b>H1.2 TNE &amp; market entry:</b> the TNE Circle turns bespoke consulting demand into a repeatable service</li>
+        <li><b>H2 Skills, work &amp; talent:</b> employers join as partners, strengthening the university–employer link QS already owns</li>
+        <li><b>HolonIQ:</b> the obvious engine for Signals and data stories</li>
+      </ul>
+    </div>
+  </div>
+  <div class="scroll" style="margin-top:16px"><table class="tbl">
+    <thead><tr><th>Authority playbook move</th><th>How the membership contributes</th><th>Maturity</th></tr></thead>
+    <tbody>
+      <tr><td>1 · Sell the mirror</td><td>Members see QS evidence in context; demand for performance analytics is captured and passed to the data team</td><td>Pilot</td></tr>
+      <tr><td>2 · Build the give-to-get rail</td><td>Pulse is a small, consented contribution loop: it tests contribution contracts before scaling them</td><td>Pilot</td></tr>
+      <tr><td>3 · Price the flow, not the seat</td><td>Institution-wide pricing by depth of participation; no per-seat reading fees</td><td>Pilot</td></tr>
+      <tr><td>4 · Become the machine's ground truth</td><td>Every item carries its source, provenance and date, ready for later delivery to AI agents (API or MCP)</td><td>Scale</td></tr>
+      <tr><td>5 · Claim the next benchmark</td><td>Skills Circles and employer partners co-develop the evidence base for an AI-era employability standard</td><td>Scale</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- 9 COMMERCIAL -->
+<section id="commercial">
+  <div class="eyebrow">09 · Commercial model</div>
+  <h2>Subscriptions for the core, partnerships for high value</h2>
+  <p class="sub">Every price below is <b>illustrative</b> and will be tested in the pilot. The structure follows the evidence: <b>institution-wide, not per seat</b>, and tiers based on depth of participation, not on amount of content.</p>
+
+  <h3>Institutional membership</h3>
+  <div class="grid g3">
+    <div class="card"><span class="tag">Network</span><div class="price">£15k <span>/ institution / year</span></div><p>For institutions starting out.</p><ul><li>Intelligence, Signals and briefings for all leaders at director level and above</li><li>Member Exchange: read and post</li><li>Contribute to Pulse; see headline results</li><li>Directory and concierge introductions (2 per quarter)</li></ul></div>
+    <div class="card feat"><span class="tag pink">Leadership · core offer</span><div class="price">£40k <span>/ institution / year</span></div><p>For institutions actively using peers to make decisions.</p><ul><li>Everything in Network</li><li>Unlimited Domain Circles and a Regional Chapter</li><li>Pulse cuts by cohort (region, type)</li><li>Member roundtables at summits and online</li><li>4 summit passes a year</li></ul></div>
+    <div class="card"><span class="tag">Council</span><div class="price">£85k <span>/ institution / year</span></div><p>For executive teams wanting a bespoke network.</p><ul><li>Everything in Leadership</li><li>Executive Council seat for the vice-chancellor or president</li><li>A curated private Peer Circle with a QS facilitator</li><li>A bespoke benchmark cohort</li><li>10 summit passes; 20 analyst hours</li></ul></div>
+  </div>
+  <div class="grid g2" style="margin-top:14px">
+    <div class="card"><span class="tag aqua">System &amp; consortium</span><div class="price">From £150k <span>/ year</span></div><p>For ministries, agencies and university alliances: membership for a cohort of institutions, a private network space and system-level benchmarks.</p></div>
+    <div class="card"><span class="tag aqua">Individual Fellow</span><div class="price">£1.2k <span>/ person / year</span></div><p>An entry route for leaders whose institution isn't yet a member: Intelligence and Exchange. Credited against an institutional upgrade.</p></div>
+  </div>
+
+  <h3 style="margin-top:26px">Corporate partnerships (agnostic by sector)</h3>
+  <div class="grid g3">
+    <div class="card"><span class="tag pink">Insight Partner</span><div class="price">From £60k <span>/ year</span></div><ul><li>Verified partner profile and Partner Hub listing</li><li>One labelled partner briefing per quarter</li><li>Two hosted roundtables a year (online or at a summit)</li><li>Access to the Challenge Board</li></ul></div>
+    <div class="card feat"><span class="tag pink">Domain Partner</span><div class="price">From £175k <span>/ year</span></div><ul><li>Named partner for one domain (e.g. Mobility), with at most two per domain</li><li>Research co-developed with QS, with QS keeping editorial control</li><li>Hosts a Domain Circle session each quarter</li><li>Aggregated, consented "what leaders prioritise" insight</li><li>Summit presence built into the package</li></ul></div>
+    <div class="card"><span class="tag pink">Principal Partner</span><div class="price">From £400k <span>/ year, multi-year</span></div><ul><li>Covers all domains; headline partner of the Members' Forum</li><li>A seat on the network's advisory panel (with no influence over rankings or editorial)</li><li>A bespoke programme of pilots with member institutions</li></ul></div>
+  </div>
+  <div class="callout"><b>What partners never get:</b> member contact details without opt-in, personal-level data, influence over editorial or rankings, or content presented as QS's own.</div>
+
+  <h3 style="margin-top:26px">Illustrative year-3 scale (a scenario, not a forecast)</h3>
+  <div class="card">
+    <div class="bars">
+      <div class="bar"><span>Institutions (120)</span><div class="t"><i style="width:57%"></i></div><b>£4.7m</b></div>
+      <div class="bar"><span>Corporate partners (19)</span><div class="t"><i class="p" style="width:29%"></i></div><b>£2.4m</b></div>
+      <div class="bar"><span>System &amp; consortium (3)</span><div class="t"><i class="a" style="width:7%"></i></div><b>£0.6m</b></div>
+      <div class="bar"><span>Individual Fellows (400)</span><div class="t"><i class="a" style="width:6%"></i></div><b>£0.5m</b></div>
+    </div>
+    <p class="src" style="margin-top:14px">Assumptions: 40 Network, 60 Leadership and 20 Council institutions; 12 Insight, 5 Domain and 2 Principal partners. Total ≈ <b>£8.2m annual recurring revenue</b>, before any pull-through to summits, data products or consulting. For scale: QS revenue was about £50m in 2023 (Next Disruption of Information). Pilot year: 15–20 founding institutions at a 50% founding rate plus 3 founding partners ≈ £0.5–0.8m.</p>
+  </div>
+</section>
+
+<!-- 10 TRUST -->
+<section id="trust">
+  <div class="eyebrow">10 · Governance &amp; trust</div>
+  <h2>The Independence Charter</h2>
+  <p class="sub">"Ranked-party-pays" is the recurring failure mode for any authority. The Chirikov (2022) finding about QS services is exactly the kind of challenge this product must not amplify. The charter is published and applies to members, partners and staff alike.</p>
+  <div class="grid g3">
+    <div class="card"><h3>1 · No bearing on rankings</h3><p>Membership, tier, Circle participation and partner status have no bearing on any QS ranking, survey or methodology decision. Rankings staff don't advise members on their own scores.</p></div>
+    <div class="card"><h3>2 · Contributed data is ring-fenced</h3><p>Pulse data is used only for member benchmarks unless separate, specific consent is given. It is never an input to rankings.</p></div>
+    <div class="card"><h3>3 · Partner content is always labelled</h3><p>Partner material is always marked and never presented as QS analysis. QS keeps editorial control of co-developed research.</p></div>
+    <div class="card"><h3>4 · Members control contact</h3><p>No partner contact without the member's opt-in. No personal data is sold. Introductions need both sides' consent.</p></div>
+    <div class="card"><h3>5 · Every claim shows its source</h3><p>Source, date, author type and cohort size are on every item. Illustrative or sample content is marked as such.</p></div>
+    <div class="card"><h3>6 · Independent oversight</h3><p>An annual review by a panel that includes independent members, with published findings.</p></div>
+  </div>
+</section>
+
+<!-- 11 POSITION -->
+<section id="position">
+  <div class="eyebrow">11 · Competitive position</div>
+  <h2>Why QS can win this</h2>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>Alternative</th><th>What they offer</th><th>Where QS is different</th></tr></thead>
+    <tbody>
+      <tr><td>Research memberships (US-centred)</td><td>Best-practice research and advisory for institutions</td><td>Global reach across 6+ summit regions; a live network rather than research reports</td></tr>
+      <tr><td>Times Higher Education</td><td>Rankings, media and events; a roll-up of data and audience businesses under private-equity ownership (per the Authority Strategy)</td><td>QS's own evidence (ISS, employer survey, Global Student Flows, HolonIQ) plus a network that members contribute to</td></tr>
+      <tr><td>Sector associations (national and regional)</td><td>Representation, policy and conferences</td><td>Cross-border peers, data-led benchmarks, a neutral convener, and partners in the same space</td></tr>
+      <tr><td>Specialist consortia (e.g. on digital education or AI)</td><td>Working groups on single themes</td><td>Four connected domains; the Responsible AI Consortium can become a Circle inside the network</td></tr>
+      <tr><td>LinkedIn and general networks</td><td>Reach and messaging</td><td>Verified senior audience, curated Circles, trust labels and the room</td></tr>
+    </tbody>
+  </table></div>
+  <div class="callout aqua"><b>QS's unfair advantages:</b> (1) convening at global scale, since QS already fills the room; (2) proprietary demand and employer evidence; (3) the university–employer link; (4) a brand leaders already engage with at every planning cycle. The one thing to protect above all is (5) perceived independence.</div>
+</section>
+
+<!-- 12 ROADMAP -->
+<section id="roadmap">
+  <div class="eyebrow">12 · Roadmap &amp; measures</div>
+  <h2>Prove it with a founding cohort, then scale</h2>
+  <div class="tl">
+    <div class="card"><div class="when">Oct 2026 · weeks 1–6</div><h3>Validate</h3><p>Test with 15 leaders at the Americas summit. Choose founding institutions and partners. Agree the charter and data rights. Build the pilot app from the proof of concept.</p></div>
+    <div class="card"><div class="when">Nov 2026 · APAC + Middle East</div><h3>Launch the founding cohort</h3><p>15–20 institutions and 3 partners. 4 Circles (recruitment risk, TNE, AI, reputation). First live Pulse run in the room.</p></div>
+    <div class="card"><div class="when">Dec 2026 – Mar 2027</div><h3>Operate</h3><p>Monthly Circles, Signals and briefings, Challenge Board, Partner Hub at Reimagine Education. Price tests.</p></div>
+    <div class="card"><div class="when">Mar 2027 · Global Skills Week</div><h3>Decide</h3><p>Go/no-go on wider build, pricing and staffing, against the measures below.</p></div>
+  </div>
+  <div class="grid g3" style="margin-top:16px">
+    <div class="card"><span class="tag">Institutions</span><ul><li>≥70% activated within 30 days</li><li>≥3 active leaders per institution</li><li>≥50% of leaders active each month</li><li>≥60% contribute to Pulse</li><li>Stated intent to renew</li></ul></div>
+    <div class="card"><span class="tag pink">Partners</span><ul><li>Meetings brokered with members who opted in</li><li>Challenge Board pilots started</li><li>Member rating of partner content</li><li>Partner intent to renew or upgrade</li></ul></div>
+    <div class="card"><span class="tag aqua">QS flywheel</span><ul><li>Summit delegate → trial → member conversion</li><li>Sponsor → annual partner conversion</li><li>Qualified leads for data products and consulting</li><li>Content freshness and source coverage</li></ul></div>
+  </div>
+  <p class="src" style="margin-top:12px">Pilot resourcing, taken from the existing brief: a narrow pilot of 6–8 FTE-equivalents (product lead, membership operations, two coordinators, an editor or analyst, and a full-stack engineer), drawing on existing editorial and events functions.</p>
+</section>
+
+<!-- 13 RISKS -->
+<section id="risks">
+  <div class="eyebrow">13 · Risks</div>
+  <h2>What could go wrong, and how we reduce the risk</h2>
+  <div class="scroll"><table class="tbl">
+    <thead><tr><th>Risk</th><th>Mitigation</th></tr></thead>
+    <tbody>
+      <tr><td>Being seen as a conflict with the rankings</td><td>A published Independence Charter; organisational separation; independent review</td></tr>
+      <tr><td>A cold start: an empty network</td><td>Launch at summits with an existing audience; coordinators run each Circle; seed with QS content and the founding cohort</td></tr>
+      <tr><td>Partners crowding out members</td><td>Caps on partner content; members opt in to contact; labelling; members rate partner content</td></tr>
+      <tr><td>Cannibalising QS consulting and data sales</td><td>Membership is the shop window: licensed data stays a separate purchase, with a clear referral path</td></tr>
+      <tr><td>Overlap with the Responsible AI Consortium and existing programmes</td><td>Fold into the network as Circles, with cross-entitlement rules agreed up front</td></tr>
+      <tr><td>Data protection and competition law</td><td>Minimum Pulse cohort size; no pricing or plans specific to one institution; legal review of the Pulse design</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<!-- 14 DECISIONS -->
+<section id="decisions">
+  <div class="eyebrow">14 · Decisions requested</div>
+  <h2>What we need from leadership</h2>
+  <div class="card"><ol class="decide">
+    <li><b>Endorse the positioning:</b> a two-sided decision network, not a content subscription.</li>
+    <li><b>Approve a founding-cohort pilot</b> launching at the APAC and Middle East summits (Nov 2026), with a go/no-go at Global Skills Week (Mar 2027).</li>
+    <li><b>Mandate an Independence Charter</b>, owned jointly by rankings governance and the membership lead.</li>
+    <li><b>Name owners</b> for each of the four domains and one data owner for the Pulse and Global Student Flows content.</li>
+    <li><b>Agree the partner rules:</b> sector-neutral, labelled, contact only with member opt-in.</li>
+    <li><b>Confirm how the product fits with existing programmes</b> (Responsible AI Consortium, HolonIQ, consulting, summit sponsorship) before pricing goes to market.</li>
+  </ol></div>
+</section>
+
+</main>
+
+<footer><div class="wrap">
+  <p><b>Sources used.</b></p>
+  <ul>
+    <li>QS Corporate Development, <em>Owning the information authority</em> (Authority Strategy working paper, June 2026): value spectrum, three horizons and peer cases (Semafor, Politico Pro, Gartner, Legal Benchmarking Group, Bloomberg, MSCI).</li>
+    <li>QS strategy, <em>The Next Disruption of Information</em> (July 2026): what stays scarce, the five playbook moves, governance, and sector demand-shock data.</li>
+    <li>QS Strategic Intelligence proof of concept and <em>PRODUCT_BRIEF.md</em> (September 2026): domains, personas, QS data integration boundaries and pilot plan.</li>
+    <li>Public QS pages referenced by the proof of concept: Global Student Flows, Student Recruitment Datasets, AI Capability Assessments, Responsible AI Consortium, conference calendar.</li>
+  </ul>
+  <p>All prices, tiers, revenue scenarios and partner packages are illustrative hypotheses for testing. They are not QS offers. Figures quoted from the two strategy papers are as reported in those documents.</p>
+</div></footer>
+
