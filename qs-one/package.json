@@ -1,0 +1,14 @@
+{
+  "name": "qs-one",
+  "version": "0.3.0",
+  "private": true,
+  "description": "QS One membership proof of concept: Node API + React client. No runtime dependencies.",
+  "type": "module",
+  "engines": { "node": ">=18.17" },
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "cd client && npm install --no-audit --no-fund && npm run build",
+    "dev:client": "cd client && npm run dev",
+    "reset-data": "node -e \"require('fs').rmSync('data/db.json',{force:true});console.log('Demo data will be recreated on next start.')\""
+  }
+}
