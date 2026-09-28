@@ -1,0 +1,397 @@
+<title>QS One Product Specification</title>
+<meta name="description" content="Product specification for the QS One relaunch: Intelligence, Communities, Pulse and Connect on one tier ladder.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* Single light theme, deliberately matching QS Rankings Preview (MyQS). */
+:root{
+  color-scheme:light;
+  --ink:#161616;--ink2:#333;--muted:#5c5c5c;--faint:#8a8a8a;
+  --bg:#f4f4f4;--card:#fff;--line:#e3e3e3;--line2:#d2d2d2;
+  --amber:#efa800;--amberDark:#c98b00;--logo:#f7a600;--amberSoft:#fbe9b7;--amberLine:#e9b949;--amberWash:#fff8e8;
+  --grey:#a8a8a8;--greySoft:#ededed;--sel:#eaf2fe;--selLine:#3b74db;--navy:#20397f;
+  --green:#2f9d6a;--greenSoft:#eef6f1;--yellow:#d99a06;--yellowSoft:#fdf6e7;--red:#d24a4a;--redSoft:#fbefef;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Figtree,"Segoe UI",system-ui,Arial,sans-serif}
+a{color:var(--ink)}
+.top{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:env(safe-area-inset-top,0px);z-index:10}
+.top .in{max-width:1320px;margin:0 auto;padding-inline:24px;height:68px;display:flex;align-items:center;gap:14px}
+.logo{width:40px;height:40px;background:var(--logo);color:#fff;font-weight:800;font-size:18px;letter-spacing:-.06em;display:grid;place-items:center;flex:none}
+.prod{font-size:24px;font-weight:500;white-space:nowrap}
+.sub{color:var(--faint);font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ver{margin-left:auto;border:1px solid var(--line2);border-radius:6px;padding:8px 14px;font-weight:600;font-size:14px;white-space:nowrap}
+.tabs{background:#fff;box-shadow:0 4px 10px rgba(0,0,0,.05);position:sticky;top:calc(env(safe-area-inset-top,0px) + 68px);z-index:9}
+.tabs .in{max-width:1320px;margin:0 auto;padding:12px 24px;display:flex;gap:12px;overflow-x:auto;scrollbar-width:none}
+.tabs .in::-webkit-scrollbar{display:none}
+.tab{flex:none;border:1px solid var(--line);border-radius:8px;padding:8px 14px;text-decoration:none;display:grid;min-width:150px;background:#fff}
+.tab b{font-size:17px}
+.tab span{font-size:13px;color:var(--muted)}
+.tab:hover{background:var(--sel);border-color:var(--selLine)}
+main{max-width:1320px;margin:0 auto;padding-inline:24px;padding-block:8px 64px}
+h1{font-size:clamp(32px,4vw,48px);font-weight:600;letter-spacing:-.02em;line-height:1.08;margin:48px 0 12px;text-wrap:balance}
+.lede{font-size:clamp(18px,1.9vw,26px);font-weight:600;line-height:1.35;margin:0 0 28px;max-width:1150px;text-wrap:balance}
+.panel{background:#fff;border-radius:12px;padding:28px;margin-bottom:24px}
+.ph{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+.ph h2{font-size:clamp(22px,2.4vw,30px);font-weight:600;margin:0;letter-spacing:-.01em;text-wrap:balance}
+.ph p{margin:6px 0 0;color:var(--muted);max-width:80ch}
+.num{font-size:12.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--amberDark)}
+.notice{background:var(--amberSoft);border:1px solid var(--amberLine);border-radius:8px;padding:13px 18px;font-weight:600;text-align:center}
+.notice.l{text-align:left;font-weight:500}
+.notice.g{background:#f6f6f6;border-color:var(--line)}
+.grid{display:grid;gap:18px}.g2{grid-template-columns:repeat(2,minmax(0,1fr))}.g3{grid-template-columns:repeat(3,minmax(0,1fr))}.g4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.card{border:1px solid var(--line);border-radius:12px;padding:20px;background:#fff;min-width:0}
+.card h3{margin:0 0 6px;font-size:19px;font-weight:600}
+.card p,.card li{color:var(--muted);font-size:15px}
+.card ul{margin:6px 0 0;padding-left:18px}.card li{margin:3px 0}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.tile{padding:24px 18px;text-align:center;border-right:1px solid var(--line);display:grid;gap:8px;align-content:center;min-height:170px}
+.tile:last-child{border-right:0}
+.tile .l{font-size:19px;line-height:1.4}
+.tile .v{font-size:36px;font-weight:700;letter-spacing:-.02em;line-height:1.1;font-variant-numeric:tabular-nums}
+.tile .s{font-size:14px;color:var(--muted)}
+.status4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.st{border-radius:8px;padding:16px;display:grid;gap:8px}
+.st b{font-size:16px}
+.st span{color:var(--ink2);font-size:15px}
+.st.gr{background:var(--greenSoft)}.st.ye{background:var(--yellowSoft)}.st.re{background:var(--redSoft)}.st.bl{background:var(--sel)}
+.ico{display:inline-grid;place-items:center;width:18px;height:18px;border-radius:50%;color:#fff;font-size:11px;font-weight:800;margin-right:6px;vertical-align:-3px}
+.ico.ok{background:var(--green)}.ico.w{background:var(--yellow)}.ico.x{background:var(--red)}.ico.i{background:var(--navy)}
+.tag{display:inline-block;font-size:12.5px;font-weight:600;border-radius:99px;padding:3px 10px;background:#f0f0f0;margin:0 6px 6px 0}
+.tag.a{background:var(--amberSoft);color:#7a5300}.tag.n{background:var(--navy);color:#fff}.tag.gn{background:var(--greenSoft);color:#1d6e48}.tag.b{background:var(--sel);color:#1f4fa8}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table{width:100%;border-collapse:separate;border-spacing:0;font-size:14.5px}
+th,td{padding:12px 14px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+thead th{background:#fafafa;font-size:14px}
+th.cur{background:var(--sel);box-shadow:inset 0 3px var(--selLine)}
+td:first-child{font-weight:700}
+td.m,th.m{font-weight:400}
+.price{font-size:22px;font-weight:700;display:block}
+.price small{font-size:12.5px;font-weight:500;color:var(--muted)}
+.comp{display:grid;grid-template-columns:260px minmax(0,1fr);gap:24px;align-items:start}
+.comp-side{border-radius:12px;padding:20px;background:var(--amberWash);border:1px solid var(--amberLine);display:grid;gap:10px;position:sticky;top:150px}
+.comp-side .job{font-size:28px;font-weight:700;letter-spacing:-.02em}
+.comp-side .k{font-size:12.5px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.dl{display:grid;grid-template-columns:180px minmax(0,1fr);border-top:1px solid var(--line)}
+.dl dt,.dl dd{margin:0;padding:12px 0;border-bottom:1px solid var(--line)}
+.dl dt{font-weight:700;padding-right:14px}
+.dl dd{color:var(--ink2)}
+.dl dd ul{margin:0;padding-left:18px}
+.mvp{font-size:11.5px;font-weight:800;letter-spacing:.06em;border-radius:4px;padding:2px 6px;margin-right:6px;vertical-align:1px}
+.mvp.y{background:var(--amber);color:#161616}.mvp.n{background:#e8e8e8;color:#555}
+.loop{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;position:relative}
+.loop .card{border-top:4px solid var(--amber)}
+.loop .card:nth-child(2){border-top-color:#161616}.loop .card:nth-child(3){border-top-color:var(--grey)}.loop .card:nth-child(4){border-top-color:var(--selLine)}
+.flow{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:14px;font-size:14.5px;color:var(--muted)}
+.flow span{background:#fff;border:1px solid var(--line);border-radius:99px;padding:6px 12px;color:var(--ink)}
+.bars{display:grid;gap:10px}
+.bar{display:grid;grid-template-columns:130px 1fr 70px;gap:12px;align-items:center;font-size:14.5px}
+.bar .t{height:16px;background:var(--greySoft);border-radius:3px;overflow:hidden}
+.bar .t i{display:block;height:100%;background:var(--amber)}
+.bar .t i.g{background:var(--grey)}
+.bar b{text-align:right;font-variant-numeric:tabular-nums}
+.tl{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}
+.tl .card{display:grid;gap:6px;align-content:start}
+.tl .when{font-weight:700;color:var(--amberDark);font-size:14px;text-transform:uppercase;letter-spacing:.06em}
+footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);font-size:13px}
+@media (max-width:1100px){.g4,.status4,.loop{grid-template-columns:repeat(2,minmax(0,1fr))}.g3,.tl{grid-template-columns:repeat(2,minmax(0,1fr))}.comp{grid-template-columns:1fr}.comp-side{position:static}}
+@media (max-width:640px){main,.top .in,.tabs .in,footer{padding-inline:16px}.g2,.g3,.g4,.status4,.loop,.tl{grid-template-columns:1fr}.sub,.ver{display:none}.panel{padding:18px}.dl{grid-template-columns:1fr}.dl dt{border-bottom:0;padding-bottom:0}.tile{border-right:0;border-bottom:1px solid var(--line)}.bar{grid-template-columns:1fr 60px}.bar .t{grid-column:1/-1;order:3}}
+</style>
+
+<header class="top"><div class="in">
+  <span class="logo" aria-hidden="true">QS</span><span class="prod">QS One</span><span class="sub">Product specification · relaunch December 2026</span>
+  <span class="ver">Version 2.0 · 28 Sep 2026</span>
+</div></header>
+<nav class="tabs" aria-label="Sections"><div class="in">
+  <a class="tab" href="#summary"><b>Summary</b><span>What we are building</span></a>
+  <a class="tab" href="#users"><b>Users</b><span>Needs and personas</span></a>
+  <a class="tab" href="#components"><b>4 components</b><span>Detailed specs</span></a>
+  <a class="tab" href="#tiers"><b>Tiers</b><span>Entitlements</span></a>
+  <a class="tab" href="#platform"><b>Platform</b><span>Access, onboarding, data</span></a>
+  <a class="tab" href="#partners"><b>Partners</b><span>Outside the target</span></a>
+  <a class="tab" href="#releases"><b>Releases</b><span>Nov 26 – Dec 27</span></a>
+  <a class="tab" href="#measures"><b>Measures</b><span>What we track</span></a>
+  <a class="tab" href="#open"><b>Open items</b><span>To resolve</span></a>
+</div></nav>
+
+<main>
+
+<section id="summary">
+  <h1>QS One product specification</h1>
+  <p class="lede">A decision network university leaders renew because it shapes business-critical decisions. It has four components with one job each, sits on one tier ladder, and launches first for student recruitment and international offices.</p>
+  <div class="panel">
+    <div class="notice">Relaunch: December 2026 · MVP launch: January 2027 · Target: £5m ARR from institutions by June 2028</div>
+    <div style="height:22px"></div>
+    <div class="tiles">
+      <div class="tile"><span class="l">Intelligence</span><span class="v">Informs</span><span class="s">Weekly Signal, monthly briefings, closed-door webinars, case library</span></div>
+      <div class="tile"><span class="l">Communities</span><span class="v">Solve</span><span class="s">Standing groups with a QS facilitator, charter and outputs</span></div>
+      <div class="tile"><span class="l">Pulse</span><span class="v">Measures</span><span class="s">Monthly surveys; only contributors see results</span></div>
+      <div class="tile"><span class="l">Connect</span><span class="v">Introduces</span><span class="s">Verified profiles, introductions both sides accept, summit matching</span></div>
+    </div>
+    <div style="height:22px"></div>
+    <div class="status4">
+      <div class="st gr"><b><span class="ico ok">✓</span>Keep</b><span>Summit passes, members-only sessions and recognition, but as part of the plan rather than the product.</span></div>
+      <div class="st ye"><b><span class="ico w">!</span>Replace</b><span>Education Outlook report and "early intelligence" become the Intelligence component.</span></div>
+      <div class="st bl"><b><span class="ico i">+</span>Add</b><span>Pulse, standing Communities, Connect and a free Network tier to build density.</span></div>
+      <div class="st re"><b><span class="ico x">×</span>Fix</b><span>Separate points of contact and onboarding per product become one institution, one set-up.</span></div>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="ph"><div><span class="num">How the components reinforce each other</span><h2>Communities sit at the centre of the loop</h2><p>Each component feeds the next. Moving from one-off roundtables to standing communities matters most, because it creates the return visits and the practice no one else holds.</p></div></div>
+    <div class="loop">
+      <div class="card"><h3>Pulse measures</h3><p>Members answer a short monthly survey and get live peer operating data before official statistics.</p></div>
+      <div class="card"><h3>Intelligence interprets</h3><p>QS analysts turn Pulse results and QS data into a weekly Signal and monthly briefings.</p></div>
+      <div class="card"><h3>Communities solve</h3><p>Peers work the implications through, sharing use cases and joint projects.</p></div>
+      <div class="card"><h3>Connect introduces</h3><p>Active members are visible and get matched to peers, TNE hosts and partners, including at QS summits.</p></div>
+    </div>
+    <div class="flow"><span>Pulse wave closes</span>→<span>Signal the same week</span>→<span>Community read-out session</span>→<span>Use case published</span>→<span>Introductions and summit meetings</span>→<span>Next wave</span></div>
+  </div>
+</section>
+
+<section id="users">
+  <h1>Users and their needs</h1>
+  <p class="lede">Leaders must make fast, high-impact decisions on lagging, generic data. The most useful knowledge sits with peers.</p>
+  <div class="panel">
+    <div class="ph"><div><h2>Why existing data falls short</h2></div></div>
+    <div class="grid g3">
+      <div class="card"><h3>1 · Data lags</h3><p>Visa approvals and industry benchmarks arrive months late, so trends are hard to see as they unfold.</p></div>
+      <div class="card"><h3>2 · Data is generic</h3><p>Published data is not framed around the practical decisions of higher education or of a specific country.</p></div>
+      <div class="card"><h3>3 · Experience sits with peers</h3><p>Real experience shared through communities and structured case studies beats generic advice or data.</p></div>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="ph"><div><h2>What leaders need, and which component meets it</h2></div></div>
+    <div class="scroll"><table>
+      <thead><tr><th>Need</th><th class="m">Why it is urgent now</th><th class="m">Met by</th></tr></thead>
+      <tbody>
+        <tr><td>Earlier warning on student demand</td><td class="m">Recruitment trends shift fast with immigration and geopolitics</td><td class="m"><span class="tag a">Pulse</span><span class="tag a">Intelligence</span></td></tr>
+        <tr><td>Expert interpretation of a shock</td><td class="m">Policy moves faster than planning cycles</td><td class="m"><span class="tag a">Intelligence</span></td></tr>
+        <tr><td>Peers who faced the same decision</td><td class="m">Institutions in deficit want precedents to follow or to justify decisions</td><td class="m"><span class="tag a">Intelligence</span><span class="tag a">Communities</span></td></tr>
+        <tr><td>Defensible data on shifting markets</td><td class="m">Source markets and research funding are moving</td><td class="m"><span class="tag a">Pulse</span></td></tr>
+        <tr><td>The right counterpart, quickly</td><td class="m">Partnerships are needed to diversify revenue and protect reputation</td><td class="m"><span class="tag a">Connect</span></td></tr>
+      </tbody>
+    </table></div>
+  </div>
+  <div class="panel">
+    <div class="ph"><div><h2>Personas, in launch order</h2></div></div>
+    <div class="grid g4">
+      <div class="card"><span class="tag n">MVP · Jan 2027</span><h3>International recruitment & international office</h3><p>Directors of international recruitment, admissions and international offices. Weekly users of Pulse and the launch community.</p></div>
+      <div class="card"><span class="tag a">MVP audience</span><h3>Executive teams</h3><p>Vice-chancellors, provosts and strategy directors. Monthly briefings, the Executive Council, board-ready precedents.</p></div>
+      <div class="card"><span class="tag">Apr 2027</span><h3>Partnerships & TNE</h3><p>Leads looking for TNE hosts and partners through Connect and the TNE framework.</p></div>
+      <div class="card"><span class="tag">Sep 2027</span><h3>CFO and CIO</h3><p>New domains: financial resilience, the technology landscape and organisational use of AI.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="components">
+  <h1>Component specifications</h1>
+  <p class="lede">Each component has one job, a defined MVP scope, clear access rules by tier, and a measure of whether it is working. <span class="mvp y">MVP</span> marks what ships for January 2027.</p>
+
+  <div class="panel comp">
+    <aside class="comp-side"><span class="k">Component 1</span><span class="job">Intelligence</span><span>Informs. Executive-ready decision intelligence that interprets QS data.</span><span class="k">Value</span><span>Summaries are free; QS data, Pulse results and off-the-record experts are not.</span><span class="k">Replaces</span><span>Education Outlook report; "early intelligence"; some newsletters</span></aside>
+    <div>
+      <dl class="dl">
+        <dt>Weekly Signal</dt><dd><span class="mvp y">MVP</span>A short item every week: what changed, "so what", suggested action, QS sources with dates. Free to every institution; also sent as the newsletter.</dd>
+        <dt>Monthly domain briefing</dt><dd><span class="mvp y">MVP</span>One per domain (mobility first), built on the latest Pulse wave and QS data. From Member.</dd>
+        <dt>Closed-door webinars</dt><dd><span class="mvp y">MVP</span>Experts speaking off the record; registration; recordings for members. From Member. Sponsored sessions labelled.</dd>
+        <dt>Library</dt><dd><span class="mvp y">MVP</span>Case studies and frameworks (market prioritisation, TNE partner evaluation, AI roadmap). Free members see part of it; community use cases flow in after facilitator review.</dd>
+        <dt>Executive briefings</dt><dd><span class="mvp n">Later</span>Quarterly executive-team briefing (Member Plus); private executive briefing and 20 analyst hours (Council).</dd>
+        <dt>Provenance</dt><dd>Every item carries a label (QS Evidence, QS Analysis, Member practice, Partner), its date and its sources. Items read from qs.com show whether they are live or a saved copy.</dd>
+        <dt>Operations</dt><dd>Analyst writes the Signal within 3 working days of a Pulse wave closing. Editorial sign-off on every item; AI may draft and tag.</dd>
+        <dt>Measure</dt><dd>Signal open rate; briefing reads per active institution; items rated useful; library downloads.</dd>
+      </dl>
+    </div>
+  </div>
+
+  <div class="panel comp">
+    <aside class="comp-side"><span class="k">Component 2</span><span class="job">Communities</span><span>Solve. From one-off roundtables to sustained work, building on the legacy of Reimagine Education.</span><span class="k">Value</span><span>Peers who return month after month build trust and produce practice no one else holds.</span><span class="k">Cost</span><span>Most expensive to run: each community needs a facilitator.</span></aside>
+    <div>
+      <dl class="dl">
+        <dt>Structure</dt><dd><span class="mvp y">MVP</span>Four domain communities plus regional chapters aligned to QS summits. Launch with <b>Student Recruitment & International Office</b>; add others as facilitators are hired.</dd>
+        <dt>Each community has</dt><dd>A named QS facilitator, a published charter, member commitments (e.g. answer the monthly Pulse, bring one live decision per session) and regular outputs: use cases, frameworks and joint projects.</dd>
+        <dt>Sessions</dt><dd><span class="mvp y">MVP</span>Monthly online sessions (Chatham House), plus meet-ups at QS summits. Open quarterly sessions for Free members, including partner-hosted sessions, which are labelled.</dd>
+        <dt>Discussion</dt><dd><span class="mvp y">MVP</span>Members-only questions, practice notes and use cases. Use cases go to facilitator review before entering the library. Replies; "useful" votes.</dd>
+        <dt>Access</dt><dd>Free: open quarterly sessions. Member: one domain community plus a regional chapter. Member Plus: all domain communities. Council: Executive Council seats, consulted on community themes.</dd>
+        <dt>Measure</dt><dd>Members attending two or more sessions a quarter; outputs published per quarter; share of members posting.</dd>
+      </dl>
+    </div>
+  </div>
+
+  <div class="panel comp">
+    <aside class="comp-side"><span class="k">Component 3</span><span class="job">Pulse</span><span>Measures. Rapid visibility on what decision-makers are doing, nationally, regionally or globally.</span><span class="k">Value</span><span>Live peer operating data between official releases: an early signal on trends such as shifts in TNE focus.</span><span class="k">Rule</span><span>Only contributors see results.</span></aside>
+    <div>
+      <dl class="dl">
+        <dt>Recruitment Pulse</dt><dd><span class="mvp y">MVP</span>Monthly wave. Change in deposits vs last year by source market; change in visa refusal rate; biggest risk; TNE plans. About 3 minutes; one response per institution; editable until close.</dd>
+        <dt>Role benchmarks</dt><dd><span class="mvp n">Later</span>Quarterly surveys targeted by role: AI adoption (digital), financial resilience (CFO), employer partnerships (careers).</dd>
+        <dt>Results view</dt><dd>Your values vs the peer median by market (amber vs grey bars); the middle half of peers; median last wave; four status cards: strongest and weakest vs peers, most improved and largest decline since last wave.</dd>
+        <dt>Cohorts</dt><dd>Free: all respondents (headline). Member and Member Plus: by region and institution type. Council: a bespoke benchmark cohort chosen by the institution (minimum five).</dd>
+        <dt>Safeguards</dt><dd>Any group under five institutions is hidden. No named student data or institution-specific pricing. Pulse data is never an input to QS rankings. Legal review of question design before launch.</dd>
+        <dt>Measure</dt><dd>At least 25% of institutions answer each Pulse; time from wave close to Signal; repeat contributors.</dd>
+      </dl>
+    </div>
+  </div>
+
+  <div class="panel comp">
+    <aside class="comp-side"><span class="k">Component 4</span><span class="job">Connect</span><span>Introduces. The right counterpart, with consent, in line with the Partner Discovery vision.</span><span class="k">Value</span><span>QS as the network for finding partners; activity in communities creates visibility that attracts them.</span></aside>
+    <div>
+      <dl class="dl">
+        <dt>Verified profiles</dt><dd><span class="mvp y">MVP</span>Institution profile (priorities, current challenges, "open to") and personal profiles (role, interests, regions). Verified by QS; visibility controlled by the institution.</dd>
+        <dt>Directory</dt><dd><span class="mvp y">MVP</span>Search by shared challenge, domain and region.</dd>
+        <dt>Introductions</dt><dd><span class="mvp y">MVP</span>Both sides must accept; contact is shared only on acceptance. Free: receive only. Member: 2 a quarter. Member Plus: a higher allowance. Council: concierge introductions brokered by QS.</dd>
+        <dt>Summit matching</dt><dd><span class="mvp y">MVP</span>Suggested meetings with reasons (shared focus, regions, communities, what each side is open to). Member: one summit plus 5 passes. Member Plus: every summit plus 8 passes. Council: a stand at a summit.</dd>
+        <dt>Partner board</dt><dd><span class="mvp n">Later</span>Institutions post problems; commercial partners propose pilots; the institution shortlists. Counts as partner upside.</dd>
+        <dt>Measure</dt><dd>Introductions accepted; meetings held at summits; partnerships reported.</dd>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section id="tiers">
+  <h1>Tiers and entitlements</h1>
+  <p class="lede">Institution-wide plans on one ladder. The free Network builds density; paid tiers add depth. Prices are indicative.</p>
+  <div class="panel">
+    <div class="scroll"><table>
+      <thead><tr><th></th><th>Network<span class="price">Free</span></th><th>Member<span class="price">$20k <small>(£15k)</small></span></th><th class="cur">Member Plus<span class="price">$60k <small>(£45k)</small></span></th><th>Council<span class="price">$110k <small>(£85k) · capped at 25</small></span></th></tr></thead>
+      <tbody>
+        <tr><td>Intelligence</td><td class="m">Weekly newsletter; part of the case study and framework library</td><td class="m">+ Monthly domain briefings; closed-door expert webinars</td><td class="m">+ Quarterly executive-team briefing; QS Market Insights subscription</td><td class="m">+ Private executive briefings; 20 analyst hours</td></tr>
+        <tr><td>Communities</td><td class="m">Open quarterly sessions</td><td class="m">One domain community</td><td class="m">All domain communities</td><td class="m">Executive Council seats; consulted on community themes</td></tr>
+        <tr><td>Pulse</td><td class="m">Contribute; headline results</td><td class="m">+ Results by region and institution type</td><td class="m">+ Results by region and institution type</td><td class="m">+ Bespoke benchmark cohort</td></tr>
+        <tr><td>Connect</td><td class="m">Verified profile; directory for inbound connections</td><td class="m">+ 2 introductions a quarter; 5 passes for one summit</td><td class="m">+ Matching at every summit; 8 passes</td><td class="m">+ Concierge introductions; stand at a summit</td></tr>
+        <tr><td>Analytics</td><td class="m">–</td><td class="m">–</td><td class="m">Market Expert</td><td class="m">WUR Rankings; Student Insight; Market Expert</td></tr>
+        <tr><td>Recognition</td><td class="m">None</td><td class="m">Badge, certificate</td><td class="m">+ Interview; exhibition outside the home region</td><td class="m">As Member Plus</td></tr>
+      </tbody>
+    </table></div>
+    <div style="height:16px"></div>
+    <div class="notice l g">Existing QS One members (Member $20k, Member Plus $60k) move across on current terms. The indicative ARR walk uses a blended £20k for them.</div>
+  </div>
+  <div class="panel">
+    <div class="ph"><div><h2>Indicative mix at the target (paying institutions, June 2028)</h2><p>From the strategy's illustrative planning scenario. Not included: corporate partners, government and consortium purchases, or pull-through to data, consulting and summits.</p></div></div>
+    <div class="bars">
+      <div class="bar"><span>Member</span><span class="t"><i style="width:40%"></i></span><b>£2.0m</b></div>
+      <div class="bar"><span>Member Plus</span><span class="t"><i style="width:36%"></i></span><b>£1.8m</b></div>
+      <div class="bar"><span>Council</span><span class="t"><i style="width:16%"></i></span><b>£0.8m</b></div>
+      <div class="bar"><span>Existing members</span><span class="t"><i class="g" style="width:8%"></i></span><b>£0.4m</b></div>
+    </div>
+    <p style="color:var(--muted);font-size:14px;margin:12px 0 0">Bars are to scale as a share of £5.0m. Counts: 130 Member, 40 Member Plus, 10 Council, 20 existing (200 paying).</p>
+  </div>
+</section>
+
+<section id="platform">
+  <h1>Platform requirements</h1>
+  <p class="lede">One institution, one set-up. What the strategy calls density depends on removing today's separate points of contact and product onboarding.</p>
+  <div class="grid g2">
+    <div class="panel"><div class="ph"><div><h2>Identity and access</h2></div></div>
+      <dl class="dl">
+        <dt>Sign-in</dt><dd>MyQS single sign-on. QS One appears in the MyQS app switcher alongside Rankings Preview.</dd>
+        <dt>Entitlement</dt><dd>Held by the institution, not the seat. Unlimited named colleagues; each has their own role family, interests and contact settings.</dd>
+        <dt>Roles</dt><dd>QS One lead (edits the institution profile, invites colleagues), member, commercial partner, QS coordinator.</dd>
+        <dt>Rules</dt><dd>Every access rule is enforced in the service, not only in the interface. Council is capped at 25.</dd>
+      </dl>
+    </div>
+    <div class="panel"><div class="ph"><div><h2>Onboarding and activation</h2></div></div>
+      <dl class="dl">
+        <dt>Single checklist</dt><dd>Name a lead · verification by QS · complete the institution profile · two or more colleagues active · first Pulse answered · join a community (or open session).</dd>
+        <dt>Active institution</dt><dd>Two or more members, each logging in at least every two months, and at least one survey answered.</dd>
+        <dt>Invitations</dt><dd>The lead invites colleagues; MyQS users at ranked institutions can be offered role-based access from April 2027.</dd>
+        <dt>Packaging</dt><dd>Free Network access can be bundled with existing QS products and summit passes to seed the network.</dd>
+      </dl>
+    </div>
+    <div class="panel"><div class="ph"><div><h2>Content and data</h2></div></div>
+      <dl class="dl">
+        <dt>QS content</dt><dd>Public qs.com pages read on a schedule with robots.txt checks; short excerpts and links only; live, stale or saved status shown. Move to approved feeds from QS data owners.</dd>
+        <dt>Pulse store</dt><dd>Responses held per institution, per wave; aggregation service applies the minimum group size to every cut.</dd>
+        <dt>Integrations</dt><dd>MyQS (identity), CRM (contracts and entitlements), events platform (summits, passes, attendance), email platform (Signal, notifications), analytics products (Market Expert, Student Insight, WUR Rankings).</dd>
+        <dt>Entities</dt><dd>Institution, Person, Plan, Community, Session, Post, Output, Intelligence item, Pulse, Wave, Response, Introduction, Event, Board post, Audit event.</dd>
+      </dl>
+    </div>
+    <div class="panel"><div class="ph"><div><h2>Trust and governance</h2></div></div>
+      <dl class="dl">
+        <dt>Independence</dt><dd>Membership, tier and participation have no bearing on QS rankings, surveys or methodology.</dd>
+        <dt>Consent</dt><dd>No contact without opt-in; introductions need both sides; partners never see Pulse results or discussions.</dd>
+        <dt>Labelling</dt><dd>QS Evidence · QS Analysis · Member practice · Partner, on every item.</dd>
+        <dt>Audit</dt><dd>An activity log of joins, contributions, introductions and plan changes, for coordinators.</dd>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section id="partners">
+  <h1>Commercial partners</h1>
+  <p class="lede">Upside, not part of the £5m target. Every component has an opening, but network growth comes first.</p>
+  <div class="panel">
+    <div class="tiles">
+      <div class="tile"><span class="l"><b>Intelligence</b></span><span class="s">Sponsor a labelled webinar series; co-develop research</span></div>
+      <div class="tile"><span class="l"><b>Communities</b></span><span class="s">Host an open session on a problem the partner solves</span></div>
+      <div class="tile"><span class="l"><b>Pulse</b></span><span class="s">Aggregated insight on what leaders prioritise (groups of 5+)</span></div>
+      <div class="tile"><span class="l"><b>Connect</b></span><span class="s">Meetings with members who opt in; the partner board</span></div>
+    </div>
+    <div style="height:16px"></div>
+    <div class="notice l">Timing is an open question. Recommendation: introduce labelled partner sessions and the board once the launch community has 40+ active institutions, so partners do not arrive before density.</div>
+  </div>
+</section>
+
+<section id="releases">
+  <h1>Release plan</h1>
+  <p class="lede">Aligned to the strategy's milestones. Each release widens the audience without breaking what the launch community relies on.</p>
+  <div class="panel">
+    <div class="tl">
+      <div class="card"><span class="when">Nov 2026 · Decide</span><h3>Scope and resourcing</h3><p>Launch scope, facilitator and analyst hires, technical plan (MyQS, CRM, events), Pulse legal review.</p></div>
+      <div class="card"><span class="when">Jan 2027 · MVP</span><h3>Recruitment launch</h3><p>Weekly Signal, mobility briefing, Recruitment Pulse, Student Recruitment & International Office community, profiles, introductions, onboarding. Free and paid pilot cohort from existing QS customers.</p></div>
+      <div class="card"><span class="when">Apr 2027 · Grow</span><h3>Density</h3><p>Role-based access for MyQS users; summit matching; community activity coordinated with summit topics; library growth.</p></div>
+      <div class="card"><span class="when">Sep 2027 · Expand</span><h3>New personas</h3><p>CFO (financial resilience) and CIO (technology and AI) communities and Pulses; executive-team briefings.</p></div>
+      <div class="card"><span class="when">Dec 2027 · Validate</span><h3>Renewals</h3><p>Renewal and upgrade tactics; Council; partner board if density allows.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="measures">
+  <h1>Measures to instrument</h1>
+  <p class="lede">The product must emit the events behind these measures from day one. Reporting sits with the commercial team, not in the member product.</p>
+  <div class="panel">
+    <div class="tiles">
+      <div class="tile"><span class="l">Activation</span><span class="v">500+</span><span class="s">active institutions by end 2027 (2+ members, log-in every 2 months, 1+ survey)</span></div>
+      <div class="tile"><span class="l">Contribution</span><span class="v">≥25%</span><span class="s">of institutions answer each Pulse</span></div>
+      <div class="tile"><span class="l">Pace</span><span class="v">10+/mo</span><span class="s">paid signings from April 2027; 50 paid by end 2027</span></div>
+    </div>
+    <div style="height:16px"></div>
+    <div class="notice l g">Events to capture: log-in by person and institution; Pulse started and submitted; community joined, session attended, post and output; briefing opened; introduction requested and accepted; summit meeting booked; plan change.</div>
+  </div>
+</section>
+
+<section id="open">
+  <h1>Open items</h1>
+  <p class="lede">Questions from the strategy, plus points in it to reconcile before the November decision.</p>
+  <div class="grid g2">
+    <div class="panel"><div class="ph"><div><h2>Strategic questions</h2></div></div>
+      <dl class="dl">
+        <dt>Go to market</dt><dd>How QS One links to existing sales and packages, e.g. free Network or Member access bundled with conference passes and sponsorships.</dd>
+        <dt>Content mix</dt><dd>Balance of member-generated content and QS-led thought leadership; recommend QS-led at launch, member use cases growing through the facilitator pipeline.</dd>
+        <dt>Partnerships</dt><dd>If and when to include sponsorships (see the recommendation above).</dd>
+        <dt>Resourcing</dt><dd>How much existing editorial, events and analyst capacity can be reused versus new facilitators.</dd>
+      </dl>
+    </div>
+    <div class="panel"><div class="ph"><div><h2>Points to reconcile in the strategy</h2></div></div>
+      <dl class="dl">
+        <dt>Target date</dt><dd>The summary says £5m by June 2028; the table heading says "end 2028". The spec assumes June 2028.</dd>
+        <dt>Member count</dt><dd>40 new in 2027 plus 100 in 2028 gives 140, but 130 are paying at the end, which implies about 10 churned. Make churn explicit.</dd>
+        <dt>Total paid</dt><dd>50 + 140 new + 20 existing = 210, against 200 paying. This is consistent only if churn is assumed.</dd>
+        <dt>Currency</dt><dd>Tiers are in US dollars ($20k/$60k/$110k); the walk is in sterling at $1.33 (£15k/£45k/£85k ≈ $20k/$60k/$113k). Choose one list currency.</dd>
+        <dt>Allowances</dt><dd>Member Plus introductions and passes ("8?") are not fixed. The proof of concept assumes 6 introductions a quarter and 8 passes.</dd>
+        <dt>Free directory</dt><dd>"Directory for inbound connections" is read as: Free members can be found and receive introductions, but cannot request them.</dd>
+      </dl>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="ph"><div><h2>What the Replit proof of concept demonstrates</h2><p>The accompanying ZIP implements this specification with fictional data, in the Rankings Preview style.</p></div></div>
+    <div class="status4">
+      <div class="st gr"><b><span class="ico ok">✓</span>Pulse</b><span>Monthly waves, answer to unlock, amber-vs-grey benchmark, status cards, cohorts, bespoke cohort, groups under 5 hidden.</span></div>
+      <div class="st gr"><b><span class="ico ok">✓</span>Communities</b><span>Charter, facilitator, sessions, outputs, discussion, one-community rule for Member, open sessions for Free.</span></div>
+      <div class="st gr"><b><span class="ico ok">✓</span>Intelligence & Connect</b><span>Tier-locked briefings, webinars, library, live QS sources; directory, consent-based and concierge introductions, summit matching.</span></div>
+      <div class="st gr"><b><span class="ico ok">✓</span>Platform</b><span>Single onboarding checklist, activation rule, colleague invites, plan matrix with demo switch, partner board, team activity view.</span></div>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer>QS One product specification v2.0 · based on "QS One: Updated Membership Strategy". Prices and figures are indicative. The proof of concept uses fictional institutions and people.</footer>

@@ -14,7 +14,7 @@ export function load() {
   fs.mkdirSync(DATA_DIR, { recursive: true });
   try {
     db = JSON.parse(fs.readFileSync(DB_FILE, 'utf8'));
-    if (db?.meta?.version !== 3) throw new Error('old version');
+    if (db?.meta?.version !== 4) throw new Error('old version');
   } catch {
     db = buildSeed();
     flush();
