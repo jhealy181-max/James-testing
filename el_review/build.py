@@ -42,7 +42,7 @@ REACHES = ["University-wide", "Cross-faculty", "Faculty/school", "Programme/cour
 TRI = ["Yes", "No", "Unclear"]
 STATUSES = ["Current delivery confirmed", "Announced/forthcoming", "Historical delivery only",
             "Paused/discontinued", "Current status unclear"]
-PARTS = ["Compulsory for all students", "Compulsory within specified programmes", "Optional/elective",
+PARTS = ["Compulsory for all students (at stated level)", "Compulsory within specified programmes", "Optional/elective",
          "Selective/competitive", "Unclear"]
 PTYPES = ["Business/commercial", "Public sector", "Charity/community", "Mixed", "Other", "Unclear", "None"]
 AREAS = ["central", "business", "engineering_computing", "science", "arts_humanities_social_sciences", "other"]
@@ -141,7 +141,8 @@ for inst in insts:
             if not s(so.get("url")).startswith("http"):
                 qc.append(("ERROR", iid, sid, f"source {j} has no valid URL"))
         cls = classify(a, b, c)
-        counted = "No (umbrella; children counted)" if umb else "Yes"
+        dup = s(sc.get("likely_duplicate_of"))
+        counted = "No (umbrella; children counted)" if umb else (f"No (possible duplicate of {local2id.get(dup, dup)})" if dup else "Yes")
         qualifying = (cls == "Meets all three" and ost == "Current delivery confirmed" and counted == "Yes")
         # QC
         for crit, val, ev, key in (("A project", a, sc.get("project_evidence"), "project"),
@@ -156,7 +157,7 @@ for inst in insts:
             qc.append(("WARN", iid, sid, "current qualifying scheme has no source tagged 'status'"))
         if reach == "University-wide" and crit_support.get("reach", 0) + crit_support.get("eligibility", 0) == 0:
             qc.append(("WARN", iid, sid, "University-wide reach without source tagged reach/eligibility"))
-        if part == "Compulsory for all students" and reach != "University-wide":
+        if part.startswith("Compulsory for all") and reach != "University-wide":
             qc.append(("ERROR", iid, sid, "compulsory for all students but reach not University-wide"))
         if c == "Yes" and ptype in ("None", "Unclear"):
             qc.append(("WARN", iid, sid, f"employer-connected Yes but partner type {ptype}"))
@@ -280,7 +281,7 @@ REG_COLS = [("Institution ID", 11), ("Institution", 22), ("Academic reach", 17),
     ("External partner type", 17), ("Partner role", 30), ("Named partners (evidenced)", 30), ("Student deliverable", 28),
     ("Qualification classification", 22), ("Operating status", 20), ("Latest evidenced delivery year", 12),
     ("Counts as distinct scheme", 12), ("Current & meets all three (counted)", 13), ("Published participation data", 30),
-    ("Source IDs (see EL sources)", 24), ("Unresolved points", 40), ("Legacy row reassessed", 24), ("Country", 12), ("Region group", 18)]
+    ("Source IDs (see EL sources)", 24), ("Unresolved points", 40), ("Legacy row reassessed", 24), ("Country", 12), ("Region group", 18), ("Duration band", 14), ("External partner coverage", 14), ("Not counted because", 24)]
 ws = wb.create_sheet("EL scheme register", 1)
 header(ws, "Experiential learning: scheme register (strict three-criterion test)",
        "One row per distinct scheme or materially different participation route. Criteria A/B/C are three-state: Yes = explicit evidence; No = evidence shows not met; Unclear = insufficient evidence.",
@@ -299,7 +300,7 @@ for n, x in enumerate(sorted(schemes, key=lambda z: (z["iid"], z["sid"]))):
             f'=IF(OR(V{rr}="No",X{rr}="No",Z{rr}="No"),"Outside strict definition",IF(AND(V{rr}="Yes",X{rr}="Yes",Z{rr}="Yes"),"Meets all three","Potentially relevant; evidence incomplete"))',
             x["ost"], s(sc.get("latest_evidenced_year")), "Yes" if x["counted"] == "Yes" else "No",
             f'=IF(AND(AI{rr}="Yes",AF{rr}="Meets all three",AG{rr}="Current delivery confirmed"),"Yes","No")',
-            s(sc.get("participation_data")), s(x["srcids"]), s(sc.get("unresolved"), 2000), s(sc.get("legacy_ref")), x["country"], x["region"]]
+            s(sc.get("participation_data")), s(x["srcids"]), s(sc.get("unresolved"), 2000), s(sc.get("legacy_ref")), x["country"], x["region"], s(sc.get("duration_band")) or "Unclear", s(sc.get("external_partner_coverage")) or "Unclear", "" if x["counted"] == "Yes" else x["counted"]]
     for j, v in enumerate(vals, 1):
         c = ws.cell(rr, j, v); c.font = F_BODY; c.alignment = WRAP
     ws.cell(rr, 7).font = F_BOLD
@@ -341,7 +342,7 @@ for n, x in enumerate(summary):
         uw = comp = "Not reviewed"
     else:
         uw = "Yes" if any(z["reach"] == "University-wide" for z in q) else "Not evidenced"
-        comp = "Yes" if any(z["reach"] == "University-wide" and z["part"] == "Compulsory for all students" for z in q) else "Not evidenced"
+        comp = "Yes" if any(z["reach"] == "University-wide" and z["part"].startswith("Compulsory for all") for z in q) else "Not evidenced"
     reach_f = [f'=COUNTIFS({rg("A")},$A{rr},{rg("C")},"{rc}",{rg("AJ")},"Yes")' for rc in REACHES]
     vals = [inst["inst_id"], inst["institution"], inst["country"], inst["cohort"], x["region"], inst["qs_edition"], inst["qs_rank"],
             x["status"], *reach_f, f"=SUM(I{rr}:M{rr})",
@@ -465,6 +466,7 @@ r0 = table_block(r0, "Evidence status of all register records (counted schemes o
      ["Meets all three; announced / forthcoming", f'=COUNTIFS({rg("AF")},"Meets all three",{rg("AG")},"Announced/forthcoming",{rg("AI")},"Yes")'],
      ["Potentially relevant; evidence incomplete", f'=COUNTIFS({rg("AF")},"Potentially relevant; evidence incomplete",{rg("AI")},"Yes")'],
      ["Outside strict definition (kept in register as near-miss)", f'=COUNTIFS({rg("AF")},"Outside strict definition",{rg("AI")},"Yes")'],
+     ["  memo: current qualifying schemes lasting <1 week", f'=COUNTIFS({rg("AQ")},"<1 week",{QC_},"Yes")'],
      ["Excluded / near-miss / evidence-gap records (exclusions tab)", "=COUNTA('EL exclusions & gaps'!$A$7:$A$5000)"],
      ["  of which from legacy research", "=COUNTIF('EL exclusions & gaps'!$F$7:$F$5000,\"Yes\")"]])
 # Region breakdown (right-hand block)

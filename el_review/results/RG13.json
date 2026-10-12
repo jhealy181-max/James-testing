@@ -1,0 +1,1996 @@
+{
+ "inst_id": "RG13",
+ "institution": "London School of Economics",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "LSE100 compulsory undergraduate course assessment group project",
+    "LSE100A 2025 course guide group project external organisation",
+    "LSE100 FAQ exempt programmes",
+    "LSE Future17 join a global team solving real sustainability challenges",
+    "Future17 LSE eligibility credit",
+    "LSE Careers consultancy project / Generate / Volunteer Centre student consulting",
+    "LSE Volunteer Centre / Careers charity team consultancy skills-based volunteering",
+    "LSE Community Engagement Programme teams charity brief",
+    "LSE Research Volunteering Scheme postgraduate teams"
+   ],
+   "key_sources": [
+    "https://info.lse.ac.uk/current-students/lse100/about-lse-100/lse100-assessment",
+    "https://info.lse.ac.uk/current-students/lse100/Future17-Join-a-global-team-solving-real-sustainability-challenges",
+    "https://info.lse.ac.uk/current-students/volunteer-centre/Community-engagement-programme",
+    "https://blogs.lse.ac.uk/vcb/2025/10/13/research-volunteering-scheme-applications-now-open-2/"
+   ],
+   "finding": "LSE100 is a compulsory, university-wide first-year group project but with no evidenced external organisation (C=No). Qualifying central routes are Future17 (QS consortium, partner-set challenges, open to all UGs) and two Volunteer Centre charity schemes (CEP consultancy teams for all students; RVS research teams for PGs)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "LSE Department of Management capstone project client organisation MG4",
+    "MG488B GMiM Capstone client",
+    "MG4F1 Marketing Action Learning Project",
+    "MG315",
+    "Master's in Management London Consulting Project",
+    "HRO Links Scheme",
+    "Department of Management employer partnerships business projects brochure",
+    "CEMS MBA business projects brochure",
+    "Business Projects five programmes",
+    "MSc Social Innovation and Entrepreneurship capstone consulting",
+    "MG4G6 partner organisation"
+   ],
+   "key_sources": [
+    "https://www.lse.ac.uk/management/employer-partnerships/Business-Projects-Main-Page",
+    "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/MG/2025_MG488B.htm",
+    "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/MG/2025_MG4J4.htm",
+    "https://www.lse.ac.uk/resources/calendar/courseGuides/MG/2026_MG4F1.htm"
+   ],
+   "finding": "Dense provision: a department-wide sponsored Business Projects framework (GMiM, CEMS/MBA, HRO Links, MALP, Open Innovation) plus the MiM capstone/London Consulting Project and the SIE year-long partner project; all PG taught and programme-embedded."
+  },
+  "engineering_computing": {
+   "status": "Not applicable",
+   "queries": [],
+   "key_sources": [],
+   "finding": "LSE has no engineering or computer science faculty. Data science provision (Statistics ST498; Methodology MY498) is recorded under 'science' as the nearest quantitative area."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "LSE Statistics ST498 Capstone Project external partner",
+    "ST498 course guide assessment partner jointly supervised",
+    "MY498 Capstone Applied Social Data Science",
+    "MSc Operations Research and Analytics project with company / MA498"
+   ],
+   "key_sources": [
+    "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/ST/2025_ST498.htm",
+    "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA425.htm"
+   ],
+   "finding": "No natural sciences at LSE; Mathematics/Statistics/Data Science treated as nearest 'science' area. ST498 (compulsory MSc Data Science group capstone with industry partners) qualifies; MA425 ORA project is partner-based but group working is unclear; MY498 is individual."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "PP4B3 MPA Capstone client",
+    "MPA Capstone information for organisations past clients",
+    "PP4B3E Executive MPP Capstone / PP4A7E Urban Consultancy",
+    "GV331 Capstone Data Science Civic Engagement",
+    "GV343 PPE Capstone client",
+    "PPE showcase capstone client",
+    "International Development consultancy project",
+    "DV443",
+    "DV466 / DV453",
+    "ID programme regulations consultancy",
+    "Geography GY4 consultancy client",
+    "Media and Communications / Social Policy client project",
+    "MSc Media/Social Policy/Behavioural Science external partner",
+    "Economics EC group project external",
+    "undergraduate BSc group project real client"
+   ],
+   "key_sources": [
+    "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/PP/2025_PP4B3.htm",
+    "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/GV/2025_GV343.htm",
+    "https://www.lse.ac.uk/international-development/study/consultancy-projects",
+    "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/DV/2025_DV443.htm"
+   ],
+   "finding": "Strong client-capstone provision in School of Public Policy (MPA, MPA DSPP, Executive MPP) and International Development (DV443/453/466), plus the only verified undergraduate curricular route: GV343 PPE Capstone. GY454 uses live-or-archival briefs (C unclear). Nothing found for Economics, Social Policy, Media & Communications, Psychological & Behavioural Science."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "LSE Law School pro bono clinic group project external organisation",
+    "LSE Legal Advice Centre Sustainability clinic ClientEarth; ECtHR Intervention Clinic teams"
+   ],
+   "key_sources": [
+    "https://www.lse.ac.uk/law/legal-advice-centre/sustainability-and-the-rule-of-law",
+    "https://www.lse.ac.uk/law/study/llm/echr-clinic-llm"
+   ],
+   "finding": "Law School clinics: Sustainability Clinic (teams producing reports for NGOs, e.g. ClientEarth) meets A/B/C but current status undated; ECtHR Intervention Clinic team briefs with EISi (C unclear); Homelessness Legal Clinic is casework (excluded). LSE has no health, design or architecture faculties."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "LSE100: The LSE Course",
+   "english_name": "LSE100: The LSE Course",
+   "module_code": "LSE100 (LSE100A/B/C themed variants)",
+   "description": "Compulsory first-year interdisciplinary course (themes in 2025/26: climate futures, controlling AI, fair society). In Winter Term students work in seminar-allocated groups of 4-5 to analyse a system and propose a change, written up as a policy proposal addressed to governmental/institutional actors or a strategic plan for a social movement/activist organisation, delivered as a group digital report and a seminar presentation. The 'target audience' is chosen within the brief; no evidence that an external organisation sets the brief, receives the output or assesses it.",
+   "academic_reach": "University-wide",
+   "admin_host": "LSE100 (central, School-level course)",
+   "eligible_faculties_programmes": "All undergraduate programmes",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 1",
+   "eligibility_restrictions": "All first-year LSE undergraduates (not postgraduates). Counts as one half-unit-equivalent first-year mark (not towards classification for LLB).",
+   "participation_requirement": "Compulsory for all students",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Half-unit equivalent. 2025/26 LSE100A: critical evaluation 50% (1,000 words) + project 50% (3,000 words). 2024 policy: group project mark = presentation 25% + digital report 75%; single group mark.",
+   "duration": "Autumn and Winter Terms; group project over Winter Term",
+   "delivery_format": "In person seminars",
+   "project_based": "Yes",
+   "project_evidence": "Group research project with defined task (analyse a system, propose a policy proposal or strategic plan) and identifiable outputs: digital report and presentation [1][2][3].",
+   "group_working": "Yes",
+   "group_evidence": "Groups of 4-5 students allocated by seminar teacher; single group mark for joint digital report and presentation [1][2].",
+   "employer_connected": "No",
+   "employer_evidence": "Proposal is written 'for a target audience' (governmental/institutional actors or a social movement/activist organisation) defined within the course brief; no source shows an external organisation supplying a brief, receiving outputs or assessing. Assessed by seminar teachers [1][2]. Marked No on the positive evidence of an academically set, audience-addressed (hypothetical client) design; would change only if a cohort-specific partner is evidenced.",
+   "partner_type": "None",
+   "partner_role": "None evidenced",
+   "named_partners": "",
+   "deliverable": "Group digital report + 10-minute group presentation",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Whether any individual LSE100 themes involve external organisations as audiences/judges (Moodle-only material).",
+   "legacy_ref": "LSE100",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://info.lse.ac.uk/current-students/lse100/about-lse-100/lse100-assessment",
+     "title": "LSE100 Assessment",
+     "section": "Group project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Group project by teams of 4-5 over Winter Term; 'The change students identify will take the form of either a policy proposal addressing governmental or institutional actors within the system, or a strategic plan for a social movement or activist organisation to enact change.' 'Students collaboratively produce a digital report and presentation outlining their proposed change for a target audience.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://info.lse.ac.uk/staff/divisions/Eden-Centre/Assets-EC/Documents/Assessment-Toolkit/GroupProject-Attendance-Participation-Policy-2024.pdf",
+     "title": "Group Project Code of Conduct and Participation Policy (LSE100, 2024)",
+     "section": "Policy",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Groups allocated by the seminar teacher in late Autumn Term based on topic preference and disciplinary diversity; mark split presentation (25%) and digital report (75%); each group receives a single group mark.",
+     "supports": [
+      "group",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/LS/2025_LSE100A.htm",
+     "title": "LSE100A The LSE Course: How can we transform our climate futures?",
+     "section": "Assessment",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Critical evaluation (50%, 1000 words). Project (50%, 3000 words).",
+     "supports": [
+      "project",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://info.lse.ac.uk/current-students/lse100/about-lse-100/Frequently-Asked-Questions",
+     "title": "LSE100 Frequently Asked Questions",
+     "section": "FAQ",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "LSE100 is LSE's flagship interdisciplinary course taken by all LSE undergraduates in the first year of their degree programme; counts as one of nine first-year marks, equivalent to a half-unit course; does not count towards classification for LLB.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Future17",
+   "english_name": "Future17",
+   "module_code": "",
+   "description": "International online experiential programme delivered by QS with a consortium of universities and promoted to LSE students via the LSE100 pages. LSE undergraduates join international teams of about five students (with 1-2 academic mentors) for ~12 weeks to work on a UN SDG challenge set by a business, charity or NGO partner, ending in a solutions showcase.",
+   "academic_reach": "University-wide",
+   "admin_host": "LSE100 (LSE recruitment) / QS and international university consortium (delivery)",
+   "eligible_faculties_programmes": "All LSE undergraduate programmes",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Any undergraduate year (not restricted in evidence)",
+   "eligibility_restrictions": "Open to all LSE undergraduates via application; criteria: interest in SDGs, collaboration/communication, leadership potential, analytical skills.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "No evidence of credit; described as accessible 'alongside your studies' (probably extracurricular).",
+   "duration": "~12 weeks; LSE recruits two cohorts per academic year",
+   "delivery_format": "Fully online, international teams",
+   "project_based": "Yes",
+   "project_evidence": "Teams address a specific sustainability challenge set by a partner and present solutions at the Future17 Solution Showcase [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in teams of about five with students from other universities, each team with 1-2 academic mentors [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges are set by global organisations (business, charity or NGO partners); students work with the partner on its SDG challenge [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets live challenge; works with team; receives solutions at showcase",
+   "named_partners": "",
+   "deliverable": "Solution/recommendations presented at Future17 Solution Showcase",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (application call closing 7 Sept 2026)",
+   "participation_data": "",
+   "unresolved": "Credit status; number of LSE participants; named partner organisations for LSE cohorts; whether the September 2026 call is for the autumn 2026 cohort (assumed).",
+   "legacy_ref": "Future17",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://info.lse.ac.uk/current-students/lse100/Future17-Join-a-global-team-solving-real-sustainability-challenges",
+     "title": "Future17: Join a global team solving real sustainability challenges",
+     "section": "Programme page",
+     "pub_year": "2026 (application deadline 7 September 2026)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "'an international experiential learning programme that brings together students from leading universities around the world to tackle real sustainability challenges set by global organisations'; runs approx. 12 weeks, delivered entirely online; teams of about five with one or two academic mentors working with a business, charity or NGO partner on an SDG challenge; 'Applications are open to all LSE undergraduate students'; applications close 7 September 2026; LSE recruits two cohorts each academic year.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "LSE Community Engagement Programme (CEP)",
+   "english_name": "LSE Community Engagement Programme (CEP)",
+   "module_code": "",
+   "description": "LSE Volunteer Centre consultancy challenge: student teams (reported as 6-7 students) act as volunteer consultants to UK or overseas charities, investigating a charity-set problem (e.g. fundraising strategy, attracting younger audiences, inclusivity, marketing strategy), liaising with the charity as client and delivering a consultancy report and presentation, supported by an LSE alumni mentor.",
+   "academic_reach": "University-wide",
+   "admin_host": "LSE Volunteer Centre (LSE Careers)",
+   "eligible_faculties_programmes": "All current LSE students",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Current LSE students; application via CareerHub",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None (extracurricular)",
+   "duration": "c. 10-16 weeks (26 Nov 2025-25 Mar 2026; 13 Jan-17 Mar 2027)",
+   "delivery_format": "Team consultancy, hybrid",
+   "project_based": "Yes",
+   "project_evidence": "Teams answer a charity's project brief and produce actionable recommendations in consultancy reports and presentations [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Delivered by student teams; team support from Volunteer Centre, alumni mentor and the charity [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Charities apply with project briefs, act as clients with whom teams liaise, and receive the consultancy report/presentation [1][2][3].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client: sets brief, liaises with team, receives report/presentation",
+   "named_partners": "",
+   "deliverable": "Consultancy report and presentation to the charity",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (ran Nov 2025-Mar 2026); 2026/27 round recruiting",
+   "participation_data": "Team size 6-7 students reported in Volunteer Centre blog posts (2023-2024); number of teams/charities not published in sources found.",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://info.lse.ac.uk/current-students/volunteer-centre/Community-engagement-programme",
+     "title": "Community Engagement Programme",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Consultancy challenge in which student teams take on a charity's problem, investigate the challenges, liaise with their charity partners (the clients) and produce actionable recommendations, presented in consultancy reports and presentations; open to all current students.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://blogs.lse.ac.uk/vcb/2025/10/20/lse-community-engagement-programme-2026-applications-now-open/",
+     "title": "LSE Community Engagement Programme 2026: Applications now open!",
+     "section": "Blog post",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Programme runs 26 November 2025 to 25 March 2026; student applications via CareerHub until 9 November 2025; volunteer consultants answer project briefs for charities; teams supported by the Volunteer Centre, LSE Alumni Mentors and the charity.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.lse.ac.uk/vcb/2026/08/03/lse-community-engagement-programme-now-recruiting-charities-for-2027/",
+     "title": "LSE Community Engagement Programme: Now recruiting charities for 2027!",
+     "section": "Blog post",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Next programme runs 13 January - 17 March 2027; charity applications open 3 August - 7 October 2026; report deadline 10 March 2027.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Research Volunteering Scheme (RVS)",
+   "english_name": "Research Volunteering Scheme (RVS)",
+   "module_code": "",
+   "description": "LSE Volunteer Centre scheme in which teams of LSE postgraduates answer a research question posed by a charity (e.g. rapid evidence reviews on prison overcrowding; root causes of violence against women), producing a secondary-research paper (literature review) and presenting it to the charity partner.",
+   "academic_reach": "University-wide",
+   "admin_host": "LSE Volunteer Centre (LSE Careers)",
+   "eligible_faculties_programmes": "All current LSE postgraduate students",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any postgraduate year",
+   "eligibility_restrictions": "Postgraduates only (taught and research); current LSE students",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None (extracurricular)",
+   "duration": "November to March (2025/26: 12 Nov 2025 - mid-March 2026)",
+   "delivery_format": "Team research project",
+   "project_based": "Yes",
+   "project_evidence": "Each team answers a defined charity research question and submits a research paper, plus a presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of LSE postgraduates' answer each question [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Charities apply to submit the academic question and receive the paper and presentation [1][2].",
+   "partner_type": "Charity/community",
+   "partner_role": "Poses research question; receives research paper and presentation",
+   "named_partners": "",
+   "deliverable": "Secondary-research paper (literature review) + presentation to charity",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (2026/27 round recruiting)",
+   "participation_data": "10 charity questions (projects), 2025/26 round [1].",
+   "unresolved": "Student level is postgraduate only (taught + research), recorded as Mixed; borderline on 'substantive project' because output is a literature review.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://blogs.lse.ac.uk/vcb/2025/10/13/research-volunteering-scheme-applications-now-open-2/",
+     "title": "Research Volunteering Scheme: Applications now open!",
+     "section": "Blog post",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Teams of LSE postgraduates use their academic knowledge and skills to assist a charity by answering an academic question; 10 questions to be answered by beginning of March 2026; output a research paper based on secondary research (literature review) with a presentation to charity partners; student applications 13 Oct - 2 Nov 2025; postgraduates only.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://blogs.lse.ac.uk/vcb/2025/09/01/research-volunteering-scheme-now-recruiting-charities-for-2025-6/",
+     "title": "Research Volunteering Scheme: Now recruiting charities for 2025-6!",
+     "section": "Blog post",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Charity applications 1-28 September 2025; scheme runs 12 November 2025 - mid-March 2026.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.lse.ac.uk/vcb/2026/07/23/how-to-recruit-and-engage-lse-student-volunteers-in-2026-27/",
+     "title": "How to Recruit and Engage LSE Student Volunteers in 2026/27",
+     "section": "Blog post",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "The Research Volunteering Scheme runs every November to March; charity applications open on 3 August.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Department of Management Business Projects (Employer Partnerships)",
+   "english_name": "Department of Management Business Projects (Employer Partnerships)",
+   "module_code": "",
+   "description": "Department of Management umbrella through which organisations sponsor business projects across five programme streams (GMiM, HRO Links, CEMS/MBA, Marketing Action Learning Projects, Open Innovation) with differing scope, duration and group size. Sponsors supply the brief and a project supervisor and receive a final presentation and/or business report; no charge to sponsors.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Department of Management, Employer Relations",
+   "eligible_faculties_programmes": "Students on specified Department of Management MSc programmes",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Students work on a business project or challenge provided by an organisation [1].",
+   "group_working": "Yes",
+   "group_evidence": "GMiM projects 4-6 students; HRO Links teams of two [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsors supply the brief and a Project Supervisor who checks in throughout; students give final presentation and/or business report to the organisation [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (GMiM proposals due 26 Aug 2026; projects Oct 2026-Jan 2027)",
+   "participation_data": "",
+   "unresolved": "Open Innovation (OI) stream not separately evidenced (programme/course not identified).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/management/employer-partnerships/Business-Projects-Main-Page",
+     "title": "Business Projects",
+     "section": "Main page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "The department 'currently offers Business Projects across five of its programmes, with differing levels of scope, duration and student group sizes' (GMiM, HRO Links, CEMS/MBA, MALP, Open Innovation); sponsors supply the brief and a Project Supervisor; students typically give a final presentation and/or business report to the organisation; GMiM proposal deadline 26 August 2026, projects October 2026-January 2027.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": "S5",
+   "is_umbrella": false,
+   "official_name": "GMiM Capstone Course - Management in Action",
+   "english_name": "GMiM Capstone Course - Management in Action",
+   "module_code": "MG488B (with MG488A)",
+   "description": "Second-year Global Master's in Management capstone: LSE-sourced client projects from large multinationals to small social enterprises (UK and global), allocated to groups of 4-6; groups manage the client, submit an interim presentation to faculty coaches and deliver a c.30-minute oral presentation plus slide deck with appendices.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Management",
+   "eligible_faculties_programmes": "Global Master's in Management (GMiM)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 2 of GMiM",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Capstone project 65% of combined grade; MG488A 35% (participation 10%, 2,000-word essay 25%). Criteria include 'Effectiveness of Client Management'.",
+   "duration": "Autumn Term (Oct-Jan)",
+   "delivery_format": "Team consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Client project with scoped objectives, research methodology and recommendations; assessed via oral presentation and slides [1].",
+   "group_working": "Yes",
+   "group_evidence": "Projects allocated, on average, to groups of 4-6 students; group assessment [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects sourced by LSE from client partners; client management assessed; final presentations to sponsors [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: supplies business problem, interacts with team, receives presentation",
+   "named_partners": "",
+   "deliverable": "Client presentation (c.30 min) + slides and appendices",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (2026/27 recruiting sponsors)",
+   "participation_data": "",
+   "unresolved": "Whether compulsory for all GMiM students (inferred from 'capstone' and assessment wording, not from regulations).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/MG/2025_MG488B.htm",
+     "title": "MG488B GMiM Capstone Course - Management in Action",
+     "section": "Course content; Assessment",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "'The projects will be sourced by LSE and are allocated, on average to groups of 4-6 students. Client partners range from large multinational organisations to small social enterprises, located both in the UK and globally.' Capstone Project accounts for 65% of overall grade; oral presentation (approx. 30 minutes) and slides; criteria include 'Effectiveness of Client Management'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/management/assets/documents/Employer-Partnerships-Business-Project-brochures/-GMiM-2025-26.pdf",
+     "title": "Global Master's in Management Business Projects (brochure 2025-26)",
+     "section": "Timeline",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Proposal deadline 22 September; students work on Business Project October-January; final presentation week of 19 January 2026; no charge to companies.",
+     "supports": [
+      "employer",
+      "status",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": "S5",
+   "is_umbrella": false,
+   "official_name": "CEMS & MBA Business Projects",
+   "english_name": "CEMS & MBA Business Projects",
+   "module_code": "",
+   "description": "Sponsored business projects for CEMS (Master's in International Management) students at LSE and MBA students: teams of 4-6 work February-May on an organisation's business problem and present final recommendations to sponsors.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Management",
+   "eligible_faculties_programmes": "CEMS MIM students at LSE; 'MBA' students (programme not identified)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "",
+   "duration": "February - May (Winter/Spring Term)",
+   "delivery_format": "Team consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Organisation-proposed business project culminating in final presentations [1].",
+   "group_working": "Yes",
+   "group_evidence": "4-6 students are assigned to a project [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsors submit proposals, meet students (typically fortnightly) and receive final presentations (4-18 May 2026) [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client",
+   "named_partners": "",
+   "deliverable": "Final presentation to sponsor",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Credit/assessment and course code; which 'MBA' students participate (LSE has no standalone MBA); whether compulsory for CEMS students.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/management/assets/documents/Employer-Partnerships-Business-Project-brochures/CEMS-MBA-2025-26.pdf",
+     "title": "CEMS & MBA Business Projects (brochure 2025-26)",
+     "section": "Brochure",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "4-6 students assigned to a project; proposals due 28 November 2025; groups assigned 26 January 2026; students work February-May; final presentations to sponsors 4-18 May 2026; no charge to companies; students typically meet sponsor fortnightly.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": "S5",
+   "is_umbrella": false,
+   "official_name": "HRO Links Scheme (Links Project)",
+   "english_name": "HRO Links Scheme (Links Project)",
+   "module_code": "MG493 (Dissertation, Links route)",
+   "description": "MSc Human Resources and Organisations option: 1-2 students conduct consultancy research on an HR question posed by an external sponsor, producing a business report for the organisation and a joint LSE dissertation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Management",
+   "eligible_faculties_programmes": "MSc Human Resources and Organisations",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Within MG493 Dissertation (1 unit); Links students write a joint dissertation with their project partner.",
+   "duration": "October - January (2026/27 stream)",
+   "delivery_format": "Pair consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Research on an HR question posed by the Links sponsor, business report to organisation [2][3].",
+   "group_working": "Unclear",
+   "group_evidence": "Typically completed in pairs (programme page) but brochure says 1-2 students per project, so some routes may be individual; whether a pair counts as a 'team' needs a coordinator ruling [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsors submit project proposals (deadline 7 Nov 2025), pose the HR question and receive a business report [2][3].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor/client",
+   "named_partners": "ABB (Department of Management case page 'ABB: Transforming HR communications', undated)",
+   "deliverable": "Business report to sponsor + joint dissertation",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (proposal deadline 26 Aug 2026)",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations",
+     "title": "MSc Human Resources and Organisations",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Links Project: a consultancy project completed in pairs for an external organisation.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/management/assets/documents/Employer-Partnerships-Business-Project-brochures/HRO-Links-2025-26.pdf",
+     "title": "HRO Links 2025-26",
+     "section": "Brochure",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "1-2 students will be assigned to a project; ends with a business report for the organisation alongside a joint LSE dissertation with project partner; proposals 7 November, assignment 19 December; no charge to sponsors.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lse.ac.uk/resources/calendar/courseGuides/MG/2026_MG493.htm",
+     "title": "MG493 Dissertation",
+     "section": "Course content",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students can also apply for a Links project and, if accepted, will conduct research on an HR question posed by the Links sponsor.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": "S5",
+   "is_umbrella": false,
+   "official_name": "Marketing Action Learning Project (MALP)",
+   "english_name": "Marketing Action Learning Project (MALP)",
+   "module_code": "MG4F1",
+   "description": "Compulsory MSc Marketing half unit: teams of about six work with vetted company sponsors (global consumer brands to startups) on a real marketing challenge (product launch, market entry, repositioning, digital strategy), conducting primary/secondary research and producing a marketing strategy with recommendations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Management",
+   "eligible_faculties_programmes": "MSc Marketing",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Half unit; oral examination 40% + project 60% (report August)",
+   "duration": "Winter Term to August (presentations early July)",
+   "delivery_format": "Team client project",
+   "project_based": "Yes",
+   "project_evidence": "Real marketing challenge; research and marketing strategy report [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of students work with vetted company sponsors' [1]; teams of six [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Company sponsors supply the marketing challenge; teams work with them [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor/client",
+   "named_partners": "Colgate-Palmolive, Cartier, Tata Group, Unilever (programme page, undated, 'have worked with')",
+   "deliverable": "Marketing strategy report and presentation",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "94 students (2025/26) per course guide",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar/courseGuides/MG/2026_MG4F1.htm",
+     "title": "MG4F1 Marketing Action Learning Project",
+     "section": "Course guide",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Teams of students work with vetted company sponsors, from global consumer brands to growth-stage startups, on a real marketing challenge; oral examination (40%), project (60%) in August; compulsory on MSc in Marketing; Total students 2025/26: 94.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-marketing",
+     "title": "MSc Marketing",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students have worked with companies such as Colgate-Palmolive, Cartier, Tata Group and Unilever; MALP commences in Winter Term, presentations early July, report deadline August.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.lse.ac.uk/management/2026/07/02/lses-msc-marketing-reflecting-on-the-marketing-action-learning-project/",
+     "title": "LSE's MSc Marketing: Reflecting on the Marketing Action Learning Project",
+     "section": "Student blog",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students could nominate one person they wished to work with before being grouped into teams of six.",
+     "supports": [
+      "group",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MiM Capstone Course - International Management in Action (incl. London Consulting Project)",
+   "english_name": "MiM Capstone Course - International Management in Action (incl. London Consulting Project)",
+   "module_code": "MG4J4",
+   "description": "Compulsory capstone of the one-year MSc in Management (Master's in Management): leadership/teamwork skills element, then student groups work on a client company's business problem(s) before, during and after an international trip, and the London Consulting Project in which teams analyse a real business challenge from an external organisation and make recommendations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Management",
+   "eligible_faculties_programmes": "MSc in Management (1 Year Programme)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Project 60% (2,000 words), individual essay 30%, reflective learning report 10%",
+   "duration": "Winter Term (overseas visit then London Consulting Project)",
+   "delivery_format": "Team client projects incl. international trip",
+   "project_based": "Yes",
+   "project_evidence": "Groups work on a client company's business problem; project assessed at 60% [1]; teams analyse problem and make recommendations [3].",
+   "group_working": "Yes",
+   "group_evidence": "'student groups work on a client company's business problem(s)' [1]; 'working in teams' [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client company supplies business problem(s) [1]; company provides list of real business challenges and recommendations 'very likely be acted upon' [3]; external organisation presents challenge [2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: sets challenges, receives recommendations",
+   "named_partners": "",
+   "deliverable": "Client recommendations / project report",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "74 students (2024/25) per course guide",
+   "unresolved": "Whether the international-trip client project and the London Consulting Project are one assessed project or two; MG4J4 is not listed among the five Business Projects streams, so recorded separately.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/MG/2025_MG4J4.htm",
+     "title": "MG4J4 MiM Capstone Course - International Management in Action",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Compulsory on MSc in Management (1 Year Programme); second part has student groups work on a client company's business problem(s) before, during and after an international trip; project 60% (2,000 words), individual essay 30%, reflective learning report 10%; 2024/25 cohort 74 students.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/study-at-lse/graduate/masters-in-management",
+     "title": "Master's in Management",
+     "section": "Programme page",
+     "pub_year": "2026/27-2027/28",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "London Consulting Project - apply classroom learning to a real business challenge through a project with an external organisation; overseas Capstone visit then work with peers on a business challenge presented by an external organisation.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.lse.ac.uk/management/2026/05/21/lses-masters-in-management-the-programme-directors-perspective/",
+     "title": "LSE's Master's in Management: the Programme Director views",
+     "section": "Blog",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "The company provides a list of projects, real business challenges; 'working in teams, you will analyse the problem and make recommendations, knowing that those recommendations will very likely be acted upon.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Social Innovation and Entrepreneurship Fundamentals (year-long partner group project)",
+   "english_name": "Social Innovation and Entrepreneurship Fundamentals (year-long partner group project)",
+   "module_code": "MG4G6",
+   "description": "Compulsory MSc Social Innovation and Entrepreneurship course with a year-long applied group project with a real (social) organisation in a developing-country setting, including a virtual research week (AT Week 6) and in-country fieldwork (recent cohorts: Kenya, South Africa).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Management",
+   "eligible_faculties_programmes": "MSc Social Innovation and Entrepreneurship",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Project component 45% of MG4G6 assessment, including an element of group work",
+   "duration": "Autumn and Winter Terms",
+   "delivery_format": "Group project with virtual research week and international field trip",
+   "project_based": "Yes",
+   "project_evidence": "Year-long applied project on a social impact challenge; project worth 45% [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'year-long applied group project' [2]; project component includes group work [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students 'work with a real organisation on a social impact challenge' [2]; partner organisation in a developing-country setting with fieldwork [1][3].",
+   "partner_type": "Unclear",
+   "partner_role": "Partner organisation sets/hosts social impact challenge",
+   "named_partners": "",
+   "deliverable": "Group project output (form not specified)",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Partner type (social enterprise, NGO or business) and what output the partner receives; separate 'consulting Capstone' option with a client organisation (course code not found; group basis unknown).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG4G6.htm",
+     "title": "MG4G6 Social Innovation and Entrepreneurship Fundamentals",
+     "section": "Course guide",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Compulsory on the MSc; taught across Autumn and Winter Terms; project worth 45% of assessment including an element of group work; students work with a social organisation in a developing-country setting.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-social-innovation-and-entrepreneurship",
+     "title": "MSc Social Innovation and Entrepreneurship",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Year-long applied group project, 'where you'll work with a real organisation on a social impact challenge'; Virtual Research Week in Autumn Term Week 6; capstone options: dissertation, enterprise Capstone or consulting Capstone with a client organisation.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.lse.ac.uk/management/2026/04/02/lses-msc-social-innovation-and-entrepreneurship-supporting-innovation-in-africa/",
+     "title": "LSE's MSc Social Innovation and Entrepreneurship: Field trip",
+     "section": "Blog",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "In-person international field trip in Winter Term to Kenya and South Africa.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S12",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Capstone Project (MSc Data Science)",
+   "english_name": "Capstone Project (MSc Data Science)",
+   "module_code": "ST498",
+   "description": "Compulsory MSc Data Science capstone: groups carry out a real-world data science project suggested by a partner (often companies; sometimes LSE academics/professional services), using partner data, jointly supervised by LSE faculty and partner collaborators, sometimes on partner premises; group report (max 50 pages).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Statistics",
+   "eligible_faculties_programmes": "MSc Data Science",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "1 unit; project 100% (group report, max 50 pages, August)",
+   "duration": "c. November to August",
+   "delivery_format": "Group project with partner",
+   "project_based": "Yes",
+   "project_evidence": "Partner-suggested research project with data; draft (June) and final (August) group report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Assessed by a group report [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partner suggests the project, may provide data and co-supervises with weekly/bi-weekly meetings [1]; 20+ partners listed [2]. Caveat: some partners are internal LSE academics/professional services [3], so C holds for most but not all teams.",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes project, provides data, co-supervises",
+   "named_partners": "Deloitte, Mastercard, Meta, Microsoft, Moody's, Sky, Transport for London, Wise, World Trade Organization (partnerships page, undated)",
+   "deliverable": "Group report",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "49 students (2024/25) per course guide",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/ST/2025_ST498.htm",
+     "title": "ST498 Capstone Project",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Conducted in partnership with an industry partner and jointly supervised by LSE faculty and company partner collaborators; partner suggests the research project and may provide data; may require time on partner's premises; project 100%, group report capped at 50 A4 pages; Total students 2024/25: 49.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/statistics/partnerships",
+     "title": "Partnerships",
+     "section": "Department page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Working with over 20 partners including Deloitte, Mastercard, Meta, Microsoft, Moody's, Sky, Transport for London, Wise and the World Trade Organization.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://info.lse.ac.uk/staff/divisions/Teaching-and-Learning-Centre/TLC-resource-materials/Education-Case-Studies/Statistics-MSc-Data-Science-capstone-project",
+     "title": "Statistics - MSc Data Science capstone project (education case study)",
+     "section": "Case study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Partners are either companies or, in some instances, LSE academics and Professional Service divisions.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/programmeRegulations/taughtMasters/2025/MScDataScience.htm",
+     "title": "MSc in Data Science programme regulations",
+     "section": "Regulations",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "ST498 Capstone Project (1.0) listed as compulsory.",
+     "supports": [
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S13",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Project in Operations Research & Analytics",
+   "english_name": "Project in Operations Research & Analytics",
+   "module_code": "MA425",
+   "description": "MSc Operations Research & Analytics summer project, typically a consulting-like placement with an industry, government or non-profit partner, full-time June-August, possibly at the client site; alternative to MA426 dissertation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Mathematics",
+   "eligible_faculties_programmes": "MSc Operations Research & Analytics",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "1 unit; project 100%",
+   "duration": "Early June - end of August",
+   "delivery_format": "Consulting-style placement project",
+   "project_based": "Yes",
+   "project_evidence": "Consulting-like project for a partner, assessed as project 100% [1].",
+   "group_working": "Unclear",
+   "group_evidence": "No evidence whether projects are done individually or in teams; placement format suggests individual work.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects with industry, government or non-profit partners, possibly at client site [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client/host",
+   "named_partners": "Amazon, BT, British Airways, Emirates, FICO, Ford, Just Eat, Legal and General, National Audit Office, Transport for London ('past and present', undated)",
+   "deliverable": "Project report",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA425.htm",
+     "title": "MA425 Project in Operations Research & Analytics",
+     "section": "Course guide",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Typically a consulting-like placement with an industry, government or non-profit partner; full-time from early June until end of August, possibly at the client site; Project (100%); cannot be taken with MA426.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-operations-research-and-analytics",
+     "title": "MSc Operations Research and Analytics",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Past and present partners include Amazon, BT, British Airways, Emirates Airlines, FICO, Ford Motor Company, Just Eat, Legal and General, the National Audit Office and Transport for London.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S14",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MPA Capstone Project",
+   "english_name": "MPA Capstone Project",
+   "module_code": "PP4B3",
+   "description": "Six-month capstone in year 2 of the MPA (and LSE dual MPAs): groups of 3-6 work October-March on a public policy problem defined by an external client organisation, supervised by LSE staff, producing a 15,000-word report and group presentation; the client awards 20% of the mark.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Public Policy",
+   "eligible_faculties_programmes": "MPA; LSE-Sciences Po, Hertie, NUS and Tokyo dual MPAs",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 2 of MPA",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "1 unit; project 100% (15,000 words): client 20%, two academic readers 50%, supervisor 30%",
+   "duration": "October - March",
+   "delivery_format": "Team client consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Public policy problem defined by client; project report and presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Group project in teams usually of 3 to 6 [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Issue defined by the client organisation; client assesses 20% of mark based on presentation and report [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: defines problem, receives report/presentation, marks 20%",
+   "named_partners": "Recent partners listed: Goldman Sachs, Unilever, UNDP, UNICEF, OECD, Migration Policy Institute, NHS England (capstone page, undated)",
+   "deliverable": "15,000-word report + group presentation to client",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (2026/27 guide published)",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/PP/2025_PP4B3.htm",
+     "title": "PP4B3 MPA Capstone Project",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students will undertake a group project (in teams usually of 3 to 6 people) relating to a public policy problem faced by an external organisation; typical clients include public sector bodies, private sector companies, international organisations, think tanks and NGOs; 20% of the mark from the client organisation; compulsory on MPA and dual degrees.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/school-of-public-policy/study/master-of-public-administration/capstone",
+     "title": "MPA Capstone Projects",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Compulsory for second-year MPA students; groups of 3-6; October to March on an issue defined by the client organisation; recent partners include Goldman Sachs, Unilever, UNDP, UNICEF, OECD, Migration Policy Institute, NHS England.",
+     "supports": [
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S15",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Capstone Project: MPA - Data Science for Public Policy",
+   "english_name": "Capstone Project: MPA - Data Science for Public Policy",
+   "module_code": "PP4B5",
+   "description": "Capstone for the MPA in Data Science for Public Policy: groups of 3-6 undertake a project for an external client that can be tackled with quantitative/data-science tools.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Public Policy",
+   "eligible_faculties_programmes": "MPA in Data Science for Public Policy",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Client project tackled with data-science tools [1].",
+   "group_working": "Yes",
+   "group_evidence": "Group project in teams usually of 3 to 6 [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project for an external client; clients include public bodies, companies, international organisations, think tanks, NGOs [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "named_partners": "",
+   "deliverable": "Client report/presentation (details not retrieved)",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Assessment split and whether compulsory (likely, by analogy with PP4B3; not evidenced).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/PP/2025_PP4B5.htm",
+     "title": "PP4B5 Capstone Project: MPA - Data Science for Public Policy",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students will undertake a group project (in teams usually of 3 to 6) for an external client; clients include public sector bodies, private sector companies, international organisations, think tanks and NGOs; client projects can be meaningfully tackled with quantitative and data science tools.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S16",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Executive MPP Capstone Project",
+   "english_name": "Executive MPP Capstone Project",
+   "module_code": "PP4B3E",
+   "description": "Half-unit capstone for the Executive Master of Public Policy: teams of c.3-5 work intensively for one week on a public policy problem identified jointly by the Civil Service and LSE academics.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Public Policy",
+   "eligible_faculties_programmes": "Executive Master of Public Policy",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Half unit",
+   "duration": "One week (intensive)",
+   "delivery_format": "Team policy project",
+   "project_based": "Yes",
+   "project_evidence": "Defined public policy problem worked on as a capstone project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of roughly 3 to 5 [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "The Civil Service is the client and jointly identifies the problem with LSE academics [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Client; co-defines problem",
+   "named_partners": "",
+   "deliverable": "Not specified in extract",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Short duration (one week) makes 'substantive' borderline; output and client role in assessment not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/PP/2025_PP4B3E.htm",
+     "title": "PP4B3E Half Unit Executive MPP Capstone Project",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Client is the Civil Service; teams of roughly 3 to 5 work on a public policy problem identified jointly by the Civil Service and LSE academics, over one week.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S17",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Philosophy, Politics and Economics: Capstone",
+   "english_name": "Philosophy, Politics and Economics: Capstone",
+   "module_code": "GV343",
+   "description": "Compulsory fourth-year BSc PPE half unit: small teams under a faculty supervisor research a practical policy problem set by an external client over an intensive 11-week Autumn Term, presenting findings and submitting a written report to the client; projects showcased at the PPE showcase.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Government / PPE",
+   "eligible_faculties_programmes": "BSc Philosophy, Politics and Economics (incl. with Year Abroad)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Half unit; presentation 20% (AT Week 11) + project 80% (8,000-word report)",
+   "duration": "Autumn Term (11 weeks)",
+   "delivery_format": "Team client policy project",
+   "project_based": "Yes",
+   "project_evidence": "Research and analysis to address a practical policy issue for a client; 8,000-word report and presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Requires groups of students to carry out research; each team works under a faculty supervisor [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Practical policy problem set by an external client; written report submitted to the client [2]; past client projects e.g. Twaweza, Amazon Web Services (2023 showcase) [3].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: sets problem, receives report",
+   "named_partners": "Twaweza; Amazon Web Services (2023 showcase)",
+   "deliverable": "8,000-word report and presentation to client",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (2026 showcase 8 May 2026)",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/GV/2025_GV343.htm",
+     "title": "GV343 Philosophy, Politics and Economics: Capstone",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Requires groups of students to carry out research and analysis in order to address a practical policy issue or problem relevant to a client organisation; exclusively for fourth year BSc PPE students; clients may include public sector bodies, private companies, international organisations, think tanks and NGOs; presentation 20%, project 80%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/philosophy/studying-at-the-department/bsc-philosophy-politics-and-economics-showcase",
+     "title": "BSc Philosophy, Politics and Economics Showcase",
+     "section": "Showcase page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Each team works under a faculty supervisor on a practical policy problem set by an external client over an intensive 11-week period culminating in a presentation and submission of a written report to the client.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lse.ac.uk/philosophy/ppe-showcase/2023-showcase/",
+     "title": "2023 Showcase",
+     "section": "Showcase",
+     "pub_year": "2023",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Lists named client projects, including one for Twaweza and one for Amazon Web Services.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.lse.ac.uk/philosophy/events/upcoming-events/philosophy-showcase-2026",
+     "title": "Philosophy Showcase 2026",
+     "section": "Event",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Friday 8 May 2026, including Presentations of 4th Year PPE Capstone Projects.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S18",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "International Development Consultancy Projects",
+   "english_name": "International Development Consultancy Projects",
+   "module_code": "DV443 / DV453 / DV466",
+   "description": "Department of International Development model in which MSc teams (3-6) produce a consultancy report and presentation for an external client (international organisations, governments, NGOs, companies) on Terms of Reference proposed by the client and vetted by LSE, October-March.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Department of International Development",
+   "eligible_faculties_programmes": "Specified ID MSc programmes (see children)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Department assessment page: group project and report 80%, reflective learning report 10%, group presentation 10%",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Report for a client on a problem relevant to its activities [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3-5 [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients submit proposals/draft Terms of Reference and refine scope with the team; report and presentation to client [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "named_partners": "Past clients (undated page): DfID, UNOCHA, World Bank, UNDP, UNICEF, UNHCR, NATO, UK Foreign Office, CARE, Oxfam, MSF, Fairtrade Foundation, Shell, Wedu",
+   "deliverable": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/international-development/study/consultancy-projects",
+     "title": "International Development Consultancy Project",
+     "section": "Department page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Working in teams of 3-5, students produce a report for a client that deals with a problem of theory or practice relevant to the client's activities; clients submit an initial proposal or draft Terms of Reference; past clients include DfID, UNOCHA, the World Bank, UNDP, UNICEF, UNHCR, NATO, the UK Foreign Office, CARE, Oxfam, MSF, The Fairtrade Foundation, Shell Oil and Wedu.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/international-development/study/assessment-information",
+     "title": "Assessment Information",
+     "section": "Department page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Consultancy projects: group project and report (80%), reflective learning report (10%), group presentation (10%) in Winter Term.",
+     "supports": [
+      "credit",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S19",
+   "parent_local_id": "S18",
+   "is_umbrella": false,
+   "official_name": "Development Management Consultancy Project",
+   "english_name": "Development Management Consultancy Project",
+   "module_code": "DV443",
+   "description": "Half unit: teams of 3-6 undertake a live consultancy project for a real client under client-provided Terms of Reference, starting Autumn Term with client reports due in Winter Term and final client presentations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of International Development",
+   "eligible_faculties_programmes": "MSc Development Management (Applied Development Economics) and LSE-Sciences Po variants (compulsory); MSc Development Management (Political Economy) (available)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Half unit; weightings inconsistent across sources (guide: project 70% 8,000 words, oral 20%, presentation 10%; dept page: 80/10/10)",
+   "duration": "Autumn - Winter Term",
+   "delivery_format": "Team client consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Live consultancy project with ToR; client report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Working as part of a team; teams usually 3-6 [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real client provides Terms of Reference; client reports and presentations scheduled with client [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "named_partners": "",
+   "deliverable": "Client report (8,000 words) + presentation",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "101 students (2024/25) per course guide",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/DV/2025_DV443.htm",
+     "title": "DV443 Development Management Consultancy Project",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students gain practical experience by working as part of a team on a live consultancy project for a real client, teams usually between three and six, using client-provided Terms of Reference; client reports due in Winter Term; final client presentations; Total students 2024/25: 101; compulsory on MSc Development Management (Applied Development Economics).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S20",
+   "parent_local_id": "S18",
+   "is_umbrella": false,
+   "official_name": "Health and International Development Consultancy Project",
+   "english_name": "Health and International Development Consultancy Project",
+   "module_code": "DV453",
+   "description": "Half-unit consultancy project in the same format (team report for an external client) for MSc Health and International Development (guaranteed place) and MSc Development Studies (optional, controlled access).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of International Development",
+   "eligible_faculties_programmes": "MSc Health and International Development; MSc Development Studies",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Half unit; report 80% (8,000 words), presentation 10%, learning log 10% (2026/27 guide)",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy report and presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Department consultancy-project model: teams of 3-5 [3]; DV453-specific team wording not retrieved.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Department consultancy-project page: clients submit proposals/draft ToR and receive the report [3]; DV453 course-guide client wording not retrieved verbatim.",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Compulsory vs optional status conflicts across 2023 handbook/2024-25 info; course-guide extract does not itself quote client involvement.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar/courseGuides/DV/2025_DV453.htm",
+     "title": "DV453 Health and International Development Consultancy Project",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Half unit; open to MSc Development Studies and MSc Health and International Development students only; controlled access; Health and International Development students guaranteed a place.",
+     "supports": [
+      "eligibility",
+      "status",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/resources/calendar/courseGuides/DV/2026_DV453.htm",
+     "title": "DV453 Health and International Development Consultancy Project",
+     "section": "Course guide",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Assessment: report (80%, 8000 words), presentation (10%), learning log (10%).",
+     "supports": [
+      "project",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lse.ac.uk/international-development/study/consultancy-projects",
+     "title": "International Development Consultancy Project",
+     "section": "Department page (covers the department's consultancy courses)",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Working in teams of 3-5, students produce a report for a client; clients submit an initial proposal or draft Terms of Reference.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S21",
+   "parent_local_id": "S18",
+   "is_umbrella": false,
+   "official_name": "Humanitarian Consultancy Project",
+   "english_name": "Humanitarian Consultancy Project",
+   "module_code": "DV466",
+   "description": "Compulsory half unit for MSc International Development and Humanitarian Emergencies: students work in a small team on a live consultancy project for a real humanitarian, development or emergency-based organisation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of International Development",
+   "eligible_faculties_programmes": "MSc International Development and Humanitarian Emergencies",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Half unit (Paper 2 of programme regulations)",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Live consultancy project on a current policy issue [1][3].",
+   "group_working": "Yes",
+   "group_evidence": "Work in a small team [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Live consultancy project for a real client (humanitarian/development/emergency organisation) [1][3].",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "named_partners": "Programme page lists e.g. UNICEF, UNHCR, ICRC, Save the Children (undated)",
+   "deliverable": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/DV/2025_DV466.htm",
+     "title": "DV466 Half Unit Humanitarian Consultancy Project",
+     "section": "Course guide",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Compulsory on the MSc in International Development and Humanitarian Emergencies; working on a live consultancy project for a real client.",
+     "supports": [
+      "project",
+      "employer",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/resources/calendar2025-2026/programmeRegulations/taughtMasters/2025/MScInternationalDevelopmentAndHumanitarianEmergencies.htm",
+     "title": "MSc in International Development and Humanitarian Emergencies regulations",
+     "section": "Paper 2",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "DV466 Humanitarian Consultancy Project (0.5) listed under Paper 2.",
+     "supports": [
+      "participation",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-international-development-and-humanitarian-emergencies",
+     "title": "MSc International Development and Humanitarian Emergencies",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Humanitarian consultancy project where you'll work in a small team on a current policy issue for a humanitarian, development, or emergency-based organisation; clients include UNICEF, UNHCR, the ICRC, Save the Children and others.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S22",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Urban Policy and Planning (applied consultancy project)",
+   "english_name": "Urban Policy and Planning (applied consultancy project)",
+   "module_code": "GY454",
+   "description": "Half-unit Winter Term course whose centrepiece assessment is a team consultancy exercise in which students act as planning consultants responding to a 'live or archival' planning brief set by a 'typical type of client'.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Geography and Environment",
+   "eligible_faculties_programmes": "Geography & Environment MSc programmes (not confirmed)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Half unit; assessment includes an element of group work",
+   "duration": "Winter Term",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Applied consultancy project responding to a planning brief [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Working in teams, students act as professional planning consultants' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Brief may be live or archival and is set by 'a typical type of client' - no evidence a real organisation supplies it or receives outputs [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Whether live briefs come from real planning authorities/developers in any year.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/resources/calendar/courseGuides/GY/2026_GY454.htm",
+     "title": "GY454 Urban Policy and Planning",
+     "section": "Course guide",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Applied consultancy project is the centrepiece of assessment; working in teams, students act as professional planning consultants responding to a live or archival planning brief set by a typical type of client; assessment includes an element of group work.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S23",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "LSE Legal Advice Centre Sustainability Clinic",
+   "english_name": "LSE Legal Advice Centre Sustainability Clinic",
+   "module_code": "",
+   "description": "Part of the Legal Advice Centre 'Sustainability and the Rule of Law' projects (led by Dr Marie Petersmann): c.12-20 students from LLB, BA Anthropology and Law, LLM and other master's programmes work in collaborative teams on ecological issues, drafting policy reports for environmental NGOs/charities, memos to UN Special Rapporteurs and amicus briefs; e.g. a ClientEarth (Accountable Finance) collaboration producing a report on banks' liability for financed emissions, presented to an expert panel.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "LSE Law School - Legal Advice Centre",
+   "eligible_faculties_programmes": "LLB, BA Anthropology and Law, LLM and various Master's programmes",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Policy reports, memos and amicus briefs on defined issues; ClientEarth report [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in collaborative teams [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Reports drafted for environmental NGOs and charities [1]; ClientEarth collaboration with ClientEarth specialists training students [2].",
+   "partner_type": "Charity/community",
+   "partner_role": "NGO partner sets issue, trains/advises, receives report",
+   "named_partners": "ClientEarth (year not shown)",
+   "deliverable": "Policy reports, memos, amicus briefs",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "Approx. 20 students (clinic page, undated); a LAC diary entry gives twelve",
+   "unresolved": "Dates of ClientEarth project and current cohort; credit status; course-level eligibility rules.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/law/legal-advice-centre/sustainability-and-the-rule-of-law",
+     "title": "Sustainability and the Rule of Law",
+     "section": "LAC projects page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Groups ECtHR Intervention Clinic, Sustainability Clinic and Policy Clinic; Sustainability Clinic offers approximately 20 students from the LLB, BA in Anthropology and Law, LLM and various Master's programmes the opportunity to work on ecological issues; students work in collaborative teams drafting policy reports for environmental NGOs and charities, memos to UN Special Rapporteurs and amicus curiae briefs.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/law/gsos/clinic/client-earth",
+     "title": "Banks, Financed Emissions, and the Road to Climate Accountability",
+     "section": "Clinic project page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Collaboration with ClientEarth's Accountable Finance team; students produced the report and presented it to an expert panel; weekly training from LSE experts and ClientEarth specialists.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S24",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "ECtHR Intervention Clinic",
+   "english_name": "ECtHR Intervention Clinic",
+   "module_code": "",
+   "description": "Extra-curricular LLM clinic run by Dr Martin Husovec with the NGO European Information Society Institute (EISi): student teams draft third-party interventions in pending European Court of Human Rights cases on digital liberties (e.g. Podchasov v Russia, 2021; Sanchez v France).",
+   "academic_reach": "Programme/course",
+   "admin_host": "LSE Law School",
+   "eligible_faculties_programmes": "LLM",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Third-party intervention briefs filed in specific ECtHR cases [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Brief prepared by five LLM students for Podchasov v Russia (2021) [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Clinic run with EISi (NGO); not clear whether EISi acts as client/filing party or co-convenor [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "NGO co-runs clinic (role unclear)",
+   "named_partners": "European Information Society Institute (EISi)",
+   "deliverable": "Third-party intervention submissions to ECtHR",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021 (dated); later Sanchez v France undated",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lse.ac.uk/law/study/llm/echr-clinic-llm",
+     "title": "ECtHR Intervention Clinic",
+     "section": "LLM page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Run by Dr Martin Husovec with the European Information Society Institute (EISi); extra-curricular activity intervening before the Court in cases involving digital liberties; third party interventions are often cited by the Strasbourg court.",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lse.ac.uk/law/news/2021/echr-clinic",
+     "title": "LSE Law Students Intervene Before the European Court of Human Rights",
+     "section": "News",
+     "pub_year": "2021",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Brief prepared by five LLM students for Podchasov v Russia.",
+     "supports": [
+      "group",
+      "project"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "LSE GROUPS (undergraduate group research projects)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Eden Centre-run undergraduate group research projects; guide describes building an undergraduate research project with no evidence of external organisation briefs/clients (internal academic research).",
+   "source_url": "https://info.lse.ac.uk/staff/divisions/Eden-Centre/Assets-EC/Documents/LSE-GROUPS-guide-2025.pdf",
+   "status_note": "2025 guide"
+  },
+  {
+   "name": "LSE Generate (entrepreneurship hub, Accelerator Programme)",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Supports students/alumni building their own ventures; no external client brief.",
+   "source_url": "https://info.lse.ac.uk/staff/divisions/research-and-innovation/generate",
+   "status_note": ""
+  },
+  {
+   "name": "LSE Careers Discover | Consultancy",
+   "legacy": false,
+   "category": "Careers service",
+   "reason": "Careers events (fairs, alumni panels, skills seminars) about consulting careers; no project.",
+   "source_url": "https://info.lse.ac.uk/current-students/careers/events/discover-consultancy",
+   "status_note": ""
+  },
+  {
+   "name": "MY498 Capstone Project (MSc Applied Social Data Science)",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual 10,000-word data-science thesis supervised in Department of Methodology; no external partner or group evidence.",
+   "source_url": "https://www.lse.ac.uk/resources/calendar/courseGuides/MY/2026_MY498.htm",
+   "status_note": "2026/27 guide"
+  },
+  {
+   "name": "GV331 Capstone Data Science & Civic Engagement (BSc Politics and Data Science)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Design met A/B/C (groups doing applied projects for civic partner organisations) but course marked not available 2021/22 and 2022/23; no later guide found.",
+   "source_url": "https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/GV/2021_GV331.htm",
+   "status_note": "Paused/discontinued (not available 2021/22, 2022/23)"
+  },
+  {
+   "name": "MG315 Marketing Action Learning Project (undergraduate)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Team marketing plan project; 2022/23 guide shows 'Not available'; no 2025/26 guide; client involvement not evidenced in extract. Superseded at PG level by MG4F1.",
+   "source_url": "https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/MG/2022_MG315.htm",
+   "status_note": "Not available 2022/23; no current guide"
+  },
+  {
+   "name": "MG311 Behavioural Science and Group Processes",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group project analyses a real decision selected by students, not a client brief.",
+   "source_url": "https://www.lse.ac.uk/resources/calendar/courseGuides/MG/2026_MG311.htm",
+   "status_note": "2026/27"
+  },
+  {
+   "name": "LSE Legal Advice Centre / Homelessness Legal Clinic (with Centrepoint and Shelter)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Pro bono casework in pairs under Shelter lawyers; individual-client legal casework rather than a bounded project with defined output to an organisation; volunteer roles for 2nd/3rd year LLB, BA Law and Anthropology and LLM (~5 hrs/week).",
+   "source_url": "https://www.lse.ac.uk/law/legal-advice-centre/access-to-justice",
+   "status_note": "2025/26 volunteer call on https://www.lse.ac.uk/law/legal-advice/lse-law-students"
+  },
+  {
+   "name": "LSE Consulting",
+   "legacy": false,
+   "category": "Other",
+   "reason": "LSE's academic consultancy arm (staff consulting for clients), not a student scheme.",
+   "source_url": "https://www.lse.ac.uk/business/consulting",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**LSE** has substantial but mainly **postgraduate, programme-embedded** live-client group project provision, together with a few institution-wide extracurricular routes.\n\n- **Institution-wide:** **LSE100** is compulsory for all first-year undergraduates and includes a 4-5 person group research project. That project is addressed to a self-defined target audience, and no external organisation was evidenced, so it is a near-miss on criterion C. The open qualifying routes are selective and extracurricular: **Future17** (QS consortium; teams of about five work on SDG challenges set by business, charity or NGO partners; open to all undergraduates), the **Volunteer Centre Community Engagement Programme** (teams of 6-7 work as consultants on charity briefs; open to all students) and the **Research Volunteering Scheme** (postgraduate teams answer charity research questions; 10 questions in 2025/26).\n- **Embedded client capstones (compulsory within programmes):**\n  - **Management:** a sponsored Business Projects framework (GMiM MG488B, CEMS, HRO Links in pairs, MSc Marketing MG4F1), the MiM capstone MG4J4 / London Consulting Project, and the SIE partner project MG4G6.\n  - **School of Public Policy:** the MPA capstone PP4B3, where the client marks 20%; also PP4B5 and the Executive MPP capstone PP4B3E with the Civil Service.\n  - **International Development:** the DV443, DV453 and DV466 consultancy projects with clients such as UN agencies and NGOs.\n  - **Statistics:** the ST498 Data Science capstone, co-supervised by industry partners.\n  - **Undergraduate:** the only curricular undergraduate route verified is the **GV343 PPE Capstone** (year 4), with an external client and a report to that client.\n- **Partners:** clients define the problems, co-supervise, receive the reports and presentations, and sometimes assess.\n- **Uncertain:** credit for Future17; the current status of the law clinics; group size in MA425; whether live clients are used in GY454; and possible further departmental instances (Economics, Social Policy and Media had none found).",
+ "gaps": "Future17 credit status and LSE participant numbers; Department of Management 'Open Innovation' business-project stream and SIE consulting capstone not identified at course level; CEMS/MBA project credit and which 'MBA' students; PP4B5/PP4B3E assessment and compulsory status; PP4A7E Urban Consultancy Project (Executive MSc Cities) not searched in detail; LAC Policy Clinic (reports on live issues for external partners) not separately verified; law clinic current cohorts undated; no client-project evidence found for Economics, Social Policy, Media & Communications, Psychological & Behavioural Science, Anthropology, Sociology, International Relations, Accounting, Finance (not every department searched individually; further departmental instances may exist); search budget exceeded (42 searches) to calibrate depth."
+}

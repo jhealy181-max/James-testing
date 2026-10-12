@@ -8,7 +8,9 @@ This environment's network policy blocks direct page fetching: **WebFetch fails 
 - `mode: "standard"` for discovery (cheap). Use `mode: "extended"` to retrieve detailed verbatim extracts from a specific page you need as evidence (handbook entries, module pages, scheme pages). Extended results quote page text and name the page URL — that quoted text is your evidence.
 - Every source you cite must be a URL that appeared in a search result, with a quoted or closely paraphrased extract that the search result attributes to that URL. **Never invent URLs, partner names, numbers or quotes.** If you could not obtain an extract, say so.
 - Record `retrieval: "search-index extract"` for each source (pages were not opened directly). Note the handbook/page year shown in the URL or extract (e.g. handbook.unimelb.edu.au/2024/...). An older-year handbook supports design but not current delivery.
-- Budget: aim for roughly 12–25 searches per institution. Prefer targeted `site:` queries. Stop following a lead once you have enough to classify it or it is clearly irrelevant.
+- **Always pass `allowed_domains`** with the institution's domain(s) (e.g. ["lse.ac.uk"]) for site-specific searches — default search is US-centric and misses non-US pages. Drop the filter only for corroboration from partner/external sites.
+- Budget: aim for ~20–30 searches per institution (hard ceiling ~40; large comprehensive research universities may use up to ~40). Use `standard` mode for discovery and `extended` only to get evidence for the routes you will record as schemes. Prioritise: (1) central/university-wide routes, (2) the main 1–3 distinct employer-linked group project routes per faculty area. Where many similar departmental capstones exist, record the principal ones and list the rest in `gaps` as "further departmental instances likely" rather than researching each.
+- `retrieval`: use "search-index extract (quoted)" when the result quotes page text, or "search-summary paraphrase" when it only paraphrases. Search summaries sometimes mix pages; only attribute a claim to a URL when the result clearly ties it to that URL.
 
 ## Three criteria — assess each separately as "Yes" / "No" / "Unclear"
 - **Yes** = explicit supporting evidence. **No** = evidence establishes the criterion is NOT met. **Unclear** = evidence insufficient. Missing evidence is "Unclear", not "No".
@@ -35,6 +37,24 @@ Document searches in each area (status "Searched", "Not applicable" if the insti
 6. `other` — law, health, design, architecture etc. where present
 Useful queries: "[Uni] student consultancy live client"; "site:[domain] industry project team"; "site:[domain] capstone external partner"; "site:[domain] group project client brief"; "site:[domain] multidisciplinary employer challenge"; "site:[domain] sponsor student project"; "[Faculty] project module handbook"; "[Scheme] eligibility assessment credits". EU: also local-language terms (e.g. German "Praxisprojekt Unternehmen Studierende Team", Dutch "praktijkopdracht opdrachtgever studenten", French "projet tutoré entreprise étudiants équipe", Swedish "projektkurs företag studenter", Danish "virksomhedsprojekt studerende", Finnish "yritysprojekti opiskelijat", Spanish/Catalan "proyecto empresa estudiantes equipo", Italian "progetto aziendale studenti team"). Keep official names; add English translation.
 Do not stop after one scheme. Find all distinct relevant routes discoverable this way — but don't inflate (no splitting annual cohorts, client examples or different webpages of the same scheme). Use parent–child where an umbrella contains distinct modules (`parent_local_id`). Prefer the most widely available routes and those embedded in degrees; for large institutions with dozens of departmental capstones, record the main distinct ones per faculty and note in `gaps` that further departmental instances likely exist.
+
+## Rulings from calibration (apply consistently)
+- **Pairs**: two students jointly producing one output count as group working (B = Yes; say "pair" in the evidence). "1–2 students" or "individually or in pairs" = Unclear unless the routes can be separated.
+- **Mixed internal/external clients**: C = Yes only if external organisations are a standard, documented source of projects for that route (record partner_type and note the internal share in partner_role). If external clients are occasional or optional ("may be"), C = Unclear.
+- **Hypothetical/designed audiences**: if the course design sets an imagined audience or a teaching case and no external organisation sets the brief, receives the output or assesses, C = No. If the source says "live or archival" / "real or simulated" without separating routes, C = Unclear.
+- **Compulsory for all students (at stated level)**: use only when every student at a stated level institution-wide must take it (e.g. all first-year undergraduates); state the level in `student_level`/`eligibility_restrictions`. Reach must then be University-wide.
+- **Social-science/specialist institutions**: put statistics/mathematics/data science under `science`; mark `engineering_computing` "Not applicable" if there is no engineering/computing department. Specialist arts/business/health institutions: mark absent areas "Not applicable".
+- **Umbrella vs child evidence**: a child route may cite the umbrella's page if that page explicitly describes the child's route; repeat the source in the child's own `sources`.
+- **Very short formats** (e.g. one-week executive capstones, 1–2 day hackathons): record them, but say how long they run in `duration` and the evidence. A 24-hour hackathon with a company-set challenge counts as project-based only if a defined output (prototype/solution) is produced for that organisation.
+
+### Further rulings (round 2)
+- **Current delivery**: an un-yeared "current" handbook/subject page counts as current only if corroborated by a dated 2025/26 or 2026/27 source (timetable, course structure listing, dated news/cohort, application call). Otherwise "Current status unclear". Say which in `unresolved`.
+- **Partner coverage**: add `"external_partner_coverage": "All/standard | Some projects | Unclear"`. C = Yes needs All/standard (external clients are the documented norm). "Where appropriate"/"may" = Some projects → C = Unclear.
+- **Possible duplicates**: if a record (e.g. a partner-facing umbrella page with unnamed subjects) probably duplicates another record, set `"likely_duplicate_of": "<local_id>"` on the less specific record; it will not be counted.
+- **Substantiveness**: add `"duration_band": "<1 week | 1–4 weeks | ~1 term/semester | >1 term | Unclear"`. Hackathons/1–2 day challenges qualify for A only if a defined output is produced for the organisation; the band lets analysts filter them.
+- **Internal/affiliated bodies**: university-owned or affiliated entities (e.g. a university's business school company, spin-out units, joint university–industry centres acting through university staff) are internal → not sufficient for C. Student/staff "clients" are internal. A joint centre counts only if the external company itself sets the brief or engages with students.
+- **Partner type**: "industry partner/company/firm/business" → Business/commercial. "Organisation/partner" without sector → Unclear (or Mixed if examples span sectors).
+- `supports` may also include "duration".
 
 ## Academic reach (controlled)
 "University-wide" (explicitly open across the institution, subject to stated restrictions) | "Cross-faculty" (multiple specified faculties, no evidence of institution-wide access) | "Faculty/school" | "Programme/course" (named degrees/courses/modules) | "Unclear".
@@ -74,7 +94,7 @@ Write it as soon as that institution is done (before starting the next). Valid J
       "faculty_areas": ["central|business|engineering_computing|science|arts_humanities_social_sciences|other"],
       "student_level": "Undergraduate | Postgraduate taught | Postgraduate research | Mixed | Unclear",
       "year_of_study": "", "eligibility_restrictions": "",
-      "participation_requirement": "Compulsory for all students | Compulsory within specified programmes | Optional/elective | Selective/competitive | Unclear",
+      "participation_requirement": "Compulsory for all students (at stated level) | Compulsory within specified programmes | Optional/elective | Selective/competitive | Unclear",
       "curricular_status": "Curricular | Extracurricular | Mixed | Unclear",
       "credit_assessment": "", "duration": "", "delivery_format": "",
       "project_based": "Yes|No|Unclear", "project_evidence": "brief, cite source no.",
@@ -83,6 +103,7 @@ Write it as soon as that institution is done (before starting the next). Valid J
       "partner_type": "Business/commercial | Public sector | Charity/community | Mixed | Other | Unclear | None",
       "partner_role": "", "named_partners": "only if evidenced, with year",
       "deliverable": "",
+      "duration_band": "", "external_partner_coverage": "", "likely_duplicate_of": "",
       "operating_status": "Current delivery confirmed | Announced/forthcoming | Historical delivery only | Paused/discontinued | Current status unclear",
       "latest_evidenced_year": "",
       "participation_data": "",

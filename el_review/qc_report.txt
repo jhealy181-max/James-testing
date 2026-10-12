@@ -1,0 +1,15 @@
+WARN | RG13 | RG13-S11 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S01 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S02 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S03 | B group=Yes but evidence text/source tag missing
+WARN | AU02 | AU02-S04 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S09 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S10 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S11 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S12 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S13 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S15 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S16 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S16 | possible simulation marked employer-connected — check
+WARN | AU02 | AU02-S17 | employer-connected Yes but partner type Unclear
+WARN | AU02 | AU02-S20 | employer-connected Yes but partner type Unclear
