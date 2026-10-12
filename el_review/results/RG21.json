@@ -1,0 +1,1254 @@
+{
+ "inst_id": "RG21",
+ "institution": "Southampton",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Student Innovation Projects live client teams Southampton Careers Employability",
+    "Student Innovation Projects Semester 1 2026/27 final project round",
+    "Southampton Innovation Challenge Easter summer 2026 real business challenge employers apply",
+    "careers guide 2025-2026 Student Innovation Projects will end",
+    "Student Innovation Projects no longer / final / replaced",
+    "Southampton interdisciplinary challenge-based module all faculties"
+   ],
+   "key_sources": [
+    "https://www.southampton.ac.uk/careers/students/work-experience/student-innovation-projects.page",
+    "https://www.southampton.ac.uk/careers/students/work-experience/summer-student-innovation-challenge.page",
+    "https://www.southampton.ac.uk/~assets/doc/careers/CES_Guide.pdf"
+   ],
+   "finding": "Two central, university-wide extracurricular live-client team routes (Student Innovation Projects, 4 weeks; Innovation Challenge, 4 days). Legacy claim that the project route ends after Semester 1 2026/27 not confirmed; no university-wide curricular employer-project module found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Southampton Business School consultancy project live client MSc students group",
+    "MBA Leading Sustainability Innovation and Change live consulting",
+    "Riipen live projects Business School",
+    "Business School undergraduate consultancy business project module",
+    "MANG6349 / MANG6396",
+    "MANG6518 Marketing Practice-based Project",
+    "MANG6546 Summer Project",
+    "DAR master's external sponsor 3-month project"
+   ],
+   "key_sources": [
+    "https://www.southampton.ac.uk/courses/master-of-business-administration-masters-mba",
+    "https://www.southampton.ac.uk/courses/global-executive-masters-mba",
+    "https://www.southampton.ac.uk/courses/2026-27/modules/mang6518"
+   ],
+   "finding": "MBA (and probably online MiM) have a live group consulting project; most other business projects (MSc summer projects, business project, marketing project) are individual; Riipen is 2021 only; consulting modules are role-play."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "engineering group design project industrial sponsor client FEEG",
+    "electronics computer science group project external client industry partner",
+    "FEEG6013",
+    "FEEG6046",
+    "MIND6003",
+    "ECSP6000",
+    "ELEC2300",
+    "FEEG6046 CDT"
+   ],
+   "key_sources": [
+    "https://www.southampton.ac.uk/courses/2026-27/modules/feeg6046",
+    "https://www.southampton.ac.uk/courses/2028-29/modules/feeg6013",
+    "https://www.southampton.ac.uk/courses/2028-29/modules/ecsp6000",
+    "https://www.southampton.ac.uk/courses/modules/elec2300"
+   ],
+   "finding": "Faculty MEng Group Design Projects have optional/some external sponsors (C unclear). Qualifying routes are the CDT-based interdisciplinary team projects (FEEG6046, MINDS, AI for Sustainability) where industry/government partners set problems and advise."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Chemistry/Physics/Biological/Mathematical Sciences industry project team",
+    "Ocean and Earth Science/Geography consultancy project",
+    "MSc Environmental Consultancy",
+    "GGES6008",
+    "Maths/Physics/Chem/Bio industry project (second)"
+   ],
+   "key_sources": [
+    "https://www.southampton.ac.uk/courses/2026-27/modules/gges6008",
+    "https://www.southampton.ac.uk/courses/environmental-consultancy-masters-msc"
+   ],
+   "finding": "No qualifying pure-science team client project verified; GGES6008 group consultancy report with consultancy-sector input (client brief unclear); Environmental Consultancy partnership projects are individual."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "social sciences/humanities group project real client",
+    "ARTD6240",
+    "ARTD3074",
+    "ARTD2145",
+    "PSYC8042",
+    "Southampton interdisciplinary module"
+   ],
+   "key_sources": [
+    "https://www.southampton.ac.uk/courses/2026-27/modules/psyc8042",
+    "https://www.southampton.ac.uk/courses/2026-27/modules/artd2145",
+    "https://www.southampton.ac.uk/courses/2026-27/modules/artd6240"
+   ],
+   "finding": "Qualifying: DEdPsy small-group research with a local authority partner. Partial: Winchester School of Art modules with optional external briefs; no humanities/social science employer-project module found."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Law pro bono clinic / Medicine Health Sciences NHS project",
+    "Health Sciences, Medicine, Law, Education group project community partner"
+   ],
+   "key_sources": [
+    "https://www.southampton.ac.uk/study/facilities/global-legal-clinic",
+    "https://www.southampton.ac.uk/news/2025/08/law-students-to-work-with-ai-legal-platform.page"
+   ],
+   "finding": "Law clinics involve real clients but individual casework in pairs for members of the public; no Medicine/Health Sciences group employer project verified in search index."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "'Up to 250 students per year' (search summary of a Southampton page; page date unclear).",
+   "legacy_ref": "Student Innovation Projects and Challenges",
+   "named_partners": "",
+   "admin_host": "Careers, Employability and Student Enterprise",
+   "eligible_faculties_programmes": "Currently registered undergraduate and postgraduate students of any discipline who can commit to the full duration; places are competitive/applied for.",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Must apply; must be currently studying and able to commit to the 4 weeks; admissions/selection apply.",
+   "credit_assessment": "No credit evidenced; co-curricular.",
+   "delivery_format": "Mix of virtual and in-person team meetings; kick-off training; client meetings.",
+   "local_id": "S1",
+   "official_name": "Student Innovation Projects",
+   "english_name": "Student Innovation Projects (live-client team projects)",
+   "description": "Students from any degree apply to join small interdisciplinary teams that work for about 4 weeks (4-6 hours a week) on a challenge briefed by a business or non-profit client; after kick-off training and an initial client meeting they produce a final report and presentation to the client (a 'research and recommendation' style project).",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "About 4 weeks, 4-6 hours per week (older client guides: 6 weeks)",
+   "project_based": "Yes",
+   "project_evidence": "Source 1/2: team works on a client-briefed business challenge and produces a final report and presentation; client brief approved by the University.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1/2: students work 'in small, interdisciplinary teams' (older guides 4-5; Innovation Challenge page 3-5).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1/2: organisations submit a project brief for University approval, meet the team, and are asked to attend the student presentation and final report submission (client receives output).",
+   "partner_type": "Mixed",
+   "partner_role": "Business or non-profit client sets brief, meets team, attends final presentation and receives report.",
+   "deliverable": "Final report and client presentation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Legacy research noted that the project route 'will end after Semester 1 of 2026/27'; this was NOT re-verified in this pass (a search summary of the SIP page reported that 2026/27 applications have closed and employers should contact the team about other ways to engage). Check whether the scheme is discontinued/replaced after Semester 1 2026/27. Team size on the current page not stated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/careers/students/work-experience/student-innovation-projects.page",
+     "title": "Student Innovation Projects",
+     "section": "Programme page",
+     "pub_year": "undated (references 2026/27 applications)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in small, interdisciplinary teams with a business or non-profit on a challenge and present to the client. Duration: 4 weeks, 4-6 hours per week. Open to current students who can commit to the full 4 weeks. Clients are asked to attend the student presentation and final report submission.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/~assets/doc/careers/CES_Guide.pdf",
+     "title": "Careers, Employability and Student Enterprise Guide 2025-2026",
+     "section": "Student Innovation Projects entry",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Describes students working in small groups to solve business challenges for live clients through the Student Innovation Projects.",
+     "supports": [
+      "status",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.southampton.ac.uk/~assets/doc/careers/Student-Innovation-Projects-Client-Handbook.pdf",
+     "title": "Student Innovation Projects Client Handbook",
+     "section": "Client handbook",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Organisations submit a brief for approval; recruitment and training of students organised by the University; briefs go to the careers team.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "'Limited to up to 100 students per year' (search summary; page date unclear).",
+   "legacy_ref": "Student Innovation Projects and Challenges (Innovation Challenge component)",
+   "named_partners": "",
+   "admin_host": "Careers, Employability and Student Enterprise",
+   "eligible_faculties_programmes": "Open to students from any degree (application).",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application; places capped.",
+   "credit_assessment": "No credit evidenced.",
+   "delivery_format": "Intensive vacation project; employer-provided challenge.",
+   "local_id": "S2",
+   "official_name": "Student Innovation Challenge",
+   "english_name": "Student Innovation Challenge (Easter and Summer, 4-day employer challenge)",
+   "description": "Intensive four-day project, run in the Easter and summer vacations, in which teams of 3-5 students tackle a real business challenge set by an employer, with a prize for the winning team.",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "4 days",
+   "project_based": "Yes",
+   "project_evidence": "Source 1/2: team works on an employer-set business challenge for four days; client brief form (title, background, business need) approved by University (older guide). Defined output not explicitly quoted beyond team solution/presentation.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1/2: teams of 3-5 students (4-5 in the 2025-26 guide).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1/2/3: employers submit a Client Brief Form and Client Agreement; challenge is 'from top employers'; (2021/22 guide) employers receive the team solutions and judge for the prize.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Employer sets the challenge brief and engages with the teams.",
+   "deliverable": "Team solution/presentation to the employer (output form not quoted)",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Specific 2026 Easter/summer dates and named employers not found; defined output stated only indirectly (4-day format, so duration_band <1 week).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/careers/students/work-experience/summer-student-innovation-challenge.page",
+     "title": "Student Innovation Challenge",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Intensive four-day project where you team up with 3-5 students to tackle a real business challenge from top employers; runs every summer and Easter; open to students from any degree.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/~assets/doc/careers/CES_Guide.pdf",
+     "title": "Careers, Employability and Student Enterprise Guide 2025-2026",
+     "section": "Innovation Challenge entry",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Intensive four-day project in which a team of four to five students solves a business challenge provided by top employers; runs during Easter and Summer vacations.",
+     "supports": [
+      "status",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.southampton.ac.uk/~assets/doc/careers/Innovation%20Challenge%20Easter%20Handbook%202122%20PDF%20.pdf",
+     "title": "Innovation Challenge Client Guide 2021/2022",
+     "section": "Client guide",
+     "pub_year": "2021/22",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Employers complete a Client Brief Form and Client Agreement; 4-day format with a winning-team prize (historical).",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "Southampton Business School",
+   "eligible_faculties_programmes": "MBA (full-time) and Global Executive MBA students",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Module component; credit weighting for the project not extracted.",
+   "delivery_format": "Southampton teaching plus international study trip/residential; group consulting project",
+   "local_id": "S3",
+   "official_name": "Leading Sustainability, Innovation and Change (MBA live consulting project)",
+   "english_name": "MBA: Leading Sustainability, Innovation and Change - live group consulting project",
+   "description": "MBA students (full-time MBA and Global Executive MBA) complete a 'live' group consultancy project for a client/local organisation as part of the Leading Sustainability, Innovation and Change module, combining teaching in Southampton with an international study trip.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Part of a Semester 2 module (residential/study trip)",
+   "project_based": "Yes",
+   "project_evidence": "Source 1/2: 'live' group consulting project / consultancy project applying module learning to a business problem.",
+   "group_working": "Yes",
+   "group_evidence": "Source 2: team of 5 to 7 students (Global Executive MBA); 2020-21 spec 4-6 per group.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1/2: project is for a client/local organisation ('live' project with a client company).",
+   "partner_type": "Unclear",
+   "partner_role": "Client/local organisation hosts the live consultancy project; sector and how the client assesses/receives output not extracted.",
+   "deliverable": "Group consultancy project output for the client (report/presentation; form not quoted)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Course pages are undated; currency inferred from the Global Executive MBA page giving a next start of September 2026 (application call), not from a dated module page. Client type (business vs other), client role in assessment, duration and credit weighting not extracted. Team size varies (4-6 vs 5-7).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/master-of-business-administration-masters-mba",
+     "title": "MBA Master of Business Administration 8223 (1 year)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Module includes teaching in Southampton and an international study trip with a 'live' group consulting project for a local organisation / live international consultancy project with a client company.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/courses/global-executive-masters-mba",
+     "title": "MBA Global Executive Master of Business Administration 9453 (2 years)",
+     "section": "Course page",
+     "pub_year": "undated; next start September 2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The module's second residential trip is a group consultancy project for a local organisation, undertaken by a team of 5 to 7 students.",
+     "supports": [
+      "group",
+      "employer",
+      "status",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.southampton.ac.uk/~assets/doc/specs/2021-mba-8223-8224-8225.pdf",
+     "title": "Programme Specification MBA (2020-21)",
+     "section": "Module description",
+     "pub_year": "2020-21",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Live consultancy project in an international setting, group of between 4 and 6 students, Semester 2.",
+     "supports": [
+      "group",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "Southampton Business School (online)",
+   "eligible_faculties_programmes": "Online MiM students",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "15 credits (module)",
+   "delivery_format": "Online",
+   "local_id": "S4",
+   "official_name": "Online Master in Management (MiM) live consulting module",
+   "english_name": "Online MiM: live group consulting project for an international client",
+   "description": "A 15-credit module on the online Master in Management with a live group consulting project for an international client, ending in a group presentation and project report.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: live group consulting project culminating in a project report and presentation.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 'live group consulting project'.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: client is an international client for the live project; how the client participates (brief, feedback) not extracted.",
+   "partner_type": "Unclear",
+   "partner_role": "International client; type and role not extracted.",
+   "deliverable": "Group project report and presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Page undated; module code, delivery year, client type and client role not retrieved. Possibly the online delivery of the MBA module S3 (not confirmed), so not counted as a clear separate route.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.online.southampton.ac.uk/courses/mim-management",
+     "title": "Online Master in Management (MiM)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Online version of the module is worth 15 credits, with a live group consulting project for an international client, ending in a group presentation and project report.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "FEEG6046",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "CDT in Complex Integrated Systems for Defence and Security (Faculty of Engineering and Physical Sciences)",
+   "eligible_faculties_programmes": "CDT cohort students (module is compulsory; no referral)",
+   "year_of_study": "Year 1 (Semester 2)",
+   "eligibility_restrictions": "CDT cohort only.",
+   "credit_assessment": "30 CATS (15 ECTS), Level 7; 2026-27 page lists technical report and video/audio recording; 2025-26 page lists group report/presentation 60% + individual contribution 40%.",
+   "delivery_format": "Team project with supervisor and industrial advisor; interim review with industry partner.",
+   "local_id": "S5",
+   "official_name": "Interdisciplinary Group Project (FEEG6046)",
+   "english_name": "Interdisciplinary Group Project - CDT in Complex Integrated Systems for Defence and Security",
+   "description": "Compulsory Semester 2 team project for the doctoral training cohort: teams of about four address practical real-world problems set by industry or government partners, each with an academic supervisor and an industrial advisor, and produce a 'demonstration' of their solution, a group report, and a video, with a possible presentation at an industry forum.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate research",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Semester 2",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: teams address a real-world problem set by industry or government partners and produce a demonstration plus report.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: expected group size around 4, groups formed at start of Semester 2.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: problems set by industry/government partners; each team has an industrial advisor; industrial partner attends the week-1 meeting and mid-semester interim review (formative feedback); possible industry forum presentation.",
+   "partner_type": "Mixed",
+   "partner_role": "Industry or government partners set problem, advise, give formative feedback at interim review.",
+   "deliverable": "Demonstration of solution, group report and video",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Partner names not published. Cohort is a small CDT group; partner coverage inferred from module description stating problems are set by industry or government partners.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/2026-27/modules/feeg6046",
+     "title": "2026-27 - FEEG6046 - Interdisciplinary Group Project",
+     "section": "Module overview",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of students will work together to address practical, real-world problems set by industry or government partners. Each team will have an academic supervisor and an industrial advisor... produce a 'demonstration'. Industrial partner required at mid-semester interim review.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/courses/2025-26/modules/feeg6046",
+     "title": "2025-26 - FEEG6046 - Interdisciplinary Group Project",
+     "section": "Module overview",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Same description for 2025-26; module run by the CDT in Complex Integrated Systems for Defence and Security; compulsory, no referral.",
+     "supports": [
+      "status",
+      "participation",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "SUST6003",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "Doctoral Training Centre for AI for Sustainability",
+   "eligible_faculties_programmes": "AI for Sustainability doctoral programme entrants (compulsory)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 CATS (15 ECTS), Level 7",
+   "delivery_format": "Team project; starts with 2-day Software Carpentry workshop",
+   "local_id": "S6",
+   "official_name": "Interdisciplinary Team Project (SUST6003)",
+   "english_name": "Interdisciplinary Team Project - AI for Sustainability doctoral programme",
+   "description": "Semester 2 team module in which doctoral students work in teams on a practical real-world sustainability problem set by industry and government partners, with an academic advisor and an industry advisor, producing a demonstration combining sustainability with electronics and/or AI.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Postgraduate research",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Semester 2",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: teams address a real-world sustainability problem and produce a demonstration.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 'Teams of students will work together'.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: problem set by industry and government partners; each team has an industry advisor.",
+   "partner_type": "Mixed",
+   "partner_role": "Industry and government partners set the problem and advise via an industry advisor.",
+   "deliverable": "Demonstration of solution",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "2026/27 module page not retrieved; team size and partner names not shown. Module lead and cohort small.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/2025-26/modules/sust6003",
+     "title": "2025-26 - SUST6003 - Interdisciplinary Team Project",
+     "section": "Module overview",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of students will work together to address a practical, real-world sustainability problem set by industry and government partners. Each team gets an academic advisor and an industry advisor; combine sustainability with electronics and/or AI. Compulsory for the AI for Sustainability doctoral programme.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MIND6003",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "MINDS CDT",
+   "eligible_faculties_programmes": "MINDS CDT cohort",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 CATS, Level 7",
+   "delivery_format": "Team project; DemoFest in final week",
+   "local_id": "S7",
+   "official_name": "Interdisciplinary Team Project (MIND6003)",
+   "english_name": "Interdisciplinary Team Project - MINDS CDT",
+   "description": "Semester 2 team module for the CDT in Machine Intelligence for Nano-electronic Devices and Systems: teams work on a practical problem set by outside partners, each with an academic and an industry advisor, combining electronics and AI, with results presented at a public DemoFest.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate research",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Semester 2",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: practical problem, integrated solution, demonstrated at DemoFest.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: teams.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: problem set by outside partners; industry advisor per team.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Outside (industry) partners set the problem; industry advisors. CDT partners named generically (Roke Manor, Thales, Intel, NXP in 2019 CDT news) not tied to this module.",
+   "deliverable": "Integrated electronics+AI solution demonstrated at DemoFest",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023/24",
+   "unresolved": "Undated module page (module lead listed for 2023-24); no 2025/26 or 2026/27 evidence found. Partner type inferred from 'industry advisor' - 'outside partners' otherwise unspecified.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/modules/mind6003",
+     "title": "Interdisciplinary Team Project (MIND6003)",
+     "section": "Module overview",
+     "pub_year": "undated (module lead for 2023-24)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams work on a practical problem set by outside partners; each team has an academic and an industry advisor; solution combines electronics and AI; outcomes presented at a public DemoFest.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/news/2019/02/minds-cdt-ukri.page",
+     "title": "Southampton to lead in developing and delivering AI innovators of the future",
+     "section": "CDT news",
+     "pub_year": "2019",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "CDT collaborators include Roke Manor, Thales, Intel and NXP Semiconductors (CDT-level, not module-specific).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "PSYC8042",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "School of Psychology / Doctorate in Educational Psychology",
+   "eligible_faculties_programmes": "Doctorate in Educational Psychology trainees",
+   "year_of_study": "Year 1",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Core unit; write-up ~5,000 words (method/results collaborative); marked Fail/Low Pass/Pass/Distinction",
+   "delivery_format": "Small-group research project",
+   "local_id": "S8",
+   "official_name": "Small Scale Research Projects (PSYC8042)",
+   "english_name": "Doctorate in Educational Psychology: Small Scale Research Projects with a local authority partner",
+   "description": "Year 1 core unit of the Doctorate in Educational Psychology: trainees work in small groups with a Local Authority partner and the module lead to design a research project, seek ethics approval, collect and analyse data; the write-up (~5,000 words) has collaborative method and results sections and independent introduction and discussion.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Unclear (Year 1 unit)",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: trainees design and carry out a small-scale research project with ethics approval and a written report.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 'work in small groups'; method and results sections are collaborative group work (introduction and discussion individual).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: trainees work with a Local Authority Partner and module lead; (older handbook, source 2) projects are collaborative projects set by the local authority with a local authority EP and a University supervisor.",
+   "partner_type": "Public sector",
+   "partner_role": "Local authority partner works with groups and (older handbook) sets the projects; whether the LA receives the report is not extracted.",
+   "deliverable": "Group research project with a written report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Partner role as project-setter comes from an older (2022-23) handbook; current page says only that trainees work with a LA partner. Duration not extracted. Output is a research write-up rather than a client deliverable; borderline on project criterion A but a defined project with defined output.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/2026-27/modules/psyc8042",
+     "title": "2026-27 - PSYC8042 - Small Scale Research Projects (SSRP)",
+     "section": "Module overview",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Trainees work in small groups with a Local authority Partner and the module lead to think through the research design, methods, apply for ethics if appropriate, collect data and conduct analysis. Method and results sections are collaborative group work.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/~assets/doc/Education/2022-23%20Ed_Psych_Academic%20Handbook%20v7_Angela%20Goodall.pdf",
+     "title": "Doctorate in Educational Psychology Academic Handbook 2022-23",
+     "section": "SSRP description",
+     "pub_year": "2022-23",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Collaborative projects set by the local authority; trainees work with a local authority EP and a University supervisor.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "FEEG6013",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "Faculty of Engineering and Physical Sciences",
+   "eligible_faculties_programmes": "Core in MEng programmes incl. Civil, Ship Science, Mechanical etc. (per programme specifications)",
+   "year_of_study": "Final MEng year",
+   "eligibility_restrictions": "",
+   "credit_assessment": "45 CATS / 22.5 ECTS; group report, video, presentation plus individual design journal summary",
+   "delivery_format": "Group design project with supervisor and sponsor",
+   "local_id": "S9",
+   "official_name": "Group Design Project (FEEG6013)",
+   "english_name": "Faculty-wide MEng Group Design Project",
+   "description": "Core MEng module (45 CATS) in which groups apply engineering knowledge to a design problem, meeting regularly with a supervisor and 'any external sponsor', presenting plans/progress to supervisors, coordinator or external industry sponsor, and submitting a group report, video and final presentation in May.",
+   "academic_reach": "Faculty/school",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Full year (to May)",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: group design problem with report, video and presentation.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: groups present and submit group outputs.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: 'any external sponsor' and 'many projects have additional sponsorship from industry' - sponsor involvement is optional/some projects.",
+   "partner_type": "Business/commercial",
+   "partner_role": "External industry sponsor (where present) meets groups and receives first-term progress presentation.",
+   "deliverable": "Design project report, video and final presentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Retrieved module page is the rolling 2028-29 catalogue page; no dated 2025/26 or 2026/27 FEEG6013 page retrieved. Proportion of externally sponsored projects unknown. Chemical Engineering equivalent CHEG6006 (2026-27) says 'many projects have additional sponsorship from industry' - same pattern, not recorded separately.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/2028-29/modules/feeg6013",
+     "title": "2028-29 - FEEG6013 - Group Design Project",
+     "section": "Module overview",
+     "pub_year": "2028-29 catalogue page",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Groups meet regularly with their supervisor and any external sponsor; first-term presentation to supervisors, project coordinator or external industry sponsor; many projects have additional sponsorship from industry; final report, video and presentation in May.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/courses/2026-27/modules/cheg6006",
+     "title": "2026-27 - CHEG6006 - Chemical Engineering Group Design Project",
+     "section": "Module overview",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Notes that many projects have additional sponsorship from industry.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ECSP6000 / ELEC6200",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "School of Electronics and Computer Science",
+   "eligible_faculties_programmes": "MEng Electronic Engineering (incl. with Computer Systems), Electrical and Electronic Engineering",
+   "year_of_study": "Year 4 (MEng)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "ECSP6000 page: individual reflection 10%, individual report 25%, group presentation/report 5%, group report 60%",
+   "delivery_format": "Group project with customer",
+   "local_id": "S10",
+   "official_name": "Group Design Project (ECSP6000 / ELEC6200)",
+   "english_name": "Electronics and Computer Science MEng Group Design Project",
+   "description": "Final-year MEng electronics/computer systems module introducing intensive group project work in collaboration with an industrial or academic customer; groups of at least four, with projects typically based on an idea from an industrial partner or an academic project aiming at proof of concept or technology transfer.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Unclear (year-long project)",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: group design project to build proof of concept.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: groups of at least four people.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: customer may be industrial or academic; projects 'typically' from industrial partner - internal academic customers allowed.",
+   "partner_type": "Mixed",
+   "partner_role": "Industrial partner or academic research project acts as customer.",
+   "deliverable": "Prototype / proof of concept and group report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Only future-year catalogue pages (2028-29 ECSP6000; 2029-30 ELEC6200) retrieved; programme page links a 2026-27 course description whose content was not seen. Share of industrial vs academic customers unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/2028-29/modules/ecsp6000",
+     "title": "2028-29 - ECSP6000 - Group Design Project",
+     "section": "Module overview",
+     "pub_year": "2028-29 catalogue page",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Introduction to intensive group project work in collaboration with an industrial or academic customer; groups of at least four people; projects typically based on an idea from an industrial partner.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/courses/electronic-engineering-with-computer-systems-degree-meng",
+     "title": "H6G4 MEng Electronic Engineering with Computer Systems",
+     "section": "Course page",
+     "pub_year": "undated (links 2026-27 course description)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in groups of at least four people on a project typically based on an idea from an industrial partner.",
+     "supports": [
+      "reach",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ELEC2300",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "School of Electronics and Computer Science",
+   "eligible_faculties_programmes": "Electronics/electrical/aerospace electronics programmes (project topic varies)",
+   "year_of_study": "Part 2",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Individual log books, group reports and quality assessment of designed system",
+   "delivery_format": "Group design-build-test; demo event",
+   "local_id": "S11",
+   "official_name": "Design (ELEC2300)",
+   "english_name": "Part 2 Electronics Design (industry-judged group build)",
+   "description": "Student groups design, build and test a system to a predefined specification (e.g. drone, smart meter) and present it; a demonstration event has judges selected from industry evaluate the designs.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: design, build and test to specification; group reports.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 'student groups'.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: specification is set by the department; the only external role is industry-selected judges at the demonstration (individuals/organisations not identified, no external brief).",
+   "partner_type": "Unclear",
+   "partner_role": "Industry judges evaluate the final demonstration.",
+   "deliverable": "Working designed system and group report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Judging organisations not named; no external brief or client. Whether 'compulsory' is stated per programme not verified (reach inferred as programme-level).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/modules/elec2300",
+     "title": "2026-27 - ELEC2300 - Design",
+     "section": "Module overview",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student groups take on a design, build and test project against a predefined specification; a demonstration event enables judges selected from industry to evaluate the construction, functionality and capability of the designs.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "GGES6008",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "School of Geography and Environmental Science",
+   "eligible_faculties_programmes": "Environmental/sustainability MSc programmes (which ones not confirmed)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Group consultancy report primary assessment; individual reflection and Sustainability Portfolio",
+   "delivery_format": "Expert-led case study workshops and group report",
+   "local_id": "S12",
+   "official_name": "The Sustainability Professional (MSc) (GGES6008)",
+   "english_name": "The Sustainability Professional - group consultancy report",
+   "description": "MSc module run with local and regional environmental and sustainability consultancies and other organisations; students work in groups to submit one full consultancy report as the primary assessment, plus an individual reflection and portfolio.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: group consultancy report as primary assessment via case study exercises.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: students work in groups to submit one full consultancy report.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: delivered in partnership with consultancies who deliver lectures and expert-led workshops; not stated that an external organisation supplies a live brief or receives the report.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Consultancies contribute lectures and expert-led case-study workshops with feedback.",
+   "deliverable": "Group consultancy report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Whether case studies are live external briefs and whether partners give feedback/assess is unknown; module-to-programme mapping unconfirmed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/2026-27/modules/gges6008",
+     "title": "2026-27 - GGES6008 - The Sustainability Professional (MSc)",
+     "section": "Module overview",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Run with a range of local and regional environmental and sustainability consultancies; students work in groups to submit one full consultancy report as the primary assessment.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ARTD2145",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "Winchester School of Art, Department of Art and Media Technology",
+   "eligible_faculties_programmes": "BSc Creative Computing",
+   "year_of_study": "Year 2 (Level 5)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 CATS / 15 ECTS; breakdown not seen",
+   "delivery_format": "Team projects",
+   "local_id": "S13",
+   "official_name": "Collaborate (Creative Computing) (ARTD2145)",
+   "english_name": "Collaborate (Creative Computing)",
+   "description": "Part 2 compulsory module (BSc Creative Computing): team projects in which students collaborate with students and/or practitioners from other disciplines or are set briefs from professional partners in the creative and cultural industries.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Semester 1 (per search summary)",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: group projects with team building and project management, producing creative outputs.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: team building; collaborate with other students.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: briefs 'from professional partners' is one option ('and/or' other-discipline collaboration) - external briefs optional.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Professional partners in creative and cultural industries may set briefs.",
+   "deliverable": "Creative computing project outputs",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Which cohorts get external briefs; partner names; assessment breakdown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/2026-27/modules/artd2145",
+     "title": "2026-27 - ARTD2145 - Collaborate (Creative Computing)",
+     "section": "Module overview",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students will collaborate with students and/or practitioners from other disciplines or be set briefs from professional partners in the creative and cultural industries.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ARTD6240",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "admin_host": "Winchester School of Art",
+   "eligible_faculties_programmes": "MA Global Advertising and Branding (and online equivalent)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "300 study hours (48 taught); credit not extracted",
+   "delivery_format": "Simulated agency",
+   "local_id": "S14",
+   "official_name": "Advertising and Branding in Action (ARTD6240)",
+   "english_name": "Advertising and Branding in Action (live briefs, agency simulation)",
+   "description": "MA Global Advertising and Branding module in which students work to live briefs acting in agency or in-house strategic account management roles, covering client brief interpretation, ideation, campaign planning and a pitch.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Semester 2 (assumed from sequence; unverified)",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: campaign planning and pitch for a brief.",
+   "group_working": "Unclear",
+   "group_evidence": "Source 1 does not say whether students work in teams or individually.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: 'real client briefs in a simulated agency environment' - unclear whether an external client sets the brief or sees the pitch.",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced.",
+   "deliverable": "Campaign pitch",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Whether briefs are from live external clients, group vs individual work, client participation.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/courses/2026-27/modules/artd6240",
+     "title": "2026-27 - ARTD6240 - Advertising and Branding in Action",
+     "section": "Module overview",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work to live briefs, acting in agency or in-house strategic account management roles; real client briefs in a simulated agency environment.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "Industry Consultancy Projects",
+   "named_partners": "",
+   "admin_host": "Centre for Risk Research",
+   "eligible_faculties_programmes": "Risk research master's programmes (e.g. MSc Risk Management)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "local_id": "S15",
+   "official_name": "Industry Consultancy Projects (Centre for Risk Research)",
+   "english_name": "Centre for Risk Research industry consultancy projects",
+   "description": "Legacy lead: Centre for Risk Research (Southampton Business School, Department of Decision Analytics and Risk) page listing 'Industry Consultancy Projects' for risk master's students; page content not retrieved. Related CRR news mentions growth of industry-led dissertation projects, which are likely individual dissertations.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "duration": "Unclear",
+   "project_based": "Unclear",
+   "project_evidence": "Page not retrieved; only headline 'industry-led dissertation projects' (source 2).",
+   "group_working": "Unclear",
+   "group_evidence": "Dissertations are typically individual; group format not evidenced.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industry-led projects implied; role of organisations not extracted.",
+   "partner_type": "Unclear",
+   "partner_role": "Not extracted.",
+   "deliverable": "Unclear",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Direct page content unavailable via search; legacy intake unverified.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-risk-research-crr/industry-consultancy-projects",
+     "title": "Industry Consultancy Projects (CRR)",
+     "section": "Page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "not retrieved (URL from legacy file)",
+     "extract": "Page exists in legacy research; search tool returned only a link, no extract.",
+     "supports": [
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-risk-research-crr/news-events",
+     "title": "CRR News and Events",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Headline: 'The CRR grows its industry-led dissertation projects'.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Global Legal Clinic (incl. Legal Tech Clinic with Automate Legal; CaseCraft.AI partnership)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Students (in pairs, supervised by lawyers) advise real clients who are members of the public on casework - not an organisation-commissioned bounded project; Legal Tech Clinic (Automate Legal) evidence is 2019; CaseCraft.AI (Aug 2025) has students giving feedback on a tool, not a defined group project.",
+   "source_url": "https://www.southampton.ac.uk/study/facilities/global-legal-clinic",
+   "status_note": "Open to all Law students; opens each Oct-Mar."
+  },
+  {
+   "name": "Decision Analytics and Risk MSc sponsored summer projects / MANG6546 Summer Project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Three-month sponsor-company project (about 50 a year, all sectors incl. public sector) is an individual dissertation with a company supervisor; no group working evidenced.",
+   "source_url": "https://www.southampton.ac.uk/business-school/about/departments/decision-analytics-and-risk/enterprise.page",
+   "status_note": "MANG6546 2025-26 and 2026-27 pages exist."
+  },
+  {
+   "name": "MANG6349 Business Project / MANG6518 Marketing Practice-based Project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "MANG6349 is an individual independent project; MANG6518 addresses a real company problem but is 'individually developed' with group-led teaching only.",
+   "source_url": "https://www.southampton.ac.uk/courses/2026-27/modules/mang6518",
+   "status_note": ""
+  },
+  {
+   "name": "MANG6599 / MANG2104 Management Consulting modules",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Role-play scenario with non-assessed group meeting with clients; no live external client.",
+   "source_url": "https://www.southampton.ac.uk/courses/2026-27/modules/mang6599",
+   "status_note": ""
+  },
+  {
+   "name": "Riipen live projects embedded in Business School modules",
+   "legacy": false,
+   "category": "WIL framework",
+   "reason": "2021 partnership news (e.g. MSc HRM students and iSAW on gender equality research) shows live projects through Riipen but no current module-level scheme or evidence of continued delivery found.",
+   "source_url": "https://www.southampton.ac.uk/business-school/enterprise/work_with_us.page",
+   "status_note": "Historical (2021)."
+  },
+  {
+   "name": "External Projects (ARTD3074, BA Graphic Arts)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Briefs and competitions set by outside individuals/organisations with industry feedback, but page is 2021-22, assessment is a 100% individual-style portfolio and group working not evidenced.",
+   "source_url": "https://www.southampton.ac.uk/courses/modules/artd3074",
+   "status_note": "Undated/2021-22."
+  },
+  {
+   "name": "MSc Environmental Consultancy Partnership Projects",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Optional dissertation-style real brief with an external partner; individual research article.",
+   "source_url": "https://www.southampton.ac.uk/courses/environmental-consultancy-masters-msc",
+   "status_note": ""
+  },
+  {
+   "name": "CDT-SIS Group Research Project (FEEG6030)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group project with presentation to an external industry sponsor, but only an undated page was found; sponsor role in setting brief not shown.",
+   "source_url": "https://www.southampton.ac.uk/courses/modules/feeg6030",
+   "status_note": ""
+  },
+  {
+   "name": "ELEC6231 VLSI Design Project, COMP2300 Software Design and Development Project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team projects with no external organisation evidenced in the retrieved extracts.",
+   "source_url": "https://www.southampton.ac.uk/courses/2026-27/modules/comp2300",
+   "status_note": ""
+  },
+  {
+   "name": "Industrial Studies (ELEC3200) / year-in-employment placements and UoS internships",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements; no group project component evidenced.",
+   "source_url": "https://www.southampton.ac.uk/courses/modules/elec3200",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Southampton's clearest provision is central and extracurricular: Careers, Employability and Student Enterprise runs **Student Innovation Projects** (teams from any discipline work about four weeks for a business or non-profit client, present and report to it) and the four-day **Student Innovation Challenge** (teams of 3-5 on an employer-set challenge). Both are open to any current student by application, not compulsory, carry no evidenced credit, and the legacy note that the project route ends after Semester 1 2026/27 could not be confirmed.\n\nCurricular provision is programme-level. The MBA (and Global Executive MBA) module Leading Sustainability, Innovation and Change includes a live group consulting project (teams of 4-7) for a client organisation. Doctoral training cohorts take compulsory Semester 2 team modules in which industry or government partners set problems and provide an industrial advisor and interim feedback (FEEG6046 Defence and Security CDT, current in 2025/26 and 2026/27; SUST6003 AI for Sustainability; MIND6003 MINDS CDT, currency unclear). The Doctorate in Educational Psychology has a core small-group research project with a local authority partner.\n\nEngineering MEng group design projects (FEEG6013, ECS) and some Winchester School of Art, Geography and Business modules involve groups and sometimes external sponsors or briefs, but external involvement is optional or unspecified, so criterion C stays unclear. Many business capstones and MSc summer projects are individual; the Global Legal Clinic is client casework for the public. Provision is distributed rather than institution-wide, with no central curricular route. The Centre for Risk Research consultancy page could not be read.",
+ "gaps": "Legacy CRR Industry Consultancy Projects page content not retrievable; end date of Student Innovation Projects not verified; MBA/MiM module details (client type, credit, duration) from summaries; engineering group design projects only seen via future-year catalogue pages so sponsor share and currency unknown; no Medicine/Health Sciences search results; further departmental instances (e.g. CHEG6006, Civil/Ship Science GDPs, Winchester School of Art) likely exist; no 2025/26+ participation figures. Search used the web index only (no page opened)."
+}
