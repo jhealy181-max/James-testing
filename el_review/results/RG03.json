@@ -1,0 +1,1389 @@
+{
+ "inst_id": "RG03",
+ "institution": "Cambridge",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Climate i-Teams Cambridge launch October 2026",
+    "i-Teams Cambridge how it works eligibility",
+    "Cambridge careers service student project employers consultancy",
+    "Cambridge Hub / 180 Degrees / Consulting Network pro bono"
+   ],
+   "key_sources": [
+    "https://www.cam.ac.uk/stories/climate-iteams-innovation",
+    "https://ie.cam.ac.uk/support_article/i-teams/",
+    "https://www.careers.cam.ac.uk/sectors-consultancy"
+   ],
+   "finding": "No university-wide curricular employer project scheme. i-Teams is the only central route (university-wide, selective, extracurricular) but its client is internal research groups, so C unclear. Careers Service and student societies are leads only."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Cambridge Judge MBA Global Consulting Project",
+    "Cambridge Venture Project CVP",
+    "MST consulting project",
+    "MFin Group Consulting Project",
+    "MPhil Management Consulting Project",
+    "MPhil Technology Policy Final Group Project",
+    "Executive MBA Practical Projects",
+    "MSt Entrepreneurship live client project"
+   ],
+   "key_sources": [
+    "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/",
+    "https://www.jbs.cam.ac.uk/masters-degrees/mba/curriculum/projects/",
+    "https://www.jbs.cam.ac.uk/programmes/undergraduate/consulting-project/"
+   ],
+   "finding": "Judge Business School runs a dense set of embedded, programme-wide, live-client team projects (MBA GCP and CVP, MFin GCP, MPhil Management, MST undergraduate, MPhil Technology Policy, EMBA) with a central client-proposal process."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Cambridge Engineering industrial project group project external client",
+    "Computer Science Tripos Part IB group projects industrial clients",
+    "Part IB group projects objectives and assessment/course structure",
+    "MET IIB industrial projects",
+    "IfM student projects for companies",
+    "Part IIA project descriptions",
+    "Student-led Projects and Industry Partnership",
+    "MPhil ESD Client Project"
+   ],
+   "key_sources": [
+    "https://www.cst.cam.ac.uk/teaching/part-ib/group-projects/objectives-and-assessment",
+    "https://www.ifm.eng.cam.ac.uk/education/met/b/projects/",
+    "https://www-esdmphil.eng.cam.ac.uk/about-the-programme/prog-structure/electives-and-management/client-consultancy-project"
+   ],
+   "finding": "Compulsory CS Part IB group project with industry clients (2026 evidence); IfM MET/ISMM company projects and ESD MPhil Client Project are further routes but lack dated current evidence."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Cambridge science students team project external partner company",
+    "MPhil Bioscience Enterprise team consultancy project",
+    "Chemical Engineering design project industrial"
+   ],
+   "key_sources": [
+    "https://www.ceb.cam.ac.uk/study/grad/mphil/bioent"
+   ],
+   "finding": "No undergraduate natural science team-client route found; MPhil Bioscience Enterprise consulting project is a qualifying design but current status unclear. Conservation Leadership group consultancy (science/geography) also logged."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "MPhil Public Policy consultancy project client",
+    "Land Economy / Geography / Architecture / Education client project",
+    "Bennett School Policy Analysis Exercise",
+    "Conservation Leadership group consultancy",
+    "Cambridge humanities heritage museum project partner module"
+   ],
+   "key_sources": [
+    "https://www.bennettschool.cam.ac.uk/study/mphil-in-public-policy/mpp-curriculum/",
+    "https://www.geog.cam.ac.uk/postgraduate/mphil/conservation/"
+   ],
+   "finding": "Two postgraduate routes (Bennett PAE, Conservation Leadership consultancy) with unclear current status; no humanities or undergraduate social-science client project verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Cambridge Pro Bono Project law",
+    "Cambridge humanities heritage museum project partner module"
+   ],
+   "key_sources": [
+    "https://www.cpp.law.cam.ac.uk"
+   ],
+   "finding": "No law, medicine, architecture or design team client project verified; law pro bono is a research centre, not a student team route. Medicine, Architecture and Education not searched individually."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "Cambridge Venture Project / Global Consulting Project",
+   "participation_data": "",
+   "unresolved": "Compulsory status inferred from 'culmination of the core course' wording; not stated as 'compulsory' in retrieved extracts. Credit weighting not retrieved. Team-size wording varies (4-5; briefing note up to 6).",
+   "named_partners": "WHO, Uber EMEA, World Bank Group, IBM, Patagonia (various years, per JBS pages/news)",
+   "eligibility_restrictions": "",
+   "local_id": "S1",
+   "official_name": "MBA Global Consulting Project (GCP)",
+   "english_name": "Cambridge MBA Global Consulting Project",
+   "description": "Teams of 4-5 MBA students work full-time for about four weeks (Easter break) on a management issue identified by a host organisation anywhere in the world, supervised by a faculty/associate supervisor, and recommend action to the client. Students rank client choices or source their own project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cambridge Judge Business School",
+   "eligible_faculties_programmes": "Cambridge MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA (Easter term)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Described as the culmination of the Management Praxis II core course; credit/weighting not retrieved",
+   "duration": "~4 weeks full-time (16 Mar-17 Apr 2026; next mid-Mar to mid-Apr 2027)",
+   "delivery_format": "Client-site and remote consulting teams with academic supervisor",
+   "project_based": "Yes",
+   "project_evidence": "Host organisation identifies a management issue; teams deliver analysis/recommendations (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 4-5 MBAs (sources 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host organisation (commercial, public sector or not-for-profit) sets the issue, names a sponsor and second contact, pays project expenses; clients include WHO, Uber, IBM, Patagonia, World Bank (sources 1,3).",
+   "partner_type": "Mixed",
+   "partner_role": "Commissioning client/host; supplies brief, sponsor contact, receives outputs",
+   "deliverable": "Consulting recommendations/report and client presentation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (ran 16 Mar-17 Apr 2026; 2027 proposal call open)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/mba-global-consulting-project/",
+     "title": "MBA Global Consulting Project (GCP) - Student consultancy projects",
+     "section": "Project overview / key dates",
+     "pub_year": "undated (2026 dates shown)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Host organisation identifies a management issue; team of 4-5 MBAs for about four weeks; proposal deadline 8 January 2027, project mid-March to mid-April 2027; clients must name a sponsor and second contact; no fees but host covers expenses; each team has a supervisor.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.jbs.cam.ac.uk/masters-degrees/mba/curriculum/projects/",
+     "title": "Projects - The Cambridge MBA",
+     "section": "Curriculum / projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "GCP takes place during the Easter break, full time for four weeks in teams of four or five, based anywhere; students rank top three client choices or source their own; GCP ends the Management Praxis II core course.",
+     "supports": [
+      "project",
+      "group",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.jbs.cam.ac.uk/2024/our-cambridge-mba-consulting-projects-making-a-global-impact/",
+     "title": "Our Cambridge MBA consulting projects making a global impact",
+     "section": "News",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "4-week consulting project with an international organisation; clients named include Uber, World Bank Group, WHO.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.jbs.cam.ac.uk/wp-content/uploads/2025/01/briefing-notes-mba-gcp-2024-25.pdf",
+     "title": "Briefing notes MBA GCP 2024-25",
+     "section": "Client briefing notes",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "GCP supervisor works with the student group on scoping the project initiation document, advises on methodology and research.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "Cambridge Venture Project / Global Consulting Project",
+   "participation_data": "",
+   "unresolved": "Compulsory status inferred from core-course integration; credit not retrieved. Some clients are charities/public bodies (British Antarctic Survey) so partner type may be Mixed.",
+   "named_partners": "British Antarctic Survey, Riverlane, Legatics (listed as previous partners on current page)",
+   "eligibility_restrictions": "",
+   "local_id": "S2",
+   "official_name": "MBA Cambridge Venture Project (CVP)",
+   "english_name": "Cambridge MBA Cambridge Venture Project",
+   "description": "Teams of about 5-6 MBA students work part-time over six weeks in the first term on a market analysis/research question for a local or UK-based business, with a mentor, and present to the client at the Business School.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cambridge Judge Business School",
+   "eligible_faculties_programmes": "Cambridge MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA (Michaelmas term)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Runs alongside the Management Praxis core course; credit not retrieved",
+   "duration": "~6 weeks part-time (1 Oct to w/c 30 Nov 2026)",
+   "delivery_format": "Part-time team project with local client; final presentation at Judge",
+   "project_based": "Yes",
+   "project_evidence": "Market analysis/research engagement for a client (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 4-6 (5-6 on programme page) (sources 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client business proposes the project, names a sponsor and second contact, must attend the final presentation; IP rests with client (source 3, 2024 briefing notes).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: supplies brief, weekly meetings, attends final presentation; covers expenses",
+   "deliverable": "Market research/analysis report and client presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (proposals due 4 Sep 2026; project from 1 Oct 2026)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/mba-cambridge-venture-project/",
+     "title": "MBA Cambridge Venture Project (CVP) - Student consultancy projects",
+     "section": "Project overview / key dates",
+     "pub_year": "undated (2026 dates shown)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 4-6 MBA students work part-time over six weeks; proposals due 4 September 2026; project 1 October to w/c 30 November 2026; teams present to the client at the Business School in first week of December; previous partners British Antarctic Survey, Riverlane, Legatics.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.jbs.cam.ac.uk/masters-degrees/mba/curriculum/projects/",
+     "title": "Projects - The Cambridge MBA",
+     "section": "Curriculum / projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "CVP is the first team project in the first term; teams of about five or six work with a local or UK client on a market analysis with a mentor; runs alongside Management Praxis core course.",
+     "supports": [
+      "project",
+      "group",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.jbs.cam.ac.uk/wp-content/uploads/2024/07/briefing-notes-mba-cvp-2024-25.pdf",
+     "title": "Briefing notes MBA CVP 2024-25",
+     "section": "Client briefing notes",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "No fee; clients cover project expenses; name a sponsor and second contact; attend final presentation; IP rests with client; project is over-subscribed.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "Compulsory status and credit weighting not directly retrieved (project appears on MFin curriculum 'Projects' page). Partner type includes multilateral/public bodies.",
+   "named_partners": "UN Environment Programme Finance Initiative; multilateral development bank (unnamed) (2026 news)",
+   "eligibility_restrictions": "",
+   "local_id": "S3",
+   "official_name": "MFin Group Consulting Project (GCP)",
+   "english_name": "Master of Finance Group Consulting Project",
+   "description": "Teams of 5-6 MFin students work full-time for four weeks (mid-March to mid-April) for a host finance organisation (banks, asset managers, multilateral development banks, DFIs), each with a faculty supervisor and a host manager, ending in a client presentation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cambridge Judge Business School",
+   "eligible_faculties_programmes": "Master of Finance",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MFin (Easter break)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Assessed by presentation to the client (per 2026 news); credit not retrieved",
+   "duration": "4 weeks full-time (plus pre-planning)",
+   "delivery_format": "Client-facing team project",
+   "project_based": "Yes",
+   "project_evidence": "Real business/finance issue with client presentation (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 5-6 (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host company/organisation proposes the issue, provides a host manager, receives the team's presentation; 2026 teams worked with multilateral development banks, UNEP FI, specialist investment manager and DFI (sources 1,2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: sets brief, host manager, receives presentation (some public/multilateral hosts)",
+   "deliverable": "Client report/analysis and presentation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (June 2026 news; 2027 call open)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/mfin-group-consulting-project/",
+     "title": "MFin Group Consulting Project (GCP) - Student consultancy projects",
+     "section": "Project overview",
+     "pub_year": "undated (2027 cycle)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "4 weeks full-time mid-March to mid-April in teams of 5 to 6; each group assigned a faculty supervisor and a host company manager; ends with presentation to client; proposals due January 2027.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.jbs.cam.ac.uk/2026/students-tackle-real-world-finance-in-group-consulting-projects/",
+     "title": "Students tackle real-world finance in Group Consulting Projects",
+     "section": "News",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Assessed by presentation to the client; 2026 teams worked with multilateral development banks, UNEP Finance Initiative, a specialist investment manager and a development finance institution.",
+     "supports": [
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.jbs.cam.ac.uk/masters-degrees/master-of-finance/curriculum/projects/",
+     "title": "Projects - Master of Finance",
+     "section": "Curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MFin projects page lists the Group Consulting Project as part of the curriculum.",
+     "supports": [
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "Evidence is a forward application call for 2027 (2026/27 academic year); no cohort report retrieved. Compulsory status inferred from curriculum page.",
+   "named_partners": "",
+   "eligibility_restrictions": "",
+   "local_id": "S4",
+   "official_name": "MPhil in Management: Management Consulting Project",
+   "english_name": "MPhil in Management Consulting Project",
+   "description": "Teams of 4-5 MPhil in Management students work with a client company for about six weeks (roughly three weeks full-time), 29 Apr-7 Jun 2027, on a real management challenge, with written report and oral presentation to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cambridge Judge Business School",
+   "eligible_faculties_programmes": "MPhil in Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MPhil (Easter term)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Report and presentation; programme page indicates project assessed separately from exam components (weighting not retrieved)",
+   "duration": "~6 weeks (c.3 weeks full-time)",
+   "delivery_format": "Client-company team project",
+   "project_based": "Yes",
+   "project_evidence": "Company's real-world challenges; report and presentation (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 4-5 (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client company supplies the challenge and receives report/presentation; proposal call open to organisations (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: supplies challenge, receives outputs",
+   "deliverable": "Written report and oral presentation to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (proposal deadline 11 Feb 2027; project 29 Apr-7 Jun 2027)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/mphil-in-management-consulting-project/",
+     "title": "MPhil in Management Consulting Project - Student consultancy projects",
+     "section": "Project overview",
+     "pub_year": "undated (2027 dates)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work with their client company in teams of 4-5 for six weeks, about three weeks full-time; project 29 April-7 June 2027; proposal deadline 11 February 2027.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.jbs.cam.ac.uk/masters-degrees/mphil-management/curriculum/management-consulting-project/",
+     "title": "Management Consulting Project - MPhil in Management",
+     "section": "Curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Team of students works on a company's real-world challenges; written report and oral presentation to the client.",
+     "supports": [
+      "project",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "Evidence is a forward application call; compulsory status inferred (page speaks of students' 'final project'). Weighting not retrieved.",
+   "named_partners": "Cambridge City Council, BT, Procter and Gamble, Department for Education (per project-partners listing; years not dated)",
+   "eligibility_restrictions": "",
+   "local_id": "S5",
+   "official_name": "Management Studies Tripos (MST) consulting project",
+   "english_name": "MST consulting project",
+   "description": "Undergraduate teams of 3-4 spend four weeks full-time in Easter term on a real management problem identified by an external organisation, agreeing terms of reference, delivering a presentation and an academic report under a University supervisor.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cambridge Judge Business School",
+   "eligible_faculties_programmes": "Management Studies Tripos",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "MST (final-year Tripos)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Terms of reference, presentation and academic report; weighting not retrieved",
+   "duration": "4 weeks full-time (10 May-4 Jun 2027 next cycle)",
+   "delivery_format": "Client placement/team project",
+   "project_based": "Yes",
+   "project_evidence": "Real management problem; terms of reference, report, presentation (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3-4 (sources 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisation identifies the problem and hosts the team; any sector within commuting distance; past partners include Cambridge City Council, BT, Procter & Gamble, DfE (sources 1,2).",
+   "partner_type": "Mixed",
+   "partner_role": "Client/host: identifies problem, hosts team, receives outputs",
+   "deliverable": "Academic report, presentation and agreed terms of reference",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (proposal deadline 18 Jan 2027; project 10 May-4 Jun 2027)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/mst-project/",
+     "title": "Management Studies Tripos (MST) Project - Student consultancy projects",
+     "section": "Project overview / key dates",
+     "pub_year": "undated (2027 dates)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 3-4 work full-time mid-May to early June 2027; proposal deadline 18 January 2027; organisations of any kind may propose within commuting distance of Cambridge.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/consulting-project/",
+     "title": "MST consulting project - Curriculum",
+     "section": "Curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 3-4 work with an organisation on a real management problem identified by the client; 4-week project in Easter Term; terms of reference, presentation and academic report.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.jbs.cam.ac.uk/aboutus/opportunities/student-projects/mst-project/project-partners",
+     "title": "Management Studies Tripos Project partners",
+     "section": "Partners list",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Partners include Cambridge City Council, BT, Procter and Gamble, Department for Education.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "Evidence is a forward application call; no cohort report retrieved.",
+   "named_partners": "UK Cabinet Office, Ofcom, IBM, Microsoft, AstraZeneca, Rolls-Royce, Arm, Morgan Stanley, European Commission (listed past clients, undated)",
+   "eligibility_restrictions": "",
+   "local_id": "S6",
+   "official_name": "MPhil in Technology Policy: Final Group Project",
+   "english_name": "MPhil Technology Policy Final Group Project",
+   "description": "Capstone: groups of 3+ students work in Lent/Easter terms (19 Mar-4 Jun 2027) for a public or private technology-intensive client organisation on a technology policy problem; assessed by client presentation and a ~12,000-word report, double-weighted.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cambridge Judge Business School (with Centre for Science and Policy)",
+   "eligible_faculties_programmes": "MPhil in Technology Policy",
+   "faculty_areas": [
+    "business",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MPhil (Lent/Easter)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Double-weighted; client presentation plus ~12,000-word report under faculty supervision",
+   "duration": "~11 weeks (19 Mar-4 Jun 2027)",
+   "delivery_format": "Team capstone for client organisation",
+   "project_based": "Yes",
+   "project_evidence": "Real technology policy problem; presentation and 12,000-word report (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of 3 or more (teams of 3-5) (sources 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation (commercial, industrial, public or not-for-profit) sets the problem and receives the final presentation; assessment includes presentation to client (sources 1,2).",
+   "partner_type": "Mixed",
+   "partner_role": "Client: supplies problem; receives presentation",
+   "deliverable": "Client presentation and 12,000-word report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (proposal deadline 11 Jan 2027; project 19 Mar-4 Jun 2027)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.jbs.cam.ac.uk/masters-degrees/mphil-technology-policy/curriculum/projects/",
+     "title": "Final Group Project - MPhil in Technology Policy",
+     "section": "Curriculum / projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "During Lent and Easter terms students undertake a final capstone project in groups of 3 or more for a technology-intensive client; assessment is delivery of a final presentation to the client organisation and a 12,000-word final report; double-weighted.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/mphil-in-technology-policy-final-group-project/",
+     "title": "MPhil in Technology Policy Final Group Project - Student consultancy projects",
+     "section": "Project overview",
+     "pub_year": "undated (2027 dates)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 3-5; project 19 March-4 June 2027; proposal deadline 11 January 2027; past clients include Cabinet Office, Ofcom, IBM, Microsoft, AstraZeneca, Rolls-Royce, Arm, Morgan Stanley, European Commission.",
+     "supports": [
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 or 2026/27 evidence; duration conflicting; client involvement beyond hosting not documented; C left Unclear.",
+   "named_partners": "Made in Britain (2019 team), SAMM Teknoloji, Bluetentacles (examples, years undated)",
+   "eligibility_restrictions": "",
+   "local_id": "S7",
+   "official_name": "Executive MBA: Team Consulting Project",
+   "english_name": "Executive MBA Team Consulting Project",
+   "description": "Executive MBA participants form teams and consult for an external client (company, not-for-profit or public body) chosen mostly by the participants themselves, with school help if needed; a separate individual project is tied to the participant's own organisation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cambridge Judge Business School",
+   "eligible_faculties_programmes": "Executive MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "EMBA",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Core module; weighting not retrieved",
+   "duration": "Unclear (sources conflict: one week vs extended period)",
+   "delivery_format": "Part-time team consulting",
+   "project_based": "Yes",
+   "project_evidence": "Team Consulting Project for external client; example sustainability accreditation system for Made in Britain (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Participants choose their own teams (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Clients are external, but most are chosen by participants rather than a standard school-sourced client pool; evidence of client role in supervision/feedback not retrieved (source 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Client chosen by participants",
+   "deliverable": "Consulting recommendations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.jbs.cam.ac.uk/masters-degrees/executive-mba/curriculum/projects/",
+     "title": "Practical Projects - Executive MBA",
+     "section": "Curriculum / projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Team Consulting Project as core module; participants may choose any company, not-for-profit or public sector body; choose own teams; 2019 team worked with Made in Britain.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "Compulsory status taken from course page wording 'candidates are required to undertake a group design project'. Minor share of internal clients (University Library) noted; the standard is external industry clients.",
+   "named_partners": "Nokia Bell Labs, Bending Spoons, Evinova, INRIA Grenoble, Calero, Alitheia Capital, Cambridge University Library (2026)",
+   "eligibility_restrictions": "",
+   "local_id": "S8",
+   "official_name": "Computer Science Tripos Part IB Group Project",
+   "english_name": "Part IB Group Projects (Computer Science)",
+   "description": "Second-year Computer Science students are placed in groups to build a product from an initial design brief for an assigned client (mostly industry, plus some public bodies/non-profits) over seven weeks of Lent term, with client review meetings in weeks 1, 2, 4 and 6 and final presentations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science and Technology",
+   "eligible_faculties_programmes": "Computer Science Tripos Part IB",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Second year (Part IB)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Ticks (pass/fail) for teamwork, client relationship, technical contribution and group success; Part IB is unclassed but must be passed to progress",
+   "duration": "7 weeks (30-60 hours per student)",
+   "delivery_format": "Team software/design project with client reviews",
+   "project_based": "Yes",
+   "project_evidence": "Group builds a product from a design brief; report required (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Students are assigned to groups; credit depends on effective teamwork and a shared group-success tick (sources 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Each group works with a named client from industry supporters; client attends four compulsory review meetings (weeks 1, 2, 4, 6); 2026 clients include Nokia Bell Labs, Bending Spoons, Evinova, Cambridge University Library, INRIA Grenoble, Calero, Alitheia Capital (sources 1,3). Note some clients (University Library) are internal.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: supplies design brief, attends review meetings, receives product/presentation",
+   "deliverable": "Software/product prototype, presentation, group and personal reports",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Part IB Group Project Presentations 2026)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cst.cam.ac.uk/teaching/part-ib/group-projects/objectives-and-assessment",
+     "title": "Learning objectives and assessment",
+     "section": "Objectives/assessment",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Course aims: teamwork, working with a professional client, systematic management; credit for effective teamwork, professional client relationship, substantial technical contribution; one shared group-success tick; 30-60 hours over seven weeks; review meetings with client in weeks 1, 2, 4, 6.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cst.cam.ac.uk/teaching/part-ib/group-projects/course-structure",
+     "title": "Course structure",
+     "section": "Course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Candidates for Part IB are required to undertake a group design project in Lent term; groups are assigned a client; project developed over last seven weeks of term; attendance at client meetings compulsory.",
+     "supports": [
+      "group",
+      "participation",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.cst.cam.ac.uk/teaching/part-ib/group-projects/ib-project-playlist-2026",
+     "title": "Part IB Group Project Presentations",
+     "section": "2026 presentations",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Each group has been working with a client from the group of industry supporters over the last seven weeks; 2026 clients include Nokia Bell Labs, Bending Spoons, Evinova, Cambridge University Library, INRIA Grenoble, Calero, Alitheia Capital.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.cst.cam.ac.uk/teaching/part-ib/group-projects/design-briefs",
+     "title": "Part IB Project Design Briefs",
+     "section": "Design briefs",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Design briefs each tied to a named client.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "Pages undated; a handbook file titled 2025 appeared in results but its content was not retrieved, so current delivery is not confirmed. Mark as likely current pending corroboration.",
+   "named_partners": "MK Electric, Rolls-Royce (Bristol), Jaguar Land Rover, Siemens (undated examples)",
+   "eligibility_restrictions": "",
+   "local_id": "S9",
+   "official_name": "MET IIB Industrial Projects (Manufacturing Engineering Tripos)",
+   "english_name": "MET IIB two-week and four-week industrial projects",
+   "description": "Fourth-year (MEng) Manufacturing Engineering Tripos students work in groups of 2-4 in a host company for two weeks (Michaelmas and Lent) and a four-week team project in Lent, solving a real problem or strategic issue, with a company supervisor and IfM staff oversight; also a 7-week individual long project (not counted).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Institute for Manufacturing, Department of Engineering",
+   "eligible_faculties_programmes": "Manufacturing Engineering Tripos (MET) Part IIB",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Fourth year (MET IIB)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Two-week project worth 45 marks; four-week project worth 80 marks",
+   "duration": "2 weeks and 4 weeks",
+   "delivery_format": "On-site company projects in teams",
+   "project_based": "Yes",
+   "project_evidence": "Real company problem; e.g. automation feasibility study at MK Electric (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of between two and four (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Student groups work in a company with a company supervisor; companies write briefs with IfM staff; examples MK Electric, Rolls-Royce Bristol, Jaguar Land Rover, Siemens (sources 1,2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Host/client: sets brief, supervises on site, receives report",
+   "deliverable": "Company report/presentation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (MET IIB handbook titled 2025; not opened)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ifm.eng.cam.ac.uk/education/met/b/projects/",
+     "title": "MET IIB: Industrial Projects",
+     "section": "Project descriptions",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In Michaelmas and Lent terms students in groups of between two and four work in a company for periods of two weeks to solve a real problem; a staff member oversees and there is a supervisor in the company; examples MK Electric automation feasibility, Rolls-Royce Bristol digital maintenance instructions; two-week project worth 45 marks, four-week project 80 marks.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ifm.eng.cam.ac.uk/education/studentprojects/",
+     "title": "IfM student projects for companies",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Host companies write a brief with IfM staff; students individually or in teams address a significant organisational challenge and present a full report to the management team.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/METIIB_Full_Handbook_2025.pdf",
+     "title": "MET IIB Full Handbook 2025",
+     "section": "Handbook",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Handbook file titled 2025 listed in search results (content not retrieved).",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "Page undated; project calendar needs confirmation from IfM; individual vs team split noted ('individually or in teams'); pair evidence only for P1/P2.",
+   "named_partners": "",
+   "eligibility_restrictions": "",
+   "local_id": "S10",
+   "official_name": "ISMM MPhil Industrial Projects (IfM)",
+   "english_name": "Industrial Systems, Manufacture and Management MPhil industry projects",
+   "description": "ISMM MPhil students complete four industry projects (industrial systems/manufacturing processes in Dec-Jan with two students per project; entrepreneurship projects Jan-Mar) at company sites, reporting to company management teams; IfM coordinates around 80 projects in a typical year.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Institute for Manufacturing, Department of Engineering",
+   "eligible_faculties_programmes": "MPhil in Industrial Systems, Manufacture and Management",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "ISMM MPhil",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Periods of several weeks (P1, P2 Dec-Jan; P3 Jan-Mar)",
+   "delivery_format": "On-site company projects, pairs for P1/P2",
+   "project_based": "Yes",
+   "project_evidence": "Organisational challenge addressed and full report presented to company management (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "P1 and P2 are two students per project (pair); P3 entrepreneurship projects team size not retrieved (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies write the brief with IfM staff and receive the report presentation (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Host/client: brief, site, receives report",
+   "deliverable": "Company report/presentation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (ISMM dissertation pages from 2017)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ifm.eng.cam.ac.uk/education/studentprojects/",
+     "title": "IfM student projects for companies",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Companies of all sizes take part; students individually or in teams address a significant organisational challenge and present a full report to the management team; ISMM students take four industry projects; P1/P2 two students per project; around 80 projects in a typical year.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ifm.eng.cam.ac.uk/education/ismm/course/projects/",
+     "title": "Projects - Industrial Systems, Manufacture and Management",
+     "section": "Course projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "ISMM projects page (content summarised via search).",
+     "supports": [
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "No dated cohort or 2025/26-2026/27 listing retrieved.",
+   "named_partners": "",
+   "eligibility_restrictions": "",
+   "local_id": "S11",
+   "official_name": "MPhil in Engineering for Sustainable Development: Client Project (ESD-CP)",
+   "english_name": "ESD MPhil Client Project",
+   "description": "Teams in the Engineering for Sustainable Development MPhil take on a real-world problem set by an external client (consultancies, charities, infrastructure asset owners, international government bodies, start-ups) from January to March, delivering a written report and group presentation to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Centre for Sustainable Development, Department of Engineering",
+   "eligible_faculties_programmes": "MPhil in Engineering for Sustainable Development",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MPhil (Lent term)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "One module equivalent; written work and group presentation to client",
+   "duration": "Lent term (Jan-Mar), alongside other teaching",
+   "delivery_format": "Team client project",
+   "project_based": "Yes",
+   "project_evidence": "Real-world problem; report and presentation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Team-based Client Project (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External client sets problem and receives presentation; client types listed (source 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "deliverable": "Written report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www-esdmphil.eng.cam.ac.uk/about-the-programme/prog-structure/electives-and-management/client-consultancy-project",
+     "title": "Client Project",
+     "section": "Programme structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Management component comprises taught module ESD-SP and a team-based Client Project (ESD-CP) in Lent term, one module's credit; real-world problem identified by an external client; clients have included consultancies, charities, asset owners, international government bodies and start-ups; report and formal presentation.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpesd/study",
+     "title": "MPhil in Engineering for Sustainable Development",
+     "section": "Course study page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Client Project assessed on written work and a group presentation to the client.",
+     "supports": [
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "CEB page states 'not currently accepting applications'; Department of Medicine lists an October 2027 start; no dated cohort evidence. Consulting project duration unknown.",
+   "named_partners": "",
+   "eligibility_restrictions": "",
+   "local_id": "S12",
+   "official_name": "MPhil in Bioscience Enterprise: team consulting project",
+   "english_name": "MBE consulting project",
+   "description": "Students in the MPhil in Bioscience Enterprise work in teams as a consultancy on a real commercial question for a bioscience company (start-ups, SMEs, global companies, healthcare NGOs), presenting orally and in writing to the company and the Department; the course also includes a company research placement.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Chemical Engineering and Biotechnology (also listed by Department of Medicine)",
+   "eligible_faculties_programmes": "MPhil in Bioscience Enterprise",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MPhil",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Part of a 9-month course with an ~8-week business-oriented research project (consulting project length not retrieved)",
+   "delivery_format": "Team consultancy for company",
+   "project_based": "Yes",
+   "project_evidence": "Real commercial question; oral presentation and written report (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Students work in teams acting as a consultancy (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies submit proposals; deliverables presented to the Company and the Department (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: proposes project, receives presentation/report",
+   "deliverable": "Report and presentation to company",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ceb.cam.ac.uk/study/grad/mphil/bioent",
+     "title": "CEB-MPhil in Bioscience Enterprise",
+     "section": "Programme information",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In the first of two major industry projects, students work in teams acting as a consultancy venture on a real commercial question; deliverables to the Company are an oral presentation with slides and a written report, presented to the Company and the Department; proposals invited from start-ups, SMEs and global companies.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.med.cam.ac.uk/study/mphil-bioscience-enterprise-mbe",
+     "title": "MPhil in Bioscience Enterprise (MBE) - Department of Medicine",
+     "section": "Course listing",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Duration 9 months (including an 8-week business-oriented research project); October 2027 start listed.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 or 2026/27 client confirmation; described as simulation exercise but with real client organisations; unassessed, 5 days only.",
+   "named_partners": "UNDP (Jordan refugee integration), OECD (climate action), World Bank (business dynamism) - past years, undated",
+   "eligibility_restrictions": "",
+   "local_id": "S13",
+   "official_name": "MPhil in Public Policy: Policy Analysis Exercise (PAE)",
+   "english_name": "Bennett School Policy Analysis Exercise",
+   "description": "A five-day group exercise late in Easter term, delivered with a government department or international organisation on a current 'live' topic: the client sets the question, teams produce a 12-page report and presentation to the client. Not assessed.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bennett School of Public Policy",
+   "eligible_faculties_programmes": "MPhil in Public Policy",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MPhil (Easter term)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not assessed",
+   "duration": "5 days",
+   "delivery_format": "Intensive group simulation exercise with client briefing",
+   "project_based": "Yes",
+   "project_evidence": "Client-set policy question; 12-page report and presentation (source 1). Bounded 5-day output.",
+   "group_working": "Yes",
+   "group_evidence": "Students are split into teams (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client (UNDP, OECD, World Bank in past years) opens with a briefing setting the problem and receives each team's presentation (source 1). Page labels it a 'simulation exercise'; the clients are real organisations.",
+   "partner_type": "Public sector",
+   "partner_role": "Client: sets question, receives presentation",
+   "deliverable": "12-page report and presentation to the client",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bennettschool.cam.ac.uk/study/mphil-in-public-policy/mpp-curriculum/",
+     "title": "Curriculum - Bennett School of Public Policy",
+     "section": "MPP curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "PAE is a 5 day group simulation exercise held later in Easter term, not assessed, delivered in partnership with a government department or international organisation on a live topic; teams give a presentation to the client and a 12-page report; past partners UNDP, OECD, World Bank.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "unresolved": "No dated cohort listing of group consultancy projects; deliverable and duration not retrieved; CCI partner list includes some University bodies.",
+   "named_partners": "British Trust for Ornithology, BirdLife International, IUCN, Fauna & Flora, UNEP-WCMC (CCI partners per programme news; years undated)",
+   "eligibility_restrictions": "",
+   "local_id": "S14",
+   "official_name": "MPhil in Conservation Leadership: group consultancy project",
+   "english_name": "Conservation Leadership group consultancy (CL6/CL104 Innovation for Conservation Leadership)",
+   "description": "MPhil students complete an intensive group consultancy project with one of the Cambridge Conservation Initiative partner organisations (e.g. BTO, BirdLife, IUCN, FFI, UNEP-WCMC), alongside a separate individual placement.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Geography (Masters in Conservation Leadership, with Cambridge Conservation Initiative)",
+   "eligible_faculties_programmes": "MPhil in Conservation Leadership",
+   "faculty_areas": [
+    "science",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MPhil",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Within module CL6/CL104; not retrieved",
+   "duration": "Intensive (length not retrieved)",
+   "delivery_format": "Group consultancy with conservation organisation",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy project undertaken with a CCI partner (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Described as a group consultancy project (sources 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Each consultancy is undertaken with a CCI partner organisation; BTO regularly hosts consultancy projects (sources 1,2). CCI includes some University bodies; external NGOs named.",
+   "partner_type": "Charity/community",
+   "partner_role": "Host/client organisation",
+   "deliverable": "Consultancy output for partner (not detailed)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (individual placement list; group consultancy undated)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.geog.cam.ac.uk/postgraduate/mphil/conservation/",
+     "title": "MPhil in Conservation Leadership",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Programme combines taught modules with hands-on experiential learning through a group consultancy and an individual professional placement; includes an intensive group consultancy project undertaken with one of the CCI partner organisations.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cl.geog.cam.ac.uk/news/conservation-leadership-students-visit-british-trust-ornithology",
+     "title": "Conservation Leadership Students Visit the British Trust for Ornithology",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "BTO regularly hosts consultancy projects for the programme.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "Innovation / Climate i-Teams",
+   "participation_data": "",
+   "unresolved": "C not met on current evidence (internal client; industry input is expert interviews/mentoring); 'any department' wording is from calls of varying age and stream; no participant numbers retrieved.",
+   "named_partners": "",
+   "eligibility_restrictions": "",
+   "local_id": "S15",
+   "official_name": "Innovation / Climate i-Teams",
+   "english_name": "i-Teams (Innovation, Development, Medical, Social and Climate streams)",
+   "description": "One-term programme in which multidisciplinary teams of up to ~7 assess the commercial potential of real Cambridge inventions (licensing, partnerships, spin-out), contacting industry experts for feedback, with mentors from the business community and weekly workshops; Climate i-Teams starts 5 October (Michaelmas 2026), final presentations 10 December.",
+   "academic_reach": "University-wide",
+   "admin_host": "Innovation / IE Cambridge (i-Teams programme, hosted at IfM)",
+   "eligible_faculties_programmes": "Calls say any department; students (UG/PG), PhD, postdocs, staff; Climate i-Teams aimed at postgraduates and early-career researchers",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced",
+   "duration": "One term (Michaelmas 2026: 5 Oct to 10 Dec presentations)",
+   "delivery_format": "Weekly Monday evening workshops plus team project",
+   "project_based": "Yes",
+   "project_evidence": "Teams investigate market potential and routes to impact for a real invention; final recommendations presented (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Multidisciplinary teams of up to ~7 (sources 1,2).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "The 'client' is the Cambridge research lab/inventor (internal); external industry experts are interviewed for feedback and local business mentors guide teams, but no external organisation commissions the work or receives the output (sources 1,2).",
+   "partner_type": "Other",
+   "partner_role": "Internal university research groups supply the technology; individual industry experts/mentors give feedback",
+   "deliverable": "Commercialisation recommendations presented to the researchers/panel",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (Climate i-Teams Michaelmas 2026)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cam.ac.uk/stories/climate-iteams-innovation",
+     "title": "Cambridge launches Climate i-Teams",
+     "section": "News",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Climate i-Teams starts 5 October; multidisciplinary teams assess commercial potential of real Cambridge inventions; workshops every Monday evening in Michaelmas term; final findings presented 10 December; open to postgraduate students and early-career researchers.",
+     "supports": [
+      "project",
+      "group",
+      "status",
+      "eligibility",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://ie.cam.ac.uk/support_article/i-teams/",
+     "title": "i-Teams Cambridge - IE Cambridge",
+     "section": "Programme description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of up to about seven look at commercial potential of a real Cambridge invention, contact relevant industry experts for feedback; guided by PIs, programme director and local business mentors.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.c2d3.cam.ac.uk/opportunities/join-i-teams-michaelmas-term",
+     "title": "Join i-Teams for the Michaelmas Term",
+     "section": "Call",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Calls welcome participants from any department; Development i-Teams welcomed undergraduates, postgraduates, postdocs and staff.",
+     "supports": [
+      "reach",
+      "eligibility"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Cambridge Venture Project / Global Consulting Project (legacy row)",
+   "legacy": true,
+   "category": "Other",
+   "reason": "Reassessed as schemes S1 (GCP) and S2 (CVP); not excluded.",
+   "source_url": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/",
+   "status_note": "Legacy row 9 mapped to S1/S2"
+  },
+  {
+   "name": "MFin Individual Project and Work Placement",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual summer internship/project of at least six weeks; no group working evidenced.",
+   "source_url": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/mfin-individual-project-work-placement/",
+   "status_note": ""
+  },
+  {
+   "name": "Engineering Student-led Projects and Industry Partnership (SPIP)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Student-run engineering teams (e.g. Eco Racing, Full Blue Racing) with industry sponsorship and funding; sponsors pay subscriptions, they do not set a client brief or receive outputs.",
+   "source_url": "https://teaching.eng.cam.ac.uk/content/student-led-projects",
+   "status_note": ""
+  },
+  {
+   "name": "Engineering Part IIB projects with industrial collaboration",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Fourth-year projects may involve an industrial collaborator but are described as individual/pair research projects (not evidenced as group); collaboration optional.",
+   "source_url": "https://teaching.eng.cam.ac.uk/content/part-iib-project-introduction",
+   "status_note": ""
+  },
+  {
+   "name": "Engineering Part IIA group projects (e.g. GM2 Technology for the poorest billion)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group projects (min 3 students) listed but no external client or sponsor evidenced in retrieved pages.",
+   "source_url": "https://teaching.eng.cam.ac.uk/content/part-iia-project-descriptions",
+   "status_note": "Further departmental instances may exist"
+  },
+  {
+   "name": "Chemical Engineering team design project (3rd year)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Five-week team plant design project in groups of ~5, but no external organisation involvement evidenced (2019-22 course documents).",
+   "source_url": "https://www.ceb.cam.ac.uk/study/undergraduate",
+   "status_note": ""
+  },
+  {
+   "name": "Cambridge Hub / student consultancy-style charity projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "A student flyer mentions six-week consultancy-style projects for Cambridge charities; no current, official scheme page retrieved; student-run charity, not university provision.",
+   "source_url": "https://www.jbs.cam.ac.uk/ventures/cambridge-hub",
+   "status_note": ""
+  },
+  {
+   "name": "Cambridge Pro Bono Project (Law Faculty)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Described as a Law Faculty research centre partnering with NGOs and others, not a student team project route; student participation not evidenced.",
+   "source_url": "https://www.cpp.law.cam.ac.uk",
+   "status_note": ""
+  },
+  {
+   "name": "Student societies: Cambridge Consulting Network / 180 Degrees Consulting",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Named by Careers Service as consulting experience routes; not searched individually; student-run extracurricular societies.",
+   "source_url": "https://www.careers.cam.ac.uk/sectors-consultancy",
+   "status_note": "Not verified"
+  },
+  {
+   "name": "Careers Service (employer fairs, Charityworks)",
+   "legacy": false,
+   "category": "Careers service",
+   "reason": "Careers provision; no group employer project.",
+   "source_url": "https://www.careers.cam.ac.uk/sectors-charities",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Cambridge has no institution-wide employer-project scheme; provision is concentrated in a few programme-embedded routes.** Cambridge Judge Business School runs the densest set: the MBA Global Consulting Project (4-5 students, ~4 weeks, hosts such as WHO and Uber) and Cambridge Venture Project (5-6 students, ~6 weeks, local businesses), the MFin Group Consulting Project, the MPhil in Management Consulting Project, the undergraduate Management Studies Tripos project (teams of 3-4 for external organisations), and the MPhil in Technology Policy Final Group Project (clients including Cabinet Office, Ofcom, Arm). Each is part of a degree, uses a central client-proposal process with 2026/27 calls, and relies on external organisations as clients who receive the output. Outside business, the Computer Science Tripos Part IB group project is the standout: a compulsory seven-week team project for an assigned industry client, with 2026 clients including Nokia Bell Labs and Bending Spoons. Further routes exist in Engineering (IfM MET/ISMM company projects, ESD MPhil Client Project), Bioscience Enterprise and Public Policy/Conservation Leadership, but these lack dated current evidence. The university-wide i-Teams programme (selective, extracurricular) has teams but internal research clients, so it does not meet the employer criterion. Access is by programme: none is open university-wide. Uncertain: credit weightings, EMBA duration, and current status of the engineering and social-science MPhil routes.",
+ "gaps": "Further departmental instances likely (other MPhils, Engineering Part IIA group projects, Chemical Engineering, Medicine, Architecture, Law, Education not individually searched). Credit/weighting and 'compulsory' wording not retrieved for most JBS projects (inferred from core-curriculum placement). MET/ISMM, ESD, MBE, Bennett PAE and Conservation Leadership need dated 2025/26-2026/27 corroboration. Student societies (180 Degrees Consulting, Cambridge Consulting Network) and Cambridge Hub not verified. WebFetch unavailable; all evidence is search-index extract/paraphrase."
+}
