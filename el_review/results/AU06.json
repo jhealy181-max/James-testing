@@ -1,0 +1,630 @@
+{
+ "inst_id": "AU06",
+ "institution": "University of Queensland",
+ "review_status": "Partial",
+ "partial_remaining": "Science, arts/humanities/social sciences and other (law, health, architecture) areas not searched; engineering discipline capstones (civil, chemical, mechanical, mining, architecture studios) not searched; other UQ Ventures challenges not tested. Shared WebSearch budget for the session ran out after 12 searches for UQ.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UQ Ventures industry challenge interdisciplinary student teams real problem",
+    "Ventures Industry Challenge 2026 teams industry partner pitch prize eligibility (extended)",
+    "UQ Employability industry experience projects Practera teams host organisation brief (extended)"
+   ],
+   "key_sources": [
+    "https://ventures.uq.edu.au/industry-challenge",
+    "https://employability.uq.edu.au/practera-saiep-industry-experience-projects"
+   ],
+   "finding": "Two university-wide extracurricular routes: Ventures Industry Challenge (theme-partner competition; C unclear, 2026 partner internal) and Practera SAIEP 2-week virtual team projects with live employer briefs (qualifies). Other Ventures challenges not researched."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "UQ Business School course consulting project client organisation student teams",
+    "BEL industry consulting project final year apply ... course code (extended)",
+    "PBEL3000 Learning by Doing in a Disruptive World industry partner teams project (extended)",
+    "UQ MBA industry projects teams client consulting 2026 MGTS7818 (extended)",
+    "MGTS7820 Impact Academy ... (extended)",
+    "UQ MBA Impact Academy project sponsors (extended)"
+   ],
+   "key_sources": [
+    "https://bel.uq.edu.au/for-students/careers/wil/industry-project",
+    "https://programs-courses.uq.edu.au/course.html?course_code=PBEL3000",
+    "https://programs-courses.uq.edu.au/course.html?course_code=MGTS7820",
+    "https://course-profiles.uq.edu.au/course-profiles/MGTS7818-60293-7460"
+   ],
+   "finding": "BEL Industry Consulting Project (RBUS3888/4888/7888, BSAN7215), PBEL3000 capstone and MBA Impact Academy 1 all qualify with current evidence; former MBA capstone MGTS7818 last evidenced 2024."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "EAIT industry partner capstone project student teams DECO3801 Design Computing Studio client",
+    "EAIT partner with students industry projects submit a project ... (extended)",
+    "course profile students work in teams industry client real project brief ... engineering 2026",
+    "DECO3800 DECO3801 capstone project briefs industry partners clients (extended)"
+   ],
+   "key_sources": [
+    "https://programs-courses.uq.edu.au/course.html?course_code=DECO3801",
+    "https://www.eait.uq.edu.au/employability/industry-partnerships/data-science-and-cyber-security/master-of-data-science-capstone-project"
+   ],
+   "finding": "No qualifying group route with external client verified: DECO3801 team capstone uses student-proposed briefs; industry-partner projects found (Data Science capstone, BE/ME placement) are individual. Discipline-level engineering design courses not searched (budget exhausted)."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: shared web-search budget for the session was exhausted after 12 searches."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: web-search budget exhausted."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched (law, health, architecture/design): web-search budget exhausted."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Ventures Industry Challenge",
+   "english_name": "Ventures Industry Challenge",
+   "module_code": "",
+   "description": "Annual UQ Ventures extracurricular challenge-based competition. Students from any faculty form (encouraged cross-disciplinary) teams at a launch panel, work over roughly a month on a themed real-world problem set with an annual partner, receive mentoring from industry mentors, and pitch solutions for prizes. Themes/partners vary by year: 2020 water scarcity with WaterStart (not-for-profit water innovation agency; 40+ teams); 2024 Ocean Innovation with the Port of Brisbane; 2026 sexual health and wellbeing with UQ SEXtember (a UQ initiative) and, per a Ventures page, ASHM.",
+   "academic_reach": "University-wide",
+   "admin_host": "UQ Ventures (central entrepreneurship/innovation unit)",
+   "eligible_faculties_programmes": "Teams of current UQ students from any faculty, discipline or year level",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Current UQ students; register and join a team at the first panel session (26 August in 2026).",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit; pitch competition judged against criteria provided to participants; prizes (up to $11,000 in an earlier, undated edition).",
+   "duration": "Across September (approx. 4 weeks) in 2026",
+   "delivery_format": "In person workshops/panel sessions, mentoring and final pitch",
+   "project_based": "Yes",
+   "project_evidence": "Teams tackle a defined annual challenge theme and pitch a solution (identifiable output: solution pitch) [1][3].",
+   "group_working": "Yes",
+   "group_evidence": "'Open to teams of current UQ students'; trans-disciplinary teams formed at first panel session [1][3].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Each edition has a themed partner (WaterStart 2020 [1]; Port of Brisbane 2024 [2]) and students are 'guided by industry mentors from relevant organisations' [1]. However the 2026 lead partner (UQ SEXtember) is a university initiative (internal), the external body ASHM was mentioned only on an unspecified Ventures page, and no source shows an external organisation setting a live brief, judging pitches or receiving the outputs. Theme-sponsor plus mentoring, partly internal, so Unclear.",
+   "partner_type": "Mixed",
+   "partner_role": "Theme partner (varies by year: not-for-profit, port operator, internal UQ initiative); industry mentors; judging panel composition not evidenced",
+   "named_partners": "WaterStart (2020); Port of Brisbane (2024); UQ SEXtember (internal, 2026); ASHM (2026, attribution to specific page unclear)",
+   "deliverable": "Team solution pitch",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "Over 40 teams (2020, inaugural edition) [1]",
+   "unresolved": "Whether external partners set the problem statements and sit on the judging panel; 2026 partner is internal UQ SEXtember; prize amounts for 2026 not published.",
+   "legacy_ref": "UQ Ventures challenges",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://ventures.uq.edu.au/industry-challenge",
+     "title": "Ventures Industry Challenge",
+     "section": "Main page",
+     "pub_year": "2026 (page describes 2026 edition)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "University-wide competition bringing together students 'from across every Faculty and discipline to tackle real-world problems'; 'open to teams of current UQ students'; guided by industry mentors from relevant organisations; inaugural 2020 with WaterStart, 'Over 40 cross-disciplinary teams'; 'For 2026, the challenge is partnering with UQ SEXtember'; register and attend the first panel session on 26 August to find your team.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://ventures.uq.edu.au/article/2024/10/ventures-industry-challenge-hooks-finalist-status-2024-excellence-awards",
+     "title": "Ventures Industry Challenge hooks finalist status in 2024 Excellence Awards",
+     "section": "News article",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2024 edition used an Ocean Innovation theme with the Port of Brisbane; programme a Finalist in the Engagement Australia 2024 Excellence Awards.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://ventures.uq.edu.au/industry-challenge",
+     "title": "Ventures Industry Challenge",
+     "section": "2026 details",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Across September, student teams explore challenges related to sexual health and wellbeing; teams encouraged to be cross-disciplinary, 'no matter your discipline or year level'; 'Judging Criteria and Terms and Conditions apply to the pitch competition'.",
+     "supports": [
+      "group",
+      "eligibility",
+      "duration",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Practera SAIEP - Industry Experience Projects",
+   "english_name": "Practera SAIEP Industry Experience Projects",
+   "module_code": "",
+   "description": "UQ Careers and Employability offers places on Practera's two-week virtual industry experience projects (SAIEP). Teams of international and domestic tertiary students from several Australian institutions respond to a real brief (e.g. an export brief) from an Australian or global employer in streams such as International Business, Sustainable Impact, Digital Marketing Strategy, Growth Strategy and Funding & Finance, and receive direct feedback from the client on their project outcome.",
+   "academic_reach": "University-wide",
+   "admin_host": "UQ Careers and Employability (delivered by Practera)",
+   "eligible_faculties_programmes": "Any currently enrolled UQ student",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Current UQ enrolment; limited places; compulsory orientation; minimum 25 hours commitment; no fee.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit; certificate and LinkedIn badge",
+   "duration": "Two weeks, minimum 25 hours",
+   "delivery_format": "Virtual, mixed-institution teams",
+   "project_based": "Yes",
+   "project_evidence": "Students respond to a project brief from an organisation (e.g. export brief) producing a project outcome on which the client gives feedback [1].",
+   "group_working": "Yes",
+   "group_evidence": "'student teams across Australian institutions work on real industry projects' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Australian/global employers provide the brief and give 'direct feedback from their client on their project outcome' [1]. Live client, not a simulation, per the UQ page.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies brief; receives outputs and gives feedback",
+   "named_partners": "Past clients named on UQ page (undated): Infosys, FlyFreely, Synapse Medical",
+   "deliverable": "Team project outcome/recommendations to client",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Number of UQ participants not published; brief/output format per stream not detailed; short (2-week) format.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://employability.uq.edu.au/practera-saiep-industry-experience-projects",
+     "title": "Practera SAIEP - Industry Experience Projects",
+     "section": "Main page",
+     "pub_year": "2026/27 (Summer 2026/2027 orientation dates listed)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Two-week virtual project in which 'international and domestic tertiary student teams across Australian institutions work on real industry projects with Australian and global employers'; minimum 25 hours; no fee; requires current UQ enrolment, places limited; students respond to 'an export brief provided by an Australian organisation'; past clients Infosys, FlyFreely, Synapse Medical; 'direct feedback from their client on their project outcome'; Summer 2026/2027 orientation 16 November 2026 and 18 January 2027.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "duration",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industry Consulting Project (Business Industry Consultancy Project)",
+   "english_name": "BEL Industry Consulting Project",
+   "module_code": "RBUS3888; RBUS4888; RBUS7888; BSAN7215",
+   "description": "Faculty of Business, Economics and Law work-integrated learning course. Final-year students apply, are matched to project options released about four weeks before semester, and work in a project team for the semester on a professional response to a brief provided by an industry partner, meeting weekly with a UQ project mentor assigned to the group, and delivering a team report to the client.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Business, Economics and Law (BEL Employability/WIL team)",
+   "eligible_faculties_programmes": "BEL Faculty students eligible for RBUS3888 (UG), RBUS4888, RBUS7888 (PG) or BSAN7215 (PG business analytics)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Final year with an elective available; minimum GPA 4.0; application via BEL WIL form and Head of School approval.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credit-bearing elective course (units not confirmed in search)",
+   "duration": "One semester",
+   "delivery_format": "Weekly team meetings with project mentor; client engagement",
+   "project_based": "Yes",
+   "project_evidence": "'professional response to a project brief provided by an industry partner'; final deliverable a team report for the client (2500-3000 words guide) [1].",
+   "group_working": "Yes",
+   "group_evidence": "'meet weekly to work with your project team'; mentor assigned to the group; team report [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partner provides the project brief and receives the team's client report [1]; partner-facing BEL page invites organisations to have students 'develop a tailored response to your project brief' [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies brief; client for team report",
+   "named_partners": "Cancer Council Queensland; Netball Queensland (past partners, undated) [1]",
+   "deliverable": "Team client report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Places per semester; unit value; split of UG/PG uptake.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://bel.uq.edu.au/for-students/careers/wil/industry-project",
+     "title": "Industry consulting project - Faculty of Business, Economics & Law",
+     "section": "Student page",
+     "pub_year": "2026 (application deadlines for Summer 2026-27 and Semester 1 2027)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'currently only available for BEL Faculty students who are eligible to take RBUS3888, RBUS4888, RBUS7888, and BSAN7215'; final year, GPA 4; 'You will meet weekly to work with your project team and receive direction and support from a project mentor that is assigned to your group'; teams work on 'a professional response to a project brief provided by an industry partner'; final deliverable 'a team report for your client'; past partners Cancer Council Queensland and Netball Queensland; BEL WIL form closes 30 October 2026 (Summer 2026-27) and 22 January 2027 (Sem 1 2027).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://about.uq.edu.au/faculties-institutes/bel/partners-community/partnerships/work-with-students",
+     "title": "Work with our students (BEL)",
+     "section": "Partner-facing page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consultancy projects in which students 'work in teams to develop a tailored response to your project brief with the support of a UQ mentor'.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://programs-courses.uq.edu.au/course.html?course_code=RBUS3888",
+     "title": "Business Industry Consultancy Project (RBUS3888)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Prerequisite GPA of 4.0 or higher and approval from Head of School via BEL Student Administration Team.",
+     "supports": [
+      "eligibility",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Learning by Doing in a Disruptive World",
+   "english_name": "Learning by Doing in a Disruptive World (BEL Employability Capstone)",
+   "module_code": "PBEL3000",
+   "description": "Application-only BEL capstone elective first run Summer Semester 2021. Students from across Business, Economics and Law form teams of 3-5 to work on a novel, real and complex problem posed by an industry partner, on campus in an open-office workshop, guided by an academic lead, an employability specialist and the industry partner; teams pitch a solution to the partner and write an industry report on implementing it.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "UQ Business School, Faculty of Business, Economics and Law",
+   "eligible_faculties_programmes": "BEL students; listed as elective in BCom, BEcon and combined degrees (2025 program rules)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Later years (3000-level)",
+   "eligibility_restrictions": "Entry by application only",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "2 units; team presentation 30%, industry report 40%, individual reflections/peer contribution remainder (2024 profile)",
+   "duration": "One (summer) semester; 65 contact hours",
+   "delivery_format": "In person, studio/open-office workshop",
+   "project_based": "Yes",
+   "project_evidence": "Real industry problem; team pitch (10 min) and final industry report (2,000-3,000 words) on putting the solution into practice [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3-5 [2]; 'students partner with other students from across the Business, Economics and Law Faculty to work with an industry partner' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partner poses the problem, advises teams, receives the pitch, questions the team and gives feedback [1][2]; 2022 award notice: helped four industry partners [3].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Problem owner; adviser; audience/feedback on pitch",
+   "named_partners": "",
+   "deliverable": "Team pitch and industry report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (Summer Semester 2025)",
+   "participation_data": "",
+   "unresolved": "Course page lists most recent offering as Summer Semester 2025 (Nov 2025-Feb 2026); 2026-27 offering not confirmed. Named partners not found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://programs-courses.uq.edu.au/course.html?course_code=PBEL3000",
+     "title": "Learning by Doing in a Disruptive World (PBEL3000)",
+     "section": "Course description",
+     "pub_year": "Summer Semester 2025 offering listed",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'students partner with other students from across the Business, Economics and Law Faculty to work with an industry partner, with the focus on innovatively solving a novel, real and complex industry problem'; 'guided and advised by a team comprised of an academic lead, employability specialist and industry partners'; 2 units, 65 contact hours; most recent offering Summer Semester 2025.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://course-profiles.uq.edu.au/course-profiles/PBEL3000-80098-7480",
+     "title": "PBEL3000 course profile",
+     "section": "Assessment",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 3-5; team presentation (30%) pitches solution to partner, who questions team and gives feedback; final industry report (40%) 2,000-3,000 words.",
+     "supports": [
+      "group",
+      "project",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://bel.uq.edu.au/blog/2022/11/staff-take-centre-stage-2022-bel-employee-excellence-awards",
+     "title": "2022 BEL Awards for Excellence",
+     "section": "Award notice",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Course developed by Dr Frederik von Briel; first delivered Summer Semester 2021 as BEL Employability Capstone; helped four industry partners with innovative solutions.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Impact Academy 1: Discovering New Solutions for Complex Problems",
+   "english_name": "UQ MBA Impact Academy 1",
+   "module_code": "MGTS7820",
+   "description": "First of three optional MBA Impact Academy courses (successor to the MBA capstone/industry projects). Teams choose a project from a curated list of real, current complex problems from sponsoring organisations, use UQ's 'Humble Discovery' method including up to 100 stakeholder conversations per group, and present final findings to project sponsors. Later Impact Academy courses (MGTS7821, and a third) continue the project or allow work on the student's own venture.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UQ Business School (MBA)",
+   "eligible_faculties_programmes": "Master of Business Administration",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA",
+   "eligibility_restrictions": "MBA students; incompatible with MGTS7818",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credit-bearing course; stakeholder and situation analysis 40% (2026 profile)",
+   "duration": "One semester (projects typically 3-4 months)",
+   "delivery_format": "Team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Project on a real complex problem with stakeholder analysis and final presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'students work in teams on projects' [1]; each group conducts stakeholder conversations [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects come from a curated list of real problems; final presentations delivered to project sponsors (2026 offering) [1]; MBA projects delivered for 70+ industry partners incl. corporates, NFPs, government and startups, free to partners [2][3].",
+   "partner_type": "Mixed",
+   "partner_role": "Project sponsor supplying problem; receives final presentation",
+   "named_partners": "Past MBA project partners (undated list): Suncorp, Hatch, Anglicare, Queensland Police, Boeing Research and Technology, Unity Water; also Avcair, BenchOn, People With Purpose; CSIRO (student example) [3]",
+   "deliverable": "Stakeholder/situation analysis and final presentation to sponsor",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "70+ industry partners cumulatively (MBA projects, undated) [2]",
+   "unresolved": "Whether all sponsors in the curated list are external (some may be UQ-internal or student ventures in later Impact Academy courses); partner list undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://programs-courses.uq.edu.au/course.html?course_code=MGTS7820",
+     "title": "Impact Academy 1: Discovering New Solutions for Complex Problems (MGTS7820)",
+     "section": "Course page / 2026 course profile (MGTS7820-60075-7560)",
+     "pub_year": "2026 (Semester 1, 2026 offering)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "First of three immersive learning experiences; students 'work in teams on projects that address complex business problems'; choose a project from a curated list of real, current complex problems; up to 100 stakeholder conversations per group; stakeholder/situation analysis 40%; final presentations to project sponsors in the 2026 offering; coordinator Prof Nicole Hartley.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://business.uq.edu.au/current-students/mba-industry-projects",
+     "title": "MBA Industry Projects - UQ Business School",
+     "section": "Main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consulting projects free to partner organisations; teams work with client for three to four months; projects best address a genuine business problem.",
+     "supports": [
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://study.uq.edu.au/stories/mba-capstone-projects-industry-experience",
+     "title": "UQ MBA Impact Academy",
+     "section": "Story",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Optional 1, 2 or 3 Impact Academy courses working with an industry partner or on a new entrepreneurial venture; previously called MBA capstone projects; MBA students delivered consultancy projects for more than 70 industry partners; past partners incl. Suncorp, Hatch, Anglicare, Queensland Police, Boeing Research and Technology, Unity Water.",
+     "supports": [
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industry Engagement Capstone",
+   "english_name": "MBA Industry Engagement Capstone",
+   "module_code": "MGTS7818",
+   "description": "Former MBA capstone: consultancy teams work on a strategic project for a corporate, not-for-profit or startup industry partner, meeting the client in the first two weeks, pitching a proposal for client sign-off and delivering a final client presentation and report quantifying impact; each team has an experienced mentor and faculty support.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UQ Business School (MBA)",
+   "eligible_faculties_programmes": "Master of Business Administration",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA final stage",
+   "eligibility_restrictions": "MBA students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "2 units; proposal pitch 25%, final client presentation and report 75% (2024 profile)",
+   "duration": "One semester",
+   "delivery_format": "In person, Brisbane",
+   "project_based": "Yes",
+   "project_evidence": "Strategic consultancy project with proposal and final report/presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Consultancy teams, each with a mentor [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partner is client: meets team within first two weeks, signs off proposal, receives final presentation and report [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "named_partners": "",
+   "deliverable": "Client report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024",
+   "participation_data": "",
+   "unresolved": "Latest offerings found were Semester 1 and 2, 2024; MGTS7820 (Impact Academy) lists MGTS7818 as incompatible and Impact Academy is described as the former 'MBA capstone projects', suggesting replacement, but discontinuation not confirmed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7818-60293-7460",
+     "title": "MGTS7818 course profile",
+     "section": "Course description and assessment",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams work on a strategic project for an industry partner from the corporate, not-for-profit or startup sectors; teams must meet with their client within the first two weeks; proposal pitch 25%, final pitch and report 75%; each team has a mentor and faculty support.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://my.uq.edu.au/programs-courses/course.html?course_code=MGTS7818",
+     "title": "Industry Engagement Capstone (MGTS7818)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Most recent listed offerings Semester 1 and Semester 2 2024.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "DECO3800/DECO3801 Design Computing Studio 3 (IT/software capstone)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Compulsory capstone for BInfTech, MInfTech and BE (Software) where interdisciplinary teams build a software prototype to a project brief (A, B = Yes), but briefs derive from student team proposals in DECO3800; industry involvement evidenced only as guest speakers; no external client found.",
+   "source_url": "https://programs-courses.uq.edu.au/course.html?course_code=DECO3801",
+   "status_note": "Semester 1 2026 offering"
+  },
+  {
+   "name": "ENGG1100 Professional Engineering / ENGG4901 Professional Practice and the Business Environment A",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team design project/report (ENGG1100) and team project reported to a 'project manager' (ENGG4901) in 2026 profiles; no external organisation evidenced as client.",
+   "source_url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1100-20455-7620",
+   "status_note": "2026 profiles"
+  },
+  {
+   "name": "Master of Data Science Capstone Project (industry-partner projects)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Industry partners post projects which students apply for individually (shortlisting/interview; application signed by industry supervisor); no evidence of team working.",
+   "source_url": "https://www.eait.uq.edu.au/employability/industry-partnerships/data-science-and-cyber-security/master-of-data-science-capstone-project",
+   "status_note": "undated"
+  },
+  {
+   "name": "BE (Hons)/ME 24-week industry placement",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Industry-proposed investigation/design task undertaken on an individual placement; not group.",
+   "source_url": "https://www.eait.uq.edu.au/employability/industry-partnerships/engineering-students/beme-industry-placement",
+   "status_note": "undated"
+  },
+  {
+   "name": "RBUS7999 Business Industry Placement",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Professional placement or industry consultancy project (group project) option; consultancy route appears to be the same BEL Industry Consulting Project framework (S3); 2023 course page only.",
+   "source_url": "https://my.uq.edu.au/programs-courses/course.html?course_code=RBUS7999&year=2023",
+   "status_note": "2023"
+  },
+  {
+   "name": "PSYC7405 Business Skills for Consultants",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams work through case studies with an experienced consultant; no live client.",
+   "source_url": "https://programs-courses.uq.edu.au/course.html?course_code=PSYC7405",
+   "status_note": "undated"
+  },
+  {
+   "name": "UQ Ventures other challenges (Global Business Challenge, Food Innovation Challenge, Quantum Hackathon) and ilab Accelerator",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Surfaced in search results but not researched within budget; ilab Accelerator supports students' own ventures (entrepreneurship).",
+   "source_url": "https://ventures.uq.edu.au/programs",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**University of Queensland (partial review).** The verified provision sits mainly in **Business, Economics and Law**, plus two central extracurricular routes.\n\n- **BEL Industry Consulting Project** (RBUS3888/4888/7888, BSAN7215): selective final-year course (GPA 4.0+, by application). Project teams with an assigned mentor answer a brief from an industry partner, such as Cancer Council Queensland or Netball Queensland, and deliver a team report to the client. Applications are open for 2026-27.\n- **PBEL3000 Learning by Doing in a Disruptive World:** application-only undergraduate capstone. Teams of 3-5 pitch to an industry partner, who gives feedback, and write an industry report. Last offered Summer Semester 2025.\n- **MBA Impact Academy 1** (MGTS7820, 2026): teams take sponsor-set real problems and present to the sponsors. It appears to replace the MGTS7818 Industry Engagement Capstone, last evidenced in 2024. Past MBA partners include Suncorp, Anglicare and Queensland Police.\n- **Central:** **Practera SAIEP** offers two-week virtual team projects for any UQ student, with briefs from real employers and client feedback. It is short and selective. The **Ventures Industry Challenge** is university-wide but only theme-partnered, and its 2026 partner is UQ's own SEXtember initiative, so criterion C is unclear.\n- **Engineering/IT:** the DECO3801 team capstone uses briefs written by students. The industry-partner projects found (Data Science capstone, BE/ME placement) are individual.\n\nNo route is compulsory institution-wide; all are optional or selective. Science, HASS, law, health and architecture were **not searched** because the search budget ran out. Further routes there are likely.",
+ "gaps": "Science, HASS and other faculties not searched; engineering discipline design courses not searched; Ventures Industry Challenge judging/brief role of external partners unclear; PBEL3000 2026-27 offering not confirmed; MGTS7818 status (likely replaced by Impact Academy) unconfirmed; no UQ participation numbers for Practera or BEL projects."
+}

@@ -1,0 +1,346 @@
+{
+ "inst_id": "AU09",
+ "institution": "University of Technology Sydney",
+ "review_status": "Partial",
+ "partial_remaining": "The search budget ran out after 7 searches. Still to do: (1) faculty-level searches for business (consulting or capstone subjects), engineering and IT (capstones, software studios), science, arts and social sciences (communication, education), and other areas (design, architecture and building, law, health); (2) checking the TD Electives group/team format and assessment in the 2026 handbook subject pages (only search-summary paraphrases were obtained); (3) the Shopfront participating-subject list and a quoted team-format extract; (4) the participation mode of the BCII Industry Innovation Project.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UTS transdisciplinary electives industry partner project students teams",
+    "UTS Shopfront community program student projects community organisations",
+    "TD Electives 2026 brochure UTS students teams industry partner challenge (extended)",
+    "UTS TD electives partners project-based engagements challenge mentoring feedback (extended)",
+    "\"Reframing, Remixing, Reimagining Society\" UTS handbook 2026 subject assessment group (extended)",
+    "Transdisciplinary Electives at UTS who can enrol teams students from all faculties real-world challenge (extended)",
+    "UTS TD elective subject \"in teams\" industry partner pitch final presentation transdisciplinary (extended)"
+   ],
+   "key_sources": [
+    "https://www.uts.edu.au/for-students/transdisciplinary-innovation/transdisciplinary-electives",
+    "https://www.uts.edu.au/about/faculties/transdisciplinary-school/partnerships/how-get-involved/project-based-engagements/td-electives",
+    "https://www.uts.edu.au/globalassets/sites/default/files/article/downloads/td-electives-2026-brochure.pdf",
+    "https://www.uts.edu.au/about/faculties/transdisciplinary-school/partnerships/how-get-involved/project-based-engagements/industry-innovation-project",
+    "https://www.uts.edu.au/globalassets/shared-media/documents/td-school/td-industry-innovation-project-2026-bcii-brochure.pdf",
+    "https://www.uts.edu.au/current-students/opportunities/community-and-leadership-programs/uts-shopfront/community-projects",
+    "https://coursehandbook.uts.edu.au/subject/2026/95010"
+   ],
+   "finding": "There are two central routes. The TD School runs Transdisciplinary Electives, a suite of 8 undergraduate electives, each built around a challenge co-designed with a named partner over three years. UTS Shopfront brokers community-organisation projects into coursework, where student teams act as consultants. The TD School also runs the Industry Innovation Project, a final-year partner project in the Bachelor of Creative Intelligence and Innovation (BCII)."
+  },
+  "business": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+  },
+  "engineering_computing": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Transdisciplinary (TD) Electives",
+   "english_name": "Transdisciplinary Electives",
+   "module_code": "e.g. 95002/95010 TD: Reframing, remixing, reimagining society (UNICEF Australia); 95005 Shaping Technologies that Shape Us (Microsoft); 95004 (ServiceRocket); 95006 (City of Sydney); 95008 (Miro); Pathways to Societal Transitions (Lane Cove Council)",
+   "description": "A suite of 8 TD School elective subjects open to UTS undergraduates. Each subject is built around a real-world challenge from a partner organisation (2026 partners include UNICEF Australia, City of Sydney, Microsoft, Miro, Lane Cove Council and ServiceRocket). Partners co-design a challenge or learning question that runs for three years, contribute pre-recorded learning modules, and join live sessions (Q&As, mentoring, feedback on student ideas). Students from across faculties develop proposals in response; in a 2024 offering, Red Cross students pitched proposals to Australian Red Cross staff (search summary).",
+   "academic_reach": "University-wide",
+   "admin_host": "TD School (Transdisciplinary School)",
+   "eligible_faculties_programmes": "All UTS undergraduate degrees with elective space; BCII students take different electives",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "Undergraduates with elective space; BCII students excluded (they take their own elective subjects).",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 cp (e.g. 95002) or 8 cp '+' version (e.g. 95010) per 2026 handbook / 2027 pre-approved list. Group assessment format for 2026 not verified; the pre-2025 handbook for 95009 lists a 40% major task with a 10-minute presentation, poster and Miro board.",
+   "duration": "One teaching session (e.g. 95002 fortnightly in Autumn, or July block)",
+   "delivery_format": "Fortnightly in session or block mode; mix of pre-recorded partner content and live sessions",
+   "project_based": "Yes",
+   "project_evidence": "Each subject centres on a real-world challenge presented by an industry partner, and students develop projects and ideas in response [1][2][3]. Outputs in past offerings were proposals pitched to the partner (Red Cross, 2024) and presentation/poster/Miro board deliverables (95009, pre-2025) [4].",
+   "group_working": "Yes",
+   "group_evidence": "Search summaries tied to the student-facing TD Electives page state that students from across all faculties collaborate in teams on the subject's challenge [1]. This is a search-summary paraphrase, not a quoted extract, and the team format in the 2026 handbook assessment was not verified. Downgrade to Unclear if the handbook shows individual assessment only.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner organisations co-design the challenge/learning question for three years, contribute pre-recorded learning modules, and take part in live engagements: Q&As, mentoring, and feedback on student ideas [2][3]. Every subject has a named partner (one 2026 listing showed TBC) [3].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets the challenge, provides content, mentors and gives feedback; receives pitches in some offerings",
+   "named_partners": "2026: UNICEF Australia, City of Sydney, Microsoft, Miro, Lane Cove Council, ServiceRocket [3]; earlier: Australian Red Cross, Stockland, Regen Studios (search summary)",
+   "deliverable": "Team proposals/ideas responding to the partner challenge (presentation, poster, Miro board in a pre-2025 example)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "",
+   "unresolved": "Group format rests on search-summary paraphrase. 2026 subject assessment details were not retrieved. The phrase 'eight electives embedded in every undergraduate degree' probably means availability of the suite, not compulsion, so the scheme is recorded as optional. Current delivery rests on the dated 2026 brochure and the 2026 handbook entry for 95010.",
+   "legacy_ref": "Transdisciplinary electives",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.uts.edu.au/for-students/transdisciplinary-innovation/transdisciplinary-electives",
+     "title": "Transdisciplinary Electives at UTS",
+     "section": "Student page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Each TD elective subject involves a real-world challenge presented by an industry partner organisation; students from across all faculties collaborate in teams; BCII students choose a different elective.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.uts.edu.au/about/faculties/transdisciplinary-school/partnerships/how-get-involved/project-based-engagements/td-electives",
+     "title": "TD electives (partner page)",
+     "section": "Partnerships > Project-based engagements",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Partners are asked to codesign a learning question or themes of exploration that are strategic for the partner organisation over three years. Contribute to pre-recorded student learning modules. Participate in live engagements in subject for three years to help students develop their projects (e.g. Q&A's, mentorship, and providing feedback on student ideas).",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.uts.edu.au/globalassets/sites/default/files/article/downloads/td-electives-2026-brochure.pdf",
+     "title": "TD Electives Program (2026 brochure)",
+     "section": "Partner brochure",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "In each TD elective subject, students work on a real-world challenge presented by an industry partner organisation; current partners UNICEF Australia, City of Sydney, Microsoft, Miro, Lane Cove Council and ServiceRocket; subjects paired with partners (e.g. UNICEF Australia for Reframing, Remixing, Reimagining Society).",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://handbookpre2025.uts.edu.au/2024_1/subjects/details/95009.html",
+     "title": "UTS: 95009 TD: Change-making for social impact",
+     "section": "Assessment",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Major task worth 40% includes a 10 minute presentation, a poster and a Miro board.",
+     "supports": [
+      "project",
+      "credit"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://coursehandbook.uts.edu.au/subject/2026/95010",
+     "title": "TD: Reframing, remixing, reimagining society +",
+     "section": "2026 handbook subject entry",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "95010, 8 credit points, listed in the 2026 handbook (assessment details not returned).",
+     "supports": [
+      "status",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industry Innovation Project",
+   "english_name": "Industry Innovation Project",
+   "module_code": "",
+   "description": "Final-year project subject in the Bachelor of Creative Intelligence and Innovation (BCII). The subject coordinator allocates students to multidisciplinary teams of 5–7 based on core degree and preferences. Each team works for 13 weeks on a partner-organisation brief. Students present a reframed brief to the partner, agree a plan, hold weekly check-ins with a partner mentor, and give a final presentation of initiatives, insights and prototypes with a report.",
+   "academic_reach": "Programme/course",
+   "admin_host": "TD School",
+   "eligible_faculties_programmes": "Bachelor of Creative Intelligence and Innovation (combined with students' core degrees)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "BCII students only",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Final presentation and report (weighting not retrieved)",
+   "duration": "13 weeks (March–June 2026)",
+   "delivery_format": "In-session team project with weekly partner check-ins",
+   "project_based": "Yes",
+   "project_evidence": "Partner brief, which students reframe; final presentation of initiatives, insights and prototypes with a report [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Coordinator allocates students into multidisciplinary teams of 5–7 [1] (search-summary paraphrase of partner page).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners must assign a dedicated mentor or main contact. The mentor attends weekly check-ins, a midpoint check-in and the final presentation; the partner gives feedback on the reframed brief and receives the final solution. Partner time commitment is 25–30 hours [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies brief, mentors, gives feedback, receives final presentation",
+   "named_partners": "",
+   "deliverable": "Prototypes/initiatives, final presentation and report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "",
+   "unresolved": "Not confirmed whether the subject is a core BCII requirement. Partners described only as 'industry partners', so sector mix is unverified. Projects are chosen by student vote from partner proposals.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.uts.edu.au/about/faculties/transdisciplinary-school/partnerships/how-get-involved/project-based-engagements/industry-innovation-project",
+     "title": "Industry Innovation Project (partner page)",
+     "section": "Partnerships > Project-based engagements",
+     "pub_year": "undated (timeframes from 2022)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Coordinator allocates students into multidisciplinary teams of 5-7; partners must assign a dedicated industry mentor; not an internship; partner time commitment 25 to 30 hours across semester; mentor attends weekly check-ins, midpoint check-in and final presentation; students present a reframed brief to the partner for feedback.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.uts.edu.au/globalassets/shared-media/documents/td-school/td-industry-innovation-project-2026-bcii-brochure.pdf",
+     "title": "Industry Innovation Project 2026 (BCII brochure)",
+     "section": "Partner brochure",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final-year BCII students; runs over a 13-week period from March to June 2026; competitive process with projects ultimately selected by student vote; students present initiatives, insights and prototypes in a final presentation with a report.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "duration",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "UTS Shopfront Community Program – community projects in coursework",
+   "english_name": "UTS Shopfront community projects",
+   "module_code": "Various participating coursework subjects (not identified)",
+   "description": "Pro bono brokerage. Not-for-profit organisations and social enterprises submit projects they need. UTS students take them on in coursework subjects, working in teams as external consultants for credit, usually in final year or at postgraduate level. Each organisation nominates a contact who gives up to 2 hours per week. Projects run in the Autumn (March–June) or Spring (August–November) session. Past projects include research for the HIV/AIDS Legal Centre (NSW).",
+   "academic_reach": "Unclear",
+   "admin_host": "UTS Shopfront (Social Justice / community engagement, central)",
+   "eligible_faculties_programmes": "Students in participating coursework subjects (faculties not identified)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Usually final-year UG or PG",
+   "eligibility_restrictions": "Enrolled in a subject that takes Shopfront projects",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course credit within host subjects (details vary)",
+   "duration": "One teaching session",
+   "delivery_format": "Team consultancy within subjects",
+   "project_based": "Yes",
+   "project_evidence": "Organisations identify and submit defined projects, which students deliver within coursework (e.g. research for a legal centre) [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in teams as external consultants [1] (search-summary paraphrase). Not verified whether all host subjects use teams.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Community organisations propose the project, nominate a key contact giving up to 2 hours/week, and receive the outputs [1][2].",
+   "partner_type": "Charity/community",
+   "partner_role": "Proposes project, liaises (up to 2 hrs/week), receives deliverable",
+   "named_partners": "HIV/AIDS Legal Centre (NSW); Glebe Youth Service (2024 article) [3]",
+   "deliverable": "Consultancy outputs (research reports, programmes, etc.) for the organisation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "Cumulative: more than 1,698 projects for over 1,199 community organisations as of May 2026 (one UTS Shopfront page; the exact page could not be separated in the search summary). A 2024 UTS page gives 1,614 projects and 1,115 organisations.",
+   "unresolved": "Participating subjects and faculties not identified, so reach is Unclear. Team format and the May 2026 count are search-summary paraphrases. Eligibility rules for organisations appear to differ between older and newer pages.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.uts.edu.au/current-students/opportunities/community-and-leadership-programs/uts-shopfront/community-projects",
+     "title": "Community projects in coursework",
+     "section": "Student page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Community organisations identify the projects that matter to them; students work in teams as external consultants, usually in their final year or as postgraduates, and receive course credit; sessions Autumn (March–June) and Spring (August–November).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.uts.edu.au/about/uts-vision/initiatives/social-justice-uts/uts-shopfront-community-program/community-groups/submit-shopfront-project",
+     "title": "Submit a Shopfront project",
+     "section": "Community groups",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Pro bono program with no fee for community organisations; each organisation nominates a key contact able to dedicate up to two hours per week.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://educationexpress.uts.edu.au/blog/2024/08/22/uts-shopfront-connects-students-and-community/",
+     "title": "UTS Shopfront connects students and community",
+     "section": "Blog",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Examples of past work include research for the HIV/AIDS Legal Centre (NSW) and a music program with Glebe Youth Service.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**UTS (partial review; the search budget ran out after the central searches).** Two central routes were verified.\n\n**Transdisciplinary (TD) Electives** are 8 TD School subjects (6 or 8 cp) open to undergraduates across UTS, except BCII students. Each subject is paired with a partner on a three-year cycle; 2026 partners are UNICEF Australia, City of Sydney, Microsoft, Miro, Lane Cove Council and ServiceRocket. Partners co-design the challenge, record learning content, and mentor and give feedback in live sessions. Students from across faculties work in teams on proposals. The team format comes from search summaries, not quoted handbook text. The route is optional and elective, and 2026 delivery is confirmed.\n\n**UTS Shopfront** brokers projects from not-for-profits and social enterprises into coursework subjects. Students, usually final-year or postgraduate, work in teams as consultants for credit. It reports more than 1,698 cumulative projects (May 2026). The participating subjects were not identified.\n\nThe **Industry Innovation Project** is a 13-week final-year BCII subject. Teams of 5–7 work with an industry mentor and present prototypes and a report to the partner (2026).\n\nNo faculty-level searches were run (business, engineering/IT, science, design, law, health). Further departmental capstones and studios are very likely and remain unassessed.",
+ "gaps": "Faculty-level provision was not searched at all because the search budget ran out. Also unresolved: group format of the TD Electives in the 2026 handbook; Shopfront host subjects; whether the Industry Innovation Project is core to BCII. Further departmental instances likely (e.g. engineering/IT capstones, business consulting subjects, design studios)."
+}

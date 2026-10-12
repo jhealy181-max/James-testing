@@ -1,0 +1,275 @@
+{
+ "inst_id": "UK11",
+ "institution": "Heriot-Watt University",
+ "review_status": "Partial",
+ "partial_remaining": "Search stopped after 4 completed searches because the shared per-turn web-search limit was reached. Remaining: business (EBS MSc/UG consultancy project course-level detail: group vs individual, external client), engineering_computing (MEng/BEng group design projects, MACS software engineering group projects, School of Engineering & Physical Sciences industry projects; current-year Curriculum Explorer entries), science (EPS chemistry/physics, maths/actuarial), arts_humanities_social_sciences (languages/interpreting, psychology, social sciences), other (School of Textiles and Design live briefs, architecture/built environment/construction, EGIS), central (GRID/Enterprise team challenges, Careers employer projects), plus extended-mode verbatim extracts and 2025/26 or 2026/27 dated evidence for every recorded route.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Heriot-Watt students team project industry client brief",
+    "Heriot-Watt Careers employer challenge students work in teams real business problem"
+   ],
+   "key_sources": [
+    "https://www.hw.ac.uk/news/2025/global-innovation-challenge-2025-celebrates-heriot-watts-next-generation-of-founders",
+    "https://www.hw.ac.uk/document-library/recruitment-pack.pdf",
+    "https://www.hw.ac.uk/research-enterprise/innovation/global-innovation-challenge"
+   ],
+   "finding": "Only partially searched. Central provision found is the Global Innovation Challenge (student/alumni venture competition, founder-led, no client brief) and Careers micro-placements (two-week placements); no central team employer-project scheme found in two searches."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Edinburgh Business School Heriot-Watt consultancy project organisation group students course",
+    "Curriculum Explorer Heriot-Watt \"Consultancy Project\" business course group client (extended)"
+   ],
+   "key_sources": [
+    "https://www.hw.ac.uk/study/postgraduate/international-business-management"
+   ],
+   "finding": "Only partially searched. MSc International Business Management ends with a 'company consultancy project'; group format and whether the company is external could not be established before the search budget ran out."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Heriot-Watt students team project industry client brief (results covered engineering/MACS)"
+   ],
+   "key_sources": [
+    "https://researchportal.hw.ac.uk/en/publications/multidisciplinary-engineering-final-year-project-approaches-and-r/",
+    "https://curriculum.hw.ac.uk/coursedetails/B39VS?termcode=202223",
+    "https://projects.hw.ac.uk/Proposals/Index"
+   ],
+   "finding": "Incidental results only: a research paper describing a 4th-year multidisciplinary engineering design project to an industrial client's requirements, and the B39VS System Project (team project demonstrated to academic and industry staff, 2022/23). No dedicated engineering/computing searches were run."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: shared web-search budget for this turn was exhausted after 4 searches (5th refused)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: shared web-search budget for this turn was exhausted after 4 searches (5th refused)."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: shared web-search budget for this turn was exhausted after 4 searches (5th refused). Textiles and Design, architecture/built environment and sport (Falkirk FC MoU lead) remain to be searched."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Multidisciplinary Engineering Final Year Project (industrial-client design project)",
+   "english_name": "Multidisciplinary Engineering Final Year Project",
+   "module_code": "",
+   "description": "Fourth-year final year project variant for mechanical, electrical, and electronics and robotics engineering students in which students undertake a multidisciplinary engineering design project to meet requirements specified by an industrial client and approved by an academic supervisor (described examples: autonomous industrial robots and drones). Known only from a staff research publication describing the approach.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering and Physical Sciences (inferred from disciplines; not confirmed)",
+   "eligible_faculties_programmes": "Mechanical, Electrical and Electronics, and Robotics engineering, 4th year",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4",
+   "eligibility_restrictions": "Final-year students in the named engineering disciplines",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Final year project; credit not established",
+   "duration": "Final year project (length not established)",
+   "delivery_format": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Defined multidisciplinary design project to fulfil requirements specified by an industrial client [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Search summary describes 'teams' building to the client's specifications and the project is multidisciplinary across disciplines, but no verbatim extract confirms a joint team output [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industrial client specifies the project requirements [1]; but this comes from a single research publication describing one implementation, so it is unclear whether external industrial clients are the standard source of these projects or whether the format still runs.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industrial client sets requirements/specification (per publication)",
+   "named_partners": "",
+   "deliverable": "Engineering design/prototype (e.g. autonomous robot, drone)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated (research publication)",
+   "participation_data": "",
+   "unresolved": "Publication year, whether team-based (verbatim), whether still delivered, whether all such FYPs have industrial clients, course code and credit. Not verified on Curriculum Explorer.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://researchportal.hw.ac.uk/en/publications/multidisciplinary-engineering-final-year-project-approaches-and-r/",
+     "title": "Multidisciplinary Engineering Final Year Project: Approaches and Reflections",
+     "section": "Abstract",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'The proposed design project belongs to the final year project, which is offered for the mechanical, electrical and electronics and robotics engineering disciplines at 4th year level. In this project, the students were asked to undertake a multidisciplinary engineering design project to fulfil the requirements specified by the industrial client and approved by the academic supervisor.'",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "System Project",
+   "english_name": "System Project",
+   "module_code": "B39VS",
+   "description": "Electronic and Computer Engineering taught course built around a team project; learning outcomes include team documentation (meeting minutes, final report) and a project demonstration to academic staff and staff from industry.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering and Physical Sciences (Electrical, Electronic and Computer Engineering)",
+   "eligible_faculties_programmes": "Electronic and Computer Engineering programmes",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "Students on programmes including B39VS",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not established",
+   "duration": "Not established",
+   "delivery_format": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Team system project with a project demonstration and final report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Course develops teamwork; team documents including meeting minutes and final report [1] (search-summary paraphrase).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Staff from industry attend the project demonstration [1]; no evidence that an external organisation sets the brief or assesses, and 'staff from industry' are not tied to a client organisation.",
+   "partner_type": "Unclear",
+   "partner_role": "Industry staff attend final demonstration",
+   "named_partners": "",
+   "deliverable": "System demonstration, final report, team documents",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022/23",
+   "participation_data": "",
+   "unresolved": "Only a 2022/23 Curriculum Explorer entry was surfaced; current delivery, credits, year of study and whether projects come from external briefs not verified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://curriculum.hw.ac.uk/coursedetails/B39VS?termcode=202223",
+     "title": "System Project - Curriculum Explorer",
+     "section": "Course details / learning outcomes",
+     "pub_year": "2022/23",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teamwork-focused course; learning outcomes include a project demonstration to academic staff and staff from industry, and team documents such as meeting minutes and a final report.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc International Business Management - company consultancy project",
+   "english_name": "MSc International Business Management company consultancy project",
+   "module_code": "",
+   "description": "Final stage of the MSc International Business Management in which students work on a company consultancy project to understand business issues and apply programme concepts. Group format and external client status not established.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Edinburgh Business School",
+   "eligible_faculties_programmes": "MSc International Business Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage",
+   "eligibility_restrictions": "MSc International Business Management students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not established",
+   "duration": "Not established",
+   "delivery_format": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "'Company consultancy project' applying programme concepts to business issues [1].",
+   "group_working": "Unclear",
+   "group_evidence": "No evidence on whether the project is individual or team-based [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Described as a 'company consultancy project' but the page does not say a real external company sets the brief or receives the output [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Not established",
+   "named_partners": "",
+   "deliverable": "Consultancy project (format not established)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated programme page",
+   "participation_data": "",
+   "unresolved": "Course code, group vs individual, real external client, credit and current-year delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.hw.ac.uk/study/postgraduate/international-business-management",
+     "title": "MSc International Business Management",
+     "section": "Programme structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The final part of the degree includes 'a chance to work on a company consultancy project which allows you to understand business issues and apply concepts learnt during the programme'.",
+     "supports": [
+      "project"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Global Innovation Challenge",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Nine-week workshop and competition developing participants' own business ideas (student/alumni-led ventures, prize fund). Founder-led; no external organisation sets a brief or acts as client (fails C; not a client project).",
+   "source_url": "https://www.hw.ac.uk/news/2025/global-innovation-challenge-2025-celebrates-heriot-watts-next-generation-of-founders",
+   "status_note": "2025 edition reported (GIC 2025 awarded £30,000 to student and alumni-led ventures); legacy notes 2026 challenge."
+  },
+  {
+   "name": "Careers and Graduate Futures Micro-Placements",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Two-week extracurricular unpaid placements giving insight into an industry; no evidence of a team project output.",
+   "source_url": "https://www.hw.ac.uk/document-library/recruitment-pack.pdf",
+   "status_note": "undated"
+  },
+  {
+   "name": "MACS Project System (School of Mathematical and Computer Sciences project proposals)",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Proposal database for (mainly individual) degree projects; some proposals state students work independently, others mention pairs/teams; external-client share not established. Evidence gap rather than verified scheme.",
+   "source_url": "https://projects.hw.ac.uk/Proposals/Index",
+   "status_note": "undated"
+  },
+  {
+   "name": "Heriot-Watt / Falkirk FC Memorandum of Understanding",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "2026 news says students apply learning to practical problems (player conditioning, match analysis) in a professional football environment; no evidence of a defined group project with output for the club.",
+   "source_url": "https://www.hw.ac.uk/news/2026/academic-expertise-aims-to-bolster-scottish-premiership-clubs-growth",
+   "status_note": "2026"
+  }
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "**Heriot-Watt University (Partial review: search budget exhausted after 4 searches).**\n\nNo qualifying scheme was verified through the documented search. This reflects an incomplete search, not evidence of absence.\n\n- **Engineering:** A staff research publication describes a 4th-year multidisciplinary engineering final year project (mechanical, electrical/electronic, robotics) built to requirements specified by an industrial client. It is undated, team format is only paraphrased, and it is unclear whether industrial clients are the norm.\n- **Electronic and Computer Engineering:** The B39VS System Project is a team project demonstrated to academic and industry staff. It is only evidenced for 2022/23, and there is no evidence of a client brief.\n- **Business:** Edinburgh Business School's MSc International Business Management ends with a 'company consultancy project'. Group format and external client are unverified.\n- **Central:** The legacy Global Innovation Challenge is a founder-led venture competition and is excluded. Careers micro-placements are two-week placements and are excluded.\n- **Uncertain:** Science, social sciences/languages, Textiles and Design, the built environment and most of engineering/computing were not searched. Current-year (2025/26 or 2026/27) evidence was not obtained for any route.",
+ "gaps": "Review incomplete: only 4 searches completed before the shared per-turn web-search limit was hit. Not searched: science, arts/humanities/social sciences, other (Textiles & Design, built environment), most engineering/computing (MEng group design projects, MACS software engineering group projects), central GRID/enterprise challenges. No extended-mode verbatim extracts obtained beyond the research-portal abstract; no 2025/26+ dated delivery evidence for any route. Further departmental instances likely."
+}

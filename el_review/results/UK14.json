@@ -1,0 +1,487 @@
+{
+ "inst_id": "UK14",
+ "institution": "Swansea University",
+ "review_status": "Partial",
+ "partial_remaining": "Science, AHSS (except Economics and Business), and other areas (Law, Health/Medicine, Sport) were not searched. Still to do: verify group format for S3–S5; find module codes and 2025/26 evidence for S1–S2; cite the MBA client project; check other engineering disciplines and the 2020 emergency-vehicle student project news item. The shared search budget ran out after 6 searches.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Swansea University student consultancy project live client team",
+    "Swansea Employability Academy employability awards discovery project employer"
+   ],
+   "key_sources": [
+    "https://hwb.swansea.ac.uk/employability-enterprise/employability-awards/",
+    "https://hwb.swansea.ac.uk/employability-enterprise/student-enterprise/",
+    "https://www.swansea.ac.uk/business-and-industry/recruit-our-talent/go-wales/"
+   ],
+   "finding": "Central provision found was an employability award framework, Discovery volunteering, GO Wales placements, and a Student Enterprise hackathon with a Swansea City FC challenge (S6). No central consultancy programme was found. Coverage is thin (2 queries)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Swansea School of Management \"Business Consultancy Project\" module group live client",
+    "Swansea University module consultancy project students work in teams with organisation client report presentation"
+   ],
+   "key_sources": [
+    "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-business/",
+    "https://www.swansea.ac.uk/undergraduate/courses/som/marketing/bsc-marketing/",
+    "https://www.swansea.ac.uk/postgraduate/taught/som/business-management/msc-project-management/"
+   ],
+   "finding": "Live-client Business Consultancy Project on the BSc Economics and Business (S3). Marketing consultancy pathway (S4). MSc Project Management live projects (S5). MBA client consultancy project was mentioned but could not be cited. Group format is unconfirmed for every route."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Swansea Computer Science group software engineering project industry client external",
+    "Swansea engineering \"group project\" industry sponsored final year team design"
+   ],
+   "key_sources": [
+    "https://www.swansea.ac.uk/undergraduate/courses/aerospace-civil-electrical-mechanical-engineering/civil-engineering/beng-civil-engineering/",
+    "https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-computer-science/"
+   ],
+   "finding": "Civil Engineering has an MEng year-long group design exercise built on live industry projects (S1, meets A/B/C, status undated) and a BEng design project set by industry engineers (S2, group unclear). In Computer Science, industry only judges at the Project Fair. Other engineering disciplines were not checked."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for the run (200 calls across all agents) ran out after 6 searches on this institution."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for the run (200 calls across all agents) ran out after 6 searches on this institution. (Economics and Business was covered under business.)"
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for the run (200 calls across all agents) ran out after 6 searches on this institution. Law, Medicine/Health and Sport were not covered. Only a sport psychology consultancy-skills module (SR-M31) surfaced incidentally, with no client evidence."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Civil Engineering MEng Level 7 group design exercise",
+   "english_name": "Civil Engineering MEng Level 7 group design exercise",
+   "module_code": "",
+   "description": "In the MEng (Level 7) year, Civil Engineering students take a year-long group design exercise that replicates the work of practising civil engineers. They choose from full design projects currently being carried out in industry, and an alumnus describes working with industry professionals during the group project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Science and Engineering (Civil Engineering)",
+   "eligible_faculties_programmes": "MEng Civil Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 7 (MEng final year)",
+   "eligibility_restrictions": "MEng Civil Engineering students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not found (module code and credits not retrieved)",
+   "duration": "Year-long",
+   "delivery_format": "In person (assumed; not evidenced)",
+   "project_based": "Yes",
+   "project_evidence": "Full design projects with a year-long group design exercise [1].",
+   "group_working": "Yes",
+   "group_evidence": "Described as a 'year-long group design exercise' and, by an alumnus, as 'the group project during my MEng year' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects are 'full design projects currently being carried out in industry' (industry supplies the live design problem), and an alumnus reports 'the opportunity to work with industry professionals' [1]. Whether firms assess the work or receive outputs is not stated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry supplies live design projects; industry professionals engage with student groups (exact role not specified)",
+   "named_partners": "",
+   "deliverable": "Group engineering design (exact outputs not stated)",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Undated course page with no 2025/26 corroboration, so current delivery is not confirmed. The search summary did not say which of the two Swansea Civil Engineering course pages carried the extract (the BEng/MEng page [1] or the older H200 page [2]). Module code, credits, named partners and assessment role are unknown.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/aerospace-civil-electrical-mechanical-engineering/civil-engineering/beng-civil-engineering/",
+     "title": "Civil Engineering, BEng (Hons) / MEng (Hons) - Swansea University",
+     "section": "Course structure, Level 7 / student testimonial",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'You can select from full design projects currently being carried out in industry as part of a year-long group design exercise that replicates the work of practising civil engineers.' Alumnus: 'The group project during my MEng year in particular was really good experience, and the opportunity to work with industry professionals was brilliant practice for the graduate world.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/engineering/civil-engineering/beng-civil-engineering-h200/",
+     "title": "Civil Engineering, BEng (Hons) - Swansea University",
+     "section": "Course page (possible alternate source of the same text)",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Returned in the same search; the summary did not clearly tie the extract to this URL rather than [1].",
+     "supports": [
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Civil Engineering BEng Level 6 design project",
+   "english_name": "Civil Engineering BEng Level 6 design project",
+   "module_code": "",
+   "description": "In the Level 6 (final BEng) year, a design project brings together the student's knowledge on a task set by engineers currently working in industry. It runs alongside an individual project. The sources do not say whether the design project is done in groups.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Science and Engineering (Civil Engineering)",
+   "eligible_faculties_programmes": "BEng Civil Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 6",
+   "eligibility_restrictions": "Civil Engineering BEng students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not found",
+   "duration": "Not stated",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "A design project with a task set by industry engineers [1].",
+   "group_working": "Unclear",
+   "group_evidence": "The extract does not say whether the design project is a group project. It is contrasted with 'an individual project', which suggests but does not establish group work [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "The project brief is 'a task set by engineers currently working in industry' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry engineers set the design task",
+   "named_partners": "",
+   "deliverable": "Engineering design (not specified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Group working is not established. The page is undated, so current delivery is unclear. The extract may come from either Civil Engineering course URL.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/aerospace-civil-electrical-mechanical-engineering/civil-engineering/beng-civil-engineering/",
+     "title": "Civil Engineering, BEng (Hons) / MEng (Hons) - Swansea University",
+     "section": "Course structure, Level 6",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'The design project brings this knowledge together with a task set by engineers currently working in industry. You will also undertake an individual project linked with the expertise of the department.'",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Consultancy Project (BSc Economics and Business)",
+   "english_name": "Business Consultancy Project",
+   "module_code": "",
+   "description": "A final-year Business Consultancy Project on the BSc Economics and Business, in which students 'apply [their] skills to a live client real-world challenge'. Group structure, credits and module code were not retrieved.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Swansea University (Economics / School of Management; host not confirmed)",
+   "eligible_faculties_programmes": "BSc Economics and Business",
+   "faculty_areas": [
+    "business",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "A consultancy project on a live client's real-world challenge [1].",
+   "group_working": "Unclear",
+   "group_evidence": "No evidence on group or individual format [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Described as working on 'a live client real-world challenge' (the client supplies the problem) [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Live client supplies a real-world challenge",
+   "named_partners": "",
+   "deliverable": "Consultancy output (not specified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Group working, module code, credits and current delivery are unknown. The module table on the page did not list the module, so it may be optional. It may be shared with the School of Management's consultancy modules (see S4).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-business/",
+     "title": "Economics and Business, BSc (Hons) - Swansea University",
+     "section": "Course overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Business Consultancy Project, where you will apply your skills to a live client real-world challenge.'",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Marketing consultancy project (BSc Marketing final-year pathway)",
+   "english_name": "Marketing consultancy project",
+   "module_code": "",
+   "description": "Final-year BSc Marketing students can choose a marketing consultancy project instead of a traditional dissertation or a Welsh-medium dissertation. A Level 5 Management Consulting module (15 credits) is also listed as optional.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Management",
+   "eligible_faculties_programmes": "BSc Marketing",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy project offered as an alternative to the dissertation [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Not stated.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "The extract does not mention a client organisation [1].",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Client involvement, group format and current status are not evidenced. This may be the same consultancy module as S3.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/som/marketing/bsc-marketing/",
+     "title": "Marketing, BSc (Hons) - Swansea University",
+     "section": "Final year pathways",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Flexible final year pathways, that allow you to choose between a traditional dissertation, a Welsh-medium dissertation, or a marketing consultancy project'",
+     "supports": [
+      "project",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Project Management live project collaborations",
+   "english_name": "MSc Project Management live project collaborations",
+   "module_code": "",
+   "description": "The MSc Project Management page says students work as part of a project team, interact with organisations, and have live project collaborations and dissertation partnerships with organisations such as Tata Steel, Siemens and the NHS. No specific module was identified.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Management",
+   "eligible_faculties_programmes": "MSc Project Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "'Live project challenges' are mentioned but no defined project module is identified [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'Working as part of a project team', but it is not clear this team is the live-project route [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Named organisations are linked to 'live project collaborations, and dissertation partnerships' without separating the two routes [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Collaboration or dissertation partner (routes not separated)",
+   "named_partners": "Tata Steel, Siemens, NHS (undated course page)",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "The live project route is not separated from individual dissertation partnerships, and no module is identified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.swansea.ac.uk/postgraduate/taught/som/business-management/msc-project-management/",
+     "title": "Project Management, MSc - Swansea University",
+     "section": "Course overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'live project collaborations, and dissertation partnerships with organisations such as Tata Steel, Siemens, the NHS'; students join project teams and take on live project challenges.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Student Enterprise hackathon (Swansea City Football Club challenge)",
+   "english_name": "Student Enterprise hackathon",
+   "module_code": "",
+   "description": "Swansea Student Enterprise ran a hackathon that set students from all faculties a real-life commercial challenge for Swansea City Football Club, producing more than 12 commercial ideas for the club.",
+   "academic_reach": "University-wide",
+   "admin_host": "Student Enterprise (Swansea Employability Academy / Hwb)",
+   "eligible_faculties_programmes": "Students from across all faculties",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "Not stated (hackathon format)",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "The output is 'commercial ideas' for the club. The hackathon's length and how substantial the output was are not stated [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Team format not stated in the extract [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students worked on 'a real-life commercial challenge' and developed ideas 'to support Swansea City Football club' (the club is the source of the challenge and receives the ideas) [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets the commercial challenge and receives the ideas",
+   "named_partners": "Swansea City Football Club (year not shown)",
+   "deliverable": "Commercial ideas",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Date, recurrence, team format and length are unknown. This looks like a one-off event.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://hwb.swansea.ac.uk/employability-enterprise/student-enterprise/",
+     "title": "Student Enterprise - Swansea University",
+     "section": "Hackathons",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Students from across all faculties ... gained experience working on a real-life commercial challenge and as a result developed over 12 commercial ideas to support Swansea City Football club'",
+     "supports": [
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Employability Awards (Swansea Employability Academy)",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "A co-curricular recognition framework: eight awards with digital badges and HEAR recognition for activities such as volunteering and Discovery projects. It is not a project scheme with a group and an external client. The underlying Discovery activity is excluded separately.",
+   "source_url": "https://hwb.swansea.ac.uk/employability-enterprise/employability-awards/",
+   "status_note": "Undated page"
+  },
+  {
+   "name": "Discovery (student volunteering charity) award pathways",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Student-run volunteering projects with Volunteer, Project Coordinator and Trustee awards. No external organisation sets a brief or acts as client.",
+   "source_url": "https://hwb.swansea.ac.uk/employability-enterprise/employability-awards/",
+   "status_note": "Undated"
+  },
+  {
+   "name": "GO Wales (SEA)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual unpaid work experience (up to 70 hours) or subsidised internships. No group project evidenced.",
+   "source_url": "https://www.swansea.ac.uk/business-and-industry/recruit-our-talent/go-wales/",
+   "status_note": ""
+  },
+  {
+   "name": "Computer Science third-year project / Project Fair",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Third-year projects are shown to 'leading industry experts' at a Project Fair with an industry-voted prize. Industry acts only as audience or judge of student-defined projects, and no external brief is evidenced. The Software Engineering BSc also lists 'individual and group projects' with no client evidenced.",
+   "source_url": "https://www.swansea.ac.uk/undergraduate/courses/maths-comp-sci/computer-science/bsc-computer-science/",
+   "status_note": "Undated"
+  },
+  {
+   "name": "Engineering Doctorate (EngD)",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "An individual four-year research project defined by an industrial partner. Not group.",
+   "source_url": "https://www.swansea.ac.uk/science-and-engineering/courses/engineering/engd/",
+   "status_note": "Postgraduate research"
+  },
+  {
+   "name": "MBA consultancy-based project (Research in Action Part 2)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "A search summary said the MBA 'culminates in a consultancy-based project ... through working with a client organisation', but did not tie this to a specific URL, so it cannot be cited. Group format is unknown.",
+   "source_url": "",
+   "status_note": "Needs re-search"
+  },
+  {
+   "name": "MSc Accounting and Finance consultancy-style projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "The course page mentions 'industry partners, simulations and consultancy-style projects' without separating live-client work from simulation. Group format is unknown.",
+   "source_url": "https://www.swansea.ac.uk/postgraduate/taught/som/accounting-finance/msc-accounting-finance/",
+   "status_note": "Undated"
+  }
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "**Swansea University** (partial review, 6 searches before the shared search budget ran out).\n\n- **Strongest route:** the **Civil Engineering MEng** year-long *group design exercise*. Students choose from full design projects 'currently being carried out in industry' and work with industry professionals, so it meets A/B/C. The course page is undated, so current delivery is unconfirmed. At **BEng Level 6**, the design project is a task set by industry engineers, but group work is not evidenced.\n- **Business:** the **BSc Economics and Business** has a final-year **Business Consultancy Project** on a live client challenge (group format unknown). **BSc Marketing** offers a consultancy project as a dissertation alternative (client unclear). The **MSc Project Management** cites live project collaborations with Tata Steel, Siemens and the NHS, but these are not separated from dissertation partnerships.\n- **Central:** an extracurricular Student Enterprise hackathon set a real commercial challenge for Swansea City FC. Otherwise central provision is award-based (Employability Awards, Discovery volunteering) or individual placements (GO Wales).\n\nNo route has dated 2025/26 evidence. Science, humanities/social sciences, law and health were not searched. Embeddedness is therefore Unclear. Provision looks programme-level and distributed, but this is unverified.",
+ "gaps": "Group format and current delivery are unverified for all business routes. Module codes and credits were not found. MBA 'Research in Action' client project needs a citable source. Other engineering disciplines (Mechanical, Aerospace, Electrical, Chemical, Materials), Computer Science group projects, Science, Humanities/Social Sciences, Law, Medicine/Health Sciences and Sport were not searched. Formula Student (SURE) was mentioned only in a search summary without a source. Further departmental instances are likely."
+}

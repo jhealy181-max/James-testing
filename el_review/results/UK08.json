@@ -1,0 +1,351 @@
+{
+ "inst_id": "UK08",
+ "institution": "University of Sussex",
+ "review_status": "Partial",
+ "partial_remaining": "Search budget exhausted after 6 searches. Not searched: engineering_computing (School of Engineering and Informatics group/industry projects), science (Life Sciences, Maths & Physical Sciences), arts_humanities_social_sciences (incl. Global Studies, Media, Psychology, Education), other (Law, BSMS medicine, IDS). Business partly searched (Business Analytics MSc / International Business and Development consultancy projects, Business School guaranteed internship/work project page, 'Changing the Face of Consultancy' scheme not tested). Legacy Connector Programme assessed from the legacy row only, not re-searched.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Sussex student consultancy project real client team (site:sussex.ac.uk)",
+    "Career Lab Student Consultancy Programme finalists postgraduates teams brief eligibility stipend 2026 (extended)"
+   ],
+   "key_sources": [
+    "https://student.sussex.ac.uk/careers/career-lab/student-consultancy",
+    "https://www.sussex.ac.uk/broadcast/read/71127",
+    "https://careerhub.sussex.ac.uk/docs/255/Hastings-Direct-Student-Consultancy-Case-Study.pdf"
+   ],
+   "finding": "Career Lab Student Consultancy Programme: final-year UG and taught PG students in multidisciplinary teams work 3-4 weeks on briefs set by external organisations and present to the client; three runs announced for 2026/27. Partially searched only (Connector Programme, Career Lab online internship and other central routes not re-tested)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Marketing Consultancy Project (Capstone) module 105316 client groups (extended)",
+    "Sussex Business School Consultancy Project module 90902 organisation group report masters (extended)",
+    "Management MSc Sussex 2026 consultancy project small groups business dissertation option (extended)",
+    "guaranteed internships Business School Masters students work project Career Lab team (refused: budget exhausted)"
+   ],
+   "key_sources": [
+    "https://www.sussex.ac.uk/study/modules/undergraduate/2026/105316-marketing-consultancy-project-capstone",
+    "https://www.sussex.ac.uk/study/modules/postgraduate/2024/90902-consultancy-project",
+    "https://www.sussex.ac.uk/study/masters/courses/management-msc"
+   ],
+   "finding": "UG Marketing Consultancy Project (Capstone) is a team brief-based project but no external client evidenced (C unclear). PG Consultancy Project (111N1, 30 credits, summer) is a group live consultancy project with local organisations/businesses (Management MSc dissertation option); latest dated module page 2024/25. Partially searched only."
+  },
+  "engineering_computing": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run was exhausted after 6 Sussex searches (7th call refused). School of Engineering and Informatics, Life Sciences, Mathematical and Physical Sciences, arts/humanities/social sciences, law, media, global studies, IDS and BSMS routes remain to be searched."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run was exhausted after 6 Sussex searches (7th call refused). School of Engineering and Informatics, Life Sciences, Mathematical and Physical Sciences, arts/humanities/social sciences, law, media, global studies, IDS and BSMS routes remain to be searched."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run was exhausted after 6 Sussex searches (7th call refused). School of Engineering and Informatics, Life Sciences, Mathematical and Physical Sciences, arts/humanities/social sciences, law, media, global studies, IDS and BSMS routes remain to be searched."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared WebSearch budget for this run was exhausted after 6 Sussex searches (7th call refused). School of Engineering and Informatics, Life Sciences, Mathematical and Physical Sciences, arts/humanities/social sciences, law, media, global studies, IDS and BSMS routes remain to be searched."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Career Lab Student Consultancy Programme",
+   "english_name": "Career Lab Student Consultancy Programme",
+   "module_code": "",
+   "description": "Central Careers (Career Lab) extracurricular programme. After initial training, final-year undergraduates and taught postgraduates are placed in small multidisciplinary teams matched to an external organisation (charity/NGO, startup or large corporate) and work on that organisation's real challenge for four weeks (three for the summer run, c.20 hours in total), ending with a team presentation of recommendations to the client. Students receive a Real Living Wage-linked bursary paid by the university.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers and Employability Centre - Career Lab",
+   "eligible_faculties_programmes": "Final-year undergraduates and taught postgraduates (no school restriction stated)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Final-year UG; PGT",
+   "eligibility_restrictions": "Final-year UG and taught PG only; one participation per academic year; application required. PGT on courses with a guaranteed work project receive separate communication.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Non-credit; paid bursary (GBP 269 for Winter 2025 / Spring 2026 runs)",
+   "duration": "3-4 weeks (c.20 hours) after training; three runs a year (winter, spring, summer)",
+   "delivery_format": "Mostly remote research; team presentation to client",
+   "project_based": "Yes",
+   "project_evidence": "Teams address a real organisational challenge/brief and present recommendations to the client [1][2][3].",
+   "group_working": "Yes",
+   "group_evidence": "Students placed in small multidisciplinary teams; a five-student team worked on the Hastings Direct brief [1][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisations set the project briefs and receive the team's presentation; e.g. Hastings Direct set a brief on its SDG contributions and later made changes partly aligned to the recommendations [1][3][4].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets brief (client) and receives final presentation; organisations pay nothing (university funds student bursary).",
+   "named_partners": "Hastings Direct (2024 case study); AECOM, Komedia, Mindlab (past clients, undated page)",
+   "deliverable": "Team presentation of recommendations to client",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Exact eligibility wording (whether all schools/IDS/BSMS included) not quoted; 2023 organisations guide describes an older 100-hour Riipen-based format. Relationship to the 'Changing the Face of Consultancy' variant (broadcast 66181) not tested.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://student.sussex.ac.uk/careers/career-lab/student-consultancy",
+     "title": "Student consultancy : University of Sussex",
+     "section": "Programme description / eligibility",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Open to final-year undergraduates and taught postgraduates, once per academic year; students placed in multidisciplinary teams matched to an organisation; after training work four weeks (three for Summer) then present to the client; briefs set by charities and NGOs, startups and large corporates; c.20 hours in total; bursary GBP 269 for Winter 2025/Spring 2026 at Real Living Wage.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "reach",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sussex.ac.uk/broadcast/read/71127",
+     "title": "Applications open now! Apply to take part in the Award-Winning Career Lab Student Consultancy Programme",
+     "section": "News item",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Applications for 2026/27 opened 1 September 2026; programme runs three times in 2026-27 (winter, spring, summer).",
+     "supports": [
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://careerhub.sussex.ac.uk/docs/255/Hastings-Direct-Student-Consultancy-Case-Study.pdf",
+     "title": "Student Consultancy Programme: Five students inform real-world changes",
+     "section": "Case study",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Hastings Direct gave a five-student team a brief on improving its UN SDG contributions; the company has since made changes, some aligned with the students' recommendations.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.sussex.ac.uk/study/careers/postgraduate-support/masters-careers-support/guaranteed-internships",
+     "title": "Guaranteed internships for Business School Masters students",
+     "section": "Past projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Past consultancy teams worked with AECOM (net zero strategy), Komedia (YouTube channel) and Mindlab (marketing audiences).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Marketing Consultancy Project (Capstone)",
+   "english_name": "Marketing Consultancy Project (Capstone)",
+   "module_code": "105316 (module page ID)",
+   "description": "Level 6 Business School capstone module (15 credits, spring). Student teams receive a brief to produce a recommendation addressing a strategic marketing problem, presented as a group presentation and a written report; 'inspiration and tips' are provided by a top consulting firm. No evidence that a real organisation sets the brief or receives the output.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Sussex Business School",
+   "eligible_faculties_programmes": "Marketing and Management BSc and related marketing degrees (exact list not verified)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year (Level 6)",
+   "eligibility_restrictions": "Students on programmes offering the module",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; 60% group presentation, 40% written report",
+   "duration": "Spring teaching period",
+   "delivery_format": "In person (assumed; not verified)",
+   "project_based": "Yes",
+   "project_evidence": "Brief to produce a recommendation on a strategic marketing problem; outputs presentation and report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams prepare and present together; 60% group presentation [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Only 'inspiration and tips provided from a top consulting firm' [1]; no evidence an external client supplies the brief, receives or assesses outputs.",
+   "partner_type": "Unclear",
+   "partner_role": "Consulting firm provides tips/inspiration (not shown as client)",
+   "named_partners": "",
+   "deliverable": "Group presentation and written report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Whether briefs come from real client organisations; whether core in any programme. Status based on module catalogue pages for 2025 and 2026 entry.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sussex.ac.uk/study/modules/undergraduate/2025/105316-marketing-consultancy-project-capstone",
+     "title": "Marketing Consultancy Project (Capstone) module : University of Sussex",
+     "section": "Module overview / assessment",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Consultancy style project 'with inspiration and tips provided from a top consulting firm'; 15 credits, Level 6, spring; 'a brief to produce a recommendation to address a strategic marketing problem'; '60% coursework (group presentation), 40% written assessment (report)'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sussex.ac.uk/study/modules/undergraduate/2026/105316-marketing-consultancy-project-capstone",
+     "title": "Marketing Consultancy Project (Capstone) module : University of Sussex",
+     "section": "Module catalogue 2026",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Module page listed in the 2026 undergraduate module catalogue (title only seen in results).",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Consultancy Project",
+   "english_name": "Consultancy Project",
+   "module_code": "111N1",
+   "description": "Level 7 Business School module (30 credits, summer, c.300 hours) in which students work in a group on a live consultancy project for an organisation, supervised by an academic; assessed by group presentation, group written submission and project. The Management MSc offers it as a dissertation alternative in which small groups prepare a consultancy project for a business / solve real challenges with local organisations; Business Analytics MSc and International Business and Development MSc also list a summer consultancy project (structure not verified).",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Sussex Business School",
+   "eligible_faculties_programmes": "Management MSc (dissertation option); possibly other Business School MSc programmes",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc summer period",
+   "eligibility_restrictions": "Business School MSc students choosing the consultancy option",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits Level 7; 100% coursework (group presentation, group written submission, project)",
+   "duration": "Summer period, c.300 study hours",
+   "delivery_format": "Group consultancy with academic supervisor",
+   "project_based": "Yes",
+   "project_evidence": "Live consultancy project with group written submission and presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in a group; consultancy teams supervised by an academic; group presentation and group written submission [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Described as a 'live consultancy project' and as solving real challenges with local organisations / preparing a consultancy project for a business [1][2].",
+   "partner_type": "Unclear",
+   "partner_role": "Organisation acts as consultancy client (exact role in assessment not stated)",
+   "named_partners": "",
+   "deliverable": "Group consultancy report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Latest dated module page is 2024/25; Management MSc course page undated - no 2025/26 or 2026/27 corroboration obtained. Client sector mix not evidenced. Whether Business Analytics / IBD consultancy projects use the same module and group format not verified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sussex.ac.uk/study/modules/postgraduate/2024/90902-consultancy-project",
+     "title": "Consultancy Project module : University of Sussex",
+     "section": "Module overview / assessment",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consultancy Project (111N1), 30 credits Level 7, summer; students work on a live consultancy project in a group; 'Consultancy teams will be supervised by an appropriate academic'; group presentation, group written submission and project; c.300 hours; details for 2024/25.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sussex.ac.uk/study/masters/courses/management-msc",
+     "title": "Management MSc at the University of Sussex",
+     "section": "Course overview / dissertation options",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students solve real challenges with local organisations in a live consultancy project; one dissertation option offers small groups of students the opportunity to prepare a consultancy project for a business.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Connector Programme",
+   "legacy": true,
+   "category": "Near-miss: no external org",
+   "reason": "Paid student-staff partnership projects improving university provision (modules, technology, student support); the university itself is the client, so C is not met (internal). Assessed from the legacy row; not re-searched this round (budget exhausted).",
+   "source_url": "https://staff.sussex.ac.uk/guides/join-the-connector-programme",
+   "status_note": "Legacy: 2025 welcome evidence"
+  },
+  {
+   "name": "Teaching management consulting in partnership with the university's commercial services (Learning Matters blog)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Blog title indicates an authentic assessment in which the client is the university's own commercial services (internal client); not tested further.",
+   "source_url": "https://blogs.sussex.ac.uk/learning-matters/2024/08/27/authentic-assessment-through-collaboration-teaching-management-consulting-in-partnership-with-our-universitys-commercial-services/",
+   "status_note": "2024 blog"
+  },
+  {
+   "name": "Business Analysis and Consulting (974N1)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Level 7 module with group written submission (2020/21) following a generalist consulting approach; no evidence of an external client.",
+   "source_url": "https://www.sussex.ac.uk/business-school/internal/departments/strategy-marketing/pgcourses/2020/N1508T/88475",
+   "status_note": "2020/21 and 2024 pages"
+  },
+  {
+   "name": "Dissertation / Consultancy Project (International Business and Development in Practice)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Stream in which students choose a specific company and identify a research question; group working not evidenced (appears individual).",
+   "source_url": "https://www.sussex.ac.uk/study/modules/postgraduate/2024/95257-dissertation-consultancy-project-international-business-and-development-in-practice",
+   "status_note": "2024/25 page"
+  }
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "**Partial review (search budget exhausted after 6 searches; only central and business areas searched).**\n\n- **Central:** The **Career Lab Student Consultancy Programme** qualifies. Final-year undergraduates and taught postgraduates apply; selected students form small multidisciplinary teams that spend 3-4 weeks (c.20 hours) working on a brief set by an external organisation (charities/NGOs, startups, large corporates such as Hastings Direct) and present recommendations to the client. It is extracurricular, bursary-paid and runs three times in 2026/27.\n- **Business School:** The PG **Consultancy Project (111N1)** is a 30-credit summer group live consultancy for local organisations/businesses (e.g. Management MSc dissertation alternative), but the latest dated evidence is 2024/25. The UG **Marketing Consultancy Project (Capstone)** is a team brief-based capstone current in 2026 but with no evidenced real client (only tips from a consulting firm).\n- The legacy **Connector Programme** is an internal student-staff partnership scheme and does not meet criterion C.\n\nEngineering & Informatics, sciences, arts/humanities/social sciences, law, medicine and IDS were not searched, so the extent of embedding cannot be judged.",
+ "gaps": "Five of six areas wholly or partly unsearched (see partial_remaining). Current delivery of the PG Consultancy Project not corroborated for 2025/26+. Marketing capstone client involvement unknown. Business Analytics MSc / IBD consultancy projects and the 'Changing the Face of Consultancy' variant untested."
+}

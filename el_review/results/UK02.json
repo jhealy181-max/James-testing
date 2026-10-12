@@ -1,0 +1,444 @@
+{
+ "inst_id": "UK02",
+ "institution": "University of St Andrews",
+ "review_status": "Partial",
+ "partial_remaining": "Science, arts/humanities/social sciences and other (Medicine, Divinity) areas not searched; Business School consultancy-project module not identified; VIP project list not checked for external partners; Playfair not researched. Stopped after 8 searches because the shared per-turn WebSearch limit (200 calls) was exhausted.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "St Andrews Vertically Integrated Projects VIP external partner team credits 2026",
+    "St Andrews student consultancy project live client team",
+    "VIP projects external partner organisation company charity students team",
+    "Summer Team Enterprise Programme STEP St Andrews consulting project 2026"
+   ],
+   "key_sources": [
+    "https://www.st-andrews.ac.uk/education/vip/students/",
+    "https://memos.wp.st-andrews.ac.uk/2026/04/15/applications-for-2026-2027-vip-modules-open-now/",
+    "https://www.st-andrews.ac.uk/education/handbook/step/",
+    "https://www.st-andrews.ac.uk/careers/career-options/sectors/business/"
+   ],
+   "finding": "VIP (cross-disciplinary credit-bearing research teams, current 2026/27) meets A and B but external involvement is project-specific and unevidenced at scheme level (C Unclear). STEP is a current group consulting programme but its clients are internal University units (C No). Playfair student-led pro bono consultancy noted but not researched."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "School of Management St Andrews consultancy project organisation students group MSc module",
+    "Management MSc St Andrews \"consultancy projects\" local organisations"
+   ],
+   "key_sources": [
+    "https://www.st-andrews.ac.uk/subjects/management/management-msc/",
+    "https://archive.st-andrews.ac.uk/courses/2025-2026/pg/management-mlitt/"
+   ],
+   "finding": "Management MSc/MLitt pages advertise consultancy projects with local organisations but the underlying module, team structure and client role were not identified before the search budget ran out."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "CS3099 software engineering team project industry client Skyscanner St Andrews",
+    "Keeping Doors Open Experian Skyscanner CS3099 blog"
+   ],
+   "key_sources": [
+    "https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=CS3099",
+    "https://blogs.cs.st-andrews.ac.uk/csblog/2025/04/25/keeping-doors-open-connection-collaboration-and-opportunities/",
+    "https://info.cs.st-andrews.ac.uk/student-handbook/modules/"
+   ],
+   "finding": "CS3099 third-year software engineering team project (current 2026/27) has documented involvement of Experian and Skyscanner, but their role is not specified (C Unclear). St Andrews has no engineering school; computing only."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared per-turn web search limit was reached after 8 searches."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the shared per-turn web search limit was reached (VIP covers some arts-faculty participation but no AHSS-specific routes were searched)."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched (Medicine, Divinity): the shared per-turn web search limit was reached."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Vertically Integrated Projects (VIP)",
+   "english_name": "Vertically Integrated Projects (VIP)",
+   "module_code": "VP-prefixed modules (e.g. VP2026)",
+   "description": "Credit-bearing taught modules in which a supervisor leads a student team drawn from different disciplines and levels of study that contributes to an ongoing research project addressing genuine research questions; students may stay with a project across semesters. Projects are academic-led; external involvement varies by project (e.g. St Andrews Forest VIP joins academics, practitioners and local 'neighbours' and produces a commissioned report and group presentation for the University's Environmental Sustainability Board, i.e. an internal client).",
+   "academic_reach": "Unclear",
+   "admin_host": "Central Education (VIP team, viprojects@st-andrews.ac.uk)",
+   "eligible_faculties_programmes": "Not re-verified in this review (legacy row states Arts and Science students at different study levels)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Different levels of study combined",
+   "eligibility_restrictions": "One VIP per semester; must be taken for credit; application required (rolling, projects may close when full). Faculty-level eligibility not re-verified.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10, 15, 20 or 30 SCOTCAT credits per semester; 5 credits for returning students; appears on transcript",
+   "duration": "Per semester; multi-semester participation encouraged",
+   "delivery_format": "In person research team",
+   "project_based": "Yes",
+   "project_evidence": "Team contributes to an ongoing research project addressing 'genuine research questions' [2][3]; St Andrews Forest example produces a commissioned report and group presentation [4].",
+   "group_working": "Yes",
+   "group_evidence": "'A VIP brings together a student team formed from different disciplines and levels of study' [3]; the team addresses research questions jointly [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects are academic research projects led by a supervisor [3]. No VIP-wide evidence of external organisations setting briefs or receiving outputs. The St Andrews Forest VIP involves 'practitioners and our neighbours', but its report is commissioned by the University's Environmental Sustainability Board (internal) [4]. No list of VIPs naming external companies or charities was found.",
+   "partner_type": "Unclear",
+   "partner_role": "Mostly internal academic research; occasional external practitioners/community participants in individual projects",
+   "named_partners": "",
+   "deliverable": "Research contributions; project-specific outputs (e.g. report and group presentation in St Andrews Forest VIP)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Which of the current VIP projects (projects page) involve external organisations as brief-setters or recipients; faculty eligibility (legacy: Arts and Science) not re-verified because the search budget was exhausted.",
+   "legacy_ref": "Vertically Integrated Projects (VIP)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://memos.wp.st-andrews.ac.uk/2026/04/15/applications-for-2026-2027-vip-modules-open-now/",
+     "title": "Applications for 2026-2027 VIP modules open now !",
+     "section": "Memo, April 2026",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Applications for 2026-27 VIP modules open; deadline 9am, Monday 11th of May.",
+     "supports": [
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.st-andrews.ac.uk/education/vip/students/",
+     "title": "Information for students - Education - University of St Andrews",
+     "section": "Students page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Students can enrol in one Vertically Integrated Project (VIP) per semester.' 'The team addresses genuine research questions with inevitable setbacks and opportunities for reflection.' VIP 'modules' available at 10, 15, 20 and 30 credits per semester; 5 credits for students returning to a project; 'VIP modules are taught modules that appear on your transcript, so must be taken for credit.'",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://education.wp.st-andrews.ac.uk/2021/02/23/vertically-integrated-projects-at-st-andrews/",
+     "title": "Vertically Integrated Projects at St Andrews",
+     "section": "Education blog",
+     "pub_year": "2021",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'A VIP brings together a student team formed from different disciplines and levels of study to contribute to an ongoing research project for credit and grades.'",
+     "supports": [
+      "group",
+      "project"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://vip.wp.st-andrews.ac.uk/projectoverviews/st-andrews-forest/",
+     "title": "St Andrews Forest",
+     "section": "VIP project overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Aims to join 'academics, practitioners and our neighbours to plan, implement and monitor the forest'; output is a commissioned report (and group presentation) to the University's Environmental Sustainability Board.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://www.st-andrews.ac.uk/education/vip/projects/",
+     "title": "Projects - Education - University of St Andrews",
+     "section": "Projects list",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Projects accept applications on a rolling basis and may close once desired numbers are reached.",
+     "supports": [
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Summer Team Enterprise Programme (STEP)",
+   "english_name": "Summer Team Enterprise Programme (STEP)",
+   "module_code": "",
+   "description": "Fully online, unpaid summer skills-development programme: undergraduates are placed in remote teams of six or seven (by time zone and project preference) to deliver a 'real-life' consulting project designed and supported by University staff for University academic Schools and professional service units. Outputs include research reports, videos, educational resources used at the University, creative work or websites.",
+   "academic_reach": "University-wide",
+   "admin_host": "International Education and Lifelong Learning Institute (IELLI) / Education",
+   "eligible_faculties_programmes": "St Andrews undergraduates (no faculty restriction stated)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "Application required (2026 deadline 4 May)",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit; recorded on HEAR transcript; LinkedIn badge on completion",
+   "duration": "About 7 weeks (2026: core project work 25 May-13 July; closing ceremony 3 August), 4-6 hours/week",
+   "delivery_format": "Online, remote teams",
+   "project_based": "Yes",
+   "project_evidence": "'Real-life project' with outputs such as research report, video, educational resource, creative work or website [1]; 'real consulting project' [2].",
+   "group_working": "Yes",
+   "group_evidence": "Students placed in a remote project team of six or seven undergraduates [1].",
+   "employer_connected": "No",
+   "employer_evidence": "Clients are internal: projects are 'designed and supported by University staff' [1] for 'various University academic Schools and professional service units' [2]. No external organisation evidenced.",
+   "partner_type": "Other",
+   "partner_role": "Internal University Schools and professional service units act as project sponsors (internal clients - does not satisfy C)",
+   "named_partners": "",
+   "deliverable": "Research report, video, educational resource, creative work or website",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "",
+   "unresolved": "Duration band left Unclear: about 7 weeks part-time (4-6 h/week), which falls between the '1-4 weeks' and '~1 term' bands. The 2026 project list was not retrieved, so some projects may have external sponsors.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.st-andrews.ac.uk/education/handbook/step/",
+     "title": "Summer Team Enterprise Programme - Education - University of St Andrews",
+     "section": "Handbook page incl. 2026 timetable",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'fully-online skills development programme where students work on a real-life project designed and supported by University staff'; remote project team of six or seven undergraduates; 'typical minimum time commitment is 4-6 hours/week over the course of 7 weeks'; 2026 applications close 4 May, core work 25 May-13 July; listed on HEAR; outputs such as 'a research report, video, creating an educational resource which will be used at the University, a piece of creative work or a website'; 'not an internship and not paid'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.st-andrews.ac.uk/careers/career-options/sectors/business/",
+     "title": "Business, consulting and management - Careers - University of St Andrews",
+     "section": "Gaining experience",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Take part in the St Andrews Summer Team Enterprise programme (STEP). This allows St Andrews students to work on a real consulting project for various University academic Schools and professional service units. These projects last for six weeks over the summer vacation.'",
+     "supports": [
+      "project",
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CS3099 Software Engineering Team Project",
+   "english_name": "CS3099 Software Engineering Team Project",
+   "module_code": "CS3099",
+   "description": "Full-year third-year Computer Science module in which teams specify, plan, design, implement, test and document a medium-sized software system under staff guidance. A 2025 School blog states that industry engagement (Doors Open events) led to the involvement of Experian and Skyscanner in the module, with accessibility built in 'in collaboration with Skyscanner'; their exact role (brief-setting, feedback, assessment) is not documented.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer Science",
+   "eligible_faculties_programmes": "Computer Science honours (prerequisites CS2002 and CS2101 or CS2001)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "Prerequisites CS2002 and (CS2101 or CS2001)",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 SCOTCAT (15 ECTS); 100% coursework, no reassessment",
+   "duration": "Full year",
+   "delivery_format": "In person team project",
+   "project_based": "Yes",
+   "project_evidence": "Teams build a medium-sized software system from specification to documentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Team project; third-year undergraduates 'work in groups to create a software product' [1][2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Blog reports 'involvement of Experian and Skyscanner' and accessibility built in 'in collaboration with Skyscanner' [2], but does not say whether they set briefs, act as clients, or give feedback; catalogue describes work 'under the guidance of a member of staff' with no client mentioned [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Involvement of Experian and Skyscanner (role unspecified); Skyscanner collaborated on accessibility theme",
+   "named_partners": "Experian, Skyscanner (blog, April 2025)",
+   "deliverable": "Software product with documentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Whether industry partners set project briefs for all/some teams and whether this continued after 2025; whether CS3099 is compulsory for CS single honours.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=CS3099",
+     "title": "CS3099 Software Engineering Team Project",
+     "section": "Module catalogue",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "30 SCOTCAT / 15 ECTS; coursework 100%, no reassessment; prerequisites CS2002 and (CS2101 or CS2001); teams 'specify, plan, design, implement, test and document a medium-sized software system, under the guidance of a member of staff'.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://blogs.cs.st-andrews.ac.uk/csblog/2025/04/25/keeping-doors-open-connection-collaboration-and-opportunities/",
+     "title": "Keeping Doors Open: Connection, Collaboration and Opportunities",
+     "section": "School of Computer Science blog",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Previous Doors Open events 'have led to projects including the involvement of Experian and Skyscanner in the third-year module CS3099: Software Engineering Team Project', where third-year undergraduates work in groups to create a software product; accessibility 'has been built into the module in collaboration with Skyscanner'.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://info.cs.st-andrews.ac.uk/student-handbook/modules/",
+     "title": "Modules in the School of Computer Science for 2026-27",
+     "section": "Student handbook module list",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "CS3099 listed among School of Computer Science modules for 2026-27.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Management MSc - consultancy projects with local organisations",
+   "english_name": "Management MSc - consultancy projects with local organisations",
+   "module_code": "",
+   "description": "Course page for the Management MSc (Business School, 2027 entry) states the programme includes practical elements applying theory to real organisations and 'the opportunity to work on consultancy projects with local organisations'. The module carrying these projects, team structure, and whether all students take part were not identified.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Business School (formerly School of Management)",
+   "eligible_faculties_programmes": "Management MSc",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "One-year MSc",
+   "eligibility_restrictions": "Management MSc students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not identified",
+   "duration": "Not identified",
+   "delivery_format": "Not identified",
+   "project_based": "Unclear",
+   "project_evidence": "'Consultancy projects' named [1], but no brief, output or module description found.",
+   "group_working": "Unclear",
+   "group_evidence": "No team evidence for the consultancy projects; MLitt archive page mentions 'consultancy projects, and team activities' separately [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects are 'with local organisations' [1]; worded as an 'opportunity', role of organisations not described.",
+   "partner_type": "Unclear",
+   "partner_role": "Local organisations (role not described)",
+   "named_partners": "",
+   "deliverable": "Not identified",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2027 entry (prospectus)",
+   "participation_data": "",
+   "unresolved": "Identify the MN module carrying the consultancy projects, its group structure, client role and whether compulsory; similar 'consultancy projects' wording appears for the Management MLitt (2025-26 archive) and may apply across Business School MSc/MLitt programmes.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.st-andrews.ac.uk/subjects/management/management-msc/",
+     "title": "Management MSc - Subjects - University of St Andrews",
+     "section": "Course overview (2027 entry)",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Includes practical elements where students apply theory to real organisations, and 'the opportunity to work on consultancy projects with local organisations'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://archive.st-andrews.ac.uk/courses/2025-2026/pg/management-mlitt/",
+     "title": "Management MLitt - Courses archive - University of St Andrews",
+     "section": "Course overview",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Lists 'opportunities to take part in consultancy projects, and team activities'.",
+     "supports": [
+      "project"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Playfair (student-led pro bono consultancy)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Mentioned on Careers page as a student-led pro bono consultancy firm; student-run rather than University-run and no evidence on client briefs, teams or current activity was retrieved (search budget exhausted).",
+   "source_url": "https://www.st-andrews.ac.uk/careers/career-options/sectors/business/",
+   "status_note": "Undated careers page"
+  },
+  {
+   "name": "St Andrews Innovation consultancy services",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Staff-led consultancy for external clients handled by the University's innovation office; not a student project route.",
+   "source_url": "https://innovation.st-andrews.ac.uk/industry-services/consultancy/",
+   "status_note": ""
+  },
+  {
+   "name": "Entrepreneurship MSc entrepreneurship project",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Replaces the dissertation with taking 'a real business idea from concept to action plan'; no external client brief evidenced.",
+   "source_url": "https://www.st-andrews.ac.uk/subjects/management/entrepreneurship-msc/",
+   "status_note": "Current course page"
+  }
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "**St Andrews** (partial review, 8 searches): **no qualifying scheme verified through the documented search so far**. Several group project routes were found, but none has evidence that an external organisation is the standard client.\n\n- **Vertically Integrated Projects (VIP):** credit-bearing modules (10-30 SCOTCAT per semester; 5 for returners) in which a supervisor leads a mixed-discipline, mixed-level student team working on an ongoing research project. Applications for 2026/27 opened in April 2026. Projects are academic-led. External practitioners appear only in individual projects (e.g. St Andrews Forest), and that project's report goes to an internal University board, so C is Unclear.\n- **STEP (Summer Team Enterprise Programme):** an online 7-week programme for teams of 6-7 undergraduates, running in 2026 and recorded on the HEAR. The consulting projects are designed by University staff for University Schools and service units, so they are internal clients (C = No).\n- **CS3099 Software Engineering Team Project:** a year-3 group software build (30 credits, running in 2026/27). A 2025 blog reports Experian and Skyscanner involvement, but their role is not described.\n- **Management MSc:** the course page advertises 'consultancy projects with local organisations', but the module was not identified.\n\nScience, AHSS, Medicine and Divinity were not searched because the search budget was exhausted.",
+ "gaps": "Review incomplete: science, AHSS and other areas not searched; Business School consultancy module (MSc/MLitt) not identified; VIP project-level external partners not enumerated; VIP faculty eligibility (legacy: Arts and Science) not re-verified; CS3099 partner role and compulsory status unknown; Playfair pro bono consultancy (student-led) not examined; 2026 STEP project list not retrieved."
+}

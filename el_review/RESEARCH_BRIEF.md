@@ -132,3 +132,7 @@ Put schemes that fail a criterion (a "No") either in `schemes` (if a near-miss w
 - Umbrella and child routes are linked via parent_local_id and the umbrella marked `is_umbrella: true` (umbrellas are not counted separately when children exist).
 - Current-delivery claims are supported by dated evidence.
 - No fabricated URLs, partners, numbers or quotes.
+
+## Search-limit handling and resuming partial files
+- A shared per-turn WebSearch cap exists. If a search is refused because a limit was reached, do NOT retry repeatedly: immediately write/update the institution file as "Partial", fill `partial_remaining` precisely (which areas/leads remain, which schemes still need status/eligibility evidence), set unsearched areas to "Not searched" with reason "search limit", and stop.
+- If `/home/user/James-testing/el_review/results/<ID>.json` already exists as "Partial", RESUME it: load it, keep its existing schemes/exclusions/sources/search_log entries (correct them only if new evidence warrants), research only what `partial_remaining` lists plus any area marked "Not searched", then rewrite the whole file (merged) with updated review_status, profile_md and gaps. Do not duplicate existing records.
