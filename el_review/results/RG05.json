@@ -1,0 +1,887 @@
+{
+ "inst_id": "RG05",
+ "institution": "Durham University",
+ "review_status": "Partial",
+ "partial_remaining": "Search limit reached (200/turn). Remaining: (1) student-facing eligibility, selection, dates and current-cohort evidence for the central Mini Consultancy Competition; (2) whether MSc Business Analytics projects are team or individual and current-year availability; (3) SOCI43715 Participatory Action Research community-partner role and Sociology/Anthropology/SGIA/Education/Psychology applied-project modules; (4) Medicine/health, Education, Theology and Law clinic-type provision; (5) dated confirmation and external share for PHYS3581 clients and for Engineering Design industry client role; (6) whether Industrial Problem Solving still runs.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Durham University Mini Consultancy Competition students teams employer challenge",
+    "Durham University work-based learning programmes for employers student project",
+    "Durham careers Mini Consultancy competition students apply",
+    "Durham Careers Enterprise Experience students consultancy challenge eligibility",
+    "Durham students employer challenge hackathon case challenge",
+    "Durham Virtual Internship Programme 125 hours",
+    "Durham Business Mentoring consultancy student society pro bono clients"
+   ],
+   "key_sources": [
+    "https://dur.ac.uk/study/careers-employability-enterprise/information-for-employers/work-based-learning-programmes-for-employers/",
+    "https://180dc.org/branches/durham-university"
+   ],
+   "finding": "Central provision is employer-facing: Mini Consultancy Competition (three-week, employer-set issue, three student teams), mentoring, insight and virtual internship. No student-facing page, eligibility or dated cohort found. 180 Degrees Consulting is an independent CIC."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Durham University Business School live client consultancy project module MSc",
+    "Durham Business School Business Projects teams client organisation",
+    "Durham MBA Strategic Consulting Project team client",
+    "Durham Business Analytics Projects team client dataset",
+    "BUSI48U60 Business Project module",
+    "BUSI3281",
+    "Durham Business School undergraduate business challenge/consultancy",
+    "Durham Executive MBA teams consulting project"
+   ],
+   "key_sources": [
+    "https://www.durham.ac.uk/business/programmes/masters/business-analytics-projects/",
+    "https://www.durham.ac.uk/business/for-business/business-projects/",
+    "https://www.durham.ac.uk/study/modules/postgraduate/busi48u60.php"
+   ],
+   "finding": "Business School runs client-linked MSc/MBA projects, mostly individual (MBA SCP, MSc Management Business Project). MSc Business Analytics projects are client-supplied; team vs individual unresolved. No undergraduate live-client group module found."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Durham Engineering industry-sponsored group project MEng client company",
+    "Durham Engineering group design project industry partner",
+    "Durham Engineering Industrial Problem Solving IPS",
+    "Durham Engineering Design 2 Build",
+    "Durham 2nd year Engineering Design",
+    "Durham IPC news IPS",
+    "Durham Computer Science software engineering group project industry client",
+    "COMP2281",
+    "Durham Computer Science MSc industry project",
+    "COMP3421",
+    "ENGI4321",
+    "Durham Master's hubs industry project"
+   ],
+   "key_sources": [
+    "https://www.durham.ac.uk/study/modules/undergraduate/comp2281.php",
+    "https://sites.durham.ac.uk/eng-ipc/",
+    "https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/courses/2nd-year-engineering/"
+   ],
+   "finding": "Computer Science Year 2 Software Engineering has a compulsory team project with an external organisation (current 2025/26). Engineering has a historical pair-based live company project (IPS, sessions to 2019) and a year-long team Engineering Design with industry input (client role unclear)."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Durham Physics Level 3 team project for clients",
+    "PHYS3581 Team Project",
+    "Durham Physics team project 2025-26 clients",
+    "Durham Physics team project for students",
+    "Durham Physics F300 team project",
+    "Durham Chemistry/Biosciences/Earth Sciences/Geography group project external client",
+    "GEOL4091 Earth Sciences into Industry",
+    "CHEM4375",
+    "Durham Mathematical Sciences industry project data science"
+   ],
+   "key_sources": [
+    "https://www.durham.ac.uk/study/modules/undergraduate/geol4091.php",
+    "https://www.durham.ac.uk/study/modules/undergraduate/phys3581.php",
+    "https://www.durham.ac.uk/departments/academic/physics/labs/level-3/team-project/for-clients/"
+   ],
+   "finding": "Two strong science routes: Earth Sciences GEOL4091 (client-set group project, 2025/26) and Physics PHYS3581 Team Project (teams of up to six for industry or staff-set problems). Chemistry external project and Maths internship project are individual or unevidenced."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Durham Centre for Social Justice and Community Action students community partner module",
+    "Durham module groups external organisation client report social sciences arts humanities",
+    "FOUD01Z8",
+    "Durham Arts and Humanities in the Workplace",
+    "Durham Anthropology/Archaeology/Education/Psychology placement group project",
+    "SOCI43715 (refused: search limit)"
+   ],
+   "key_sources": [
+    "https://www.durham.ac.uk/study/modules/postgraduate/soci43715.php",
+    "https://www.durham.ac.uk/study/modules/postgraduate/anth49960.php"
+   ],
+   "finding": "No group client-project module found. Anthropology vocational dissertation is individual; Participatory Action Research module (group co-designed PAR project) could not be checked for community-partner role because the search limit was reached."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Durham Law School pro bono clinic students teams real clients"
+   ],
+   "key_sources": [
+    "https://www.durham.ac.uk/departments/academic/law/news-and-events/news/2025/04/durham-law-schools-pro-bono-team/"
+   ],
+   "finding": "Law: student-led Pro Bono Society/team only; no clinic module evidenced. Education, Psychology, Sport, Theology/Common Awards, Medicine-health provision not specifically searched beyond mixed queries."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "PHYS3581 Team Project (Level 3 Physics)",
+   "english_name": "Physics Team Project",
+   "module_code": "PHYS3581",
+   "description": "Teams of up to six Level 3 Physics students, formed by the course organiser, work 9 hours/week for 8 weeks on a physics-related problem set by a client (a local company, or sometimes department staff): e.g. a camera system to film a dishwasher cycle for Procter & Gamble; a calculator for UHV system design for Mantis Vacuum Systems. Each team has a staff consultant, lab space and a £200-300 budget; ends with a short written report and oral presentation to which clients are invited.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Physics",
+   "eligible_faculties_programmes": "Level 3 Physics students (module listed as Open, cap 84, prerequisite PHYS2641); F300 course page presents it as one of two practical-module options alongside an extended experimental project; also listed for incoming/exchange students 2026/27.",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3 (Level 3)",
+   "eligibility_restrictions": "Prerequisite PHYS2641 (Laboratory Skills Electronics); capped at 84 places.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 Durham credits (10 ECTS in 2026/27 incoming handbook); short written report and oral presentation (summative).",
+   "duration": "9 hours/week for 8 weeks in Michaelmas or Epiphany term",
+   "delivery_format": "Department-based lab project with client brief, kick-off meeting and final presentation",
+   "project_based": "Yes",
+   "project_evidence": "Defined client problem with report and presentation outputs (sources 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of up to six (4-6) students assembled by the course organiser; joint report and presentation (sources 1,2).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Clients supply a ~1 page brief, meet students at the start, may lend equipment, answer queries, may do a mid-project review and are invited to final presentations (source 2); named past clients Procter & Gamble, Cottam Brush, Neue Schule, Mantis Vacuum Systems (source 3). However the module page says problems are set 'by either members of staff from the Department or by local industry' (source 1), so the external share is not established; the F300 programme page says the scenario is presented by an external organisation such as a public body or company (source 4).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: supplies brief, meets team, receives final presentation; internal staff-set projects also exist (share not published).",
+   "named_partners": "Procter & Gamble, Cottam Brush, Neue Schule, Mantis Vacuum Systems (previous projects page, undated); EDF, Coltraco Ultrasonics, Magnitude Biosciences, Kromek (team project page, undated)",
+   "deliverable": "Written report and oral presentation / prototype or analysis for the client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "Module cap of 84 students (capacity, not participation).",
+   "unresolved": "Share of projects set by external clients vs department staff not published, so C left Unclear. Module page availability reported inconsistently across searches (2024/25 vs 2025/26); currency rests on the 2026/27 incoming-student handbook listing. No dated 2025/26 or 2026/27 client list found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.durham.ac.uk/study/modules/undergraduate/phys3581.php",
+     "title": "PHYS3581 Team Project (module page)",
+     "section": "module description",
+     "pub_year": "2024/25-2025/26 (availability reported inconsistently)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Level 3, 20 credits, cap 84; 'a group of up to six students working on a physics-related problem set by either members of staff from the Department or by local industry'; assessed by short written report and oral presentation.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.durham.ac.uk/departments/academic/physics/labs/level-3/team-project/for-clients/",
+     "title": "Team Project: For clients",
+     "section": "for clients",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 4-6 formed by the course organiser; clients supply a short brief, meet students at start, answer queries, may undertake mid-project review and are invited to the final presentations; 9 hours/week for 8 weeks; Michaelmas or Epiphany term.",
+     "supports": [
+      "group",
+      "employer",
+      "duration",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.durham.ac.uk/departments/academic/physics/labs/level-3/team-project/previous-projects/",
+     "title": "Team Project: Previous projects",
+     "section": "previous projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Case studies: Procter & Gamble (dishwasher camera system), Cottam Brush (material properties for pipeline inspection), Neue Schule (forces on a horse bridle), Mantis Vacuum Systems (UHV design calculator).",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.durham.ac.uk/study/courses/physics-f300/",
+     "title": "Physics F300",
+     "section": "practical modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Team Project described as placing students in a 'real-world' scenario, solving a scientific problem presented by an external organisation such as a public body or a company.",
+     "supports": [
+      "employer",
+      "reach",
+      "participation"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://www.durham.ac.uk/media/durham-university/global/global-opportunities/incoming/Physics.pdf",
+     "title": "Incoming Students Academic year 2026/2027 Physics",
+     "section": "module list",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Lists PHYS3581 Team Project (10 ECTS) among modules for 2026/27.",
+     "supports": [
+      "status",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "COMP2281 Software Engineering (Year 2 team project with external organisation)",
+   "english_name": "Software Engineering team project",
+   "module_code": "COMP2281",
+   "description": "Compulsory Level 2 Computer Science module built around a substantial team-based software project developed in partnership with an external organisation, covering the lifecycle from requirements to maintenance, Agile practice and project management.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "BSc/MEng Computer Science (G400, G406), Artificial Intelligence (G414) and related Computer Science degrees where the Year 2 Software Engineering module is taken.",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Students on the specified Computer Science programmes.",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, Level 2; assessment weighting of the team project not found.",
+   "duration": "Module-length (assumed academic year/term; not stated in extracts)",
+   "delivery_format": "Team software project with external organisation alongside taught content",
+   "project_based": "Yes",
+   "project_evidence": "'substantial team-based software project' (source 2); aim to understand management of 'a significant piece of software' (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Team-based project; aims refer to developing software 'within a team environment' (sources 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Programme pages state the project is developed in partnership with, and gives experience working with, an external organisation (sources 2,3). The mechanism (who supplies the brief, who assesses) is not described in the extracts.",
+   "partner_type": "Unclear",
+   "partner_role": "External organisation partners on the project; precise role (brief-setting, feedback, assessment) not documented in extracts.",
+   "named_partners": "",
+   "deliverable": "Team-built software system",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "How the external organisation participates, partner sector, project duration and assessment weighting not found; C=Yes rests on programme-page statements that the module project is delivered with an external organisation. Whether every team has a distinct external client not verified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.durham.ac.uk/study/modules/undergraduate/comp2281.php",
+     "title": "COMP2281 Software Engineering (module page)",
+     "section": "module description",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Level 2, 20 credits, listed as available in 2025/2026; aims include understanding project management needed to develop a significant piece of software within a team environment.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.durham.ac.uk/study/courses/computer-science-g400/",
+     "title": "Computer Science G400",
+     "section": "course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Compulsory software development module includes a substantial team-based software project developed in partnership with an external organisation.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.durham.ac.uk/study/courses/computer-science-g406/",
+     "title": "Computer Science G406 (MEng)",
+     "section": "course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Year 2 Software Engineering module includes a team project in which you gain practical software development experience working with an external organisation.",
+     "supports": [
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "GEOL4091 Earth Sciences into Industry",
+   "english_name": "Earth Sciences into Industry",
+   "module_code": "GEOL4091",
+   "description": "A multi-disciplinary student group works on a project specified by a 'client', typically an external organisation, which identifies the problem and deliverables. Groups write the project brief and workflow, then present a solution to the client and an internal mentor. Past project types include hydrocarbon exploration targets, geohazard risk assessment and mine waste contamination.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Earth Sciences",
+   "eligible_faculties_programmes": "Level 4 option for MSci Earth Sciences/geoscience degrees and listed for Natural Sciences students.",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 4 (integrated Masters)",
+   "eligibility_restrictions": "Level 4 Earth Sciences / Natural Sciences students on programmes that list the module.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; individual reflective report 20%, group project report 60%, group oral presentation 20%.",
+   "duration": "Not stated in extracts",
+   "delivery_format": "Client-brief group project with internal mentor; formative and summative assessment",
+   "project_based": "Yes",
+   "project_evidence": "Client-specified problem and deliverables; group report and presentation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'A multi-disciplinary student group'; 60% group project report and 20% group oral presentation (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client, 'typically an external organisation', identifies the problem and deliverables, and receives the group's presented solution; module aim is working with an industrial client (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client sets problem and deliverables and receives presentation; internal mentor also supports. 'Typically' external, so some internal clients possible.",
+   "named_partners": "",
+   "deliverable": "Group project report and presentation of a solution to the client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "No named 2025/26 clients, project length or enrolment numbers found; share of non-external clients (word 'typically') unknown.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.durham.ac.uk/study/modules/undergraduate/geol4091.php",
+     "title": "GEOL4091 Earth Sciences into Industry (module page)",
+     "section": "module description and assessment",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'A multi-disciplinary student group will work on a project specified by a \"client\", typically an external organisation. The client identifies the problem to be addressed and the project deliverables. The groups will develop the project brief, workflow strategy and prepare and present a solution to their client and internal mentor.' Level 4, 20 credits, available 2025/2026; assessment 20/60/20.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://maths.durham.ac.uk/php/natural.sciences.php?dept=geol",
+     "title": "Natural Sciences: Earth Sciences 2023-2024",
+     "section": "module list",
+     "pub_year": "2023/24",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Module listed among Level 4 Earth Sciences options for Natural Sciences students (title only; offerings vary by year).",
+     "supports": [
+      "eligibility",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Mini Consultancy Competition",
+   "english_name": "Mini Consultancy Competition",
+   "module_code": "",
+   "description": "Employer-facing work-based learning programme: an organisation supplies a real business issue and three diverse student consultancy teams work on it over about three weeks, each delivering a distinct solution and final presentation to the employer, who can also use it to identify potential recruits.",
+   "academic_reach": "Unclear",
+   "admin_host": "Careers and Enterprise Centre (central)",
+   "eligible_faculties_programmes": "Student eligibility and selection rules not found in search (employer page only).",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "Employer page refers to 'high-achieving Durham students'; selection process not published in extracts.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced",
+   "duration": "About three weeks",
+   "delivery_format": "Employer-supplied challenge; student teams; employer receives three solutions and presentations",
+   "project_based": "Yes",
+   "project_evidence": "Real business issue provided by employer; each team produces a solution and final presentation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'three diverse student consultancy teams' (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employer supplies the live business issue and receives three distinct solutions and presentations (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets the live business issue; receives team solutions and presentations; may assess potential recruits.",
+   "named_partners": "",
+   "deliverable": "Three team solutions and final presentations to the employer",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Page is employer-facing and undated in the extracts; no student-facing page, eligibility, dates, named employers or cohort evidence found, so academic reach and current delivery are unresolved (legacy row recorded a 2026 employer programme page and University-wide reach, not verified here).",
+   "legacy_ref": "Mini Consultancy Competition",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://dur.ac.uk/study/careers-employability-enterprise/information-for-employers/work-based-learning-programmes-for-employers/",
+     "title": "Work Based Learning Programmes for Employers",
+     "section": "Mini Consultancy Competition",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'over the course of just three weeks, your organisation will work with high-achieving Durham students as they apply their knowledge to develop innovative, practical solutions to a real business issue you provide'; employers receive three distinct solutions from three diverse student consultancy teams plus a final presentation from each team.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Business Analytics Project (client-based)",
+   "english_name": "Business Analytics Projects",
+   "module_code": "",
+   "description": "Term 3 project on the MSc Business Analytics (G5K709): students work on a live business issue using real datasets from a client company; client representatives provide the brief, data and business context; output is a project report assessed by the academic team plus an executive summary reviewed by the company. Each project has an academic and a company supervisor.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Durham University Business School",
+   "eligible_faculties_programmes": "MSc Business Analytics (G5K709).",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Masters",
+   "eligibility_restrictions": "MSc Business Analytics students.",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Project worth about one-third of the degree marks; assessed report plus executive summary.",
+   "duration": "Typically Term 3 after taught modules; company page cites a three-month project",
+   "delivery_format": "Client-supplied brief and data, short on-site visits, supervised by academic and company supervisors",
+   "project_based": "Yes",
+   "project_evidence": "Live business problem with client data; report and executive summary (sources 1,2).",
+   "group_working": "Unclear",
+   "group_evidence": "Programme page speaks of collaborating with fellow students and teams, but case studies describe an individual student's project (WoolOvers) and the related module BUSI4M710 is individual; group vs individual route not separable (sources 1,3).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client company supplies the brief and datasets, provides a supervisor, and reviews the executive summary (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Provides brief, data, company supervisor; reviews executive summary.",
+   "named_partners": "WoolOvers (case study, undated)",
+   "deliverable": "Project report and client executive summary",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "Company page claims partnerships with over 380 businesses across 68 sectors (whole school, not this scheme).",
+   "unresolved": "Whether the project is done in teams or individually; no 2025/26 or 2026/27 module availability or dated client cohort found (course page lists September 2026 and 2027 starts; page metadata appeared old).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.durham.ac.uk/business/programmes/masters/business-analytics-projects/",
+     "title": "Business Analytics Projects",
+     "section": "programme page",
+     "pub_year": "undated (c. 2024)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Live business issue using real datasets provided by a client company; collaboration with fellow students; client representatives supply brief, data and context; project report assessed by academic team and executive summary reviewed by companies; projects typically Term 3.",
+     "supports": [
+      "project",
+      "employer",
+      "group",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.durham.ac.uk/business/for-business/business-projects/",
+     "title": "Business Projects",
+     "section": "for business",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consultancy-style: academic supervisor from the School plus a company supervisor; MSc student business projects over about three months.",
+     "supports": [
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.durham.ac.uk/business/for-business/business-projects/business-analytics-projects/business-analytics-projects-case-studies/",
+     "title": "Business Analytics Projects Case Studies",
+     "section": "case studies",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Case study of a single MSc student project with a lifestyle brand (WoolOvers) on warehouse/distribution decisions.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.durham.ac.uk/business/courses/business-analytics-g5k709/",
+     "title": "Business Analytics G5K709",
+     "section": "course page",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "One-year MSc with September 2026 and September 2027 starts; project worth one-third of marks.",
+     "supports": [
+      "credit",
+      "status",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industrial Problem Solving (IPS)",
+   "english_name": "Industrial Problem Solving",
+   "module_code": "",
+   "description": "Two-week course for third-year Engineering students: taught techniques (value stream analysis, design for assembly, voice of the customer, FEA) then a 'live' project on a North East company's premises carried out by a pair of students, finishing with a presentation to the host company and a university report.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Engineering (Industrial Partnership Committee)",
+   "eligible_faculties_programmes": "Third-year Engineering students.",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "Third-year Engineering students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "University report; credit not found.",
+   "duration": "Two weeks (second week on company project)",
+   "delivery_format": "Taught week then live company-site project in pairs",
+   "project_based": "Yes",
+   "project_evidence": "'live' company project with presentation and report (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Each project carried out by a pair of students (pair counts as group per ruling) (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local company hosts the project on its premises and receives the presentation (source 1); sessions with Tracerco, Technip, Open Works Engineering listed (source 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Hosts the live project on site and receives the student presentation.",
+   "named_partners": "Technip, Tracerco, Open Works Engineering, AVID, Doby Verrolec (IPC news; sessions 2013-2019 and undated 18-27 June entries)",
+   "deliverable": "Presentation to host company and university report",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Historical delivery only",
+   "latest_evidenced_year": "2019",
+   "participation_data": "",
+   "unresolved": "Sessions listed only for 2013-2019; no evidence it still runs, whether compulsory, or its module code.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sites.durham.ac.uk/eng-ipc/",
+     "title": "Industrial Partnership Committee (Industrial Problem Solving)",
+     "section": "IPS description",
+     "pub_year": "c. 2019",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Two-week course for third-year Engineering students; second week students work on a 'live' project with a local North East company; projects carried out on company premises by a pair of students; present to host company and write a university report.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sites.durham.ac.uk/eng-ipc/category/ipc-news/",
+     "title": "IPC News",
+     "section": "IPS session news",
+     "pub_year": "2013-2019",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Lists IPS sessions 2013-2019 with companies including Technip, Tracerco and Open Works Engineering.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Engineering Design (year-long team project, Years 2-3)",
+   "english_name": "Engineering Design team project",
+   "module_code": "",
+   "description": "Year-long Engineering Design module in which teams solve engineering problems alongside industry professionals and academics (example: Scalextric land speed record challenge). Mechanical degrees describe a major design project guided by an academic supervisor and an external industrial engineer.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Engineering",
+   "eligible_faculties_programmes": "Engineering degrees (General Engineering H100/H103, Mechanical H311/H314 and others).",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 2-3",
+   "eligibility_restrictions": "Engineering students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not found",
+   "duration": "Whole academic year",
+   "delivery_format": "Year-long team design project with industry professional input",
+   "project_based": "Yes",
+   "project_evidence": "Year-long design project solving defined engineering problems (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'students work in teams' (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industry professionals/an external industrial engineer support or guide teams (sources 1,2), but whether an external organisation sets the brief or receives the output is not shown; Scalextric example appears department-set.",
+   "partner_type": "Unclear",
+   "partner_role": "Professional engineers guide/support teams; organisation not identified.",
+   "named_partners": "",
+   "deliverable": "Team design/prototype",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Module code, who sets briefs, role of named industry organisations and dated delivery evidence not found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/courses/2nd-year-engineering/",
+     "title": "2nd Year Engineering",
+     "section": "Engineering Design",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Engineering Design lasts the whole year; students work in teams to solve challenging engineering problems alongside industry professionals and academics; Scalextric land speed record example.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.durham.ac.uk/study/courses/engineering-mechanical-h314/",
+     "title": "Engineering (Mechanical) H314",
+     "section": "course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Major design project with guidance from an academic supervisor and an external (industrial) engineer.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "MBA Strategic Consulting Project (full-time/online) and Executive MBA consultancy project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Client host organisations (Vodafone, Boeing, Diageo, Sage etc.) define scope, but pages describe an individual project (individual supervisor, single-student Sage case, 'substantial individual project'); one search summary said 'teams or individuals' for the full-time MBA, not separable. Executive MBA has interdisciplinary teams but the consultancy project route is not shown to be a team client project.",
+   "source_url": "https://www.durham.ac.uk/business/for-business/business-projects/mba-strategic-consulting-projects/",
+   "status_note": "Group status unresolved; revisit if a team route is evidenced."
+  },
+  {
+   "name": "MSc Management / Management (Consulting) Business Project (BUSI48U60)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Real host-organisation problem with report to the host, but described as an individual 60-credit project with a supervisor; module listed as not available in 2025/26.",
+   "source_url": "https://www.durham.ac.uk/study/modules/postgraduate/busi48u60.php",
+   "status_note": "Not available 2025/26."
+  },
+  {
+   "name": "BUSI3281 Work, Organisation and Society",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Individual 4,000-word project; group presentation is formative; no external organisation.",
+   "source_url": "https://www.durham.ac.uk/study/modules/undergraduate/busi3281.php",
+   "status_note": ""
+  },
+  {
+   "name": "Durham Career Mentoring Programme / Employer Insight Programme",
+   "legacy": false,
+   "category": "Careers service",
+   "reason": "Mentoring and insight events; no bounded group project.",
+   "source_url": "https://www.durham.ac.uk/study/careers-employability-enterprise/information-for-employers/work-based-learning-programmes-for-employers/",
+   "status_note": ""
+  },
+  {
+   "name": "Virtual Internship Programme (employer page)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Employer page describes 125 hours of focused research/analysis over three weeks; no evidence of group working or live client brief; a later search could not find the programme again.",
+   "source_url": "https://dur.ac.uk/study/careers-employability-enterprise/information-for-employers/work-based-learning-programmes-for-employers/",
+   "status_note": "Appeared on one version of the page only."
+  },
+  {
+   "name": "Careers Forage work-based learning award",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Forage-style virtual work experience; no live client engagement evidenced.",
+   "source_url": "https://www.durham.ac.uk/news-events/latest-news/2023/02/careers-forage-work-based-learning-award/",
+   "status_note": "Durham ranked 9th on Forage list; 2023 news."
+  },
+  {
+   "name": "SME Internship Programme (Careers)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Match-funded three-month internships with County Durham businesses; individual placements.",
+   "source_url": "https://www.durham.ac.uk/news-events/latest-news/2024/07/careers-sme-internships-project-/",
+   "status_note": ""
+  },
+  {
+   "name": "Chemistry (with Industrial Project) F111 / CHEM4375 External Research Project",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Research project in an external laboratory under a local supervisor; group working only a stated skill outcome, not a team project.",
+   "source_url": "https://www.durham.ac.uk/study/modules/undergraduate/chem4375.php",
+   "status_note": ""
+  },
+  {
+   "name": "ANTH49960 Vocational Dissertation",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Project with a private/voluntary/public partner producing a consultancy-style report, but individual.",
+   "source_url": "https://www.durham.ac.uk/study/modules/postgraduate/anth49960.php",
+   "status_note": ""
+  },
+  {
+   "name": "Maths and Statistics Internship Project (G111/G114)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Third-party-supplied statistics/ML problem option; individual or group status and delivery not evidenced.",
+   "source_url": "https://www.durham.ac.uk/study/courses/mathematics-and-statistics-g114/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc projects with industry partners (MISCADA G5T509 etc.; Advanced Computer Science G5T609)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Dissertation-style projects, optionally in cooperation or co-supervision with industry; individual.",
+   "source_url": "https://www.durham.ac.uk/study/courses/g5t509/",
+   "status_note": ""
+  },
+  {
+   "name": "Engineering final-year MEng/BEng project (ENGI4093 etc.)",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual project; topics drawn from academics and industrial partners.",
+   "source_url": "https://www.durham.ac.uk/departments/academic/engineering/undergraduate-study/courses/3rd-year-onwards/",
+   "status_note": ""
+  },
+  {
+   "name": "Engineering Industrial Partnership Committee capstone/design briefs",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Committee says partners can work with students on capstone projects and design briefs; no specific module or cohort evidenced.",
+   "source_url": "https://www.durham.ac.uk/departments/academic/engineering/research/partnership/committee/",
+   "status_note": ""
+  },
+  {
+   "name": "COMP3421 Computer Science into Schools / ENGI4321 Engineering into Schools / Physics into Schools",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Teams plan and deliver school visit days; schools are the recipients (outreach teaching), not commissioning employers; ENGI4321 not available 2025/26.",
+   "source_url": "https://www.durham.ac.uk/study/modules/undergraduate/comp3421.php",
+   "status_note": ""
+  },
+  {
+   "name": "Durham Computer Science hackathons / ClusDur Student Cluster Competition",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Industry-supported hackathons and company-written competition challenges; no evidence of an organisation-specific client output or university-run scheme.",
+   "source_url": "https://www.durham.ac.uk/departments/academic/computer-science/undergraduate/employability/",
+   "status_note": ""
+  },
+  {
+   "name": "Blueprint Challenge / Game Changer",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Enterprise competitions; Game Changer is SDG-themed and not company-set.",
+   "source_url": "https://www.durham.ac.uk/study/careers-employability-enterprise/our-services/start-new-ventures/innovate/game-changer/",
+   "status_note": ""
+  },
+  {
+   "name": "180 Degrees Consulting Durham",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Student-led consultancy for charities and social enterprises (founded 2018) that separated from the Students' Union and became a Community Interest Company; evidenced only on a third-party site, so not a university-run scheme.",
+   "source_url": "https://180dc.org/branches/durham-university",
+   "status_note": "Possible extracurricular live-client route but independent of the university."
+  },
+  {
+   "name": "Durham Law School Pro Bono Society/team",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Student-led pro bono and fundraising activity; no clinic module with real clients evidenced.",
+   "source_url": "https://www.durham.ac.uk/departments/academic/law/news-and-events/news/2025/04/durham-law-schools-pro-bono-team/",
+   "status_note": ""
+  },
+  {
+   "name": "SOCI43715 Participatory Action Research; SOCI2301 Communities and Social Justice; SOCI2252 Research Methods in Action",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "PAR module has students co-design a PAR project in groups (available 2025/26) but community partner involvement not evidenced (search limit reached before checking); SOCI2301/SOCI2252 group work has no external organisation.",
+   "source_url": "https://www.durham.ac.uk/study/modules/postgraduate/soci43715.php",
+   "status_note": "Lead for follow-up."
+  },
+  {
+   "name": "Liberal Arts 'Arts and Humanities in the Workplace'; CSA3986 placement module",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Workplace/placement modules; no group client project described.",
+   "source_url": "https://www.durham.ac.uk/study/courses/liberal-arts-la01/",
+   "status_note": ""
+  },
+  {
+   "name": "Geography fieldwork group projects (GEOG3701, GEOG3491 etc.)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group research projects based on fieldwork; no external organisation sets the brief.",
+   "source_url": "https://www.durham.ac.uk/study/modules/undergraduate/geog3701.php",
+   "status_note": ""
+  },
+  {
+   "name": "Biology and Chemistry interdisciplinary science enterprise module",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Groups write a business plan to bid for research funding; no client brief.",
+   "source_url": "https://www.durham.ac.uk/study/courses/biology-and-chemistry-cf11/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Durham's verified employer-linked group project provision is **distributed across departments rather than institution-wide**, with a small central employer-facing offer. The clearest current routes are two curricular modules: **COMP2281 Software Engineering** (compulsory Year 2 Computer Science teams build a substantial software project in partnership with an external organisation; listed available 2025/26) and **GEOL4091 Earth Sciences into Industry** (optional Level 4 group project in which a client, typically an external organisation, sets the problem and deliverables and receives the groups' presented solution; 60% group report, listed 2025/26).\n\nThe **Physics Team Project (PHYS3581)** fits closely (teams of up to six, 8 weeks, client brief, presentation to clients such as Procter & Gamble and Mantis Vacuum Systems) but problems are set by 'staff or local industry', so the external share is unproven. The central **Mini Consultancy Competition** (three-week, employer-set issue, three student teams) is documented only on an employer page, with no student eligibility or dated cohort. Engineering's pair-based **Industrial Problem Solving** live company project is only evidenced to 2019; the year-long Engineering Design team project has industry-professional input but no evidenced client brief. Business School client projects (MBA Strategic Consulting Project, MSc Management Business Project) are mainly individual; MSc Business Analytics projects use client data but their team status is unclear.\n\nNo university-wide or compulsory-for-all route was found. Remaining uncertainty: eligibility and currency of the central scheme, arts/social science/health applied projects (search limit reached), and how external clients are used in the Physics and Computer Science projects.",
+ "gaps": "Search limit reached before checking Participatory Action Research (SOCI43715) and further arts/social science, education, health and law clinic provision. Further departmental instances likely (Engineering design/capstone with Industrial Partnership Committee partners, Biosciences, Psychology, Education). Central Mini Consultancy Competition lacks student-side eligibility, date and cohort evidence. Many sources are undated module/course pages or search-summary paraphrases of them; page contents were not opened directly."
+}

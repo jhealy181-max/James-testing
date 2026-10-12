@@ -1,0 +1,1393 @@
+{
+ "inst_id": "RG02",
+ "institution": "Bristol",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Bristol student consultancy live client project team",
+    "Bristol Futures open units employer project group client",
+    "Bristol Careers City Challenges students teams organisation challenge",
+    "Bristol Futures community engagement students projects community partners employers",
+    "Professional Liaison Network live briefs group consultancy",
+    "Student Placements and Projects PLN"
+   ],
+   "key_sources": [
+    "https://www.bristol.ac.uk/bristol-futures/open-units/",
+    "https://universityofbristolcareers.blogs.bristol.ac.uk/2025/02/05/city-challenge-with-not-impossible/",
+    "https://www.bristol.ac.uk/arts-law-social-sciences/partnerships/professional-liaison-network/"
+   ],
+   "finding": "No university-wide compulsory or credit-bearing employer project scheme found. Central routes are Careers Service City Challenges (one-afternoon charity challenges, extracurricular) and the faculty-level PLN; Bristol Futures Open Units are a breadth framework."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Bristol Business School Micro Internship virtual consultant team",
+    "Management Consultancy unit EFIM30064 2025/26",
+    "in-curriculum employer project units MSc",
+    "MSc Business Analytics Consulting Project",
+    "MSc Business Innovation and Entrepreneurship live commercial brief",
+    "Marketing Applied Extended Project MGRCM0040",
+    "MSc Marketing applied industry project",
+    "MSc Data Science for Business Applied Research Project",
+    "Business Analytics Consulting Project EFIMM0144"
+   ],
+   "key_sources": [
+    "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=EFIM30064&ayrCode=25/26&orgCode=BUSI",
+    "https://www.bristol.ac.uk/business-school/careers-and-employability/micro-internship-programme/",
+    "https://www.bristol.ac.uk/study/postgraduate/taught/msc-marketing/"
+   ],
+   "finding": "Most developed area: a final-year charity-client consultancy unit, an extracurricular 200-place micro-internship, and several MSc team projects with partners (Marketing AEP, Business Analytics, BIE, Data Science for Business), several with weak dated evidence."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Bristol Industrial Liaison Office software projects Summer Team Project",
+    "Undergraduate software engineering projects COMS20006",
+    "ILO Industry Projects engineering design",
+    "Civil Engineering design projects ILO",
+    "MSc Data Science and Fintech with Data Science projects",
+    "Data Science Mini-Project EMATM0050",
+    "Engineering Mathematics Mathematical Modelling industrial partners",
+    "Design Engineering group design project industrial partner",
+    "MEng Engineering Design year four industrial partner",
+    "Bristol computer science software engineering project 2025 client"
+   ],
+   "key_sources": [
+    "https://www.bristol.ac.uk/science-engineering/ilo/industry/software-projects/",
+    "https://www.bristol.ac.uk/science-engineering/ilo/industry/industry-projects/",
+    "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=26/27&unitCode=SEMT30005"
+   ],
+   "finding": "The Industrial Liaison Office brokers client briefs into undergraduate and MSc software team projects, civil engineering MEng design projects, Engineering Maths modelling projects and MSc Data Science. Dated evidence is strongest for SEMT30005 (2026/27), CENGM0062 and EMATM0050 (2025/26)."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Geographical Sciences Consultancy Project GEOGM0029",
+    "GEOGM0072 Policy and Management Consultancy",
+    "Earth Sciences/Physics/Chemistry/Maths industry project unit",
+    "Partner Placement Project PHYSM0067"
+   ],
+   "key_sources": [
+    "https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=E18CC10B387E8540EAE6E4B6C6AF33A8?ayrCode=37/38&unitCode=GEOGM0029",
+    "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25/26&unitCode=PHYSM0067"
+   ],
+   "finding": "Geographical Sciences consultancy units exist (3-5 student teams with external clients) but current delivery unverified; Physics placement is individual; no client-brief units found in Chemistry, Earth Sciences or Mathematics."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Professional Liaison Network live briefs units students group",
+    "Bristol unit catalogue 2025/26 group project partner organisation social sciences/education/languages/history",
+    "Bristol arts humanities live project external client translation/heritage/museum/theatre/film"
+   ],
+   "key_sources": [
+    "https://www.bristol.ac.uk/arts-law-social-sciences/partnerships/professional-liaison-network/",
+    "https://www.bristol.ac.uk/fssl/professional-liaison-network/undergraduate-students/student-placements-and-projects/"
+   ],
+   "finding": "Faculty PLN offers live briefs and group consultancy to organisations, but no humanities or social-science unit with a documented live client team brief was found; Management Consultancy sits in the Business School."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Bristol Law School clinic pro bono students team external organisation",
+    "Human Rights Law Clinic Bristol student-led teams partner organisation"
+   ],
+   "key_sources": [
+    "https://www.bristol.ac.uk/law/careers-and-employability/human-rights-law-clinic/",
+    "https://www.bristol.ac.uk/law/law-clinic/"
+   ],
+   "finding": "Human Rights Law Clinic provides selective extracurricular team research for partner organisations. Medicine, Health, Veterinary, Dentistry and Architecture/Arts not specifically found in searches (no results returned)."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Software Engineering Project (undergraduate Computer Science client projects)",
+   "english_name": "Software Engineering Project (COMS20006)",
+   "module_code": "COMS20006",
+   "description": "Second-year Computer Science undergraduates work in groups of about four to six on a software problem for a real-world client over 22 weeks (October to May), run 'as a software consultancy'. Teams use an agile method, meet the client every two to three weeks, and release a prototype/MVP, beta and final release to the client. Proposals come from companies via the Industrial Liaison Office.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer Science / Industrial Liaison Office, Faculty of Science and Engineering",
+   "eligible_faculties_programmes": "Undergraduate Computer Science programmes (second year)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Not evidenced beyond Computer Science undergraduates.",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; 100% coursework, assessed in groups (catalogue entry carries an unreliable year label, '2036/37').",
+   "duration": "22 weeks (Oct-May), ~6 hours/student/week",
+   "delivery_format": "In-person team project with regular client meetings",
+   "project_based": "Yes",
+   "project_evidence": "Teams specify, design, implement and evaluate a software system with MVP, beta and final release milestones (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "'Each group contains approximately six students' (one page) / 'approximately four' (other pages); assessment is in groups (sources 1-3).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Students work as a group on a problem for a real-world client'; clients propose the brief, give student effort free of charge and must meet the team every two to three weeks (sources 1, 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client supplies brief and meets team regularly for feedback; pages are addressed to companies with a 'software need'. Whether some clients are internal/academic is not stated.",
+   "named_partners": "",
+   "deliverable": "Working software prototype/system delivered to the client",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 or 2026/27 source for this unit (the only catalogue hit is labelled 2036/37, an obvious placeholder). Group size conflicts (4 vs 6). Compulsory/optional status and programme list not confirmed. A BSc Computer Science with AI 2026-entry page mentions an AI software team project for a real client with an industrial mentor; not confirmed as the same unit.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/science-engineering/ilo/industry/software-projects/undergraduate-software-engineering-projects/",
+     "title": "Undergraduate software engineering projects",
+     "section": "Industry software projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Teams work for 22 weeks from the beginning of October until May; ~6 hours per student per week; client meets teams every two to three weeks for about an hour.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/engineering/departments/computerscience/student-projects/undergraduate-software-engineering-projects/",
+     "title": "Undergraduate software engineering projects (Computer Science)",
+     "section": "Student projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'In the second year ... our students work as a group on a problem for a real-world client. The project is run as a software consultancy for real-world clients.' Milestones: MVP mid-December, beta end of February, final release and viva early May.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=36/37&unitCode=COMS20006",
+     "title": "Unit information: Software Engineering Project",
+     "section": "Unit catalogue (labelled 2036/37)",
+     "pub_year": "labelled 2036/37 (unreliable)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "20 credits; Teaching Block 4; 100% coursework completed in groups; aim to specify, design, implement and evaluate a large-scale software system.",
+     "supports": [
+      "credit",
+      "group"
+     ]
+    }
+   ],
+   "local_id": "S1"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Summer Team Project (Computer Science)",
+   "english_name": "MSc Summer Team Project",
+   "module_code": "",
+   "description": "Summer project expected of all MSc Computer Science students: teams of typically 4-6 build a prototype system or application for an industry client who proposes the brief, with a Project Advisor guiding academic standards and the client meeting the team regularly.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer Science / Industrial Liaison Office",
+   "eligible_faculties_programmes": "MSc Computer Science",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Summer term after taught units",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Summer (project work after teaching; proposals submitted July-December)",
+   "delivery_format": "Team project with regular client meetings",
+   "project_based": "Yes",
+   "project_evidence": "'Teams of typically 4-6 students build a prototype system or application' (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of typically 4-6 students; 'advanced group project' (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client submits a brief (description, motivation, constraints, IP), contributes no fee but must meet student teams every two to three weeks to review progress and steer (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client supplies brief and steers work through regular meetings.",
+   "named_partners": "",
+   "deliverable": "Prototype system/application",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Page undated; no dated 2025/26 or 2026/27 corroboration. Credit value and assessment not retrieved. Whether academic/internal projects also feature is not stated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/science-engineering/ilo/industry/software-projects/msc-summer-team-project/",
+     "title": "MSc Summer Team Project",
+     "section": "ILO software projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "The expected summer project unit for all students taking the MSc in Computer Science; teams typically 4-6 students; client expected to meet teams frequently; proposals submitted between July and December.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "reach"
+     ]
+    }
+   ],
+   "local_id": "S2"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Mathematical and Data Modelling 3",
+   "english_name": "Mathematical and Data Modelling 3 (Engineering Mathematics industrial modelling projects)",
+   "module_code": "SEMT30005",
+   "description": "Third-year unit in which students work in groups of 4-6 on three six-week real-world modelling problems; two group projects are supplied by industrial partners and the third is a student-led project on a societal challenge. Each group has academic supervision and a teaching assistant. Companies submit problems via the Industrial Liaison Office and can expect a working prototype or concept.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering Mathematics and Technology",
+   "eligible_faculties_programmes": "Engineering Mathematics programmes (third year)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credits/assessment not retrieved",
+   "duration": "3 x 6-week problems (two industry-supplied)",
+   "delivery_format": "Group projects with academic supervision and TA",
+   "project_based": "Yes",
+   "project_evidence": "Students 'work in groups to solve three real-world problems, each ... a total of 6 weeks' (source 1); prototype or concept expected (source 2).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of 4-6 students (source 1); ILO page: about 5 students per project-problem (source 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Two group projects will be supplied by industrial partners' (source 1); partners propose open-ended problems via the ILO (source 2). The third project is student-led and not industry-set.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industrial partners supply the problems for two of the three group projects; engagement in feedback not detailed.",
+   "named_partners": "Not named in extracts",
+   "deliverable": "Working prototype or concept/model per problem",
+   "duration_band": "1-4 weeks to ~1 term (3 x 6-week projects)",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Compulsory/optional status, credit value and exact programmes not retrieved. Partner names not evidenced. Industrial/external share applies to 2 of 3 projects.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=26/27&unitCode=SEMT30005",
+     "title": "Unit information: Mathematical and Data Modelling 3",
+     "section": "Unit catalogue 2026/27",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students will work in groups to solve three real-world problems, each of which lasts a total of 6 weeks. Two group projects will be supplied by industrial partners. Groups of 4-6.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/science-engineering/ilo/industry/industry-projects/",
+     "title": "Industry Projects",
+     "section": "ILO industry projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Mathematical modelling unit: each project-problem has about 5 students working for about 6 weeks on problems proposed by industrial partners and research collaborators; working prototype or concept expected.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S3"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Design Project (Civil Engineering) / Civil Engineering Design Projects with external clients",
+   "english_name": "Civil Engineering Design Project",
+   "module_code": "CENGM0062",
+   "description": "MEng capstone group design project developing a RIBA stage 1-2 design from a brief supplied by industry or by an academic. The ILO invites external clients (e.g. consultancies) to submit briefs; clients meet students at least twice a year, give feedback at a December poster session and are not involved in marking.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Civil, Aerospace and Design Engineering / ILO",
+   "eligible_faculties_programmes": "MEng Civil Engineering (final year)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4 (MEng)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits, Teaching Block 4 (source 1)",
+   "duration": "Academic year (TB4 unit; client selection early October, poster session December)",
+   "delivery_format": "Group design project with supervisor and optional industrial advisor",
+   "project_based": "Yes",
+   "project_evidence": "Develop a RIBA stage 2 project from a basic brief; capstone integrating prior learning (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "ILO page: 'group projects' on real design briefs (source 2); unit assessment includes group final report (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Briefs come 'from industry or from an academic' (source 1); only 'some projects have industrial advisors'; ILO page invites external client briefs and says clients meet students at least twice a year (source 2). External share not specified.",
+   "partner_type": "Mixed",
+   "partner_role": "External client proposes brief, meets students and comments at poster session; internal academic-set briefs also used.",
+   "named_partners": "Arcadis pitched a Holyhead train-care facility brief to an earlier 4th-year group (blog, ~2023); no 2025/26 clients evidenced.",
+   "deliverable": "Group design report and poster",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Share of projects with external clients in 2025/26 not published; C therefore Unclear. ILO brief dates are undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25/26&unitCode=CENGM0062",
+     "title": "Unit information: Design Project",
+     "section": "Unit catalogue 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "40 credits, TB4; develop a RIBA stage 2 project from a basic brief supplied by industry or by an academic; some projects have industrial advisors who volunteer their time.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/science-engineering/ilo/industry/industry-projects/civil-engineering-design-projects/",
+     "title": "Civil Engineering Design Projects",
+     "section": "ILO industry projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Master-level students work in groups on real design briefs from external clients, ideally RIBA stage 1 or 2; clients meet students at least twice a year; not involved in marking; briefs by mid-September, selection early October, December poster session.",
+     "supports": [
+      "group",
+      "employer",
+      "project"
+     ]
+    }
+   ],
+   "local_id": "S4"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Data Science Mini-Project",
+   "english_name": "Data Science Mini-Project (MSc Data Science)",
+   "module_code": "EMATM0050",
+   "description": "Small teams build a data science application or proof-of-concept specified by a problem-owner. Whenever possible the application meets the needs of an external client (e.g. an industrial partner) or problem-owners elsewhere in the University. Assessed by group presentation, group report with code, and individual reflection.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering Mathematics and Technology",
+   "eligible_faculties_programmes": "MSc Data Science (on-campus cohort)",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Masters",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, TB2; group presentation 20%, group report 60%, individual reflective account 20% (2025/26)",
+   "duration": "Teaching Block 2 (weeks 13-24)",
+   "delivery_format": "Team project with problem-owner and review panel",
+   "project_based": "Yes",
+   "project_evidence": "Teams produce a data science application/proof-of-concept and written report (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Group oral presentation and group written report; peer moderation (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Whenever possible' the application meets an external client's needs (e.g. industrial partner) or 'problem-owners elsewhere in the University' (source 1) - external clients not documented as standard.",
+   "partner_type": "Mixed",
+   "partner_role": "Problem-owner specifies project; may be external or internal.",
+   "named_partners": "",
+   "deliverable": "Proof-of-concept application, group report with code, presentation",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Proportion of projects with external clients not published. Compulsory status inferred from programme structure listing only partly; confirm.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25/26&unitCode=EMATM0050",
+     "title": "Unit information: Data Science Mini-Project",
+     "section": "Unit catalogue 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students work in small teams ... Whenever possible, the application will be created to meet the needs of an external client, e.g. in an industrial partner, or problem-owners elsewhere in the University. Group presentation 20%, group report 60%, individual reflection 20%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=26/27&unitCode=EMATM0050",
+     "title": "Unit information: Data Science Mini-Project",
+     "section": "Unit catalogue 2026/27",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in a team to jointly produce team deliverables; external client wording repeated.",
+     "supports": [
+      "status",
+      "group"
+     ]
+    }
+   ],
+   "local_id": "S5"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Management Consultancy",
+   "english_name": "Management Consultancy (final-year group consultancy project)",
+   "module_code": "EFIM30064",
+   "description": "Final-year Business School unit: groups of 4-6 receive a consultancy research brief from an outside organisation (mostly local charities and not-for-profits), analyse it, propose objectives and deliver a 7,000-word group report plus individual reflection.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bristol University Business School (Faculty of Arts, Law and Social Sciences)",
+   "eligible_faculties_programmes": "Optional final-year unit (prerequisite Management Research Methods EFIM20025)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "Prerequisite EFIM20025 Management Research Methods.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, TB2 (Feb-May); group report 50% (7,000 words + 600-word reflection each), individual essay 50%",
+   "duration": "11 weeks (TB2)",
+   "delivery_format": "Small-group consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Group consultancy project analysing a client brief and producing a 7,000-word report (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Groups normally have 4 to 6 members'; group project report is 50% (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Small group consultancy project based on briefs from outside organisations/clients in the not-for-profit sectors'; briefs 'mostly from outside organisations such as local charities' (source 1). Clients' role in feedback/assessment not stated.",
+   "partner_type": "Charity/community",
+   "partner_role": "Supplies consultancy brief (client).",
+   "named_partners": "",
+   "deliverable": "Consultancy group report and presentation",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "'Mostly' leaves open a minority of non-external briefs. Named clients not evidenced. Number of students not published.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=EFIM30064&ayrCode=25/26&orgCode=BUSI",
+     "title": "Unit and programme catalogues: Management Consultancy",
+     "section": "Unit catalogue 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "20 credit points, Teaching Block 2; small group consultancy project based on briefs from outside organisations/clients in the not-for-profit sectors; groups normally 4 to 6; group report 7,000 words (50%).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/fssl/professional-liaison-network/undergraduate-students/student-placements-and-projects/",
+     "title": "Student Placements and Projects",
+     "section": "PLN",
+     "pub_year": "2020/21 (older)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Management Consultancy is an optional unit open to third-year students; groups are allocated a consultancy research brief, mostly from outside organisations such as local charities.",
+     "supports": [
+      "participation",
+      "reach"
+     ]
+    }
+   ],
+   "local_id": "S6"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business School Micro-Internship programme",
+   "english_name": "Business School Micro-Internship",
+   "module_code": "",
+   "description": "Three-week, 50-hour industry project for Business School Masters students: assigned (random) teams work as a virtual student consultant team for an industry client (often start-up or SME) on one of five themes (growth strategy, digital marketing, funding strategy, sustainable impact, AI), coached by a volunteer mentor with 3+ years' experience, and present a report and final presentation. 200 places.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Bristol University Business School",
+   "eligible_faculties_programmes": "Business School Masters students; priority to those not completing an in-curriculum employer project",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Masters",
+   "eligibility_restrictions": "Business School Masters only; compulsory in-person launch.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit; certificate on completion; unpaid",
+   "duration": "3 weeks, 50 hours",
+   "delivery_format": "Virtual team consultancy with in-person launch",
+   "project_based": "Yes",
+   "project_evidence": "Team delivers report and final presentation on client brief (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams assigned at random; 'virtual student consultant team' (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry client (UK or international organisation, often start-up/SME) sets brief and receives findings (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client supplies brief and receives report/presentation; separate mentor coaches.",
+   "named_partners": "",
+   "deliverable": "Client report and final presentation",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "200 Masters places per year (2025 programme document)",
+   "unresolved": "Official pages give no 2025/26 dates; a Nov 2025 student post says 2025/6 runs February-March. Named clients not evidenced.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/business-school/careers-and-employability/micro-internship-programme/",
+     "title": "Micro-internship programme",
+     "section": "Business School careers",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Three-week, 50-hour project; Masters students join a virtual consultant team and work for an industry client; report and final presentation; priority to students not completing an in-curriculum employer project.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/media-library/sites/business-school/documents/business-school-micro-internship-2025.pdf",
+     "title": "University of Bristol Business School Micro Internship",
+     "section": "Programme PDF",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Offering 200 Masters students a 3-week authentic industry project as a virtual consultant team; teams assigned at random; 50 hours.",
+     "supports": [
+      "group",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://universityofbristolcareers.blogs.bristol.ac.uk/2025/11/11/from-strategy-to-sustainability-my-experience-with-the-business-school-micro-internship/",
+     "title": "From Strategy to Sustainability: My Experience with the Business School Micro-Internship",
+     "section": "Careers blog",
+     "pub_year": "2025-11-11",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student account stating the 2025/6 programme runs in February and March.",
+     "supports": [
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S7"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Analytics Consulting Project (MSc Business Analytics)",
+   "english_name": "Business Analytics Consulting Project",
+   "module_code": "EFIMM0144",
+   "description": "Mandatory MSc Business Analytics team project in which students work with real organisations on business problems using data-driven methods, ending in a consultancy report and boardroom presentation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bristol University Business School",
+   "eligible_faculties_programmes": "MSc Business Analytics",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Masters",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, TB2 (per a catalogue structure labelled 2031/32 - indicative)",
+   "duration": "Teaching Block 2",
+   "delivery_format": "Team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy report and boardroom presentation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'A team project solves a real-world organisational problem' (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Programme page says students work with real organisations; a 2022 school blog says 'where possible' with private, charity and public-sector organisations (source 2) - not documented as standard.",
+   "partner_type": "Mixed",
+   "partner_role": "Real organisation supplies the problem; details of feedback not retrieved.",
+   "named_partners": "Programme developed with IBM, LV and UCL/IBM Industry Exchange Network (2022 blog); no project clients named.",
+   "deliverable": "Consultancy report and boardroom presentation",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Could not retrieve a genuine 2025/26 or 2026/27 unit entry; unit directors listed on staff pages (undated). Extent of external clients unclear.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-business-analytics/",
+     "title": "MSc Business Analytics",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The Business Analytics Consulting Project has students work with real organisations, ending in a consultancy report and boardroom presentation; a team project solving a real-world organisational problem.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://businessschool.blogs.bristol.ac.uk/2022/11/24/why-study-a-masters-degree-in-business-analytics/",
+     "title": "Why study a master's degree in Business Analytics?",
+     "section": "Business School blog",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students can consult on real projects, where possible, in partnership with private, charity and public sector organisations; programme created with IBM, LV and UCL/IBM Industry Exchange Network.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S8"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Business Innovation and Entrepreneurship - Term 2 management-consultant live brief option",
+   "english_name": "MSc BIE Term 2 live commercial brief",
+   "module_code": "",
+   "description": "In Term 2 students choose between acting as a management consultant for a real-world industry partner on a live commercial brief, or founding a proposal for an internal venture/spin-out with their team.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bristol University Business School / Centre for Innovation and Entrepreneurship",
+   "eligible_faculties_programmes": "MSc Business Innovation and Entrepreneurship",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Masters",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Teaching Block 2 (Term 2)",
+   "delivery_format": "Consulting option for industry partner",
+   "project_based": "Yes",
+   "project_evidence": "Live commercial brief solved for an industry partner (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Programme is 'built around teamwork'; 'your team' is stated for the founder option, but the consultant option's team structure is not stated (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Working for a real-world industry partner to solve a live commercial brief'; Centre says industry partners set live challenges (sources 1, 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partner sets live commercial brief.",
+   "named_partners": "",
+   "deliverable": "Not specified (consultancy output)",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Group vs individual for the consulting option, deliverable, credits, and dated delivery evidence not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-business-innovation-and-entrepreneurship/",
+     "title": "MSc Business Innovation and Entrepreneurship",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In the second teaching block ... act as a management consultant, working for a real-world industry partner to solve a live commercial brief; or build a proposal for a new internal venture or spin-out with your team.",
+     "supports": [
+      "project",
+      "employer",
+      "group"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/innovation/postgrad-masters/",
+     "title": "Postgraduate Masters",
+     "section": "Centre for Innovation and Entrepreneurship",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Throughout the programme students work in collaboration with a wide range of industry partners who set live challenges.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S9"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The Marketing Applied Extended Project (AEP) - applied group route (MSc Marketing)",
+   "english_name": "Marketing Applied Extended Project",
+   "module_code": "MGRCM0040",
+   "description": "60-credit MSc Marketing final project; applied route: students apply for briefs identified by the unit team with commercial and third-sector partners external to the School, working in a small group on a real organisational challenge. Partners brief and guide; proposal (10%) and group report/presentation (50%) are group-assessed, with an individual reflective account (40%) and peer assessment.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bristol University Business School",
+   "eligible_faculties_programmes": "MSc Marketing (not open to other students)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Masters",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60 credits; group proposal 10%, group report/presentation 50%, individual reflection 40%",
+   "duration": "Summer project (dissertation period)",
+   "delivery_format": "Small-group applied project with partner organisation",
+   "project_based": "Yes",
+   "project_evidence": "Group report and presentation on partner brief (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Applied route is 'a small group on a real organisational challenge'; group components must be passed; the theoretical alternative is separate (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Working with a range of organisational partners (commercial, third-sector, social etc) external to the School ... project briefs'; partners brief and guide students (source 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Partner sets brief and guides students.",
+   "named_partners": "",
+   "deliverable": "Group report and presentation to partner",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Catalogue entry year labels (2030/31, 2033/34) are unreliable; delivery corroborated only by the MSc Marketing page for September 2026 entry. The page says 'if applicable', so availability of applied route per cohort uncertain. No named partners.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=33/34&unitCode=MGRCM0040",
+     "title": "The Marketing Applied Extended Project (AEP)",
+     "section": "Unit catalogue (labelled 2033/34)",
+     "pub_year": "labelled 2033/34 (unreliable)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "60 credits, Level M; unit team identifies project briefs with external partners (commercial, third-sector, social); students apply; proposal 10%, group report and presentation 50%, reflective account 40%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-marketing/",
+     "title": "MSc Marketing",
+     "section": "Programme page, September 2026 entry",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final project: theoretical issue or, if applicable, working in a small group on a real organisational challenge via an applied industry project; start September 2026.",
+     "supports": [
+      "group",
+      "status",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S10"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Data Science for Business - live consulting projects / Applied Research Project",
+   "english_name": "Data Science for Business applied projects",
+   "module_code": "",
+   "description": "Programme offers live consulting projects and an Applied Research Project that integrates industry projects, completed over the summer individually or as part of a team.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bristol University Business School with Engineering Mathematics",
+   "eligible_faculties_programmes": "MSc Data Science for Business",
+   "faculty_areas": [
+    "business",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Applied Research Project and consulting projects (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "'Either individually or as part of a team'; routes not separated (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Many projects developed in collaboration with an external organisation'; industry projects integrated 'particularly in the Applied Research Project' (source 1). A staff profile mentions IBM, Yeo Valley, NHS Bristol (not tied to this route).",
+   "partner_type": "Mixed",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Individual vs team routes, external share, credits and dated delivery all unresolved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-data-science-for-business/",
+     "title": "MSc Data Science for Business",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Live consulting projects; applied research project supervised across both schools; completed individually or as part of a team; industry projects integrated in the Applied Research Project.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S11"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Consultancy Project (Geographical Sciences)",
+   "english_name": "Consultancy Project",
+   "module_code": "GEOGM0029",
+   "description": "Masters unit: unit director collects proposals from external clients; projects allocated to teams of 3-5 students who negotiate terms of reference, research, produce a report and present to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Geographical Sciences",
+   "eligible_faculties_programmes": "Geographical Sciences MSc programmes",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, TB2 (2020/21 listing)",
+   "duration": "Teaching Block 2",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Report and final presentation to clients (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3-5 students allocated by preference (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Unit director collects proposals from external clients; students present to their clients (source 1).",
+   "partner_type": "Unclear",
+   "partner_role": "Client proposes project and receives report/presentation.",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2020/21",
+   "participation_data": "",
+   "unresolved": "Only description is on a catalogue page labelled 2037/38 (unreliable); the unit is absent from the 2025/26 MSc Human Geography listing found. Delivery in 2025/26 not confirmed; may have been replaced by GEOGM0072. Partner sector not stated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=E18CC10B387E8540EAE6E4B6C6AF33A8?ayrCode=37/38&unitCode=GEOGM0029",
+     "title": "Unit and programme catalogues: Consultancy Project",
+     "section": "Unit catalogue (labelled 2037/38)",
+     "pub_year": "labelled 2037/38 (unreliable)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Projects ... allocated to small teams of 3-5 students based upon student preferences; unit director collects proposals from external clients; final presentation to clients.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S12"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Policy and Management Consultancy",
+   "english_name": "Policy and Management Consultancy",
+   "module_code": "GEOGM0072",
+   "description": "Optional 20-credit TB2 Masters unit built around responding to a client brief (problem framing and analysis tools). Group structure and client type not retrieved.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Geographical Sciences",
+   "eligible_faculties_programmes": "MSc Human Geography: Society and Space (listed optional 2025/26)",
+   "faculty_areas": [
+    "science",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, TB2",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "Objectives refer to 'a client brief' (source 1, year-labelled 2037/38).",
+   "group_working": "Unclear",
+   "group_evidence": "Not retrieved. The MSc Environmental Policy and Management page refers to an 'extended team-based project' for partner organisations without naming the unit.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Client mentioned but not identified as external.",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025/26 (listing only)",
+   "participation_data": "",
+   "unresolved": "Need actual unit description: team vs individual, external client identity.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=49E128739070920F652D8E9095FF43F9?ayrCode=37/38&unitCode=GEOGM0072",
+     "title": "Unit information: Policy and Management Consultancy",
+     "section": "Unit catalogue (labelled 2037/38)",
+     "pub_year": "labelled 2037/38 (unreliable)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Objectives include developing tools for problem framing and analysis in response to a client brief.",
+     "supports": [
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://upc.bristol.ac.uk/unit-programme-catalogue/RouteStructure.jsa?ayrCode=25/26&byCohort=N&programmeCode=9GEOG005T",
+     "title": "Human Geography: Society and Space (MSc) - structure 2025/26",
+     "section": "Programme structure",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "GEOGM0072 listed: 20 credit points, Optional, TB-2.",
+     "supports": [
+      "status",
+      "participation",
+      "credit"
+     ]
+    }
+   ],
+   "local_id": "S13"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Professional Liaison Network - live briefs and group consultancy",
+   "english_name": "PLN live briefs / group consultancy",
+   "module_code": "",
+   "description": "Partner-facing offer from the Faculty of Arts, Law and Social Sciences: 'live briefs' give organisations a large group of students to work on a challenge; 'group consultancy' gives a small team consulting on an organisational challenge. PLN also lists projects (4-5 months, individual or group depending on programme) and unpaid 80-hour placements.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Arts, Law and Social Sciences - Professional Liaison Network",
+   "eligible_faculties_programmes": "Faculty of Arts, Law and Social Sciences students (projects open to UG and PG across faculty)",
+   "faculty_areas": [
+    "business",
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "Challenge-based but outputs and bounded brief not described (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'A large group of students' (live briefs); 'a small team of students' (group consultancy) (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisation brings the challenge and works with the students (source 1); a 2024 blog describes a PLN project with Transform Drug Policy Foundation (source 2).",
+   "partner_type": "Mixed",
+   "partner_role": "Organisation supplies challenge; details of feedback/assessment not retrieved.",
+   "named_partners": "Transform Drug Policy Foundation; Bristol Energy Network (blog posts 2024)",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024",
+   "participation_data": "",
+   "unresolved": "Whether live briefs are credit-bearing, which units deliver them, timing, volume and recent cohorts not found. May overlap with S6 (Management Consultancy) and other unit-based routes.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/arts-law-social-sciences/partnerships/professional-liaison-network/",
+     "title": "Professional Liaison Network",
+     "section": "PLN overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Live briefs: get access to a large group of students to work on a challenge your organisation is facing. Group consultancy: a small team of students consults with you on an organisational challenge.",
+     "supports": [
+      "group",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://businessschool.blogs.bristol.ac.uk/2024/02/23/empowering-communities-the-professional-liaison-network-collaborates-with-bristol-energy-network/",
+     "title": "Empowering Communities: The PLN Collaborates with Bristol Energy Network",
+     "section": "Business School blog",
+     "pub_year": "2024-02-23",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "PLN collaboration with Bristol Energy Network (and a Transform Drug Policy Foundation project in a related post).",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S14"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "City Challenges (Careers Service)",
+   "english_name": "City Challenges",
+   "module_code": "",
+   "description": "Afternoon challenge events in which small student teams tackle a brief set by a local charity or social enterprise and pitch ideas back to the host organisation (min 3.5 hours towards the Bristol PLUS Award).",
+   "academic_reach": "Unclear",
+   "admin_host": "Careers Service / Bristol Futures",
+   "eligible_faculties_programmes": "Not stated",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit; counts towards Bristol PLUS Award",
+   "duration": "One afternoon (3.5+ hours)",
+   "delivery_format": "In-person afternoon challenge, pitch to host",
+   "project_based": "Yes",
+   "project_evidence": "Teams work a charity-set problem and present ideas to the charity (source 1) - very short.",
+   "group_working": "Yes",
+   "group_evidence": "Small student teams (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host charity/social enterprise introduces the question and receives the pitches (source 1).",
+   "partner_type": "Charity/community",
+   "partner_role": "Sets challenge and receives pitches.",
+   "named_partners": "Past hosts: Brigstowe, Talk Club, St Werburgh's City Farm, Square Food Foundation, SolidariTee, The MoSAIC, Not Impossible, 91 Ways, Changes Bristol, Streams Learning Hub (Careers blog, 2022-2025)",
+   "deliverable": "Pitched ideas to host organisation",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (Feb 2025 blog)",
+   "participation_data": "",
+   "unresolved": "No 2025/26 or 2026/27 event evidenced; eligibility (university-wide?) not stated; substantiveness doubtful given one-afternoon format.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://universityofbristolcareers.blogs.bristol.ac.uk/2025/02/05/city-challenge-with-not-impossible/",
+     "title": "City Challenge with Not Impossible",
+     "section": "Careers blog",
+     "pub_year": "2025-02-05",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams tackle a real problem for a local charity or social enterprise in one afternoon and present ideas to the host; counts 3.5 hours towards Bristol PLUS Award.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S15"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Human Rights Law Clinic (Human Rights Implementation Centre)",
+   "english_name": "Human Rights Law Clinic",
+   "module_code": "",
+   "description": "About seventy Law students appointed each year into student-led teams that conduct research meeting partner organisations' project briefs, with a student team leader liaising with partners; teams produce reports by the end of the year used in litigation and policy drafting.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Bristol Law School, Human Rights Implementation Centre",
+   "eligible_faculties_programmes": "Law School students (UG year 2+ and PG) who have taken or are taking a human rights/international law module",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "UG year 2 onwards, PG",
+   "eligibility_restrictions": "Registered in the Law School; application with personal statement (2025/26 deadline 15 Nov 2025).",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not credit-bearing as stated",
+   "duration": "Academic year",
+   "delivery_format": "Student-led teams working to partner briefs",
+   "project_based": "Yes",
+   "project_evidence": "Comprehensive legal research meeting partner project briefs; report by end of year (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in teams'; student team leaders (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners set initial project briefs and receive reports feeding ongoing litigation/policy drafting (source 1).",
+   "partner_type": "Unclear",
+   "partner_role": "Partner organisations set project brief and receive research report.",
+   "named_partners": "Past project topics: legal gender recognition, Libya litigation support, flag state research, torture prevention (partners not named in extract)",
+   "deliverable": "Legal research report for partner",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "About 70 members appointed each year (undated clinic page)",
+   "unresolved": "Partner sector (NGO/charity/public) not specified in extract; 2025/26 partner list not retrieved; no credit.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/law/careers-and-employability/human-rights-law-clinic/",
+     "title": "Human Rights Law Clinic",
+     "section": "Law Careers and Employability",
+     "pub_year": "applications for 2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Teams conduct research that meets the requirements set out by the partners in their initial project briefs; team leader liaises with partners; ~70 members appointed per year; Undergraduate (Year 2+) or Postgraduate Law students; applications by 5pm 15 November 2025.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "participation",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S16"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Design Engineering / Engineering Design - industry group design projects",
+   "english_name": "Design Engineering group design project with industry",
+   "module_code": "",
+   "description": "Degree pages state a group-based design project in partnership with industry is a major component of the penultimate or final year (BEng/MEng Design Engineering); MEng Engineering Design years four-five projects are 'conducted with one of our industrial partners' on topics such as robotics, manufacturing, renewable energy.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Civil, Aerospace and Design Engineering",
+   "eligible_faculties_programmes": "BEng/MEng Design Engineering; MEng Engineering Design",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 3-5",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved (a 2018/19 spec mentions 40-credit Design Project 4)",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Major group design project (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Group-based design project' (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'In partnership with industry' / 'conducted with one of our industrial partners' - brief-setting, supervision or feedback roles not documented (sources 1, 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026/27 entry (marketing pages)",
+   "participation_data": "",
+   "unresolved": "No unit-level entry identifying how companies participate; programme pages are marketing text. Could not link to the ILO or to a dated unit entry.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bristol.ac.uk/study/undergraduate/2027/design-engineering/beng-design-engineering-with-a-year-in-industry/",
+     "title": "BEng Design Engineering with a Year in Industry",
+     "section": "Course page, 2027 entry",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A group-based design project done in partnership with industry forms a major component of the penultimate year.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bristol.ac.uk/study/undergraduate/2024/engineering-design/meng-engineering-design-with-study-in-industry/",
+     "title": "MEng Engineering Design with Study in Industry",
+     "section": "Course page, 2024 entry",
+     "pub_year": "2024 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group research and design project forms a major component of the final two years; the project is conducted with one of our industrial partners; topics include robotics, manufacturing, renewable energy, future cities.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S17"
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Bristol Futures Open Units",
+   "legacy": true,
+   "category": "Breadth/interdisciplinary curriculum",
+   "reason": "Interdisciplinary breadth framework; guidance mentions group/problem-based work but no specific open unit with a documented external client brief was verified. Test would need a named unit.",
+   "source_url": "https://www.bristol.ac.uk/bristol-futures/open-units/",
+   "status_note": "Legacy row reassessed; no qualifying unit identified in the documented search."
+  },
+  {
+   "name": "Bristol Futures community engagement / Bristol PLUS Award",
+   "legacy": false,
+   "category": "Employability award",
+   "reason": "Umbrella listing of volunteering, placements and challenge-based activities; individual activities must be tested (City Challenges recorded as S15).",
+   "source_url": "https://www.bristol.ac.uk/bristol-futures/community-engagement/",
+   "status_note": ""
+  },
+  {
+   "name": "PLN undergraduate placements (80-hour)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual unpaid placements (80 hours, 10-12 weeks) with no group project component evidenced.",
+   "source_url": "https://www.bristol.ac.uk/fssl/professional-liaison-network/undergraduate-students/student-placements-and-projects/",
+   "status_note": "PLN 'projects' option is individual or group depending on programme; included within S14 as unresolved."
+  },
+  {
+   "name": "180 Degrees Consulting Bristol",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Student-run society working with charities/social enterprises; not run by the University (Careers blog post, Nov 2025). Not recorded as a university scheme.",
+   "source_url": "https://universityofbristolcareers.blogs.bristol.ac.uk/2025/11/07/from-student-consultant-to-team-leader-my-journey-with-180-degrees-consulting/",
+   "status_note": ""
+  },
+  {
+   "name": "Partner Placement Project (PHYSM0067)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual six-week placement with industry/research facility partners for Superconductivity CDT students only; assessed by individual report and notebook.",
+   "source_url": "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25/26&unitCode=PHYSM0067",
+   "status_note": "2025/26 entry."
+  },
+  {
+   "name": "Engineering Design Practice A (CADE20008)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team design-build-test capstone not directly sponsored by industry; ILO mentoring assessment is internal.",
+   "source_url": "https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=24/25&unitCode=CADE20008",
+   "status_note": "2024/25 entry."
+  },
+  {
+   "name": "MSc Data Science / Fintech with Data Science industry projects (ILO)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Clients supply datasets, but MSc Data Science final project is 'individual or group' and the Fintech project is individual; routes not separable and group client route unverified. Group client projects covered by S5.",
+   "source_url": "https://www.bristol.ac.uk/science-engineering/ilo/industry/industry-projects/msc-data-science-and-msc-fintech-with-data-science-projects/",
+   "status_note": ""
+  },
+  {
+   "name": "Bristol Law Clinic (casework and community projects)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Free legal advice to individual members of the public and partnership activities (inquest service, drop-ins); not a client-brief group project. Human Rights Law Clinic recorded as S16.",
+   "source_url": "https://www.bristol.ac.uk/law/law-clinic/",
+   "status_note": ""
+  },
+  {
+   "name": "Earth Sciences independent research projects",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Supervised individual research projects with some group fieldwork; no client brief. Companies may offer projects (School partnerships page) but no unit evidenced.",
+   "source_url": "https://www.bristol.ac.uk/earthsciences/engagement/partnerships/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Bristol has no university-wide, compulsory employer-project scheme; qualifying provision is distributed across schools, with the Industrial Liaison Office (Faculty of Science and Engineering) acting as the main broker of client briefs.\n\n**Verified current routes.** Engineering Mathematics' *Mathematical and Data Modelling 3* (2026/27) puts groups of 4-6 on three six-week problems, two supplied by industrial partners. The Business School's final-year *Management Consultancy* (EFIM30064, 2025/26) places groups of 4-6 on briefs from outside organisations, mostly charities. The Business School *Micro-Internship* (200 Masters places, 3 weeks, extracurricular) assigns random teams to an industry client. The MSc Marketing applied project (small group, external commercial/third-sector partners) and the Law School's selective Human Rights Law Clinic (student-led teams researching to partner briefs, ~70 members) are also current.\n\n**Credible but not currently evidenced.** Undergraduate Software Engineering Project and MSc Summer Team Project (client-proposed, teams of 4-6) rest on undated ILO pages; Geography's Consultancy Project (3-5 student teams, external clients) appears only in a mislabelled catalogue entry.\n\n**Partial matches.** Civil Engineering MEng Design Project and Data Science Mini-Project use external clients only 'whenever possible' or alongside academic briefs, so C is unclear. Business Analytics, BIE and Data Science for Business routes lack group/partner detail.\n\nParticipation is mostly optional or within named programmes; only a few routes are selective. Short formats (City Challenges, one afternoon) are recorded but weak. Faculty PLN live briefs are partner-facing and not tied to identifiable credit units.",
+ "gaps": "Further departmental instances likely (Aerospace/Electrical MEng industrial group design projects, Computer Science AI software team project, other MSc business projects, Veterinary/Medicine/Dentistry/Architecture community or client projects not found). Unit catalogue results often carry unreliable future year labels (2031-2038) so several units lack genuine current-year evidence. Partner names and cohort sizes mostly unpublished. Humanities/social science client-team units not found. 38 searches used; Open Unit lists not examined unit by unit."
+}
