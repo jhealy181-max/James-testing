@@ -1,0 +1,1343 @@
+{
+ "inst_id": "RG20",
+ "institution": "University of Sheffield",
+ "review_status": "Partial",
+ "partial_remaining": "Medicine/dentistry/health sciences ('other') not searched; extended verification of departmental MEng group design projects (Mechanical, Aerospace, EEE, Materials, Chemical, Civil) and of Genesys client externality not done; chemistry, maths/statistics and individual AHSS departments (Geography, Urban Studies, Politics, Journalism) not individually searched. Session WebSearch limit reached after 22 searches.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Sheffield students consultancy project live client team business brief",
+    "Sheffield Emerge Apprentice Challenge teams business brief students 2026",
+    "Spring Internship Experience 2026 Sheffield students teams project brief partner organisations",
+    "Sheffield Careers employers SME student project team short project brief"
+   ],
+   "key_sources": [
+    "https://sheffield.ac.uk/careers/news/over-600-sheffield-students-take-part-internships-60-organisations-over-2026-spring-break",
+    "https://sheffield.ac.uk/careers/employers/sme",
+    "https://sheffield.ac.uk/entrepreneurship/events-competitions/apprentice-challenge"
+   ],
+   "finding": "Central Careers ran the first Spring Internship Experience (2026): 630 Arts & Humanities and Social Sciences students in teams on 85+ external projects for 60+ organisations - qualifying but cross-faculty, not university-wide. Emerge entrepreneurship (legacy) and SME internship routes do not qualify."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Sheffield MBA live organisation challenges Marketing Consultancy Challenge Internationalisation Challenge",
+    "Sheffield Management School micro-internship group client brief external organisation Easter",
+    "Sheffield Management MSc company project module team real-world problem external organisation credits",
+    "Sheffield undergraduate management consultancy module students teams local businesses client project"
+   ],
+   "key_sources": [
+    "https://sheffield.ac.uk/management/mba/live-organisation",
+    "https://www.sheffield.ac.uk/management/mba/experiential-learning-live-organisation-challenges/marketing-consultancy-challenge",
+    "https://www.sheffield.ac.uk/management/mba/experiential-learning-live-organisation-challenges/internationalisation-challenge",
+    "https://sheffield.ac.uk/postgraduate/taught/courses/2026/management-msc",
+    "https://sheffield.ac.uk/postgraduate/taught/courses/2027/management-msc"
+   ],
+   "finding": "MBA Challenge modules (Marketing Consultancy, Internationalisation) are live-client team consultancies; Management MSc offers a team Company Project and an Easter micro-internship on client briefs (likely the Spring Internship Experience). No undergraduate client-consultancy module found beyond the micro-internship."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Sheffield Global Engineering Challenge 2026 first-year students teams",
+    "Engineering You're Hired second year industry partners project week brief",
+    "GEC26 industry mentors judges Sheffield City Council neighbourhoods projects",
+    "Sheffield Computer Science Software Hut real clients teams module",
+    "Software Hut 2026 second year external clients teams",
+    "Genesys student-led software development organisation final year teams real customers",
+    "Sheffield MEng group design project industry sponsored company brief final year engineering team"
+   ],
+   "key_sources": [
+    "https://sheffield.ac.uk/engineering/diamond-engineering/engineering-project-weeks-2026-learning-through-real-life-challenges",
+    "https://gec.sites.sheffield.ac.uk/home/about-gec",
+    "https://sheffield.ac.uk/engineering/study/youre-hired",
+    "https://studententerprise.sites.sheffield.ac.uk/student-enterprises/software-hut",
+    "https://sheffield.ac.uk/cs/undergraduate/course-structure",
+    "https://sheffield.ac.uk/cs/about/genesys",
+    "https://sheffield.ac.uk/undergraduate/courses/2026/mechanical-engineering-meng",
+    "https://sheffield.ac.uk/mac/undergraduate/careers/aerospace"
+   ],
+   "finding": "Faculty-wide compulsory project weeks (GEC year 1 with Sheffield City Council in 2026; EYH year 2 with industrial partners/mentors) reach ~3,000 students annually. Computer Science Software Hut (compulsory Y2, external clients) qualifies; Genesys client externality and status unclear. Departmental MEng group design projects with industry (Mechanical, Aerospace, EEE) found via summaries only."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Sheffield science group project industry partner company students team module chemistry physics biosciences",
+    "Industrial Group Project physics Sheffield external client team two semesters"
+   ],
+   "key_sources": [
+    "https://sheffield.ac.uk/undergraduate/courses/2025/physics-industrial-placement-year-bsc",
+    "https://www.sheffield.ac.uk/biosciences/news/student-teams-pitch-innovative-business-ideas-applying-science-industry"
+   ],
+   "finding": "Physics MPS372 Industrial Group Project (client-set problem, two semesters) qualifies; bioscience team modules lack external clients. Chemistry and mathematics/statistics not searched specifically."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Sheffield social sciences students team project external organisation client report module urban studies geography politics",
+    "Sheffield Arts and Humanities students group project external partner brief module heritage museum creative industries",
+    "Sheffield Information School students group consultancy project external organisation client"
+   ],
+   "key_sources": [
+    "https://sheffield.ac.uk/careers/news/over-600-sheffield-students-take-part-internships-60-organisations-over-2026-spring-break",
+    "https://sheffield.ac.uk/undergraduate/courses/2027/social-sciences-ba",
+    "https://sheffield.ac.uk/arts-humanities/schools-and-outreach/transforming-and-activating-places-tap"
+   ],
+   "finding": "Main qualifying route is the central Spring Internship Experience for these two faculties. Departmental modules found (Social Sciences BA, Psychology) lack evidenced external clients; TAP is individual internships. Geography, Urban Studies, Politics, Journalism, Languages not individually searched."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Sheffield School of Architecture Live Projects MArch groups clients community 2025",
+    "Sheffield School of Law students team project external organisation clinic pro bono policy report"
+   ],
+   "key_sources": [
+    "https://sheffield.ac.uk/architecture-landscape/march/live-projects",
+    "https://sheffield.ac.uk/postgraduate/taught/courses/2026/architecture-march",
+    "https://sheffield.ac.uk/law/pro-bono/sheffield-digital-justice"
+   ],
+   "finding": "Architecture MArch Live Projects (core, groups of 13-15 for community/charity/public clients, 150+ projects) qualify. Law pro bono (Digital Justice, clinics) not evidenced as group client projects. Medicine, dentistry and health sciences NOT searched (search budget exhausted)."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Global Engineering Challenge (GEC)",
+   "english_name": "Global Engineering Challenge (GEC)",
+   "module_code": "",
+   "description": "Compulsory first-year project week in the Faculty of Engineering. Students are allocated (after stating preferences) to deliberately mixed-discipline teams within facilitated 'Hubs' rooms. In 2026 (GEC26) projects were based in Sheffield neighbourhoods identified by Sheffield City Council as priorities for community-led improvement and developed in partnership with the Council; engineering-company industry mentors attend a mid-week mentor day giving feedback. Teams compile a report and present their solution on the final Friday.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Engineering (Diamond / project weeks team)",
+   "eligible_faculties_programmes": "First-year students on Faculty of Engineering programmes (Computer Science and Civil Engineering pages also describe GEC)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 1",
+   "eligibility_restrictions": "First-year Engineering undergraduates",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Embedded in first-year engineering curriculum; credit weighting not retrieved",
+   "duration": "One project week (2026: within 26 Jan - 6 Feb 2026 project-weeks period)",
+   "delivery_format": "In person, Hubs rooms with PhD facilitator and staff member per hub",
+   "project_based": "Yes",
+   "project_evidence": "Defined challenge per team; teams compile a report and present their solution on the final Friday [1].",
+   "group_working": "Yes",
+   "group_evidence": "1,547 first-year students in 258 deliberately mixed-discipline teams in 2026 [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "GEC26 projects focus on Sheffield neighbourhoods identified by Sheffield City Council and are described as developed in partnership with the Council (public-sector partner supplies the problem context) [2]; industry mentors from engineering companies attend the mentor day and give feedback on projects/presentations [2][3]. Council role in assessment/receiving outputs not evidenced.",
+   "partner_type": "Mixed",
+   "partner_role": "Sheffield City Council: co-develops project themes (priority neighbourhoods). Industry mentors (engineering companies): feedback on student projects and presentations on mentor day.",
+   "named_partners": "Sheffield City Council (GEC26, 2026)",
+   "deliverable": "Team report and final presentation of solution",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "1,547 first-year students in 258 teams (2026); project weeks overall supported by 120 industry mentors (2026)",
+   "unresolved": "Annual partner varies (2026 = Sheffield City Council); whether the Council receives outputs or judges; one-week duration is short. Evidence via search-summary paraphrase only.",
+   "legacy_ref": "Global Engineering Challenge / Engineering: You’re Hired!",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/engineering/diamond-engineering/engineering-project-weeks-2026-learning-through-real-life-challenges",
+     "title": "Engineering Project Weeks 2026: Learning through real life challenges",
+     "section": "GEC section",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "GEC ran across 43 Hubs rooms engaging 1,547 first-year students working in 258 teams; project weeks 26 Jan - 6 Feb 2026; supported by 88 PhD facilitators, 90 staff and 120 industry mentors.",
+     "supports": [
+      "group",
+      "participation",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://gec.sites.sheffield.ac.uk/home/about-gec",
+     "title": "GEC26 - About GEC",
+     "section": "About",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "GEC26 students work on projects based in Sheffield, focusing on neighbourhoods identified by Sheffield City Council as priorities for community-led improvement, developed in partnership with Sheffield City Council; teams mixed-discipline, each hub with PhD facilitator and staff member; teams compile a report and present their solution on the final Friday.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://gec.sites.sheffield.ac.uk/industry-mentors",
+     "title": "GEC26 - Industry Mentors",
+     "section": "Industry mentors",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry mentors are people from engineering companies involved in activities throughout the Wednesday mentor day, providing feedback on student projects and presentations.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Engineering: You're Hired! (EYH)",
+   "english_name": "Engineering: You're Hired! (EYH)",
+   "module_code": "",
+   "description": "Compulsory week-long second-year interdisciplinary project week in the Faculty of Engineering. Teams of about six respond to briefs based on problems provided by industrial partners (example briefs: swarm-robot precision-agriculture monitoring; fuel-efficient autonomous road vehicle), aiming to take a proposed solution to proof-of-concept stage. Industry mentors give feedback on projects and presentations; senior industry mentors sit with a staff member and PhD facilitator on a panel to which teams pitch for hypothetical funding.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Engineering",
+   "eligible_faculties_programmes": "Second-year students on Faculty of Engineering programmes",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Second-year Engineering undergraduates",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Pass/fail",
+   "duration": "One week (early February 2026)",
+   "delivery_format": "In person, Hubs rooms",
+   "project_based": "Yes",
+   "project_evidence": "Industry-based brief; teams develop solution and proposal to proof-of-concept stage and pitch it [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Interdisciplinary teams of about six; 1,448 students in 256 teams in 2026 [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects described as based on problems provided by industrial partners (another passage says 'industry-inspired briefs') [2]; industry mentors provide feedback and senior mentors form the pitch panel that judges projects [3][4].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industrial partners provide problems; industry mentors give feedback; senior mentors judge pitches (hypothetical funding).",
+   "named_partners": "",
+   "deliverable": "Proof-of-concept solution, project proposal and pitch presentation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "1,448 second-year students in 256 teams (2026); 120 industry mentors across 2026 project weeks",
+   "unresolved": "Wording varies between 'problems provided by industrial partners' and 'industry-inspired briefs'; individual company names per brief not retrieved. One-week format.",
+   "legacy_ref": "Global Engineering Challenge / Engineering: You’re Hired!",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/engineering/diamond-engineering/engineering-project-weeks-2026-learning-through-real-life-challenges",
+     "title": "Engineering Project Weeks 2026: Learning through real life challenges",
+     "section": "EYH section",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2026 EYH involved 1,448 second-year students in 256 teams across 41 Hubs rooms; students valued multidisciplinary teamwork in a low-risk, pass/fail environment; 120 industry mentors.",
+     "supports": [
+      "group",
+      "participation",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sheffield.ac.uk/engineering/study/youre-hired",
+     "title": "Engineering: You're Hired",
+     "section": "About",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Groups of about six; 'projects are based on problems provided by industrial partners, and students will come up with ideas to solve them and proposals for a project to develop these ideas further'; aim to take proposed solution to proof of concept stage.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sheffield.ac.uk/alumni/volunteer/opportunities/engineering-youre-hired",
+     "title": "Engineering You're Hired - Industry Mentor and Senior Mentor Days",
+     "section": "Senior mentor role",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'In the senior mentor role, along with a member of staff and PhD facilitator, you will form a panel that students will pitch to for hypothetical funding for their project.' Mentors provide feedback on projects and presentations.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://eyh.sites.sheffield.ac.uk/industry-mentors",
+     "title": "EYH 2026 - Industry Mentors",
+     "section": "Industry mentors",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry mentors provide feedback on student projects and presentations and take part in a panel.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Spring Internship Experience",
+   "english_name": "Spring Internship Experience",
+   "module_code": "",
+   "description": "Week-long, scaffolded work-experience scheme run by Careers & Employability over the Easter/spring break, first run in 2026. Students from the Faculties of Arts & Humanities and Social Sciences worked in interdisciplinary teams (mixing subjects and year groups) on externally-provided projects from SMEs, charities, media and multinational firms and government bodies (incl. Civil Service/government departments), producing outputs such as policy recommendations; careers staff supervised teams.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Careers & Employability Service",
+   "eligible_faculties_programmes": "Faculty of Arts & Humanities and Faculty of Social Sciences students",
+   "faculty_areas": [
+    "central",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "Mixed year groups",
+   "eligibility_restrictions": "Arts & Humanities and Social Sciences students; open, non-competitive access for applicants",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not credit-bearing (not evidenced)",
+   "duration": "One week (2026 spring break)",
+   "delivery_format": "Team projects with professional development workshops",
+   "project_based": "Yes",
+   "project_evidence": "Over 85 externally-provided projects; outputs included policy recommendations and work described by a partner as actionable [1].",
+   "group_working": "Yes",
+   "group_evidence": "Interdisciplinary teams (e.g., Accountancy/Economics with English/Philosophy students); careers staff facilitated teamwork [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "60+ partner organisations supplied the projects and received outputs; Department for Education praised a group's policy recommendations; Berneslai Homes called the work actionable [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Partners provide project briefs and receive team outputs; supervision by careers staff.",
+   "named_partners": "Department for Education; Berneslai Homes; Civil Service (2026)",
+   "deliverable": "Team recommendations/outputs to partner organisation",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "630 students; 60+ partner organisations; 85+ projects (2026, first edition)",
+   "unresolved": "Whether it will recur in 2027; student level (UG/PG) not stated; relationship to Management School Easter micro-internship (S4).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/careers/news/over-600-sheffield-students-take-part-internships-60-organisations-over-2026-spring-break",
+     "title": "Over 600 Sheffield students take part in internships with 60+ organisations over the 2026 spring break",
+     "section": "News item",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "First Spring Internship Experience brought together 630 students from the Faculties of Arts & Humanities and Social Sciences and over 60 partner organisations for a week-long, fully scaffolded work experience scheme; over 85 externally-provided projects; interdisciplinary teams; careers staff acted as supervisors to facilitate teamwork; Department for Education praised a group's policy recommendations; Berneslai Homes said the work was actionable.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status",
+      "duration",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Management School Easter micro-internship (group client brief)",
+   "english_name": "Management School Easter micro-internship (group client brief)",
+   "module_code": "",
+   "description": "Course pages for the Management MSc, Management and International Business MSc and Business Management and Economics BA describe a one-week micro-internship in the Easter break in which students, working in groups, respond to a client brief from an external organisation, supported by employability staff and tailored training. Probably the course-page description of the 2026 Spring Internship Experience (S3) for Management School students.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Sheffield University Management School / employability team",
+   "eligible_faculties_programmes": "Management MSc; Management and International Business MSc; Business Management and Economics BA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Named programmes",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not evidenced",
+   "duration": "One week, Easter break",
+   "delivery_format": "Group work on client brief",
+   "project_based": "Yes",
+   "project_evidence": "Groups respond to a client brief from an external organisation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Working in a group' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisation supplies the client brief [1][2].",
+   "partner_type": "Unclear",
+   "partner_role": "External organisation sets client brief",
+   "named_partners": "",
+   "deliverable": "Response to client brief (format not stated)",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "S3",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2027 entry (course page)",
+   "participation_data": "",
+   "unresolved": "Probably the same delivery as S3; organisations not named.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/management-msc",
+     "title": "Management MSc (2027 entry)",
+     "section": "Careers/experience",
+     "pub_year": "2027",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Working in a group, you'll respond to a client brief from an external organisation to gain valuable, real-world experience'; micro-internship for one week in the Easter break.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/management-and-international-business-msc",
+     "title": "Management and International Business MSc (2027 entry)",
+     "section": "Careers/experience",
+     "pub_year": "2027",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Opportunity to take part in a micro-internship for one week in the Easter break; students in groups answer briefs from external organisations.",
+     "supports": [
+      "project",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-economics-ba",
+     "title": "Business Management and Economics BA (2027 entry)",
+     "section": "Careers/experience",
+     "pub_year": "2027",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "One-week micro-internship during Easter break working in a group on a client brief from an external organisation, with employability staff support.",
+     "supports": [
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Management MSc Company Project",
+   "english_name": "Management MSc Company Project",
+   "module_code": "",
+   "description": "On the Management MSc (2026 entry) students can apply to work as part of a team on a real-world problem for an external organisation; the page also offers the option of a company-based dissertation (individual).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Sheffield University Management School",
+   "eligible_faculties_programmes": "Management MSc",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Management MSc students; application required",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Credit not tied to Company Project in sources (a 45-credit Management Inquiry Project is listed separately)",
+   "duration": "Not stated",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Real-world problem for an external organisation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work as part of a team' [1]; company-based dissertation alternative is individual and excluded.",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisation provides the real-world problem [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Supplies problem",
+   "named_partners": "",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 entry (2026/27)",
+   "participation_data": "",
+   "unresolved": "Whether this is the same as the Easter micro-internship (S4) or a separate summer project; credit, duration and partner names not retrieved. 'Management Consulting in Practice' module also mentioned on Management MSc (format unknown).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/management-msc",
+     "title": "Management MSc (2026 entry)",
+     "section": "Company Project",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students can apply to work as part of a team on a real-world problem for an external organisation, with the option to complete a company-based dissertation; 45-credit Management Inquiry Project listed.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Marketing Consultancy Challenge (2027 entry: Transformative Marketing Challenge)",
+   "english_name": "Marketing Consultancy Challenge (2027 entry: Transformative Marketing Challenge)",
+   "module_code": "",
+   "description": "Sheffield MBA 'Challenge' module: early in semester 1 teams are introduced to a real organisation facing a marketing problem, meet the organisation roughly weekly and present findings to its senior management team.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Sheffield University Management School (MBA)",
+   "eligible_faculties_programmes": "Sheffield MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Semester 1",
+   "eligibility_restrictions": "MBA students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 credits (2026 entry); 15 credits as Transformative Marketing Challenge (2027 entry)",
+   "duration": "Part of semester 1",
+   "delivery_format": "Consulting teams with client meetings",
+   "project_based": "Yes",
+   "project_evidence": "Real marketing problem; findings presented to client senior management [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams/consulting team [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real organisation supplies problem, meets teams about weekly and receives final presentation [1]; client testimonials [2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client organisation sets problem, meets teams, receives presentation",
+   "named_partners": "The Northern Wine Guy (student case, undated); Invest Sheffield (client testimonial, undated)",
+   "deliverable": "Findings/recommendations presented to client senior management",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (2026-entry course page)",
+   "participation_data": "",
+   "unresolved": "Whether core for all MBA students; renamed/re-credited for 2027 entry. Invest Sheffield is a council-run body (public sector) so partner mix may be Mixed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sheffield.ac.uk/management/mba/experiential-learning-live-organisation-challenges/marketing-consultancy-challenge",
+     "title": "Marketing Consultancy Challenge",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Module introduces students in early weeks of semester 1 to a real organisation facing a marketing-related problem; teams meet the organisation roughly weekly and present findings to its senior management team; student case with The Northern Wine Guy.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sheffield.ac.uk/management/mba/live-organisation",
+     "title": "Take part in live organisation challenges",
+     "section": "Challenge modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work as part of a consulting team to provide clients with insights; client testimonials incl. Invest Sheffield, Genuit Group, The Source Skills Academy.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/mba-master-business-administration-mba",
+     "title": "MBA (2026 entry)",
+     "section": "Modules",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Marketing Consultancy Challenge listed as 10 credits.",
+     "supports": [
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/mba-master-business-administration-mba",
+     "title": "MBA (2027 entry)",
+     "section": "Modules",
+     "pub_year": "2027",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Marketing module listed as Transformative Marketing Challenge, 15 credits; work in teams or as an individual on live projects with local or international businesses.",
+     "supports": [
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Internationalisation Challenge",
+   "english_name": "Internationalisation Challenge",
+   "module_code": "",
+   "description": "Sheffield MBA 'Challenge' module: teams carry out a project with a real-world company exploring international markets; the project is a crucial assessment component alongside a reflective report.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Sheffield University Management School (MBA)",
+   "eligible_faculties_programmes": "Sheffield MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "MBA students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Team project + individual reflective report",
+   "duration": "Not stated",
+   "delivery_format": "Consulting teams",
+   "project_based": "Yes",
+   "project_evidence": "Project on international market opportunities for a company [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real-world company is the client exploring international markets [1]; Invest Sheffield testimonial on insights into Partner Cities market opportunities [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client sets internationalisation problem and receives findings",
+   "named_partners": "Invest Sheffield (testimonial, undated)",
+   "deliverable": "Market-entry/internationalisation analysis for client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (module page); MBA 2027 page refers to Challenge modules generally",
+   "participation_data": "",
+   "unresolved": "Module page undated; 2026/2027 MBA course pages were not retrieved naming the Internationalisation Challenge specifically, so current delivery is not corroborated. Credit and duration not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sheffield.ac.uk/management/mba/experiential-learning-live-organisation-challenges/internationalisation-challenge",
+     "title": "Internationalisation Challenge",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams carry out a project with a real-world company that is exploring international markets; project is a crucial component of the assessment, alongside a reflective report.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sheffield.ac.uk/management/mba/live-organisation",
+     "title": "Take part in live organisation challenges",
+     "section": "Client testimonials",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Invest Sheffield feedback on the Internationalisation Challenge: useful insight into market opportunities with three of Sheffield's Partner Cities.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/mba-master-business-administration-mba",
+     "title": "MBA (2027 entry)",
+     "section": "Modules",
+     "pub_year": "2027",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students challenged to work in teams or as an individual on live projects with local or international businesses (Challenge modules).",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Software Hut",
+   "english_name": "Software Hut",
+   "module_code": "COM3420 (older departmental page); COM213 in a regulations document; current code not confirmed",
+   "description": "Compulsory second-year Computer Science team module modelled on a software house: teams build software for real external clients in a competitive setting. Staff assess project management; clients judge whether the product meets their needs; individual reflection.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer Science",
+   "eligible_faculties_programmes": "Computer Science undergraduate degrees",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Computer Science students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (2027-entry BSc listing); assessed on team project work, client judgement and individual reflection",
+   "duration": "Not stated (module-length)",
+   "delivery_format": "Team software development",
+   "project_based": "Yes",
+   "project_evidence": "Teams build working software system for a client; portfolio incl. design documents and working system [1][3].",
+   "group_working": "Yes",
+   "group_evidence": "Assessment 'entirely on the basis of the project work undertaken in teams'; teamwork mandatory [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Most students' first experience of working for an external client [1][4]; clients judge whether product meets their needs (contribute to marks) [1].",
+   "partner_type": "Unclear",
+   "partner_role": "External clients set requirements and contribute to assessment",
+   "named_partners": "",
+   "deliverable": "Working software system + documentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2027 entry course listing",
+   "participation_data": "Around 200 students per year (undated)",
+   "unresolved": "Current module code; sector of clients; dated cohort evidence (relies on 2027-entry course listing as corroboration).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://studententerprise.sites.sheffield.ac.uk/student-enterprises/software-hut",
+     "title": "Student Enterprise - Software Hut",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Compulsory for second-year computer science students, around 200 participate per year; 'a microcosm of a real software house'; marks from staff (project management) and from clients who judge whether the product meets their needs.",
+     "supports": [
+      "project",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "http://www.dcs.sheffield.ac.uk/intranet/teaching/public/modules/level3/com3420.html",
+     "title": "COM3420 Software Hut",
+     "section": "Assessment",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Assessment will be entirely on the basis of the project work undertaken in teams'; participation in teamwork is mandatory.",
+     "supports": [
+      "group",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc",
+     "title": "Computer Science BSc (2027 entry)",
+     "section": "Modules",
+     "pub_year": "2027",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Software Hut listed as a 20-credit module; teamwork assessed through portfolio incl. design documents, working system and team-practice evidence.",
+     "supports": [
+      "credit",
+      "status",
+      "project"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://sheffield.ac.uk/cs/undergraduate/course-structure",
+     "title": "Course structure",
+     "section": "Year 2",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Most students have their first experience of working for an external client in the second year, through the Software Hut project.'",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Genesys (student-led software development organisation)",
+   "english_name": "Genesys (student-led software development organisation)",
+   "module_code": "",
+   "description": "Final-year Computer Science module run as a student software company: customer-facing teams build custom web applications for real customers using agile/lean-startup practice, supported by staff of epiGenesys (a University subsidiary company).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer Science (with epiGenesys)",
+   "eligible_faculties_programmes": "Computer Science (Software Engineering) MEng (core, 45 credits); Computer Science MComp variants (option)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Named CS integrated-masters programmes",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "45 credits (Software Engineering MEng core)",
+   "duration": "Throughout final year",
+   "delivery_format": "Customer-facing teams",
+   "project_based": "Yes",
+   "project_evidence": "Teams build custom web applications solving customers' problems [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Customer-facing teams [1]; students work in teams [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sources say 'real customers' / 'real contracts for real clients' [1][3] but do not say customers are external organisations; supporting company epiGenesys is a University subsidiary (internal).",
+   "partner_type": "Unclear",
+   "partner_role": "Customers commission web applications (identity/sector not evidenced)",
+   "named_partners": "",
+   "deliverable": "Custom web application",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 entry course listing",
+   "participation_data": "",
+   "unresolved": "Conflicting status evidence: 2026/2027 course pages list Genesys, but a Student Enterprise case study dates Genesys 2011-2017. Whether customers are external.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/cs/about/genesys",
+     "title": "Genesys: our student-led software development organisation",
+     "section": "About",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Professional software development organisation, the first of its kind in the UK, where students form customer-facing teams to build custom web applications; supported by staff from epiGenesys, a subsidiary company of the University.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sheffield.ac.uk/undergraduate/courses/2026/computer-science-software-engineering-meng",
+     "title": "Computer Science (Software Engineering) MEng (2026 entry)",
+     "section": "Final-year modules",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Genesys core module worth 45 credits; students work with real customers and solve genuine problems using agile software engineering and lean startup practices, in teams developing web applications.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://slt-cdt.sheffield.ac.uk/training/slt-hub",
+     "title": "SLT Hub - SLT CDT",
+     "section": "About",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Modelled on 'our masters students run their own software company, Genesys, which accepts real contracts for real clients'.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industrial Group Project in Physics",
+   "english_name": "Industrial Group Project in Physics",
+   "module_code": "MPS372",
+   "description": "Optional final-year physics module: an industrial client poses a problem that a student group works on over two semesters, integrating teamwork, planning, presentation and report writing with lab, computational or literature-based problem solving; interim and final presentations to the client and academic supervisors.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Mathematical and Physical Sciences (Physics)",
+   "eligible_faculties_programmes": "Physics with an Industrial Placement Year BSc; Physics/Astrophysics MPhys (option)",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Physics degree students",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; presentations and report",
+   "duration": "Two semesters",
+   "delivery_format": "Group project with industrial client",
+   "project_based": "Yes",
+   "project_evidence": "Client-posed problem resolved over two semesters; presentations and report [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a group work on over two semesters' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'The industrial client poses a problem'; interim and final presentations made to the client [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets problem; receives interim and final presentations",
+   "named_partners": "",
+   "deliverable": "Presentations and report to client",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 entry course listing",
+   "participation_data": "",
+   "unresolved": "Corroboration is a 2025-entry course listing rather than a dated cohort; number of projects not published.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/undergraduate/courses/2025/physics-industrial-placement-year-bsc",
+     "title": "Physics with an Industrial Placement Year BSc (2025 entry)",
+     "section": "Final-year modules",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'The industrial client poses a problem that a group work on over two semesters to resolve.' 'Interim and final presentations are made to the client and academic supervisors.' MPS372, 20 credits, optional.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "duration",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sheffield.ac.uk/undergraduate/courses/2024/physics-mphys",
+     "title": "Physics MPhys (2024 entry)",
+     "section": "Modules",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industrial group project with an external partner listed as an option.",
+     "supports": [
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MArch Live Projects (Live Project 1 / Live Project 2)",
+   "english_name": "MArch Live Projects (Live Project 1 / Live Project 2)",
+   "module_code": "",
+   "description": "Core MArch modules in which student groups (mostly 13-15 people) work for real clients - community groups, charities, health organisations and regional authorities - on design/build, masterplanning, feasibility studies, sustainability strategies, online resources and participation toolkits, with regular client contact and a defined end result (presentation, report, sometimes built work). Running ~20 years, 150+ projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Sheffield School of Architecture and Landscape",
+   "eligible_faculties_programmes": "Architecture MArch; Architecture: Collaborative Practice MArch",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MArch Year 5 (LP1); Year 6 (LP2, Collaborative Practice)",
+   "eligibility_restrictions": "MArch students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Core module (credit not retrieved); integrated with Ethical Practice module",
+   "duration": "Not stated",
+   "delivery_format": "Group live project with client",
+   "project_based": "Yes",
+   "project_evidence": "Feasibility studies, masterplans, design/build etc. with defined end result [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in Live Project groups'; teams of 13-15 [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real clients (community groups, charities, health organisations, regional authorities) with regular client contact; outputs delivered to client [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client commissions brief, regular contact, receives presentation/report/build",
+   "named_partners": "",
+   "deliverable": "Presentation, report, sometimes physical building work",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (2026-entry course pages)",
+   "participation_data": "150+ completed projects over ~20 years (cumulative)",
+   "unresolved": "Module length and credits; 2025/26 client list.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/architecture-landscape/march/live-projects",
+     "title": "Live Projects",
+     "section": "About",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group-based projects with real constraints (budget, brief, time), regular client contact and a defined end result, normally a presentation, report and sometimes physical building work; running 20 years, 150+ completed projects; teams mostly 13-15.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/architecture-march",
+     "title": "Architecture MArch (2026 entry)",
+     "section": "Core modules",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Live Project 1: Students work in Live Project groups with a range of clients including local community groups, charities, health organisations and regional authorities.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/architecture-collaborative-practice-march",
+     "title": "Architecture: Collaborative Practice MArch (2026 entry)",
+     "section": "Modules",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Live Project 1 in Year 5 and Live Project 2 in Year 6.",
+     "supports": [
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S12",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Mechanical Engineering MEng final-year group design project",
+   "english_name": "Mechanical Engineering MEng final-year group design project",
+   "module_code": "",
+   "description": "Final-year MEng group design project in which students work on a real-life challenge proposed by industrial partners; the same course page also lists a 45-credit multidisciplinary Capstone Group Design Project on sustainably regenerating a local area (relationship between the two unclear).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Mechanical, Aerospace and Civil Engineering",
+   "eligible_faculties_programmes": "Mechanical Engineering MEng",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "MEng students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "45 credits (Capstone Group Design Project)",
+   "duration": "Not stated",
+   "delivery_format": "Group design project",
+   "project_based": "Yes",
+   "project_evidence": "Group design project on real-life challenge [1].",
+   "group_working": "Yes",
+   "group_evidence": "Group design project [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Summary says challenge 'proposed by industrial partners' with 'real clients' [1], but the same page's capstone is described as a local-area regeneration project with no partner named; cannot confirm external partners are standard for one defined route.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industrial partners propose challenges (per paraphrase)",
+   "named_partners": "",
+   "deliverable": "Design solution",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 entry course listing",
+   "participation_data": "",
+   "unresolved": "Search-summary paraphrase only (search budget exhausted before extended check); whether industry-proposed project and Capstone GDP are the same module.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/undergraduate/courses/2026/mechanical-engineering-meng",
+     "title": "Mechanical Engineering MEng (2026 entry)",
+     "section": "Final year",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final-year group design project working on a real-life challenge proposed by industrial partners, developing professional skills with real clients; Capstone Group Design Project (45 credits) multidisciplinary group project on regenerating a local area sustainably.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S13",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Aerospace Engineering Industrial Training Programme / MEng Group Design Project",
+   "english_name": "Aerospace Engineering Industrial Training Programme / MEng Group Design Project",
+   "module_code": "",
+   "description": "Aerospace Engineering students work in groups on open-ended industrial problems set by industry partners such as Airbus or Boeing (Industrial Training Programme); members of the Industrial Advisory Board (engineers from Rolls-Royce, Boeing, Caterpillar, BAE Systems) assess part of the third-year MEng Group Design Project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Mechanical, Aerospace and Civil Engineering",
+   "eligible_faculties_programmes": "Aerospace Engineering degrees",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated (GDP: Year 3 MEng)",
+   "eligibility_restrictions": "Aerospace students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not stated",
+   "delivery_format": "Group projects",
+   "project_based": "Yes",
+   "project_evidence": "Open-ended industrial problem [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work in groups' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partners (e.g., Airbus, Boeing) set problems; Industrial Advisory Board engineers assess part of GDP [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Set problems (ITP); assess (GDP)",
+   "named_partners": "Airbus, Boeing (problem setters, undated); Rolls-Royce, Boeing, Caterpillar, BAE Systems (IAB assessors, undated)",
+   "deliverable": "Solution to industrial problem / group design",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Undated careers page; ITP and GDP may be distinct routes; not corroborated by dated source (search budget exhausted). Search-summary paraphrase only.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/mac/undergraduate/careers/aerospace",
+     "title": "Aerospace Engineering careers",
+     "section": "Industry links",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry partners such as Airbus or Boeing set problems for the Industrial Training Programme, where students work in groups on an open-ended industrial problem; Industrial Advisory Board members (Rolls-Royce, Boeing, Caterpillar, BAE Systems) assess part of the third-year MEng Group Design Project.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S14",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Electrical and Electronic Engineering MEng final-year group project",
+   "english_name": "Electrical and Electronic Engineering MEng final-year group project",
+   "module_code": "",
+   "description": "Final-year MEng group project in multidisciplinary teams where the brief is presented by industrialists involved.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Electrical and Electronic Engineering",
+   "eligible_faculties_programmes": "Electrical and Electronic Engineering MEng",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "MEng students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not stated",
+   "delivery_format": "Multidisciplinary team project",
+   "project_based": "Yes",
+   "project_evidence": "Group project on industrial brief [1].",
+   "group_working": "Yes",
+   "group_evidence": "Multidisciplinary teams [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Brief presented by industrialists involved [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Present brief",
+   "named_partners": "",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2027 entry course listing",
+   "participation_data": "",
+   "unresolved": "Search summary noted the page text is flagged as needing updating, conflicting with the 2027-entry listing; paraphrase only.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-meng",
+     "title": "Electrical and Electronic Engineering MEng (2027 entry)",
+     "section": "Final year",
+     "pub_year": "2027",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final-year group project in multidisciplinary teams; brief presented by the industrialists involved (page flagged as needing updating).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Emerge: Be enterprising (incl. Idea Bootcamp, Apprentice Challenge, founder pathways, Business Awards Showcase)",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Central entrepreneurship programme supporting students' own ventures; the Apprentice Challenge is a 10-day £10 profit contest (solo or small teams) with no external client brief; Awards Showcase is pitching to investors. Fails C (no external organisation sets brief or receives outputs) and is venture support rather than a client project.",
+   "source_url": "https://sheffield.ac.uk/entrepreneurship/events-competitions/apprentice-challenge",
+   "status_note": "2026 Awards Showcase confirmed on Emerge pages; Apprentice Challenge page appears to describe the 2025 round"
+  },
+  {
+   "name": "Management School 'Host a student project' (company-based dissertation)",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Organisations host a dissertation-style project (around three months, June-August) with a report to the organisation; individual dissertation, fails B.",
+   "source_url": "https://www.sheffield.ac.uk/management/partnerships/host-student-project",
+   "status_note": ""
+  },
+  {
+   "name": "International Business Management with Study Abroad BA final project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Students address a management problem independently and report recommendations to the chosen organisation; individual (B=No).",
+   "source_url": "https://sheffield.ac.uk/undergraduate/courses/2026/international-business-management-study-abroad-ba",
+   "status_note": "2026 entry"
+  },
+  {
+   "name": "Business Management BA Final Year Challenge; Case Studies in Accounting and Consultancy",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Listings do not mention external client organisations (case studies are teaching cases); C not evidenced.",
+   "source_url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-ba",
+   "status_note": ""
+  },
+  {
+   "name": "SLT CDT Consultancy Hub",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "PhD students run a consultancy service producing written technology-recommendation reports for 'clients'; team structure and whether clients are external organisations not evidenced; undated.",
+   "source_url": "https://slt-cdt.sheffield.ac.uk/training/slt-hub",
+   "status_note": "undated"
+  },
+  {
+   "name": "Molecules to Market (Biology/Chemistry/Psychology second-year module)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams develop and pitch business concepts applying science commercially at a poster day; no evidence an external organisation sets the brief or receives outputs.",
+   "source_url": "https://www.sheffield.ac.uk/biosciences/news/student-teams-pitch-innovative-business-ideas-applying-science-industry",
+   "status_note": ""
+  },
+  {
+   "name": "Professional Skills for Bioscientists (team project); MBiolSci final-year project with industry",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team project addresses a UN SDG with no client; MBiolSci project 'can be' with industry and is an individual research project.",
+   "source_url": "https://sheffield.ac.uk/undergraduate/courses/2027/biological-sciences-bsc",
+   "status_note": ""
+  },
+  {
+   "name": "Social Sciences BA team qualitative project / applied methods module",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Team qualitative project with knowledge-exchange emphasis whose assessment 'could be useful to an outside organisation'; external organisation participation not evidenced (C Unclear at best).",
+   "source_url": "https://sheffield.ac.uk/undergraduate/courses/2027/social-sciences-ba",
+   "status_note": "2027 entry"
+  },
+  {
+   "name": "Psychology BSc optional modules with community partners",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Optional modules 'can involve' project work for an organisation or community group; group format and standard partner involvement not evidenced.",
+   "source_url": "https://sheffield.ac.uk/undergraduate/courses/2027/psychology-bsc",
+   "status_note": ""
+  },
+  {
+   "name": "Transforming and Activating Places (TAP)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Three-week individual internships with placemaking/heritage partners for widening-participation undergraduates; no group project evidenced.",
+   "source_url": "https://sheffield.ac.uk/arts-humanities/schools-and-outreach/transforming-and-activating-places-tap",
+   "status_note": ""
+  },
+  {
+   "name": "Sheffield Digital Justice (Law pro bono)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Semester- or year-long projects that 'often' involve external partners (e.g., lawtech companies) with University teams and CS students; group format and standard external partnering not established (C Unclear).",
+   "source_url": "https://sheffield.ac.uk/law/pro-bono/sheffield-digital-justice",
+   "status_note": "undated"
+  },
+  {
+   "name": "FreeLaw and CommLaw clinics; Special Project: Pro Bono module",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Advice-only student clinics for individual/small-business clients; pro bono module states project work itself is not assessed. No team project with organisational client evidenced.",
+   "source_url": "https://sheffield.ac.uk/law/pro-bono/other-pro-bono-schemes",
+   "status_note": ""
+  },
+  {
+   "name": "Careers 'Offer a project' / Ambition Internship Programme / SME Summer Internship",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Employer-facing routes connecting SMEs with a student or graduate for internships (70-hour) or projects; individual, not group.",
+   "source_url": "https://sheffield.ac.uk/careers/employers/sme",
+   "status_note": "Ambition Internship applications open 2026"
+  },
+  {
+   "name": "General Engineering MEng Interdisciplinary Group Design Project; Materials Science MEng industrial training projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "General Engineering group project: 'some projects may include industrial involvement' (C Unclear). Materials: groups work with materials companies on industrial training projects, but project output/format not evidenced; not checked further (search budget exhausted).",
+   "source_url": "https://sheffield.ac.uk/undergraduate/courses/2026/general-engineering-meng-hons",
+   "status_note": "2026 entry"
+  },
+  {
+   "name": "Information Systems Management MSc",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Generic group projects in assessment plus option of dissertation with an external organisation (individual).",
+   "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/information-systems-management-msc",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Sheffield** has strong, mostly **faculty- and programme-embedded** provision, anchored by the Faculty of Engineering's compulsory project weeks.\n\n- **Engineering (faculty-wide, compulsory):** the **Global Engineering Challenge** (Year 1; 1,547 students in 258 mixed-discipline teams in 2026, with projects in neighbourhoods identified with Sheffield City Council and feedback from industry mentors) and **Engineering: You're Hired!** (Year 2; 1,448 students in 256 teams; problems from industrial partners, and industry senior mentors judge the pitches). Both last only one week.\n- **Computing:** **Software Hut** is compulsory in Year 2 of Computer Science (about 200 students a year). Teams build software for external clients, who help assess it. **Genesys** (final year) has 'real customers', but whether they are external, and its current status, are unclear.\n- **Departmental capstones:** Physics **MPS372 Industrial Group Project** (a problem set by an industrial client over two semesters); MEng group design projects with industry in Mechanical, Aerospace and EEE (evidence is thinner); and **Architecture MArch Live Projects** (core; groups of 13-15 for community, charity and public-sector clients).\n- **Business:** the MBA **Marketing Consultancy** and **Internationalisation Challenges** (teams work for real organisations and present to senior management), and the Management MSc team **Company Project**.\n- **Central / cross-faculty:** Careers' first **Spring Internship Experience** (2026) placed 630 Arts & Humanities and Social Sciences students in teams on 85+ projects from 60+ external organisations, including the DfE. It is cross-faculty, not university-wide.\n- **Not qualifying:** the Emerge entrepreneurship programme (legacy).\n- **Uncertain:** partner names for most modules; whether the Spring Internship Experience will recur; health faculties were not searched.",
+ "gaps": "Health faculties not searched; MEng departmental capstones (Mechanical, Aerospace, EEE) evidenced only by search-summary paraphrase and status partly unclear; Genesys customer externality and status conflict; Software Hut module code/client sector; MBA Challenge modules' compulsory status; whether Management MSc Company Project and Easter micro-internship are distinct from the Spring Internship Experience; further departmental instances likely (e.g., Chemical/Civil Engineering design projects, Landscape Architecture, Urban Studies & Planning, Journalism)."
+}
