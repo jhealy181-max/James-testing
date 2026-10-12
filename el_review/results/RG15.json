@@ -1,0 +1,1292 @@
+{
+ "inst_id": "RG15",
+ "institution": "Newcastle University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "NCL2100 Developing Enterprise, Entrepreneurship and Employability module",
+    "Careers Service employer-led project students team challenge live brief",
+    "Launch of Practera programme Horizons",
+    "Newcastle enterprise challenge employer set challenge teams pitch hackathon sponsor",
+    "NCL2100 module outline enterprise team project"
+   ],
+   "key_sources": [
+    "https://www.ncl.ac.uk/careers/about/news/news-items/practera-virtual-work-experience-programme/",
+    "https://www.ncl.ac.uk/learning-and-teaching/strategic-priorities/employability-and-enterprise/"
+   ],
+   "finding": "No institution-wide curricular live-client scheme found. Central routes are the selective Practera Horizons programme (12 places, 2026) and enterprise modules/START UP (not live-client). NCL2100 outline not found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Business School live client consultancy project module",
+    "BUS3053 Management Consultancy Project",
+    "NBS8130 Management Consultancy Project MBA",
+    "MKT3097 Marketing Consultancy Project",
+    "Business in Action MBA Northumbrian Water; Solve a Business Challenge",
+    "MBA Corporate Consultancy",
+    "MSc consultancy project corporate partner"
+   ],
+   "key_sources": [
+    "https://www.ncl.ac.uk/undergraduate/degrees/module/?code=BUS3053&year=2025",
+    "https://microsites.ncl.ac.uk/casestudies/2025/01/09/using-applied-pedagogy-to-deliver-social-value-on-a-management-consultancy-module/",
+    "https://www.ncl.ac.uk/business/news/business-in-action-february-2024/"
+   ],
+   "finding": "Business School has the densest provision: BUS3053, MKT3097, MBA NBS8130 and the Business in Action case competition. MSc practice-based dissertations are individual."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "engineering industry sponsored group design project external client",
+    "CSC2033 Software Engineering Team Project industrial client",
+    "Computer Science MSc industrial team project",
+    "Stage 2 team project real-life industry briefs",
+    "Stage 3 Stage 4 group design project industry client",
+    "Mechanical Engineering design project industry partner",
+    "Chemical Engineering Stage 3 design project panel"
+   ],
+   "key_sources": [
+    "https://www.ncl.ac.uk/undergraduate/degrees/module/?code=CSC2033&year=2026",
+    "https://www.ncl.ac.uk/engineering/business-innovation-partners/mechanical-engineering-partnerships/"
+   ],
+   "finding": "CSC2033 compulsory Stage 2 team project with industry involvement (extent varies); Mechanical Engineering industry-hosted team projects (undated). Other engineering group design projects lack evidence of external clients."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "School of Natural and Environmental Sciences group project external organisation client",
+    "data science statistics MSc industry project partner team",
+    "NES2202 module company challenges",
+    "MSc Data Science group project industrial collaborators",
+    "NES2202 Sustainable Solutions module"
+   ],
+   "key_sources": [
+    "https://www.ncl.ac.uk/mobility/module/?code=NES2202",
+    "https://teaching.ncl.ac.uk/docs/regsdocs2025/documents/-S5395F_2526.pdf",
+    "https://www.ncl.ac.uk/postgraduate/degrees/5547f/"
+   ],
+   "finding": "NES2202 Sustainable Solutions (sponsor-set team challenge) and MSc Data Science group projects/hackathon; physics, chemistry, biosciences-specific group industry projects not separately searched."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Politics policy consultancy module groups external organisation",
+    "POL3103 Community-based Research in Politics",
+    "Museums Galleries Heritage live brief client project",
+    "Museum Studies MA Producing Curatorial Projects"
+   ],
+   "key_sources": [
+    "https://www.ncl.ac.uk/mobility/newcastle/study-abroad/POL3103",
+    "https://www.ncl.ac.uk/postgraduate/degrees/4007f/"
+   ],
+   "finding": "POL3103 community-based research with partner organisations (capped at 20); Museum Studies curatorial project (partner role unclear). Education, Sociology, Media, Modern Languages, Digital Civics not separately searched."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Architecture Planning Landscape live project community client studio",
+    "APL3001 Alternative Practice: Co-producing Space",
+    "TCP8024 Consultancy Project",
+    "MSc Town Planning Consultancy Project TCP8024",
+    "Law School pro bono clinic",
+    "Faculty of Medical Sciences interprofessional team project community organisation"
+   ],
+   "key_sources": [
+    "https://www.ncl.ac.uk/undergraduate/degrees/module/?code=tcp8024",
+    "https://www.ncl.ac.uk/mobility/newcastle/study-abroad/APL3001",
+    "https://www.ncl.ac.uk/law/study/student-life/pro-bono/"
+   ],
+   "finding": "Architecture, Planning and Landscape has TCP8024 (live-client planning consultancy) and APL3001 (live community build). Law clinics are individual casework; no medical/health group client project found."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "BUS3053",
+   "english_name": "Management Consultancy Project (Newcastle University Business School)",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "Seven Stories (2017/18 cohort, per Vital North blog); Natural History Society of Northumbria and 'Bringing Words to Life' charity (undated case studies; the Natural History Society case relates to the marketing consultancy module).",
+   "official_name": "BUS3053 Management Consultancy Project",
+   "description": "Final-year undergraduate practice-based alternative to the dissertation. Teams of students (small teams, ideally eight per team per a School blog) work on a real business issue for an external client, vetted by the School; they produce a group management report and present orally to the client, plus an individual reflective account.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Newcastle University Business School",
+   "eligible_faculties_programmes": "Business School final-year undergraduate programmes where the module is offered (specific degree list not retrieved).",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year (Stage 3)",
+   "eligibility_restrictions": "40 places stated on module page; offered as an alternative to the dissertation.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Assessment: 40% group management report, 10% group oral presentation to the client, 50% individual reflective account; peer review adjusts group marks. Credit value not stated in the extract (the related Marketing and Management BSc page lists a 40-credit consultancy option).",
+   "duration": "Academic year (final-year module; exact length not stated)",
+   "delivery_format": "In-person, City Campus; client project in small teams",
+   "project_based": "Yes",
+   "project_evidence": "Real business issue for an external client; group management report is the output (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Group report (40%) and group oral presentation (10%) with peer-review adjustment of marks (source 1); small teams, ideally eight (source 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External client supplies a real business issue (vetted by the School), receives the group presentation/report (source 1); named charity/arts clients in Business School case studies (sources 2, 3).",
+   "partner_type": "Mixed",
+   "partner_role": "Clients supply a live problem and receive the report and presentation. Case studies show commercial and charity/cultural clients (e.g. a charity in 'Bringing Words to Life', Seven Stories, Natural History Society of Northumbria).",
+   "deliverable": "Group management consultancy report and group presentation to the client; individual reflective account",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Programmes in which the module can be taken, and credit value, not confirmed from the extract.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/module/?code=BUS3053&year=2025",
+     "title": "BUS3053 : Management Consultancy Project - Undergraduate Study",
+     "section": "Module page (year=2025)",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Practice-based alternative to a dissertation, 40 places; real business issue for an external client; 40% group management report, 10% group oral presentation to the client, 50% individual reflective account; peer review adjusts group marks.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://blogs.ncl.ac.uk/sin/tag/work-integrated-learning/",
+     "title": "Work Integrated Learning (blog)",
+     "section": "Blog post, Sarah Carnegie",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students placed in small teams, ideally eight per team; the School vets each client's problem before assignment.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.ncl.ac.uk/vitalnorth/consulting-with-seven-stories-a-new-collaboration-with-the-business-school/",
+     "title": "Consulting with Seven Stories",
+     "section": "Blog",
+     "pub_year": "2018 (cohort 2017/18)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A 2017/18 team produced recommendations on Seven Stories' membership scheme; client discussed a second project for the 2018/19 cohort.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.ncl.ac.uk/business/partner/enhance-student-learning/student-project-case-studies/bringing-words-to-life/",
+     "title": "Case Study: Bringing Words to Life",
+     "section": "Case study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A charity worked with a final-year team; recommendations feeding into funding bids and programme delivery.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MKT3097",
+   "english_name": "Marketing Consultancy Project",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "Natural History Society of Northumbria (undated case study)",
+   "official_name": "MKT3097 Marketing Consultancy Project",
+   "description": "Final-year undergraduate marketing consultancy module (alternative to the dissertation on Marketing and Marketing & Management BSc). Student groups carry out a project for a live client over about six months, producing a client report, research portfolio and presentation of recommendations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Newcastle University Business School",
+   "eligible_faculties_programmes": "Marketing BSc; Marketing and Management BSc (optional consultancy route in place of dissertation)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year (Stage 3)",
+   "eligibility_restrictions": "Optional alternative to dissertation; June 2025 news item reportedly said 11 further students signed up for September 2025.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Group report 40% (March), group oral presentation to the live client 10%, individual reflective report 50% (May); group mark adjusted by peer group assessment. Marketing and Management BSc page lists a 40-credit option.",
+   "duration": "About six months (client case study)",
+   "delivery_format": "Client project in groups",
+   "project_based": "Yes",
+   "project_evidence": "Client-facing consultancy report plus research portfolio and presentation (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Group report and group presentation with peer group assessment adjusting individual marks (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Live client: the group presentation is given to the live client and the client receives an 8,000-word report, research portfolio and presentation (sources 1, 2).",
+   "partner_type": "Mixed",
+   "partner_role": "Live clients receive consultancy report and presentation; Natural History Society of Northumbria (charity/community) shown as an example.",
+   "deliverable": "Group consultancy report (c.8,000 words), research portfolio, presentation of recommendations; individual reflective report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "unresolved": "Module page retrieved is the 2024 (2024/25) version; a 2025/26 or 2026/27 page was not retrieved. A June 2025 news item (search-summary paraphrase) suggests recruitment for September 2025 but is not firm corroboration. Per ruling, current delivery not confirmed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/module/?code=MKT3097&year=2024",
+     "title": "MKT3097 : Marketing Consultancy Project",
+     "section": "Module page (year=2024)",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group report (40%), group oral presentation to the live client (10%), individual reflective essay (50%); marks adjusted by Peer Group Assessment.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ncl.ac.uk/business/partner/enhance-student-learning/student-project-case-studies/natural-history-society-northumbria/",
+     "title": "Case Study: Natural History Society of Northumbria",
+     "section": "Case study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Over six months students research, develop strategies and manage client relationships; client receives an 8,000-word report, research portfolio and presentation.",
+     "supports": [
+      "project",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/nn52/",
+     "title": "Marketing and Management BSc Honours",
+     "section": "Optional modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students can complete a marketing or management consultancy project for a real-world client in place of a dissertation; 40 credits.",
+     "supports": [
+      "eligibility",
+      "credit",
+      "participation"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.ncl.ac.uk/business/news/spotlight-marketing-research-june-25/",
+     "title": "Research spotlight: Marketing - June 2025",
+     "section": "News item",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: another 11 signed up for September 2025 for MKT3097.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "NBS8130",
+   "english_name": "MBA Management Consultancy Project",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "A rail company (2025 case study; not named in the extract)",
+   "official_name": "NBS8130 Management Consultancy Project (MBA)",
+   "description": "10-credit block-taught MBA module in which teams of MBA students work on a brief from an external organisation, meet the client to agree objectives and work plan, undertake roughly two weeks of intensive research with project update meetings, and present recommendations (30 minutes) at the client's offices.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Newcastle University Business School (MBA)",
+   "eligible_faculties_programmes": "Master of Business Administration (MBA)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA",
+   "eligibility_restrictions": "MBA students; projects from corporate partners or students may source their own organisation.",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 credits, level 7, block mode; assessment pattern in module outline (not retrieved).",
+   "duration": "Block-taught; about two weeks of intensive research within the project (2025 case study)",
+   "delivery_format": "Block teaching; team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Team responds to client's project brief and presents recommendations tied to client objectives (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in teams with other Newcastle MBA students' (source 1); rail company case study describes a team pitch and presentation (source 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisation sets the brief, gives feedback on proposal and work plan, takes project update meetings and receives final presentation at its offices (source 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Corporate client sets brief and receives recommendations; some students source their own organisation, or an individual corporate consultancy route exists (excluded separately).",
+   "deliverable": "Team recommendations/report and client presentation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Compulsory status of NBS8130 in the MBA (vs optional pathway) inferred from regulations listing; assessment weighting not retrieved. Rail-company partner not named.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://teaching.ncl.ac.uk/docs/regsdocs2025/documents/-R5823_%202526_%20vFinal.pdf",
+     "title": "Programme Regulations 2025/26: MBA (5823)",
+     "section": "Module table",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "NBS8130 Management Consultancy Project, 10 credits, level 7, block mode (listed in 2025/26 MBA regulations).",
+     "supports": [
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://microsites.ncl.ac.uk/casestudies/2025/01/09/using-applied-pedagogy-to-deliver-social-value-on-a-management-consultancy-module/",
+     "title": "Using Applied Pedagogy to Deliver Social Value, on a Management Consultancy module",
+     "section": "Case study",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Team pitched its understanding of the brief to a rail company client, received feedback on proposal and work plan, ran two weeks of research with client meetings, and gave a 30-minute presentation at the client's offices.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.ncl.ac.uk/postgraduate/degrees/5823f/",
+     "title": "Master of Business Administration MBA",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MBA has a team-based Management Consultancy Project where students work on a brief offered by a live client; can apply for a corporate-partner project or source their own.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Business in Action (MBA)",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "Northumbrian Water Group/NWL (2021-2024); 'an additional 10 organisations' in 2023 not named",
+   "official_name": "MBA Business in Action case competition (with Northumbrian Water Group)",
+   "description": "MBA students form teams to address a business challenge set by a strategic partner (Northumbrian Water/NWL since 2021) and deliver a competitive pitch to the company. Briefs have included a circular-economy wastewater process (2024), customer water consumption (2023) and stakeholder-influence strategy (2021).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Newcastle University Business School (MBA)",
+   "eligible_faculties_programmes": "MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA",
+   "eligibility_restrictions": "MBA cohort",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "A 'Business in Action' week",
+   "delivery_format": "Intensive week, team case competition with final pitch to company",
+   "project_based": "Yes",
+   "project_evidence": "Company-set business challenge with a defined output (recommendations pitched to the company) (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "MBA students work in teams on the challenge and pitch (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Northumbrian Water sets the brief ('case competition set by NWL') and receives the final competitive pitch (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Company sets live challenge, receives pitches.",
+   "deliverable": "Team pitch/recommendations",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024",
+   "unresolved": "Most recent dated news item is February/March 2024; curricular vs extracurricular status and credits unknown; short format (about a week). 2025/26 delivery not evidenced.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/business/news/business-in-action-february-2024/",
+     "title": "Business in Action: students and businesses collaborate to overcome challenges",
+     "section": "News item",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Fourth year of MBA students exploring a business challenge with NWL; brief on a more sustainable, circular economy in wastewater treatment; teams gave a final competitive pitch to the company.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ncl.ac.uk/business/news/net-zero-pledge/",
+     "title": "MBA students help Northumbrian Water Group",
+     "section": "News item",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Business school working with NWG to set a case competition for MBA learners since 2021.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CSC2033",
+   "english_name": "Software Engineering Team Project",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "",
+   "official_name": "CSC2033 Software Engineering Team Project",
+   "description": "30-credit Stage 2 compulsory team project in Computing: students are placed in teams, receive a project brief, build a software system with collaborative tooling and present it at a trade fair/workshop receiving feedback from employers. Course summaries describe real-life industry briefs, with projects marked by industry representatives, lecturers and the project sponsor.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing",
+   "eligible_faculties_programmes": "Computer Science BSc/MComp and variants (G400, G405, G600/G603 etc.)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Stage 2",
+   "eligibility_restrictions": "Compulsory module for Computing degrees",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits; team deliverables (software, documentation) with peer assessment of individual contribution.",
+   "duration": "Semester(s) - Stage 2 (not stated)",
+   "delivery_format": "Team project with lectures and tool tutorials; trade-fair presentation",
+   "project_based": "Yes",
+   "project_evidence": "Project brief; team deliverables of software and documentation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Students placed in teams; peer assessment of contribution (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1 says deliverables 'may vary ... depending on the involvement of an industrial consultant' and students receive employer feedback at the trade fair; course summaries (source 2) say students choose a problem identified by industry and projects are marked by industry representatives and the project sponsor. These two descriptions differ on whether an external sponsor is standard.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industrial consultant/sponsor sets or contributes to brief; employers give feedback at trade fair and help mark (per course summaries, search-summary paraphrase).",
+   "deliverable": "Team software system, documentation, trade-fair presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Whether every team has an external sponsor each year is unclear (module page: 'may vary ... industrial consultant'); no named sponsors found; course summary text only obtained as search paraphrase.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/module/?code=CSC2033&year=2026",
+     "title": "CSC2033 : Software Engineering Team Project",
+     "section": "Module page (year=2026)",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Stage 2 compulsory, 30 credits; teams receive a project brief; deliverables may vary depending on involvement of an industrial consultant; final system presented at trade fair/workshop with employer feedback; peer assessment. 2026/27 module leader Dr Marie Devlin.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://pdf.ncl.ac.uk/ug/2025/g400.pdf",
+     "title": "Course Summary: October 8, 2025 Computer Science BSc Honours G400",
+     "section": "Stage 2",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: Stage 2 team project uses real-life industry briefs; projects marked by industry representatives, lecturers and the project sponsor.",
+     "supports": [
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Mechanical Engineering industry team projects",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "None named in the extract",
+   "official_name": "Mechanical Engineering industry-hosted final-year team projects",
+   "description": "School of Engineering partnerships page describes final-year teams (typically five students) undertaking c.750-hour projects in local industry, October-January, requiring 25-30 company-hosted teams each year; also a 3,000-hour MEng team project (October-May) and individual 300-hour and Masters projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering (Mechanical Engineering)",
+   "eligible_faculties_programmes": "Mechanical Engineering undergraduate/MEng (module code not retrieved)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Not stated",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "October to January (750 hours); MEng 3,000-hour team project October to May",
+   "delivery_format": "Company-hosted team projects",
+   "project_based": "Yes",
+   "project_evidence": "Defined c.750-hour industry projects (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of typically five final-year students (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies host and support the projects, contribute staff time, may use NDAs, and assess student fit (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Local companies host the team project and supply the problem.",
+   "deliverable": "Team project outcome for company (not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Undated partnerships page; corresponding module code, credit weight, compulsory status and current-year (2025/26 or 2026/27) delivery not found. Duration band recorded from 750 hours over Oct-Jan; 'hours' framing means the band is uncertain.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/engineering/business-innovation-partners/mechanical-engineering-partnerships/",
+     "title": "Mechanical Engineering Partnerships",
+     "section": "Student projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Each year needs enough companies to support 25-30 teams, each typically five final-year students; c.750-hour projects in local industry October-January; 3,000-hour MEng team project; NDAs can be discussed.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "TCP8024",
+   "english_name": "Planning Consultancy Project",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "",
+   "official_name": "TCP8024 Consultancy Project (planning)",
+   "description": "20-credit module in which groups of students work intensively on a live planning-related consultancy project for an outside client. The brief is the client's, with minimal School input; groups meet the client in week 1, then alternate meetings with module lead and client lead; assessed by group presentation to the client and a group report of about 10,000 words.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Architecture, Planning and Landscape",
+   "eligible_faculties_programmes": "Master of Planning (MPlan, RTPI/RICS accredited), compulsory per module listing",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Integrated master's (4-year MPlan) - stage not stated",
+   "eligibility_restrictions": "MPlan programme",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; group presentation to the client plus group report (c.10,000 words, size-dependent)",
+   "duration": "About 8 weeks of client meetings (weeks 1-8)",
+   "delivery_format": "Group consultancy for an outside client; alternating module-lead and client-lead meetings",
+   "project_based": "Yes",
+   "project_evidence": "Live planning-related consultancy piece; group report and presentation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'a group of students work intensively on a piece of consultancy work for an outside client' (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'This is a live project and the project brief is that of the client organisation with only minimum input from the School'; client meetings and presentation (source 1).",
+   "partner_type": "Unclear",
+   "partner_role": "Outside client organisation sets the brief, meets groups and receives the presentation; sector of clients (local authority/private/community) not stated.",
+   "deliverable": "Group consultancy report (c.10,000 words) and presentation to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Client organisations and sector not named; module page is titled 'Undergraduate Study' while code prefix TCP8 and the MSc Urban Planning page do not list it, so level/programme list (MPlan only?) should be checked.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/module/?code=tcp8024",
+     "title": "TCP8024 : Consultancy Project",
+     "section": "Module page",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'The Consultancy Project is designed to allow a group of students to work intensively on a piece of consultancy work for an outside client. This is a \"live\" project and the project brief is that of the client organisation with only minimum input from the School.' Group presentation to client plus group report c.10,000 words; offered 2026/27, 20 credits, led by Dr Zan Gunn.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/k400/",
+     "title": "Master of Planning MPlan",
+     "section": "Compulsory modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "TCP8024 listed as compulsory 20-credit module on the MPlan (search summary).",
+     "supports": [
+      "participation",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "POL3103",
+   "english_name": "Community-based Research in Politics",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "Carers Northumberland (2014-15 run, per Social Justice North East site); current partners not named",
+   "official_name": "POL3103 Community-based Research in Politics",
+   "description": "40-credit year-long module (capped at 20) in which students select a project offered by a partner organisation, join a student research team for the academic year, run an ethically-approved research project and present a policy report with recommendations at a workshop on behalf of the partner. Partners are typically voluntary-sector organisations in Newcastle/North East.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Politics, School of Geography, Politics and Sociology",
+   "eligible_faculties_programmes": "Politics and related degrees; listed in study-abroad and combined-honours catalogues",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Stage 3 (code level)",
+   "eligibility_restrictions": "Capped at 20 places",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits (semesters 1 and 2); current entry: mainly an individual research portfolio of 4-6 pieces; team policy report and presentation per earlier entry.",
+   "duration": "Academic year (two semesters)",
+   "delivery_format": "Student research teams with partner organisations; workshop presentation",
+   "project_based": "Yes",
+   "project_evidence": "Research project to answer a partner's question; policy report and presentation (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Students are placed on a student research team for the academic year; portfolios feed the team's policy report and presentation (2022/23 entry, source 2). Current assessment is mainly individual portfolio.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner organisation chooses the topic and receives the team's report and recommendations (university community-engagement page, source 3).",
+   "partner_type": "Charity/community",
+   "partner_role": "Voluntary/community partners set the research question and receive a report with recommendations; e.g. Carers Northumberland in Social Justice North East (earlier run).",
+   "deliverable": "Team policy report with recommendations and workshop presentation; individual research portfolio",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Group-output evidence combines a 2022/23 catalogue entry and the community engagement page with the 2025/26 entry which emphasises individual portfolios; weight of the team report in assessment not confirmed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/mobility/newcastle/study-abroad/POL3103",
+     "title": "POL3103 : Community-based Research in Politics",
+     "section": "Module catalogue entry",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Syllabus: meeting partner organisations, allocating teams, research question, design, ethics, data collection, drafting report and presenting at a workshop; leaders Dr David Walker and Prof Stephen Elstub; 40 credits, capped at 20.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ncl.ac.uk/module-catalogue/module.php?code=POL3103",
+     "title": "POL3103 module catalogue (2022/23 entry)",
+     "section": "Description",
+     "pub_year": "2022/23",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students select a preferred project and are placed on a student research team for the academic year; portfolio work provides the research teams with resources to formulate a policy report and presentation on behalf of their partner organisation.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.ncl.ac.uk/gps/work-with-us/community-engagement/",
+     "title": "Community Engagement Partnerships",
+     "section": "Partner page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A student team, guided by academics, investigates a topic the partner chooses and presents a report with recommendations.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://research.ncl.ac.uk/socialjusticene/",
+     "title": "Social Justice North East",
+     "section": "Project site",
+     "pub_year": "2014-15",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students worked in five small research teams with voluntary-sector partners; a Carers Northumberland project informed later research.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "NES2202",
+   "english_name": "Sustainable Solutions",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "None named",
+   "official_name": "NES2202 Sustainable Solutions",
+   "description": "10-credit Stage 2 module in which students work in small interdisciplinary teams (with peers from other degree programmes) on a problem set by an external organisation/company, meet the sponsor for early feedback, develop a sustainable solution and pitch to the sponsor; shortlisted teams compete in finals with students and sponsors voting.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Natural and Environmental Sciences",
+   "eligible_faculties_programmes": "Natural and Environmental Sciences degrees (compulsory on e.g. Chemistry with Medicinal Chemistry BSc and Agriculture BSc per programme pages); teams drawn from several programmes",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Stage 2",
+   "eligibility_restrictions": "Co-requisite/progression requirement for NES Stage 2 programmes",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 credits, Semester 1; pitch (oral/slides) and short business proposal report.",
+   "duration": "Semester 1 (intensive development period)",
+   "delivery_format": "Team challenge with sponsor meeting, pitch, finals and company network event",
+   "project_based": "Yes",
+   "project_evidence": "Sustainable solution for sponsor's problem; pitch and business proposal (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Small teams including students from other degree programmes (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisation/companies present challenges, meet teams for early feedback, receive pitches and vote in finals (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Company sponsors set challenges and give feedback on pitches.",
+   "deliverable": "Team pitch and short business proposal",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Module catalogue entries are undated; 2025/26 programme specifications surfaced in the search but the search did not tie NES2202 to a dated 2025/26 timetable; sponsors not named; partner sector (company vs other organisation) from summary wording.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/mobility/module/?code=NES2202",
+     "title": "NES2202 : Sustainable Solutions",
+     "section": "Module catalogue",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Work with an external organisation on a problem and generate a sustainable solution; small teams with peers from other degree programmes; student teams meet challenge sponsors for early feedback; pitch to sponsor; finals with student and sponsor voting; 10 credits, Semester 1.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/d400/",
+     "title": "Agriculture BSc",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Sustainable Solutions listed as a 10-credit compulsory module (search summary); also on Chemistry with Medicinal Chemistry BSc.",
+     "supports": [
+      "participation",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "APL3001",
+   "english_name": "Alternative Practice: Co-producing Space",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "",
+   "official_name": "APL3001 Alternative Practice: Co-producing Space",
+   "description": "20-credit Stage 3 Semester 2 module: a live project in which student groups design and build (1:1) a small temporary urban intervention in collaboration with a community group, typically in the North East, to test future urban visions.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Architecture, Planning and Landscape",
+   "eligible_faculties_programmes": "Architecture and Urban Planning BA (optional live design option); open to study-abroad students with prerequisite APL2035",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Stage 3",
+   "eligibility_restrictions": "Prerequisite knowledge from APL2035 Participation: Theories and Practices",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, Semester 2; assessment detail not retrieved",
+   "duration": "One semester",
+   "delivery_format": "Studio/live build with a community group",
+   "project_based": "Yes",
+   "project_evidence": "1:1 design and build of an urban intervention (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Students work in groups on design, planning, detailing and/or making of the live intervention (source 2, search paraphrase).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Delivered in collaboration with a community group, usually in the North East (sources 1, 2).",
+   "partner_type": "Charity/community",
+   "partner_role": "Community group collaborates on the live intervention; whether it sets the brief or assesses is not stated.",
+   "deliverable": "Built temporary urban intervention",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Assessment and the group/individual balance not retrieved; partner groups not named; 'typically/usually' wording on community group involvement.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/mobility/newcastle/study-abroad/APL3001",
+     "title": "APL3001 : Alternative Practice: Co-producing Space",
+     "section": "Module catalogue",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Stage 3, 20 credits, Semester 2; live project, 1:1 design and build of an urban intervention in collaboration with a community group.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/k190/",
+     "title": "Architecture and Urban Planning BA",
+     "section": "Stage 3",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Optional module: semester-long project in which students work in groups on a live intervention, typically conducted with a community group in the North East.",
+     "supports": [
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Practera Horizons (Careers Service)",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "12 funded places (January 2026 cohort)",
+   "named_partners": "",
+   "official_name": "Careers Service Practera Horizons programme",
+   "description": "Three-week programme (12 funded places, January 2026 start) in which cross-university teams act as a consulting team for a real start-up, business or charity, receive a project brief and produce a professional report with findings and recommendations; online coaching and a digital certificate.",
+   "academic_reach": "Unclear",
+   "admin_host": "Careers Service (delivered via Practera platform)",
+   "eligible_faculties_programmes": "Eligibility not stated beyond cross-university teams",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "Twelve funded places; application route not retrieved",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Non-credit; digital certificate",
+   "duration": "Three weeks",
+   "delivery_format": "Online, team consulting project via Practera",
+   "project_based": "Yes",
+   "project_evidence": "Team receives a project brief and delivers a professional report (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Participants work as part of a consulting team in cross-university teams (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project is for a real start-up, business or charity ('industry client') whose brief the team receives; reports present findings to the client context (source 1). How much live client interaction (feedback, receipt of report) occurs is not described.",
+   "partner_type": "Mixed",
+   "partner_role": "Real start-ups, businesses or charities supply the brief.",
+   "deliverable": "Professional report with findings and recommendations",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Practera-type programmes can be simulated; the Newcastle announcement says real start-up/business/charity but live client engagement depth and partner names are not evidenced; eligibility and future runs ('more details coming soon') unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/careers/about/news/news-items/practera-virtual-work-experience-programme/",
+     "title": "Launch of Practera programme - Careers Service",
+     "section": "News item, 2 March 2026",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Twelve funded places on Horizons from January 2026; three-week programme; cross-university teams advise a real start-up, business or charity; each team received a project brief and produced a professional report.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S12",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Advanced Data Science MSc group project",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "",
+   "official_name": "MSc Advanced Data Science group project (5395F)",
+   "description": "Programme specification states students work in small groups to solve a practical applied data science problem; 'where possible' the projects are genuine research problems provided by industrial or applied academic collaborators.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Mathematics, Statistics and Physics / School of Computing",
+   "eligible_faculties_programmes": "Advanced Data Science MSc (5395F)",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not stated",
+   "delivery_format": "Small-group applied project",
+   "project_based": "Yes",
+   "project_evidence": "Practical applied data science problem (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Students work in small groups (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Problems come 'where possible' from industrial or applied academic collaborators (source 1); academic collaborators are not external employers and industrial supply is not guaranteed.",
+   "partner_type": "Mixed",
+   "partner_role": "Industrial or applied academic collaborators provide problems where possible.",
+   "deliverable": "Group project outcome (not specified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Share of projects from industry vs academic collaborators; credit and duration; whether compulsory.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://teaching.ncl.ac.uk/docs/regsdocs2025/documents/-S5395F_2526.pdf",
+     "title": "Programme Specification 2025-26: Advanced Data Science MSc",
+     "section": "Learning outcomes/teaching",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in small groups to solve a practical applied problem; where possible projects are genuine research problems provided by industrial or applied academic collaborators.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S13",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Data Science and Industrial Biotechnology group hackathon",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "Procter & Gamble, Northumbrian Water, Ginkgo Bioworks, Lonza (undated page)",
+   "official_name": "MSc Data Science and Industrial Biotechnology capstone hackathon",
+   "description": "Programme page describes a final capstone stage with a group hackathon co-delivered with industry partners (named collaborators include Procter & Gamble, Northumbrian Water, Ginkgo Bioworks, Lonza); partners help shape assessment briefs and contribute to group projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Data Science and AI MSc conversion degrees (Schools of Computing / Maths, Statistics and Physics / Natural and Environmental Sciences)",
+   "eligible_faculties_programmes": "Data Science and Industrial Biotechnology MSc",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not stated",
+   "delivery_format": "Group hackathon within capstone",
+   "project_based": "Unclear",
+   "project_evidence": "Hackathon challenge; output and length not described (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'group hackathon' (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industrial partners help shape assessment briefs, contribute to group projects and co-deliver the final hackathon challenge (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Co-deliver challenge and contribute to briefs.",
+   "deliverable": "Hackathon solution (not specified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Page undated; hackathon duration and output, credits and whether partners engage every cohort not established.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/postgraduate/degrees/5547f/",
+     "title": "Data Science and Industrial Biotechnology",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group hackathon co-delivered with industry partners including Procter & Gamble, Northumbrian Water, Ginkgo Bioworks and Lonza; partners help shape assessment briefs and contribute to group projects.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S14",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Curatorial project (Museum Studies MA)",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "participation_data": "No participation numbers published beyond any stated cap/places.",
+   "named_partners": "",
+   "official_name": "Museum Studies MA: Producing Curatorial Projects for Museum Audiences",
+   "description": "20-credit compulsory module where student teams run a semester-long curatorial project (e.g. exhibitions at the Laing Art Gallery or Great North Museum: Hancock), managing budget, labels and installation and liaising with professionals; programme page describes collaboration with the Great North Museum: Hancock.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Arts and Cultures",
+   "eligible_faculties_programmes": "Museum Studies MA/PGDip",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MA",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "One semester",
+   "delivery_format": "Student-team curatorial project",
+   "project_based": "Yes",
+   "project_evidence": "Exhibition/curatorial project open to the public (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Project run as part of a student team (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Collaboration with the Great North Museum: Hancock is stated; whether the museum is an external body (vs university-affiliated), sets the brief or assesses is not evidenced.",
+   "partner_type": "Unclear",
+   "partner_role": "Museum partner role not specified.",
+   "deliverable": "Public exhibition/curatorial project",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Partner independence and role; current-year delivery; assessment.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ncl.ac.uk/postgraduate/degrees/4007f/",
+     "title": "Museum Studies MA, PGDip",
+     "section": "Compulsory modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "20-credit compulsory module Producing Curatorial Projects for Museum Audiences; semester-long group curatorial project with the Great North Museum: Hancock; student team duties include budget, labels, hanging.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "NCL2100 Developing Enterprise, Entrepreneurship and Employability",
+   "legacy": true,
+   "category": "Evidence gap",
+   "reason": "20-credit enterprise/employability module available as an option on several degrees (2021/22 regulations); no module outline was found, so project content, group working and external-organisation involvement are all unevidenced (A, B, C Unclear). Nothing indicates a live-client project.",
+   "source_url": "https://www.ncl.ac.uk/computing/people/profile/charlottehope.html",
+   "status_note": "Module leader profile only; current availability by degree not verified."
+  },
+  {
+   "name": "START UP / Summer Launchpad",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Careers Service enterprise workshops, coaching and a three-day Launchpad including a mini hackathon and startup-hub visits; no external organisation setting a brief or receiving group output is evidenced (C not met/unevidenced).",
+   "source_url": "https://www.ncl.ac.uk/careers/startup/start-up-stories/news/news-items/start-up-summer-launchpad-success/",
+   "status_note": "June 2026 delivery per legacy research; not re-searched."
+  },
+  {
+   "name": "MBA Corporate Consultancy (individual route)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "A partner-facing page describes pairing a partner with a student for a summer project (e.g. Sage, Trench Networks); individual corporate consultancy project route is separate from the team NBS8130 module.",
+   "source_url": "https://www.ncl.ac.uk/business/partner/solve-a-business-challenge/mba-corporate-consultancy/",
+   "status_note": "Undated."
+  },
+  {
+   "name": "NES8013 Consultancy Dissertation Project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Client-based consultancy dissertation; some projects have teams on different aspects but each student's report must be unique and based on own data - individual output.",
+   "source_url": "https://www.ncl.ac.uk/mobility/newcastle/study-abroad/NES8013",
+   "status_note": "2024/25 entry."
+  },
+  {
+   "name": "Business School MSc practice-based dissertations (International Business, Operations/Logistics, AI in Business, Entrepreneurship and Innovation)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Optional practice-based dissertations/consultancy reports with companies; individual dissertations and availability depends on application/performance.",
+   "source_url": "https://www.ncl.ac.uk/postgraduate/degrees/4047f/",
+   "status_note": "Programme pages undated."
+  },
+  {
+   "name": "Law pro bono schemes (SEQUENTUS, LegaCare, Citizens Advice, Street Law)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Supervised individual client casework, internships and volunteering; Street Law is outreach teaching. No group project output for an external client evidenced.",
+   "source_url": "https://www.ncl.ac.uk/law/study/student-life/pro-bono/",
+   "status_note": "Mixed-age marketing page."
+  },
+  {
+   "name": "Chemical Engineering (Industry) MEng Stage 3 Industrial Design Project",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Paid placement in which the student works as part of a team of professional engineers at the host company on a company-defined problem; not a student team (B not met).",
+   "source_url": "https://www.ncl.ac.uk/undergraduate/degrees/h815/",
+   "status_note": "Undated."
+  },
+  {
+   "name": "Chemical Engineering MEng Stage 3 team design project (CME3039 Plant Design)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group plant design project (small teams) presented to a panel of sector experts; no evidence that an external organisation sets the brief or that the panel is external beyond 'sector experts'.",
+   "source_url": "https://www.ncl.ac.uk/undergraduate/degrees/h813/",
+   "status_note": "Course summary dated 17 Dec 2025 exists; project details paraphrased only."
+  },
+  {
+   "name": "Electrical and Electronic Engineering with Industrial Project MEng (Group Design Project and Industrial Project)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "30-credit Group Design Project and separate 40-credit Industrial Project (companies such as Tridonic, Dyson); group and industrial elements are separate and the industrial project's team format and the group design project's external client are not evidenced.",
+   "source_url": "https://www.ncl.ac.uk/undergraduate/degrees/h605/",
+   "status_note": "Undated."
+  },
+  {
+   "name": "General Engineering MEng Stage 3 interdisciplinary design project / Stage 4 team project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "2020 course summary only: 40-credit design project 'with industry experts' and 60-credit team project; external client involvement and current delivery unevidenced.",
+   "source_url": "https://pdf.ncl.ac.uk/ug/h104.pdf",
+   "status_note": "2020 source."
+  },
+  {
+   "name": "Mechanical Engineering Year 2 design project with an industry partner",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Programme page says students 'can' work on an industry-partner design project in Year 2; optional/format unevidenced.",
+   "source_url": "https://www.ncl.ac.uk/undergraduate/degrees/h301/",
+   "status_note": "Page approx. 7 years old per search."
+  },
+  {
+   "name": "MArch Live Build / Landscape Architecture live projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Live build projects with local clients and communities (e.g. Kielder Art and Architecture 2018) and live projects with practitioners; group format, module and current delivery not evidenced.",
+   "source_url": "https://www.ncl.ac.uk/apl/research/case-studies/live-build-projects/",
+   "status_note": "Latest example 2018."
+  },
+  {
+   "name": "CSC8491 Project and Dissertation for MSc in Advanced Computer Science",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual MSc project/dissertation that may involve an industrial partner; not group.",
+   "source_url": "https://www.ncl.ac.uk/postgraduate/degrees/module/?code=CSC8491",
+   "status_note": ""
+  },
+  {
+   "name": "Sustainable Futures Challenge, Creative Spark challenge kit, Careers competitions",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Enterprise/idea competitions pitched to universities or judges; no external organisation brief evidenced.",
+   "source_url": "https://www.ncl.ac.uk/global/sustainable-futures-challenge/",
+   "status_note": "Sustainable Futures Challenge 2023; Creative Spark pages look dated."
+  },
+  {
+   "name": "Museum, Gallery and Heritage placements",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "About 100 placements per year via sector contacts; individual placements, no group project evidenced.",
+   "source_url": "https://teaching.ncl.ac.uk/museumgalleryheritageplacements/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Newcastle's verified provision is distributed across schools rather than institution-wide. The strongest cluster is in the Business School: BUS3053 (final-year undergraduate Management Consultancy Project, 40 places, group report and presentation to an external client, 2025/26 page), MKT3097 (marketing equivalent, current delivery not corroborated beyond 2024/25), the MBA team module NBS8130 (client-set briefs, 2025/26 regulations) and the Business in Action case competition run with Northumbrian Water (latest dated 2024, about a week).\n\nOutside business, TCP8024 (planning, compulsory on the MPlan) puts student groups on a live brief set by an outside client; APL3001 has groups design and build an intervention with a community group; POL3103 places up to 20 students in research teams for partner (voluntary-sector) organisations, though its assessment is now mostly individual portfolio. NES2202 Sustainable Solutions is a compulsory-in-programme sponsor-set team challenge in Natural and Environmental Sciences, but its currency is undated. In computing, the compulsory Stage 2 CSC2033 team project involves industry sponsors/employer feedback, but the module page says this varies by year, so employer involvement is Unclear. Mechanical Engineering describes company-hosted final-year team projects (undated page).\n\nCentrally, the Careers Service ran a three-week Practera Horizons consulting programme in January 2026 (12 funded places; real start-up/business/charity briefs), but eligibility and client engagement depth are not documented. Enterprise provision (NCL2100, START UP) was not shown to involve live clients.\n\nUncertain: current-year evidence for several routes, partner names, and engineering/science departmental instances.",
+ "gaps": "Further departmental capstones likely (Civil, Chemical, Electrical engineering; Biosciences, Chemistry, Physics; Education, Sociology, Modern Languages, Digital Civics/Open Lab; Dentistry/Medicine/Nursing). Not tested: SPG8500, EIN2011/EIN3000/BMS3003 enterprise modules (group business-idea assignments likely hypothetical), CSC8-coded MSc team projects, Newcastle Think Tank/student consultancy societies, Social Justice North East current partners. Current-year evidence missing for MKT3097, NES2202, Mechanical Engineering projects, Business in Action, Data Science and Industrial Biotechnology, Museum Studies. All evidence is search-index extract/paraphrase; no pages opened."
+}

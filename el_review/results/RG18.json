@@ -1,0 +1,1085 @@
+{
+ "inst_id": "RG18",
+ "institution": "Queen Mary University of London",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Queen Mary student consultancy live client project module",
+    "The Student Consultancy Project external organisations teams",
+    "Student Consultancy Project 2025-26 applications",
+    "SKETCH Student Knowledge Exchange Through Community Hubs"
+   ],
+   "key_sources": [
+    "https://www.qmul.ac.uk/careers/find-opportunities/skill-building-programmes/the-student-consultancy-project/",
+    "https://www.qmul.ac.uk/careers/employers/the-student-consultancy-project/what-is-scp/",
+    "https://www.qmul.ac.uk/sketch/"
+   ],
+   "finding": "University-wide Student Consultancy Project (all UGs, live external hosts) and SKETCH umbrella of student knowledge-exchange strands; QInterns is an individual internship."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "SBM Consult",
+    "MSc Management Capstone Live Project",
+    "BUSM250",
+    "First live consultancy Capstone Projects",
+    "Real World Impact Projects",
+    "Social Impact Project BUS380",
+    "SBM Digital Industry Project Practera"
+   ],
+   "key_sources": [
+    "https://www.qmul.ac.uk/modules/items/bus380-social-impact-project.html",
+    "https://www.qmul.ac.uk/modules/items/busm250-contemporary-live-management-project.html",
+    "https://www.qmul.ac.uk/sbm/news/2026/first-live-consultancy-capstone-projects-successfully-completed.html",
+    "https://www.qmul.ac.uk/sbm/entrepreneurship-hub/real-world-impact-projects/"
+   ],
+   "finding": "Dense SBM provision: UG BUS380 Social Impact Project, PG live capstones (BUSM250, E&I), Real World Impact Projects, plus SBM Consult (internal clients) and a Practera virtual project."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "EECS group project industry partner client software engineering",
+    "engineering design and build project industry sponsor",
+    "MSc project with industry EECS",
+    "MEng group design project sponsored by industry",
+    "Design Innovation and Creative Engineering client brief",
+    "DEN327 Industry Related Design Project"
+   ],
+   "key_sources": [
+    "https://www.qmul.ac.uk/eecs/postgraduate/msc-project-with-industry/",
+    "https://www.sems.qmul.ac.uk/ugadmissions/faq/"
+   ],
+   "finding": "Industry-linked MSc projects are individual; MEng group design projects are frequently but not standardly industry sponsored (C unclear); ECS506U and DEN327 lack external-client evidence."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "SBBS/Chemistry/Physics/Maths group project external organisation",
+    "Mathematical Sciences data science team project client MSc"
+   ],
+   "key_sources": [
+    "https://www.qmul.ac.uk/sbbs/undergraduate/year-in-industry/"
+   ],
+   "finding": "No group employer-client project found in science schools; SBBS Year in Industry is an individual placement; data science/maths MSc projects are individual or research-based."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "module groups community organisation client Geography Politics English History",
+    "Geography consultancy module environmental client",
+    "qHeritage teams external client",
+    "qHeritage for students 2026-27",
+    "qNomics Live Consultancy Client Advisory"
+   ],
+   "key_sources": [
+    "https://www.qmul.ac.uk/history/qheritage/for-students/",
+    "https://www.qmul.ac.uk/qnomics/for-students/client-advisory/"
+   ],
+   "finding": "SKETCH pillars qHeritage (History) and qNomics (Economics) run team client projects; no credit-bearing group client module found in Geography, Politics or English; Politics Civil Society is an individual placement."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Queen Mary Legal Advice Centre students clinic",
+    "qLegal pro bono commercial law clinic",
+    "medicine dentistry community project student selected component"
+   ],
+   "key_sources": [
+    "https://www.qmul.ac.uk/lac/",
+    "https://www.qmul.ac.uk/publicengagement/blog/archive/items/qlegal-free-legal-advice-and-the-entrepreneurship-community.html"
+   ],
+   "finding": "Law clinics are advice/casework (not group project verified); medicine/dentistry show only individual volunteering requirements."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The Student Consultancy Project (SCP)",
+   "english_name": "Student Consultancy Project",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Past clients cited in SKETCH material include FDM, Catch22, Routledge Publishers and Donmar Warehouse (undated; source 4). No 2025/26 client list found.",
+   "unresolved": "Careers pages are undated (an application deadline of 17 May appears with no year). Current delivery rests on the 2025-26 Access and Participation Plan stating SBM's SCP is running teams, which concerns internal research briefs; external 2025/26 hosts not named. Formats range from one day to ~2 months, so substantiveness varies by format.",
+   "local_id": "S1",
+   "description": "Multidisciplinary teams of Queen Mary undergraduates act as consultants on live problems set by external host organisations (businesses, charities, social enterprises, not-for-profits; UK and international). Project types include research and analysis, marketing, sustainability, business strategy and data/customer insight. Teams meet the host at set-up, mid-project and final stages, are supported by a Queen Mary supervisor, and present findings and recommendations to the client as a presentation and short written report. Formats: autumn programme (Oct-Nov, weekly training), one-day hackathons (Feb-May), two-week Summer Sprint (June).",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers and Enterprise (Student Consultancy Project team); part of the SKETCH knowledge-exchange programme",
+   "eligible_faculties_programmes": "Open to all Queen Mary undergraduates from any academic school, including medicine and dentistry; QMUL Bursary recipients prioritised.",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "All year groups",
+   "eligibility_restrictions": "Undergraduates only; no prior consultancy experience needed; application and selection.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not stated as credit-bearing; no credit evidenced.",
+   "duration": "Autumn programme Oct-Nov; hackathons one day; Summer Sprint two weeks",
+   "delivery_format": "Team consultancy projects with training sessions and supervisor support; some formats short (hackathon).",
+   "project_based": "Yes",
+   "project_evidence": "Live problems with defined outputs: presentation and short written report with recommendations to the host (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Multidisciplinary student teams working together on one host project (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host organisations (any UK/international business, charity, social enterprise or not-for-profit) supply the problem, meet teams at set-up, mid-project and final stages and receive the presentation/report (source 2). External hosts are the documented norm.",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies live challenge, attends check-ins, receives final presentation and report. A minority of SBM-run SCP teams research university-internal questions (access and participation work, source 3), which are internal rather than external.",
+   "deliverable": "Presentation and short written report with findings and recommendations to the client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/careers/find-opportunities/skill-building-programmes/the-student-consultancy-project/",
+     "title": "The Student Consultancy Project - Careers and Employability",
+     "section": "Programme overview / formats",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Autumn programme Oct-Nov with weekly training; one-day hackathons Feb-May; two-week Summer Sprint in June; open to all QMUL undergraduates from any school; multidisciplinary teams.",
+     "supports": [
+      "project",
+      "group",
+      "eligibility",
+      "participation",
+      "duration",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qmul.ac.uk/careers/employers/the-student-consultancy-project/what-is-scp/",
+     "title": "What is SCP? - Careers and Enterprise",
+     "section": "Host information",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Hosts can be any UK/international business, charity, social enterprise or not-for-profit; hosts typically attend an initial set-up meeting, mid-project check-in and a final meeting where students present findings and recommendations (presentation and short written report); teams supported by a Queen Mary supervisor. (Details as summarised by search result.)",
+     "supports": [
+      "employer",
+      "project",
+      "group"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.qmul.ac.uk/media/qmul/undergraduate/Queen-Mary-University-of-London_APP_2025-26_V1_10007775.pdf",
+     "title": "Access and Participation Plan 2025-26 to 2028-29",
+     "section": "Student consultancy activity",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary reports SBM's SCP running two teams on research into barriers for disabled students and progression of under-represented groups into postgraduate study.",
+     "supports": [
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.qmul.ac.uk/sketch/",
+     "title": "SKETCH - Student Knowledge Exchange Through Community Hubs",
+     "section": "Partners",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "SKETCH includes The Student Consultancy Project among its strands; past SCP clients cited include FDM, Catch22, Routledge Publishers and Donmar Warehouse.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Social Impact Project",
+   "english_name": "Social Impact Project",
+   "module_code": "BUS380",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Tower Hamlets Council (undated case study)",
+   "unresolved": "Module page is not year-stamped; a module directory 2025-26 listing was returned but the BUS380 entry year could not be verified; no 2025/26 partner list or enrolment found. Case study undated.",
+   "local_id": "S2",
+   "description": "Level 6 Business and Management module in which student teams carry out a consultancy project for a charity or social enterprise (partners may be for-profit or non-profit) addressing a real need, with training and industry mentors. Taught via weekly two-hour workshops. A Queen Mary Academy case study describes a Tower Hamlets Council brief on improving recycling behaviour, presented by council representatives at the start; teams developed proposals and presented at Tower Hamlets Town Hall, followed by a roundtable with council staff.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Business and Management (module lead Lisa Morrison)",
+   "eligible_faculties_programmes": "Undergraduate students studying Business and Management (Level 6).",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 6 (final year)",
+   "eligibility_restrictions": "Business and Management undergraduates; module registration rules apply.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; 80% coursework (work-based report) and 20% practical (project presentation)",
+   "duration": "Semester 2",
+   "delivery_format": "Weekly two-hour workshops plus team project work with external partner",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy project for a charity/social enterprise producing a work-based report and project presentation (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Module description: students work in teams with external organisations (source 1); case study describes teams developing proposals (source 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External partners set the real-life brief; in the Tower Hamlets example council representatives presented the brief, received final proposals at Town Hall and gave feedback in a roundtable (source 2). Module page says teams work on a consultancy project for a charity or social enterprise.",
+   "partner_type": "Mixed",
+   "partner_role": "Brief-setting, mentoring/feedback, receipt of proposals. Module page says partners can be for-profit and non-profit; case study example is a public-sector body.",
+   "deliverable": "Work-based report and team presentation to partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/modules/items/bus380-social-impact-project.html",
+     "title": "Social Impact Project - Queen Mary module directory",
+     "section": "Module description",
+     "pub_year": "undated (module directory 2025-26 listing, year not verified)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "15 credits, Semester 2, Level 6; teams work with external organisations on real-life projects with social goals; consultancy project for a charity or social enterprise; partners from for-profit and non-profit sectors; training and industry mentors; 80% coursework / 20% practical.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qmul.ac.uk/queenmaryacademy/educators/resources/graduate-attributes/all-case-studies/developing-key-employability-skills-collaborating-and-managing-social-impact-projects--/",
+     "title": "Developing Key Employability Skills: Collaborating and Managing Social Impact Projects - Queen Mary Academy",
+     "section": "Case study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Tower Hamlets Council representatives led a workshop presenting a real brief on recycling behaviour; teams worked on the problem; final proposals presented at Tower Hamlets Town Hall followed by roundtable with council staff; assessed by Work-Based Report (80%) and Project Presentation (20%).",
+     "supports": [
+      "employer",
+      "group",
+      "project",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "The Capstone Project (Queen Mary Business School live client capstones)",
+   "english_name": "SBM Capstone Project umbrella",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "unresolved": "Umbrella only; not counted separately.",
+   "local_id": "S3",
+   "description": "Umbrella for the School of Business and Management's postgraduate live-client capstone options (BUSM250 Contemporary Live Management Project for MSc Management; the Entrepreneurship and Innovation live consultancy capstone for the MSc Entrepreneurship and Innovation).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Business and Management",
+   "eligible_faculties_programmes": "MSc Management; MSc Entrepreneurship and Innovation",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "See children S4, S5.",
+   "group_working": "Unclear",
+   "group_evidence": "See children.",
+   "employer_connected": "Yes",
+   "employer_evidence": "See children.",
+   "partner_type": "Mixed",
+   "partner_role": "See children.",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/business-school/business-services-/the-capstone-project/capstone-project-and-teamwork/",
+     "title": "The Capstone Project and Teamwork - Queen Mary Business School",
+     "section": "Capstone project site",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Capstone site hosts student accounts of live client projects (Farrell Associates, One World Together, FlowSense, Decentials, Carbon Cell) and describes a choice between dissertation and live project.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S3",
+   "is_umbrella": false,
+   "official_name": "Contemporary Live Management Project (Capstone)",
+   "english_name": "Contemporary Live Management Project",
+   "module_code": "BUSM250",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Farrell Associates; Carbon Cell; One World Together (undated student accounts)",
+   "unresolved": "Module page and student accounts undated; no 2025/26 enrolment or client list. Group working rests on testimonial wording.",
+   "local_id": "S4",
+   "description": "60-credit year-long capstone on the MSc Management, offered as an alternative to the dissertation, in which students undertake a live project for a real client organisation with a sustainability and employability focus, supported by companion module BUSM249 (Skills and Methods for Sustainable Management) covering client communication and teamwork. Student accounts describe teams working on interrelated problem statements for one client, with final presentations to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Business and Management (contact Dr Eranjan Padumadasa)",
+   "eligible_faculties_programmes": "MSc Management (and possibly related SBM MSc programmes)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc final stage",
+   "eligibility_restrictions": "Chosen instead of the dissertation",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60 credits; 100% coursework",
+   "duration": "Year-long / final stage of MSc",
+   "delivery_format": "Team live-client project with preparatory skills module",
+   "project_based": "Yes",
+   "project_evidence": "Live project for a real company with client engagement and final presentation (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Student account on the Capstone teamwork page: team members assigned different but interrelated problem statements for one client (source 2). Relies on student testimonial from the same capstone site, not the module specification.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real client organisations (e.g. Farrell Associates recruitment firm, Carbon Cell, One World Together per student accounts) set the problem; clients give feedback after final presentation (sources 1, 2).",
+   "partner_type": "Mixed",
+   "partner_role": "Live brief and receipt of presentation; accounts name both commercial and non-profit clients.",
+   "deliverable": "Client project report and presentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/modules/items/busm250-contemporary-live-management-project.html",
+     "title": "Contemporary Live Management Project - module directory",
+     "section": "Module description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "60-credit year-long capstone, alternative to dissertation, 100% coursework; employability and sustainability focus; runs alongside BUSM249.",
+     "supports": [
+      "project",
+      "credit",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qmul.ac.uk/business-school/business-services-/the-capstone-project/capstone-project-and-teamwork/",
+     "title": "The Capstone Project and Teamwork - Queen Mary Business School",
+     "section": "Student accounts",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student: team members were assigned different but interrelated problem statements for one client; clients named include Farrell Associates, One World Together, FlowSense, Decentials, Carbon Cell; preparation on client communication and teamwork.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.qmul.ac.uk/business-school/business-services-/the-capstone-project/the-contemporary-live-project/",
+     "title": "The Contemporary Live Project - Queen Mary Business School",
+     "section": "Capstone page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Page describing the Contemporary Live Project as the MSc Management capstone (content seen only via search summary).",
+     "supports": [
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S3",
+   "is_umbrella": false,
+   "official_name": "Entrepreneurship and Innovation Project (live consultancy Capstone)",
+   "english_name": "MSc Entrepreneurship and Innovation live consultancy capstone",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "ViWipe, FlowSense, Decentials, Clean Break (2026)",
+   "unresolved": "Group working not established; credit weighting and whether compulsory not stated; delivery in 2026/27 not evidenced.",
+   "local_id": "S5",
+   "description": "Consulting engagement with an entrepreneurial organisation: from February 2026 MSc Entrepreneurship and Innovation students worked on client briefs from ViWipe and FlowSense (Social Venture Fund start-up finalists), Decentials (start-up founded by a prison-leaver from QMUL-ReMAKE) and Clean Break (charitable theatre company), guided by academics with Entrepreneurship Hub support. Completed June 2026; reported as the first live consultancy capstones.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Business and Management / Entrepreneurship Hub",
+   "eligible_faculties_programmes": "MSc Entrepreneurship and Innovation",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc final stage",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "February-June 2026",
+   "delivery_format": "Client consulting engagement",
+   "project_based": "Yes",
+   "project_evidence": "Students worked on client briefs delivering actionable solutions to real business challenges (sources 1, 2).",
+   "group_working": "Unclear",
+   "group_evidence": "News item does not say whether students worked in teams or individually; sibling capstone pages suggest teamwork but this is not evidenced for this route.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Named start-ups and a charity set the briefs; feedback from clients reported as overwhelmingly positive (source 1). Note ViWipe/FlowSense are Social Venture Fund finalists (university-linked fund) but are external companies.",
+   "partner_type": "Mixed",
+   "partner_role": "Client briefs and feedback",
+   "deliverable": "Consultancy solutions for clients",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/sbm/news/2026/first-live-consultancy-capstone-projects-successfully-completed.html",
+     "title": "First live consultancy Capstone Projects successfully completed - SBM news",
+     "section": "News 1 July 2026",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "First live consultancy capstone projects completed June 2026; since February students worked on client briefs from ViWipe, FlowSense, Decentials and Clean Break under Dr Lilian Schofield and Dr Gloria Appiah with Entrepreneurship Hub support; client feedback overwhelmingly positive.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/entrepreneurship-and-innovation-management-msc/",
+     "title": "Entrepreneurship and Innovation Management MSc - course page",
+     "section": "Programme description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Programme's Entrepreneurship and Innovation Project with the Entrepreneurship Hub is a consulting engagement with an entrepreneurial organisation applying knowledge to real business challenges (as summarised in search result).",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Real World Impact Projects",
+   "english_name": "Real World Impact Projects (SKETCH)",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "unresolved": "Pages undated; no cohort or partner list found; relationship to qHeritage (S7, which is a separate School of History pillar) not clarified; 15-20 hours is a light commitment.",
+   "local_id": "S6",
+   "description": "Interdisciplinary student teams work directly with charities, social enterprises, SMEs, start-ups and cultural organisations on real projects; around 15-20 hours over an 8-week period; places limited with application.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Business and Management Entrepreneurship Hub, within SKETCH",
+   "eligible_faculties_programmes": "Students of the School of Business and Management and the School of Society and Environment (both within the Faculty of Humanities and Social Sciences)",
+   "faculty_areas": [
+    "business",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "SBM and School of Society & Environment students; application, limited places",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not stated",
+   "duration": "8 weeks, ~15-20 hours",
+   "delivery_format": "Team projects with external organisations",
+   "project_based": "Yes",
+   "project_evidence": "Projects with defined partner challenges (source 1). Individual project outputs not detailed in the extract.",
+   "group_working": "Yes",
+   "group_evidence": "Teams formed to include a mix of disciplines and skills (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students work directly with charities, social enterprises, SMEs, start-ups and cultural organisations (source 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Project partners supplying challenges",
+   "deliverable": "Not specified in extract",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/sbm/entrepreneurship-hub/real-world-impact-projects/",
+     "title": "Real World Impact Projects - School of Business and Management",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Open to SBM and School of Society & Environment students; teams formed to mix disciplines and skills; work with charities, social enterprises, SMEs, start-ups and cultural organisations; approx. 15-20 hours over 8 weeks; places limited.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qmul.ac.uk/sketch/",
+     "title": "SKETCH - Student Knowledge Exchange Through Community Hubs",
+     "section": "Programme overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students join interdisciplinary teams working directly with charities, social enterprises, SMEs, startups and cultural organisations.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "qHeritage (SKETCH pillar)",
+   "english_name": "qHeritage student knowledge exchange projects",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Citizens UK; Swadhinata Trust (2026-27)",
+   "unresolved": "Team sizes and cohort numbers not found; reach classed University-wide from stated eligibility 'current Queen Mary students' but the programme is hosted by History; 15-20 hours is a light commitment.",
+   "local_id": "S7",
+   "description": "Interdisciplinary student teams (e.g. History and Business and Management students) deliver defined projects for heritage, public-history and community clients. 2026-27 projects: Citizens UK (developing a community research reporting framework) and Swadhinata Trust (researching and documenting British Bengali football heritage). Training on the heritage sector, impact evaluation and client management; roughly 15-20 hours; programme runs 15 Oct-8 Dec 2026; applications closed 30 Sept 2026.",
+   "academic_reach": "University-wide",
+   "admin_host": "School of History (School of Society and Environment), SKETCH",
+   "eligible_faculties_programmes": "Current Queen Mary students (Citizens UK project page); past teams combined History and SBM students",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Current QM students; application and shortlisting",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not stated",
+   "duration": "~8 weeks (15 Oct-8 Dec 2026), 15-20 hours",
+   "delivery_format": "Team client projects with training",
+   "project_based": "Yes",
+   "project_evidence": "Named client projects with defined outputs (research report framework; heritage research/documentation) (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams combining History and SBM students for the Swadhinata Trust project; applicants should be teamwork-oriented (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisations (Citizens UK, Swadhinata Trust) set project briefs and are the recipients; client meetings are part of the time commitment (sources 1, 2).",
+   "partner_type": "Charity/community",
+   "partner_role": "Set brief, client meetings, receive outputs",
+   "deliverable": "Reporting framework / heritage research outputs for client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/history/qheritage/for-students/",
+     "title": "qHeritage For students",
+     "section": "2026-27 projects",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2026-27 round lists Citizens UK (community research report) and Swadhinata Trust (British Bengali football heritage); applications close 30 Sept 2026; programme 15/16 Oct-8 Dec 2026.",
+     "supports": [
+      "project",
+      "status",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qmul.ac.uk/history/qheritage/project-highlights/",
+     "title": "qHeritage Project highlights",
+     "section": "Past projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "For Swadhinata Trust two teams combined History and SBM students with introductory training on heritage sector, impact evaluation and client management.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.qmul.ac.uk/history/qheritage/for-students/project-devise-a-community-research-report/",
+     "title": "qHeritage Project: Developing a Reporting Framework",
+     "section": "Eligibility and time commitment",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Eligibility limited to current Queen Mary students; teamwork-oriented; 15-20 hours including client meetings, teamwork and individual work; deadline 30 Sept 2026.",
+     "supports": [
+      "eligibility",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "qNomics Client Advisory",
+   "english_name": "qNomics Client Advisory programme",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "18 SMEs supported (2025 news, unit: client projects)",
+   "named_partners": "",
+   "unresolved": "Credit and duration unclear; curricular vs extracurricular status mixed across pages; 'professional supervisor' may be an academic/professional adviser rather than the client.",
+   "local_id": "S8",
+   "description": "Teams of economics students advise entrepreneurs, start-ups and small businesses. Each team gets a client and a professional supervisor and works on business planning, market research, pricing, funding, marketing or data analysis; teams present final recommendations to the client. A 2025 news item reports students supported 18 SMEs.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Economics and Finance (qNomics), within SKETCH",
+   "eligible_faculties_programmes": "Third-year undergraduate and postgraduate students in the School of Economics and Finance",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Year 3 UG and PG",
+   "eligibility_restrictions": "Applications 14-27 Sept 2026 for 2026/27 (closed at research date)",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Listed as an optional PG professional-skills module on SEF pages; credit not found; also recorded as extracurricular on HEAR transcript pages",
+   "duration": "Not stated",
+   "delivery_format": "Team client advisory with professional supervisor",
+   "project_based": "Yes",
+   "project_evidence": "Defined client challenge with final recommendations presented to client (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams are assigned a client (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External entrepreneurs, start-ups and small businesses supply the challenge, have a professional supervisor/advisor and receive the final recommendations (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client brief and receipt of recommendations",
+   "deliverable": "Final recommendations / advice to client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/qnomics/for-students/client-advisory/",
+     "title": "Client Advisory - qNomics",
+     "section": "Programme description",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams work with entrepreneurs, start-ups and small businesses with a professional supervisor; open to third-year UG and PG students in the School; teams present final recommendations; applications 14-27 Sept 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qmul.ac.uk/sef/news/2025/items/qnomics---where-students-turn-theory-into-impact.html",
+     "title": "qNomics - where students turn theory into impact",
+     "section": "SEF news",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students in the Client Advisory Programme supported 18 SMEs.",
+     "supports": [
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.qmul.ac.uk/sef/postgraduate/msc/professional-skills-development/optional-modules/qnomics/",
+     "title": "qNomics - School of Economics and Finance",
+     "section": "Optional modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "qNomics listed among optional PG professional skills modules.",
+     "supports": [
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "qNomics Community Projects",
+   "english_name": "qNomics Community Projects",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "unresolved": "Output, duration, partners and delivery year not found; A and coverage unclear.",
+   "local_id": "S9",
+   "description": "Students are paired with community organisations on local challenges using research, survey design, data analysis and design thinking; open to undergraduate and postgraduate students (School of Economics and Finance).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Economics and Finance (qNomics)",
+   "eligible_faculties_programmes": "Undergraduate and postgraduate students (qNomics)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Mixed",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not found",
+   "duration": "Not found",
+   "delivery_format": "Team projects with community organisations",
+   "project_based": "Unclear",
+   "project_evidence": "Research/design-thinking work with community organisations; outputs described only as practical resources/recommendations (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Both qNomics strands put students into teams (source 1 summary).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Community organisations pose the local challenge (source 1); detail of organisation role limited.",
+   "partner_type": "Charity/community",
+   "partner_role": "Pose local challenges",
+   "deliverable": "Not specified",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/qnomics/",
+     "title": "qNomics",
+     "section": "Overview",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Two strands: Client Advisory and Community Projects; Community Projects pair students with community organisations on local challenges using research, survey design, data analysis and design thinking; open to UG and PG.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "SBM Consult",
+   "english_name": "SBM Consult",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "SBM Consult",
+   "participation_data": "",
+   "named_partners": "",
+   "unresolved": "Page undated and its dates mix 2024 and 2026 weekday patterns; external clients not evidenced.",
+   "local_id": "S10",
+   "description": "Paid scheme in which teams of five SBM students (UG, PG, recent graduates; once per student) complete a ten-week consultancy challenge across Semesters A and B, paid GBP 10.55/hour for 30 hours of project work and training, with consultancy training and coaching meetings. Listed past clients are university units: SBM Marketing & Recruitment, QMUL Estates & Facilities and the Students' Union.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Business and Management",
+   "eligible_faculties_programmes": "All SBM students (UG and PG) and recent graduates",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "eligibility_restrictions": "SBM only; one participation per student; assessment/selection",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Paid; no credit",
+   "duration": "10 weeks (30 hours)",
+   "delivery_format": "Paid team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Defined consultancy challenges, e.g. interiors of the new SBM building, school carbon footprint, Year 1 transformation project (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of five (source 1).",
+   "employer_connected": "No",
+   "employer_evidence": "All listed clients are internal university units (SBM, Estates & Facilities, Students' Union); no external organisation evidenced (source 1).",
+   "partner_type": "Other",
+   "partner_role": "Internal university clients",
+   "deliverable": "Consultancy recommendations to internal client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/careers/find-opportunities/current-opportunities/sbm-consult/",
+     "title": "SBM Consult - Careers and Employability",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of five; ten weeks across semesters A and B; GBP 10.55/hour for 30 hours; open to all SBM students and recent graduates; past clients SBM Marketing & Recruitment, QMUL Estates & Facilities, Students' Union.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "SBM In Action: Digital Industry Project (with Practera)",
+   "english_name": "SBM/Queen Mary Business School In Action: Digital Industry Project",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "unresolved": "Dates (16 June-7 July, 9 May deadline) undated; a 2025 edition ran; 2026 delivery unconfirmed; no named companies.",
+   "local_id": "S11",
+   "description": "Fully virtual three-week programme run with Practera: student consultancy teams work on a real business challenge for a company (UK or abroad); client briefing in week one, weekly meetings, professional mentor feedback, final presentation and research report. 50 hours over three weeks; places for 100 students; unpaid.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Business and Management careers and employability",
+   "eligible_faculties_programmes": "SBM students (as listed on SBM careers pages)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "eligibility_restrictions": "Application; limited places",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None stated",
+   "duration": "3 weeks, 50 hours",
+   "delivery_format": "Virtual, Practera platform",
+   "project_based": "Yes",
+   "project_evidence": "Research report and final presentation on a business challenge (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Student consultancy team (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page says a real business challenge for a company with a client briefing and professional mentor, but companies are unnamed and the programme is platform-run; strict handling of Practera schemes applied pending evidence of company participation.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Provides challenge/briefing (claimed)",
+   "deliverable": "Final presentation and research report",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qmul.ac.uk/sbm/study/careers-and-employability/sbm-in-action-digital-industry-project/",
+     "title": "SBM In Action: Digital Industry Project",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Virtual three-week programme with Practera; students work in a consultancy team on a real business challenge for a company; client briefing; mentor feedback; final presentation and research report; 50 hours; 100 students.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MEng final-year group design project (School of Engineering and Materials Science)",
+   "english_name": "MEng group design project",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "unresolved": "FAQ undated; 2022 award news only; sponsor lists and 2025/26 delivery not found; further departmental instances likely.",
+   "local_id": "S12",
+   "description": "Fourth-year MEng group design project worth half the final year; SEMS states these student-led projects are frequently sponsored by industry; Electrical and Electronic Engineering specification says its advanced group project may be scoped and sponsored by an industrial partner. Industrial Liaison forum showcases projects to employers.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Engineering and Materials Science (also EEE programmes)",
+   "eligible_faculties_programmes": "MEng students in SEMS programmes",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4 (MEng)",
+   "eligibility_restrictions": "MEng",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "50% of final year",
+   "duration": "Year",
+   "delivery_format": "Group design project",
+   "project_based": "Yes",
+   "project_evidence": "Group design project (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Described as group design project (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Frequently sponsored by industry' and 'may be scoped and sponsored' - sponsorship is not shown to be standard (sources 1, 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor/scoping for some projects",
+   "deliverable": "Design project output",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sems.qmul.ac.uk/ugadmissions/faq/",
+     "title": "Frequently Asked Questions: QMUL School of Engineering and Materials Science",
+     "section": "MEng project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Fourth-year group design project is half of the final year and frequently sponsored by industry.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qmul.ac.uk/governance-and-legal-services/media/arcs/docs/quality-assurance/academic-development/programme-specs/se/eecs/2022x2f23/PS_H608_MEng-Electrical-&-Electronic-Engineering.pdf",
+     "title": "Programme specification MEng Electrical and Electronic Engineering",
+     "section": "Group project",
+     "pub_year": "2022-23",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Advanced group project may be scoped and sponsored by one of our industrial partners.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sems.qmul.ac.uk/news/5957/best-meng-project-in-sems-industrial-liaison-forum-2022/",
+     "title": "Best MEng project in SEMS Industrial Liaison Forum 2022",
+     "section": "News",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A 2022 MEng group won best project at the Industrial Liaison Forum.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "QInterns",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "Central internship scheme; individual workplace roles with no project/group component evidenced (criteria A and B not met).",
+   "source_url": "https://www.qmul.ac.uk/careers/find-opportunities/current-opportunities/",
+   "status_note": "Not researched further."
+  },
+  {
+   "name": "EECS MSc project with industry",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Industry co-supervised MSc project with company site option, but described as individual student projects selected by partner; no team working evidenced.",
+   "source_url": "https://www.qmul.ac.uk/eecs/postgraduate/msc-project-with-industry/",
+   "status_note": "Jan-Aug part-time then full-time; not paid."
+  },
+  {
+   "name": "ECS506U Software Engineering Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Groups of six solve a significant software problem (B, A likely) but no external organisation evidenced as brief-setter.",
+   "source_url": "http://eecs.qmul.ac.uk/undergraduate/programmes/module-information/items/ecs506u-software-engineering-project.html",
+   "status_note": ""
+  },
+  {
+   "name": "DEN327 Studio Practice Year 3: Industry Related Design Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Core 30-credit module in Design Engineering with industry-related title; no partner brief, group structure or external participation found (DEN329 is individual version).",
+   "source_url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/design-engineering/",
+   "status_note": ""
+  },
+  {
+   "name": "Queen Mary Legal Advice Centre",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Supervised casework for individual clients/public; client letters of advice; no team project for an organisation evidenced.",
+   "source_url": "https://www.qmul.ac.uk/lac/",
+   "status_note": ""
+  },
+  {
+   "name": "qLegal pro bono commercial law clinic",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "PG law students advise start-ups and entrepreneurs, sometimes in interdisciplinary teams, but advice/externship format; project output, credit and current delivery not established.",
+   "source_url": "https://www.qmul.ac.uk/publicengagement/blog/archive/items/qlegal-free-legal-advice-and-the-entrepreneurship-community.html",
+   "status_note": "Some pages ~2019."
+  },
+  {
+   "name": "MSc Natural Capital and Sustainability research project",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual research project that may be done with a sustainability organisation 'where appropriate'; not group, partner optional.",
+   "source_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/natural-capital-and-sustainability-msc/",
+   "status_note": "Programme launches Sept 2026."
+  },
+  {
+   "name": "Politics Civil Society placement module",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placement 2 days/week with local organisation; no group project.",
+   "source_url": "https://www.qmul.ac.uk/about/for-east-london/education-and-students/community-engaged-teaching/",
+   "status_note": ""
+  },
+  {
+   "name": "SBBS Year in Industry (SBC5001/BMD5555)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual 10-12 month placement; no group project.",
+   "source_url": "https://www.qmul.ac.uk/sbbs/undergraduate/year-in-industry/",
+   "status_note": ""
+  },
+  {
+   "name": "Dentistry PTSR community project (10 hours volunteering)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Individual voluntary hours at a community project of choice; no group project.",
+   "source_url": "https://www.qmul.ac.uk/queenmaryacademy/educators/resources/graduate-attributes/all-case-studies/socially-responsible-dentists/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Provision found.** Queen Mary's clearest provision is distributed across SBM and the SKETCH student knowledge-exchange programme rather than institution-wide curriculum. The only University-wide route is the **Student Consultancy Project** (Careers): selective, extracurricular, multidisciplinary undergraduate teams working for external business, charity and social-enterprise hosts and presenting a report and presentation to them (autumn programme, one-day hackathons, two-week summer sprint). **qHeritage** (History, open to current QM students) and **qNomics Client Advisory** (Economics and Finance, third-year UG and PG) are further extracurricular team-client routes with confirmed 2026/27 recruitment.\n\n**Curricular routes.** In the Business School, **BUS380 Social Impact Project** (15 credits, Level 6, optional) has teams consult for charities/social enterprises, with a Tower Hamlets Council brief and Town Hall presentation described; **BUSM250** (60 credits) and the **MSc Entrepreneurship and Innovation capstone** (clients ViWipe, FlowSense, Decentials, Clean Break; completed June 2026) place PG students with live clients. **Real World Impact Projects** span SBM and Society & Environment.\n\n**Limits.** SBM Consult uses internal university clients (C not met). MEng group design projects are only \"frequently\" sponsored; EECS industry MSc projects are individual. Science, Law and Medicine/Dentistry yielded no qualifying group client route. Many pages are undated, so several curricular routes are not confirmed current. Participation counts are rarely published (qNomics reported 18 SMEs supported in 2025).",
+ "gaps": "BUS380, BUSM250 and Real World Impact Projects lack dated 2025/26 delivery evidence. Group working for the E&I capstone not established. Numbers of participants/teams not found for most schemes. Further departmental instances likely (SEMS/EECS sponsored projects, DEN327, SKETCH strands, Natural Capital/Water MSc partner projects). Science schools and medical/dental programmes yielded nothing but were searched only via two broad queries each. Search results were summaries, not page text."
+}

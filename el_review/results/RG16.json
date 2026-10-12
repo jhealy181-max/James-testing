@@ -1,0 +1,1005 @@
+{
+ "inst_id": "RG16",
+ "institution": "Nottingham",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Nottingham Advantage Award modules group project external organisation",
+    "Nottingham careers employer-led projects and challenges",
+    "Nottingham Consultancy Challenge careers",
+    "Sustainability Challenge careers",
+    "EDI Challenge 2026",
+    "Capital One Product Challenge / Enterprise Challenge NAA",
+    "NAA employer-led modules list 2025-26",
+    "Digital Marketing Academy"
+   ],
+   "key_sources": [
+    "https://www.nottingham.ac.uk/careers/students/work-experience/what-can-i-do/employer-led-projects-and-challenges.aspx",
+    "https://www.nottingham.ac.uk/careers/students/work-experience/on-offer/nottingham-consultancy-challenge/index.aspx",
+    "https://www.nottingham.ac.uk/careers/students/advantageaward/index.aspx"
+   ],
+   "finding": "Central employer-led challenges exist but the one live-client scheme (Nottingham Consultancy Challenge) is not running in 2025/26 and relaunches 2026/27; Sustainability/EDI challenges and NAA modules do not evidence employer-set briefs."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Nottingham Business School live client consultancy",
+    "Entrepreneurship Consultancy Project 2025",
+    "Consultancy Challenge 2026",
+    "Business Project module MSc / BSc",
+    "Haleon Business Project blog",
+    "NUBS postgraduate careers placements projects brochure",
+    "MSc Business and Management business project industry partner",
+    "MSc Consultancy Competition 2025",
+    "Company based challenge"
+   ],
+   "key_sources": [
+    "https://www.nottingham.ac.uk/business/news/consultancy-challenge-2026-final-presentations-and-awards.aspx",
+    "https://www.nottingham.ac.uk/business/news/entrepreneurship-consultancy-project-2025.aspx",
+    "https://www.nottingham.ac.uk/pgstudy/course/taught/business-and-management-msc"
+   ],
+   "finding": "Strongest provision: NUBS Company-based Consultancy Challenge (2026 confirmed), Entrepreneurship Project (MSc EIM) and the MSc Business Project with industry partners."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Nottingham engineering group design project industry client",
+    "Faculty of Engineering industrial sponsored projects",
+    "CS software engineering group project client",
+    "Civil Engineering group design",
+    "Group Design and Make Project",
+    "Electronic and Computer Engineering group project",
+    "Horizon CDT Sprint Project",
+    "Chemical/Product Design industry brief"
+   ],
+   "key_sources": [
+    "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Computer-Science-BSc-Hons.html",
+    "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-MSci-Hons.html",
+    "https://www.nottingham.ac.uk/studywithus/ugstudy/articles/explore-more-articles/engineering/group-design-and-make-project-.html"
+   ],
+   "finding": "Several compulsory group projects, but external-organisation involvement is partial (about half of CS Year 2 projects; some mechanical ideas; ECE stakeholder 'typically external to the Department'); only the single-CDT Horizon sprint explicitly has an industry partner setting the challenge."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Tri-Campus Sustainability Challenge Faculty of Science",
+    "Nottingham science team project industry partner chemistry physics biosciences maths pharmacy"
+   ],
+   "key_sources": [
+    "https://www.nottingham.ac.uk/science/tri-campus-sustainability-challenge.aspx"
+   ],
+   "finding": "No science module with an external-organisation group brief verified; Tri-Campus Sustainability Challenge is a 2023 pilot with expert-panel judging only."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Nottingham Social Sciences OR Arts team project partner organisation live brief",
+    "Geography/Politics/Sociology/Education consultancy module",
+    "Employing the Arts module",
+    "Arts in action City as Lab"
+   ],
+   "key_sources": [
+    "https://www.nottingham.ac.uk/studywithus/ugstudy/articles/explore-more-articles/art/Placements_and_volunteering/employing-the-arts-module.html"
+   ],
+   "finding": "Employing the Arts (Faculty of Arts, Year 2 option) is team- and brief-based but client mix includes internal City as Lab; no social-science consultancy module found."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Nottingham Law Clinic OR architecture OR medicine OR nursing team project real client"
+   ],
+   "key_sources": [
+    "https://www.nottingham.ac.uk/ugstudy/course/Law-LLB"
+   ],
+   "finding": "Law clinic module is simulated; health interprofessional modules have no external client; architecture not evidenced."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Company-based Consultancy Challenge (NUBS)",
+   "english_name": "Company-based Consultancy Challenge",
+   "module_code": "",
+   "admin_host": "Nottingham University Business School",
+   "year_of_study": "",
+   "eligibility_restrictions": "Business School students; 'selected' students (selective entry)",
+   "credit_assessment": "No credit evidenced; certificate and digital badge listed as benefits",
+   "delivery_format": "Teams of c.6-8; induction, client brief, mentor meetings, final pitch to panel",
+   "named_partners": "2025: IBM (source 1); 2026: Hallam, ApplyU, Capital One, Notts County Foundation (source 2) - includes at least one charity/foundation",
+   "likely_duplicate_of": "",
+   "participation_data": "2026: at least 11 teams referenced (Team 11 named); 4 client winners listed (source 2). Not a published total.",
+   "legacy_ref": "",
+   "local_id": "S1",
+   "description": "Teams of Business School students (MSc; opened to selected undergraduates in 2026) research a real problem set by a local partner organisation over about three weeks, supported by academic mentors (incl. Professors of Practice) and company representatives, then give a final pitch to a panel of business partners and mentors. Each organisation is paired with two student teams.",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "Business School master's students; selected undergraduates added in 2026",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "About 3 weeks (research, analysis, pitch)",
+   "project_based": "Yes",
+   "project_evidence": "Real business problems researched and answered with recommendations and a final pitch (sources 1, 2, 3).",
+   "group_working": "Yes",
+   "group_evidence": "Student teams (page gives teams of six to eight); two teams per organisation (sources 1-3).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local partner organisations set the problem/brief, company representatives mentor, and a panel including business partners judges the pitches; the school helps organisations develop a suitable brief (sources 1-3).",
+   "partner_type": "Mixed",
+   "partner_role": "Set the live brief; mentor teams; sit on final judging panel",
+   "deliverable": "Recommendations report/pitch to the client organisation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (news dated 30 July 2026)",
+   "unresolved": "Credit value and selection criteria not published; the UG extension is a 2026 first. Not the same as the careers-run Nottingham Consultancy Challenge (S5), though both may share a lineage.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/business/news/msc-management-consultancy-challenge-2025.aspx",
+     "title": "MSc Consultancy Competition 2025 - Final presentations and awards",
+     "section": "news article",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Real-world business problems from local partner companies; each organisation partnered with two student teams; supported by academic mentors incl. Professors of Practice and company representatives; three weeks of research then presentation to a panel of business partners, mentors and peers; IBM brief winner.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.nottingham.ac.uk/business/news/consultancy-challenge-2026-final-presentations-and-awards.aspx",
+     "title": "Consultancy Challenge 2026 - Final presentations and awards",
+     "section": "news article",
+     "pub_year": "2026 (30 July 2026)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Opened to undergraduates as well as master's students; teams worked on real business problems from local partner organisations; each organisation paired with two teams; winners by client: Hallam, ApplyU, Capital One, Notts County Foundation.",
+     "supports": [
+      "employer",
+      "reach",
+      "eligibility",
+      "status",
+      "group"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.nottingham.ac.uk/business/study-with-us/company-based-challenge.aspx",
+     "title": "Company based challenge",
+     "section": "programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of six to eight students work on a challenge set by a partner organisation; school will support organisations to develop a suitable brief; certificate and LinkedIn badge benefits; no credit mentioned.",
+     "supports": [
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Entrepreneurship Project (MSc Entrepreneurship, Innovation and Management)",
+   "english_name": "Entrepreneurship Consultancy Project",
+   "module_code": "",
+   "admin_host": "Nottingham University Business School (Entrepreneurship, Sustainability and Innovation dept)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Credit value not retrieved; reports and poster showcase",
+   "delivery_format": "Student groups matched to start-ups/companies; poster showcase to participating businesses",
+   "named_partners": "2025 awards referenced Mytender.io, Notts County Foundation, IBM, The Treat Kitchen (source 1; mix incl. a charity foundation)",
+   "likely_duplicate_of": "",
+   "participation_data": "2025: 12 student groups with 12 organisations (source 1)",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "description": "MSc students act as consultants in teams for start-ups and local companies, spending about three months gathering market and stakeholder data, analysing it and writing recommendations reports; teams present posters to participating businesses at a showcase.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "MSc Entrepreneurship, Innovation and Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "About 3 months",
+   "project_based": "Yes",
+   "project_evidence": "Live challenges; market-insight gathering and consultancy reports (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Twelve student groups' worked with 12 start-ups/local companies in 2025 (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Start-ups and local companies present live challenges, are engaged with by teams for stakeholder data, and receive recommendations/posters at the showcase; company representatives support students (sources 1, 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Provide live challenge; receive reports/poster presentation; company reps support",
+   "deliverable": "Consultancy recommendations report and poster",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (poster showcase 6 May 2025, i.e. 2024/25)",
+   "unresolved": "Latest cohort evidenced is 2024/25; no 2025/26 or 2026/27 dated source retrieved. Whether the module is compulsory (core) for all MSc EIM students not directly evidenced. Credit value unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/business/news/entrepreneurship-consultancy-project-2025.aspx",
+     "title": "Students celebrate Entrepreneurship Consultancy Project success",
+     "section": "news article",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students on the MSc Entrepreneurship, Innovation and Management presented posters on 6 May 2025; twelve student groups worked with 12 start-ups and local companies; three months gathering market insights and engaging stakeholders before reports; students act as consultants on real challenges.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.nottingham.ac.uk/business/news/students-celebrate-presenting-entrepreneurship-projects.aspx",
+     "title": "Students celebrate presenting entrepreneurship projects",
+     "section": "news article",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Earlier (2024) poster event for the same Entrepreneurship Project module; students consult for start-ups and companies.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Project (MSc, Nottingham University Business School)",
+   "english_name": "MSc Business Project (group project with industry partner)",
+   "module_code": "",
+   "admin_host": "Nottingham University Business School",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "60-credit summer module (2025-entry course page); alternative to dissertation",
+   "delivery_format": "Groups with industry partner; client pitch",
+   "named_partners": "Haleon (Expert Marketing team), 2024 (source 3 - only photo caption/summary seen)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "description": "Option for Masters students across most NUBS departments: multidisciplinary student groups work on a business question from an industry partner and pitch answers to the client. 2024 example: Haleon's Expert Marketing team set the question. Listed as a 60-credit summer module alternative to the dissertation, subject to availability and a student selection process.",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "NUBS MSc programmes (most departments), e.g. MSc Business and Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "duration": "Summer project period",
+   "project_based": "Yes",
+   "project_evidence": "Groups research a business topic/question and propose solutions (sources 1-3).",
+   "group_working": "Yes",
+   "group_evidence": "'Collaborating in groups with an industry partner'; blog: students from different disciplines work together (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partner sets the question and receives group pitches (Haleon 2024 example; source 3); course page states collaboration with an industry partner (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets business question; receives group pitch",
+   "deliverable": "Group report/pitch to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (2025-entry course structure; Haleon cohort Nov 2024)",
+   "unresolved": "Selection process and capacity undisclosed; Haleon detail is from a search-summary of a blog caption; current-year client list not found. Whether the 'industry partner' is guaranteed for every group not stated beyond the course page.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-and-management-msc",
+     "title": "Business and Management MSc 2027 entry",
+     "section": "course structure",
+     "pub_year": "2027 entry (and 2025-entry page)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Business Project lets students put theory into practice by collaborating in groups with an industry partner; final project can be dissertation or business project; 2025-entry page: 60-credit summer module, groups research a business topic, subject to availability and a student selection process.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://blogs.nottingham.ac.uk/business/tag/business-project/",
+     "title": "Business Project Archives",
+     "section": "blog tag page",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Business Project module is an option for Masters students across most departments, bringing students from various disciplines together to work on a business question.",
+     "supports": [
+      "group",
+      "reach",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.nottingham.ac.uk/business/2024/11/14/dispensing-change-students-rethink-pharmacys-role-in-pain-management/",
+     "title": "Dispensing Change: Students Rethink Pharmacy's Role in Pain Management",
+     "section": "blog post (14 Nov 2024)",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Question came from the Expert Marketing team at Haleon; student groups pitched answers to the client; photo caption 'Masters Business Project Haleon Group Photo'.",
+     "supports": [
+      "employer",
+      "project",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Project (optional UG module, Business and Management BSc)",
+   "english_name": "UG Business Project",
+   "module_code": "",
+   "admin_host": "Nottingham University Business School",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "description": "Optional undergraduate module on the Business and Management BSc: students research a real-world business problem and propose solutions using data collection and analysis, communicating findings to practitioner and academic audiences; course page says students work with businesses.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "BSc Business and Management (possibly other NUBS UG courses)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Real-world business problem and proposed solutions (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "UG page does not say group or individual; the MSc version is described as group work (source 1 only for MSc).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page says 'working with businesses' but does not state who sets the brief or receives outputs.",
+   "partner_type": "Unclear",
+   "partner_role": "Not specified",
+   "deliverable": "Report proposing solutions",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 entry course page",
+   "unresolved": "Year of study, group/individual format, client involvement and enrolment numbers unknown; could not retrieve module spec.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Business-and-Management-BSc-Hons.html",
+     "title": "Business and Management BSc (Hons) (2026 entry)",
+     "section": "modules",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Optional Business Project: students conduct research on a real-world business problem and use data collection/analysis to propose solutions; students can work with businesses on sustainable solutions.",
+     "supports": [
+      "project",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Nottingham Consultancy Challenge (Careers)",
+   "english_name": "Nottingham Consultancy Challenge",
+   "module_code": "",
+   "admin_host": "Careers and Employability Service",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "No credit evidenced",
+   "delivery_format": "Multidisciplinary teams; short-term project for local business or charity",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "description": "Careers-run spring-term challenge in which multidisciplinary student teams manage a short-term project for a local business or charity. Page states it is not running in 2025/26 and will be relaunched in 2026/27 with an updated model.",
+   "academic_reach": "University-wide",
+   "eligible_faculties_programmes": "Described as open to University students (original format); relaunch model not described",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "Spring term (original format)",
+   "project_based": "Yes",
+   "project_evidence": "Specific problem/issue for a local organisation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Multi-disciplinary teams (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local businesses and charities host the project (source 1) - in the original format; updated model not described.",
+   "partner_type": "Mixed",
+   "partner_role": "Local business/charity sets the issue and hosts the project",
+   "deliverable": "Project output for the host organisation (not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "Not running 2025/26; relaunch 2026/27",
+   "unresolved": "Format of relaunched 2026/27 version unknown; historic scale not retrieved. Does not count as current delivery.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/careers/students/work-experience/on-offer/nottingham-consultancy-challenge/index.aspx",
+     "title": "Nottingham Consultancy Challenge",
+     "section": "careers page",
+     "pub_year": "undated (states 2025-26 status)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Not running in 2025-26; re-launched in 2026-27 with an updated model; hands-on work experience with local businesses and charities on a specific problem during spring term; students invited to express interest in 2026/27.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.nottingham.ac.uk/careers/students/work-experience/what-can-i-do/employer-led-projects-and-challenges.aspx",
+     "title": "Employer-led projects and challenges",
+     "section": "careers page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consultancy Challenge places students in a multi-disciplinary team managing a short-term project for a local business or charity.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Software Engineering Group Project (Year 2, Computer Science)",
+   "english_name": "Year 2 Software Engineering Group Project",
+   "module_code": "",
+   "admin_host": "School of Computer Science",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not retrieved",
+   "delivery_format": "Groups meet twice weekly (once with supervisor); four intro lectures",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "description": "Year 2 Computer Science groups of about six to seven design, program and document an application described by a supervisor; groups bid for projects, and around half of the projects have industry partners (the School's About page is reported to say about two-thirds have industrial supervisors - not verified).",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "BSc Computer Science (and variants)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Year/semester not retrieved",
+   "project_based": "Yes",
+   "project_evidence": "Group designs, programs and documents an application (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of around six to seven (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Around half of the projects students bid for have industry partners; the rest are supervisor/academic-set (source 1). External partners are therefore not standard.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partners on some projects (role not specified)",
+   "deliverable": "Working software and documentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 entry course page (undated module description)",
+   "unresolved": "Which projects have industry partners, how they engage (live client vs sponsor) and compulsory status per degree not retrieved; two-thirds figure unconfirmed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Computer-Science-BSc-Hons.html",
+     "title": "Computer Science BSc (Hons)",
+     "section": "modules/Year 2",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Groups of around six to seven, each with a supervisor who gives a short description of an application to design, program and document; around half of the projects students bid for have industry partners.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSci Group Programming Project (COMP4028)",
+   "english_name": "MSci Group Programming Project",
+   "module_code": "COMP4028",
+   "admin_host": "School of Computer Science",
+   "year_of_study": "Year 4",
+   "eligibility_restrictions": "",
+   "credit_assessment": "40 credits, full year (2024 catalogue); software plus group report/reflection",
+   "delivery_format": "Teams of 2-4 with supervisor",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S7",
+   "description": "Year 4 MSci Computer Science students in self-chosen teams of two to four develop software for an external client (a company, charity, research group etc., but not the supervisor) under an academic supervisor; either the students or the supervisor can propose the client.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "MSci Computer Science and AI variants",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "Full year",
+   "project_based": "Yes",
+   "project_evidence": "Client supplies a problem needing a challenging piece of software (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of two to four chosen by students; individual reflection also required (sources 1, 2).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Client must be external to the supervisor, but may be a 'research group' (possibly internal) and may be sourced by students; the extent of company/charity clients is not evidenced.",
+   "partner_type": "Mixed",
+   "partner_role": "Client supplies the problem",
+   "deliverable": "Software and written documentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024 catalogue; 2026-entry course pages list the module",
+   "unresolved": "Share of true external organisations vs internal research groups unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-MSci-Hons.html",
+     "title": "Computer Science MSci (Hons)",
+     "section": "Year 4 modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Programming project for an external client, teams of two to four chosen by the students; client can be a company, charity, research group etc., but not the supervisor.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://campus.nottingham.ac.uk/psc/csprd_pub/EMPLOYEE/HRMS/c/UN_PROG_AND_MOD_EXTRACT.UN_PLN_EXTRT_FL_CP.GBL?PAGE=UN_CRS_EXT4_FPG&CAMPUS=U&TYPE=Module&YEAR=2024&TITLE=MSci+Group+Programming+Project&MODULE=COMP4028&CRSEID=018069&LINKA=&LINKB=&LINKC=USC-CS",
+     "title": "Curriculum Catalogue: MSci Group Programming Project COMP4028",
+     "section": "module spec",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "COMP4028, 40 credits, full-year; group report, demo video, presentation and interim report.",
+     "supports": [
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Project (Year 3, Electronic and Computer Engineering MEng)",
+   "english_name": "ECE Group Project",
+   "module_code": "",
+   "admin_host": "Department of Electrical and Electronic Engineering",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S8",
+   "description": "Year 3 groups of four to six work for the whole academic year on a real-world engineering problem set by a 'Stakeholder typically external to the Department', building and testing a prototype device; societal impact and commercial scale-up potential are assessed.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "MEng Electronic and Computer Engineering (and Year in Industry variant)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Full academic year",
+   "project_based": "Yes",
+   "project_evidence": "Prototype addressing stakeholder's challenge (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of four to six with academic supervisor (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Stakeholder is 'typically external to the Department' - may be another university department or academic, not necessarily an external organisation.",
+   "partner_type": "Unclear",
+   "partner_role": "Stakeholder sets problem",
+   "deliverable": "Tested prototype device and report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated course page",
+   "unresolved": "Identity of stakeholders (industry vs internal) and credit not retrieved.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Electronic-and-Computer-Engineering-with-a-Year-in-Industry-MEng-Hons.html",
+     "title": "Electronic and Computer Engineering MEng (Hons)",
+     "section": "Year 3 modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group Project: groups of between four and six students work on a real-world engineering problem set by a Stakeholder typically external to the Department; whole academic year; prototype built and tested.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Design and Make Project (Mechanical, Materials and Manufacturing Engineering)",
+   "english_name": "Group Design and Make Project",
+   "module_code": "",
+   "admin_host": "Department of Mechanical, Materials and Manufacturing Engineering",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S9",
+   "description": "Student teams design, develop and manufacture a product or prototype in a dedicated project room, managing and budgeting their own project; some project ideas come from industry, academics or students; projects are displayed on a show day to academics, industry colleagues and other students.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Mechanical engineering programmes",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Design, build and evaluate a product/prototype (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Group project (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Some ideas come from industry, academics or yourselves'; show day attended by industry colleagues (source 1) - industry briefs are a subset.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Some project ideas; show-day audience",
+   "deliverable": "Prototype/product",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "unresolved": "Share of industry-sourced projects, year and credit unknown; the related Aerospace group design project is described as a simulated industry team, not a live client.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/articles/explore-more-articles/engineering/group-design-and-make-project-.html",
+     "title": "Group Design and Make Project",
+     "section": "article",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students design and manufacture a product/prototype; some ideas come from industry, academics or students; show day displays projects to academics, industry colleagues and other students.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Employing the Arts",
+   "english_name": "Employing the Arts (Faculty of Arts engaged module)",
+   "module_code": "",
+   "admin_host": "Faculty of Arts",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S10",
+   "description": "Optional Faculty of Arts module for second-year undergraduates: interdisciplinary teams receive a project brief from individuals, groups and organisations seeking change (sustainability, business, equality, culture, politics, society) and are guided to shape the project and deliver results. Worked example: a City as Lab project (a University programme) on inclusive student life in Nottingham.",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "Second-year undergraduates in the Faculty of Arts",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Teams given a project brief and deliver results (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Interdisciplinary teams (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Briefs come from 'individuals, groups and organisations'; the only worked example is hosted by City as Lab, a University of Nottingham programme (internal). External-organisation share is not evidenced.",
+   "partner_type": "Unclear",
+   "partner_role": "Brief providers (mixed, internal example)",
+   "deliverable": "Posters/reports (City as Lab example)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "unresolved": "Named external clients, credits, duration and numbers not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/articles/explore-more-articles/art/Placements_and_volunteering/employing-the-arts-module.html",
+     "title": "Employing the arts module",
+     "section": "article",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams will be given a project brief; projects from individuals, groups and organisations; open to all second-year undergraduates in the Faculty of Arts.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/articles/explore-more-articles/art/arts-in-action-making-nottingham-inclusive-through-the-employing-the-arts-module.html",
+     "title": "Arts in action: making Nottingham inclusive through the Employing the Arts module",
+     "section": "article",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Project hosted by City as Lab (University place-based research programme); literature reviews, interviews, posters and reports.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Horizon CDT Sprint Project (COMP4114)",
+   "english_name": "Horizon CDT Sprint Project",
+   "module_code": "COMP4114",
+   "admin_host": "School of Computer Science / Horizon CDT",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "20 credits; report on partner, challenge, process and user evaluation",
+   "delivery_format": "",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S11",
+   "description": "Intensive week-long multidisciplinary peer-group sprint for PhD students in the Digital Economy Horizon CDT: an industry partner sets a real-world challenge tied to its core business; the group designs, builds and user-tests a prototype and reports on it.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "PhD students of the Horizon Digital Economy CDT only",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate research",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Intensive week",
+   "project_based": "Yes",
+   "project_evidence": "Single rapid prototyping cycle with user evaluation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Peer-group activity (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'The industry partner will set the peer-group a real-world challenge pertinent to their core business' (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets challenge",
+   "deliverable": "Prototype and report",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024 catalogue",
+   "unresolved": "Horizon CDT cohorts/funding run to 2028 but no 2025/26 delivery evidence; very small, single-CDT reach.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://campus.nottingham.ac.uk/psc/csprd_pub/EMPLOYEE/HRMS/c/UN_PROG_AND_MOD_EXTRACT.UN_PLN_EXTRT_FL_CP.GBL?PAGE=UN_CRS_EXT4_FPG&CAMPUS=U&TYPE=Module&YEAR=2024&TITLE=Horizon+CDT+Sprint+Project&MODULE=COMP4114&CRSEID=034157&LINKC=USC-CS",
+     "title": "Curriculum Catalogue: Horizon CDT Sprint Project",
+     "section": "module spec",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Intensive, multidisciplinary peer-to-peer project run with an industry partner; the industry partner sets the peer-group a real-world challenge pertinent to their core business; week-long group activity; 20 credits; open only to PhD Digital Economy Horizon CDT students.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Nottingham Advantage Award",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Central co-curricular award; the underlying employer-led modules seen (Capital One Product Challenge, Enterprise Rent-A-Car Car/Business Challenge) are described as real-world case-study/scenario-based group work followed by an individual report, with no live client brief or employer assessment evidenced; module list is undated/old. Award itself is not a project.",
+   "source_url": "https://www.nottingham.ac.uk/careers/students/advantageaward/index.aspx",
+   "status_note": "Legacy row reassessed; Evidence gap on current module list."
+  },
+  {
+   "name": "Capital One Product Challenge / Enterprise Rent-A-Car Challenge (NAA modules)",
+   "legacy": false,
+   "category": "Near-miss: not project",
+   "reason": "Company visit plus scenario-based group work then individual business report; case-study design, current delivery not evidenced.",
+   "source_url": "https://www.nottingham.ac.uk/careers/students/career-insights/choosing-my-nottingham-advantage-award-modules.aspx",
+   "status_note": ""
+  },
+  {
+   "name": "Sustainability Challenge (Careers) and EDI Challenge (Careers/SU)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Four-session extracurricular team challenges where students develop their own campus ideas; employers give guest/partner sessions on pitching and a panel of staff/experts listens; no employer-supplied brief or receipt of outputs evidenced.",
+   "source_url": "https://www.nottingham.ac.uk/careers/students/work-experience/on-offer/sustainability-challenge.aspx",
+   "status_note": ""
+  },
+  {
+   "name": "Tri-Campus Sustainability Challenge (Faculty of Science)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams of 4-6 pitch SDG solutions to an expert panel; no external organisation setting brief evidenced; 2023 pilot, no later edition found.",
+   "source_url": "https://www.nottingham.ac.uk/science/tri-campus-sustainability-challenge.aspx",
+   "status_note": ""
+  },
+  {
+   "name": "Sustainability Challenge (BSc Business and Management module)",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Described as students simulating business responses to sustainability issues; no external organisation evidenced.",
+   "source_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Business-and-Management-BSc-Hons.html",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Business Consulting and Analytics (online) capstone",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Capstones use real-world scenarios; students work independently with optional collaboration.",
+   "source_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-consulting-and-analytics-msc",
+   "status_note": ""
+  },
+  {
+   "name": "MBA management project / Company Based Challenge within MBA",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "MBA management project page appeared but group/individual and client involvement not retrieved.",
+   "source_url": "https://www.nottingham.ac.uk/business/study-with-us/mba/mba-management-project.aspx",
+   "status_note": ""
+  },
+  {
+   "name": "Civil and Structural Steel Design Project / Civil MEng Group Design Project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group design modules (feasibility, BIM, steel design) but no external client or practitioner assessor evidenced.",
+   "source_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/articles/explore-more-articles/engineering/civil-and-structural-steel-design-project.html",
+   "status_note": ""
+  },
+  {
+   "name": "Aerospace Group Design Project",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Run as a simulated industry integrated product team; no live client evidenced.",
+   "source_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Aerospace-Engineering-MEng-Hons.html",
+   "status_note": ""
+  },
+  {
+   "name": "Chemical Engineering final-year design project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Course page says some projects are linked to ongoing industrial projects with liaison with an industry partner, but group format and partner coverage not evidenced.",
+   "source_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Chemical-Engineering-with-Environmental-Engineering-MEng-Hons.html",
+   "status_note": ""
+  },
+  {
+   "name": "Product Design and Manufacture major/group design projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Major project is individual; optional MEng group design projects module; sponsorship not evidenced.",
+   "source_url": "https://www.nottingham.ac.uk/engineering/departments/m3/product-design-and-manufacture.aspx",
+   "status_note": ""
+  },
+  {
+   "name": "Physics group project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group project in Physics with Theoretical Physics described without any industry partner.",
+   "source_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/physics-with-theoretical-physics-bsc.html",
+   "status_note": ""
+  },
+  {
+   "name": "Digital Marketing Academy",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Extracurricular skills/insight programme with partner agencies; employer part-time 4-8 week projects appear individual; no team client project evidenced.",
+   "source_url": "https://www.nottingham.ac.uk/careers/students/work-experience/on-offer/digital-marketing-academy/index.aspx",
+   "status_note": ""
+  },
+  {
+   "name": "Law: Clinical Legal Education module / Pro Bono Society clinic",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Module simulates a law clinic; Pro Bono clinic is voluntary advice to the public; 50-hour placements individual.",
+   "source_url": "https://www.nottingham.ac.uk/ugstudy/course/Law-LLB",
+   "status_note": ""
+  },
+  {
+   "name": "Faculty of Social Sciences placements; Arts Digital Hub volunteering",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements/volunteering; Arts Digital Hub projects with internal and external partners lack group/client detail.",
+   "source_url": "https://blogs.nottingham.ac.uk/fossplacementsblog/",
+   "status_note": ""
+  },
+  {
+   "name": "Medicine/Nursing interprofessional learning",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Interdisciplinary group work with no external client.",
+   "source_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Medicine-BMBS.html",
+   "status_note": ""
+  },
+  {
+   "name": "Industrial placements / Year in Industry; industrially linked PhDs and CASE studentships",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements and research studentships.",
+   "source_url": "https://www.nottingham.ac.uk/engineering/industry/industrial-placements/for-business/index.aspx",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Nottingham's verified employer-linked group project provision is concentrated in **Nottingham University Business School (NUBS)**, with weaker, partial routes in Computer Science, Engineering and Arts.\n\n**NUBS.** The Company-based Consultancy Challenge (c.3 weeks, extracurricular and selective) pairs teams of six to eight with local partner organisations (2025: IBM among others; 2026: Hallam, ApplyU, Capital One, Notts County Foundation); each organisation gets two teams, with company representatives mentoring and a panel of business partners judging. The 2026 edition was opened from MSc to selected undergraduates. The MSc Entrepreneurship Project (12 groups with 12 start-ups/local companies in 2025, three months) and the MSc Business Project (group project with an industry partner, e.g. Haleon in 2024; 60-credit summer option subject to selection) are curricular. An optional UG Business Project is only partly evidenced.\n\n**Central.** The Careers-run Nottingham Consultancy Challenge (multidisciplinary teams for local business/charity) is not running in 2025/26 and relaunches in 2026/27; Sustainability/EDI challenges and Advantage Award modules do not show employer-set briefs.\n\n**Computing/engineering/arts.** Compulsory group projects exist (Year 2 Software Engineering Group Project, about half with industry partners; Year 3 ECE Group Project with stakeholders 'typically external to the Department'; MEng Group Programming Project for a client that may be a research group; Mechanical Group Design and Make with some industry ideas; Employing the Arts), but external-partner involvement is partial or unclear. The Horizon CDT Sprint Project has an industry-set challenge but covers one PhD cohort.\n\nProvision is distributed, with no institution-wide route. Uncertain: current-year status of most curricular routes and partner share in the Computer Science and Engineering projects.",
+ "gaps": "Current (2025/26-2026/27) delivery evidence is thin for S2-S11. Further departmental capstones likely exist (Chemical Engineering design projects linked to industry, Product Design group projects, Computer Science/Engineering MSc projects, Pharmacy, Geography, Education, Architecture) and were not verified. Evidence is search-summary paraphrase only (no pages opened). Credit values, enrolment numbers and the partner split for CS Year 2 and ECE group projects not found."
+}

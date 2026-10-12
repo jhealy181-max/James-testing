@@ -1,0 +1,1169 @@
+{
+ "inst_id": "RG12",
+ "institution": "Liverpool",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Liverpool Grand Challenges employers student teams real challenge",
+    "Liverpool careers employability live project employer brief student teams",
+    "liverpool.ac.uk careers employers campus-wide-initiatives grand-challenges",
+    "Employer Challenge Liverpool authentic assessment",
+    "Liverpool Launchpad grand challenges",
+    "Real-World Projects Liverpool SMEs",
+    "Students Tackling a Real-World Grand Challenge Big Events",
+    "Sustainable Innovation Challenge",
+    "Peel Ports Innovation Challenge",
+    "The Employer Challenge Liverpool careers",
+    "Employers in the Curriculum Liverpool real-world challenges"
+   ],
+   "key_sources": [
+    "https://www.liverpool.ac.uk/careers/launchpad/",
+    "https://www.liverpool.ac.uk/careers/employers/connections-in-action/liverpool-careers-employability-culture-liverpool-grand-challenge/",
+    "https://www.liverpool.ac.uk/careers/employability/equalityplus/sustainable-innovation-challenge/",
+    "https://www.liverpool.ac.uk/careers/employers/sme-support/real-world-projects-smes/"
+   ],
+   "finding": "Central Careers and Employability runs short extracurricular employer team challenges (Big Events Challenge 2026, Sustainable Innovation Challenge 2026) under Launchpad, plus an employer offer to embed projects in modules. Legacy 'Grand Challenges' page was not surfaced; no central curricular programme with named participating modules found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Liverpool Management School consultancy project module live client group",
+    "Liverpool Management School MBA consulting project client organisation",
+    "MKIB306 International Management Consultancy Project",
+    "Management School Project partners",
+    "Human Resource Management Consultancy Day 2025",
+    "Master in Management MIM Liverpool live consultancy",
+    "Management School postgraduate taught careers consultancy challenge"
+   ],
+   "key_sources": [
+    "https://www.liverpool.ac.uk/management/study/mba/why-study-with-us/consultancy-based-projects/",
+    "https://www.liverpool.ac.uk/management/news/stories/title,1512183,en.php",
+    "https://www.liverpool.ac.uk/management/for-business/project-partners/"
+   ],
+   "finding": "Management School has MBA consultancy-based projects, a final-year UG client consultancy module (MKIB306), a Project Partners scheme and an annual one-day HRM Consultancy Day with named firms. Group working unresolved for most; HRM Consultancy Day clearly team-based but one day long."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Liverpool computer science industrial group project external client module",
+    "Liverpool engineering student group project industry client design build test sponsor",
+    "Constructionarium Liverpool civil engineering",
+    "Embedding Unilever student projects",
+    "Industry Dragons support Electrical Engineering & Electronics projects",
+    "Electrical Engineering and Electronics industry partners undergraduate group project",
+    "Liverpool Computer Science software engineering team project real client"
+   ],
+   "key_sources": [
+    "https://www.liverpool.ac.uk/careers/employers/connections-in-action/industrydragonssupportelectricalengineeringelectronicsprojects/",
+    "https://www.liverpool.ac.uk/engineering/study/undergraduate/courses/civil-engineering/"
+   ],
+   "finding": "EEE module with industry-panel pitches found (undated); Constructionarium evidence thin; CS and aerospace/civil group design projects exist but no external clients documented."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Liverpool mathematics final year projects Shop Direct",
+    "MATH390 Liverpool group project employers",
+    "Mathematical Sciences Liverpool careers MATH390 2025",
+    "Liverpool life sciences biosciences chemistry physics group project industry partner"
+   ],
+   "key_sources": [
+    "https://www.liverpool.ac.uk/mathematical-sciences/study/careers-and-employability/projects/",
+    "https://www.liverpool.ac.uk/centre-for-innovation-in-education/resources/all-resources/embedding-employability-in-the-mathematics-curriculum.html"
+   ],
+   "finding": "MATH390 is a clear employer-set group project module in Mathematical Sciences. No equivalent found for chemistry, physics or biosciences (only the 2021 Enterprise in the Life Sciences Challenge)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Geography Environmental Science consultancy module group Environment Agency report",
+    "Liverpool planning students live client project module",
+    "Environmental Planning and Management Project group module client",
+    "ENVS467 Spatial Planning in Action",
+    "Liverpool humanities social sciences group project community organisation client",
+    "Play Your Part Students in the Community Innovation Challenge 2023"
+   ],
+   "key_sources": [
+    "https://www.liverpool.ac.uk/geography-and-planning/planning-programmes/fieldwork/spatial-planning/",
+    "https://www.liverpool.ac.uk/centre-for-innovation-in-education/resources/all-resources/environmental-planning-management-project.html"
+   ],
+   "finding": "Geography and Planning has two client-based group modules (ENVS467 and Environmental Planning and Management Project). Environmental science consultancy assessments use notional clients. No qualifying route found in humanities, sociology or politics."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Liverpool School of Architecture live project community client students",
+    "Liverpool Law School clinic students real clients pro bono",
+    "Liverpool Dragons' Den health professions students",
+    "Ideas for Huyton Collaborative Studio"
+   ],
+   "key_sources": [
+    "https://www.liverpool.ac.uk/architecture/research/researchclustersandcentres/clusters/practiceandpedagogy/",
+    "https://www.liverpool.ac.uk/law/liverpool-law-clinic/about/"
+   ],
+   "finding": "Architecture live studio with Knowsley Council found (team working unclear). Law Clinic is individual casework; health Dragons' Den uses profession panels. Medicine, dentistry, veterinary and nursing not searched in depth."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Liverpool Launchpad employer-led Grand Challenges (Careers and Employability)",
+   "english_name": "Liverpool Launchpad Grand Challenges",
+   "module_code": "",
+   "admin_host": "Careers and Employability",
+   "eligible_faculties_programmes": "Launchpad announced as open to all current University of Liverpool students; individual challenges have their own limits (places limited; some priority groups).",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "No credit evidenced",
+   "delivery_format": "Short employer challenges; pitches",
+   "partner_role": "",
+   "named_partners": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "The legacy 'Grand Challenges' URL (liverpool.ac.uk/careers/employers/campus-wide-initiatives/grand-challenges/) did not appear in any search result, so the legacy page could not be re-evidenced; Launchpad (Aug 2025) is the current umbrella that lists 'grand challenges'. Sources differ on whether Launchpad is for 'all current' vs 'new and returning' students; no source confirms every challenge is open to every student. Umbrella not counted.",
+   "legacy_ref": "Grand Challenges",
+   "local_id": "S1",
+   "description": "Umbrella for central Careers and Employability employer-led team challenges (e.g. The Big Events Challenge with Culture Liverpool; Sustainable Innovation Challenge). Students work in teams on partner-set briefs and pitch to panels. Individual challenges are recorded as child routes.",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "Varies by challenge",
+   "project_based": "Yes",
+   "project_evidence": "Child challenges set briefs and require pitches (src 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams in child challenges (src 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner-set briefs and expert feedback in child challenges (src 1,2).",
+   "partner_type": "Mixed",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/careers/launchpad/",
+     "title": "Liverpool Launchpad - Careers and Employability",
+     "section": "Launchpad page",
+     "pub_year": "undated (2025 launch)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Programme lists employer-led 'grand challenges' with paid internships, campus jobs, micro-internships; described as open to all new and returning Liverpool students.",
+     "supports": [
+      "reach",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://news.liverpool.ac.uk/2025/08/11/uliverpool-launchpad-brings-unique-career-opportunities-to-every-student/",
+     "title": "Liverpool Launchpad brings unique career opportunities to every student",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Launch announcement: designed to give every student access to career-boosting experiences; open to all current University of Liverpool students.",
+     "supports": [
+      "reach",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "The Big Events Challenge with Culture Liverpool",
+   "english_name": "The Big Events Challenge",
+   "module_code": "",
+   "admin_host": "Careers and Employability",
+   "eligible_faculties_programmes": "Interdisciplinary student teams; places limited, application deadline 26 January (Dec 2025 call). Eligibility criteria not stated in extracts.",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "No credit evidenced",
+   "delivery_format": "In person, two-day team challenge with finale pitch",
+   "partner_role": "Sets brief; supplies industry experts for feedback; partner in delivery.",
+   "named_partners": "Culture Liverpool (2026)",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "Places limited; number not published in extracts.",
+   "unresolved": "Partner type of Culture Liverpool not stated in extracts (likely a city culture body but not evidenced). Whether challenge open to all students not stated. Only one brief/year evidenced; short duration.",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "description": "Two-day challenge (March 2026) in which students in newly formed interdisciplinary teams responded to a genuine brief from Culture Liverpool on making large-scale Liverpool events (tied to e.g. Tour de France 2027) more accessible and inclusive. Industry experts rotated between groups giving feedback on day two; finalist teams pitched to a panel at St George's Hall (winning idea an accessibility app).",
+   "academic_reach": "Unclear",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "2 days (March 2026)",
+   "project_based": "Yes",
+   "project_evidence": "Defined brief (accessibility/inclusion of large events) and pitched solutions to a panel (src 1,2). Very short format; output goes to a judging panel, recipient organisation's use of outputs not evidenced.",
+   "group_working": "Yes",
+   "group_evidence": "Students 'worked in newly formed, interdisciplinary teams' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Brief set by Culture Liverpool ('genuine brief rather than hypothetical'); industry experts gave feedback to groups; run in partnership with Culture Liverpool (src 1,2).",
+   "partner_type": "Unclear",
+   "deliverable": "Team pitch of an idea (e.g. accessibility app) to finale panel",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/careers/employers/connections-in-action/liverpool-careers-employability-culture-liverpool-grand-challenge/",
+     "title": "Students Tackling a Real-World Grand Challenge with Culture Liverpool",
+     "section": "Case study",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Over two days in March 2026 students worked in newly formed interdisciplinary teams on a brief from Culture Liverpool; industry experts rotated around groups to give feedback; finalists pitched at St George's Hall; 'genuine brief rather than hypothetical'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://news.liverpool.ac.uk/2025/12/15/the-big-events-challenge-with-culture-liverpool/",
+     "title": "The Big Events Challenge with Culture Liverpool",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Run by Careers & Employability with Culture Liverpool; places limited; application deadline 26 January.",
+     "supports": [
+      "eligibility",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "Sustainable Innovation Challenge",
+   "english_name": "Sustainable Innovation Challenge",
+   "module_code": "",
+   "admin_host": "Careers and Employability (EQ+)",
+   "eligible_faculties_programmes": "Open to students from across the University; all degree subjects welcome, no prior experience; places limited with priority to EQ+/widening participation students.",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "No credit evidenced",
+   "delivery_format": "Multi-university team challenge; mentoring; final pitch",
+   "partner_role": "Industry mentors/employers guide teams; Manchester City FC partner on 2026 brief; judging panel.",
+   "named_partners": "Manchester City Football Club (2026); partner universities Manchester Metropolitan, Ulster, Berlin School of Economics and Law (2026)",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "Programme self-reports 80% of participants progressed to graduate roles, placements or further study (not a participation count).",
+   "unresolved": "Total programme length not stated; place numbers not published. Brief-setter role of Man City FC inferred from 'in partnership' wording; mentors/employers' participation is explicit.",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "description": "Annual spring team-based programme: students work in teams on a sustainability/innovation brief with employer/mentor and innovation-adviser guidance, culminating in a pitch to a judging panel. 2026 edition (with Manchester Metropolitan, Ulster, Berlin School of Economics and Law and Manchester City FC) asked teams to reimagine CityLink, the pedestrian route between Holt Town and the Etihad Campus; Liverpool students travelled to Manchester 3-5 June 2026 (fully funded).",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "Annual spring programme including 3-day Manchester trip (June 2026)",
+   "project_based": "Yes",
+   "project_evidence": "Team brief on a defined site problem (CityLink) with pitch to a panel (src 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "'Teams collaborate with peers from partner universities' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employers and industry mentors guide teams; 2026 brief delivered in partnership with Manchester City FC; pitch to judging panel (src 1,2). Exact split of who sets the brief not stated; recorded as partner-set/mentored.",
+   "partner_type": "Mixed",
+   "deliverable": "Team pitch of solution/proposal",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/careers/employability/equalityplus/sustainable-innovation-challenge/",
+     "title": "Sustainable Innovation Challenge",
+     "section": "Programme page and FAQ",
+     "pub_year": "undated (current, mentions 2026 edition)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Annual team-based programme; teams work on sustainability/innovation brief and pitch to expert panel; open to students from across the University; places limited, priority to EQ+/widening participation; guidance from employers, mentors, innovation advisers.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.liverpool.ac.uk/careers/about/news/manchestersustainabilitychallenge2026/",
+     "title": "Manchester Sustainability Challenge 2026",
+     "section": "News",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2026 challenge delivered with Manchester Metropolitan, Ulster, Berlin School of Economics and Law and Manchester City FC; brief to rethink CityLink; Liverpool students in Manchester 3-5 June 2026; fully funded.",
+     "supports": [
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Real-World Challenges in Curriculum (Careers and Employability employer offer)",
+   "english_name": "Real-World Challenges in Curriculum",
+   "module_code": "",
+   "admin_host": "Careers and Employability (Employer Connections)",
+   "eligible_faculties_programmes": "Targets particular degree disciplines per project; no list of participating modules published on the page.",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Assessed module activity (module-specific)",
+   "delivery_format": "Employer project embedded in module",
+   "partner_role": "",
+   "named_partners": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Employer-facing marketing page; participating modules not listed (only MATH390 identified via other sources). Umbrella, not counted.",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "description": "Central offer through which an employer's project is embedded within specific academic modules, co-developed with academics; students 'typically work in groups' as part of assessed curriculum activity. Specific delivering modules (e.g. MATH390) are recorded as child routes.",
+   "academic_reach": "Cross-faculty",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Module-length",
+   "project_based": "Yes",
+   "project_evidence": "Employer project embedded in module (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Students typically work in groups' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employer brings current challenge (src 1).",
+   "partner_type": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/careers/employers/sme-support/real-world-projects-smes/",
+     "title": "Real-World Projects - Careers and Employability",
+     "section": "Real-World Challenges in Curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Real-world challenges in curriculum embed an employer's project within specific academic modules, developed with academics; students typically work in groups as part of assessed curriculum activity; aimed at particular degree cohorts.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S4",
+   "is_umbrella": false,
+   "official_name": "Professional Projects and Employability in Mathematics",
+   "english_name": "Professional Projects and Employability in Mathematics",
+   "module_code": "MATH390",
+   "admin_host": "Department of Mathematical Sciences",
+   "eligible_faculties_programmes": "Optional year 3 module in several Mathematics programmes (including Mathematics and Computer Science).",
+   "year_of_study": "Year 3 (Level 6)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "15 credits, semester 1; assessed by three group projects, reflective pieces and individual portfolio",
+   "delivery_format": "PC-lab based active learning with employer projects",
+   "partner_role": "Co-design projects from real questions in their organisations; feedback and Q&A on presentations.",
+   "named_partners": "Not named in extracts for current year (a 2021-era Shop Direct example surfaced in a search summary but was not tied to a source).",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Partner sector not specified (employers). Current delivery rests on a May 2025 course-update listing for Mathematics and Computer Science (src 3); a 2026-27 module-catalogue entry was reported in a search summary but not tied to a clear URL. Employer partners for 2025/26 not named.",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "description": "Year 3 module in which students work in groups on three authentic mathematical projects set by employers (one a time-constrained one-week/lab-session investigation), producing client reports and group presentations, plus reflective writing and an individual employability portfolio. Industrial partners co-design projects from real questions in their organisations, give input on reports and presentations and lead the Q&A.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "One semester",
+   "project_based": "Yes",
+   "project_evidence": "Three authentic employer-set projects with client reports (src 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in groups on authentic mathematical projects set by employers' (src 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employers set projects, input on reports/presentations, lead Q&A (src 2).",
+   "partner_type": "Unclear",
+   "deliverable": "Client reports and group presentations",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/mathematical-sciences/study/careers-and-employability/projects/",
+     "title": "Projects - Mathematical Sciences",
+     "section": "Careers and employability: Projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MATH390: 15-credit, semester 1, year 3 module; students work in groups on authentic mathematical projects set by employers; assessment of three group projects, reflective pieces and individual portfolio.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.liverpool.ac.uk/centre-for-innovation-in-education/resources/all-resources/embedding-employability-in-the-mathematics-curriculum.html",
+     "title": "Embedding employability in the mathematics curriculum",
+     "section": "CIE resource",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Real-world mathematical group projects designed and delivered in collaboration with employers; industrial partners provide input on reports and presentations and lead the Q&A; one project is a one-week client report.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.liverpool.ac.uk/courses/mathematics-and-computer-science-bsc-hons",
+     "title": "Mathematics and Computer Science BSc (Hons)",
+     "section": "Course update",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "May 2025 course update lists MATH390 as a year 3 optional module.",
+     "supports": [
+      "status",
+      "participation",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Electrical Engineering & Electronics industry 'Dragons' Den' group project module",
+   "english_name": "EEE module group projects pitched to industry panel",
+   "module_code": "",
+   "admin_host": "Department of Electrical Engineering and Electronics",
+   "eligible_faculties_programmes": "Module in EEE programmes (module code not stated in extract).",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Assessed module activity; weighting not stated",
+   "delivery_format": "Group projects with industry panel pitch",
+   "partner_role": "Receive pitches, question and give feedback; assess alongside academics.",
+   "named_partners": "Crover, DefProc Engineering, Liverpool University NHS Foundation Trust, MBDA, STFC (undated session)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Case-study page undated; module code, year and compulsory/optional status not stated. Not known whether the session recurs. Related: ELEC273 Applied Design & Industrial Awareness; a MEng group project 'based on the needs of industry' (course page only, no client evidence).",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "description": "In a Department of Electrical Engineering and Electronics module (leader Dr Munira Raja), student groups developed solutions/demonstrators to an industry-relevant problem and pitched to academic assessors and an industry panel (Crover, DefProc Engineering, Liverpool University NHS Foundation Trust, MBDA, STFC) who questioned them and gave feedback on market analysis, value proposition, implementation and viability.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Module-length with pitch session",
+   "project_based": "Yes",
+   "project_evidence": "Groups developed solutions/demonstrators to an industry-relevant problem (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Students worked in groups' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry representatives sat as 'dragons', questioned groups and gave feedback on viability (src 1); who set the problem not stated.",
+   "partner_type": "Mixed",
+   "deliverable": "Group solution/demonstrator and pitch",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/careers/employers/connections-in-action/industrydragonssupportelectricalengineeringelectronicsprojects/",
+     "title": "Industry Dragons support Electrical Engineering & Electronics Projects",
+     "section": "Case study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students worked in groups on an industry-relevant problem and pitched to academic assessors and industry 'dragons' from Crover, DefProc Engineering, LUHFT, MBDA, STFC who questioned them and gave feedback.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "HRM Consultancy Day Workshop (MSc Human Resource Management)",
+   "english_name": "HRM Consultancy Day",
+   "module_code": "",
+   "admin_host": "University of Liverpool Management School",
+   "eligible_faculties_programmes": "MSc Human Resource Management students.",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Part of 'HRM: Academic and Practitioner Perspectives' module; assessment weight not stated",
+   "delivery_format": "On-campus workshop",
+   "partner_role": "Present live problem; panel feedback.",
+   "named_partners": "Enterprise Mobility, BDO, Hilton (2025)",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "About 50 students (2025).",
+   "unresolved": "Latest evidenced run is March 2025 (third consecutive annual run); no 2025/26 evidence found. Compulsory status within module/programme not stated. Recipient of output is the panel, not clearly the client.",
+   "legacy_ref": "",
+   "local_id": "S7",
+   "description": "Annual one-day workshop within the 'HRM: Academic and Practitioner Perspectives' module: about 50 MSc HRM students heard organisation briefings from clients (Enterprise Mobility, BDO, Hilton in 2025) about a current live problem, split into teams and spent about two hours developing tailored strategies, presented to an external independent panel that gave feedback.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "1 day",
+   "project_based": "Yes",
+   "project_evidence": "Defined live problem and tailored strategy presentation (src 1); very short, so A is borderline.",
+   "group_working": "Yes",
+   "group_evidence": "Students 'split into teams' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisations briefed students on a current live problem; external independent panel gave feedback (src 1).",
+   "partner_type": "Business/commercial",
+   "deliverable": "Team HR strategy presentation",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (March 2025)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/management/news/stories/title,1512183,en.php",
+     "title": "Human Resource Management master's students put theory into practice through Consultancy Day 2025",
+     "section": "News story",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "About 50 MSc HRM students; clients from Enterprise Mobility, BDO and Hilton gave briefings on a live problem; teams developed strategies in about two hours; presentations to external independent panel; third consecutive year; part of the HRM: Academic and Practitioner Perspectives module.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Liverpool MBA consultancy-based project (with ULMS850 Management Consulting in Practice)",
+   "english_name": "MBA consultancy-based project",
+   "module_code": "ULMS850",
+   "admin_host": "University of Liverpool Management School",
+   "eligible_faculties_programmes": "Liverpool MBA (and MBA Football Industries) candidates choosing the consultancy route.",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "ULMS850 10 credits; project report 10,000 words",
+   "delivery_format": "Module then client project",
+   "partner_role": "Client organisation for the project.",
+   "named_partners": "",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Group vs individual for the client project unresolved; module page seen is for 2023-24; programme page undated.",
+   "legacy_ref": "",
+   "local_id": "S8",
+   "description": "MBA candidates may choose a consultancy-based project instead of a dissertation: ULMS850 (optional, 10 credits, Jan-Apr) introduces project work in small groups; students then identify and secure a client organisation and complete the project over the summer with an academic advisor, producing a 10,000-word report including a 1,000-word output in a client-agreed format. The Football Industries MBA has a similar option.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "Jan-Apr module plus summer project",
+   "project_based": "Yes",
+   "project_evidence": "Client project with consultancy report and client-format output (src 1).",
+   "group_working": "Unclear",
+   "group_evidence": "ULMS850 uses small groups for module project work but the summer client project appears to be individual with an advisor; cannot separate (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Student secures a client organisation, which acts as client; outputs in client-acceptable format (src 1). Clients are student-sourced; sectors include creative, pharma, tech, finance, charities, sports clubs.",
+   "partner_type": "Mixed",
+   "deliverable": "10,000-word consultancy report plus 1,000-word client output",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023/24 (module page)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/management/study/mba/why-study-with-us/consultancy-based-projects/",
+     "title": "Consultancy Based projects",
+     "section": "MBA why study with us",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Dissertation or consultancy-based project over summer; ULMS850 introduces project work in small groups Jan-Apr; students identify and secure a client; 10,000-word report with 1,000-word client-format output.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "International Business/Management Consultancy Project",
+   "english_name": "International Management Consultancy Project",
+   "module_code": "MKIB306",
+   "admin_host": "University of Liverpool Management School",
+   "eligible_faculties_programmes": "BA International Management/International Business programmes (listed compulsory on one page, optional elsewhere).",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 credits; pitch 20%, report 60%",
+   "delivery_format": "Client-brief consultancy module",
+   "partner_role": "Sets brief; receives presentation.",
+   "named_partners": "",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Whether any assessed output is a team output not resolved; compulsory vs optional conflicts between pages; client sectors not named.",
+   "legacy_ref": "",
+   "local_id": "S9",
+   "description": "30-credit year-long final-year module in which a client organisation presents the project brief and students present parts of their work to the client; assessment includes a client pitch (15 min, 20%) and client report (60%), both recorded as individual in the 2025-26 module record, while programme pages mention group reports/presentations.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "Year-long",
+   "project_based": "Yes",
+   "project_evidence": "Client brief and consultancy report (src 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Module record shows individual pitch and report; programme pages mention group presentations (src 1,2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation presents the brief; students present to the client (src 1).",
+   "partner_type": "Unclear",
+   "deliverable": "Client report and pitch",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/courses/2025/international-business-ba-hons",
+     "title": "International Business BA (Hons) - 2025/26 entry",
+     "section": "Modules",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MKIB306 30-credit year-long; 2025-26 module record lists client pitch 15 min 20% and client report 60%; client organisation presents the brief.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.liverpool.ac.uk/courses/international-management-ba-hons",
+     "title": "International Management BA (Hons)",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Compulsory International Management Consultancy Project (MKIB306) 30 credits in final year or independent research project.",
+     "supports": [
+      "participation",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Management School Project Partners",
+   "english_name": "Project Partners",
+   "module_code": "",
+   "admin_host": "Management School External Engagement team",
+   "eligible_faculties_programmes": "Management School UG and PG students.",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not stated",
+   "delivery_format": "Organisation-matched student projects",
+   "partner_role": "Supply project and time.",
+   "named_partners": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Whether projects are individual (likely dissertation/consultancy route) or team; no credit or cohort data; may overlap with MBA consultancy route and dissertations.",
+   "legacy_ref": "",
+   "local_id": "S10",
+   "description": "Management School scheme pairing organisations (no fee, time commitment) with undergraduate or postgraduate students on real business challenges under academic supervision; matching depends on student numbers and interests.",
+   "academic_reach": "Faculty/school",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "duration": "Not stated",
+   "project_based": "Yes",
+   "project_evidence": "Real business challenges with academic supervision (src 1).",
+   "group_working": "Unclear",
+   "group_evidence": "'Matched with a student'; individual vs team not stated (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisations supply project and time (src 1).",
+   "partner_type": "Business/commercial",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/management/for-business/project-partners/",
+     "title": "Project partners",
+     "section": "For business",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Pairs organisations with students at no fee, just time; Management School experts supervise; UG and PG students; matching not guaranteed.",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Spatial Planning in Action / Spatial Planning and Design Project (client-based group plan-making)",
+   "english_name": "Spatial Planning and Design Project",
+   "module_code": "ENVS467",
+   "admin_host": "Department of Geography and Planning",
+   "eligible_faculties_programmes": "MPlan Year 4 and Master of Civic Design (Town and Regional Planning / Urban Design and Planning).",
+   "year_of_study": "Year 4 MPlan / MCD",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 credits",
+   "delivery_format": "Client group project with residential field visit",
+   "partner_role": "Clients for plan-making brief; stakeholder meetings.",
+   "named_partners": "Canal and River Trust (charity), St Helens Council, Mersey Travel (undated list)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Fieldwork page undated; client list varies by year and is not tied to a dated cohort; MPlan 2025 course page corroborates the module's compulsory status only for 2025 entry. Partner types mixed (council, charity): recorded as Mixed.",
+   "legacy_ref": "",
+   "local_id": "S11",
+   "description": "Year 4 MPlan and MCD module: each year a client-based group plan-making exercise across semester 2 with a residential field visit and meetings with local planning staff and stakeholders. Past clients listed on the department page include Canal and River Trust, St Helens Council, Mersey Travel, Atlantic Gateway, Morecambe Bay Partnership and North West Development Agency.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Semester 2",
+   "project_based": "Yes",
+   "project_evidence": "Client-based plan-making exercise (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Client based group plan making exercise' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Named public-sector/charity clients; meetings with planning staff and stakeholders (src 1).",
+   "partner_type": "Mixed",
+   "deliverable": "Group plan for client",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/geography-and-planning/planning-programmes/fieldwork/spatial-planning/",
+     "title": "Spatial Planning (fieldwork)",
+     "section": "Fieldwork page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Each year the module entails a client-based group plan-making exercise over semester 2; past clients include Canal and River Trust, St Helens Council, Mersey Travel; residential field visit.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.liverpool.ac.uk/courses/town-and-regional-planning-mplan/2025/home",
+     "title": "Town and Regional Planning MPlan",
+     "section": "Modules",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "ENVS467 Spatial Planning and Design Project, 30 credits, compulsory in MPlan Year 4 and MCD.",
+     "supports": [
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Environmental Planning and Management Project (client-led group module)",
+   "english_name": "Environmental Planning and Management Project",
+   "module_code": "ENVS360 (BA Environment and Planning); ENVS560 (MSc Environmental Assessment and Management); SOES394/594 (MPlan)",
+   "admin_host": "Department of Geography and Planning",
+   "eligible_faculties_programmes": "BA Environment and Planning, MSc Environmental Assessment and Management, MPlan.",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not stated in extract",
+   "delivery_format": "Group consultancy mini-project",
+   "partner_role": "Co-develop brief; review work; influence marking.",
+   "named_partners": "",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Case study undated and client identities not named; participation requirement per programme not evidenced. Programme pages (MPlan 2026 update) still list the module but delivery year unconfirmed.",
+   "legacy_ref": "",
+   "local_id": "S12",
+   "description": "Client-led module where groups of students act as environmental consultants on a mini-project; each year a different client with a brief co-developed with the lecturer; deliverables are a report and presentation (MSc: tender document presented to client and at a departmental conference). The client reviews the work and the marker takes the client's view into account; outcomes have informed an IEMA steering group.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Module-length (semester)",
+   "project_based": "Yes",
+   "project_evidence": "Brief-based mini-project with report/presentation or tender (src 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of environmental consultants; marking considers group member strengths (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client co-develops the brief, reviews work and feeds into marking (src 1).",
+   "partner_type": "Unclear",
+   "deliverable": "Group report and presentation (tender for MSc)",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021 (award) / undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/centre-for-innovation-in-education/resources/all-resources/environmental-planning-management-project.html",
+     "title": "Environmental Planning and Management Project",
+     "section": "CIE resource",
+     "pub_year": "undated (2021 award mentioned)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Client-led group module; different client each year, brief developed with the client; groups of consultants produce report and presentation; client review informs marking; IEMA-accredited.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.liverpool.ac.uk/courses/environmental-assessment-and-management-msc",
+     "title": "Environmental Assessment and Management MSc",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "ENVS560: students create a tender document and present to a client and at a departmental conference.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Ideas for Huyton: BA3 Studio Pen & Inc live collaboration with Knowsley Council",
+   "english_name": "Ideas for Huyton architecture studio",
+   "module_code": "",
+   "admin_host": "Liverpool School of Architecture",
+   "eligible_faculties_programmes": "BA3 Architecture studio (Pen & Inc).",
+   "year_of_study": "BA3",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Studio; not stated",
+   "delivery_format": "Design studio with council and stakeholders",
+   "partner_role": "Live client/collaborator; receives proposals.",
+   "named_partners": "Knowsley MBC; Architectural Emporium; One Day Regeneration",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Whether students work in teams; whether studio runs in 2025/26; other live studios in the School likely (see gaps).",
+   "legacy_ref": "",
+   "local_id": "S13",
+   "description": "Live architecture design studio collaboration with Knowsley Metropolitan Borough Council on regeneration of Huyton village high street (about 30 students in 2021-22; cycles to 2023-24): strategic micro-plan and meanwhile uses, then a permanent community hub proposal; student work exhibited at Huyton Village Green (June 2024) and council committed to act on two meanwhile ideas.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Academic year cycles (2021-22 to 2023-24)",
+   "project_based": "Yes",
+   "project_evidence": "Defined design briefs with outputs (micro-plan, hub) and exhibition (src 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Studio work; team vs individual designs not stated (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Knowsley Council and local stakeholders engaged; council acts on ideas; exhibition/launch for council members (src 1).",
+   "partner_type": "Public sector",
+   "deliverable": "Design proposals, exhibition, catalogue",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023/24",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/architecture/research/researchclustersandcentres/clusters/practiceandpedagogy/",
+     "title": "Practice and Pedagogy",
+     "section": "Cluster page; Ideas for Huyton",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "BA3 Studio Pen & Inc live collaboration with Knowsley Council; two design cycles; exhibition at Huyton Village Green June 2024; council committed to act on ideas (summarised across Liverpool pages and repository paper).",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Constructionarium (Civil Engineering)",
+   "english_name": "Constructionarium",
+   "module_code": "",
+   "admin_host": "Department of Civil Engineering",
+   "eligible_faculties_programmes": "Civil Engineering programmes (year given as 2 or 3 on different pages).",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not stated",
+   "delivery_format": "Residential site-based build",
+   "partner_role": "",
+   "named_partners": "",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Mentor role undocumented; year of study conflict; the build is a teaching exercise run by a national programme, not a Liverpool-client brief.",
+   "legacy_ref": "",
+   "local_id": "S14",
+   "description": "Week-long hands-on construction project at a teaching site in which civil engineering students work as a group (e.g. scale model of Millau viaduct per a student testimonial) with an industry mentor (a Murphy Group mentor appears in a University photo caption); students pay up to GBP 250.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "1 week",
+   "project_based": "Yes",
+   "project_evidence": "Bounded construction build with method statement (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Students 'built a scale model' as a group (testimonial) (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Only evidence is a photo caption referencing a Murphy Group industry mentor; role not documented on a page.",
+   "partner_type": "Business/commercial",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.liverpool.ac.uk/engineering/study/undergraduate/courses/civil-engineering/",
+     "title": "Civil Engineering",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Second-year students work with Murphy Group industry mentor at Constructionarium (photo caption); week-long hands-on construction experience.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Peel Ports Innovation Challenge (2022)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Real port sustainability brief, cross-university interdisciplinary teams with Peel Ports mentors and pitch (Oct 2022, over 50 students from Liverpool and LJMU). Meets A/B/C but evidenced only for 2022; no later edition found, so historical only.",
+   "source_url": "https://news.liverpool.ac.uk/2022/04/04/university-partnership-to-improve-port-innovation/",
+   "status_note": "Historical delivery only (2022)"
+  },
+  {
+   "name": "Enterprise in the Life Sciences Challenge (2021)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Three-week challenge, over 40 students in small groups on real-world employer-set challenges with digital pitches and employer feedback; 2021 one-off, no later edition found.",
+   "source_url": "https://www.liverpool.ac.uk/careers/students/blog/new/enterprise-in-the-life-sciences-challenge/",
+   "status_note": "Historical delivery only (2021)"
+  },
+  {
+   "name": "Play Your Part: Students in the Community Innovation Challenge (2023)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Interdisciplinary team competition on cost-of-living ideas run with Civic Data Cooperative and Everton in the Community, finalist pitches; 2023 only, no later edition found.",
+   "source_url": "https://www.liverpool.ac.uk/histories-languages-and-cultures/news/stories/title,1386162,en.php",
+   "status_note": "Historical delivery only (2023)"
+  },
+  {
+   "name": "Unilever / Sensor City curriculum projects (Electrical Engineering and Electronics)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "2021 announcement of planned individual and group Unilever projects embedded in modules; no evidence they ran or continue.",
+   "source_url": "https://news.liverpool.ac.uk/2021/04/15/embedding-unilever-student-projects-in-the-curriculum/",
+   "status_note": "Announced 2021; delivery unverified"
+  },
+  {
+   "name": "Liverpool Law Clinic",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Credit-bearing clinic module and volunteering with real clients under solicitor supervision; clients are individuals and students assist casework (advice letters), no team project with an organisation evidenced.",
+   "source_url": "https://www.liverpool.ac.uk/law/liverpool-law-clinic/about/",
+   "status_note": "Current"
+  },
+  {
+   "name": "Geography/Environmental Science authentic-assessment consultancy reports (ENVS217, ENVS238)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Students act as consultants to the Environment Agency or a geotechnical consultancy but the Environment Agency is a notional client; no external organisation sets or assesses the brief.",
+   "source_url": "https://www.liverpool.ac.uk/centre-for-innovation-in-education/resources/all-resources/authentic-assessment-in-a-non-vocational-discipline.html",
+   "status_note": "Undated"
+  },
+  {
+   "name": "Greening the Campus interdisciplinary module",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "About 180 students in interdisciplinary groups with brief set by Guild of Students/Sustainability Team/estates and presentations assessed by that client; internal university client does not satisfy C.",
+   "source_url": "https://www.liverpool.ac.uk/centre-for-innovation-in-education/resources/all-resources/greening-the-campus.html",
+   "status_note": "Undated"
+  },
+  {
+   "name": "Computer Science group projects (COMP208, COMP530, COMP591 MEng Group Project)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Compulsory/optional group software and MEng projects exist but no page states an external client or employer sets the brief.",
+   "source_url": "https://www.liverpool.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-meng-hons/module-details/",
+   "status_note": "Programme pages"
+  },
+  {
+   "name": "Aerospace Capstone Group Design Project and Civil/Structural MEng group design project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group design projects exist (30-credit capstone; Year 4 civil design) but no source documents external sponsors or clients.",
+   "source_url": "https://www.liverpool.ac.uk/courses/civil-and-structural-engineering-meng-hons",
+   "status_note": "Programme pages"
+  },
+  {
+   "name": "Year in Industry / placement routes and MSc Industrial Project (COMP599)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements; no group project component evidenced.",
+   "source_url": "https://www.liverpool.ac.uk/courses/computer-science-with-year-in-industry-msc",
+   "status_note": "Current programme pages"
+  },
+  {
+   "name": "Liverpool Interns and AI Consulting Micro-Internship (Accenture/Springpod)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "80-hour individual projects for SMEs; micro-internship students work individually on the brief.",
+   "source_url": "https://www.liverpool.ac.uk/careers/employers/sme-support/liverpool-interns/",
+   "status_note": "Current"
+  },
+  {
+   "name": "Design your Future / enterprise competitions",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "12-week entrepreneurship programme for student ideas with advice and funding; no external-organisation brief.",
+   "source_url": "https://www.liverpool.ac.uk/careers/employability/enterprise/bring-your-ideas-to-life/",
+   "status_note": "Current"
+  },
+  {
+   "name": "University Business Challenge (postgraduate and undergraduate teams)",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "National competition mirroring business environments via a simulation; no live client.",
+   "source_url": "https://www.liverpool.ac.uk/management/news/stories/title,1555883,en.php",
+   "status_note": "Event"
+  },
+  {
+   "name": "Health professions Dragons' Den session",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Single-discipline groups pitched to profession-based panels; no external organisation brief.",
+   "source_url": "https://www.liverpool.ac.uk/centre-for-innovation-in-education/resources/all-resources/dragons-den.html",
+   "status_note": "Undated"
+  },
+  {
+   "name": "Sociology interchange project (SOCI311) / Social policy project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Page (old) describes short interchange project and research commissioned by local agency; group vs individual and current delivery not evidenced.",
+   "source_url": "https://liverpool.ac.uk/study/undergraduate/courses/sociology-ba-hons/module-details",
+   "status_note": "Stale page"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Liverpool** shows qualifying provision in several distinct places rather than a single institution-wide scheme. Centrally, Careers and Employability runs extracurricular employer team challenges under Launchpad (the Big Events Challenge with Culture Liverpool, March 2026, a two-day challenge; and the annual Sustainable Innovation Challenge, 2026 brief with Manchester City FC and partner universities). Both are selective, short and not credit-bearing; the Sustainable Innovation Challenge is open across the University with priority for EQ+ students. A central 'Real-World Challenges in Curriculum' offer invites employers to embed projects in modules, but no list of participating modules is published.\n\nThe strongest curricular routes are programme-level: MATH390 (Mathematical Sciences, optional Year 3, groups on employer-set projects with employer input on reports and Q&A), Geography and Planning's client-based group modules (ENVS467 compulsory in MPlan/MCD with named council and charity clients; Environmental Planning and Management Project), a Management School HRM Consultancy Day (one day, Enterprise Mobility, BDO, Hilton, March 2025), and an EEE module with industry-panel pitches. The MBA consultancy route, MKIB306 and Project Partners involve real clients but group working is unresolved. Architecture's Huyton studio with Knowsley Council is a live client project but team structure is unclear.\n\nSeveral candidates are historical (Peel Ports 2022, Life Sciences 2021) or weak (CS and engineering group projects with no documented clients; Law Clinic individual casework). Provision appears distributed across departments with no compulsory or institution-wide curricular scheme verified. Much evidence is undated; many routes lack 2025/26 confirmation.",
+ "gaps": "Further departmental instances likely (engineering, computer science, medicine, dentistry, veterinary science, nursing/allied health, biosciences, chemistry, physics, music/arts, politics) were not searched in depth. Many module pages undated; legacy Grand Challenges page not surfaced in search. Group working unresolved for MBA, MKIB306, Project Partners and architecture studio. Partner types for several routes unspecified. No participation numbers published. 39 searches used."
+}
