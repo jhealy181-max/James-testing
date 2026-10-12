@@ -1,0 +1,882 @@
+{
+ "inst_id": "UK09",
+ "institution": "Leicester",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Leicester 100 hours work-related learning guarantee employer-informed projects",
+    "Leicester employer-led project module students work in groups real business brief",
+    "Leicester employer toolkit summer consultancy challenge live brief",
+    "Leicester Award Gold employability students activities employers projects",
+    "Leicester Undergraduate Project Engineers Innovation Hub students projects for businesses"
+   ],
+   "key_sources": [
+    "https://le.ac.uk/study/undergraduates/careers/100-hours",
+    "https://le.ac.uk/study/undergraduates/careers/the-leicester-award",
+    "https://le.ac.uk/enterprise/recruit-our-students/toolkit"
+   ],
+   "finding": "University-wide 100-hour work-related learning guarantee (from 2026/27) and Leicester Award are frameworks, not specific group client projects; employer toolkit offers consultancy challenges but no delivery evidence. No central group live-client scheme verified."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Leicester Castle Business School live client project module teams consultancy",
+    "Leicester Consultancy Challenge module business students client organisation",
+    "Leicester School of Business MSc Management business project with company",
+    "Leicester AI Agentic Solutions in Business Project EMPAIP",
+    "Leicester EMPAIP AI business project students teams"
+   ],
+   "key_sources": [
+    "https://le.ac.uk/news/2026/september/businesses-university-leicester-students-ai-economy",
+    "https://le.ac.uk/school-of-business/news/events/business-consultancy-competition"
+   ],
+   "finding": "Consultancy Challenge (MK2105) content unverified; new employer-brief AI project (EMPAIP) forthcoming, group format unknown; consultancy competition is a simulation."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Leicester engineering group design project industrial partner client",
+    "Leicester Computer Science BSc second year team project commissioned by a real client",
+    "Leicester Software Engineering Projects module CO2201 external client",
+    "Leicester Mechanical Engineering MEng group project industrial partner",
+    "Leicester Space Science and Engineering MSc major project Phase A"
+   ],
+   "key_sources": [
+    "https://le.ac.uk/computing-and-mathematical-sciences/services-for-business/student-projects",
+    "https://le.ac.uk/courses/computer-science-bsc/2027",
+    "https://le.ac.uk/courses/space-science-and-engineering-msc/2027"
+   ],
+   "finding": "Second-year software engineering team projects for external clients and the Space MSc industry-supplied Phase A team project are strong routes; engineering MEng group project has only occasional industrial input."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Leicester computing mathematical sciences student projects Industrial Mathematics",
+    "Leicester Industrial Mathematics module MA3 credits",
+    "Leicester geography geology biological sciences chemistry group project external client",
+    "Leicester Sustainability Enterprise Partnership Project",
+    "Green Gown Tomorrow's Employees Leicester sustainability advisors",
+    "NT3100 Sustainable Enterprise Partnership Project 2025/26",
+    "Leicester physics astronomy industry partner group",
+    "Leicester Physics MPhys ten-week group research project industrial partners"
+   ],
+   "key_sources": [
+    "https://le.ac.uk/news/2024/july/green-gown",
+    "https://le.ac.uk/about/making-a-difference/sdgs/climate-change",
+    "https://le.ac.uk/courses/physics-mphys/2027"
+   ],
+   "finding": "SEPP (NT3100) is a group audit for partner SMEs with 2025/26 delivery evidence; Industrial Mathematics Project is a group project for industrial partners (status unclear); Physics MPhys has a group industrial project option."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Leicester Client Led Media Production module NHS client brief",
+    "Leicester Media and Communication BA Client Led Media Production 2025/26",
+    "Leicester Client Led Media Production students groups film client LPT",
+    "Leicester criminology sociology politics education history module community organisation",
+    "Leicester Live Sociology module community fieldwork partner organisations"
+   ],
+   "key_sources": [
+    "https://le.ac.uk/news/2023/july/nhs-media",
+    "https://le.ac.uk/news/2025/april/media-journalism-prestigious-employability-awards"
+   ],
+   "finding": "Client Led Media Production has a documented NHS trust client; team structure not stated. Live Sociology community projects lack external-organisation and group evidence. History/education/archaeology not individually covered by a dedicated search."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Leicester Law School pro bono clinic students real clients group project",
+    "Law in Practice Legal Advice Clinic Community projects module",
+    "Leicester pharmacy psychology nursing medicine students project partner organisation team"
+   ],
+   "key_sources": [
+    "https://le.ac.uk/engagement/case-studies/legal-advice",
+    "https://le.ac.uk/law/study/careers/pro-bono"
+   ],
+   "finding": "Legal Advice Clinic is individual client casework; Pro Bono Society is extracurricular volunteering; health shows interprofessional simulation only. No qualifying group client project verified."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CO2201 (per 2020/21-2023/24 programme specifications)",
+   "english_name": "Software Engineering Project",
+   "eligible_faculties_programmes": "Computer Science BSc (and variants), Software Engineering BSc",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 credits year-long in 2020/21-2023/24 specs; split into semester versions from 2024/25 (2023/24 spec note). Assessment weighting not found.",
+   "duration": "February-May (student projects page); module year-long/semester split",
+   "delivery_format": "Team project, staff-supervised",
+   "named_partners": "",
+   "deliverable": "Working software delivered to client",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S1",
+   "official_name": "Software Engineering Project (second-year team project, Computer Science / Software Engineering BSc)",
+   "description": "Second-year Computer Science and Software Engineering students work in teams to develop software, typically commissioned by an outside client. Projects run February-May; staff supervise and the client provides requirements, advice, technical support and feedback. The programme specification states the department aims for projects involving an external client wherever possible.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing and Mathematical Sciences",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Team develops software for a client brief with defined requirements [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Typical software engineering projects developed by teams of 2nd year students', focus on group work and project management [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Software 'typically commissioned by a real client'; client provides requirements, advice, technical support and feedback [1][2]; programme spec: external client 'wherever possible' [3] (so some internal/non-client projects possible).",
+   "partner_type": "Unclear",
+   "partner_role": "Client sets requirements and gives feedback during supervised project; client sector/type not stated; spec wording 'wherever possible' implies some projects lack an external client.",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard (course page: 'typically'; spec: 'wherever possible')",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "unresolved": "Dated module evidence only to 2024/25 (2023/24 spec note on 2024/25 split); no dated 2025/26 or 2026/27 corroboration of CO2201 text obtained. Share of internal vs external clients and client types not published; named clients not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/computing-and-mathematical-sciences/services-for-business/student-projects",
+     "title": "Student projects (Computing and Mathematical Sciences)",
+     "section": "Software engineering projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Typical software engineering projects developed by teams of 2nd year students, focus on group work and project management; groups start in February and complete in May; projects supervised by staff with the client providing requirements, advice, technical support and feedback.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://le.ac.uk/courses/computer-science-bsc/2027",
+     "title": "Computer Science BSc",
+     "section": "Course structure / Year 2",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "In year two students are part of a team project, working together to develop software, typically commissioned by a real client.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://le.ac.uk/course-doc-links/ug/s/23-24/software-engineering-bsc",
+     "title": "Software Engineering BSc programme specification",
+     "section": "Special features / module table",
+     "pub_year": "2023/24",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Programme specifications state aim for Software Engineering Projects involving an external client wherever possible; note that CO2201 was split from a 30-credit year-long module into semester versions for 2024/5.",
+     "supports": [
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MA3513",
+   "english_name": "Industrial Mathematics Project",
+   "eligible_faculties_programmes": "Mathematics BSc/MMath and related degrees (taken instead of MA3516 Mathematics Research Project)",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "Alternative to MA3516; only one may be taken. 2026 course page notes some Y3 options run in alternate years from 2026/7.",
+   "credit_assessment": "30 credits, year-long; assessment breakdown not found",
+   "duration": "Mid-October to end of May",
+   "delivery_format": "Group project with industrial partner",
+   "named_partners": "",
+   "deliverable": "Group solution/report for the industrial problem (form not stated)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "Industrial Mathematics Project",
+   "description": "Third-year mathematics students apply modelling and data analytics to real business problems, working in groups in close collaboration with the industrial partners who provided the problems. Timeline mid-October to end of May, problem list finalised mid-September; staff supervise and the client supplies requirements, advice, technical support and feedback.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing and Mathematical Sciences (Mathematics)",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Real business problems with partner-supplied briefs [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in groups' with industrial partners [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industrial partners provide the business problems; client provides requirements, advice, technical support and feedback [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies business problems; provides requirements and feedback during supervised project.",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Student-projects page is undated; MA3513 listed in programme specifications (year-long, 30 credits) but no verified 2025/26 or 2026/27 entry or cohort; possible alternate-year running from 2026/7. Partner names not published for this module.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/computing-and-mathematical-sciences/services-for-business/student-projects",
+     "title": "Student projects (Computing and Mathematical Sciences)",
+     "section": "Industrial Mathematics",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Third year undergraduate mathematics students apply modelling and data analytics skills to real business problems; students work in groups and in close collaboration with the industrial partners who provided the business problems; timeline mid-October to end of May.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://le.ac.uk/-/media/uol/docs/course-documentation/documentation/2024-25/ug/cse/mathematics-bsc-mmath.pdf",
+     "title": "Mathematics BSc/MMath programme specification",
+     "section": "Module table",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MA3513 Industrial Mathematics Project listed as year-long 30-credit module; only one of MA3516 or MA3513 can be taken.",
+     "supports": [
+      "credit",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "NT3100",
+   "english_name": "Sustainability Enterprise Partnership Project",
+   "eligible_faculties_programmes": "Final-year option on several degrees incl. Geology BSc, Physical Geography and Geology BSc, Creative Computing BSc, Medical Biochemistry BSc (2025/26 spec); selected via Online Module Selection",
+   "year_of_study": "Final year (Year 3)",
+   "eligibility_restrictions": "Must be available as an option on the student's programme; selected only during Online Module Selection window.",
+   "credit_assessment": "15 credits, Semester 1 (NT3100); group Written Industry Report plus individual Detailed Implementation Plan",
+   "duration": "Semester 1",
+   "delivery_format": "Group audit with partner organisation; Carbon Literacy training",
+   "named_partners": "Not found",
+   "deliverable": "Group Written Industry Report + individual Detailed Implementation Plan",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "Sustainability Enterprise Partnership Project (SEPP)",
+   "description": "Credit-bearing module: students from different disciplines gain Carbon Literacy accreditation, then work in groups with a partner business (mainly local SMEs) as 'sustainability advisors' to carry out a sustainability audit. Deliverables returned to the businesses: a group Written Industry Report and an individual Detailed Implementation Plan.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Natural Sciences (module lead Dr Sarah Gretton)",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Sustainability audit of a partner business with recommendations; written report and implementation plan delivered to the business [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in groups first, then individually'; Written Industry Report is a group project [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner businesses (mainly local SMEs) are audited by students and receive the group report and individual plan [1][2]. Partner selection process not described.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Host organisation for the audit; receives the report and implementation plan.",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Number of students/partners not published; individual (not group) element is a second deliverable; page naming varies (Sustainable vs Sustainability Enterprise Partnership Project). Current delivery inferred from NT3100 listing in 2025/26 Medical Biochemistry programme specification.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/news/2024/july/green-gown",
+     "title": "University of Leicester named as finalist in two Green Gown Award categories",
+     "section": "SEPP description",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Credit-bearing course in which student 'sustainability advisors' from various disciplines collaborate with local businesses (mainly SMEs) on sustainability audits; Carbon Literacy Training; students work in groups first, then individually; deliverables: Written Industry Report (group) and Detailed Implementation Plan (individual).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://le.ac.uk/news/2024/november/green-gown",
+     "title": "Double Green Gown win for the University of Leicester",
+     "section": "Tomorrow's Employees",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Module won the 2024 Green Gown 'Tomorrow's Employees' category; innovative credit-bearing course enabling students to collaborate with local businesses.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://le.ac.uk/about/making-a-difference/sdgs/climate-change",
+     "title": "Goal 13: Climate Action",
+     "section": "NT3100",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "The Sustainable Enterprise Partnership Project (NT3100) module offers the chance to achieve Carbon Literacy Accreditation and then work with a partner organisation in groups to produce a sustainability audit report with recommendations.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://le.ac.uk/-/media/uol/docs/course-documentation/documentation/2025-26/ug/cls/medical-biochemistry-bsc.pdf",
+     "title": "Medical Biochemistry BSc programme specification",
+     "section": "Module table",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "NT3100 Sustainability Enterprise Partnership Project listed, 15 credits, Semester 1 (companion NT3200 Semester 2).",
+     "supports": [
+      "credit",
+      "status",
+      "reach"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://le.ac.uk/courses/creative-computing-bsc/2027",
+     "title": "Creative Computing BSc",
+     "section": "Year 3 options",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "SEPP listed as a final-year option; selectable only through Online Module Selection.",
+     "supports": [
+      "reach",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MS3035",
+   "english_name": "Client Led Media Production",
+   "eligible_faculties_programmes": "Media and Communication BA (final-year option); other media/journalism programmes not confirmed",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "credit_assessment": "15 credits, Semester 2, Level 6 (2020/21 and 2023/24 specs)",
+   "duration": "Semester 2",
+   "delivery_format": "Client-led production project",
+   "named_partners": "Leicestershire Partnership NHS Trust (CAMHS), 2023 film; collaboration since 2023",
+   "deliverable": "Short film / media content for NHS client",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Client Led Media Production",
+   "description": "Final-year Media and Communication option in which students work to a client brief. Documented client is Leicestershire Partnership NHS Trust (CAMHS): students made a short film introducing a child and adolescent mental health team to young people (2023), and co-design content for the NHS under an AMC-LPT collaboration running since 2023.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Arts / Media, Communication and Sociology",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Production to a client brief with identifiable output (short film) [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Sources say 'final year students ... produced a short film' but do not state team structure or assessment of individual vs group work [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "LPT CAMHS commissioned the film, young people from the service shared experiences, and the Trust said the film will be used to introduce its team [1][2].",
+   "partner_type": "Public sector",
+   "partner_role": "NHS trust client sets the brief and uses the output; coordinated via AMC-LPT collaboration.",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear (only LPT evidenced)",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025",
+   "unresolved": "Team vs individual work not stated; other clients unknown; 2025/26 programme spec lists the module only in an 'indicative' option list; no cohort-level 2025/26 delivery evidence seen.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/news/2023/july/nhs-media",
+     "title": "Media students join forces with NHS to produce a film for local mental health services",
+     "section": "News",
+     "pub_year": "2023",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Final year media students produced a short film for LPT's Child and Adolescent Mental Health Services as part of their Client Led Media Production Module; film to introduce young people to the team.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://le.ac.uk/news/2025/april/media-journalism-prestigious-employability-awards",
+     "title": "Media and journalism degrees shortlisted for employability awards",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students co-design and develop content that directly benefits the NHS; project nominated for an Employer and Community Partnership award.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://le.ac.uk/-/media/uol/docs/course-documentation/documentation/2025-26/ug/cssah/media-and-communication-ba.pdf",
+     "title": "Media and Communication BA programme specification",
+     "section": "Option modules",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Client Led Media Production listed among final-year option modules (indicative list); MS3035, 15 credits, Semester 2 per other-year specs.",
+     "supports": [
+      "credit",
+      "reach",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Space Science and Engineering MSc Major Project",
+   "eligible_faculties_programmes": "MSc Space Science and Engineering (formerly Space Exploration Systems)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Credit weight not found; three panel reviews plus group executive summary and individual reports",
+   "duration": "Second half of the MSc year",
+   "delivery_format": "Team mission-study project; optional international pathway",
+   "named_partners": "Thales Alenia Space Italy, ASI, CNES (SEEDS pathway; year not stated)",
+   "deliverable": "Phase A study report (Yellow Book) with group executive summary",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "official_name": "Space Science and Engineering MSc Major Project (Phase A mission study)",
+   "description": "Second-half-of-year team project: a Phase A study of a mission concept supplied by one or more industry partners (science objectives, architecture, payload, subsystems, operations), based at Space Park Leicester. Three assessed reviews go to a panel of academic and industry experts, ending in a group executive summary and individual technical reports forming a 'Yellow Book'. SEEDS pathway forms international teams with Politecnico di Torino and ISAE-Supaero (Thales Alenia Space Italy, ASI, CNES named).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering / Space Park Leicester",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Phase A mission concept study with Yellow Book study report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in teams; group executive summary plus individual reports [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Mission concept supplied by industry partner(s); panel of academic and industry experts reviews; UK/international themes chosen by a project committee including industry [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Industry sets mission concept and reviews; space agencies (ASI, CNES) and Thales Alenia Space in SEEDS pathway.",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025/26 (programme spec exists; content not verified)",
+   "unresolved": "Programme was renamed (Space Exploration Systems MSc page noted as under review); 2025/26 specification content for the project not verified; credit weight and whether compulsory not confirmed; individual partner names for UK projects not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/courses/space-science-and-engineering-msc/2027",
+     "title": "Space Science and Engineering, MSc, PGDip",
+     "section": "Major Project",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Major Project in second half of year; teams carry out a Phase A study of a mission concept provided by one or more industry partners; three reviews to a panel of academic and industry experts; group executive summary and individual technical reports forming a Yellow Book.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://le.ac.uk/-/media/uol/docs/course-documentation/documentation/2025-26/pg/cse/space-exploration-systems-msc.pdf",
+     "title": "Space Exploration Systems MSc programme specification",
+     "section": "Programme specification",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2025/26 specification for the programme exists; earlier (2017-18, 2021-22) specifications describe same project arrangement.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Group research project with an industrial partner (Physics MPhys)",
+   "eligible_faculties_programmes": "Physics MPhys variants and Physics BSc (course pages)",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not found",
+   "duration": "10 weeks",
+   "delivery_format": "Group research project with industrial partner",
+   "named_partners": "Airbus Defence and Space, Jorin Ltd., Domino Printing, Weatherford International (course page examples; year not stated)",
+   "deliverable": "Group research project output (not specified)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "official_name": "Physics MPhys industrial group research project",
+   "description": "Several Physics MPhys course pages say that in year three students can take a ten-week group research project with an industrial partner (e.g. Airbus Defence and Space, Jorin Ltd., Domino Printing, Weatherford International), giving project, budget and team management experience on a real project. A separate 15-credit PA3241 Industry Project (applied research on industry-relevant problems) also exists; its group/individual format is not known.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Physics and Astronomy",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "'Real project' group research project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Described as a ten-week group research project [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Project is 'with an industrial partner' and partners are named, but how the partner participates (sets the problem, supervises, receives output) is not stated [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Not specified beyond partnering on the project.",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Pages are 250-850 days old; module code, credits, assessment and partner role not found; relationship to PA3241 Industry Project unclear. Duration is ten weeks (band shown conservatively as per brief categories; closer to ~1 term).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/courses/physics-mphys/2027",
+     "title": "Physics MPhys",
+     "section": "Year 3",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In year three students can take a ten-week group research project with an industrial partner such as Airbus Defence and Space, Jorin Ltd., Domino Printing or Weatherford International; offers project, budget and team management experience in a professional environment on a real project.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "AI Agentic Solutions in Business Project",
+   "eligible_faculties_programmes": "Postgraduate taught School of Business programmes with AI pathway (International Business MSc, Strategic Marketing MSc)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "60 credits, in place of dissertation",
+   "duration": "Dissertation period (not stated)",
+   "delivery_format": "Employer-brief project",
+   "named_partners": "",
+   "deliverable": "AI agent solution for employer need (assumed; not detailed)",
+   "likely_duplicate_of": "",
+   "participation_data": "~180 students per year expected (announcement, 2026)",
+   "legacy_ref": "",
+   "local_id": "S7",
+   "official_name": "AI Agentic Solutions in Business Project (EMPAIP)",
+   "description": "New 60-credit practical postgraduate module (alternative to the dissertation) built on real employer briefs, designing and deploying AI agent solutions to real organisational needs; part of the Innovate UK-funded East Midlands Pathways to AI Programme led by the School of Business. About 180 students per year expected. Listed as an AI pathway on International Business MSc and Strategic Marketing MSc.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Business",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Authentic business challenges addressed by designing/deploying AI agent solutions [1].",
+   "group_working": "Unclear",
+   "group_evidence": "No source states team or individual working [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Based on real employer briefs' [1]; how employers supervise/receive outputs not detailed.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supply real briefs; local employers (regional ecosystem).",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard (design principle, per announcement)",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Group vs individual unknown; first cohort start date and partner names not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/news/2026/september/businesses-university-leicester-students-ai-economy",
+     "title": "East Midlands businesses and University of Leicester students to work together in AI-enabled economy",
+     "section": "EMPAIP",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "45-month Innovate UK-funded EMPAIP led by School of Business; 60-credit AI Agentic Solutions in Business Project as alternative to dissertation, based on real employer briefs; ~180 students a year; 180 AI internships; AI for Business Accelerator.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://le.ac.uk/courses/marketing-msc/2026",
+     "title": "Strategic Marketing MSc",
+     "section": "Final module options",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "60-credit AI Agent Solutions in Business Project listed as an AI pathway option; no mention of teams.",
+     "supports": [
+      "reach",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "EG4007",
+   "english_name": "Engineering MEng Group Project",
+   "eligible_faculties_programmes": "MEng engineering degrees (Mechanical; likely General/Aerospace)",
+   "year_of_study": "Year 4 (MEng)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 credits year-long; must be passed for MEng (professional body accreditation)",
+   "duration": "Year-long",
+   "delivery_format": "Team project",
+   "named_partners": "",
+   "deliverable": "Group engineering project output",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S8",
+   "official_name": "EG4007 Group Project (Mechanical/General/Aerospace Engineering MEng)",
+   "description": "Final-year 30-credit year-long MEng group project exploring an engineering challenge, often with students from other engineering disciplines (paired with 15-credit Leadership and Project Management); course pages say project work 'may also include output from an industrial partner'. Second-year integrated design project is also team-based.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Group engineering challenge project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Group project, students from several disciplines [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'May also include output from an industrial partner'; visits from partners possible [1]. Optional/occasional wording, no documented standard external client.",
+   "partner_type": "Unclear",
+   "partner_role": "Occasional industrial input; role unspecified.",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025/26 (spec listed; content not verified)",
+   "unresolved": "Whether any group projects are industrially sponsored and how; 2025/26 and 2026/27 mechanical engineering specifications exist but extracts not obtained.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/courses/mechanical-engineering-meng/2026",
+     "title": "Mechanical Engineering MEng",
+     "section": "Final year",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "EG4007 Group Project (year-long, 30 credits) alongside Leadership and Project Management; project work may also include output from an industrial partner.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MK2105",
+   "english_name": "Consultancy Challenge",
+   "eligible_faculties_programmes": "Business and Management BSc/BA; Business and Law BA",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "credit_assessment": "15 credits, Semester 2",
+   "duration": "Semester 2",
+   "delivery_format": "Unknown",
+   "named_partners": "",
+   "deliverable": "Unknown",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S9",
+   "official_name": "Consultancy Challenge",
+   "description": "15-credit Semester 2 Year 2 option on Business and Management BSc/BA (and Business and Law BA). Module pages list it but do not describe the activity, team structure or whether clients are real.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Business",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Unclear",
+   "project_evidence": "Title only [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Not described.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Not described; the University Employer toolkit separately lists 'summer consultancy challenges' where employers supply a brief, but not tied to this module [2].",
+   "partner_type": "Unclear",
+   "partner_role": "Unknown",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (programme spec listing)",
+   "unresolved": "Module content must be checked in module handbook; may be live-client consultancy (title) but unverified.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://le.ac.uk/-/media/uol/docs/course-documentation/documentation/2024-25/ug/cssah/business-and-management-ba.pdf",
+     "title": "Business and Management BA programme specification",
+     "section": "Module table",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Sem 2 MK2105 Consultancy Challenge 15 credits.",
+     "supports": [
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://le.ac.uk/enterprise/recruit-our-students/toolkit",
+     "title": "Employer toolkit",
+     "section": "Summer consultancy challenges",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A consultancy project gives you the opportunity to receive responses to a specific brief (employer-facing page).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Leicester Award / Leicester Award Gold",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Co-curricular/embedded employability award and Gold stage supporting placements/internships; no specific group employer project evidenced (fails A/B/C on its own). Now embedded in degree programmes (Gold usually a second-year module).",
+   "source_url": "https://le.ac.uk/study/undergraduates/careers/the-leicester-award",
+   "status_note": "2023 embedding news; latest award intake not verified"
+  },
+  {
+   "name": "100 hours of work-related learning guarantee",
+   "legacy": true,
+   "category": "WIL framework",
+   "reason": "Institution-wide guarantee for all campus-based undergraduates completing the whole programme at Leicester from 2026/27, delivered through modules; hours can be live briefs, consultancy challenges, simulations or virtual internships, so the guarantee itself does not establish a group, employer-linked project. Underlying routes tested separately (S1-S9). Does not imply 100 hours of employment or placement.",
+   "source_url": "https://le.ac.uk/study/undergraduates/careers/100-hours",
+   "status_note": "Applies from 2026/27; announced Jan 2026"
+  },
+  {
+   "name": "Business Consultancy Competition (School of Business)",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Teams of 2-5 form fictitious companies bidding on a made-up university procurement review; judges include the University's Director of Procurement (internal) - hypothetical client.",
+   "source_url": "https://le.ac.uk/school-of-business/news/events/business-consultancy-competition",
+   "status_note": "Event listing, undated"
+  },
+  {
+   "name": "MSc Management with Professional Practice (live business project)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Optional route: internship plus final business project informed by internship; individual and dependent on internship; group working not evidenced.",
+   "source_url": "https://le.ac.uk/courses/management-msc/2026",
+   "status_note": "2026 entry"
+  },
+  {
+   "name": "MSc AI for Business Intelligence / Data Analysis for Business Intelligence summer project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Industry supervisor and real data, partners such as Santander and Deloitte named as past collaborators, but programme specification describes students working individually.",
+   "source_url": "https://le.ac.uk/course-doc-links/pg/a/25-26/ai-for-business-intelligence-msc",
+   "status_note": "2025/26 spec"
+  },
+  {
+   "name": "Law Legal Advice Clinic / Law in Practice modules and Pro Bono Society",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Students advise real members of the public under solicitor supervision (individual casework); Pro Bono Society is extracurricular volunteering; final-year 'Law in Practice: Legal Advice Clinic Community projects' option exists but its group/organisation-brief format was not evidenced.",
+   "source_url": "https://le.ac.uk/engagement/case-studies/legal-advice",
+   "status_note": "2026 pages"
+  },
+  {
+   "name": "Live Sociology (and Citizens for Change)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Second-year community fieldwork 'real-world projects' module; no source identifies external organisations, group working or deliverables. Citizens for Change (Criminology BSc) format not described.",
+   "source_url": "https://le.ac.uk/courses/sociology-ba/2027",
+   "status_note": "2026-27 course pages"
+  },
+  {
+   "name": "Employer-supplied summer consultancy challenges / micro-internships / Undergraduate Project Engineers (Innovation Hub)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Employer-facing pages offer consultancy briefs and student projects for SMEs; no student-facing description, team structure, participation numbers or dated delivery found.",
+   "source_url": "https://le.ac.uk/enterprise/recruit-our-students/toolkit",
+   "status_note": "Undated pages"
+  },
+  {
+   "name": "Interprofessional education / Health Care Team Challenge",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Uses a fictitious mock patient scenario; no external organisation.",
+   "source_url": "https://www2.le.ac.uk/departments/medicine/student-staff/projects/patient-centred-collaborative-quality-improvement-case-study-ajay-patel",
+   "status_note": "Undated"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Leicester's provision is distributed across departments rather than institution-wide. The only university-wide commitments found are frameworks: the 100-hour work-related learning guarantee (compulsory for campus-based undergraduates from 2026/27, delivered through modules and including simulations and virtual internships) and the Leicester Award. Neither evidences a group client project by itself.\n\nQualifying specific routes: the **Sustainability Enterprise Partnership Project** (NT3100, 15 credits, final-year option on several science and computing degrees) puts student groups with local SMEs to audit sustainability, delivering a group report to the business (2025/26 listing). Also documented, but with current-delivery status unclear: **second-year software engineering team projects** typically commissioned by real clients; the **Industrial Mathematics Project** (MA3513, 30 credits), where groups solve problems supplied by industrial partners; the **Space Science and Engineering MSc Major Project**, where teams complete a Phase A mission study for an industry-supplied concept reviewed by industry experts; and a Physics MPhys ten-week group project with an industrial partner (partner role unspecified).\n\n**Client Led Media Production** works to an NHS trust brief but team structure is not stated. A new 60-credit employer-brief AI project (EMPAIP) is forthcoming with group format unknown. Engineering MEng group projects only occasionally include industrial partners. Business school Consultancy Challenge content could not be verified; the School's consultancy competition is a fictitious-client simulation.\n\nUncertainty: client mix and numbers are not published for any route, and most pages are undated or entry-year course pages.",
+ "gaps": "Further departmental instances likely (e.g. History, Archaeology, Education, Psychology, Pharmacy, Geography group projects were not individually searched). Current-delivery evidence missing for most routes (undated pages; entry-year course pages). Group structure unknown for Client Led Media Production, EMPAIP project and Consultancy Challenge. Client types/numbers unpublished. PA3241 Physics Industry Project and Citizens for Change not assessed in detail. Business school lacks a verified live-client group module; no search-visible participation data."
+}

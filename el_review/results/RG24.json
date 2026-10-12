@@ -1,0 +1,1145 @@
+{
+ "inst_id": "RG24",
+ "institution": "York",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of York Sustainability Clinic live client module ENV00054H",
+    "York Interdisciplinary Modules external partner project team",
+    "York student consultancy live client project module",
+    "Community-engaged learning our projects York staff teaching",
+    "York community engaged learning modules departments Public History",
+    "York Careers employer challenge students teams solve real business problem Futures programme",
+    "York Interdisciplinary Module Climate Crisis external agency NGO",
+    "Climate Crisis Action Lab ESA00003H"
+   ],
+   "key_sources": [
+    "https://www.york.ac.uk/about/sustainability/teaching-learning/york-interdisciplinary-modules/",
+    "https://www.york.ac.uk/staff/teaching/community-engaged-learning/our-projects/",
+    "https://www.york.ac.uk/staff/teaching/community-engaged-learning/",
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ESA00001H/latest"
+   ],
+   "finding": "Central CEL team and York Interdisciplinary Modules host cross-departmental routes; Sustainability Clinic (live-client, multi-disciplinary teams) qualifies; Climate Crisis Action Lab qualified but not running 2026/27. No central employer-challenge programme with live-client teams verified beyond these."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Student consultancy projects School for Business and Society",
+    "Business Consultancy Project MAN00019H",
+    "York Management School work-based dissertation live business challenge",
+    "MBA Consultancy Portfolio MAN00129M",
+    "Strategic Marketing Consulting MAN00068H",
+    "Social and Political Sciences York consultancy projects"
+   ],
+   "key_sources": [
+    "https://www.york.ac.uk/business-society/external-engagement/consultancy/",
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/MAN00019H/latest",
+    "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-management/"
+   ],
+   "finding": "Group undergraduate client consultancy (S6) and MSc applied live-business projects (S7) found; MBA and marketing consulting modules unclear."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "York Computer Science industry project client team module",
+    "York electronic engineering group project industry client sponsor",
+    "Group Project Integrated Masters COM00138M external customer",
+    "Engineering Group Project ELE00093H client industry partner"
+   ],
+   "key_sources": [
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00138M/latest",
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ELE00093H/latest"
+   ],
+   "finding": "CS integrated masters group project mentions an external customer but unclear coverage; Engineering group projects use specified clients without external partner evidenced."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "York Chemistry OR Biology OR Mathematics OR Physics industry project student team external partner",
+    "York mathematics final-year projects external partners",
+    "Community Action Project PSY00075H",
+    "Group Sustainable Business Project ENV00120M"
+   ],
+   "key_sources": [
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/PSY00075H/2025-26",
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENV00120M/2025-26",
+    "https://www.york.ac.uk/maths/research/collaborating-business-industry/"
+   ],
+   "finding": "Psychology Community Action Project and Environment and Geography group sustainable business project qualify; Chemistry/Maths/Physics industry projects are individual."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Beyond the Book Community Projects ENG00175I",
+    "Public History Project core module",
+    "Theatre Film Television Music student project industry partner",
+    "York Politics OR Sociology OR Social Policy OR Archaeology students team project external organisation",
+    "Communities, Participation & Creating Change SPY00037I",
+    "Education STEP1"
+   ],
+   "key_sources": [
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/HIS00130I/latest",
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENG00175I/latest",
+    "https://www.york.ac.uk/education/undergraduate/careers/developing/"
+   ],
+   "finding": "Public History Project (core History Y2) qualifies; Beyond the Book mixed partners; Education STEP 1 undated; TFT group projects have no external organisation."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "York Law School clinic students advise clients pro bono module",
+    "Migrants' Rights: Law and Policy Clinic LAW00093H",
+    "York Health Sciences OR Hull York Medical School student project team external partner"
+   ],
+   "key_sources": [
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/LAW00093H/2024-25",
+    "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/LAW00083H/latest"
+   ],
+   "finding": "Law migrants' rights clinic has group work for organisation clients but only 2024-25 evidence; HYMS/Health Sciences no relevant module found (limited search)."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "York Interdisciplinary Modules (YIMs)",
+   "english_name": "York Interdisciplinary Modules",
+   "module_code": "",
+   "description": "Umbrella of 20-credit elective modules in which students from different disciplines work in multidisciplinary teams on sustainability-related challenges. Only some YIMs involve outside organisations: Sustainability Clinic (S1) and Climate Crisis Action Lab (S2) are recorded as child routes.",
+   "academic_reach": "University-wide",
+   "admin_host": "Environmental Sustainability at York (ESAY) with participating departments",
+   "eligible_faculties_programmes": "Elective modules open (subject to timetable and department availability) to 3rd-year undergraduates and, for some modules, postgraduates",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (elective)",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "Umbrella; project content depends on module (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Students work in multi-disciplinary teams (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Only in some YIMs do students work with outside organisations' such as community groups, small businesses, government bodies and/or NGOs (src 1, search paraphrase). Tested at child level.",
+   "partner_type": "Mixed",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Not counted separately; children S1, S2 carry the assessment. Other YIMs (e.g. Future of Food, Sustainability and Policy) not tested for external partners.",
+   "legacy_ref": "York Interdisciplinary Modules",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/about/sustainability/teaching-learning/york-interdisciplinary-modules/",
+     "title": "York Interdisciplinary Modules - Teaching and learning",
+     "section": "YIM overview",
+     "pub_year": "undated (2026/27 application dates shown)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "YIMs are elective modules worth 20 credits; students work in multi-disciplinary teams; only in some YIMs do students work with outside organisations; 2026/27 undergraduate application deadline 24 August 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://features.york.ac.uk/york-interdisciplinary-modules/",
+     "title": "York Interdisciplinary Modules (YIMs)",
+     "section": "overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Sustainability Clinic available as an elective in 2026/27 to 3rd year undergraduates (semester 1, repeated semester 2) and postgraduates (semester 2), subject to timetable and department availability.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "U1"
+  },
+  {
+   "parent_local_id": "U1",
+   "is_umbrella": false,
+   "official_name": "Sustainability Clinic",
+   "english_name": "Sustainability Clinic",
+   "module_code": "ESA00001H / ESA00002H / ESA00002M (elective); ENV00054H and ENV00111M (Environment and Geography versions)",
+   "description": "Multidisciplinary student teams (drawn from a range of departments) act on behalf of external clients on live real-world sustainability problems, supported by training, a project facilitator and university experts, and reflect on the project in an assessed report. Clients can be members of the public, local government, community groups, charities or businesses.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Environmental Sustainability at York (ESAY) with Environment and Geography and participating departments",
+   "eligible_faculties_programmes": "Elective for 3rd-year undergraduates (semester 1, repeated semester 2) and postgraduates (semester 2) across departments, subject to timetable and department availability; core for 3rd-year Environment and Geography undergraduates (per search summary)",
+   "faculty_areas": [
+    "central",
+    "science"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "UG year 3; PGT",
+   "eligibility_restrictions": "Subject to timetable and department availability; not shown as open to every degree",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; reflective report (2000 words UG ESA00001H 2025-26; 3000 words PG ENV00111M)",
+   "duration": "One semester",
+   "delivery_format": "Team project with client, facilitator, training workshops",
+   "project_based": "Yes",
+   "project_evidence": "Students 'work on behalf of clients on live real-world sustainability problems'; learning outcomes include defining and undertaking a live project and understanding client needs (src 1,3).",
+   "group_working": "Yes",
+   "group_evidence": "'All projects are tackled by multi-disciplinary student teams drawn from a range of Departments' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients (external to the university) set the live problem and receive the project outputs: 'Clients could be members of the general public, local government, community groups, charities or businesses' (src 1). Named partners include Yorkshire Wildlife Trust, York Minster, North Yorkshire Moors Railway (src 2, undated).",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies live problem as client; receives team outputs",
+   "named_partners": "Yorkshire Wildlife Trust, The Rugby Football League, York Minster, North Yorkshire Moors Railway (undated pages)",
+   "deliverable": "Client project outputs plus individual reflective report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "'Over 450 students and 65 partner organisations have taken part to date' (cumulative; university news page, search summary; year of statement unclear; a different page reports 69 organisations)",
+   "unresolved": "Eligibility is 'subject to department availability', so University-wide access not established (kept Cross-faculty, as legacy). Core status within Environment and Geography is from a search summary of the 2023-24/24-25 catalogue.",
+   "legacy_ref": "Sustainability Clinic",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ESA00001H/latest",
+     "title": "Sustainability Clinic (B: Semester 2) (ESA00001H) - Module Catalogue",
+     "section": "Module summary",
+     "pub_year": "2026-27 (latest listed; 2025-26 content)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students work on behalf of clients on live real-world sustainability problems; projects tackled by multi-disciplinary student teams drawn from a range of Departments; clients could be members of the general public, local government, community groups, charities or businesses; 20 credits; 2000 word reflective report.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.york.ac.uk/about/sustainability/teaching-learning/sustainability-clinic/",
+     "title": "Sustainability Clinic - Teaching and learning",
+     "section": "overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Past partners include Yorkshire Wildlife Trust, York Minster and North Yorkshire Moors Railway; over 450 students and 65 partner organisations have taken part.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENV00111M/latest",
+     "title": "Sustainability Clinic (Environment & Geography) (ENV00111M) 2026-27",
+     "section": "Module catalogue",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Postgraduate version, Semester 2 2026-27; 3000 word reflective report.",
+     "supports": [
+      "status",
+      "credit",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://features.york.ac.uk/york-interdisciplinary-modules/",
+     "title": "York Interdisciplinary Modules (YIMs)",
+     "section": "overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Available as an elective in 2026/27 to 3rd year undergraduates in semester 1 (repeated in semester 2) and postgraduates in semester 2, subject to timetable and department availability.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S1"
+  },
+  {
+   "parent_local_id": "U1",
+   "is_umbrella": false,
+   "official_name": "Climate Crisis Action Lab (Climate Crisis: Advocacy and Action YIM)",
+   "english_name": "Climate Crisis Action Lab",
+   "module_code": "ESA00003H",
+   "description": "Multidisciplinary teams (Chemistry, Environment and Geography, York Law School) receive a short brief from an outside organisation, likely a campaign group, assemble and assess evidence on the issue and produce a group report; a separate non-assessed client-facing output (report or campaign materials) is created for the client.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Chemistry, Environment and Geography, York Law School (via ESAY)",
+   "eligible_faculties_programmes": "Elective, 3rd-year undergraduates (YIM)",
+   "faculty_areas": [
+    "central",
+    "science",
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (YIM); group output and individual participation/contribution assessed",
+   "duration": "One semester",
+   "delivery_format": "Multidisciplinary team project for a campaign-group client",
+   "project_based": "Yes",
+   "project_evidence": "Outside organisation gives a brief; teams produce evidence analysis and a group output plus a client-facing report or campaign materials (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Students are split into multidisciplinary teams; group report assessed with individual contributions specified (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Each year an outside organisation gives the team a short brief' - likely a campaign group such as the Environmental Law Foundation; client receives non-assessed output (src 1).",
+   "partner_type": "Charity/community",
+   "partner_role": "Sets brief; receives client-facing report/campaign materials",
+   "named_partners": "Environmental Law Foundation and Rights: Community: Action given as likely examples (not confirmed for a specific year)",
+   "deliverable": "Group report; client-facing report or campaign materials",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Paused/discontinued",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "York YIM teaching page states the module will not run in 2026/27, while a features page says it is available from 2026/27 - treated as not running in 2026/27 (verify with esay@york.ac.uk). Partner naming is 'likely', not confirmed for a cohort.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ESA00003H/latest",
+     "title": "Climate Crisis Action Lab (ESA00003H) 2025-26 - Module Catalogue",
+     "section": "Module description",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Teams of students from Chemistry, Environment and Geography and York Law School; an outside organisation, likely a campaign group, gives a brief each year; group output assessed; separate non-assessed client-facing output.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.york.ac.uk/about/sustainability/teaching-learning/york-interdisciplinary-modules/",
+     "title": "York Interdisciplinary Modules - Teaching and learning",
+     "section": "Current offering",
+     "pub_year": "undated (refers to 2026/27)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Climate Crisis: Advocacy and Action YIM will not be running in 2026/27.",
+     "supports": [
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S2"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Community Engaged Learning (CEL)",
+   "english_name": "Community Engaged Learning",
+   "module_code": "",
+   "description": "Central CEL team (Staff teaching support) works with departments to embed student-team projects with community partners (charities, museums, schools) in taught modules. Children recorded: Public History Project (S3), Community Action Project (S4), Beyond the Book (S5); the Sustainability Clinic (S1) is also cited as a CEL module.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Community Engaged Learning team, University of York",
+   "eligible_faculties_programmes": "Module-specific; e.g. Public History projects limited to History students",
+   "faculty_areas": [
+    "central",
+    "arts_humanities_social_sciences",
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "'Collaborate with external partners on real-world challenges' (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Student-delivered team projects (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Community partners (158 in 2024/25) - mostly charities/community organisations; mixed with some internal bodies in examples (src 1).",
+   "partner_type": "Mixed",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "2024/25: 158 community partners, 1,424 students, 61 student-delivered projects (CEL staff page, as reported in search summary); another university page says CEL is in 12 taught modules across three faculties",
+   "unresolved": "Umbrella, not counted. The 12 CEL taught modules are not all identified; further departmental instances likely.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/staff/teaching/community-engaged-learning/our-projects/",
+     "title": "Our projects - Community Engaged Learning",
+     "section": "overview",
+     "pub_year": "undated (2024/25 figures)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "CEL integrates experiential learning into the curriculum, enabling students to collaborate with external partners on real-world challenges; 2024/25: 158 community partners, 1,424 students and 61 projects.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "U2"
+  },
+  {
+   "parent_local_id": "U2",
+   "is_umbrella": false,
+   "official_name": "Public History Project",
+   "english_name": "Public History Project",
+   "module_code": "HIS00130I",
+   "description": "Core Year 2 History module: small student teams produce a public history output (e.g. exhibition, school curriculum materials, walking tour/trail, podcast, spotlight talk for museum volunteers) to a brief from an external partner such as a museum or community group, supported by workshops and project facilitators; assessed by group presentation and individual reflection.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of History",
+   "eligible_faculties_programmes": "BA History (core Year 2)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "History students only",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; group presentation and 1,500-word individual reflection",
+   "duration": "Semester 1",
+   "delivery_format": "Team project for external partner",
+   "project_based": "Yes",
+   "project_evidence": "Teams work on a public history project to a partner brief; examples of outputs listed (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in small teams'; summative group presentation (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Brief supplied by an external partner organisation such as a museum or community group; partner-use outputs (src 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Provides project brief; recipient of output",
+   "named_partners": "",
+   "deliverable": "Public history resource/event plus group presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "No 2026/27 entry seen; partners/mix of internal vs external (e.g. University archives) not enumerated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/HIS00130I/latest",
+     "title": "Public History Project (HIS00130I) 2025-26 - Module Catalogue",
+     "section": "Module description",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students work in small teams on a public history project to a brief from an external partner organisation such as a museum or community group; Semester 1 2025-26; 20 credits; group presentation plus 1,500-word reflection.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.york.ac.uk/study/undergraduate/courses/ba-history/",
+     "title": "History (BA) - Undergraduate",
+     "section": "Course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Public History Project listed as one of two Year 2 core modules; students work on a brief from an organisation.",
+     "supports": [
+      "reach",
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S3"
+  },
+  {
+   "parent_local_id": "U2",
+   "is_umbrella": false,
+   "official_name": "Community Action Project",
+   "english_name": "Community Action Project",
+   "module_code": "PSY00075H",
+   "description": "Small student teams work to a brief from an external partner organisation (projects typically on mental health or wellbeing, often local charities), applying psychology to real problems and producing outputs for non-academic audiences, supported by project facilitators and skills workshops.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Psychology",
+   "eligible_faculties_programmes": "Psychology students (level H module); wider eligibility not established",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "Not stated in extract",
+   "delivery_format": "Team project for external partner",
+   "project_based": "Yes",
+   "project_evidence": "Teams deliver projects for non-academic audiences to partner brief (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Students will work in small teams to a brief provided by an external partner organisation' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External partner organisation provides brief; CEL page says teams work with local charities to capture and analyse evidence of their impact (src 1,2).",
+   "partner_type": "Charity/community",
+   "partner_role": "Provides brief; receives outputs",
+   "named_partners": "",
+   "deliverable": "Non-academic output (e.g. impact evidence analysis, resources)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Whether compulsory/elective and open outside Psychology not shown; no named partners; 2026/27 specification reportedly available but not read.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/PSY00075H/2025-26",
+     "title": "Community Action Project (PSY00075H) 2025-26 - Module Catalogue",
+     "section": "Module description",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students will work in small teams to a brief provided by an external partner organisation; projects typically on mental health or wellbeing; project facilitators support teams.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.york.ac.uk/staff/teaching/community-engaged-learning/our-projects/",
+     "title": "Our projects - Community Engaged Learning",
+     "section": "Psychology",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student teams in Psychology's Community Action Projects work with local charities to help them capture and analyse evidence of their impact.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S4"
+  },
+  {
+   "parent_local_id": "U2",
+   "is_umbrella": false,
+   "official_name": "Beyond the Book: Community Projects - Semester 1",
+   "english_name": "Beyond the Book: Community Projects",
+   "module_code": "ENG00175I",
+   "description": "CEL module in English and Related Literature: each semester the CEL team sets up partner projects; students rank preferences and are allocated to project teams that deliver outputs (e.g. podcast, recipe book, event design, oral histories).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of English and Related Literature with CEL team",
+   "eligible_faculties_programmes": "Not established beyond English",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "Semester 1",
+   "delivery_format": "Allocated team projects with partners",
+   "project_based": "Yes",
+   "project_evidence": "Listed pilot projects each have a defined output (podcast, book of recipes, event design, oral histories) (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Students are allocated to 'project teams' based on ranked choices (src 1, search summary).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Pilot partners include external bodies (York City of Sanctuary; York Mystery Plays) but also University-affiliated bodies (Borthwick Institute of Archives; York Festival of Ideas) - internal share undetermined.",
+   "partner_type": "Mixed",
+   "partner_role": "Hosts project / receives output",
+   "named_partners": "Borthwick Institute of Archives, York City of Sanctuary, York Festival of Ideas, York Mystery Plays (pilot projects, catalogue)",
+   "deliverable": "Project output for partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Mixed internal/external partners; partners for 2026/27 not published; C left Unclear per mixed-client ruling.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENG00175I/latest",
+     "title": "Beyond the Book: Community Projects -- Semester 1 (ENG00175I) 2026-27 - Module Catalogue",
+     "section": "Module description",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "CEL team works with partner organisations each semester; students rank projects and are allocated to teams; pilot projects with Borthwick Institute, York City of Sanctuary, York Festival of Ideas, York Mystery Plays.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S5"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Student consultancy projects / Business Consultancy Project",
+   "english_name": "Undergraduate Business Consultancy Project",
+   "module_code": "MAN00019H",
+   "description": "Undergraduate students deliver a six-week part-time consultancy assignment in groups for individual external clients (businesses, charities, public-sector bodies) on a client-specified project; linked to a 20-credit Business Consultancy Project option module covering client relations and presenting recommendations. Examples: ethical policy template for a food manufacturer, visitor-growth strategy for a charity site, market research for a small cosmetics firm.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School for Business and Society / York Management School",
+   "eligible_faculties_programmes": "Option in BA Business and Society (and with a year in industry) and BSc Accounting, Business Finance and Management; other programmes not confirmed",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3 (Year 4 with industry year)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; 60% coursework, 40% groupwork",
+   "duration": "Six-week part-time assignment within Semester 2 (project Jan-Mar)",
+   "delivery_format": "Group consultancy for client",
+   "project_based": "Yes",
+   "project_evidence": "Problem definition to final report; client-specified project (src 1,2).",
+   "group_working": "Yes",
+   "group_evidence": "'Undergraduate students deliver a six-week part-time consultancy assignment in groups for individual clients' (src 2); 40% groupwork assessment (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients (businesses, charities, public sector) specify the project and receive the consultancy output (src 2).",
+   "partner_type": "Mixed",
+   "partner_role": "Client: specifies project and receives deliverable",
+   "named_partners": "",
+   "deliverable": "Consultancy report/recommendations to client",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Linkage between the consultancy web page and the module is from search-summary reading of degree pages; module entry itself mentions client relations but not named clients. No named partners or participation numbers. Duration of the client assignment is six weeks (band reflects client phase; module runs one semester).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/MAN00019H/latest",
+     "title": "Business Consultancy Project (MAN00019H) 2026-27 - Module Catalogue",
+     "section": "Module description",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "20-credit Level H module in Semester 2 2026-27; syllabus includes managing client relations and presenting conclusions; 60% coursework, 40% groupwork.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.york.ac.uk/business-society/external-engagement/consultancy/",
+     "title": "Student consultancy projects - School for Business and Society",
+     "section": "Undergraduate consultancy",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Six-week part-time consultancy assignment in groups for individual clients; businesses, charities and public sector organisations; set-up Nov-Dec, start January, delivery March.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.york.ac.uk/study/undergraduate/courses/ba-business-society/",
+     "title": "Business and Society (BA)",
+     "section": "Year 3 options",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Business Consultancy Project listed among option modules.",
+     "supports": [
+      "eligibility",
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S6"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Management applied (work-based) dissertation with live business projects",
+   "english_name": "Work-based dissertation",
+   "module_code": "",
+   "description": "Applied dissertation route on MSc Management: students work in small groups with a single company on a live business challenge (strategy, leadership, sustainability, supply chains), with a Project Coordinator managing introductions and check-ins with the business; completion certificate awarded.",
+   "academic_reach": "Programme/course",
+   "admin_host": "York Management School",
+   "eligible_faculties_programmes": "MSc Management (similar applied routes appear on other York MSc pages but are unconfirmed)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Dissertation route (credit not stated in extract)",
+   "duration": "Dissertation period (not stated)",
+   "delivery_format": "Small-group live project",
+   "project_based": "Yes",
+   "project_evidence": "'Actual, live challenges set by businesses' (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Working in small groups with a single company' (src 1, search summary); note: reassessment of whether the output is a joint deliverable or individual dissertation not verified.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges set by businesses; check-ins with the business through project coordinator; past partners Optio Group, Think Consulting Solutions, Gong Cha Global (src 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets challenge; ongoing check-ins",
+   "named_partners": "Optio Group, Think Consulting Solutions, Gong Cha Global (undated course page)",
+   "deliverable": "Applied dissertation/report for business",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Course page undated and no dated corroboration; whether the final assessed output is individual (dissertation) or group not confirmed - B should be re-verified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-management/",
+     "title": "Management (MSc) - Postgraduate taught",
+     "section": "Dissertation options",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Applied route places students with employers; actual, live challenges set by businesses; working in small groups with a single company; project coordinator; past partners Optio Group, Think Consulting Solutions, Gong Cha Global.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S7"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Sustainable Business Project",
+   "english_name": "Group Sustainable Business Project",
+   "module_code": "ENV00120M",
+   "description": "Core module of the MSc Sustainable Business (York-Maastricht): student groups develop and implement projects from broad ideas defined by business partners, with workshops, weekly meetings with business partners and seminars where staff and industry partners review the report.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Environment and Geography",
+   "eligible_faculties_programmes": "MSc Sustainable Business: Leadership, Innovation and Management (core)",
+   "faculty_areas": [
+    "business",
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; individual report built on group project report proposal",
+   "duration": "Semester 2",
+   "delivery_format": "Group project with business partners",
+   "project_based": "Yes",
+   "project_evidence": "Projects developed from broad ideas defined by business partners; group proposal and report (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Developed and implemented by student groups'; group proposal (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Business partners define ideas, meet groups weekly and review reports in seminars (src 1); course page describes collaborating with an external organisation committed to sustainable business (src 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Defines project idea; weekly meetings; reviews reports",
+   "named_partners": "",
+   "deliverable": "Group proposal and individual sustainable business report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "No named partners; 2026/27 specification exists but not seen; final report is individual though prepared within a group project.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENV00120M/2025-26",
+     "title": "Group Sustainable Business Project (ENV00120M) 2025-26 - Module Catalogue",
+     "section": "Module description",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Developed and implemented by student groups from broad project ideas defined by business partners; weekly one-hour meetings with business partners; seminars where staff and industry partners review the report; Semester 2.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-sustainable-business/",
+     "title": "Sustainable Business: Leadership, Innovation and Management (MSc)",
+     "section": "Course overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group project gives experience of collaborating with an external organisation committed to sustainable business.",
+     "supports": [
+      "employer",
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S8"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Migrants' Rights: Law and Policy Clinic",
+   "english_name": "Migrants' Rights: Law and Policy Clinic",
+   "module_code": "LAW00093H",
+   "description": "Small student groups each advise on two cases from charities and organisations working with migrants (Citizens Advice, migrant centres, local authorities, homelessness and domestic-violence charities) treated as clients, producing written advice letters and a briefing on possible law/policy change.",
+   "academic_reach": "Programme/course",
+   "admin_host": "York Law School",
+   "eligible_faculties_programmes": "Law students (level H); eligibility not further established",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated in extract",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Advice letters per case plus policy briefing (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Each group will advise on two cases' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Cases are likely to come from charities and organisations working with migrants. These organisations will be treated as clients' (src 1) - hedged wording.",
+   "partner_type": "Mixed",
+   "partner_role": "Client commissioning written advice",
+   "named_partners": "",
+   "deliverable": "Written advice letters; law/policy briefing",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Only a 2024-25 catalogue entry and an undated clinic page seen; no 2025/26 or 2026/27 confirmation; 'likely to come from' hedge.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/LAW00093H/2024-25",
+     "title": "Migrants' Rights: Law and Policy Clinic (LAW00093H) 2024-25 - Module Catalogue",
+     "section": "Module description",
+     "pub_year": "2024-25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Cases likely from charities and organisations working with migrants, treated as clients; each group advises on two cases; written advice letters; briefing on potential change to law or policy.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.york.ac.uk/law/legal-clinic/migrants-rights-law-policy-clinic/",
+     "title": "Migrants' Rights: Law and Policy Clinic - York Law School",
+     "section": "Clinic page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Clinic provides written advice only; does not provide immigration advice.",
+     "supports": [
+      "project"
+     ]
+    }
+   ],
+   "local_id": "S9"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Education STEP 1 programme",
+   "english_name": "Education STEP 1 first-year employer/community challenge",
+   "module_code": "",
+   "description": "Education-exclusive first-year programme in which teams solve a real-world educational problem presented by a community partner / industry employer, researching the issue and presenting a solution to the partner.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Education",
+   "eligible_faculties_programmes": "First-year Education students",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 1",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Defined challenge; solution researched and presented to the partner (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in teams' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenge supplied by community partner/employer; solution presented to the partner (src 1).",
+   "partner_type": "Unclear",
+   "partner_role": "Sets challenge; receives presentation",
+   "named_partners": "",
+   "deliverable": "Team solution presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Single undated careers page; no module catalogue entry found; credit-bearing status, duration, partners and whether currently running unknown; partner described both as 'industry employer' and 'community partner'.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/education/undergraduate/careers/developing/",
+     "title": "Developing your skills - Education",
+     "section": "STEP 1",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "First year students solve a real-world educational problem in teams with the assistance of an industry employer; students research and present a solution to the partner.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ],
+   "local_id": "S10"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Project (Integrated Masters) - Computer Science",
+   "english_name": "Group Project (Integrated Masters)",
+   "module_code": "COM00138M",
+   "description": "40-credit software engineering team project simulating real-world industrial projects, with teams meeting the module leader and/or an external customer; learning outcomes include communicating with customers who have a problem to be solved.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "Integrated Masters Computer Science (level M)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits; groupwork 90% (20%+70%) and 10% coursework",
+   "duration": "Semester 1 to Semester 2",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Software engineering project for a customer (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Team project; groupwork assessments (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Each team will have several meetings with either the module leader or the external customer or both' - external customer role optional/unclear; aim is to 'simulate' industrial context (src 1).",
+   "partner_type": "Unclear",
+   "partner_role": "External customer meetings (extent unclear)",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Whether customers are external organisations for all teams, or module leader/staff; no named customers. Compulsory status inferred from integrated masters module but not verified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00138M/latest",
+     "title": "Group Project (Integrated Masters) (COM00138M) 2026-27 - Module Catalogue",
+     "section": "Aims / feedback",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Participate in a software engineering project under conditions that simulate real-world industrial projects; teams meet module leader or external customer or both; Groupwork 20% and 70%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S11"
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Engineering Group Project A/B (ELE00093H/ELE00087H) and Electronics Projects",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group design-build projects with 'client' specifications and client meetings run by students, but no named external organisation or partner evidenced; clients appear to be staff-set scenarios (self-driving floating water-sampling vehicle).",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ELE00093H/latest",
+   "status_note": "2026-27 catalogue entry"
+  },
+  {
+   "name": "Public History Placement (HIS00050M)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "10-week placement with external host producing a defined output; placement/individual host route, group working not evidenced (may be part of wider team).",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/HIS00050M/",
+   "status_note": "2026-27 catalogue entry"
+  },
+  {
+   "name": "Mathematics final-year projects with external partners",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Department offers external-partner projects (e.g. Whitby Lobster Hatchery, Sky Betting and Gaming, GSK, Pfizer, Fera) but they are individual 40-credit projects with an academic supervisor; group working not evidenced.",
+   "source_url": "https://www.york.ac.uk/maths/research/collaborating-business-industry/",
+   "status_note": "undated page; 2025 student blog"
+  },
+  {
+   "name": "Chemistry Advanced Research Project (Industry) CHE00051M / BSc Industry Project CHE00042H",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual industry-based research placement with industrial supervisor; not a group project.",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/CHE00051M/latest",
+   "status_note": "2026-27 / 2024-25"
+  },
+  {
+   "name": "MBA Consultancy Portfolio (MAN00129M) and Consultancy Proposal & Pitch (MAN00128M)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "MBA capstone consultancy on an organisational issue; no evidence of group working or named external client.",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/MAN00129M/2025-26",
+   "status_note": "2023-24 to 2025-26 entries"
+  },
+  {
+   "name": "Strategic Marketing Consulting (MAN00068H)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Aim is 'interacting with a real-world client and/or case study' - live-or-case without separating routes (C Unclear).",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/MAN00068H/latest",
+   "status_note": "2026-27 catalogue"
+  },
+  {
+   "name": "Clinic (LAW00083H) and Baroness Hale Legal Clinic",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Students advise members of the public (individuals) in a student law firm under supervision; clients are mostly individuals and group project working not separated.",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/LAW00083H/latest",
+   "status_note": "2026-27 catalogue"
+  },
+  {
+   "name": "Film & Television Group Projects (TFT00040H/TFT00085H, Group Projects I/II)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team productions to industry-style briefs; no external organisation sets brief or receives output.",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/TFT00085H/latest",
+   "status_note": "2026-27"
+  },
+  {
+   "name": "Physics BSc Research Project & Skills (PHY00052H)",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Small-group or individual research project; no standard external partner route evidenced.",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/PHY00052H/latest",
+   "status_note": "2026-27"
+  },
+  {
+   "name": "Year in Industry (ELE00032H) and year-in-industry degrees",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Placement year; no project-group component evidenced.",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ELE00032H/2026-27",
+   "status_note": "2026-27"
+  },
+  {
+   "name": "Community projects (student volunteering) / York Leaders Challenge Day",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Voluntary student community projects and a leadership challenge day; not tested as substantive employer-set group projects.",
+   "source_url": "https://www.york.ac.uk/students/work-volunteering-careers/skills/volunteer/communityprojects/",
+   "status_note": "undated"
+  },
+  {
+   "name": "Communities, Participation & Creating Change (SPY00037I)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Taught module on community action in Social Work; catalogue lists no external-partner project.",
+   "source_url": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/SPY00037I/latest",
+   "status_note": "2026-27"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "York has no single institution-wide employer project requirement, but a distributed set of curricular live-client team routes. The strongest central routes are the York Interdisciplinary Modules and the Community Engaged Learning (CEL) team: the **Sustainability Clinic** (20-credit elective for 3rd-year undergraduates and postgraduates, plus a core version in Environment and Geography) puts multidisciplinary teams to work for external clients (charities, councils, community groups, businesses) on live sustainability problems, with a facilitator and a reflective report; about 65 partner organisations and 450+ students are reported cumulatively. The Climate Crisis Action Lab used campaign-group briefs but is stated as not running in 2026/27. CEL also underpins department-based modules: the core Year 2 **Public History Project** (History) and Psychology's **Community Action Project** both put small teams on external-partner briefs; CEL reported 158 partners, 1,424 students and 61 projects in 2024/25. In business, the School for Business and Society runs a six-week undergraduate group consultancy for external clients linked to a 20-credit module, and MSc Management offers a live business project route; Environment and Geography's MSc Group Sustainable Business Project is core to its Sustainable Business MSc with business partners. Law, Education and Computer Science have candidate routes (migrants' rights clinic, STEP 1, integrated-masters group project) that are incompletely evidenced. Most routes are programme- or elective-bound; none is compulsory university-wide. Uncertain: several undated pages, mixed internal/external partners (Beyond the Book), and extent of external customers in Computer Science.",
+ "gaps": "Further departmental CEL instances likely (12 CEL taught modules across three faculties reported; only four identified). Not verified: SPY00033I Community Practice Experience; Biology, Politics, Sociology, Music, Archaeology, HYMS/Health Sciences modules; Education STEP 1 and MSc Management live-project route need dated corroboration; Law migrants' rights clinic needs current-year evidence; whether UG consultancy page maps directly to MAN00019H; computer science external-customer coverage."
+}
