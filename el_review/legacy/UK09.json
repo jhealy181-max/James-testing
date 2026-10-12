@@ -1,0 +1,52 @@
+{
+ "inst_id": "UK09",
+ "country": "UK",
+ "institution": "Leicester",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 314,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-leicester",
+ "ukprn": "10007796",
+ "index_row": 49,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Leicester",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Leicester Award / Leicester Award Gold",
+   "Administrative home": "Careers / academic schools",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Undergraduate students; school embedding varies",
+   "Delivery / credit / practical activity": "Employability learning, reflective skills development and preparation for work experience. The new 100-hour curriculum guarantee is recorded separately.",
+   "Basis for reach classification": "Institutional undergraduate framework; award completion and Gold pathway should not be assumed universal.",
+   "Latest dated / current evidence": "2023 embedding evidence; latest award intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://le.ac.uk/news/2023/december/leicester-award",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 61
+  },
+  {
+   "Country": "UK",
+   "University": "Leicester",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "100 hours work-related learning guarantee",
+   "Administrative home": "Undergraduate curriculum / academic schools",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "All campus-based undergraduates completing their whole programme at Leicester from 2026/27",
+   "Delivery / credit / practical activity": "Every undergraduate degree provides 100 hours of work-related learning. Employer-informed projects, simulations and virtual internships apply learning to real challenges; the guarantee does not imply 100 hours of employment or a placement.",
+   "Basis for reach classification": "Explicit guarantee for all qualifying campus-based undergraduate degrees, across disciplines.",
+   "Latest dated / current evidence": "Introduced from 2026/27 onwards",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://le.ac.uk/study/undergraduates/careers/100-hours",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 62
+  }
+ ]
+}

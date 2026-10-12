@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU20",
+ "country": "Ireland",
+ "institution": "University College Dublin",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 100,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 120,
+ "legacy_rows": [
+  {
+   "Country": "Ireland",
+   "University": "University College Dublin",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Innovation Academy: Creativity & Innovation, IA20010",
+   "Administrative home": "UCD Innovation Academy",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students from any discipline; class capacity applies",
+   "Delivery / credit / practical activity": "Multidisciplinary teams apply design thinking to a real-world problem, with facilitated practice, presentations and reflective assessment.",
+   "Basis for reach classification": "2026 module explicitly suitable for any discipline.",
+   "Latest dated / current evidence": "2026 module catalogue confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?ACYR=2026&MODULE=IA20010&TERMCODE=202600&p_tag=MODULE",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 147
+  }
+ ]
+}

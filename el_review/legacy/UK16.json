@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK16",
+ "country": "UK",
+ "institution": "Kent",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 415,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/universities/university-kent",
+ "ukprn": "10007150",
+ "index_row": 56,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Kent",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Employability Points",
+   "Administrative home": "Careers and Employability",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All registered Kent students",
+   "Delivery / credit / practical activity": "Students earn points for extracurricular activities and redeem them for employer-supported rewards, including work-experience opportunities.",
+   "Basis for reach classification": "Explicit all-registered-student availability; points are not degree credits.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://student.kent.ac.uk/careers/employability-points/ep-points-how-it-works",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 69
+  }
+ ]
+}

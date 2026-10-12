@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK06",
+ "country": "UK",
+ "institution": "Reading",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 196,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007802",
+ "index_row": 46,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Reading",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "RED Awards",
+   "Administrative home": "Careers",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All Reading students, any year",
+   "Delivery / credit / practical activity": "Professional Development, Global Engagement and Sustainable Action awards recognise extracurricular activity. Certificates and diploma-supplement recognition; degree placements cannot be counted.",
+   "Basis for reach classification": "Explicit availability to all students; no academic credit.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.reading.ac.uk/essentials/Careers/Gaining-experience/RED-Awards\nhttps://www.reading.ac.uk/essentials/Careers/Gaining-experience/RED/Red-awards-FAQ",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 58
+  }
+ ]
+}

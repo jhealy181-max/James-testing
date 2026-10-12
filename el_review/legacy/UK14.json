@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK14",
+ "country": "UK",
+ "institution": "Swansea",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 322,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/swansea-university",
+ "ukprn": "10007855",
+ "index_row": 54,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Swansea",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Employability Awards",
+   "Administrative home": "Swansea Employability Academy",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Any Swansea student",
+   "Delivery / credit / practical activity": "Eight awards recognise activities such as volunteering, discovery projects and career-development units. Completion leads to digital badges and/or HEAR recognition.",
+   "Basis for reach classification": "Official page states any student can work towards an award.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://hwb.swansea.ac.uk/employability-enterprise/employability-awards/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 67
+  }
+ ]
+}

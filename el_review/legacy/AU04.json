@@ -1,0 +1,33 @@
+{
+ "inst_id": "AU04",
+ "country": "Australia",
+ "institution": "Australian National University",
+ "cohort": "Australia top 10",
+ "qs_edition": 2027,
+ "qs_rank": 29,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 34,
+ "legacy_rows": [
+  {
+   "Country": "Australia",
+   "University": "Australian National University",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "SoCIETIE courses",
+   "Administrative home": "ANU SoCIETIE programme",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students satisfying course prerequisites and degree rules",
+   "Delivery / credit / practical activity": "Cross-disciplinary courses connect study with societal challenges. Replaced Vice-Chancellor courses from 2025.",
+   "Basis for reach classification": "University interdisciplinary elective framework.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://vc-courses.anu.edu.au/societie/courses/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 34
+  }
+ ]
+}

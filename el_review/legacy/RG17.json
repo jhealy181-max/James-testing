@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG17",
+ "country": "UK",
+ "institution": "Oxford",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 4,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007774",
+ "index_row": 23,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Oxford",
+   "Academic reach": "University-wide",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "Micro-Internship Programme",
+   "Administrative home": "Careers Service",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Undergraduate and postgraduate students; selection applies",
+   "Delivery / credit / practical activity": "Two- to five-day learning placements involving project assistance and work shadowing.",
+   "Basis for reach classification": "Explicit both-level central micro-internship provision.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.ox.ac.uk/careers/internships/the-micro-internship-programme",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 23
+  }
+ ]
+}

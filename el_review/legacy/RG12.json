@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG12",
+ "country": "UK",
+ "institution": "Liverpool",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 139,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10006842",
+ "index_row": 18,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Liverpool",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Grand Challenges",
+   "Administrative home": "Careers and Employability",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible students across campus",
+   "Delivery / credit / practical activity": "Student teams address real challenges through employer engagement.",
+   "Basis for reach classification": "Official employer page describes campus-wide initiative.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.liverpool.ac.uk/careers/employers/campus-wide-initiatives/grand-challenges/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 18
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "US26",
+ "country": "US",
+ "institution": "Wisconsin Madison",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 131,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 96,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Wisconsin Madison",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "UniverCity Year",
+   "Administrative home": "UniverCity Alliance",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students on participating courses; departmental eligibility varies",
+   "Delivery / credit / practical activity": "Courses and research help local governments address self-defined challenges. Three-year community partnerships bring different disciplines to practical problems.",
+   "Basis for reach classification": "Institutional partnership framework spans departments; university-wide remit inferred, not universal student participation. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "Official programme evidence; current cohort unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://univercity.wisc.edu/2023/02/09/chancellor-jennifer-mnookin-highlights-univercity-year-in-board-of-regents-speech/",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 118
+  }
+ ]
+}

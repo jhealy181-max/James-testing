@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG09",
+ "country": "UK",
+ "institution": "Imperial College London",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 2,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10003270",
+ "index_row": 15,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Imperial College London",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "I-Explore",
+   "Administrative home": "Centre for Languages, Culture and Communication",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "Undergraduates on participating programmes",
+   "Delivery / credit / practical activity": "Second- or third-year study outside the main discipline. Options include interdisciplinary and practical work.",
+   "Basis for reach classification": "University undergraduate breadth requirement; degree-specific rules apply.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.imperial.ac.uk/centre-for-languages-culture-and-communication/i-explore/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 15
+  }
+ ]
+}

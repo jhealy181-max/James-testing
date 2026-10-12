@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU02",
+ "country": "France",
+ "institution": "Paris-Saclay",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 76,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 102,
+ "legacy_rows": [
+  {
+   "Country": "France",
+   "University": "Paris-Saclay",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Starthèse Start’up Pitch-iD",
+   "Administrative home": "Central entrepreneurship / doctoral ecosystem",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible doctoral researchers; competitive selection",
+   "Delivery / credit / practical activity": "Entrepreneurial challenge develops research-based venture ideas, coaching and pitching. Published 2026 regulations and partner announcement confirm the third edition.",
+   "Basis for reach classification": "Central doctoral competition; university reach inferred across disciplines, admission conditions apply. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "2026 competition confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.universite-paris-saclay.fr/actualites/starthese-startup-pitch-id-troisieme-edition-du-concours-entrepreneurial-pour-doctorantes\nhttps://www.uvsq.fr/3%E1%B5%89-edition-du-challenge-de-pitch-starthese-startup-pitch-id",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 127
+  }
+ ]
+}

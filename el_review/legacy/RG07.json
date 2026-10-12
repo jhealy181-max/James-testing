@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG07",
+ "country": "UK",
+ "institution": "Exeter",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 136,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007792",
+ "index_row": 13,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Exeter",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Grand Challenges",
+   "Administrative home": "Grand Challenges",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Exeter students; annual participation/eligibility applies",
+   "Delivery / credit / practical activity": "Optional interdisciplinary challenge programme. Student teams develop responses to sustainability questions; Future17 is recorded separately.",
+   "Basis for reach classification": "University interdisciplinary challenge programme; not compulsory.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.exeter.ac.uk/students/grandchallenges/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 13
+  },
+  {
+   "Country": "UK",
+   "University": "Exeter",
+   "Academic reach": "University-wide",
+   "Learning model": "International collaboration",
+   "Scheme / framework": "Future17",
+   "Administrative home": "Global Classrooms / QS partner consortium",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Undergraduates except first years and postgraduate taught students, all campuses",
+   "Delivery / credit / practical activity": "Online interdisciplinary international teams tackle partner sustainability briefs. Optional 15-credit route subject to programme rules; non-credit certificate route also available.",
+   "Basis for reach classification": "Explicit all-campus eligibility; different credit routes make participation mixed.",
+   "Latest dated / current evidence": "Official eligibility page; current intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.exeter.ac.uk/study/future17/students/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 45
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG15",
+ "country": "UK",
+ "institution": "Newcastle",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 149,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007799",
+ "index_row": 21,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Newcastle",
+   "Academic reach": "Cross-faculty",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "NCL2100 Developing Enterprise, Entrepreneurship and Employability",
+   "Administrative home": "Careers / participating academic programmes",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students on degrees allowing NCL2100",
+   "Delivery / credit / practical activity": "Cross-faculty enterprise module. Current staff profile confirms module leadership. Detailed current module availability needs checking by degree.",
+   "Basis for reach classification": "Cross-faculty module; precise current degree eligibility not verified.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.ncl.ac.uk/computing/people/profile/charlottehope.html",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 21
+  },
+  {
+   "Country": "UK",
+   "University": "Newcastle",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "START UP / Summer Launchpad",
+   "Administrative home": "Careers Service: START UP",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All students and recent graduates; individual programme/visa requirements apply",
+   "Delivery / credit / practical activity": "Enterprise workshops, coaching, funding and founder community. June 2026 three-day Summer Launchpad included practical sales training, a mini hackathon, business advice and visits to regional startup hubs.",
+   "Basis for reach classification": "Published START UP eligibility explicitly includes all students, any background; broad enterprise support is separate from the degree-dependent NCL2100 module.",
+   "Latest dated / current evidence": "June 2026 Launchpad delivery confirmed",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.ncl.ac.uk/careers/startup/advice/\nhttps://www.ncl.ac.uk/careers/startup/start-up-stories/news/news-items/start-up-summer-launchpad-success/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 51
+  }
+ ]
+}

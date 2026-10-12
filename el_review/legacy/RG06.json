@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG06",
+ "country": "UK",
+ "institution": "Edinburgh",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 35,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007790",
+ "index_row": 12,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Edinburgh",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Students as Change Agents (SACHA) elective",
+   "Administrative home": "Edinburgh Futures Institute",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "First- and second-year students in eligible programmes",
+   "Delivery / credit / practical activity": "EFI elective remains available. Careers co-curricular programme is paused for the foreseeable future due to funding constraints.",
+   "Basis for reach classification": "Cross-disciplinary institutional elective; separate co-curricular route is paused.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://careers.ed.ac.uk/build-experience/students-as-change-agents",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 12
+  },
+  {
+   "Country": "UK",
+   "University": "Edinburgh",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Students as Change Agents: careers co-curricular route",
+   "Administrative home": "Careers Service",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Former optional co-curricular participants",
+   "Delivery / credit / practical activity": "Interdisciplinary societal challenges. Careers co-curricular delivery is paused for the foreseeable future because of funding; EFI elective is a separate continuing route.",
+   "Basis for reach classification": "University programme reach; paused status prevents treating this route as currently open.",
+   "Latest dated / current evidence": "Paused: university page confirms",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://careers.ed.ac.uk/build-experience/students-as-change-agents",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Paused",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 49
+  }
+ ]
+}

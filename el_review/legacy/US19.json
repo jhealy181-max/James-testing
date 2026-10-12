@@ -1,0 +1,33 @@
+{
+ "inst_id": "US19",
+ "country": "US",
+ "institution": "Southern California",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 153,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 89,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Southern California",
+   "Academic reach": "Cross-faculty",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Joint Educational Project (JEP)",
+   "Administrative home": "Dornsife College of Letters, Arts and Sciences",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students in linked courses and volunteer routes; other schools represented",
+   "Delivery / credit / practical activity": "Community service-learning placements with local schools, clinics and nonprofits connect course learning to reflection and action.",
+   "Basis for reach classification": "Hosted in Dornsife; university accreditation evidence records participation from multiple schools, but unrestricted all-school access not established.",
+   "Latest dated / current evidence": "Fall 2026 registration confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://dornsife.usc.edu/joint-educational-project/student-sign-up/\nhttps://accreditation.usc.edu/wp-content/uploads/sites/3/2021/01/Appendix-8.13-JEP.pdf",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 110
+  }
+ ]
+}

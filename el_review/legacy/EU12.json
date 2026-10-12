@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU12",
+ "country": "Netherlands",
+ "institution": "Delft University of Technology",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 48,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 112,
+ "legacy_rows": [
+  {
+   "Country": "Netherlands",
+   "University": "Delft University of Technology",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Joint Interdisciplinary Project (JIP)",
+   "Administrative home": "TU Delft / interdisciplinary master’s programme teams",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Second-year master’s students; programme approval applies",
+   "Delivery / credit / practical activity": "Ten-week, 15-ECTS elective brings different disciplines together to solve company research-and-development cases.",
+   "Basis for reach classification": "University-hosted research paper describes access for all second-year master’s students; current rules need checking.",
+   "Latest dated / current evidence": "2019–20 delivery evidence; current intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://delta.tudelft.nl/en/article/jip-prepares-students-agile-future\nhttps://repository.tudelft.nl/file/File_4d7bc375-1c67-4fa9-8c76-73b81339b2fe",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 138
+  }
+ ]
+}

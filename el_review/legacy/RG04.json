@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG04",
+ "country": "UK",
+ "institution": "Cardiff",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 179,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007814",
+ "index_row": 10,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Cardiff",
+   "Academic reach": "Not confirmed",
+   "Learning model": "International collaboration",
+   "Scheme / framework": "Bremen–Cardiff Sustainability Programme",
+   "Administrative home": "Careers / Enterprise",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible Cardiff students; admissions apply",
+   "Delivery / credit / practical activity": "Students from both universities collaborate on sustainability problems.",
+   "Basis for reach classification": "Central enterprise opportunity with international partners; reach inferred from remit. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.cardiff.ac.uk/study/student-life/student-support/careers-and-employability/enterprise",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 10
+  },
+  {
+   "Country": "UK",
+   "University": "Cardiff",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Cardiff Award",
+   "Administrative home": "Student Futures",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All Cardiff students",
+   "Delivery / credit / practical activity": "Optional career-development programme completed within an academic year; structured employability activities and reflection complement curricular learning.",
+   "Basis for reach classification": "University Student Futures framework explicitly states available to all students. This does not establish specific eligibility for the separate Bremen–Cardiff programme.",
+   "Latest dated / current evidence": "Official framework page; current intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://sites.cardiff.ac.uk/student-futures-framework/student-futures-framework/activities-supported-by-student-futures/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 52
+  }
+ ]
+}

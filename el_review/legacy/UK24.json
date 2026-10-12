@@ -1,0 +1,52 @@
+{
+ "inst_id": "UK24",
+ "country": "UK",
+ "institution": "Oxford Brookes",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 411,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/oxford-brookes-university",
+ "ukprn": "10004930",
+ "index_row": 64,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Oxford Brookes",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Spark",
+   "Administrative home": "Brookes Enterprise",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students from any discipline; staff and eligible alumni",
+   "Delivery / credit / practical activity": "Six-week startup-development programme, business-model refinement, mentor meeting and pitch deck; participants can compete for £500 funding.",
+   "Basis for reach classification": "Explicit any-discipline eligibility.",
+   "Latest dated / current evidence": "Autumn 2026 applications confirmed",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.brookes.ac.uk/enterprise/start-up-support/spark",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 78
+  },
+  {
+   "Country": "UK",
+   "University": "Oxford Brookes",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Business Challenge Week",
+   "Administrative home": "Oxford Brookes Business School",
+   "Participation": "Not confirmed",
+   "Eligibility / restrictions": "Postgraduate Business School students",
+   "Delivery / credit / practical activity": "Intensive week tackling real problems from local, national and international organisations; part of the School’s real-world learning provision.",
+   "Basis for reach classification": "Page explicitly identifies Business School postgraduate participants; credit/compulsion unverified.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.brookes.ac.uk/about-brookes/structure-and-governance/faculties-and-schools/business/real-world-learning",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 79
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK17",
+ "country": "UK",
+ "institution": "Brunel",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 353,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/universities/brunel-university-london",
+ "ukprn": "10000961",
+ "index_row": 57,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Brunel",
+   "Academic reach": "University-wide",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "Professional work placements",
+   "Administrative home": "Student Professional Development / departments",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Eligible degree programmes; availability and assessment vary",
+   "Delivery / credit / practical activity": "University placement support enables students to apply learning with employers. Programme requirements determine timing, duration and credit.",
+   "Basis for reach classification": "Central placement framework across departments; no claim all degrees or students participate.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.brunel.ac.uk/student-professional-development/work-placements",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 70
+  }
+ ]
+}

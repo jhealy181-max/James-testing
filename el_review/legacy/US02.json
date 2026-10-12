@@ -1,0 +1,33 @@
+{
+ "inst_id": "US02",
+ "country": "US",
+ "institution": "Harvard",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 5,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 72,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Harvard",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Mindich Program in Engaged Scholarship",
+   "Administrative home": "Harvard College / Faculty of Arts and Sciences",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Harvard College undergraduates, across academic divisions",
+   "Delivery / credit / practical activity": "Community-engaged academic courses connect disciplinary study to partner priorities. Around 60 courses annually across all College academic divisions.",
+   "Basis for reach classification": "University-wide undergraduate reach across academic divisions; not all professional/graduate schools and not compulsory.",
+   "Latest dated / current evidence": "2026/27 advisory recruitment confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://engagedscholarship.fas.harvard.edu/\nhttps://engagedscholarship.fas.harvard.edu/about/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 91
+  }
+ ]
+}

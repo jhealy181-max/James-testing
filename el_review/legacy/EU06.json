@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU06",
+ "country": "Germany",
+ "institution": "Technical University of Munich",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 25,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 106,
+ "legacy_rows": [
+  {
+   "Country": "Germany",
+   "University": "Technical University of Munich",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "TUM Project Weeks",
+   "Administrative home": "Central studies / schools",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Bachelor’s and master’s students; individual projects have target groups",
+   "Delivery / credit / practical activity": "Interdisciplinary intensive projects tackle sustainability, AI, entrepreneurship and social challenges. 2026/27 catalogue includes all-school options with ECTS.",
+   "Basis for reach classification": "University framework plus explicit all-discipline/all-school course eligibility; not every listed project is unrestricted.",
+   "Latest dated / current evidence": "January 2027 project week confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.tum.de/en/studies/degree-programs/key-skill-programs/project-weeks",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 131
+  }
+ ]
+}

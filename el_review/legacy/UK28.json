@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK28",
+ "country": "UK",
+ "institution": "Nottingham Trent",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 639,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/nottingham-trent-university",
+ "ukprn": "10004797",
+ "index_row": 68,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Nottingham Trent",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Grads4Nottm",
+   "Administrative home": "Employability / employer engagement",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "NTU students and graduates across disciplines",
+   "Delivery / credit / practical activity": "Two-week work-experience challenge matches multidisciplinary student talent to local employer briefs. 2024 evidence marks ten years of delivery.",
+   "Basis for reach classification": "Psychology and Graphic Design examples establish cross-school participation; central NTU-only programme.",
+   "Latest dated / current evidence": "2024 evidence; current intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.ntu.ac.uk/about-us/news/news-articles/2024/01/grads4nottm-is-back%2C-celebrating-10-years-of-student-and-graduate-talent-supporting-businesses-in-the-city",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 86
+  }
+ ]
+}

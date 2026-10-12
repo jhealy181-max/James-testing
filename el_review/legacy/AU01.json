@@ -1,0 +1,52 @@
+{
+ "inst_id": "AU01",
+ "country": "Australia",
+ "institution": "UNSW Sydney",
+ "cohort": "Australia top 10",
+ "qs_edition": 2027,
+ "qs_rank": 19,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 31,
+ "legacy_rows": [
+  {
+   "Country": "Australia",
+   "University": "UNSW Sydney",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "COMM1120 Collaboration and Innovation in Business",
+   "Administrative home": "UNSW Business School",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "Business students taking COMM1120 under degree rules",
+   "Delivery / credit / practical activity": "Collaborative problem-solving and innovation course. Not a university-wide common core.",
+   "Basis for reach classification": "Business-school course; not evidence of a common university core.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://timetable.unsw.edu.au/2026/COMM1120.html",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 31
+  },
+  {
+   "Country": "Australia",
+   "University": "UNSW Sydney",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "AHEGS Advantage",
+   "Administrative home": "Central student opportunities / AHEGS",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students on recognised activities; activity-specific eligibility applies",
+   "Delivery / credit / practical activity": "Recognises clubs, volunteering, mentoring, competitions and enterprise experiences across UNSW on the Australian Higher Education Graduation Statement.",
+   "Basis for reach classification": "Institution-wide recognition framework includes faculty initiatives; individual activities may be restricted.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://www.unsw.edu.au/student/opportunities/advantage",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 48
+  }
+ ]
+}

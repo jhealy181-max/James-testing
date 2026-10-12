@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK12",
+ "country": "UK",
+ "institution": "East Anglia",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 381,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-east-anglia-uea",
+ "ukprn": "10007789",
+ "index_row": 52,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "East Anglia",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "UEA Award",
+   "Administrative home": "CareerCentral",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "UEA students; exact eligibility should be checked in award terms",
+   "Delivery / credit / practical activity": "Skills-development and employability award complements study and recognises wider experience. 2025–29 access plan continues to promote participation across courses.",
+   "Basis for reach classification": "Central careers award with cross-course promotion; university reach inferred, not compulsory. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "2025–29 policy and 2026 careers-role evidence",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://mycareercentral.uea.ac.uk/Uploads/Attachments/UEA%20Award/TandCs-UEA-Award-final.pdf\nhttps://assets.uea.ac.uk/f/185167/x/a9b8a9ffc6/university-of-east-anglia-access-and-participation-plan-2025-26-2028-29.pdf",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 65
+  }
+ ]
+}

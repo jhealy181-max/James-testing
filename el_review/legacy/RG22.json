@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG22",
+ "country": "UK",
+ "institution": "UCL",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 8,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007784",
+ "index_row": 28,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "UCL",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Grand Challenges × ChangeMakers",
+   "Administrative home": "UCL Grand Challenges / ChangeMakers",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible student–staff project teams",
+   "Delivery / credit / practical activity": "Student–staff projects address Grand Challenges. September 2026 call confirms current activity.",
+   "Basis for reach classification": "University-level grant initiative; competitive application and project eligibility apply.",
+   "Latest dated / current evidence": "September 2026 application call confirmed",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.ucl.ac.uk/research-innovation/news/2026/sep/grand-challenges-x-changemakers-applications-now-open",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 28
+  }
+ ]
+}

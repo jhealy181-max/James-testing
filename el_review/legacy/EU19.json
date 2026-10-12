@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU19",
+ "country": "Ireland",
+ "institution": "Trinity College Dublin",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 75,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 119,
+ "legacy_rows": [
+  {
+   "Country": "Ireland",
+   "University": "Trinity College Dublin",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Trinity Electives",
+   "Administrative home": "Central undergraduate curriculum",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Most eligible undergraduates; many Health Sciences degrees excluded",
+   "Delivery / credit / practical activity": "Five-ECTS standalone breadth modules address societal, cultural and interdisciplinary themes. Some degrees require electives; practical content varies by module.",
+   "Basis for reach classification": "University framework with explicit degree exclusions; university-wide does not mean every programme/student.",
+   "Latest dated / current evidence": "2026/27 timetable and August 2026 update",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.tcd.ie/trinity-electives/information-for-students/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 146
+  }
+ ]
+}

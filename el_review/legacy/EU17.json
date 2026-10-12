@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU17",
+ "country": "Belgium",
+ "institution": "KU Leuven",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 59,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 117,
+ "legacy_rows": [
+  {
+   "Country": "Belgium",
+   "University": "KU Leuven",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Service-learning course network",
+   "Administrative home": "Central Service-learning team / faculties",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students in participating courses across academic groups",
+   "Delivery / credit / practical activity": "Curricular community service, structured reflection and subject learning; list spans humanities, engineering and biomedical faculties. Requirements vary by course.",
+   "Basis for reach classification": "Institution-wide support and course network across all three academic groups; not a common compulsory module.",
+   "Latest dated / current evidence": "2026/27 course example; network list partly 2023/24",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.kuleuven.be/english/education/sl/servicelearningatkuleuven/list-of-courses\nhttps://www.kuleuven.be/english/apply/education/sl/whatisservicelearning",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 143
+  }
+ ]
+}

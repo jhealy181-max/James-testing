@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU03",
+ "country": "France",
+ "institution": "Sorbonne University",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 73,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 103,
+ "legacy_rows": [
+  {
+   "Country": "France",
+   "University": "Sorbonne University",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Pépite Sorbonne Université: student entrepreneurship / SNEE",
+   "Administrative home": "Pépite university enterprise network",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Higher-education students from bachelor to doctorate; eligible graduates",
+   "Delivery / credit / practical activity": "Project coaching and practical venture development. Optional D2E diploma structures business-model, market, pitch and leadership learning.",
+   "Basis for reach classification": "Explicit study-level-wide eligibility with no disciplinary prerequisite; diploma is a separate optional route.",
+   "Latest dated / current evidence": "2026 pages and eligibility confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://pepite.sorbonne-universite.fr/etre-accompagnee/devenir-etudiante-entrepreneure-snee\nhttps://pepite.sorbonne-universite.fr/etre-accompagnee/entreprendre-pendant-ses-etudes",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 128
+  }
+ ]
+}

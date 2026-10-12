@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK18",
+ "country": "UK",
+ "institution": "Aston",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 416,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/aston-university",
+ "ukprn": "10007759",
+ "index_row": 58,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Aston",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Aston Global Advantage",
+   "Administrative home": "Postgraduate taught curriculum",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "Every postgraduate taught programme, according to university page",
+   "Delivery / credit / practical activity": "Structured professional development combines teamwork, practical projects and employer engagement with postgraduate study. Delivery varies by programme/campus.",
+   "Basis for reach classification": "Official page describes a distinctive component of every postgraduate taught programme.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.aston.ac.uk/postgraduate/aston-global-advantage",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 71
+  }
+ ]
+}

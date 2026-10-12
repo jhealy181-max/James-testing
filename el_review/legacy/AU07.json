@@ -1,0 +1,33 @@
+{
+ "inst_id": "AU07",
+ "country": "Australia",
+ "institution": "Western Australia",
+ "cohort": "Australia top 10",
+ "qs_edition": 2027,
+ "qs_rank": 77,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 37,
+ "legacy_rows": [
+  {
+   "Country": "Australia",
+   "University": "Western Australia",
+   "Academic reach": "University-wide",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "McCusker Centre for Citizenship internship, SVLG3003",
+   "Administrative home": "McCusker Centre for Citizenship",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Eligible students under SVLG3003 rules",
+   "Delivery / credit / practical activity": "Internships connect students with community organisations. Unit handbook confirms academic structure.",
+   "Basis for reach classification": "Institution-level citizenship internship unit; admission and prerequisites apply.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://www.handbooks.uwa.edu.au/unitdetails?code=SVLG3003",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 37
+  }
+ ]
+}

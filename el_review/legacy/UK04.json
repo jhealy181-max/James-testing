@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK04",
+ "country": "UK",
+ "institution": "Loughborough",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 203,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/universities/loughborough-university",
+ "ukprn": "10004113",
+ "index_row": 44,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Loughborough",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Personal Best",
+   "Administrative home": "Student development / careers",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Undergraduates, postgraduates and researchers; optional award activities",
+   "Delivery / credit / practical activity": "Personal, academic and professional development activities lead to an award recorded on the transcript. Optional development beyond the degree.",
+   "Basis for reach classification": "Published framework serves undergraduate and postgraduate students and researchers across the institution.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.lboro.ac.uk/study/employability/personal-best/\nhttps://www.lboro.ac.uk/students/personal-best/about/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 56
+  }
+ ]
+}

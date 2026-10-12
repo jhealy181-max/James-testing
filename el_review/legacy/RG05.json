@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG05",
+ "country": "UK",
+ "institution": "Durham",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 85,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007143",
+ "index_row": 11,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Durham",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Mini Consultancy Competition",
+   "Administrative home": "Careers and Enterprise",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students across disciplines; competition selection",
+   "Delivery / credit / practical activity": "Teams work on organisational challenges through central work-based learning. Employer offer also includes mentoring and insight programmes; the Mini Consultancy Competition is the live-project example.",
+   "Basis for reach classification": "Central Mini Consultancy Competition explicitly serves mixed disciplines.",
+   "Latest dated / current evidence": "2026 employer programme page",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://dur.ac.uk/study/careers-employability-enterprise/information-for-employers/work-based-learning-programmes-for-employers/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 11
+  }
+ ]
+}

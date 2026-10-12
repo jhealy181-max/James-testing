@@ -1,0 +1,33 @@
+{
+ "inst_id": "AU09",
+ "country": "Australia",
+ "institution": "University of Technology Sydney",
+ "cohort": "Australia top 10",
+ "qs_edition": 2027,
+ "qs_rank": 87,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 39,
+ "legacy_rows": [
+  {
+   "Country": "Australia",
+   "University": "University of Technology Sydney",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Transdisciplinary electives",
+   "Administrative home": "UTS Transdisciplinary School",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Eligible students with elective space / course approval",
+   "Delivery / credit / practical activity": "TD School offers cross-disciplinary electives and partner project experiences.",
+   "Basis for reach classification": "University-level elective framework; school host does not imply TD-only eligibility.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://www.uts.edu.au/for-students/transdisciplinary-innovation/transdisciplinary-electives",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 39
+  }
+ ]
+}

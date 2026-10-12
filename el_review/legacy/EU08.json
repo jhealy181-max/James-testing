@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU08",
+ "country": "Germany",
+ "institution": "Heidelberg",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 86,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 108,
+ "legacy_rows": [
+  {
+   "Country": "Germany",
+   "University": "Heidelberg",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "hei_INNOVATION Startup Lab",
+   "Administrative home": "hei_INNOVATION transfer / enterprise",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible university students and alumni in Baden-Württemberg; selection applies",
+   "Delivery / credit / practical activity": "Four-week venture-development programme combines workshops, team building, mentoring and coaching with a final pitch.",
+   "Basis for reach classification": "Central cross-disciplinary founder programme; explicit student/alumni eligibility, not Heidelberg University in the US.",
+   "Latest dated / current evidence": "March 2026 delivery confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.uni-heidelberg.de/en/transfer/heiinnovation/startup-lab",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 134
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU04",
+ "country": "France",
+ "institution": "Institut Polytechnique de Paris",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 43,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 104,
+ "legacy_rows": [
+  {
+   "Country": "France",
+   "University": "Institut Polytechnique de Paris",
+   "Academic reach": "Programme/course",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Projet Scientifique Collectif (PSC)",
+   "Administrative home": "École polytechnique; Ingénieur Polytechnicien programme",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "Second-year students on the Ingénieur Polytechnicien degree",
+   "Delivery / credit / practical activity": "Teams of four or five work half a day weekly through second year to investigate a scientific problem or build a technological demonstrator with laboratories, firms or public partners.",
+   "Basis for reach classification": "One degree at one IP Paris member school; not university-wide across IP Paris.",
+   "Latest dated / current evidence": "X25 cohort / June 2026 documents confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.polytechnique.edu/x25-psc-projet-scientifique-collectif\nhttps://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/details-du-programme/deuxieme-annee-du-cycle-ingenieur",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 129
+  }
+ ]
+}

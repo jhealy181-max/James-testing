@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU27",
+ "country": "Finland",
+ "institution": "Helsinki",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 123,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 127,
+ "legacy_rows": [
+  {
+   "Country": "Finland",
+   "University": "Helsinki",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "HELSUS Co-Creation Lab",
+   "Administrative home": "Helsinki Institute of Sustainability Science",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Master’s students seeking a thesis topic; thematic relevance and selection apply",
+   "Delivery / credit / practical activity": "Facilitated co-creation with sustainability partners informs a master’s thesis, with research, interpretation and final presentation stages. Adds to normal thesis seminars.",
+   "Basis for reach classification": "Official eligibility addresses Helsinki master’s students generally; relevant field and methods determine admission.",
+   "Latest dated / current evidence": "Latest run October 2024–March 2025; next unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.helsinki.fi/en/helsinki-institute-sustainability-science/helsus-co-creation-lab",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 154
+  }
+ ]
+}

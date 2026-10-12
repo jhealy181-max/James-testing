@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK08",
+ "country": "UK",
+ "institution": "Sussex",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 273,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-sussex",
+ "ukprn": "10007806",
+ "index_row": 48,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Sussex",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Connector Programme",
+   "Administrative home": "Student experience / central university projects",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All students can join the Connector Community; individual paid projects prioritise relevant groups",
+   "Delivery / credit / practical activity": "Paid student–staff partnerships improve university provision, from modules and technology to student support. Projects range from weeks to an academic year, around study commitments.",
+   "Basis for reach classification": "Official recruitment says all Sussex, IDS and BSMS students can join; access to a particular paid role remains selective.",
+   "Latest dated / current evidence": "2025 welcome evidence; current intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.sussex.ac.uk/study/student-life/activities\nhttps://staff.sussex.ac.uk/guides/join-the-connector-programme\nhttps://www.sussex.ac.uk/broadcast/read/63995",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 60
+  }
+ ]
+}

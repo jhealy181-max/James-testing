@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU15",
+ "country": "Netherlands",
+ "institution": "Leiden",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 119,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 115,
+ "legacy_rows": [
+  {
+   "Country": "Netherlands",
+   "University": "Leiden",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Bachelor’s Honours Classes",
+   "Administrative home": "Honours Academy",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Selected motivated bachelor’s students; year and admission criteria apply",
+   "Delivery / credit / practical activity": "Five-EC extracurricular academic classes connect disciplines; content may include practical challenges. Courses complement the degree and honours pathways.",
+   "Basis for reach classification": "University-wide honours partnership; all-discipline eligibility subject to selection. Extra EC should not be assumed regular degree credit.",
+   "Latest dated / current evidence": "2025/26 catalogue confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://studiegids-archief.leidenuniv.nl/studies/10896/bachelor-honours-classes\nhttps://www.organisatiegids.universiteitleiden.nl/binaries/content/assets/honours-academy/reglementen/onderwijsreglement-honours-academy-per-1-sep-2024---english-version.pdf",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 141
+  }
+ ]
+}

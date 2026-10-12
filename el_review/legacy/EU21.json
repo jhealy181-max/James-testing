@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU21",
+ "country": "Denmark",
+ "institution": "Copenhagen",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 90,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 121,
+ "legacy_rows": [
+  {
+   "Country": "Denmark",
+   "University": "Copenhagen",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "UCPH Lighthouse / Lighthouse Launch",
+   "Administrative home": "University innovation centre",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "All UCPH students, any subject or study stage; programme selection applies",
+   "Delivery / credit / practical activity": "Practical innovation workshops, idea testing, mentoring, project support and three-month venture-development programme. ECTS innovation-project routes depend on degree approval.",
+   "Basis for reach classification": "Official university page explicitly supports all students regardless of subject or progress.",
+   "Latest dated / current evidence": "Official programme page; intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://innovation.ku.dk/english/for-students/\nhttps://lighthouse.ku.dk/en/students/innovation-projects-with-ects/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 148
+  }
+ ]
+}

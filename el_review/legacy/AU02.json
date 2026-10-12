@@ -1,0 +1,33 @@
+{
+ "inst_id": "AU02",
+ "country": "Australia",
+ "institution": "Melbourne",
+ "cohort": "Australia top 10",
+ "qs_edition": 2027,
+ "qs_rank": 22,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 32,
+ "legacy_rows": [
+  {
+   "Country": "Australia",
+   "University": "Melbourne",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Breadth subjects / Melbourne curriculum",
+   "Administrative home": "Melbourne curriculum / academic faculties",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "Students on undergraduate degrees with breadth requirements",
+   "Delivery / credit / practical activity": "Study outside the main discipline. Experiential components depend on subject choice.",
+   "Basis for reach classification": "University curriculum framework with degree exclusions and subject-specific experiential content.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/breadth-subjects",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 32
+  }
+ ]
+}

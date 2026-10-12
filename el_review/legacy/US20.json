@@ -1,0 +1,52 @@
+{
+ "inst_id": "US20",
+ "country": "US",
+ "institution": "Texas Austin",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 72,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 90,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Texas Austin",
+   "Academic reach": "Cross-faculty",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Projects with Underserved Communities (PUC)",
+   "Administrative home": "Texas Global / Cockrell Engineering / Social Work",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Engineering and Social Work undergraduates",
+   "Delivery / credit / practical activity": "Year-long project sequence develops and implements community-prioritised solutions internationally; students plan, raise funds and work with partner communities.",
+   "Basis for reach classification": "Explicit two-school eligibility; not university-wide.",
+   "Latest dated / current evidence": "2026/27 applications confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 111
+  },
+  {
+   "Country": "US",
+   "University": "Texas Austin",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Harkey Institute venture-creation programmes",
+   "Administrative home": "McCombs School of Business",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "All majors and stages; individual programme requirements apply",
+   "Delivery / credit / practical activity": "Hands-on enterprise experiences, mentoring and connections to the Austin startup ecosystem. Includes an eight-week summer entrepreneurship programme.",
+   "Basis for reach classification": "Institute page explicitly welcomes all majors; credit depends on the selected offering.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://www.mccombs.utexas.edu/centers-initiatives/harkey-institute-for-entrepreneurial-studies/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 112
+  }
+ ]
+}

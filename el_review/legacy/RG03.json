@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG03",
+ "country": "UK",
+ "institution": "Cambridge",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 6,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007788",
+ "index_row": 9,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Cambridge",
+   "Academic reach": "Programme/course",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Cambridge Venture Project / Global Consulting Project",
+   "Administrative home": "Cambridge Judge Business School",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "Judge MBA students",
+   "Delivery / credit / practical activity": "Student teams work on organisational projects. This is an MBA example, not a university-wide core.",
+   "Basis for reach classification": "Specific MBA project curriculum; not institution-wide.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/\nhttps://www.jbs.cam.ac.uk/recruiters-organisations/student-projects/mba-global-consulting-project/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 9
+  },
+  {
+   "Country": "UK",
+   "University": "Cambridge",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Innovation / Climate i-Teams",
+   "Administrative home": "Innovation / i-Teams programme",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Postgraduates, researchers and staff from any department; Development i-Teams also includes undergraduates",
+   "Delivery / credit / practical activity": "Multidisciplinary teams assess the commercial potential of real university inventions, using industry interviews, mentoring and workshops. Climate i-Teams launched in October 2026.",
+   "Basis for reach classification": "University innovation guide explicitly all-department access; postgraduate focus does not make this a faculty-only scheme.",
+   "Latest dated / current evidence": "September 2026 launch evidence",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.cam.ac.uk/stories/climate-iteams-innovation\nhttps://ie.cam.ac.uk/wp-content/uploads/2024/09/IE-Cam-Support-Guide-A5-v4_Web.pdf",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 41
+  }
+ ]
+}

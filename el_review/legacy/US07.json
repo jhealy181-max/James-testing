@@ -1,0 +1,33 @@
+{
+ "inst_id": "US07",
+ "country": "US",
+ "institution": "Pennsylvania",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 15,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 77,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Pennsylvania",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Academically Based Community Service (ABCS)",
+   "Administrative home": "Netter Center for Community Partnerships",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students in eligible undergraduate and graduate courses",
+   "Delivery / credit / practical activity": "For-credit research, teaching and problem solving with community partners; more than 80 courses offered annually across the curriculum.",
+   "Basis for reach classification": "Central cross-university course network; individual courses have level/prerequisite restrictions.",
+   "Latest dated / current evidence": "Spring 2026 catalogue confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://admissions.upenn.edu/student-life/exploring-community/community-engagement/netter-center\nhttps://www.nettercenter.upenn.edu/what-we-do/abcs-courses/spring-2026-abcs-courses",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 96
+  }
+ ]
+}

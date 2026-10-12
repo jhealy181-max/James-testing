@@ -1,0 +1,52 @@
+{
+ "inst_id": "UK27",
+ "country": "UK",
+ "institution": "Coventry",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 581,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/coventry-university",
+ "ukprn": "10001726",
+ "index_row": 67,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Coventry",
+   "Academic reach": "University-wide",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "Global Opportunities: work and short international experiences",
+   "Administrative home": "Central Global Opportunities",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All registered students and recent graduates; full/part time, any year",
+   "Delivery / credit / practical activity": "Work, study and short overseas experiences provide applied international learning. Programme selection and funding eligibility vary.",
+   "Basis for reach classification": "Official page explicitly states all registered students, with no year restriction.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.coventry.ac.uk/study-at-coventry/student-support/enhance-your-employability/global-opportunities/go-abroad/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 84
+  },
+  {
+   "Country": "UK",
+   "University": "Coventry",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Global Leaders Programme",
+   "Administrative home": "Global leadership / student development",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Coventry students; detailed current eligibility unverified",
+   "Delivery / credit / practical activity": "Extracurricular global-leadership and international-experience programme evidenced by an official student account. Historical example retained separately from current Global Opportunities.",
+   "Basis for reach classification": "Central programme reach inferred; no current institution-wide eligibility statement located. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "2021 evidence; current intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.coventry.ac.uk/blog/five-ways-i-got-more-than-a-degree-from-coventry-university/",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 85
+  }
+ ]
+}

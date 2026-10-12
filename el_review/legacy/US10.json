@@ -1,0 +1,33 @@
+{
+ "inst_id": "US10",
+ "country": "US",
+ "institution": "Princeton",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 27,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 80,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Princeton",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Program for Community-Engaged Scholarship (ProCES)",
+   "Administrative home": "Central ProCES programme",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students in participating courses/research collaborations",
+   "Delivery / credit / practical activity": "Academic inquiry and research engage community knowledge and priorities, with nonprofit, public-sector and grassroots partners. Formerly Community-Based Learning Initiative.",
+   "Basis for reach classification": "Institutional course/research support; individual course eligibility applies.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://proces.princeton.edu/\nhttps://proces.princeton.edu/about",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 99
+  }
+ ]
+}

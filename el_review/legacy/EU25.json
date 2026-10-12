@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU25",
+ "country": "Sweden",
+ "institution": "Uppsala",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 87,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 125,
+ "legacy_rows": [
+  {
+   "Country": "Sweden",
+   "University": "Uppsala",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "CEMUS student-led sustainability courses",
+   "Administrative home": "CEMUS; Uppsala / SLU joint environment",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Eligible students on courses and sustainability packages; admissions apply",
+   "Delivery / credit / practical activity": "Transdisciplinary sustainability courses are co-created with student coordinators, researchers and societal actors. Applied packages and project content vary.",
+   "Basis for reach classification": "Official source establishes transdisciplinary courses, but academic reach across faculties is not established. A joint institutional home alone cannot settle student access.",
+   "Latest dated / current evidence": "Spring 2026 courses confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.cemus.uu.se/education/",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 152
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "US05",
+ "country": "US",
+ "institution": "California Berkeley",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 20,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 75,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "California Berkeley",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Berkeley Discovery",
+   "Administrative home": "Central undergraduate Discovery initiative",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Undergraduates across campus; course/project conditions vary",
+   "Delivery / credit / practical activity": "Institutional framework supports student-led research, industry projects, entrepreneurship and immersive experiences through hubs, courses and an opportunities platform.",
+   "Basis for reach classification": "University priority scales access across campus; framework does not establish compulsory participation.",
+   "Latest dated / current evidence": "September 2026 activity confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://discovery.berkeley.edu/\nhttps://discovery.berkeley.edu/students/overview",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 94
+  }
+ ]
+}

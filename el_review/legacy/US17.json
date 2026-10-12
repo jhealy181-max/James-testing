@@ -1,0 +1,33 @@
+{
+ "inst_id": "US17",
+ "country": "US",
+ "institution": "Northwestern",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 45,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 87,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Northwestern",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Design Thinking and Communication (DTC)",
+   "Administrative home": "McCormick Engineering / Cook Family Writing Program",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Required for first-year McCormick students; also open to any Northwestern undergraduate",
+   "Delivery / credit / practical activity": "Two-quarter design-and-communication course tackles problems submitted by community and industry partners.",
+   "Basis for reach classification": "Any-undergraduate availability gives university-wide reach; compulsory status is restricted to Engineering.",
+   "Latest dated / current evidence": "2026/27 course catalogue confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://writingprogram.northwestern.edu/courses/2026-2027/course-descriptions/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 108
+  }
+ ]
+}

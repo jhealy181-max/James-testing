@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU14",
+ "country": "Netherlands",
+ "institution": "Utrecht",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 113,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 114,
+ "legacy_rows": [
+  {
+   "Country": "Netherlands",
+   "University": "Utrecht",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Community Engaged Learning (CEL)",
+   "Administrative home": "Central CEL / Centre for Academic Teaching and Learning",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students in participating courses; individual eligibility varies",
+   "Delivery / credit / practical activity": "Students, lecturers and external organisations work together on shared social issues. Grants and teacher development support curricular implementation.",
+   "Basis for reach classification": "University-wide implementation framework and aspiration to embed in every degree; aspiration is not proof every degree already participates.",
+   "Latest dated / current evidence": "2026 programme activity confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.uu.nl/en/education/community-engaged-learning/about-community-engaged-learning",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 140
+  }
+ ]
+}

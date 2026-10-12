@@ -1,0 +1,33 @@
+{
+ "inst_id": "US24",
+ "country": "US",
+ "institution": "Georgia Institute of Technology",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 142,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 94,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Georgia Institute of Technology",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Vertically Integrated Projects (VIP)",
+   "Administrative home": "Central VIP / academic project teams",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduate and graduate students across majors; team fit applies",
+   "Delivery / credit / practical activity": "Multisemester research and development teams combine disciplines and study levels; students contribute to continuing projects.",
+   "Basis for reach classification": "Current team recruitment covers all six academic colleges and explicitly welcomes all majors for relevant teams.",
+   "Latest dated / current evidence": "Fall 2026 team recruitment confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://sites.gatech.edu/ecocar/recruitment-info/\nhttps://vip.gatech.edu/teams-all-in-one/entry/1294/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 116
+  }
+ ]
+}

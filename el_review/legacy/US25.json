@@ -1,0 +1,33 @@
+{
+ "inst_id": "US25",
+ "country": "US",
+ "institution": "Purdue",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 100,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 95,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Purdue",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Engineering Projects in Community Service (EPICS)",
+   "Administrative home": "Engineering EPICS",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "All undergraduates; senior-design route requires approval",
+   "Delivery / credit / practical activity": "Long-term teams design, build, deploy and support systems for community partners in education, environment, accessibility and human services.",
+   "Basis for reach classification": "Registration explicitly open to all undergraduates.",
+   "Latest dated / current evidence": "Spring 2027 registration confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://engineering.purdue.edu/EPICS\nhttps://engineering.purdue.edu/EPICS/purdue/future-students/register",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 117
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "US28",
+ "country": "US",
+ "institution": "Boston University",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 94,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 98,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Boston University",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Cross-College Challenge (XCC)",
+   "Administrative home": "BU Hub",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Juniors and seniors from all undergraduate schools and colleges",
+   "Delivery / credit / practical activity": "Four-credit, team-based elective co-taught across disciplines addresses a real challenge with a community partner and fulfils Hub requirements.",
+   "Basis for reach classification": "Explicit all-undergraduate-school eligibility; year and capacity restrictions apply.",
+   "Latest dated / current evidence": "2026 Hub activity confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://www.bu.edu/xcc/?p=31\nhttps://www.bu.edu/hub/announcements/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 120
+  }
+ ]
+}

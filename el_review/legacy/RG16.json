@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG16",
+ "country": "UK",
+ "institution": "Nottingham",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 97,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007154",
+ "index_row": 22,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Nottingham",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Nottingham Advantage Award",
+   "Administrative home": "Careers / Nottingham Advantage Award",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible students undertaking extracurricular modules",
+   "Delivery / credit / practical activity": "Formal recognition of work-related skills and extracurricular learning. Not equivalent to a compulsory degree course.",
+   "Basis for reach classification": "Central award; academic-credit equivalence not claimed.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://blogs.nottingham.ac.uk/careers/2024/07/25/advantage-award/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 22
+  }
+ ]
+}

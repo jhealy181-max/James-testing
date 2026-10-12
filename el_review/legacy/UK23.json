@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK23",
+ "country": "UK",
+ "institution": "City St George’s",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 361,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/city-st-georges-university-london",
+ "ukprn": "10001478",
+ "index_row": 63,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "City St George’s",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "CitySpark",
+   "Administrative home": "CityVentures",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All legacy City students and recent alumni; merger-wide eligibility unverified",
+   "Delivery / credit / practical activity": "Business-idea competition with customer discovery, enterprise workshops, mentoring and pitching. £3,000 funding offered in the 2024 competition.",
+   "Basis for reach classification": "Explicit all-City eligibility; do not extend this to every legacy St George’s course after merger.",
+   "Latest dated / current evidence": "2024 evidence; current/merged intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://studenthub.citystgeorges.ac.uk/news-and-events/news/2024/february/cityspark-2024",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 77
+  }
+ ]
+}

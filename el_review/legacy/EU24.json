@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU24",
+ "country": "Sweden",
+ "institution": "KTH Royal Institute of Technology",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 82,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 124,
+ "legacy_rows": [
+  {
+   "Country": "Sweden",
+   "University": "KTH Royal Institute of Technology",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Openlab: Innovations for the Emerging City, MF2065",
+   "Administrative home": "KTH / Openlab university partnership",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Advanced-level master’s students at KTH; partner-university students in shared teams",
+   "Delivery / credit / practical activity": "15-credit interdisciplinary course develops proposals for city and regional clients addressing growing and sustainable cities; half-time over a semester.",
+   "Basis for reach classification": "KTH catalogue opens course to advanced-level master’s students; not restricted to a named school.",
+   "Latest dated / current evidence": "Autumn 2026 offering confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.kth.se/student/kurser/kurs/MF2065?l=en",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 151
+  }
+ ]
+}

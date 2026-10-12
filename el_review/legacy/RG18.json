@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG18",
+ "country": "UK",
+ "institution": "Queen Mary University of London",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 103,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007775",
+ "index_row": 24,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Queen Mary University of London",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "SBM Consult",
+   "Administrative home": "School of Business and Management",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "SBM students; project selection applies",
+   "Delivery / credit / practical activity": "Teams of five undertake real university client projects over ten weeks. Programme page describes paid project work.",
+   "Basis for reach classification": "Official scheme restricts eligibility to a named school.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.qmul.ac.uk/careers/find-opportunities/current-opportunities/sbm-consult/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 24
+  },
+  {
+   "Country": "UK",
+   "University": "Queen Mary University of London",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "QInterns",
+   "Administrative home": "Careers and Employability",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible Queen Mary students and recent graduates",
+   "Delivery / credit / practical activity": "Internships provide applied workplace experience. Individual roles, selection, funding and eligibility determine availability.",
+   "Basis for reach classification": "Central student/graduate internship scheme; university reach inferred from central remit, not all-student guarantee. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "Official opportunities page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.qmul.ac.uk/careers/find-opportunities/current-opportunities/",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 44
+  }
+ ]
+}

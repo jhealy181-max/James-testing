@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG08",
+ "country": "UK",
+ "institution": "Glasgow",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 80,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007794",
+ "index_row": 14,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Glasgow",
+   "Academic reach": "University-wide",
+   "Learning model": "International collaboration",
+   "Scheme / framework": "Collaborative Online International Learning (COIL)",
+   "Administrative home": "University internationalisation / academic courses",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students in participating courses",
+   "Delivery / credit / practical activity": "Students collaborate virtually with international partners. Credit and assessment depend on the course.",
+   "Basis for reach classification": "Institutional COIL support framework; actual access and credit depend on the course.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.gla.ac.uk/explore/internationalisation/coil/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 14
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG14",
+ "country": "UK",
+ "institution": "Manchester",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 40,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007798",
+ "index_row": 20,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Manchester",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "University College for Interdisciplinary Learning (UCIL)",
+   "Administrative home": "University College for Interdisciplinary Learning",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduates with available optional credit",
+   "Delivery / credit / practical activity": "Cross-disciplinary units, including enterprise and community-oriented learning. 2035 strategy commits to expanding partner-based learning for credit.",
+   "Basis for reach classification": "University-level interdisciplinary unit framework; future expansion plans are not current provision.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.ucil.manchester.ac.uk/info-for-students/\nhttps://www.manchester.ac.uk/about/manchester-2035/full-strategy/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 20
+  }
+ ]
+}

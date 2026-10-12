@@ -1,0 +1,33 @@
+{
+ "inst_id": "US08",
+ "country": "US",
+ "institution": "Cornell",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 16,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 78,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Cornell",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Student Project Teams",
+   "Administrative home": "Cornell Engineering",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduates across colleges; team selection applies",
+   "Delivery / credit / practical activity": "Student-run design, technology and social-impact teams earn academic credit. Official page records nine colleges/schools and more than 30 majors represented.",
+   "Basis for reach classification": "Explicit cross-college recruitment; Engineering hosts the programme but does not restrict participation to Engineering.",
+   "Latest dated / current evidence": "Official academic framework; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://www.engineering.cornell.edu/students/undergraduate-students/special-programs/project-teams\nhttps://www.engineering.cornell.edu/student-project-teams/student-project-teams-academic-framework/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 97
+  }
+ ]
+}

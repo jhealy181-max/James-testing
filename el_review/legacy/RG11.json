@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG11",
+ "country": "UK",
+ "institution": "Leeds",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 77,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007795",
+ "index_row": 17,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Leeds",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Discovery Modules",
+   "Administrative home": "Central Discovery Modules",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduates where programme rules permit",
+   "Delivery / credit / practical activity": "Students study beyond their main discipline. Experiential content depends on the module selected.",
+   "Basis for reach classification": "University breadth-module framework; experiential content varies by module.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://students.leeds.ac.uk/discovery",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 17
+  }
+ ]
+}

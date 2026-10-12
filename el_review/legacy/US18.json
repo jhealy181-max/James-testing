@@ -1,0 +1,33 @@
+{
+ "inst_id": "US18",
+ "country": "US",
+ "institution": "Carnegie Mellon",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 55,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 88,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Carnegie Mellon",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Integrative Design, Arts, and Technology (IDeATe)",
+   "Administrative home": "Intercollege IDeATe network",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduates from any major",
+   "Delivery / credit / practical activity": "Project-based arts/technology courses and minors use collaborative labs and making, in areas from game design to physical computing and design for learning.",
+   "Basis for reach classification": "Explicit all-major eligibility.",
+   "Latest dated / current evidence": "2026 project activity / official eligibility",
+   "Cohort": "US sample",
+   "Primary sources": "https://ideate.cmu.edu/\nhttps://ideate.cmu.edu/about/how-to-enroll-in-ideate.html",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 109
+  }
+ ]
+}

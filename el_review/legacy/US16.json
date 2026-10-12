@@ -1,0 +1,52 @@
+{
+ "inst_id": "US16",
+ "country": "US",
+ "institution": "New York University",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 58,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 86,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "New York University",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Stern Solutions",
+   "Administrative home": "Stern School of Business",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Stern graduate students; course/programme eligibility varies",
+   "Delivery / credit / practical activity": "Faculty-advised teams tackle organisational challenges over a semester or year in for-credit projects.",
+   "Basis for reach classification": "Official programme describes Stern graduate teams; some individual projects involve other schools, but umbrella eligibility is not all NYU.",
+   "Latest dated / current evidence": "Official programme page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://www.stern.nyu.edu/business-partnerships/solve-business-challenge",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 106
+  },
+  {
+   "Country": "US",
+   "University": "New York University",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Summer Launchpad",
+   "Administrative home": "NYU Entrepreneurship",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible NYU student and recent-graduate founder teams",
+   "Delivery / credit / practical activity": "Selective nine-week accelerator refines products, business models and customer acquisition; full-time founder commitment required.",
+   "Basis for reach classification": "Central university entrepreneurship pathway complements faculty-specific Stern example.",
+   "Latest dated / current evidence": "2026 cohort confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://entrepreneur.nyu.edu/blog/2026/06/03/meet-the-2026-nyu-summer-launchpad-cohort/\nhttps://entrepreneur.nyu.edu/for-students/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 107
+  }
+ ]
+}

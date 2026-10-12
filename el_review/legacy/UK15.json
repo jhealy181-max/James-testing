@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK15",
+ "country": "UK",
+ "institution": "Essex",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 438,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/essex-university",
+ "ukprn": "10007791",
+ "index_row": 55,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Essex",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Big Essex Award",
+   "Administrative home": "Careers / HEAR",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible Essex students; research-only HEAR exclusions apply",
+   "Delivery / credit / practical activity": "Reflective recognition of extracurricular skills and experience, with Bronze/Silver/Gold levels. Award achievements are recorded through HEAR rather than degree credit.",
+   "Basis for reach classification": "Central award across student activities; exact level-specific rules should be checked.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.essex.ac.uk/student/awards-and-achievements/hear\nhttps://www.essex.ac.uk/careers/documents/HEARfaqs.pdf",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 68
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU29",
+ "country": "Spain",
+ "institution": "Pompeu Fabra",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 263,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/universities/universitat-pompeu-fabra-barcelona",
+ "ukprn": "n.a.",
+ "index_row": 129,
+ "legacy_rows": [
+  {
+   "Country": "Spain",
+   "University": "Pompeu Fabra",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "HackLab",
+   "Administrative home": "University HackLab across three campuses",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students proposing collaborative projects; support/selection applies",
+   "Delivery / credit / practical activity": "Co-creation, self-learning and peer collaboration in technology, communication and digital arts, with staff support and possible project funding.",
+   "Basis for reach classification": "Cross-campus student workshop provision; university reach inferred, no faculty exclusion stated. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.upf.edu/web/hacklab\nhttps://www.upf.edu/en/web/hacklab/inici/-/asset_publisher/tlv3IC9E5ycz/content/id/157845280",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 156
+  }
+ ]
+}

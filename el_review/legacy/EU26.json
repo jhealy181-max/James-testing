@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU26",
+ "country": "Finland",
+ "institution": "Aalto",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 126,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 126,
+ "legacy_rows": [
+  {
+   "Country": "Finland",
+   "University": "Aalto",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Product Development Project (PdP)",
+   "Administrative home": "Aalto Design Factory",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Master’s students from all backgrounds; selection applies",
+   "Delivery / credit / practical activity": "Two-semester teams work from an industrial sponsor’s brief to a functioning prototype, culminating in a May gala.",
+   "Basis for reach classification": "Explicit all-background master’s eligibility; Engineering/Design/Business are common backgrounds, not exclusive eligibility.",
+   "Latest dated / current evidence": "October 2026 project launch confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.aalto.fi/en/collaborative-and-industrial-design/product-development-project\nhttps://www.aalto.fi/en/news/from-brief-to-prototype-in-six-hours-pd6-launches-pdp-projects",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 153
+  }
+ ]
+}

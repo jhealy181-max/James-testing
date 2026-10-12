@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG24",
+ "country": "UK",
+ "institution": "York",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 158,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007167",
+ "index_row": 30,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "York",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "York Interdisciplinary Modules",
+   "Administrative home": "York Interdisciplinary Modules",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students on eligible programmes",
+   "Delivery / credit / practical activity": "Optional modules connect disciplines beyond the main degree. Practical or external-partner content depends on the module; Sustainability Clinic is recorded separately.",
+   "Basis for reach classification": "University breadth framework; exact availability varies by degree.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://features.york.ac.uk/york-interdisciplinary-modules/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 30
+  },
+  {
+   "Country": "UK",
+   "University": "York",
+   "Academic reach": "Cross-faculty",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Sustainability Clinic",
+   "Administrative home": "Environment and Geography / participating courses",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students from participating degree programmes",
+   "Delivery / credit / practical activity": "20-credit live-client sustainability module combines disciplines to consider social, legal, economic, cultural and environmental aspects of problems.",
+   "Basis for reach classification": "Current module describes multidisciplinary teams from a range of courses; unrestricted every-degree eligibility not established.",
+   "Latest dated / current evidence": "2026/27 module confirmed",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/ENV00054H/latest",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 47
+  }
+ ]
+}

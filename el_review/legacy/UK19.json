@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK19",
+ "country": "UK",
+ "institution": "Stirling",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 560,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-stirling",
+ "ukprn": "10007804",
+ "index_row": 59,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Stirling",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "My Stirling Award",
+   "Administrative home": "Careers",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All undergraduate and postgraduate students",
+   "Delivery / credit / practical activity": "Recognises employment, volunteering, projects and wider activities. Undergraduate Bronze/Silver/Gold require 50/100/200 hours; postgraduate award requires 30 hours. Includes reflection and career preparation; transcript recognition.",
+   "Basis for reach classification": "Official eligibility explicitly includes all undergraduate and postgraduate students.",
+   "Latest dated / current evidence": "Official page says all levels open to enrol; intake year unlabelled",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.stir.ac.uk/student-life/careers/get-career-experience/my-stirling-award/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 72
+  }
+ ]
+}

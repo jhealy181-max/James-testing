@@ -1,0 +1,33 @@
+{
+ "inst_id": "US03",
+ "country": "US",
+ "institution": "Stanford",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 2,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 73,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Stanford",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Design for Extreme Affordability",
+   "Administrative home": "d.school; Engineering and Graduate School of Business",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Graduate students across all Stanford schools; application required",
+   "Delivery / credit / practical activity": "Two-quarter interdisciplinary course co-designs products/services with low-resource communities and social-impact partners.",
+   "Basis for reach classification": "Explicit all-school graduate eligibility; hosts do not restrict academic reach.",
+   "Latest dated / current evidence": "2026 application cycle confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://extreme.stanford.edu/event/extreme-2026-application-cycle-open/\nhttps://dschool.stanford.edu/study/elective-courses/design-for-extreme-affordability-2",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 92
+  }
+ ]
+}

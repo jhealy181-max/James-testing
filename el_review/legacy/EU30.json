@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU30",
+ "country": "Italy",
+ "institution": "Politecnico di Milano",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 87,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 130,
+ "legacy_rows": [
+  {
+   "Country": "Italy",
+   "University": "Politecnico di Milano",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Alta Scuola Politecnica (ASP)",
+   "Administrative home": "Joint Politecnico di Milano / Torino honours programme",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Selected master’s entrants in Engineering, Architecture and Design",
+   "Delivery / credit / practical activity": "Two-year interdisciplinary honours programme adds 30 credits alongside the master’s and develops innovation through collaborative projects. Published selection: 90 Milano and 60 Torino students.",
+   "Basis for reach classification": "Covers the institution’s three principal academic areas; selective university-level honours programme, not every student.",
+   "Latest dated / current evidence": "Official programme page; intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.deib.polimi.it/eng/asp-programme",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 157
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG21",
+ "country": "UK",
+ "institution": "Southampton",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 111,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007158",
+ "index_row": 27,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Southampton",
+   "Academic reach": "Programme/course",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Industry Consultancy Projects",
+   "Administrative home": "Centre for Risk Research",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Relevant Risk Research master’s programmes",
+   "Delivery / credit / practical activity": "Students work on industry consultancy projects. This is a specialist example rather than a university-wide common course.",
+   "Basis for reach classification": "Specialist programme project evidence; not university-wide.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-risk-research-crr/industry-consultancy-projects",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 27
+  },
+  {
+   "Country": "UK",
+   "University": "Southampton",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Student Innovation Projects and Challenges",
+   "Administrative home": "Careers, Employability and Student Enterprise",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible Southampton students across disciplines",
+   "Delivery / credit / practical activity": "Teams of three to five tackle live client problems for businesses or nonprofits. Project route will end after Semester 1 of 2026/27; Innovation Challenge is also described.",
+   "Basis for reach classification": "Central cross-disciplinary opportunity; admissions apply. Scheduled ending must not be mistaken for ongoing indefinite provision.",
+   "Latest dated / current evidence": "Final project rounds Semester 1 2026/27",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.southampton.ac.uk/careers/students/work-experience/student-innovation-projects.page",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Ending",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 43
+  }
+ ]
+}

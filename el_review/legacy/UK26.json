@@ -1,0 +1,52 @@
+{
+ "inst_id": "UK26",
+ "country": "UK",
+ "institution": "Portsmouth",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 662,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-portsmouth",
+ "ukprn": "10007155",
+ "index_row": 66,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Portsmouth",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Business Consultancy Projects",
+   "Administrative home": "Business and Law / business consultancy",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Final-year business undergraduates; separate MBA route",
+   "Delivery / credit / practical activity": "Teams work for approximately ten weeks on an organisational challenge, supported by academic advisers and weekly consultancy seminars, then present recommendations.",
+   "Basis for reach classification": "Business-specific student teams; MBA route is separately programme-specific.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.port.ac.uk/business-consultancy-projects-bcp",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 82
+  },
+  {
+   "Country": "UK",
+   "University": "Portsmouth",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Student Startup / Entrepreneurial Collective",
+   "Administrative home": "Careers and Employability",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All Portsmouth students and graduates",
+   "Delivery / credit / practical activity": "Enterprise programmes, mentoring, founder community and support for testing business ideas, freelancing and startups.",
+   "Basis for reach classification": "Official student page explicitly describes a community for all students and graduates.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://myport.port.ac.uk/my-course/careers-support/student-startup-support",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 83
+  }
+ ]
+}

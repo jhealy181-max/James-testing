@@ -1,0 +1,33 @@
+{
+ "inst_id": "US01",
+ "country": "US",
+ "institution": "Massachusetts Institute of Technology",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 1,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 71,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Massachusetts Institute of Technology",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Undergraduate Research Opportunities Program (UROP)",
+   "Administrative home": "Division of Graduate and Undergraduate Education",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "MIT undergraduates; project and funding selection applies",
+   "Delivery / credit / practical activity": "Faculty-supervised original research across the Institute; paid, academic-credit and volunteer routes.",
+   "Basis for reach classification": "Institute-wide central research programme; department/project prerequisites apply.",
+   "Latest dated / current evidence": "2026/27 deadlines confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://urop.mit.edu/\nhttps://urop.mit.edu/students/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 90
+  }
+ ]
+}

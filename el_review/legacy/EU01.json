@@ -1,0 +1,52 @@
+{
+ "inst_id": "EU01",
+ "country": "France",
+ "institution": "PSL",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 34,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 101,
+ "legacy_rows": [
+  {
+   "Country": "France",
+   "University": "PSL",
+   "Academic reach": "Cross-faculty",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "PSL Weeks",
+   "Administrative home": "PSL constituent schools",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students in participating schools and degree years",
+   "Delivery / credit / practical activity": "Interdisciplinary immersion weeks expose students to new disciplines and collaborative projects. Some engineering weeks specify ESPCI, Chimie Paris, MINES and CPES year groups.",
+   "Basis for reach classification": "Published examples involve named constituent schools; no proof every PSL school/student can access every week.",
+   "Latest dated / current evidence": "Official programme page; intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://psl.eu/en/education/keys-academic-success/student-mobility\nhttps://psl.eu/en/education/enamoma-psl-life-masters-program",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 125
+  },
+  {
+   "Country": "France",
+   "University": "PSL",
+   "Academic reach": "Programme/course",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "ENAMOMA-PSL partner projects",
+   "Administrative home": "ENAMOMA master’s programme",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "Students enrolled in the ENAMOMA master’s",
+   "Delivery / credit / practical activity": "Ten-week interdisciplinary design/engineering/management teams develop professional-level outputs for external partners with tutors and progress reviews.",
+   "Basis for reach classification": "Specific master’s curriculum, not the whole PSL university.",
+   "Latest dated / current evidence": "Official project page; intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://psl.eu/en/education/enamoma-psl-students-projects",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 126
+  }
+ ]
+}

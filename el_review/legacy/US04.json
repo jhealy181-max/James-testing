@@ -1,0 +1,33 @@
+{
+ "inst_id": "US04",
+ "country": "US",
+ "institution": "California Institute of Technology",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 7,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 74,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "California Institute of Technology",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Summer Undergraduate Research Fellowships (SURF)",
+   "Administrative home": "Student–Faculty Programs",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Continuing undergraduates; GPA and registration requirements; visiting students also eligible",
+   "Delivery / credit / practical activity": "Mentored summer research; students develop a research proposal and undertake an original project. Selective funded fellowship, not a compulsory degree element.",
+   "Basis for reach classification": "Central undergraduate programme with no faculty restriction in published eligibility.",
+   "Latest dated / current evidence": "Official eligibility page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://sfp.caltech.edu/undergraduate-research/programs/surf/eligibility_requirements\nhttps://www.admissions.caltech.edu/why-caltech/research",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 93
+  }
+ ]
+}

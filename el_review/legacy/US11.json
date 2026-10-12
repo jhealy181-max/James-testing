@@ -1,0 +1,52 @@
+{
+ "inst_id": "US11",
+ "country": "US",
+ "institution": "Columbia",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 43,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 81,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Columbia",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "The Art of Engineering",
+   "Administrative home": "School of Engineering and Applied Science",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "First-year Engineering students",
+   "Delivery / credit / practical activity": "Engineering core introduces design, technical concepts, ethics and project management through applied work.",
+   "Basis for reach classification": "2025/26 bulletin identifies requirement for first-year Engineering, not every Columbia student.",
+   "Latest dated / current evidence": "2025/26 bulletin confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://bulletin.columbia.edu/columbia-engineering/bulletin-pdf/Bulletin_2025-2026_PDF_with_cover_page_.pdf",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 100
+  },
+  {
+   "Country": "US",
+   "University": "Columbia",
+   "Academic reach": "Cross-faculty",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Columbia Startup Lab Morningside",
+   "Administrative home": "Columbia Entrepreneurship",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Enrolled students at participating schools listed on scheme page",
+   "Delivery / credit / practical activity": "Founder community, networking and venture-building support. Graduate and undergraduate students from numerous named schools can join.",
+   "Basis for reach classification": "Published agreements cover many named schools but do not establish every-school eligibility; classified cross-faculty.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://entrepreneurship.columbia.edu/resources/columbia-startup-lab-csl-uptown-2/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 101
+  }
+ ]
+}

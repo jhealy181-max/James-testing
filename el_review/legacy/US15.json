@@ -1,0 +1,33 @@
+{
+ "inst_id": "US15",
+ "country": "US",
+ "institution": "Duke",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 70,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 85,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Duke",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Bass Connections",
+   "Administrative home": "University-wide interdisciplinary initiative",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduate and graduate/professional students; project selection",
+   "Delivery / credit / practical activity": "Faculty-led teams investigate societal challenges, often over an academic year with external partners. Credit and workload depend on team/course.",
+   "Basis for reach classification": "Official programme engages faculty and students across Duke and study levels.",
+   "Latest dated / current evidence": "2027/28 project call and 2025/26 report confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://bassconnections.duke.edu/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 105
+  }
+ ]
+}

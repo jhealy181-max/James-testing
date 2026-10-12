@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG23",
+ "country": "UK",
+ "institution": "Warwick",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 68,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007163",
+ "index_row": 29,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Warwick",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "IATL undergraduate modules",
+   "Administrative home": "Institute for Advanced Teaching and Learning",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduates with approval / available optional credits",
+   "Delivery / credit / practical activity": "Interdisciplinary and transdisciplinary modules support collaborative learning. Live partner involvement varies.",
+   "Basis for reach classification": "Cross-faculty institute provides a university-level elective framework.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://warwick.ac.uk/fac/cross_fac/iatl/study/iatlugmodules/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 29
+  }
+ ]
+}

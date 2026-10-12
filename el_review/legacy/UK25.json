@@ -1,0 +1,52 @@
+{
+ "inst_id": "UK25",
+ "country": "UK",
+ "institution": "Northumbria",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 528,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/northumbria-university-newcastle",
+ "ukprn": "10001282",
+ "index_row": 65,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Northumbria",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Business Clinic",
+   "Administrative home": "Newcastle Business School",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Business School undergraduate and postgraduate students",
+   "Delivery / credit / practical activity": "Student consultancy teams advise organisations on live problems. Clients include SMEs, charities and larger businesses; module/degree requirements vary.",
+   "Basis for reach classification": "Official evidence specifies Business School students, not a university-wide core.",
+   "Latest dated / current evidence": "2024 award evidence / official course page",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.northumbria.ac.uk/about-us/news-events/news/prestigious-award-for-business-clinic/\nhttps://www.northumbria.ac.uk/about-us/news-events/news/business-clinic-hits-key-milestones/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 80
+  },
+  {
+   "Country": "UK",
+   "University": "Northumbria",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Student and Graduate Enterprise / Innovation Northumbria Incubator",
+   "Administrative home": "Central enterprise team",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Current students and graduates up to five years after graduation",
+   "Delivery / credit / practical activity": "Workshops, interactive events, specialist advisers and incubator workspace support testing and developing business ideas.",
+   "Basis for reach classification": "Central service explicitly available to current students and eligible graduates; no school restriction stated.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.northumbria.ac.uk/study-at-northumbria/student-graduate-enterprise/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 81
+  }
+ ]
+}

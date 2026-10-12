@@ -1,0 +1,33 @@
+{
+ "inst_id": "US21",
+ "country": "US",
+ "institution": "California San Diego",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 81,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 91,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "California San Diego",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Global TIES",
+   "Administrative home": "Jacobs School of Engineering / Global Sustainable Development",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students across major disciplines; project prerequisites apply",
+   "Delivery / credit / practical activity": "Interdisciplinary teams co-create engineering and technology solutions with nonprofits and NGOs locally and internationally.",
+   "Basis for reach classification": "Official college guidance says students from any major discipline can use Global TIES for breadth requirements.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://cgsd.ucsd.edu/\nhttps://hh-marshall.ucsd.edu/academics/academic-opportunities/index.html",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 113
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU13",
+ "country": "Netherlands",
+ "institution": "Amsterdam",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 60,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 113,
+ "legacy_rows": [
+  {
+   "Country": "Netherlands",
+   "University": "Amsterdam",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Institute for Interdisciplinary Studies (IIS) electives",
+   "Administrative home": "IIS",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students and staff from any UvA faculty; external/contract students also possible",
+   "Delivery / credit / practical activity": "Interdisciplinary electives explore societal questions; practical inquiry and project content depend on the course. Separate research minors involve multidisciplinary projects.",
+   "Basis for reach classification": "Explicit any-faculty eligibility; do not treat every elective as experiential client work.",
+   "Latest dated / current evidence": "2026/27 course listing confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://iis.uva.nl/en/degree-programmes-courses/iis-courses/iis-courses.html",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 139
+  }
+ ]
+}

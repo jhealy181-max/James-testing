@@ -1,0 +1,33 @@
+{
+ "inst_id": "US09",
+ "country": "US",
+ "institution": "Yale",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 16,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 79,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Yale",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Tsai CITY Accelerator",
+   "Administrative home": "Tsai Center for Innovative Thinking",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Yale student-led teams; venture-stage selection applies",
+   "Delivery / credit / practical activity": "Semester-long venture development with workshops, mentors, experts and funding; supports commercial, civic, arts and nonprofit projects.",
+   "Basis for reach classification": "Central programme supports students across Yale; not a curricular requirement.",
+   "Latest dated / current evidence": "Official programme page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://city.yale.edu/programs/vdp_accelerator\nhttps://city.yale.edu/student-projects",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 98
+  }
+ ]
+}

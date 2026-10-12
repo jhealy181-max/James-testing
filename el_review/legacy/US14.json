@@ -1,0 +1,33 @@
+{
+ "inst_id": "US14",
+ "country": "US",
+ "institution": "California Los Angeles",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 49,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 84,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "California Los Angeles",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Community Engagement and Social Change minor",
+   "Administrative home": "Center for Community Engagement",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduates in any major; GPA and declaration criteria",
+   "Delivery / credit / practical activity": "Interdisciplinary study integrates sustained community engagement with reflection on social change; optional minor complements any major.",
+   "Basis for reach classification": "Explicit any-major eligibility; compulsory activities only after choosing the minor.",
+   "Latest dated / current evidence": "August 2026 information sessions confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://communityengagement.ucla.edu/programs/community-engagement-and-social-change-minor/1000/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 104
+  }
+ ]
+}

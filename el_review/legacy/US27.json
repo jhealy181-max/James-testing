@@ -1,0 +1,33 @@
+{
+ "inst_id": "US27",
+ "country": "US",
+ "institution": "Washington",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 92,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 97,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Washington",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "Undergraduate Community-Based Internship Program",
+   "Administrative home": "Community Engagement and Leadership Education (CELE)",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible undergraduates; competitive selection",
+   "Delivery / credit / practical activity": "Paid internships with nonprofits and public-sector organisations, customised learning plans and structured support for public-service career exploration.",
+   "Basis for reach classification": "Central undergraduate community-engagement provision; university reach inferred, specific eligibility should be checked. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "2025 evidence; current intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://www.washington.edu/uaa/2025/02/18/funding-opportunities/\nhttps://www.washington.edu/uaa/scholarships-and-funding/",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 119
+  }
+ ]
+}

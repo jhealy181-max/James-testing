@@ -1,0 +1,33 @@
+{
+ "inst_id": "US06",
+ "country": "US",
+ "institution": "Chicago",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 24,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 76,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Chicago",
+   "Academic reach": "University-wide",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "Jeff Metcalf Internship Program / Metcalf Sprints",
+   "Administrative home": "Career Advancement",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "College undergraduates across majors",
+   "Delivery / credit / practical activity": "Paid substantive internships across industries and countries. Project-based Sprints involve undergraduate teams producing deliverables for employer partners.",
+   "Basis for reach classification": "Central undergraduate career scheme across majors; excludes a claim of graduate-wide eligibility.",
+   "Latest dated / current evidence": "2026/27 internship label confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://careeradvancement.uchicago.edu/student-opportunities/internships/internship-programs/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 95
+  }
+ ]
+}

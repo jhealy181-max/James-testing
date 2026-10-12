@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG10",
+ "country": "UK",
+ "institution": "King’s College London",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 37,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10003645",
+ "index_row": 16,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "King’s College London",
+   "Academic reach": "Programme/course",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Business Experience Project",
+   "Administrative home": "King’s Business School",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "International Management MSc students",
+   "Delivery / credit / practical activity": "A business-school example of experiential study. Not a compulsory university-wide scheme.",
+   "Basis for reach classification": "Specific taught master’s route; project/internship structure follows programme requirements.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc/teaching",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 16
+  },
+  {
+   "Country": "UK",
+   "University": "King’s College London",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "King’s Enterprise Award",
+   "Administrative home": "Entrepreneurship Institute / King’s Experience",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All undergraduate and postgraduate students and staff, any faculty",
+   "Delivery / credit / practical activity": "November–April extracurricular skills development and reflection, with optional Enterprise in Action progression. HEAR recognition; no academic-credit value.",
+   "Basis for reach classification": "Explicit all-faculty/all-student-level eligibility.",
+   "Latest dated / current evidence": "2026/27 applications confirmed",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.kcl.ac.uk/entrepreneurship/learn-entrepreneurial-skills/kings-enterprise-award",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 42
+  }
+ ]
+}

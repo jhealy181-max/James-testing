@@ -1,0 +1,52 @@
+{
+ "inst_id": "UK21",
+ "country": "UK",
+ "institution": "Birkbeck",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 354,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/birkbeck-university-london",
+ "ukprn": "10007760",
+ "index_row": 61,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Birkbeck",
+   "Academic reach": "Cross-faculty",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "Micro-placement, CASC002H5",
+   "Administrative home": "Academic programmes / placements",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Participating degrees including Computing and Health and Social Care",
+   "Delivery / credit / practical activity": "Short placement or professional project, preparation workshops and reflective assessment. 15 credits: optional in Data Science and Computing; compulsory in the named Health and Social Care route.",
+   "Basis for reach classification": "Two programme specifications establish cross-faculty use, not availability on every degree.",
+   "Latest dated / current evidence": "2024/25 and 2025/26 specifications",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.bbk.ac.uk/courses/module/CASC002H5\nhttps://www.bbk.ac.uk/documents/programme-specification-2025-26-bsc-health-and-social-care-incl-with-foundation-year.pdf",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 74
+  },
+  {
+   "Country": "UK",
+   "University": "Birkbeck",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Pioneer Programme",
+   "Administrative home": "Careers and Enterprise",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Birkbeck students and graduates interested in enterprise",
+   "Delivery / credit / practical activity": "Extracurricular workshops, founder guidance and business development alongside study. Current programme page sets an October 2026 selection timetable.",
+   "Basis for reach classification": "Central programme; earlier official description explicitly includes any Birkbeck student.",
+   "Latest dated / current evidence": "2026 intake confirmed",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.bbk.ac.uk/student-services/careers-and-enterprise/start-a-business\nhttps://www.bbk.ac.uk/news/birkbeck-and-santander-universities-celebrate-creating-accessible-pathways-to-entrepreneurship-2",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 75
+  }
+ ]
+}

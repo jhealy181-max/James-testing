@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK10",
+ "country": "UK",
+ "institution": "Strathclyde",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 230,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-strathclyde",
+ "ukprn": "10007805",
+ "index_row": 50,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Strathclyde",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Vertically Integrated Projects for Sustainable Development",
+   "Administrative home": "University VIP4SD programme",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students in participating degrees and project teams",
+   "Delivery / credit / practical activity": "Multidisciplinary, multiyear student research addresses UN Sustainable Development Goals; teams integrate different study levels. Curricular credit depends on the degree.",
+   "Basis for reach classification": "University framework with course-specific eligibility; do not infer every degree participates.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.strath.ac.uk/studywithus/verticallyintegratedprojectsforsustainabledevelopment/abouttheprogramme/\nhttps://www.strath.ac.uk/studywithus/verticallyintegratedprojectsforsustainabledevelopment/ourprojects/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 63
+  }
+ ]
+}

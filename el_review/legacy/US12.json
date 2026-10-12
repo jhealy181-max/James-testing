@@ -1,0 +1,52 @@
+{
+ "inst_id": "US12",
+ "country": "US",
+ "institution": "Johns Hopkins",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 20,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 82,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Johns Hopkins",
+   "Academic reach": "Programme/course",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "BME Undergraduate Design Team",
+   "Administrative home": "Biomedical Engineering",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Biomedical Engineering undergraduates",
+   "Delivery / credit / practical activity": "Longitudinal teams identify clinical needs, prototype and test devices with clinical and industry mentors; published curriculum describes an 18-month process.",
+   "Basis for reach classification": "Specific BME degree cohort; no evidence of open access across all university programmes.",
+   "Latest dated / current evidence": "Official curriculum page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://www.bme.jhu.edu/academics/bme-design/undergraduate-design-team/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 102
+  },
+  {
+   "Country": "US",
+   "University": "Johns Hopkins",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Pava Center: Spark / Fuel accelerators",
+   "Administrative home": "Pava Marie LaPere Center for Entrepreneurship",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Student venture teams with at least one eligible current JHU student co-founder",
+   "Delivery / credit / practical activity": "Structured venture development, mentoring and Demo Day; Fuel requires at least ten hours weekly. Completion can lead to grant stipends and competition funding.",
+   "Basis for reach classification": "Central student entrepreneurship eligibility is not restricted to BME; individual stage/ownership criteria apply.",
+   "Latest dated / current evidence": "December 2026 next application cycle confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://pavacenter.jhu.edu/programs/student-programs/fuel/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 123
+  }
+ ]
+}

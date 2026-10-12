@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG19",
+ "country": "UK",
+ "institution": "Queen’s University Belfast",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 174,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10005343",
+ "index_row": 25,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Queen’s University Belfast",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Future-Ready Award",
+   "Administrative home": "Central Future-Ready Award",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Undergraduate and postgraduate students",
+   "Delivery / credit / practical activity": "Recognises work experience, volunteering and other activities. Official page reports 1,000+ awards per year and 100+ accredited activities.",
+   "Basis for reach classification": "Central university recognition with both-level eligibility.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.qub.ac.uk/directorates/future-ready-award/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 25
+  }
+ ]
+}

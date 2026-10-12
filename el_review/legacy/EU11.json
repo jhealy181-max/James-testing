@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU11",
+ "country": "Germany",
+ "institution": "Humboldt Berlin",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 140,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 111,
+ "legacy_rows": [
+  {
+   "Country": "Germany",
+   "University": "Humboldt Berlin",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Q-Teams",
+   "Administrative home": "bologna.lab / Q-Programme",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Bachelor’s and master’s students; team-specific subject preparation",
+   "Delivery / credit / practical activity": "Small research teams supervised by doctoral/postdoctoral researchers develop questions, undertake research and present outputs over one or two semesters.",
+   "Basis for reach classification": "Central university research-learning framework; individual Q-Teams may restrict disciplines.",
+   "Latest dated / current evidence": "2026 course example; framework documents older",
+   "Cohort": "EU sample",
+   "Primary sources": "https://bolognalab.hu-berlin.de/en/q-team/call-for-applications/call-for-applications-q-teams_wise22-23.pdf/@@download/file/Call%20for%20Applications%20Q-Teams_WiSe22-23.pdf\nhttps://agnes.hu-berlin.de/lupo/rds?moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&publishid=225583&state=verpublish&status=init&vmfile=no",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 137
+  }
+ ]
+}

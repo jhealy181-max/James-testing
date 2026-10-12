@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK05",
+ "country": "UK",
+ "institution": "Aberdeen",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 288,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/universities/university-aberdeen",
+ "ukprn": "10007783",
+ "index_row": 45,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Aberdeen",
+   "Academic reach": "University-wide",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "ABDN Internships",
+   "Administrative home": "Careers and Employability",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All current full-degree undergraduate and postgraduate students, any subject/year; visa and prior-internship exclusions",
+   "Delivery / credit / practical activity": "Paid part-time internships in university departments and external employers. 2026/27 includes seven-week employer projects and 24-week university roles, normally ten hours weekly. Competitive recruitment; registration required throughout.",
+   "Basis for reach classification": "Published eligibility explicitly covers all subjects and years, at both undergraduate and postgraduate levels.",
+   "Latest dated / current evidence": "2026/27 opportunities confirmed; Term 1 applications closed 7 October 2026",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.abdn.ac.uk/careers/experience/abdn-internships/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 57
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK02",
+ "country": "UK",
+ "institution": "St Andrews",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 115,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007803",
+ "index_row": 42,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "St Andrews",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Vertically Integrated Projects (VIP)",
+   "Administrative home": "Central education / VIP teams",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students from Arts and Science; different study levels",
+   "Delivery / credit / practical activity": "Long-running research teams combine students across years and disciplines. Credit options include 5, 10 and 20 credits, subject to regulations.",
+   "Basis for reach classification": "Explicit Arts and Science eligibility; elective rather than universal requirement.",
+   "Latest dated / current evidence": "2026/27 applications confirmed",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.st-andrews.ac.uk/education/vip/\nhttps://www.st-andrews.ac.uk/education/vip/credits/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 54
+  }
+ ]
+}

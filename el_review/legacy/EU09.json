@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU09",
+ "country": "Germany",
+ "institution": "RWTH Aachen",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 104,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 109,
+ "legacy_rows": [
+  {
+   "Country": "Germany",
+   "University": "RWTH Aachen",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Project Leonardo",
+   "Administrative home": "Central interdisciplinary teaching / partner departments",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "All RWTH students, any degree programme or semester",
+   "Delivery / credit / practical activity": "Interdisciplinary courses address global challenges; experiential options include theatre, sustainability and clinical perspectives. Credit depends on course and degree approval.",
+   "Basis for reach classification": "Explicit all-programme/all-semester eligibility; not every course is a live external-client project.",
+   "Latest dated / current evidence": "Winter 2026/27 catalogue confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.leonardo.rwth-aachen.de/en/homepage/\nhttps://www.leonardo.rwth-aachen.de/en/the-project/leonardo-for-lecturers/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 135
+  }
+ ]
+}

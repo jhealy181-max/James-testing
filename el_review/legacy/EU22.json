@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU22",
+ "country": "Denmark",
+ "institution": "Aarhus",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 128,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 122,
+ "legacy_rows": [
+  {
+   "Country": "Denmark",
+   "University": "Aarhus",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Aarhus Case Competition: Game of Consultancy",
+   "Administrative home": "Student-run ACC / university enterprise ecosystem",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "All Aarhus students for Game of Consultancy; other tracks have separate eligibility",
+   "Delivery / credit / practical activity": "Time-limited business case solving with consulting partners; workshops and pitching develop applied teamwork and problem solving.",
+   "Basis for reach classification": "Organiser explicitly opens Game of Consultancy to all Aarhus students; do not generalise to every competition track.",
+   "Latest dated / current evidence": "March 2026 event confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.aarhuscasecompetition.com/game-of-consultancy\nhttps://www.aarhuscasecompetition.com/about",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 149
+  }
+ ]
+}

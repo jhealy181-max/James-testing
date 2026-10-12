@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK07",
+ "country": "UK",
+ "institution": "Surrey",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 246,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-surrey",
+ "ukprn": "10007160",
+ "index_row": 47,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Surrey",
+   "Academic reach": "University-wide",
+   "Learning model": "Placement/WIL",
+   "Scheme / framework": "Professional Training placements",
+   "Administrative home": "Central placements / academic departments",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Undergraduates on eligible degrees; almost every course has an option",
+   "Delivery / credit / practical activity": "Up to one year of work experience with UK or overseas organisations. University network includes more than 2,000 partner organisations; degree assessment and availability vary.",
+   "Basis for reach classification": "Institutional framework across almost every course; not compulsory for all students.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.surrey.ac.uk/professional-training-placements/ug-courses-placements",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 59
+  }
+ ]
+}

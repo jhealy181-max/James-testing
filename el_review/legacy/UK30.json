@@ -1,0 +1,52 @@
+{
+ "inst_id": "UK30",
+ "country": "UK",
+ "institution": "Plymouth",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 691,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-plymouth",
+ "ukprn": "10007801",
+ "index_row": 70,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Plymouth",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Inspiring Futures",
+   "Administrative home": "Faculty of Arts, Humanities and Business",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Faculty students on participating programmes",
+   "Delivery / credit / practical activity": "Curricular knowledge exchange and consultancy with businesses and charities apply subject knowledge to real organisational challenges.",
+   "Basis for reach classification": "Official scheme explicitly names one faculty; not evidence of a compulsory university-wide programme.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.plymouth.ac.uk/schools/plymouth-business-school/inspiring-futures",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 88
+  },
+  {
+   "Country": "UK",
+   "University": "Plymouth",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "The Cube: student enterprise support",
+   "Administrative home": "Student Enterprise / Research and Innovation",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students and graduates; detailed programme eligibility varies",
+   "Delivery / credit / practical activity": "Advice, funding and founder support help develop ideas, business models and ventures. Staff service Cube² is separate.",
+   "Basis for reach classification": "Central student-enterprise service; university reach inferred, individual programme admissions not verified. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.plymouth.ac.uk/about-us/university-structure/service-areas/research-and-innovation/the-cube",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 89
+  }
+ ]
+}

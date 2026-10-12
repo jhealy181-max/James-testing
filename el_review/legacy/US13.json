@@ -1,0 +1,33 @@
+{
+ "inst_id": "US13",
+ "country": "US",
+ "institution": "Michigan Ann Arbor",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 51,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 83,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Michigan Ann Arbor",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Multidisciplinary Design Program (MDP)",
+   "Administrative home": "College of Engineering",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "All undergraduate and master’s students across the university",
+   "Delivery / credit / practical activity": "Credit-bearing faculty research, year-long industry-sponsored projects and student design teams; optional multidisciplinary design minor.",
+   "Basis for reach classification": "Explicit university-wide eligibility despite Engineering administrative home.",
+   "Latest dated / current evidence": "Official eligibility page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://mdp.engin.umich.edu/about-mdp/\nhttps://mdp.engin.umich.edu/start-here/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 103
+  }
+ ]
+}

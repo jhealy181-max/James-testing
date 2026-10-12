@@ -1,0 +1,52 @@
+{
+ "inst_id": "EU07",
+ "country": "Germany",
+ "institution": "LMU Munich",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 61,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 107,
+ "legacy_rows": [
+  {
+   "Country": "Germany",
+   "University": "LMU Munich",
+   "Academic reach": "Programme/course",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "el mundo: sustainability in teacher education",
+   "Administrative home": "Teacher-education certificate / Geography",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Teacher-training students across school types and subject combinations",
+   "Delivery / credit / practical activity": "45-ECTS certificate integrates sustainability, field trips, service learning and partnerships beyond university; programme complements teacher training.",
+   "Basis for reach classification": "Specific teacher-education certificate cohort; broad subject combinations do not make it university-wide.",
+   "Latest dated / current evidence": "Official certificate page; intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.geo.lmu.de/elmundo/en/infoboxen.html",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 132
+  },
+  {
+   "Country": "Germany",
+   "University": "LMU Munich",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "impACTup!: Innovation and Entrepreneurship for Better Futures",
+   "Administrative home": "LMU Innovation & Entrepreneurship Center",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "All faculties, levels and study programmes",
+   "Delivery / credit / practical activity": "Online applied innovation course develops impact-enterprise skills, with ECTS and/or certificate options; foundational syllabus describes 3 ECTS.",
+   "Basis for reach classification": "Explicit all-faculty eligibility complements the restricted teacher-education example.",
+   "Latest dated / current evidence": "Winter 2026/27 Moodle course confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://moodle.lmu.de/course/index.php?categoryid=3592&lang=en\nhttps://cms-cdn.lmu.de/media/lmu/downloads/international/studium/ws25-26_syllabus_impactup_foundational_course_ss25_vhb_eugloh-students.pdf",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 133
+  }
+ ]
+}

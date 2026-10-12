@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU23",
+ "country": "Sweden",
+ "institution": "Lund",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 71,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 123,
+ "legacy_rows": [
+  {
+   "Country": "Sweden",
+   "University": "Lund",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "VentureLab",
+   "Administrative home": "LU Innovation; co-funded by faculties",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students and recent graduates; innovation advice open to all students/researchers",
+   "Delivery / credit / practical activity": "Idea counselling, venture-development programme, incubator workspace and founder community support testing and developing student ventures.",
+   "Basis for reach classification": "Official university innovation page explicitly all-student reach; incubator selection applies.",
+   "Latest dated / current evidence": "2026 events / August 2026 page update",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.innovation.lu.se/en/node/902\nhttps://www.innovation.lu.se/en/students",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 150
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK03",
+ "country": "UK",
+ "institution": "Lancaster",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 164,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007768",
+ "index_row": 43,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Lancaster",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Lancaster Award",
+   "Administrative home": "Careers",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students completing activities alongside their degree",
+   "Delivery / credit / practical activity": "Recognises work experience, community engagement, skills workshops and reflective evidence. December 2025 graduation information records more than 900 registrations and 200 completions in the preceding year.",
+   "Basis for reach classification": "Central student award; university reach inferred from careers provision, exact degree-level eligibility not stated in retrieved source. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "2025 evidence; next intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.lancaster.ac.uk/graduation-programme/",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 55
+  }
+ ]
+}

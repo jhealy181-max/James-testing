@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK22",
+ "country": "UK",
+ "institution": "Royal Holloway",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 485,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/royal-holloway-university-london",
+ "ukprn": "10005553",
+ "index_row": 62,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Royal Holloway",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Royal Holloway Volunteer Awards",
+   "Administrative home": "Volunteering / central student experience",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students undertaking community volunteering",
+   "Delivery / credit / practical activity": "Community placements with more than 100 partners; 2026 awards recognise 30, 50 and 100 hours of volunteering.",
+   "Basis for reach classification": "Central volunteering recognition rather than a faculty curriculum.",
+   "Latest dated / current evidence": "2025/26 awards confirmed",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://intranet.royalholloway.ac.uk/students/campus-life/volunteering/the-royal-holloway-volunteer-awards-2026.aspx\nhttps://www.royalholloway.ac.uk/student-life/being-a-student/volunteering-at-royal-holloway/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 76
+  }
+ ]
+}

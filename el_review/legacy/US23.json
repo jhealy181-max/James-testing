@@ -1,0 +1,33 @@
+{
+ "inst_id": "US23",
+ "country": "US",
+ "institution": "Illinois Urbana-Champaign",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 74,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 93,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Illinois Urbana-Champaign",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "iVenture Accelerator",
+   "Administrative home": "Gies College of Business",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Founders from any area of study; majority student ownership and full-time summer commitment",
+   "Delivery / credit / practical activity": "Ten-week summer venture sprint followed by academic-year support, workshops, advisers and stipends. Teams develop commercial, social, cultural and technology ventures.",
+   "Basis for reach classification": "Explicit any-area-of-study eligibility; Business School host does not restrict reach.",
+   "Latest dated / current evidence": "2026 applications and cohort confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://iventure.illinois.edu/apply\nhttps://giesbusiness.illinois.edu/news/2026/06/24/iventure-cohort-12-building-the-future-with-artificial-intelligence",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 115
+  }
+ ]
+}

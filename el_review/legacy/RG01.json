@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG01",
+ "country": "UK",
+ "institution": "Birmingham",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 68,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10006840",
+ "index_row": 7,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Birmingham",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Birmingham Project",
+   "Administrative home": "Careers / Birmingham Project",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "First-year students across disciplines",
+   "Delivery / credit / practical activity": "One-week interdisciplinary teams address employer and academic challenges.",
+   "Basis for reach classification": "Central interdisciplinary student programme; application-based.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://intranet.birmingham.ac.uk/student/careers/skills-development/birmingham-project/index.aspx",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 7
+  }
+ ]
+}

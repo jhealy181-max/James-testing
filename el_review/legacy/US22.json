@@ -1,0 +1,33 @@
+{
+ "inst_id": "US22",
+ "country": "US",
+ "institution": "Brown",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 66,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 92,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Brown",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Community-Based Learning and Research (CBLR)",
+   "Administrative home": "The College / community-engaged course network",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduates on eligible courses",
+   "Delivery / credit / practical activity": "Courses combine community partnerships, field experience, reflection and outputs shared with partners. Fall 2026 list spans numerous departments.",
+   "Basis for reach classification": "Central curricular designation across disciplines; course prerequisites may limit access.",
+   "Latest dated / current evidence": "Fall 2026 catalogue confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://bulletin.brown.edu/the-college/curricular-programs/\nhttps://college.brown.edu/design-your-education/explore-open-curriculum/course-selection/course-options/cblr",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 114
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG20",
+ "country": "UK",
+ "institution": "Sheffield",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 82,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007157",
+ "index_row": 26,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Sheffield",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Global Engineering Challenge / Engineering: You’re Hired!",
+   "Administrative home": "Faculty of Engineering",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "First- and second-year Engineering students",
+   "Delivery / credit / practical activity": "First- and second-year multidisciplinary project weeks. In 2026, GEC involved 1,547 first-year students in 258 teams.",
+   "Basis for reach classification": "Faculty curriculum: GEC and Engineering: You’re Hired! have the same faculty reach.",
+   "Latest dated / current evidence": "2026 project weeks confirmed",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://sheffield.ac.uk/engineering/diamond-engineering/engineering-project-weeks-2026-learning-through-real-life-challenges",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 26
+  },
+  {
+   "Country": "UK",
+   "University": "Sheffield",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Emerge: Be enterprising",
+   "Administrative home": "Central Entrepreneurship team / Start-up Studio",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students, staff and graduates; pathway and competition selection applies",
+   "Delivery / credit / practical activity": "Hands-on Idea Bootcamp, Apprentice Challenge, founder pathways, workshops, mentoring and Business Awards Showcase support venture development. The competition is explicitly university-wide.",
+   "Basis for reach classification": "August 2026 university account confirms delivery across all areas of the university community and a university-wide competition; Engineering project weeks remain a separate faculty example.",
+   "Latest dated / current evidence": "August 2026 programme activity confirmed",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://sheffield.ac.uk/entrepreneurship/about-us\nhttps://sheffield.ac.uk/entrepreneurship/news/emerge-be-enterprising-marks-3-year-milestone-ps14m-investment-and-national-enterprise-award",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 50
+  }
+ ]
+}

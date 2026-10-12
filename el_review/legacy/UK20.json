@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK20",
+ "country": "UK",
+ "institution": "SOAS",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 458,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/soas-university-london",
+ "ukprn": "10007780",
+ "index_row": 60,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "SOAS",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "SOAS Virtual Industry Project",
+   "Administrative home": "Careers / Practera",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Second- and final-year undergraduates; limited places",
+   "Delivery / credit / practical activity": "Two-week virtual consultancy in interdisciplinary teams responding to a live employer brief, with a final report. Scheme page describes 100 places annually.",
+   "Basis for reach classification": "Eligibility stated by year rather than faculty; open across undergraduate disciplines.",
+   "Latest dated / current evidence": "2025 participant evidence; current intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.soas.ac.uk/soas-virtual-industry-project",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 73
+  }
+ ]
+}

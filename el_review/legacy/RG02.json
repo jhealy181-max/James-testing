@@ -1,0 +1,33 @@
+{
+ "inst_id": "RG02",
+ "country": "UK",
+ "institution": "Bristol",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 57,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10007786",
+ "index_row": 8,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Bristol",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "Bristol Futures Open Units",
+   "Administrative home": "Bristol Futures",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Undergraduates where degree rules allow",
+   "Delivery / credit / practical activity": "Cross-disciplinary units beyond the home subject. External client work depends on the unit.",
+   "Basis for reach classification": "University breadth-unit framework; practical learning differs by unit.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://www.bristol.ac.uk/bristol-futures/open-units/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 8
+  }
+ ]
+}

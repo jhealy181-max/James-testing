@@ -1,0 +1,33 @@
+{
+ "inst_id": "AU03",
+ "country": "Australia",
+ "institution": "Sydney",
+ "cohort": "Australia top 10",
+ "qs_edition": 2027,
+ "qs_rank": 28,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 33,
+ "legacy_rows": [
+  {
+   "Country": "Australia",
+   "University": "Sydney",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Industry and Community Project Units",
+   "Administrative home": "Central Industry and Community Project Units",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students in eligible programmes; unit rules apply",
+   "Delivery / credit / practical activity": "Interdisciplinary teams address authentic briefs from industry and community organisations.",
+   "Basis for reach classification": "Institutional project-unit framework across disciplines, not every degree.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://www.sydney.edu.au/students/industry-and-community-projects.html",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 33
+  }
+ ]
+}

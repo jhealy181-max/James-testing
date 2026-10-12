@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK29",
+ "country": "UK",
+ "institution": "Manchester Metropolitan",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 600,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/manchester-metropolitan-university",
+ "ukprn": "10004180",
+ "index_row": 69,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Manchester Metropolitan",
+   "Academic reach": "University-wide",
+   "Learning model": "Co-curricular award",
+   "Scheme / framework": "Rise",
+   "Administrative home": "Central co-curricular programme",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Every Manchester Met student",
+   "Delivery / credit / practical activity": "Students build a portfolio through bespoke experiences beyond the degree. Recognition uses Rise points; optional assessment can yield additional co-curricular practice credit.",
+   "Basis for reach classification": "Official university page states opportunity for every student.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://rise.mmu.ac.uk/\nhttps://www.mmu.ac.uk/study/why-manchester-met/study-experience",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 87
+  }
+ ]
+}

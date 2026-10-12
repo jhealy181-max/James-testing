@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU16",
+ "country": "Netherlands",
+ "institution": "Wageningen",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 154,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 116,
+ "legacy_rows": [
+  {
+   "Country": "Netherlands",
+   "University": "Wageningen",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Academic Consultancy Training (ACT)",
+   "Administrative home": "University master’s curriculum",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Master’s students; compulsory in most master’s programmes",
+   "Delivery / credit / practical activity": "Eight-week consultancy: multidisciplinary teams of five to eight address authentic external-client challenges with academic advisers and a process coach. Named curriculum example carries 9 ECTS.",
+   "Basis for reach classification": "Official source says compulsory in most master’s programmes; university framework, not universal across all degrees.",
+   "Latest dated / current evidence": "2026 ACT award and October 2026 case call confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.wur.nl/en/partner-up-for-impact/collaborate-students/society-based-education/academic-consultancy-training",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 142
+  }
+ ]
+}

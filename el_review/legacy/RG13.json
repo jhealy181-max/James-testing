@@ -1,0 +1,52 @@
+{
+ "inst_id": "RG13",
+ "country": "UK",
+ "institution": "London School of Economics",
+ "cohort": "Russell Group",
+ "qs_edition": 2027,
+ "qs_rank": 62,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "10004063",
+ "index_row": 19,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "London School of Economics",
+   "Academic reach": "University-wide",
+   "Learning model": "Interdisciplinary curriculum",
+   "Scheme / framework": "LSE100",
+   "Administrative home": "LSE100",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "All first-year undergraduates",
+   "Delivery / credit / practical activity": "Compulsory first-year interdisciplinary inquiry and collaborative research. Separate optional Future17 projects are recorded on their own row.",
+   "Basis for reach classification": "Explicit compulsory institution-wide first-year curriculum.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://info.lse.ac.uk/current-students/lse100/about-lse-100",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 19
+  },
+  {
+   "Country": "UK",
+   "University": "London School of Economics",
+   "Academic reach": "Not confirmed",
+   "Learning model": "International collaboration",
+   "Scheme / framework": "Future17",
+   "Administrative home": "LSE100 / QS partner consortium",
+   "Participation": "Not confirmed",
+   "Eligibility / restrictions": "LSE students; detailed year, programme and credit eligibility unverified",
+   "Delivery / credit / practical activity": "Twelve-week international interdisciplinary teams address live sustainability challenges with organisational partners. Separate from compulsory LSE100.",
+   "Basis for reach classification": "University-level student call; reach inferred from central remit. Credit and precise cohort restrictions were not verified. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "September 2026 application deadline confirmed",
+   "Cohort": "Russell Group",
+   "Primary sources": "https://info.lse.ac.uk/current-students/lse100/Future17-Join-a-global-team-solving-real-sustainability-challenges",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 46
+  }
+ ]
+}

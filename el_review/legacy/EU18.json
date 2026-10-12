@@ -1,0 +1,52 @@
+{
+ "inst_id": "EU18",
+ "country": "Belgium",
+ "institution": "Ghent",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 150,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 118,
+ "legacy_rows": [
+  {
+   "Country": "Belgium",
+   "University": "Ghent",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Community Service Learning (CSL) framework",
+   "Administrative home": "Central teaching support / participating faculties",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Students in participating courses; admissions differ",
+   "Delivery / credit / practical activity": "Academic learning and civic engagement combine fieldwork in community organisations with reflection. Official guidance provides examples and curricular design support.",
+   "Basis for reach classification": "Central teaching framework applicable across disciplines; specific course availability remains faculty/programme-based.",
+   "Latest dated / current evidence": "Official teaching guidance; intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.onderwijstips.ugent.be/en/tips/community-service-learning-de-verbinding-tussen-st/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 144
+  },
+  {
+   "Country": "Belgium",
+   "University": "Ghent",
+   "Academic reach": "Programme/course",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Seminar Political Sociology: Community Service Learning",
+   "Administrative home": "Department of Sociology",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Students on the relevant Sociology master’s route",
+   "Delivery / credit / practical activity": "Five-credit seminar brings community service learning into the political sociology curriculum.",
+   "Basis for reach classification": "Named degree-route module; requirements and access follow programme rules.",
+   "Latest dated / current evidence": "2025/26 programme catalogue confirmed",
+   "Cohort": "EU sample",
+   "Primary sources": "https://studiekiezer.ugent.be/2025/programmapdf/en/KOMAATSO/6",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated earlier / mixed",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 145
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK13",
+ "country": "UK",
+ "institution": "Dundee",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 447,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/university-dundee",
+ "ukprn": "10007852",
+ "index_row": 53,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Dundee",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Enterprise Challenge / Venture Competition",
+   "Administrative home": "Centre for Entrepreneurship",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students, staff and recent graduates; selection applies",
+   "Delivery / credit / practical activity": "Business-idea development and pitching. Enterprise Challenge feeds into the three-stage Venture Competition; 2026 competition terms confirm the pathway.",
+   "Basis for reach classification": "Venture explicitly open to all university students; voluntary enterprise pathway.",
+   "Latest dated / current evidence": "2026 competition confirmed",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.dundee.ac.uk/entrepreneurship/venture\nhttps://www.dundee.ac.uk/corporate-information/venture-competition-terms-and-conditions",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 66
+  }
+ ]
+}

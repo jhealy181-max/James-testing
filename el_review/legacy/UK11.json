@@ -1,0 +1,33 @@
+{
+ "inst_id": "UK11",
+ "country": "UK",
+ "institution": "Heriot-Watt",
+ "cohort": "Additional UK sample",
+ "qs_edition": 2027,
+ "qs_rank": 325,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/universities/heriot-watt-university",
+ "ukprn": "10007764",
+ "index_row": 51,
+ "legacy_rows": [
+  {
+   "Country": "UK",
+   "University": "Heriot-Watt",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Global Innovation Challenge",
+   "Administrative home": "Global Research, Innovation and Discovery (GRID)",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Students, academics and alumni across Heriot-Watt campuses",
+   "Delivery / credit / practical activity": "Nine-week practical entrepreneurial workshop programme develops business ideas through mentoring, founder/industry connections and a competition for up to £5,000.",
+   "Basis for reach classification": "Official page explicitly invites participants from across the university’s global community.",
+   "Latest dated / current evidence": "2026 challenge confirmed",
+   "Cohort": "Additional UK sample",
+   "Primary sources": "https://www.hw.ac.uk/research-enterprise/innovation/global-innovation-challenge",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 64
+  }
+ ]
+}

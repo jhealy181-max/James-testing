@@ -1,0 +1,33 @@
+{
+ "inst_id": "AU05",
+ "country": "Australia",
+ "institution": "Monash",
+ "cohort": "Australia top 10",
+ "qs_edition": 2027,
+ "qs_rank": 31,
+ "tied": "No",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 35,
+ "legacy_rows": [
+  {
+   "Country": "Australia",
+   "University": "Monash",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Monash Innovation Guarantee (MIG), MON2750",
+   "Administrative home": "Monash flagship rich experiences",
+   "Participation": "Elective credit",
+   "Eligibility / restrictions": "Eligible undergraduates; study-stage conditions apply",
+   "Delivery / credit / practical activity": "Student teams address real industry problems in a flagship experience.",
+   "Basis for reach classification": "University-level flagship opportunity, not a compulsory all-student scheme.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://www.monash.edu/flagship-rich-experiences/mig",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 35
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "inst_id": "US29",
+ "country": "US",
+ "institution": "Pennsylvania State",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 92,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 99,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Pennsylvania State",
+   "Academic reach": "Faculty/school",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Learning Factory Capstone Design",
+   "Administrative home": "College of Engineering",
+   "Participation": "Mixed/varies",
+   "Eligibility / restrictions": "Engineering capstone students; departmental requirements vary",
+   "Delivery / credit / practical activity": "Client-sponsored design teams undertake problem definition, prototyping, testing and final showcase, using the Learning Factory makerspace.",
+   "Basis for reach classification": "Programme page explicitly describes College of Engineering and engineering student teams; compulsory status follows the individual degree.",
+   "Latest dated / current evidence": "Official capstone page; intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://lf.psu.edu/students/lf-capstone/\nhttps://lf.psu.edu/students/lf-capstone/capstone4/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 121
+  },
+  {
+   "Country": "US",
+   "University": "Pennsylvania State",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "Invent Penn State / Summer Founders",
+   "Administrative home": "Office of Entrepreneurship and Commercialization",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible student founder teams; programme selection applies",
+   "Delivery / credit / practical activity": "University-wide entrepreneurship framework supports venture development across campuses and colleges. Summer Founders combines a grant, accelerator activity, advisers and a final showcase.",
+   "Basis for reach classification": "Official framework spans all academic colleges and 24 campuses; Summer Founders cohort included multiple colleges and graduate students.",
+   "Latest dated / current evidence": "Official framework; latest programme intake unverified",
+   "Cohort": "US sample",
+   "Primary sources": "https://invent.psu.edu/about-ips/\nhttps://invent.psu.edu/stories/student-founders-grow-their-startups-through-summer-founders-program/",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 124
+  }
+ ]
+}

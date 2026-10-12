@@ -1,0 +1,33 @@
+{
+ "inst_id": "EU05",
+ "country": "France",
+ "institution": "Sciences Po",
+ "cohort": "EU sample",
+ "qs_edition": 2027,
+ "qs_rank": 354,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/sciences-po",
+ "ukprn": "n.a.",
+ "index_row": 105,
+ "legacy_rows": [
+  {
+   "Country": "France",
+   "University": "Sciences Po",
+   "Academic reach": "University-wide",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Civic Learning Programme (Parcours Civique)",
+   "Administrative home": "Undergraduate College across campuses",
+   "Participation": "Compulsory",
+   "Eligibility / restrictions": "BA undergraduates across the College’s campuses",
+   "Delivery / credit / practical activity": "First-year 140-hour civic internship, second-year 50-hour civic project and reflective capstone link community work to academic learning; credits awarded.",
+   "Basis for reach classification": "Compulsory undergraduate curriculum across campuses; university-wide undergraduate reach, not graduate-wide.",
+   "Latest dated / current evidence": "Official curriculum page; intake unverified",
+   "Cohort": "EU sample",
+   "Primary sources": "https://www.sciencespo.fr/college/en/academics/civic-learning-programme/",
+   "Scope evidence basis": "Direct eligibility",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 130
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "inst_id": "AU06",
+ "country": "Australia",
+ "institution": "Queensland",
+ "cohort": "Australia top 10",
+ "qs_edition": 2027,
+ "qs_rank": 40,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/qs-top-uni-wur",
+ "ukprn": "n.a.",
+ "index_row": 36,
+ "legacy_rows": [
+  {
+   "Country": "Australia",
+   "University": "Queensland",
+   "Academic reach": "University-wide",
+   "Learning model": "Enterprise programme",
+   "Scheme / framework": "UQ Ventures challenges",
+   "Administrative home": "UQ Ventures",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible students across disciplines",
+   "Delivery / credit / practical activity": "Interdisciplinary teams work with industry on challenge-based innovation.",
+   "Basis for reach classification": "Central university enterprise/challenge framework; event requirements vary.",
+   "Latest dated / current evidence": "Official page; intake unverified",
+   "Cohort": "Australia top 10",
+   "Primary sources": "https://ventures.uq.edu.au/industry",
+   "Scope evidence basis": "Institutional framework",
+   "Evidence currency": "Undated page",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 36
+  }
+ ]
+}

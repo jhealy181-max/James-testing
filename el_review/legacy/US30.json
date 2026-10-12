@@ -1,0 +1,33 @@
+{
+ "inst_id": "US30",
+ "country": "US",
+ "institution": "Ohio State",
+ "cohort": "US sample",
+ "qs_edition": 2027,
+ "qs_rank": 201,
+ "tied": "Yes",
+ "qs_source": "https://www.topuniversities.com/universities/ohio-state-university",
+ "ukprn": "n.a.",
+ "index_row": 100,
+ "legacy_rows": [
+  {
+   "Country": "US",
+   "University": "Ohio State",
+   "Academic reach": "Not confirmed",
+   "Learning model": "Live/research project",
+   "Scheme / framework": "Second-year Transformational Experience Program (STEP)",
+   "Administrative home": "Office of Student Life / faculty mentors",
+   "Participation": "Co-curricular",
+   "Eligibility / restrictions": "Eligible second-year students; campus and funding rules apply",
+   "Delivery / credit / practical activity": "Mentored cohorts develop a Signature Project in research, internship, service, leadership, creativity or study abroad; eligible experiences can receive up to $2,000.",
+   "Basis for reach classification": "Central second-year programme; university reach inferred, not a requirement for all second-years. Academic reach remains Not confirmed until eligibility or institution-wide framework reach is established.",
+   "Latest dated / current evidence": "August 2026 programme activity confirmed",
+   "Cohort": "US sample",
+   "Primary sources": "https://step.osu.edu/about\nhttps://step.osu.edu/prospective-students",
+   "Scope evidence basis": "Unconfirmed reach",
+   "Evidence currency": "Dated 2026/27",
+   "Research date": "2026-10-08 00:00:00",
+   "legacy_row": 122
+  }
+ ]
+}
