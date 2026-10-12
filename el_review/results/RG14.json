@@ -1,0 +1,1111 @@
+{
+ "inst_id": "RG14",
+ "institution": "University of Manchester",
+ "review_status": "Partial",
+ "partial_remaining": "Search budget exhausted (shared WebSearch per-turn limit hit). Remaining: arts_humanities_social_sciences and other (law, architecture, health) areas unsearched; Careers Service programmes; science departments beyond BIOL60760; group-format and dated-status checks for S6, S7, S9, S10, S11.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Manchester students team consultancy project real client organisation",
+    "UCIL unit students work in groups external partner organisation live project brief",
+    "Masood Enterprise Centre Enterprise Challenge UCIL community-based enterprise project teams organisation",
+    "\"Manchester Enterprise Challenge\" students charity social enterprise pitch 2025",
+    "University Living Lab Manchester students work with external partners (x2; second failed: search budget exhausted)"
+   ],
+   "key_sources": [
+    "https://www.ucil.manchester.ac.uk/info-for-students/enterprise-challenge/",
+    "https://www.manchester.ac.uk/about/news/students-tackle-real-world-problems-in-manchester-enterprise-challenge/",
+    "https://www.ucil.manchester.ac.uk/info-for-students/why-study-ucil-unit/",
+    "https://www.seed.manchester.ac.uk/connect/social-responsibility/"
+   ],
+   "finding": "UCIL is an elective interdisciplinary framework; its qualifying underlying activity is the Enterprise Challenge (UCIL enterprise unit + group project for a local charity/social enterprise). The University Living Lab connects assessment to projects set by ~50 external stakeholders (group format unverified). Careers-service project programmes not searched (budget)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Alliance MBS Full-Time MBA three consultancy projects ...",
+    "Alliance MBS Masters student consultancy projects groups of students client organisation May September MSc",
+    "BSc Management final year live consultancy project unit groups real organisations BMAN",
+    "\"consultancy project\" BSc Management undergraduate team client company Alliance MBS final year group report presentation"
+   ],
+   "key_sources": [
+    "https://www.manchester.ac.uk/study/masters/courses/list/01039/mba-manchester-full-time-mba/course-details/",
+    "https://www.alliancembs.manchester.ac.uk/collaborate/access-student-talent/projects-and-internships/mba-consultancy/international-business-project/",
+    "https://www.alliancembs.manchester.ac.uk/collaborate/access-student-talent/consultancy-projects/masters-projects/",
+    "https://www.manchester.ac.uk/study/masters/courses/list/09839/msc-business-analysis-and-strategic-management/",
+    "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03519/bsc-management/"
+   ],
+   "finding": "Dense AMBS client-consultancy provision: Full-time MBA live client projects (Social Impact, IBP; older Commercial Business Project), MSc BASM group client consultancy capstone, and a BSc Management final-year live consultancy option (group format unclear)."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Manchester engineering students group project industry partner brief company real-world problem unit",
+    "MEng Civil and Structural Engineering year 4 industry-supervised group design project",
+    "Department of Computer Science Manchester team project industry client students software company brief",
+    "Industrial mentoring in software engineering second year teams of six ... COMP23311"
+   ],
+   "key_sources": [
+    "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03858/meng-civil-and-structural-engineering/",
+    "https://www.manchester.ac.uk/study/undergraduate/courses/2025/03873/meng-civil-engineering-enterprise/course-details/",
+    "https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/",
+    "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03928/meng-mechatronic-engineering-with-industrial-experience/"
+   ],
+   "finding": "Civil Group Design Project CIVL41530 (industry-supervised, compulsory MEng) qualifies; COMP23311 team project qualifies on industry mentoring only; EEE/Mechatronics final-year team projects are only partly industry-funded (C unclear). Chemical/Mechanical/Aerospace not researched in depth."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Manchester science students group project external organisation industry client chemistry biology environmental data science unit"
+   ],
+   "key_sources": [
+    "https://www.entrepreneurship.manchester.ac.uk/study/BIOL60760/"
+   ],
+   "finding": "One query only: BIOL60760 Commercialisation in the Life Sciences (group project with an external company) found; Biotechnology group enterprise projects need checking. Chemistry, Physics, Maths, Earth/Environmental Sciences not searched individually."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [
+    "https://www.seed.manchester.ac.uk/connect/social-responsibility/"
+   ],
+   "finding": "Not searched directly: the shared web-search budget was exhausted. Only incidental evidence: SEED's University Living Lab (S11). Humanities consultancy units (e.g. Politics, Sociology, Arts Methods, Social Statistics/Q-Step, MA programmes) remain unchecked."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: search budget exhausted. Law (e.g. Legal Advice Centre), Architecture (Manchester School of Architecture live projects), Faculty of Biology, Medicine and Health remain unchecked."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Full-time MBA live client consultancy projects",
+   "english_name": "Full-time MBA live client consultancy projects",
+   "module_code": "",
+   "description": "Umbrella: the Alliance MBS Full-time MBA core includes three (or more) group consultancy projects for real clients of increasing complexity, culminating in the International Business Consultancy Project. Project names have changed over time (older: Not-for-Profit, Commercial Business, International Business; current page: Social Impact, Mergers and Acquisitions, Strategic Innovation Consultancy, International Business).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Alliance Manchester Business School",
+   "eligible_faculties_programmes": "Full-time MBA (MBA Manchester)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Throughout the programme",
+   "eligibility_restrictions": "Full-time MBA students only",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Core programme components; credit weighting not retrieved",
+   "duration": "Several projects across the programme",
+   "delivery_format": "In person, client-facing",
+   "project_based": "Yes",
+   "project_evidence": "Group consultancy projects with real clients [1][3].",
+   "group_working": "Yes",
+   "group_evidence": "'three group consultancy projects' [1]; MBAs work in multinational groups [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real clients commission consultancy projects [1][3].",
+   "partner_type": "Mixed",
+   "partner_role": "Clients supply briefs and receive consultancy outputs",
+   "named_partners": "",
+   "deliverable": "Client presentations and reports",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2027 entry (programme page)",
+   "participation_data": "",
+   "unresolved": "Current-status basis is the 2027-entry programme course-details page (prospectus-level), not a dated cohort; whether the M&A and Strategic Innovation projects always have external clients not verified individually.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.manchester.ac.uk/study/masters/courses/list/01039/mba-manchester-full-time-mba/course-details/",
+     "title": "MBA Manchester Full-Time MBA - course details (2027 entry)",
+     "section": "Course details",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Core programme challenges students to take on three group consultancy projects with real clients; International Business Consultancy Project is the final one, acting as consultants for businesses with a complex international challenge or opportunity.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.alliancembs.manchester.ac.uk/study/mba/full-time-mba/",
+     "title": "Full-Time MBA in Manchester",
+     "section": "Programme structure / live client projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Current page lists first-year Social Impact Project, Mergers and Acquisitions Project and Strategic Innovation Consultancy Project, with the International Business Consultancy Project in the final months; gives Social Impact Project as 150 hours of live client experience.",
+     "supports": [
+      "project",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.alliancembs.manchester.ac.uk/collaborate/access-student-talent/consultancy-projects/mba-consultancy/",
+     "title": "MBA Consultancy",
+     "section": "Overview (partner-facing)",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Describes the Full-time MBA as three consultancy projects of increasing complexity in which MBAs work in multinational groups as external consultants (search summary; attribution to this page probable but not certain).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "International Business Consultancy Project (International Business Project, IBP)",
+   "english_name": "International Business Project",
+   "module_code": "",
+   "description": "Final Full-time MBA consultancy: teams of five to six MBAs bid for projects from a range of client organisations (process starts with pitches to senior executives) and act as consultants on a complex international challenge or opportunity, presenting findings and a report to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Alliance Manchester Business School",
+   "eligible_faculties_programmes": "Full-time MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final months of the programme",
+   "eligibility_restrictions": "Full-time MBA students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Final months of the MBA; AMBS cites 2,000+ hours of team work / 550 hours live client experience (AMBS estimates; figures vary by page)",
+   "delivery_format": "In person; may involve international client",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy project on a client's international challenge/opportunity [1][4].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of five to six bid for projects [4]; five MBAs per project [4].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients submit briefs, receive bids/pitches, and receive the consultancy outputs; example Singapore seafood company go-to-market project [5].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client sets the brief, selects among team bids, receives presentation/report",
+   "named_partners": "LAD Bible Group cited as past client (undated); Singapore seafood company (blog, undated)",
+   "deliverable": "Consultancy recommendations, client presentation and report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2027 entry (programme page)",
+   "participation_data": "",
+   "unresolved": "Hour/fee figures are AMBS marketing estimates; current-status basis is the 2027-entry course-details page.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.manchester.ac.uk/study/masters/courses/list/01039/mba-manchester-full-time-mba/course-details/",
+     "title": "MBA Manchester Full-Time MBA - course details (2027 entry)",
+     "section": "Course details",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Core programme challenges students to take on three group consultancy projects with real clients; International Business Consultancy Project is the final one, acting as consultants for businesses with a complex international challenge or opportunity.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.alliancembs.manchester.ac.uk/collaborate/access-student-talent/projects-and-internships/mba-consultancy/international-business-project/",
+     "title": "International Business Project",
+     "section": "Partner-facing description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of five to six bid for projects from a range of clients, beginning with pitches to senior executives; AMBS values a project at £90k-£100k equivalent consultancy fees with more than 2,000 hours of intensive work from five MBAs.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://www.alliancembs.manchester.ac.uk/blogs/the-international-business-mba-project-real-world-consulting-with-global-impact/",
+     "title": "The International Business MBA Project: Real-World Consulting with Global Impact",
+     "section": "Blog",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student account of acting as consultants for a business with a complex international challenge; example project for a Singapore seafood company on go-to-market strategy; LAD Bible Group named as a past client.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "Social Impact Project (formerly Not-for-Profit project)",
+   "english_name": "Social Impact Project",
+   "module_code": "",
+   "description": "First Full-time MBA live consultancy: student teams work as consultants for a not-for-profit / third-sector client (about 150 hours of live client experience).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Alliance Manchester Business School",
+   "eligible_faculties_programmes": "Full-time MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Early in the programme",
+   "eligibility_restrictions": "Full-time MBA students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "c.150 hours live client experience",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy project for a third-sector client [2][6].",
+   "group_working": "Yes",
+   "group_evidence": "Part of the 'three group consultancy projects' [1]; earlier projects in teams of five (search summary) [6].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Not-for-profit/third-sector organisations act as clients [6].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client sets problem and receives recommendations",
+   "named_partners": "",
+   "deliverable": "Consultancy recommendations to client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2027 entry (programme page)",
+   "participation_data": "",
+   "unresolved": "Team-size evidence is a summary of mixed AMBS pages; 150 hours spread unknown.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.manchester.ac.uk/study/masters/courses/list/01039/mba-manchester-full-time-mba/course-details/",
+     "title": "MBA Manchester Full-Time MBA - course details (2027 entry)",
+     "section": "Course details",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Core programme challenges students to take on three group consultancy projects with real clients; International Business Consultancy Project is the final one, acting as consultants for businesses with a complex international challenge or opportunity.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.alliancembs.manchester.ac.uk/study/mba/full-time-mba/",
+     "title": "Full-Time MBA in Manchester",
+     "section": "Programme structure / live client projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Current page lists first-year Social Impact Project, Mergers and Acquisitions Project and Strategic Innovation Consultancy Project, with the International Business Consultancy Project in the final months; gives Social Impact Project as 150 hours of live client experience.",
+     "supports": [
+      "project",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 6,
+     "url": "https://www.alliancembs.manchester.ac.uk/collaborate/access-student-talent/consultancy-projects/mba-consultancy/social-impact-project/",
+     "title": "Social Impact Project",
+     "section": "Partner-facing description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Project in which MBA teams work with a not-for-profit or third-sector client.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "Commercial Business Project",
+   "english_name": "Commercial Business Project",
+   "module_code": "",
+   "description": "Full-time MBA consultancy in which a client from any business area or sector submits a data-driven business issue; teams of five MBAs bid, the client chooses a team, and the team presents research outcomes followed by a formal report (brief submission late January, presentations June, report July). Not listed by name on the current Full-time MBA page; may have been renamed/replaced (e.g. by the Strategic Innovation Consultancy Project).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Alliance Manchester Business School",
+   "eligible_faculties_programmes": "Full-time MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Full-time MBA students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Late January brief to June presentation / July report",
+   "delivery_format": "In person, UK-based",
+   "project_based": "Yes",
+   "project_evidence": "Client business issue requiring a data-driven solution; presentation and formal report [7].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of five MBAs bid and are selected by the client [7].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client submits the issue, chooses a team from bids, receives presentation and report [7]; 2021 example with a not-for-profit research organisation [8].",
+   "partner_type": "Mixed",
+   "partner_role": "Client sets brief, selects team, receives outputs",
+   "named_partners": "",
+   "deliverable": "Presentation and formal report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021 (news example)",
+   "participation_data": "",
+   "unresolved": "Page undated and project name absent from current Full-time MBA structure; may be historical or renamed. Possible duplicate of the current Strategic Innovation Consultancy Project.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 7,
+     "url": "https://www.alliancembs.manchester.ac.uk/collaborate/access-student-talent/projects-and-internships/mba-consultancy/commercial-business-project/",
+     "title": "Commercial Business Project",
+     "section": "Partner-facing description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Open to any business area and any sector, UK-focused or international; the only criteria are that the business issue requires a data-driven solution and students are not required to travel outside the UK; clients see teams' bids and choose one; team presents outcomes of its research, followed by a formal report.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 8,
+     "url": "https://www.alliancembs.manchester.ac.uk/news/full-time-mba-commercial-business-project-published-report-/",
+     "title": "Full-time MBA Commercial Business Project published report",
+     "section": "News",
+     "pub_year": "2021",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Describes a team that worked with a not-for-profit research organisation for the Commercial Business Project.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Business Analysis and Strategic Management client consultancy project",
+   "english_name": "MSc BASM consultancy project (capstone option)",
+   "module_code": "",
+   "description": "60-credit capstone option (alternative to a dissertation): between May and September students carry out supervised client-facing consultancy projects for organisations (e.g. competitive strategy, wholesale market trends, supply chain analysis), with interim and final presentations; assessed by a group project report plus individual reflection.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Alliance Manchester Business School",
+   "eligible_faculties_programmes": "MSc Business Analysis and Strategic Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final (summer) period of 1-year MSc",
+   "eligibility_restrictions": "MSc BASM students choosing the consultancy option",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60 credits; group project report up to 10,000 words + individual professional reflective report up to 2,000 words",
+   "duration": "May to September",
+   "delivery_format": "Client-facing, faculty-supervised; expenses-only basis for client",
+   "project_based": "Yes",
+   "project_evidence": "Client consultancy project with group report [9][10].",
+   "group_working": "Yes",
+   "group_evidence": "Assessment is a group project report of up to 10,000 words plus individual reflection [10].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisations supply the project, set the number of students and location, and receive interim and final presentations [9][11].",
+   "partner_type": "Unclear",
+   "partner_role": "Client organisation supplies brief, hosts team, receives presentations",
+   "named_partners": "",
+   "deliverable": "Group consultancy report and client presentations",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2027 entry (programme page)",
+   "participation_data": "",
+   "unresolved": "Status basis is the 2027-entry programme page; client sectors not evidenced; MSc Business Analytics & AI summer projects are dissertations (excluded).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 9,
+     "url": "https://www.alliancembs.manchester.ac.uk/collaborate/access-student-talent/consultancy-projects/masters-projects/",
+     "title": "Masters Projects",
+     "section": "Partner-facing page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Between May and September, MSc Business Analysis and Strategic Management students carry out client-facing projects for organisations under a faculty supervisor; sample topics: competitive strategy, wholesale market trends, supply chain analysis.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 10,
+     "url": "https://www.manchester.ac.uk/study/masters/courses/list/09839/msc-business-analysis-and-strategic-management/",
+     "title": "MSc Business Analysis and Strategic Management (2027 entry)",
+     "section": "Course details",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "60-credit capstone: dissertation or supervised client consultancy project; 'a group project report of up to 10,000 words, plus an individual professional reflective report of up to 2,000 words'.",
+     "supports": [
+      "group",
+      "credit",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 11,
+     "url": "https://www.alliancembs.manchester.ac.uk/media/ambs/content-assets/documents/collaborate/ambs-masters-student-consultancy-projects.pdf",
+     "title": "Master's Student Consultancy Projects: A guide to how we can help your business",
+     "section": "Employer guide (PDF)",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Projects are unsalaried, expenses-only; number of students and their location set by the client; timeline from discussing needs and selecting a team through interim presentations to a final presentation.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "BSc Management final-year live consultancy project",
+   "english_name": "BSc Management live consultancy project",
+   "module_code": "",
+   "description": "Final-year option (alternative to dissertation or taught units) across BSc Management pathways: students are assigned to a client company and work alongside it to apply their learning to deliver change and new business processes.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Alliance Manchester Business School",
+   "eligible_faculties_programmes": "BSc Management and specialist pathways (e.g. Accounting and Finance; with Industrial/Professional Experience)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "BSc Management students choosing the consultancy route",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not retrieved",
+   "delivery_format": "Client-based",
+   "project_based": "Yes",
+   "project_evidence": "Live consultancy project delivering change for a client company [12].",
+   "group_working": "Unclear",
+   "group_evidence": "No source states whether students work in teams or individually on the consultancy project.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students 'assigned to a client company and work alongside it' [12]; 'live consultancy project, working with real organisations' [13].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client company hosts and sets the change problem",
+   "named_partners": "",
+   "deliverable": "Not specified",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (2026-entry course page)",
+   "participation_data": "",
+   "unresolved": "Group vs individual format; unit code; credits.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 12,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03519/bsc-management/",
+     "title": "BSc Management (2026 entry)",
+     "section": "Course details",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Final year students will be able to choose to undertake a dissertation, work on a live consultancy project, or continue to study a combination of diverse subject areas.' 'Students working on a consultancy project will be assigned to a client company and work alongside it to implement their knowledge gained throughout the course to deliver change and implement new business processes.'",
+     "supports": [
+      "project",
+      "employer",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 13,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03520/bsc-management-accounting-and-finance/all-content/",
+     "title": "BSc Management (Accounting and Finance) - full details (2027 entry)",
+     "section": "Course details",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Hands-on experience in final year through a dissertation or a live consultancy project, working with real organisations.",
+     "supports": [
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Manchester Enterprise Challenge",
+   "english_name": "Manchester Enterprise Challenge",
+   "module_code": "",
+   "description": "Two-part programme run with the Masood Entrepreneurship Centre: students complete a 10-credit UCIL enterprise unit (e.g. UCIL22001 Essential Enterprise, UCIL24002 The Art of Enterprise, Entrepreneur: Innovator and Risk-taker) and then, in a group, work on a specific improvement opportunity for a local charity, social enterprise or not-for-profit (c.20 hours each), presenting outcomes as a pitch deck to a panel including project hosts.",
+   "academic_reach": "University-wide",
+   "admin_host": "UCIL / Masood Entrepreneurship Centre (Alliance MBS)",
+   "eligible_faculties_programmes": "Undergraduates enrolled on a UCIL enterprise unit (UCIL units are open across faculties subject to optional credit)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not specified",
+   "eligibility_restrictions": "Must enrol on an eligible 10-credit UCIL enterprise unit via Course Unit Selection; check with Undergraduate Office / Academic Advisor",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "credit_assessment": "10-credit UCIL unit component; project component credit not stated",
+   "duration": "Approximately 20 hours of project work per student",
+   "delivery_format": "Group work with community organisation; showcase pitch",
+   "project_based": "Yes",
+   "project_evidence": "Specific improvement opportunity for a host organisation; outcome presented as pitch deck [14][15].",
+   "group_working": "Yes",
+   "group_evidence": "'working as part of a group' completing about 20 hours each [14].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local charities/social enterprises/not-for-profits host the projects and project hosts sit on the judging panel [14][15].",
+   "partner_type": "Charity/community",
+   "partner_role": "Host organisation sets the improvement opportunity and judges final pitches",
+   "named_partners": "Action for Conservation (showcase on 7 May, year not stated in extract)",
+   "deliverable": "Pitch deck presentation of project outcomes",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated (7 May showcase; year not stated)",
+   "participation_data": "",
+   "unresolved": "News item undated in extract (7 May showcase consistent with 2025 but not confirmed); no dated 2025/26-2026/27 corroboration retrieved; credit for project component unclear; whether team composition is cross-disciplinary not confirmed.",
+   "legacy_ref": "University College for Interdisciplinary Learning (UCIL)",
+   "sources": [
+    {
+     "n": 14,
+     "url": "https://www.ucil.manchester.ac.uk/info-for-students/enterprise-challenge/",
+     "title": "Enterprise Challenge",
+     "section": "Info for students",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'The Enterprise Challenge combines enterprise UCIL units with a community-based enterprise project.' Students work with a local charity, social enterprise or not-for-profit on a specific improvement opportunity, 'working as part of a group to complete approximately 20 hours of work each', presenting final outcomes through a PowerPoint 'pitch deck'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 15,
+     "url": "https://www.manchester.ac.uk/about/news/students-tackle-real-world-problems-in-manchester-enterprise-challenge/",
+     "title": "Students Tackle Real-World Problems in Manchester Enterprise Challenge",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Pitch session on 7 May where student teams presented to academic staff, Masood Entrepreneurship Centre representatives and project hosts; example team created a partner network and sourced materials on a minimal budget for Action for Conservation.",
+     "supports": [
+      "employer",
+      "group",
+      "status"
+     ]
+    },
+    {
+     "n": 16,
+     "url": "https://www.ucil.manchester.ac.uk/info-for-students/why-study-ucil-unit/",
+     "title": "Why Study a UCIL unit?",
+     "section": "Info for students",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "UCIL units are interdisciplinary; students study and collaborate with students from other disciplines.",
+     "supports": [
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Civil Group Design Project",
+   "english_name": "Civil Group Design Project",
+   "module_code": "CIVL41530",
+   "description": "Final-year (Year 4) industry-supervised group design project in the MEng Civil Engineering family (Civil and Structural; Civil Engineering (Enterprise); with Industrial Experience variants).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Civil Engineering and Management (Faculty of Science and Engineering)",
+   "eligible_faculties_programmes": "MEng Civil and Structural Engineering, MEng Civil Engineering, MEng Civil Engineering (Enterprise) and Industrial Experience variants",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4 (final MEng year)",
+   "eligibility_restrictions": "MEng Civil students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits, mandatory (2025-entry Civil Engineering (Enterprise) listing)",
+   "duration": "Final year",
+   "delivery_format": "In person group design",
+   "project_based": "Yes",
+   "project_evidence": "Group design project [17][18].",
+   "group_working": "Yes",
+   "group_evidence": "'industry-supervised group design project' [17].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project is industry-supervised (industry participates in supervision) [17][18].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry practitioners supervise the design project",
+   "named_partners": "",
+   "deliverable": "Design project outputs (not detailed)",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (2025-entry course structure listing)",
+   "participation_data": "",
+   "unresolved": "Whether industry sets the brief or only supervises; unit-level assessment details not retrieved; current status based on dated course-structure listings rather than a cohort report.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 17,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03858/meng-civil-and-structural-engineering/",
+     "title": "MEng Civil and Structural Engineering (2026 entry)",
+     "section": "Course details",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "By year four, students 'will undertake an industry-supervised group design project, and crucial units on advanced structural analysis and design'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 18,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2025/03873/meng-civil-engineering-enterprise/course-details/",
+     "title": "MEng Civil Engineering (Enterprise) - course details (2025 entry)",
+     "section": "Course unit list",
+     "pub_year": "2025 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Lists Civil Group Design Project (CIVL41530) as a mandatory 30-credit unit; Year 4 includes an industry-supervised group design project.",
+     "supports": [
+      "credit",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Software Engineering 1 with industrial mentoring",
+   "english_name": "Software Engineering 1 (industrial mentoring)",
+   "module_code": "COMP23311",
+   "description": "Second-year software engineering team project: teams of about six work for 12 weeks on an open-source multi-user client-server application, each team mentored by a professional software engineer from industry who meets them (typically twice a semester, via Teams) and shares industry experience/technical help but does not help with assessed coursework.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "Computer Science undergraduate programmes",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Computer Science students taking COMP23311",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 credits",
+   "duration": "12 weeks",
+   "delivery_format": "Team project with online industry mentor sessions",
+   "project_based": "Yes",
+   "project_evidence": "12-week team software engineering project on an open-source application [19].",
+   "group_working": "Yes",
+   "group_evidence": "Small teams of six [19]; older mentor guide says teams of 5 or 6 [20].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Professional software engineers from industry mentor each team (around two sessions per semester) [19][20]. The brief is academic (open-source codebase); industry role is mentoring only, and mentors are asked not to help with assessed coursework.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Mentoring only; no client brief",
+   "named_partners": "",
+   "deliverable": "Team software contributions (assessed by university)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated (unit listed in 2027-entry course details)",
+   "participation_data": "Over 200 students (undated departmental page)",
+   "unresolved": "Industrial-mentoring page undated; COMP23311 appears in 2027-entry course details but mentoring element not separately dated (a 2026 staff paper reportedly describes the course but its URL could not be tied in the search summary). Compulsory status in each CS programme not confirmed. C rests on mentoring only; analysts may treat as weak C.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 19,
+     "url": "https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/",
+     "title": "Industrial mentoring in software engineering",
+     "section": "Business engagement",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'over 200 students working in small teams of six over a 12 week period with the support of a professional software engineer who mentors the team'; project built around an open-source multi-user, multi-threaded, client-server application; mentors meet teams twice a semester (first session typically week 3, second in November) over Microsoft Teams.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "duration"
+     ]
+    },
+    {
+     "n": 20,
+     "url": "https://documents.manchester.ac.uk/display.aspx?DocID=37638",
+     "title": "Software Engineering: Information for Mentors",
+     "section": "Mentor guide",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Older guide describing teams of 5 or 6 and mentor visits of around an hour each; mentors asked not to help with assessed coursework.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 21,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00559/bsc-computer-science-with-industrial-experience/course-details/",
+     "title": "BSc Computer Science with Industrial Experience - course details (2027 entry)",
+     "section": "Course details",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "COMP23311 Software Engineering 1 listed in year 2 course details as a 10-credit unit.",
+     "supports": [
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Commercialisation in the Life Sciences",
+   "english_name": "Commercialisation in the Life Sciences",
+   "module_code": "BIOL60760",
+   "description": "Masters-level life-sciences unit delivered through lectures, case studies and a group project working with an external company, built around developing a business plan for a biotechnology product.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Biology, Medicine and Health / Masood Entrepreneurship Centre listing",
+   "eligible_faculties_programmes": "Not retrieved (Masters programmes offering BIOL60760)",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not retrieved",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not retrieved",
+   "delivery_format": "Lectures, case study work, group project",
+   "project_based": "Yes",
+   "project_evidence": "Business plan for a biotechnology product developed in a group project [22].",
+   "group_working": "Yes",
+   "group_evidence": "'participation in a group project' [22].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Group project is 'working with an external company' [22]; exact company role (brief-setting/feedback) not specified.",
+   "partner_type": "Business/commercial",
+   "partner_role": "External company works with the group on the project",
+   "named_partners": "",
+   "deliverable": "Business plan",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "participation_data": "",
+   "unresolved": "Undated unit page; host programmes, credits and company role not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 22,
+     "url": "https://www.entrepreneurship.manchester.ac.uk/study/BIOL60760/",
+     "title": "Commercialisation in the Life Sciences (BIOL60760) course unit details",
+     "section": "Unit description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Course delivery is through a mixture of lectures, case study work, in class discussion and participation in a group project working with an external company'; unit built around developing a business plan for a biotechnology product.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "University Living Lab",
+   "english_name": "University Living Lab",
+   "module_code": "",
+   "description": "SEED-led platform linking student assessment (described as authentic, co-produced assessment) to applied research questions set by external organisations around the SDGs: over 150 projects set by around 50 external stakeholders, requiring case-study, policy or data analysis, empirical data collection or visualisation. Used in course units (e.g. Electrical, Electronic & Mechatronic Engineering foundation year students work with an external organisation through the Living Lab).",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "School of Environment, Education and Development (SEED)",
+   "eligible_faculties_programmes": "Course units that adopt Living Lab projects (SEED; also engineering foundation year)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Various",
+   "eligibility_restrictions": "Via participating course units",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Embedded in unit assessment (unit-level details not retrieved)",
+   "duration": "Unit-dependent",
+   "delivery_format": "Applied research projects for external stakeholders",
+   "project_based": "Yes",
+   "project_evidence": "Projects with defined questions from external stakeholders requiring policy/data analysis or data collection [23].",
+   "group_working": "Unclear",
+   "group_evidence": "No retrieved source states whether Living Lab projects are done in groups or individually.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects are set by around 50 external stakeholders; outputs used by organisations (e.g. presentation to the Rockefeller Foundation; shaping food bank location and practice) [23][24]; engineering foundation-year students 'work with an external organisation' [25].",
+   "partner_type": "Mixed",
+   "partner_role": "External organisations set project questions and use outputs",
+   "named_partners": "Rockefeller Foundation (presentation of student work; undated)",
+   "deliverable": "Research/analysis outputs for partner organisations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2027 entry (engineering foundation year page mentions Living Lab)",
+   "participation_data": "",
+   "unresolved": "Group format and the specific SEED units using the Living Lab not identified (search budget exhausted); Living Lab pages undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 23,
+     "url": "https://www.seed.manchester.ac.uk/connect/social-responsibility/",
+     "title": "Social responsibility - School of Environment, Education and Development",
+     "section": "Living Lab",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Over 150 projects set by around 50 external stakeholders, local to global; some ask for case study, policy or data analysis, others empirical data collection or visualisation; linking applied research needed by external organisations with students in authentic assessment.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 24,
+     "url": "https://www.socialresponsibility.manchester.ac.uk/sustainable-development-goals/content/sdg-subjects/learning-and-students/page/2/",
+     "title": "Social Responsibility: Learning and students",
+     "section": "SDG learning",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Living Lab connects student projects with external organisations to address the SDGs; student work presented to the Rockefeller Foundation and shaped food bank location and practice.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 25,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12950/beng-meng-electrical-electronic-and-mechatronic-engineering-with-an-integrated-foundation-year/",
+     "title": "BEng/MEng Electrical, Electronic & Mechatronic Engineering with an Integrated Foundation Year (2027 entry)",
+     "section": "Course overview",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work with an external organisation to tackle real-world sustainability problems through the University Living Lab.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S12",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Final-year engineering team project (Electrical & Electronic / Mechatronic Engineering)",
+   "english_name": "Final-year engineering team project (EEE / Mechatronics)",
+   "module_code": "",
+   "description": "Year-long final-year MEng team project in Electrical and Electronic / Mechatronic Engineering that is either directly funded by industry or inspired by industrial needs (examples: training wheelchair for para-athletes; haptic glove for remote handling).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Electrical and Electronic Engineering",
+   "eligible_faculties_programmes": "MEng Electrical and Electronic Engineering; MEng Mechatronic Engineering (incl. Industrial Experience)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "MEng EEE/Mechatronics students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Year-long",
+   "delivery_format": "Team design project",
+   "project_based": "Yes",
+   "project_evidence": "Team engineering projects producing prototypes (e.g. haptic glove) [26].",
+   "group_working": "Yes",
+   "group_evidence": "'team project' [26][27].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects 'either directly funded by industry or inspired by industrial needs' [26]; 'industrially related' [27]. Only some are industry-funded; industry role in brief/supervision not documented.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Some projects industry-funded",
+   "named_partners": "",
+   "deliverable": "Engineering prototype/design",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (2026-entry course page)",
+   "participation_data": "",
+   "unresolved": "Share of industry-funded projects and company role.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 26,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03928/meng-mechatronic-engineering-with-industrial-experience/",
+     "title": "MEng Mechatronic Engineering with Industrial Experience (2027 entry)",
+     "section": "Course details",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final-year team project either directly funded by industry or inspired by industrial needs; past projects include a training wheelchair for para-athletes and a haptic glove for remote handling.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 27,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03894/meng-electrical-and-electronic-engineering/",
+     "title": "MEng Electrical and Electronic Engineering (2026 entry)",
+     "section": "Course details",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Year-long engineering team project described as industrially related.",
+     "supports": [
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "University College for Interdisciplinary Learning (UCIL)",
+   "legacy": true,
+   "category": "Breadth/interdisciplinary curriculum",
+   "reason": "Framework of university-wide elective interdisciplinary units; not itself a project scheme. The qualifying underlying activity found is the Manchester Enterprise Challenge (S7), which pairs UCIL enterprise units with group projects for community organisations. Other UCIL units checked (e.g. On Creativity) set briefs with a self-chosen audience (no external organisation). Manchester 2035 strategy commitment to expand partner-based learning for credit is a future plan, not current provision.",
+   "source_url": "https://www.ucil.manchester.ac.uk/info-for-students/",
+   "status_note": "Reassessed via S7"
+  },
+  {
+   "name": "On Creativity: Practices and Perspectives (UCIL unit)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Creative project responding to a brief to communicate a topic 'to an audience of your choice'; collaborative activities in live sessions but no external organisation sets brief or receives output.",
+   "source_url": "https://www.ucil.manchester.ac.uk/unit-catalogue/on-creativity-practices-and-perspectives/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Business Analytics and Artificial Intelligence summer dissertation projects",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "June-August dissertation research projects listed on the AMBS Masters Projects page; described as dissertations, not group client consultancy.",
+   "source_url": "https://www.alliancembs.manchester.ac.uk/collaborate/access-student-talent/consultancy-projects/masters-projects/",
+   "status_note": ""
+  },
+  {
+   "name": "Venture Further Awards / Ready, Set, Pitch! (Masood Entrepreneurship Centre)",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Start-up competitions and pitch events for students' own ventures; no external client brief.",
+   "source_url": "https://www.manchester.ac.uk/about/news/ready-set-pitch---april-edition-recap/",
+   "status_note": "April 2025 event"
+  },
+  {
+   "name": "Computer Science Industry Club",
+   "legacy": false,
+   "category": "Careers service",
+   "reason": "Employer membership network for recruitment; no project activity evidenced beyond the COMP23311 mentoring (S9).",
+   "source_url": "https://www.cs.manchester.ac.uk/connect/business-engagement/recruiting-talent/",
+   "status_note": ""
+  },
+  {
+   "name": "BSc Biotechnology group enterprise projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Course page says group enterprise projects involve close work with entrepreneurs on business plans for real life-sciences products; insufficient detail on whether entrepreneurs are external clients setting briefs (C unclear) and no unit identified; not researched further owing to search budget.",
+   "source_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08662/bsc-biotechnology/course-details/",
+   "status_note": "2027 entry page"
+  },
+  {
+   "name": "MEng Chemical Engineering / Mechanical Engineering group design projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group design projects (Chem Eng year 3; Mech Eng year 4) found, but no evidence of external organisation involvement retrieved.",
+   "source_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03848/meng-chemical-engineering/course-details/",
+   "status_note": "2027 entry page"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Manchester** has substantial live-client group project provision. It is concentrated in **Alliance Manchester Business School (AMBS)** and selected engineering degrees, with two cross-institutional routes. This review is **partial** because the shared web-search budget ran out.\n\n- **AMBS:**\n  - The **Full-time MBA** builds in several group consultancy projects for real clients. These include the **Social Impact Project** for third-sector clients and the **International Business Project**, where teams of 5-6 bid for client briefs and deliver consultancy.\n  - The **MSc Business Analysis and Strategic Management** offers a 60-credit May-September client consultancy option, assessed by a group report.\n  - **BSc Management** final-year students can choose a live consultancy project with a client company. Whether this is done in groups is unverified.\n- **Engineering and computing:**\n  - The MEng Civil degrees have a compulsory 30-credit **industry-supervised Civil Group Design Project (CIVL41530)**.\n  - **COMP23311** puts about 200 second-year computer scientists in teams of six, each mentored by an industry software engineer. The brief is academic, and the industry role is mentoring only.\n  - The final-year team projects in Electrical and Electronic Engineering and Mechatronics are only sometimes industry-funded.\n- **Cross-institutional:**\n  - The **Manchester Enterprise Challenge** pairs a UCIL enterprise unit, open across the university, with group projects for local charities and social enterprises. Project hosts judge the pitches.\n  - SEED's **University Living Lab** links assessment to more than 150 projects set by about 50 external stakeholders. Whether this work is done in groups was not verified.\n- **Science:** **BIOL60760** includes a group project with an external company.\n\n**Overall picture:** several distributed, mainly programme-embedded routes. There is no university-wide compulsory scheme.\n\n**Uncertain:**\n- Current status of the Enterprise Challenge, Living Lab and COMP23311 mentoring, which rest on undated pages.\n- Group format for the BSc Management consultancy and the Living Lab.\n- Humanities, law, architecture and health, which were not searched.",
+ "gaps": "Search budget exhausted after 14 completed searches (shared per-turn WebSearch limit), so the review is Partial. Not searched: Humanities faculty departments (Politics, Sociology, Arts, Languages, Social Statistics), Law, Manchester School of Architecture, Faculty of Biology, Medicine and Health, Careers Service programmes (e.g. any student consultancy or employer challenge), Chemistry/Physics/Maths/Earth Sciences, Aerospace/Mechanical/Chemical Engineering client links, MSc programmes outside AMBS. Unverified: group format of BSc Management consultancy and Living Lab projects; dated 2025/26 evidence for Enterprise Challenge, Living Lab, COMP23311 mentoring, BIOL60760; whether MBA M&A and Strategic Innovation projects have external clients (Commercial Business Project S4 may be superseded). Current-status calls for S1-S3, S5, S6, S8, S12 rest on dated 2025-2027 entry course-structure pages, not cohort reports. Further departmental instances likely."
+}

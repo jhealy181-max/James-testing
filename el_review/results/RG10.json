@@ -1,0 +1,1134 @@
+{
+ "inst_id": "RG10",
+ "institution": "King's College London",
+ "review_status": "Partial",
+ "partial_remaining": "Search budget exhausted after 14 searches (shared per-turn web-search limit). Not searched: science (Chemistry, Physics, Maths, Biosciences, Data Science MSc); arts, humanities & social sciences (SSPP charity projects, Policy Institute/Policy Lab, Geography, War Studies, service-learning modules); other (Law clinic, health faculties). Also outstanding: King's Experience / Entrepreneurship Institute challenge programmes; other KBS MSc consultancy capstones; group-working evidence for PPM Consultancy, IM Business Consulting Project and KEPs; current-year evidence for Insights, ASE and Civic Challenge.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "King's College London students team consultancy project real client organisation",
+    "King's Civic Leadership Academy undergraduates teams charity project year 2025-26",
+    "King's Civic Challenge 2026 student teams community partners apply",
+    "King's Careers employer set project challenge students groups present recommendations employers collaborate",
+    "Insights Programme King's Virtual Micro Internships Practera employer project brief groups eligibility 2026"
+   ],
+   "key_sources": [
+    "https://www.kcl.ac.uk/employers/collaborate/insights-programme",
+    "https://www.kcl.ac.uk/employers/collaborate/business-challenges",
+    "https://www.kcl.ac.uk/study/social-mobility/projects/current-students/programmes-networks",
+    "https://www.kcl.ac.uk/news/kings-civic-leadership-academy-launches",
+    "https://www.kcl.ac.uk/news/kings-civic-challenge-teams-up-students-staff-communities"
+   ],
+   "finding": "Central routes: the Careers Insights Programme (2-week group virtual micro-internships on employer-proposed briefs, final-year UGs; status undated); the Civic Leadership Academy (charity partners, 2025-26 confirmed, group status unclear for the internship); and the King's Civic Challenge (student-staff-charity teams pitching for funding; no current round found). King's Experience and Entrepreneurship Institute challenge formats were not searched."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "King's Business School Consultancy final-year undergraduates teams local enterprises module",
+    "Public Policy and Management MSc PPM Consultancy module live projects partners teams",
+    "International Management MSc Business Experience Project consultancy project group organisation King's Business School"
+   ],
+   "key_sources": [
+    "https://www.kcl.ac.uk/business/partnerships/consultancy",
+    "https://www.kcl.ac.uk/study/postgraduate-taught/courses/public-policy-and-management-msc/teaching-and-modules",
+    "https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc/teaching",
+    "https://www.kcl.ac.uk/news/kings-business-school-launches-online-consulting-project-with-leading-global-software-company"
+   ],
+   "finding": "KBS Consultancy (3-4 final-year UG teams for local enterprises; 2026 call) qualifies. PPM Consultancy (2025/26), the IM Business Consulting Project and the GHRM Benifex project are live-client routes with group working unverified. Other KBS MSc capstones (marketing, finance, etc.) and UG modules were not searched individually."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "King's informatics student projects industry partners group project software engineering client",
+    "Knowledge Exchange Projects informatics students team final year individual project partner organisation brief 2025",
+    "5CCS2SEG Software Engineering Group Project external client",
+    "Advanced Software Engineering MSc King's team develop software solution for external partners group project module",
+    "MSc Advanced Software Engineering teaching and modules required group project external partners credits 2026",
+    "King's College London Department of Engineering group design project industry partner students team"
+   ],
+   "key_sources": [
+    "https://www.kcl.ac.uk/informatics/engagement/knowledge-exchange-projects",
+    "https://www.kcl.ac.uk/informatics/engagement/student-projects",
+    "https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-software-engineering-msc",
+    "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc",
+    "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng"
+   ],
+   "finding": "Informatics: Knowledge Exchange Projects (partner briefs, 2025/26 confirmed, up to five students per brief; team working unclear) and the MSc ASE external-partner team project, which meets A/B/C but is undated. UG 5CCS2SEG and the Engineering MEng group project are team projects with no evidenced external client."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [
+    "King's College London chemistry physics biosciences module group project with external company client students (refused: shared web-search budget exhausted)",
+    "King's College London Data Science MSc group project industry partner sponsor team mathematics (refused: budget exhausted)"
+   ],
+   "key_sources": [],
+   "finding": "Not searched: the shared per-turn web-search limit was reached before the natural sciences, mathematics and data science searches could run."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched (budget exhausted). Leads seen only in result titles: 'SSPP Students helping local charities overcome challenges' (kcl.ac.uk/news) and 'Arts & Humanities students win King's Civic Challenge funding'. Also unexplored: King's Policy Institute/KPRI Policy Lab, War Studies, Geography and service-learning modules."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched (budget exhausted): Dickson Poon School of Law (King's Legal Clinic), health faculties (Nursing, Life Sciences & Medicine, IoPPN) and Dentistry."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "King's Business School Consultancy (Strategy consultancy support for London enterprises; originally Business Consultancy Scheme)",
+   "english_name": "King's Business School Consultancy",
+   "module_code": "",
+   "description": "King's Business School offers up to 15 enterprises in its local boroughs free consultancy. Each enterprise gets a team of 3-4 final-year undergraduate consultants from economics, business and/or management degrees. Topics include HR planning, marketing and social media, financial analysis, strategy and data analysis. Teams finish by delivering a final analysis and recommendations as a presentation and written report to the client. Projects are supervised by the Vice Dean Education. The scheme started as a pilot with Westminster City Council: 18 final-year students from BSc Business Management and BSc Economics & Management were selected and split into five groups.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "King's Business School",
+   "eligible_faculties_programmes": "Final-year undergraduates on economics, business and/or management degrees (pilot: BSc Business Management, BSc Economics & Management)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Final-year KBS economics/business/management undergraduates; pilot students were selected",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "No credit or assessment evidenced",
+   "duration": "Programme length not stated; a 'summer 2026 programme' is advertised, and one result also mentions a closing week of w/c 30 November",
+   "delivery_format": "Consultancy teams working with local enterprises; presentation + written report",
+   "project_based": "Yes",
+   "project_evidence": "Defined consultancy brief for an enterprise, ending in final analysis and recommendations as a presentation and written report [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a student consultancy team of three to four students' per enterprise [1]; pilot students split into five groups [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local enterprises are the clients: they receive free consultancy, and the presentation and written report are delivered to them; students may sign NDAs at the client's request [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client enterprise sets the business issue and receives the recommendations; the pilot was run in partnership with Westminster City Council (public sector)",
+   "named_partners": "Westminster City Council (pilot partner; year not shown in extract)",
+   "deliverable": "Client presentation + written report of recommendations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "Up to 15 enterprises per round (capacity, page undated); pilot: 18 students in 5 groups (year not shown)",
+   "unresolved": "Whether the scheme carries credit; exact timing (the summer 2026 call conflicts with the 'w/c 30 November' close); how students are selected now. Current status rests on the page saying applications for the summer 2026 programme are open.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/business/partnerships/consultancy",
+     "title": "Strategy consultancy support for London enterprises",
+     "section": "Main page",
+     "pub_year": "2026 (applications call)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'offers up to 15 enterprises in our local boroughs free business consultancy'; 'a student consultancy team of three to four students. Our consultants will be final year students studying a undergraduate degree in economics, business and/or management'; 'their final analysis and a set of recommendations in the form of a presentation and accompanying written report'; 'Our students will sign NDAs should you require them to.'; 'Applications for the summer 2026 programme are open.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/news/successful-completion-of-the-business-consultancy-scheme-in-partnership-with-westminster-city-council-2",
+     "title": "Successful completion of the Business Consultancy Scheme, in partnership with Westminster City Council",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Pilot with Westminster City Council: 18 final year students from BSc Business Management and BSc Economics & Management were selected, split into five groups; results to inform whether to expand across UG programmes.",
+     "supports": [
+      "group",
+      "participation",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "PPM Consultancy",
+   "english_name": "PPM Consultancy (MSc Public Policy & Management)",
+   "module_code": "",
+   "description": "An optional 15-credit module on the MSc Public Policy & Management. Students work on a real consulting project and propose solutions to current public policy and management problems. They also learn from practitioners who consult in the public and third sectors. King's works with public-sector and third-sector partners to generate the projects each year. Delivered as 10 two-hour workshops, January-April 2026.",
+   "academic_reach": "Programme/course",
+   "admin_host": "King's Business School, Department of Public Services Management & Organisation",
+   "eligible_faculties_programmes": "MSc Public Policy & Management",
+   "faculty_areas": [
+    "business",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "1-year MSc",
+   "eligibility_restrictions": "MSc PPM students (optional module)",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; assessment components not found",
+   "duration": "January-April 2026 (10 x 2-hour workshops)",
+   "delivery_format": "Workshops plus live consulting project",
+   "project_based": "Yes",
+   "project_evidence": "'real consulting project' with proposed solutions to contemporary public policy and management problems [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "No source found describing project teams or team sizes for this module. The programme mentions collective projects generally, but that is not module-specific [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Named public and third-sector partners generate the projects each year [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Partner organisations generate the consulting projects each year (NHS trusts, local authority, charities/social enterprises)",
+   "named_partners": "Guy's & St Thomas' NHS Foundation Trust, King's College Hospital NHS Trust, Health Education England, London Borough of Hackney, Think Forward, Aymara Social Enterprise (undated list)",
+   "deliverable": "Proposed solutions/consulting outputs (form not stated)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Whether students work in teams; assessment and deliverable format; whether it runs in 2026/27.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/public-policy-and-management-msc/discover-more",
+     "title": "Public Policy & Management MSc - Discover more",
+     "section": "PPM Consultancy",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work on live projects with public and third-sector partners, including Guy's & St Thomas' NHS Foundation Trust, King's College Hospital NHS Trust, Health Education England, London Borough of Hackney, Think Forward, Aymara Social Enterprise; King's works with these and other organisations to generate projects each year.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/public-policy-and-management-msc/teaching-and-modules",
+     "title": "Public Policy & Management MSc - Teaching & modules",
+     "section": "Optional modules: PPM Consultancy",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "15-credit optional module; 'will run from January to April 2026 and consist of 10 two-hour workshops'; students work on a real consulting project and propose solutions to contemporary public policy and management problems.",
+     "supports": [
+      "project",
+      "credit",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Consulting Project (MSc International Management)",
+   "english_name": "Business Consulting Project",
+   "module_code": "",
+   "description": "One of three 45-credit summer project options on the MSc International Management; the others are the Business Research Project and the Business Experience Project. Students apply competitively to work as business consultants with a local business on a live issue that the business has identified. Support is 2 project workshops and 4 hours of faculty supervision.",
+   "academic_reach": "Programme/course",
+   "admin_host": "King's Business School",
+   "eligible_faculties_programmes": "MSc International Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Summer (final stage) of 1-year MSc",
+   "eligibility_restrictions": "MSc International Management students; entry by competitive application",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "45 credits",
+   "duration": "Summer",
+   "delivery_format": "Consultancy with a local business; 2 workshops + 4 hours supervision",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy on 'a live issue they have identified' for a local business; 45-credit project [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Extract says students work 'as a business consultant'; teams are not mentioned [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "A local business identifies the live issue and acts as client [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client business supplies the live issue",
+   "named_partners": "",
+   "deliverable": "Not stated",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Group vs individual consulting; output and assessment; dated evidence of a 2025/26 or 2026/27 run (course page is un-yeared and no dated corroboration was found).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc/teaching",
+     "title": "International Management MSc - Teaching & Modules",
+     "section": "Semester 2 project options",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'The Business Research Project, Business Consulting Project and Business Experience Project are each worth 45 credits'; 'Entry to the business consulting project is via competitive application. MSc International Management students can apply to work as a business consultant with a local business on a live issue they have identified'; 2 project workshops and 4 hours of supervision.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "eligibility",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Live consulting project with Benifex (Online MSc Global Human Resource Management)",
+   "english_name": "Online consulting project",
+   "module_code": "",
+   "description": "A newer module on the online MSc Global Human Resource Management. Students work on a live organisational challenge, acting as HR consultants for the employee-benefits platform Benifex.",
+   "academic_reach": "Programme/course",
+   "admin_host": "King's Business School (online)",
+   "eligible_faculties_programmes": "Online MSc Global Human Resource Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "Online",
+   "project_based": "Unclear",
+   "project_evidence": "Live organisational challenge in a consultant role, but no deliverable is evidenced [1].",
+   "group_working": "Unclear",
+   "group_evidence": "No team evidence found.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Benifex supplies the live organisational challenge, and students act as its HR consultants [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Company supplies the live challenge",
+   "named_partners": "Benifex (news article, undated)",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Module name and code, deliverable, team structure, launch year and whether other clients replace Benifex in later runs. Only a search-summary paraphrase of the news item was obtained.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/news/kings-business-school-launches-online-consulting-project-with-leading-global-software-company",
+     "title": "King's Business School launches online consulting project with leading global software company",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A new module in which students work on a live organisational challenge, taking on the role of HR consultants for the employee benefits platform Benifex (online MSc Global Human Resource Management).",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Knowledge Exchange Projects (KEPs)",
+   "english_name": "Knowledge Exchange Projects",
+   "module_code": "",
+   "description": "Department of Informatics scheme. Private and public-sector organisations propose projects, which academics develop into full briefs. Each brief is assigned to up to five final-year undergraduate (Year 3/4) or MSc students. Students spend about six months building new software, code or prototypes under academic supervision. Partners supply software and data, attend a kick-off meeting and two supervision sessions, and receive a copy of the outputs.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Department of Informatics (Faculty of Natural, Mathematical & Engineering Sciences)",
+   "eligible_faculties_programmes": "Final-year Informatics undergraduates (Year 3, Year 4/MSci) and MSc students; the 2025 call targeted final-year AI undergraduates",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Final year UG; MSc",
+   "eligibility_restrictions": "Informatics students; allocation by skills and interests",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated (likely the final-year/MSc project, unconfirmed)",
+   "duration": "About six months",
+   "delivery_format": "Supervised project with partner kick-off and supervision sessions",
+   "project_based": "Yes",
+   "project_evidence": "Partner briefs developed into full project briefs; students build software, code or prototypes, and the partner receives a copy of the outputs [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'Each brief is assigned to up to five students' [1]. This does not say whether those students produce one joint output or separate individual final-year projects on the same brief.",
+   "employer_connected": "Yes",
+   "employer_evidence": "The partner submits the proposal, supplies software and data, attends the kick-off and two supervision sessions, and receives the outputs [1]. The 2025 call asked organisations to submit real-world challenges for final-year AI undergraduates starting October 2025 [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes the brief, supplies data, joins supervision, receives outputs",
+   "named_partners": "",
+   "deliverable": "Software, code or prototype",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "Over 90 KEPs delivered since 2022 (cumulative projects, as stated on page)",
+   "unresolved": "Team vs individual working; credit and module mapping; whether it is compulsory or optional within the final-year project.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/informatics/engagement/knowledge-exchange-projects",
+     "title": "Knowledge Exchange Projects",
+     "section": "Main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Any organisation can propose a project for students to work on, under the guidance of academic supervisors. Partner organisations submit project proposals each year, which are developed into full briefs with input from Informatics academics. Each brief is assigned to up to five students'; around six months building new software, code or prototypes; partners provide software/data, attend a kick-off meeting and two additional supervision sessions, receive a copy of the outputs; 'Since 2022, our students have delivered over 90 KEPs.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://mailman.kcl.ac.uk/archives/list/ai-inst-internal@mailman.kcl.ac.uk/thread/L2DKLSLG43LG7SFKMQYI453PS6QMLHKY/",
+     "title": "King's Institute for Artificial Intelligence Round-up (mailing list)",
+     "section": "KEP call",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Organisations invited to submit a real-world challenge or research idea for the Department of Informatics' final year AI undergraduates; selected students start October 2025; proposals due April 2025; contact informatics-kep@kcl.ac.uk.",
+     "supports": [
+      "status",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.kcl.ac.uk/informatics/assets/kcl-nmes-doi-enterprise-engagment-report-2023-24-digital-aw.pdf",
+     "title": "Informatics Enterprise & Engagement Report 2023-24",
+     "section": "KEPs",
+     "pub_year": "2023-24",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Department offered Knowledge Exchange Projects for Year 3, 4 and MSc students.",
+     "supports": [
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Advanced Software Engineering team project for external partners (incl. AWS Impact Accelerator challenges)",
+   "english_name": "Advanced Software Engineering external-partner team project",
+   "module_code": "",
+   "description": "On the MSc Advanced Software Engineering, students join a mixed-background team to build a software solution for an external partner, in sectors from computing and law to aviation and government. Informatics material also describes second-semester work on problems set by public-sector challenge sponsors, with mentors from King's and AWS (the AWS Impact Accelerator). In one example, final-year master's students worked with Richmond and Wandsworth Councils on AWS-based digital solutions for social care and Deprivation of Liberty Safeguards.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Informatics",
+   "eligible_faculties_programmes": "MSc Advanced Software Engineering (AWS strand: final-year master's students)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "1-year MSc, semester 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Module/credit not identified (separate from the 60-credit individual project)",
+   "duration": "Semester 2 (AWS strand)",
+   "delivery_format": "Team software project with academic supervisor and domain advisor",
+   "project_based": "Yes",
+   "project_evidence": "'develop a software solution for one of our external partners' [1]; councils' digital solutions [2].",
+   "group_working": "Yes",
+   "group_evidence": "'join a team of students with varied backgrounds to develop a software solution' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External partners are the recipients of the team's software solution [1]; public-sector challenge sponsors set the problems, and AWS mentors take part [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Partner sets the problem and receives the solution; AWS provides mentors and technology in the Impact Accelerator strand",
+   "named_partners": "Richmond Council and Wandsworth Council with AWS (year not shown); course page names IBM, Terranova Software, Aerogility as companies students can work with",
+   "deliverable": "Software solution / digital prototype",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Module name/code and credits; the course page is un-yeared, and the Feb 2026 student blog only mentions group work generally, not partner projects; year of the AWS/council projects not shown. May overlap with the KEP scheme (S5), but it is described as a team route.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/advanced-software-engineering-msc",
+     "title": "Advanced Software Engineering MSc",
+     "section": "Course overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students 'join a team of students with varied backgrounds to develop a software solution for one of our external partners in sectors ranging from computing and law to aviation and government'; work with companies such as IBM, Terranova Software and Aerogility.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/informatics/engagement/student-projects",
+     "title": "Student projects (Department of Informatics)",
+     "section": "AWS Impact Accelerator",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'Final-year master's students worked with public sector partners, Richmond and Wandsworth Councils, to develop digital solutions using AWS technology'; second semester complex problems presented by public sector challenge sponsors with mentors from King's and AWS; named domain advisor and academic supervisor.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.kcl.ac.uk/nms/2026/02/12/studying-msc-advanced-software-engineering-at-kings-what-it-is-really-like/",
+     "title": "Studying MSc Advanced Software Engineering at King's: What it is really like",
+     "section": "Student blog",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group work described as a consistent part of the course (does not specify partner projects).",
+     "supports": [
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Software Engineering Group Project",
+   "english_name": "Software Engineering Group Project",
+   "module_code": "5CCS2SEG",
+   "description": "A Level 5 (second-year) module in which undergraduate Computer Science students build a substantial software system as a team. No source found showing that external clients set or receive the projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Informatics",
+   "eligible_faculties_programmes": "BSc/MSci Computer Science and related Informatics degrees",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not obtained",
+   "duration": "",
+   "delivery_format": "Team software development",
+   "project_based": "Yes",
+   "project_evidence": "Develop 'a substantial software system' [2].",
+   "group_working": "Yes",
+   "group_evidence": "'you'll also work as part of a team to develop a substantial software system' [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "No module-level evidence of external clients. The Informatics department says some student projects are co-designed with external partners, but that is not tied to this module.",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Whether clients are external organisations; the handbook URL is an older site structure.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/nms/depts/informatics/study/current/handbook/Progs/Modules/5CCS2SEG.aspx",
+     "title": "Department of Informatics module page 5CCS2SEG",
+     "section": "Module listing",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "5CCS2SEG Software Engineering Group Project, Level 5 module.",
+     "supports": [
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc",
+     "title": "Computer Science BSc",
+     "section": "Course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Project-based learning is central to the programme as part of your second year; you'll also work as part of a team to develop a substantial software system.'",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Major group project (General Engineering MEng)",
+   "english_name": "Engineering MEng group project",
+   "module_code": "",
+   "description": "The General Engineering MEng ends with a major group project, taken alongside students from the Electrical Engineering MEng and MSc Robotics. Projects address real-world themes such as health and wellbeing technology, environmental action, and automotive and future mobility, and are carried out in the Engineering Project Space. No sponsoring organisations were evidenced.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Engineering",
+   "eligible_faculties_programmes": "General Engineering MEng, Electrical Engineering MEng, MSc Robotics",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Final year MEng; MSc",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "Team project in dedicated project space",
+   "project_based": "Yes",
+   "project_evidence": "Major project on real-world problems [1].",
+   "group_working": "Yes",
+   "group_evidence": "'major group project' undertaken with a mixed cohort [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Themes are 'real-world', but no external organisation is shown setting briefs or receiving outputs. Departmental industry ties (Ericsson, BT, JLR, Caterpillar) are research-based [2].",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Whether industry sponsors set the group-project briefs; compulsory status inferred from 'ends with a major group project' (check); no dated source found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng",
+     "title": "General Engineering MEng",
+     "section": "Course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Degree ends with a major group project undertaken within a cohort including Electrical Engineering MEng and MSc Robotics students; topics such as health and wellbeing technology, environmental action, automotive and future mobility; Engineering Project Space.",
+     "supports": [
+      "project",
+      "group",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/engineering/research/industry",
+     "title": "King's engineering and industry",
+     "section": "Industry partners",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry links mainly research-based; Ericsson and British Telecom (communications), Jaguar, Land Rover and Caterpillar (vehicles).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Insights Programme - Virtual Micro Internships",
+   "english_name": "Insights Programme (Virtual Micro Internships)",
+   "module_code": "",
+   "description": "King's Careers & Employability work-related learning programme. Employers propose a specific industry project, and students work in groups for two weeks (25 hours) in spring and summer on the Practera platform. Students return reports to the employer, for example technical reports on sustainability or growth strategy. Support is given to students and employers before and during the project.",
+   "academic_reach": "University-wide",
+   "admin_host": "King's Careers & Employability (Work-related Learning)",
+   "eligible_faculties_programmes": "Final-year undergraduates across all nine faculties (one source says the offer is for final-year UGs or PhD students from under-represented communities)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Final-year UGs; possibly targeted at under-represented groups (sources conflict)",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit",
+   "duration": "2 weeks (25 hours)",
+   "delivery_format": "Virtual, on the Practera platform, with live employer brief",
+   "project_based": "Yes",
+   "project_evidence": "'industry-relevant project proposed by the employer'; students return reports such as technical reports on sustainability and growth strategy [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students work in groups' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employers propose the project brief and receive the students' reports, with support throughout. This is a live brief, not a pre-built simulation [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Employer proposes the brief and receives the output",
+   "named_partners": "",
+   "deliverable": "Group report (e.g. technical report) to employer",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 or 2026/27 run found; the target cohort conflicts (all final-year UGs vs under-represented groups); the launch article is undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/employers/collaborate/insights-programme",
+     "title": "Insights Programme",
+     "section": "Virtual Micro Internships",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Virtual Micro Internships 'hosted on the experiential learning platform Practera, where students work in groups on an industry-relevant project proposed by the employer for two weeks (25 hours) in spring and summer'; target cohort 'final year undergraduate students across our nine faculties'; partner with 'employers and consultancies of any size and location interested in providing final year undergraduate students with a specific project'; students return technical reports on topics such as sustainability and growth strategy.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/news/wrl-insights",
+     "title": "Launching our new Work-related Learning Programme - Insights",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Insights offer is for final year undergraduates or PhD students from under-represented communities within UK HE.",
+     "supports": [
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Challenges & Projects (Virtual Business Projects)",
+   "english_name": "Virtual Business Projects",
+   "module_code": "",
+   "description": "Employer-facing page describing Virtual Business Projects. Participants solve challenges posed directly by employers, in groups, on topics such as ESG, international business development and branding. Probably the same Insights offer as S9.",
+   "academic_reach": "Unclear",
+   "admin_host": "King's Careers & Employability",
+   "eligible_faculties_programmes": "",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Challenges posed by employers on defined topics [1].",
+   "group_working": "Yes",
+   "group_evidence": "'solve challenges in groups' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges 'posed directly by employers' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "S9",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Probably the partner-facing description of the Insights Programme (S9).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/employers/collaborate/business-challenges",
+     "title": "Business Challenges & Projects",
+     "section": "Virtual Business Projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Virtual Business Projects allow participants to solve challenges in groups, posed directly by employers on topics such as environmental and sustainable governance, international business development and branding.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "King's Civic Leadership Academy (CLA)",
+   "english_name": "King's Civic Leadership Academy",
+   "module_code": "",
+   "description": "Leadership programme pairing London charities ('Community Partners') with undergraduates. When launched it was described as pairing charities with teams of undergraduates for a year, with students spending about five hours a week in term time on an issue the charity lacked resources to tackle. The 2025-26 cycle has a 3-day Kickstarter for 100 students (February 2026), where partners can run a 'Community challenge' with student groups, and a 6-week (210-hour) project-based internship for 50 students (May-July 2026).",
+   "academic_reach": "Unclear",
+   "admin_host": "King's (social mobility / King's Local civic engagement)",
+   "eligible_faculties_programmes": "Non-final-year undergraduates",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Non-final year",
+   "eligibility_restrictions": "Non-final-year UGs; selective (100 Kickstarter / 50 internship places); listed under social-mobility programmes, so it may target widening-participation students",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "See children.",
+   "group_working": "Unclear",
+   "group_evidence": "See children.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Charity partners host students and supply issues/challenges [1][2].",
+   "partner_type": "Charity/community",
+   "partner_role": "",
+   "named_partners": "Pecan, Young Barnet Foundation, Living Wage Foundation (among 18 charity partners; year not shown)",
+   "deliverable": "",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "2025-26 capacity: 100 Kickstarter places, 50 internship places",
+   "unresolved": "Whether open to all undergraduates or targeted at under-represented groups.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/study/social-mobility/projects/current-students/programmes-networks",
+     "title": "Programmes & Networks",
+     "section": "King's Civic Leadership Academy",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Applications for the 2025-26 student and Community Partner programmes have closed; 3-day Kickstarter for 100 students and a 6-week, 210-hour project-based internship with a community organisation for 50 students, May-July 2026; Community Partners could welcome students, run a 'Community challenge' with student groups, or host a 6-week (210-hour) internship from May 2026.",
+     "supports": [
+      "status",
+      "participation",
+      "eligibility",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/news/kings-civic-leadership-academy-launches",
+     "title": "King's Civic Leadership Academy launches",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Programme 'pairs London charities with teams of talented undergraduates for a year of mutually beneficial and impactful collaboration'; students spend five hours a week with their charity partner on an issue the charity has lacked the resources to tackle; 18 London charity partners incl. Pecan, Young Barnet Foundation, Living Wage Foundation.",
+     "supports": [
+      "group",
+      "employer",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11a",
+   "parent_local_id": "S11",
+   "is_umbrella": false,
+   "official_name": "CLA Kickstarter - Community challenge",
+   "english_name": "CLA Kickstarter community challenge",
+   "module_code": "",
+   "description": "During the 3-day Kickstarter (February 2026), Community Partners can run a 'Community challenge' with student groups or host students at their offices.",
+   "academic_reach": "Unclear",
+   "admin_host": "King's Civic Leadership Academy",
+   "eligible_faculties_programmes": "Non-final-year undergraduates selected for CLA",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "3 days (Feb 2026)",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "A 3-day challenge format; no defined output for the organisation is evidenced [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Community challenge' run 'with student groups' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Community Partner organisations run the challenge [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Sets and runs the challenge",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Output of the challenge is not evidenced, so A is Unclear. Partners could alternatively host office visits; this record covers only the partner-run 'Community challenge' option, where the partner sets the challenge by definition.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/study/social-mobility/projects/current-students/programmes-networks",
+     "title": "Programmes & Networks",
+     "section": "King's Civic Leadership Academy",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Community Partners could take part in the 3-day Kickstarter in February 2026 by welcoming students at their offices, running a 'Community challenge' with student groups, or hosting a 6-week (210-hour) internship starting May 2026.",
+     "supports": [
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11b",
+   "parent_local_id": "S11",
+   "is_umbrella": false,
+   "official_name": "CLA project-based internship with a community organisation",
+   "english_name": "CLA charity internship",
+   "module_code": "",
+   "description": "A 6-week, 210-hour project-based internship with a London community organisation, May-July 2026, for 50 students, working on an issue the charity has lacked the resources to tackle.",
+   "academic_reach": "Unclear",
+   "admin_host": "King's Civic Leadership Academy",
+   "eligible_faculties_programmes": "Non-final-year undergraduates selected for CLA",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "6 weeks / 210 hours",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "'project-based internship' on an issue the charity lacked resources to tackle [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "The launch article describes 'teams of talented undergraduates' [2], but the 2025-26 internship description does not say whether students work as a team or individually per charity [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Charity hosts the intern and sets the issue [1][2].",
+   "partner_type": "Charity/community",
+   "partner_role": "Hosts and sets the project",
+   "named_partners": "Pecan, Young Barnet Foundation, Living Wage Foundation (year not shown)",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Team vs individual placement. duration_band left Unclear because 6 weeks full-time (210 hours) falls between the '1–4 weeks' and '~1 term' bands.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/study/social-mobility/projects/current-students/programmes-networks",
+     "title": "Programmes & Networks",
+     "section": "King's Civic Leadership Academy",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "6-week, 210-hour project-based internship with a community organisation for 50 students, May to July 2026.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/news/kings-civic-leadership-academy-launches",
+     "title": "King's Civic Leadership Academy launches",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'pairs London charities with teams of talented undergraduates'; students work on an issue the charity has lacked the resources to tackle.",
+     "supports": [
+      "group",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S12",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "King's Civic Challenge",
+   "english_name": "King's Civic Challenge",
+   "module_code": "",
+   "description": "Students and staff team up with a local community partner (charities in Lambeth, Southwark and Westminster), supported by an alumni mentor. Teams are trained to refine a project idea addressing a community challenge, then pitch to a panel of judges for funding of up to £5,000 to deliver it. There is also a Community Choice award.",
+   "academic_reach": "Unclear",
+   "admin_host": "King's (civic engagement / King's Local)",
+   "eligible_faculties_programmes": "",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Team develops a project to address a partner's community challenge and pitches it for delivery funding [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of students and staff ('teams up students, staff and local communities') [1][2]. Teams include staff.",
+   "employer_connected": "Yes",
+   "employer_evidence": "A community partner is a member of each team and co-develops the project [2][3].",
+   "partner_type": "Charity/community",
+   "partner_role": "Co-develops the project with the team and benefits from the funded project",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "No 2025/26 or 2026/27 round found; news items undated in results (may be historical only). Eligibility (all students?) not confirmed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/news/kings-civic-challenge-teams-up-students-staff-communities",
+     "title": "King's Civic Challenge teams up students, staff and local communities for positive change",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students and staff team up with a community partner, supported by an alumni mentor, trained to refine ideas and pitch to a panel of judges for funding.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kcl.ac.uk/news/local-charities-join-together-with-students-and-staff-for-kings-civic-challenge",
+     "title": "Local charities join together with students and staff for King's Civic Challenge",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Local charities from Lambeth, Southwark and Westminster partner with student and staff teams.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.kcl.ac.uk/news/local-collaborations-between-students-staff-and-community-partners-secure-kings-civic-challenge-funding",
+     "title": "Local collaborations between students, staff and community partners secure King's Civic Challenge funding",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Shortlisted finalists pitched for up to £5,000 funding for collaborations with community partners.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Business Experience Project (MSc International Management)",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "Legacy row. Re-searched: the Business Experience Project requires students to secure their own summer internship meeting KBS criteria (45 credits). It is an individual internship-based project, so B is not met, and no team or client brief is evidenced. The programme's separate Business Consulting Project (live issue for a local business) is recorded as S3.",
+   "source_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/international-management-msc/teaching",
+   "status_note": "Undated course page"
+  },
+  {
+   "name": "King's Enterprise Award",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Legacy row. Extracurricular skills development and reflection award with HEAR recognition, run by the Entrepreneurship Institute. No team project on an external organisation's brief is evidenced (not re-searched this round because the search budget ran out; legacy description used).",
+   "source_url": "https://www.kcl.ac.uk/entrepreneurship/learn-entrepreneurial-skills/kings-enterprise-award",
+   "status_note": "Legacy: 2026/27 applications confirmed"
+  },
+  {
+   "name": "Insights Programme - Virtual Consultancy Projects (doctoral researchers)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Summary says the 'consultancy version' runs in summer or winter for doctoral researchers. No extract on team structure, brief or output was obtained.",
+   "source_url": "https://www.kcl.ac.uk/employers/collaborate/insights-programme",
+   "status_note": "Undated"
+  },
+  {
+   "name": "MSc Marketing consultancy for Westminster City Council (West End)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "News item: postgraduate marketing students acted as consultants for Westminster City Council on the future of the West End. It is about three years old (historical), and the module name and team structure were not identified.",
+   "source_url": "https://www.kcl.ac.uk/news/kings-postgraduate-marketing-students-step-up-to-help-londons-west-end-thrive",
+   "status_note": "~2023; historical"
+  },
+  {
+   "name": "180 Degrees Consulting at King's",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Student-run society doing consulting for non-profits and social enterprises. It is not university-run provision, and no university-level evidence was obtained.",
+   "source_url": "https://www.kcl.ac.uk/business/undergraduate/student-experience/student-societies",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**King's College London** (partial review) has live-client project provision spread across the Business School, Informatics and central civic and careers units. Some routes are confirmed to involve group working; for others it is unverified.\n\n- **Fully qualifying, current:** The **King's Business School Consultancy** places teams of 3-4 final-year economics, business and management undergraduates with up to 15 local enterprises. Teams deliver a presentation and written recommendations, and a summer 2026 call is open.\n- **Qualifying but undated:** On the **MSc Advanced Software Engineering**, teams build software for external partners, including public-sector challenges with AWS mentors (Richmond and Wandsworth Councils). The **Careers Insights Programme** runs 2-week group virtual micro-internships on employer-proposed briefs for final-year undergraduates across all nine faculties.\n- **Live clients, group working unclear:** Informatics' **Knowledge Exchange Projects** (over 90 since 2022; partners set the brief, join supervision and receive the software; up to five students per brief; 2025/26 confirmed). **PPM Consultancy** (NHS trusts, Hackney, charities; Jan-Apr 2026). The MSc International Management **Business Consulting Project** (competitive, 45 credits).\n- **Civic routes:** The **Civic Leadership Academy** (charity partners; 2025-26 Kickstarter challenge with student groups and a 6-week project internship) and the **King's Civic Challenge** (student-staff-charity teams pitching for up to £5,000; no current round found).\n- **No external client evidenced:** Team projects without an evidenced external client include the second-year Software Engineering Group Project and the Engineering MEng group project.\n\n**Not yet searched:** science, arts and humanities, social sciences, law and health, so further departmental routes are likely.",
+ "gaps": "Science, AHSS and other areas unsearched (budget). Group-working evidence missing for KEPs, PPM Consultancy, IM Business Consulting Project and the GHRM Benifex project. Dated current-year evidence missing for Insights, MSc ASE partner project and Civic Challenge. Whether Insights and CLA are open to all students or targeted at under-represented groups. KBS Consultancy timing inconsistency (summer 2026 vs w/c 30 November). Further departmental instances likely (e.g. KBS MSc capstones, SSPP charity projects, Policy Institute)."
+}

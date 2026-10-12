@@ -1,0 +1,1003 @@
+{
+ "inst_id": "RG04",
+ "institution": "Cardiff University",
+ "review_status": "Partial",
+ "partial_remaining": "Search budget exhausted (shared per-turn WebSearch limit reached after 24 searches). Not yet searched: health/medical schools (Medicine, Dentistry, Healthcare Sciences, Nursing, Pharmacy, Optometry, Psychology), JOMEC Journalism, History/Archaeology, Social Sciences, Music. Not verified: Student Enterprise programmes and annual report, FinTech Wales Skills Challenge, Public Value Hackathon, Business School Opportunities Zone 'live business projects'. Also needed: dated 2025/26 corroboration for S2-S5, and group-structure evidence for S4, S7 and S10.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Cardiff University students consultancy project live client team employer",
+    "Cardiff University Bremen Cardiff sustainability programme students",
+    "Bremen-Cardiff Initiative on Sustainability and Entrepreneurship real-world problem company challenge teams",
+    "Cardiff University Student Futures work experience team project employer brief students work in teams",
+    "Cardiff University module students work in groups on a project for an external organisation client report presentation",
+    "[blocked by budget] Cardiff Student Enterprise annual report 2024/25 programmes challenge partner organisations"
+   ],
+   "key_sources": [
+    "https://www.cardiff.ac.uk/global/global-partnerships/university-of-bremen",
+    "https://sites.cardiff.ac.uk/student-futures-framework/student-futures-framework/activities-supported-by-student-futures/",
+    "https://www.cardiff.ac.uk/__data/assets/pdf_file/0012/2899470/202526-Student-Enterprise-Annual-Report.pdf"
+   ],
+   "finding": "No university-wide employer-linked group project route was verified. The Bremen-Cardiff Initiative (two weeks, real-world problem) lacks evidence of an external client. The Student Futures framework and Cardiff Award are frameworks. Student Enterprise programmes could not be checked before the budget ran out."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Cardiff Business School MBA management consultancy project PA Consulting charities teams",
+    "Cardiff Business School undergraduate module consultancy project real organisation group BS3",
+    "Business Management MSc Cardiff consultancy project BST740 group business problem organisation module description",
+    "Strategic Entrepreneurship and Innovation MSc New Venture Plan group project assigned a client brief",
+    "Cardiff MBA live consultancy project company report challenge partner identified final stage",
+    "\"Consultancy Challenge\" Cardiff Business School students organisation client teams",
+    "\"Cardiff Challenge\" Business School students teams organisations",
+    "[blocked by budget] FinTech Wales Skills Challenge"
+   ],
+   "key_sources": [
+    "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/strategic-entrepreneurship-and-innovation-msc",
+    "https://www.cardiff.ac.uk/news/view/790309-student-skills-boost-charity-success",
+    "https://www.cardiff.ac.uk/business-school/news/features/become-a-future-leader-with-the-cardiff-mba-part-time-programme",
+    "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/business-management-msc-full-time-september-start"
+   ],
+   "finding": "PGT client projects were found: the MSc SEI New Venture Plan (group, real company client), the MBA charity consultancy elective with PA Consulting, the MBA live/Accelerator project (group unclear) and the MSc Business Management Consultancy Challenge (charity clients only 'may'). No undergraduate business consultancy module was evidenced. All pages are undated."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "National Software Academy group project client industry sponsored team second year",
+    "Applied Software Engineering BSc real clients private public third sectors team meet clients every two weeks",
+    "Cardiff School of Engineering group design project industry sponsor students team",
+    "\"Work with our students\" School of Engineering Cardiff group projects Masters students industry topic intensive",
+    "Cardiff School of Computer Science and Informatics team project external client industry BSc Computer Science year"
+   ],
+   "key_sources": [
+    "https://www.cardiff.ac.uk/study/undergraduate/courses/course/applied-software-engineering-bsc",
+    "https://www.cardiff.ac.uk/software-academy/working-with-industry",
+    "https://www.cardiff.ac.uk/engineering/industrial-collaboration/work-with-our-students",
+    "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/computer-science-with-a-foundation-year-bsc"
+   ],
+   "finding": "The National Software Academy's BSc Applied Software Engineering embeds team projects for real private, public and third-sector clients (the clearest qualifying route, current for 2026). The CS year-2 group project has only optional external clients. Engineering offers company-linked MSc group projects (coverage unclear), and MEng group design projects are research-linked."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Cardiff University chemistry OR biosciences OR earth sciences OR mathematics group project industry partner students real problem"
+   ],
+   "key_sources": [
+    "https://www.cardiff.ac.uk/mathematics/research/partnerships-and-collaborations",
+    "https://www.cardiff.ac.uk/biosciences/about-us/working-with-business/research-collaboration-and-development"
+   ],
+   "finding": "Only research partnership pages were found (Maths Industrial Advisory Board, KTP/KESS); no taught group project with an external client was found. Coverage is thin (one search) and further departmental instances are possible."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Cardiff University School of Geography and Planning OR Journalism OR Social Sciences students group live project client organisation brief",
+    "Cardiff School of English Communication Philosophy OR Modern Languages OR History employer project students team heritage partner module",
+    "Spatial Planning and Development MSc Cardiff Live Project CPT831 group real client planning authority"
+   ],
+   "key_sources": [
+    "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/spatial-planning-and-development-msc",
+    "https://data.cardiff.ac.uk/legacy/grails/module/CP0210/16A.html",
+    "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/philosophy-and-linguistics-ba"
+   ],
+   "finding": "Planning has live-client projects: MSc SPD CPT831 has real clients such as planning authorities (group unclear), and the UG CP0210 group consultancy is evidenced only historically. English/Philosophy policy and industry projects lack evidenced external clients. Journalism, History and Social Sciences were not covered."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Welsh School of Architecture live projects community clients students groups",
+    "Cardiff MArch \"Design in Practice\" live project teaching module groups client",
+    "Cardiff Law School pro bono students teams project organisation Innocence Project OR Law Commission OR policy clinic"
+   ],
+   "key_sources": [
+    "https://www.cardiff.ac.uk/architecture/engagement/external-practitioner-call",
+    "https://www.cardiff.ac.uk/news/view/1758744-impressive-work-and-ideas-developed-during-vertical-studio-2020",
+    "https://www.cardiff.ac.uk/pro-bono/pro-bono-schemes"
+   ],
+   "finding": "Architecture uses live projects (Design in Practice; Grangetown/Grange Pavilion community clients), but group structure and current status are unclear. Law pro bono is volunteer casework (excluded). Health schools (Medicine, Dentistry, Healthcare Sciences, Pharmacy, Psychology) were NOT searched because the budget ran out."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "BSc Applied Software Engineering: client-based team projects (National Software Academy)",
+   "english_name": "Applied Software Engineering client team projects",
+   "module_code": "",
+   "description": "Within the National Software Academy's BSc Applied Software Engineering, student teams develop software for real clients from the private, public and third sectors. Client projects start from a business problem posed by the client; teams typically run four-week client projects, meeting the client every two weeks, and build a minimum viable product. Two days per week are reserved for group project work; year two involves larger projects with regular customer meetings and a final-year Large Team Project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "National Software Academy, School of Computer Science and Informatics",
+   "eligible_faculties_programmes": "BSc Applied Software Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 1-3 (client projects recur across the degree)",
+   "eligibility_restrictions": "Students on BSc Applied Software Engineering only",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Embedded group project modules; credit per module not retrieved",
+   "duration": "Most client projects run about four weeks; final-year Large Team Project reported as about 10 weeks",
+   "delivery_format": "In person, at the National Software Academy",
+   "project_based": "Yes",
+   "project_evidence": "Teams develop software projects for real clients and build a minimum viable product from a client's business problem [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'your team will meet with your clients every two weeks' [1]; live client projects are team-based [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients from the private, public and third sectors pose the business problem and meet teams fortnightly [1]; partners 'can provide live client projects' conceived from a business problem [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client sets the business problem, meets the team fortnightly and receives the software output",
+   "named_partners": "Natural Resources Wales (fly-tipping reporting tool) and BT Group (configuration system) named as past client projects in NSA search results (undated; page attribution within the NSA site not certain)",
+   "deliverable": "Working software / minimum viable product for the client",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Module codes and credits for each client project not retrieved. Current delivery rests on the 2026-entry course page [3] corroborating the un-yeared course page [1]. The 10-week Large Team Project duration comes from a search summary.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/applied-software-engineering-bsc",
+     "title": "Applied Software Engineering (BSc) - Study - Cardiff University",
+     "section": "Course overview / how you'll learn",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'work on the development of software projects for real clients drawn from the private, public and third sectors'; 'Most client-based projects span four weeks and your team will meet with your clients every two weeks during this period.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cardiff.ac.uk/software-academy/working-with-industry",
+     "title": "Working with industry - National Software Academy - Cardiff University",
+     "section": "Partner options",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Partners 'can provide live client projects for students to develop and acquire skills'; projects 'are conceived from a fundamental business problem', and students build a minimum viable product; partners can also mentor and offer sponsorship or bursaries.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/applied-software-engineering-bsc",
+     "title": "Applied Software Engineering (BSc) - 2026 entry",
+     "section": "2026 entry course page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A 2026-entry course page for the programme was returned by search (it is listed with the NSA client-project results). It is cited only as dated corroboration that the programme is offered for 2026/27.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The New Venture Plan",
+   "english_name": "The New Venture Plan (MSc Strategic Entrepreneurship and Innovation)",
+   "module_code": "BST413",
+   "description": "Final-stage option on the MSc Strategic Entrepreneurship and Innovation (the course page also uses the name Business Strategy and Entrepreneurship). Student groups are assigned a client company. The client provides a brief with specific objectives, and the group investigates the challenge and delivers recommendations through professional reports, investor pitches and group presentations to academic staff and, in some cases, industry professionals. Students take this or a dissertation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cardiff Business School",
+   "eligible_faculties_programmes": "MSc Strategic Entrepreneurship and Innovation",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final (summer) stage of one-year MSc",
+   "eligibility_restrictions": "Programme students who complete the taught stage; alternative to dissertation",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits (BST413); professional reports, investor pitches, group presentations",
+   "duration": "Summer project stage (length not stated)",
+   "delivery_format": "In person with client",
+   "project_based": "Yes",
+   "project_evidence": "Client brief with specific objectives; deliver practical recommendations, reports and pitches [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a group-based project in collaboration with a real company' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Each group is 'assigned a client, who'll provide a brief outlining specific objectives and expectations'; industry professionals sometimes attend presentations [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client company sets brief and receives recommendations; industry professionals sometimes attend presentations",
+   "named_partners": "",
+   "deliverable": "Professional report, investor pitch and group presentation of recommendations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "The course page is un-yeared and no dated 2025/26 or 2026/27 source corroborates it. Duration was not found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/strategic-entrepreneurship-and-innovation-msc",
+     "title": "Strategic Entrepreneurship and Innovation (MSc) - Study - Cardiff University",
+     "section": "Course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'On successful completion of the taught stage you'll move either onto The New Venture Plan - a group-based project in collaboration with a real company - or undertake a dissertation.' 'you'll be assigned a client, who'll provide a brief outlining specific objectives and expectations.' 'present strategic plans to both academic staff and, in some cases, industry professionals.' Module BST413, 40 credits.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Cardiff MBA Management Consultancy elective (charity consultancy with PA Consulting)",
+   "english_name": "MBA Management Consultancy elective",
+   "module_code": "",
+   "description": "MBA elective co-run with PA Consulting. Student teams are assigned Welsh charities: they interview charity representatives, agree a manageable project addressing strategic or management challenges, and deliver a report and presentation to the charity, plus an individual reflexive ethics essay for the tutor. PA Consulting coaches students on working with third-sector clients.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cardiff Business School (MBA)",
+   "eligible_faculties_programmes": "Cardiff MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA",
+   "eligibility_restrictions": "MBA students choosing the elective",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Elective module; report and presentation to the charity plus individual ethics essay (credit not retrieved)",
+   "duration": "About four weeks in one news report; eight weeks in another summary",
+   "delivery_format": "In person with charity clients",
+   "project_based": "Yes",
+   "project_evidence": "Teams agree and carry out a project on charities' strategic and management challenges and develop business ideas the charities' management teams can implement [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'teams worked with their assigned charities' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Charities are the clients: they brief the teams through interviews and receive the report and presentation. PA Consulting co-designed the elective and coached the students [1][2].",
+   "partner_type": "Charity/community",
+   "partner_role": "Charity clients set problems and receive outputs; PA Consulting (business) coaches students",
+   "named_partners": "Tenovus Cancer Care, Cardiff City Foundation, WCVA, Groundwork (undated news); PA Consulting",
+   "deliverable": "Consultancy report and presentation to charity",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Both news items are undated and appear older (low news IDs). The duration differs between sources (4 vs 8 weeks). No current-year evidence was found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/news/view/790309-student-skills-boost-charity-success",
+     "title": "Student skills boost charity success - News - Cardiff University",
+     "section": "News item",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MBA students in the Management Consultancy elective worked with local charities to 'generate and develop new business ideas that can be implemented and executed by the charities' management teams'; PA Consulting coached students on engaging with third sector clients; charities included Tenovus Cancer Care, Cardiff City Foundation and WCVA.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cardiff.ac.uk/news/view/1534556-welsh-charity-performance-boost",
+     "title": "Welsh charity performance boost - News - Cardiff University",
+     "section": "News item",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary (not clearly tied to one of the two news pages): teams interview charity representatives, agree a project, and deliver a report and presentation to the charity plus a reflexive ethics essay; over four weeks teams worked with assigned charities on strategic and management challenges.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Cardiff MBA live project / Accelerator Project",
+   "english_name": "MBA live consultancy project",
+   "module_code": "",
+   "description": "At the end of the MBA (described for the part-time MBA), each student takes part in a real-world live project acting as a consultant to a partner company and delivers a report on a challenge the company has identified. The MBA pages call it a project with a corporate client on a significant strategic issue; past clients include airline, healthcare, start-up, government and banking organisations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cardiff Business School",
+   "eligible_faculties_programmes": "Cardiff MBA (part-time route evidenced)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage",
+   "eligibility_restrictions": "MBA students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Summer period",
+   "delivery_format": "Consultancy with partner company",
+   "project_based": "Yes",
+   "project_evidence": "Students deliver 'a report addressing a specific challenge identified by the partnering company' [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Phrased as 'each student participates in a real-world live project' [1]; team structure not evidenced.",
+   "employer_connected": "Yes",
+   "employer_evidence": "The partnering company identifies the challenge and receives the consultancy report [1]; the work is described as being 'in partnership with a corporate client' [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Corporate client sets the strategic issue and receives the report",
+   "named_partners": "Sectors only (airline, healthcare, start-up, government, banking); no names",
+   "deliverable": "Consultancy report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Not established whether students work individually or in teams. Pages are undated. Whether the full-time MBA also uses it is unconfirmed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/business-school/news/features/become-a-future-leader-with-the-cardiff-mba-part-time-programme",
+     "title": "Become a future leader with The Cardiff MBA part-time programme",
+     "section": "Feature",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Upon completing the MBA programme, each student participates in a real-world live project'; students act as consultants, 'delivering a report addressing a specific challenge identified by the partnering company'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cardiff.ac.uk/business-school/courses/the-cardiff-mba",
+     "title": "The Cardiff MBA - Cardiff Business School",
+     "section": "Accelerator Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Real-world project carried out in partnership with a corporate client to develop solutions to a significant strategic issue; past clients included airline, healthcare, start-up, government and banking clients.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Consultancy Challenge (MSc Business Management)",
+   "english_name": "Consultancy Challenge",
+   "module_code": "BST720 (September start); BST740 (January start)",
+   "description": "60-credit capstone of the MSc Business Management. Students work in groups to analyse and diagnose a business problem and recommend practical solutions; the problem may come from charities and not-for-profit organisations. How client organisations are sourced is not stated.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Cardiff Business School",
+   "eligible_faculties_programmes": "MSc Business Management (September and January start)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60 credits",
+   "duration": "Final stage (length not stated)",
+   "delivery_format": "Group consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Analyse, diagnose and recommend practical solutions to a business problem [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Students 'work in groups' on the problem [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Problems 'may' come from charities and not-for-profit organisations [1]; external clients are not documented as the standard source.",
+   "partner_type": "Unclear",
+   "partner_role": "Possible charity/not-for-profit problem owners",
+   "named_partners": "",
+   "deliverable": "Recommendations on a business problem (format not retrieved)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Unknown whether every group has a real external organisation. Course pages are un-yeared with no dated corroboration. The BST722 variant on the placement MSc concerns an organisational problem from the student's own placement (likely individual) and is not recorded separately.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/business-management-msc-full-time-september-start",
+     "title": "Business Management (MSc) (full time - September start)",
+     "section": "Course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consultancy Challenge BST720 (60 credits): students work in groups to analyse, diagnose and recommend practical solutions to a business problem, which may include charities and not-for-profit enterprises; final block focuses on 'multi-functional working and multi-faceted problems'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/business-management-msc-full-time-january-start",
+     "title": "Business Management (MSc) (full time - January start)",
+     "section": "Course structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'BST740 | 60 credits' Consultancy Challenge.",
+     "supports": [
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Computer Science second-year group project",
+   "english_name": "Year 2 group project (Computer Science)",
+   "module_code": "",
+   "description": "Second-year group project in Cardiff's Computer Science degrees. The 2026-entry foundation-year course page says it may involve working with clients, either external or internal, on sustainability-linked goals. The Cyber Security variant describes a year-two team project designing a solution to a real-world problem.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer Science and Informatics",
+   "eligible_faculties_programmes": "BSc Computer Science and variants (foundation year and Cyber Security pages evidenced)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Computer Science students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not stated",
+   "delivery_format": "Team project",
+   "project_based": "Yes",
+   "project_evidence": "Design and implement a solution to a real-world problem [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Described as a 'group project' [1] and a 'team project' [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'may involve working with clients (either external or internal)' [1]: external clients are optional, not standard.",
+   "partner_type": "Unclear",
+   "partner_role": "Possible external or internal client",
+   "named_partners": "",
+   "deliverable": "Software solution",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Share of external clients is unknown; module code not retrieved. The MSci CM4301 substantial team project is academically supervised, with no external client evidenced.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/computer-science-with-a-foundation-year-bsc",
+     "title": "Computer Science with a Foundation Year (BSc) - 2026",
+     "section": "Course structure",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Second-year group project 'may involve working with clients (either external or internal)', linked to sustainability goals.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/computer-science-with-cyber-security-with-a-year-in-industry-bsc",
+     "title": "Computer Science with Cyber Security with a Year in Industry (BSc) - 2026",
+     "section": "Year two",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Team project in Year Two where 'you use new skills and knowledge to design and implement a solution to a real-world problem'.",
+     "supports": [
+      "project",
+      "group",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Live Project (MSc Spatial Planning and Development)",
+   "english_name": "Live Project",
+   "module_code": "CPT831",
+   "description": "20-credit module on the RTPI/RICS-accredited MSc Spatial Planning and Development. Students work on live projects with real clients such as a planning authority or agency, with input from practice guest speakers.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Geography and Planning",
+   "eligible_faculties_programmes": "MSc Spatial Planning and Development",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "One-year MSc",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "Not stated",
+   "delivery_format": "Live project with planning client",
+   "project_based": "Yes",
+   "project_evidence": "Live project for a real client [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Team structure not evidenced in the retrieved extract.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students 'work with real clients, such as a planning authority or agency' [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Client (e.g. planning authority/agency) supplies the live project",
+   "named_partners": "",
+   "deliverable": "Not specified",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Group working is unconfirmed. Current delivery rests on the course page listing a 28 September 2026 start date alongside CPT831 in the course structure. Whether the module is compulsory is inferred from the course structure listing.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/spatial-planning-and-development-msc",
+     "title": "Spatial Planning and Development (MSc) - Study - Cardiff University",
+     "section": "Course structure / overview",
+     "pub_year": "2026 (start date 28 September 2026 shown)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Course structure lists 'Live Project | CPT831 | 20 credits'; students work on live projects with real clients such as a planning authority or agency; start date 28 September 2026.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Planning, Markets and Land (group consultancy project)",
+   "english_name": "Planning, Markets and Land",
+   "module_code": "CP0210",
+   "description": "Undergraduate planning module (legacy 2016/17 catalogue) with a group consultancy project: students work in a multidisciplinary team to solve a real planning problem and interact with real policy makers and practitioners in a live project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Geography and Planning",
+   "eligible_faculties_programmes": "Undergraduate planning programmes",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not stated",
+   "delivery_format": "Group consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Group consultancy project solving a real planning problem [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students 'work in a multi-disciplinary team' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Students 'interact with real policy makers and practitioners in a live project' [1]. Not stated that an external organisation commissions the work or receives it.",
+   "partner_type": "Unclear",
+   "partner_role": "Practitioners/policy makers interact with students",
+   "named_partners": "",
+   "deliverable": "Consultancy output (format not stated)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Historical delivery only",
+   "latest_evidenced_year": "2016/17",
+   "participation_data": "",
+   "unresolved": "Only a 2016/17 legacy catalogue entry was found; whether the module still runs is unknown.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://data.cardiff.ac.uk/legacy/grails/module/CP0210/16A.html",
+     "title": "CP0210: Planning, Markets and Land",
+     "section": "Legacy module catalogue (16A)",
+     "pub_year": "2016/17",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group consultancy project; students interact with real policy makers and practitioners in a live project and work in a multi-disciplinary team to solve a real planning problem.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "School of Engineering postgraduate group projects (industry)",
+   "english_name": "Engineering MSc group projects with industry",
+   "module_code": "",
+   "description": "The School of Engineering's 'Work with our students' page offers companies postgraduate group projects, in which a group of Master's students undertakes an intensive piece of work on a more challenging topic. Year 5 MEng EEE students also choose two large group design projects linked to topical research, with past examples including net-zero research stations with the British Antarctic Survey.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Engineering",
+   "eligible_faculties_programmes": "Engineering MSc programmes (unspecified)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not retrieved",
+   "duration": "'intensive piece of work' (length not stated; 'costs and durations vary')",
+   "delivery_format": "Group project",
+   "project_based": "Yes",
+   "project_evidence": "An intensive piece of project work on a defined topic [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Postgraduate group projects give a group of Masters students...' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Offered on the company-facing page as a way to work with students [1], but the share of group projects with a company partner, and how the company takes part, are not stated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Company may propose a topic or engage (not detailed)",
+   "named_partners": "British Antarctic Survey (MEng EEE example, undated; public-sector research body)",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Which MSc programmes run these projects, the credit, and how companies take part were not found. The page is undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/engineering/industrial-collaboration/work-with-our-students",
+     "title": "Work with our students - School of Engineering - Cardiff University",
+     "section": "Postgraduate group projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'Postgraduate group projects give a group of Masters students an intensive piece of work on more challenging topics'; presented as a way for a company to raise its profile with high-achieving students; costs and durations vary.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/electrical-and-electronic-engineering-with-a-year-of-study-abroad-meng",
+     "title": "Electrical and Electronic Engineering with a Year of Study Abroad (MEng)",
+     "section": "Year five",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In year five students choose two large group design projects linked to topical research; examples include electric scooters with fast charging, rapid diagnostic assays, and net-zero research stations with the British Antarctic Survey. EN2710 Group Design Project (20 credits) in year two.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Welsh School of Architecture live projects (MArch 'Design in Practice'; Grangetown/Community Gateway)",
+   "english_name": "Architecture live projects",
+   "module_code": "",
+   "description": "The MArch 1 'Year of Education in Practice' module Design in Practice addresses real-world design challenges through live project teaching, with external practice tutors reviewing and assessing. Through Community Gateway, undergraduate and postgraduate architecture students have worked on live projects supporting community-led buildings and spaces in Grangetown, including the Grange Pavilion: a 2020 Vertical Studio unit prototyped furniture with feedback from clients and users.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Welsh School of Architecture",
+   "eligible_faculties_programmes": "MArch (Design in Practice); other UG/PG studios/vertical studios",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "MArch 1 (Design in Practice)",
+   "eligibility_restrictions": "Architecture students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not stated",
+   "delivery_format": "Studio-based live projects",
+   "project_based": "Yes",
+   "project_evidence": "Live project design briefs; a pavilion furniture prototype in 2020 [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Practice tutors mentor 'a small group of students' [1], but joint group outputs are not evidenced.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "In 2020 the Grange Pavilion community clients gave feedback on the Vertical Studio work [2]. For Design in Practice, briefs are described as live projects but the clients are not named [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Community client (Grange Pavilion) gave feedback in 2020; external practitioners tutor and assess",
+   "named_partners": "Grange Pavilion / Grangetown community (2020-2022)",
+   "deliverable": "Design proposals; furniture prototypes (2020)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2020",
+   "participation_data": "Over 400 WSA and Business School students supported the Grange Pavilion through various activities (cumulative; undated news)",
+   "unresolved": "Group structure, client role in Design in Practice and current delivery are unconfirmed. The external practitioner call page is undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/architecture/engagement/external-practitioner-call",
+     "title": "External practitioner call - Welsh School of Architecture",
+     "section": "Design in Practice",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'A key aim of this module is to address real-world design challenges through live project teaching'; interests in adaptive reuse, environmental design and community engagement 'would be a good fit to support our live project briefs'; Practice Links Tutors mentor a small group of students.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cardiff.ac.uk/news/view/1758744-impressive-work-and-ideas-developed-during-vertical-studio-2020",
+     "title": "Impressive work and ideas developed during Vertical Studio 2020",
+     "section": "News",
+     "pub_year": "2020",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A Vertical Studio unit prototyped furniture for the new pavilion; the unit leader described the opportunity 'to work with a live project at the Grangetown Pavilion and receive feedback from clients and users'.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.cardiff.ac.uk/news/view/2625221-double-award-success-for-grange-pavilion",
+     "title": "Double award success for Grange Pavilion",
+     "section": "News",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "More than 400 students in the Welsh School of Architecture and Cardiff Business School supported the Grange Pavilion through live projects, design projects, vertical studios, dissertations and research placements.",
+     "supports": [
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Bremen-Cardiff Initiative on Sustainability and Entrepreneurship",
+   "english_name": "Bremen-Cardiff Sustainability Programme",
+   "module_code": "",
+   "description": "Two-week blended programme run by the enterprise teams of Cardiff and the University of Bremen: week 1 online, week 2 in person in Cardiff. It brings students from both universities together to build a solution to a real-world problem, with sessions on creative thinking, idea generation and start-up culture and expert talks on sustainability and business. No external organisation setting the problem was evidenced.",
+   "academic_reach": "Unclear",
+   "admin_host": "Enterprise & Start-Up team (Student Futures) with University of Bremen",
+   "eligible_faculties_programmes": "Not stated",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Selection/application not detailed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "2 weeks (1 online + 1 in person)",
+   "delivery_format": "Blended",
+   "project_based": "Unclear",
+   "project_evidence": "Students 'build a solution to a real-world problem' [1]; the brief and output are not specified.",
+   "group_working": "Unclear",
+   "group_evidence": "Students from both universities are brought together and there are group sessions [1], but team-based joint outputs are not explicit.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "No company or organisation is evidenced as setting the problem or receiving outputs. A separate Bremen summer camp involved companies [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Partner university (Bremen) co-delivers; no external client evidenced",
+   "named_partners": "University of Bremen (academic partner, not a client)",
+   "deliverable": "Solution/pitch (not specified)",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "An earlier online iteration had 30 students from both universities (undated news) [2]",
+   "unresolved": "Eligibility, whether teams work for a real organisation, and 2025/26 delivery are unknown. The 2024/25 Student Enterprise annual report lists 'Bremen and Cardiff Sustainability and...' but the extract was truncated.",
+   "legacy_ref": "Bremen–Cardiff Sustainability Programme",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cardiff.ac.uk/global/global-partnerships/university-of-bremen",
+     "title": "University of Bremen - Global - Cardiff University",
+     "section": "Partnership page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Bremen-Cardiff Initiative on Sustainability and Entrepreneurship: 2-week blended programme bringing Bremen and Cardiff students together to work on a real-world problem; 'Week 1 takes place online, with week 2 taking place in person, in Cardiff'; separately, Cardiff Business School students at a Bremen summer camp 'participated in real-world projects in cooperation with German and UK companies'.",
+     "supports": [
+      "project",
+      "group",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cardiff.ac.uk/news/view/2524664-university-partnership-success",
+     "title": "University partnership success - News",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "30 students from Cardiff University and the University of Bremen took part in an online project on social entrepreneurship, practising creativity, problem solving and pitching to investors.",
+     "supports": [
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.cardiff.ac.uk/__data/assets/pdf_file/0012/2899470/202526-Student-Enterprise-Annual-Report.pdf",
+     "title": "24/25 Student Enterprise Annual Report",
+     "section": "Programme list",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Annual report lists 'Bremen and Cardiff Sustainability and' among 2024/25 activity (extract truncated).",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Cardiff Award",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Optional career-development award with structured employability activities and reflection; it is a framework, not a group project for an external client. No underlying employer project activity was identified.",
+   "source_url": "https://sites.cardiff.ac.uk/student-futures-framework/student-futures-framework/activities-supported-by-student-futures/",
+   "status_note": "Not re-searched (budget); assessed from legacy row"
+  },
+  {
+   "name": "Student Futures Framework (industry briefs, Integrated Enterprise Projects)",
+   "legacy": false,
+   "category": "WIL framework",
+   "reason": "A curriculum framework listing activity types (industry briefs, case studies, integrated enterprise projects); no specific team route with an external client is identified at framework level.",
+   "source_url": "https://sites.cardiff.ac.uk/student-futures-framework/student-futures-framework/activities-supported-by-student-futures/",
+   "status_note": "undated"
+  },
+  {
+   "name": "The Cardiff Challenge (Business School public value competition)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Aimed at school/college pupils (Welsh Baccalaureate, BTEC, A Level), not university students.",
+   "source_url": "https://www.cardiff.ac.uk/business-school/about-us/public-value/public-value-teaching/the-cardiff-challenge",
+   "status_note": ""
+  },
+  {
+   "name": "Cardiff Law Pro Bono Unit (Innocence Project, Fresh Claims Project, Speakeasy clinic etc.)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Student volunteer casework and advice clinics supervised by lawyers; partnerships (e.g. Welsh Government, Asylum Justice) support casework, not a bounded team project to an organisation's brief. The Innocence Project credit module involves casework for individual applicants.",
+   "source_url": "https://www.cardiff.ac.uk/pro-bono/pro-bono-schemes",
+   "status_note": "Active 2026 (award news)"
+  },
+  {
+   "name": "Philosophy in Practice / collaborative policy project (Philosophy BA programmes)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Students develop policy recommendations for a 'contemporary concrete real-world problem' (collaborative in the Welsh and Philosophy BA); no external organisation is evidenced as setting the brief or receiving the output.",
+   "source_url": "https://www.cardiff.ac.uk/study/undergraduate/courses/2026/philosophy-and-linguistics-ba",
+   "status_note": "2026 course page"
+  },
+  {
+   "name": "Public Value Hackathon (Ecotricity challenge)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "MSc Business Strategy and Entrepreneurship students addressed an Ecotricity challenge (Theory of Change). Company-set challenge, but the format, team outputs, the company's role and dates were not verified (search budget exhausted).",
+   "source_url": "https://www.cardiff.ac.uk/news/view/2784694-public-value-hackathon-ignites-ideas-and-sparks-innovation",
+   "status_note": "undated news"
+  },
+  {
+   "name": "FinTech Wales Skills Challenge (Cardiff Business School)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "News item found ('returns to Cardiff Business School'), but it could not be researched because the search budget ran out; whether companies set live challenges is unverified.",
+   "source_url": "https://www.cardiff.ac.uk/news/view/3048544-fintech-wales-skills-challenge-returns-to-cardiff-business-school",
+   "status_note": "Recent news (date not retrieved)"
+  },
+  {
+   "name": "Engineering EN4100 Group Project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "30-credit group project (report, presentations, poster; peer review); no external client evidenced in the 2021/22 catalogue entry.",
+   "source_url": "https://data.cardiff.ac.uk/legacy/grails/module/EN4100/.html",
+   "status_note": "2021/22"
+  },
+  {
+   "name": "CP0259 Community Engagement, Mediation and Negotiation Skills",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Students work in teams and 'interact with real policy makers/practitioners/community representatives wherever possible' (optional external involvement). Assessed by a 40% group presentation and a 60% individual report; external organisations are not shown to set briefs.",
+   "source_url": "https://data.cardiff.ac.uk/legacy/grails/module/CP0259/18A.html",
+   "status_note": "2018/19 catalogue"
+  },
+  {
+   "name": "Engineering undergraduate sponsorship / final-year project topic from company; summer and year-in-industry placements",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Sponsorship and placements, with a company-proposed individual final-year project; not group work.",
+   "source_url": "https://www.cardiff.ac.uk/engineering/industrial-collaboration/work-with-our-students",
+   "status_note": "undated"
+  },
+  {
+   "name": "Knowledge Transfer Partnerships / KESS (Biosciences, Chemistry)",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Research studentships/graduate KTP posts, not taught-student group projects.",
+   "source_url": "https://www.cardiff.ac.uk/biosciences/about-us/working-with-business/research-collaboration-and-development",
+   "status_note": ""
+  },
+  {
+   "name": "Work Experience team placements and internships (Student Futures)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements/internships; the 2026 alumni story describes interns on live projects at a consultancy, with no team project for a client brief.",
+   "source_url": "https://www.cardiff.ac.uk/work-with-us/develop-your-workforce/recruit-our-graduates/student-placements",
+   "status_note": "2026 alumni blog"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Cardiff** has employer-linked group project provision concentrated in **computing** and the **Business School** (mostly postgraduate). No university-wide route was verified.\n\n- **Clearest current route:** the **National Software Academy**'s BSc Applied Software Engineering builds team client projects into the degree. Teams build software for real private, public and third-sector clients over projects of about four weeks, meeting clients fortnightly (2026-entry page).\n- **Business School:**\n  - The **MSc Strategic Entrepreneurship and Innovation New Venture Plan** (BST413, 40 credits; optional instead of a dissertation) assigns each group a real company client that sets the brief.\n  - The **MBA Management Consultancy elective**, co-run with PA Consulting, sends teams to Welsh charities (e.g. Tenovus Cancer Care, WCVA).\n  - The current status of both is undated.\n  - The **MBA live/Accelerator project** (corporate client) and the **MSc Business Management Consultancy Challenge** (charity clients only 'may') are incomplete on group work or external coverage.\n- **Planning:** MSc Spatial Planning **Live Project** CPT831 has real clients such as planning authorities (group work unconfirmed). An older UG group consultancy module (CP0210) is evidenced only for 2016/17.\n- **Architecture:** live projects with Grangetown community clients (Grange Pavilion) and MArch Design in Practice. Group structure and current status are unclear.\n- **Excluded or unverified:**\n  - The legacy **Bremen-Cardiff** sustainability programme (two weeks, real-world problem) has no evidenced external client.\n  - The **Cardiff Award** is an employability framework.\n  - **Law pro bono** is volunteer casework.\n- **Uncertain:** this review is **Partial**. Health schools, Journalism, Social Sciences and central enterprise challenges were not searched, and most Business School pages are undated.",
+ "gaps": "Review is Partial (see partial_remaining). Key gaps: health schools not searched; science covered by one search only; group structure for MBA live project, MSc SPD Live Project and architecture live projects; whether MSc Business Management Consultancy Challenge always has an external client; dated 2025/26 evidence for Business School routes; whether engineering MSc group projects routinely have company partners and on which programmes; Bremen-Cardiff eligibility and any external problem owner; Student Enterprise annual report content; FinTech Wales Skills Challenge and Public Value Hackathon format. Further departmental instances are likely (e.g. NSA MSc Software Engineering, Computer Science MSc, Journalism)."
+}

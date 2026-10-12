@@ -1,0 +1,1030 @@
+{
+ "inst_id": "RG23",
+ "institution": "University of Warwick",
+ "review_status": "Partial",
+ "partial_remaining": "Search budget for the session (shared 200-search cap) was exhausted after 13 searches. Not done: science (not searched), other/law/medicine/health (not searched), most of arts/humanities/social sciences (only one broad search), IATL module-level check for legacy row, central extracurricular routes beyond TeamWork (e.g. Warwick Volunteers/charity consultancy, student consultancy societies, Warwick Enterprise), extended verification of WMG Industry Impact Projects, GD903 and LP916 current versions, ES410 2025/26 catalogue.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Warwick students team project real client brief external organisation",
+    "Warwick TeamWork International Experience Programme teams of six project external organisation presentation eligibility (extended)"
+   ],
+   "key_sources": [
+    "https://warwick.ac.uk/services/careers/employers/international/teamwork/",
+    "https://warwick.ac.uk/services/careers/employers/international/teamwork/teamwork-questions/"
+   ],
+   "finding": "TeamWork (Warwick Careers) is a university-wide, selective, 4-week online programme with multi-university teams of up to six working on external organisations' projects and presenting to them; next run March 2027. Other central routes not searched (budget)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Warwick Business School consultancy project client organisation students group MSc MBA",
+    "WBS MBA & Masters Projects 2026 FAQ group SCP 3 students self-formed group client mentor (extended)",
+    "Warwick Full-time MBA LeadershipPlus consultancy project groups organisation 10 weeks (extended)",
+    "courses.warwick.ac.uk modules IB consulting project client organisation group undergraduate",
+    "IB3G2 Team Consulting Project module catalogue client organisation teams (extended)",
+    "IB013-15 Business Consulting foundation year ... (extended)",
+    "Warwick MSc Business with Consulting consulting project real client team module (extended)",
+    "WBS \"Business in Practice\" capstone group project organisation MSc (extended)"
+   ],
+   "key_sources": [
+    "https://www.wbs.ac.uk/sites/wbs2020/assets/pdf/FAQs_Student_Consultancy_Projects_2026.pdf",
+    "https://www.wbs.ac.uk/working-with-wbs/student-consultancy-projects/",
+    "https://www.wbs.ac.uk/courses/mba/global-online/january-2027-programme-structure1/",
+    "https://courses.warwick.ac.uk/modules/2024/IB013-15"
+   ],
+   "finding": "WBS live-client group provision is postgraduate: MBA group Strategic Consulting Projects (3 students, 2026 FAQ; Global Online MBA 2027), Full-time MBA LeadershipPlus group consultancy (undated), and alumni-reported MSc Business with Consulting live client projects. No current undergraduate team client module verified (IB3G2 only in 2018/19 list; IB013 foundation year module mostly individual)."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Warwick School of Engineering fourth year group project industry sponsored ES4 module",
+    "ES3H7-30 Group Project module catalogue tasks set in conjunction with industry teams 2025 2026 (extended)",
+    "Warwick Computer Science CS261 Software Engineering group project industry client CS407 group project industrial (extended)",
+    "WMG MSc group project company industrial sponsor students teams real problem",
+    "WMG MSc International Trade Strategy and Operations Industry Impact Project groups corporate partner Tata (extended) - FAILED, search budget exhausted"
+   ],
+   "key_sources": [
+    "https://courses.warwick.ac.uk/modules/2022/ES410-30",
+    "https://courses.warwick.ac.uk/modules/2024/ES3H7-30",
+    "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs407/",
+    "https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/international-trade/"
+   ],
+   "finding": "Engineering MEng ES410 group project (industrial backing 'where possible'), apprenticeship ES3H7 group project co-set with employers, CS407 with academic or industrial customers, and WMG MSc ITSO Industry Impact Projects with corporate partners (Tata). Current-year evidence mostly lacking."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: session web-search budget exhausted."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Warwick students team project real client brief external organisation (broad; AHSS results only)"
+   ],
+   "key_sources": [
+    "https://courses.warwick.ac.uk/modules/2021/GD903-60",
+    "https://courses.warwick.ac.uk/modules/2024/LP916-15"
+   ],
+   "finding": "Only incidental results: GSD Masters Practice-based Project (client brief; external partner optional) and Applied Linguistics LP916 Applied Communication Project (live brief to a client). Area not searched systematically (budget)."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Law, medicine, health not searched: session web-search budget exhausted."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "TeamWork International Experience Programme",
+   "english_name": "TeamWork International Experience Programme",
+   "module_code": "",
+   "description": "Warwick Careers-run programme in which multidisciplinary teams of up to six students (Warwick students together with students from other universities, mixed by year and degree) spend four weeks part-time online working on a project provided by an external organisation. The organisation gives a pre-project briefing, holds regular check-ins and receives a final project presentation from the team.",
+   "academic_reach": "University-wide",
+   "admin_host": "Warwick Careers (Student Opportunity) - employer-facing international programme",
+   "eligible_faculties_programmes": "All Warwick students (application and induction required)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any (teams mixed by year and degree)",
+   "eligibility_restrictions": "Students must apply for a place and complete a detailed induction programme; a bursary for students from under-represented groups was offered in the 2024 round (may have changed).",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced (careers programme).",
+   "duration": "4 weeks, part-time (~10 hours/week for students; ~2 hours/week from the organisation)",
+   "duration_band": "1–4 weeks",
+   "delivery_format": "Online, multi-university teams",
+   "project_based": "Yes",
+   "project_evidence": "Teams work on a project the organisation describes (project detail supplied by the organisation) and finish with a project presentation to the organisation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of up to 6 students assigned by the programme, multidisciplinary and mixed by year and degree [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "The external organisation supplies the project, gives a pre-project briefing, holds regular check-ins and attends the final project presentation meeting [2]; employer feedback from the 2024 and 2025 rounds published [3].",
+   "external_partner_coverage": "All/standard",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies project brief; briefs, checks in with and receives final presentation from student team",
+   "named_partners": "",
+   "deliverable": "Final project presentation to the organisation",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (next programme announced for March 2027; 2024 and 2025 rounds delivered)",
+   "participation_data": "",
+   "unresolved": "Partner-type evidence is a list of priority sectors (sustainability, global health, charity, finance, technology, arts, media, engineering), so 'Mixed' is inferred from sector priorities rather than named partners. Whether a 2026 round ran is not evidenced. Number of Warwick participants not published in results seen.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://warwick.ac.uk/services/careers/employers/international/teamwork/",
+     "title": "TeamWork International Experience Programme",
+     "section": "Employer-facing programme page",
+     "pub_year": "undated (states next programme March 2027)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Four-week, part-time online programme in which multi-disciplinary student teams collaborate on a project provided by an external organisation and present to it; 'The next programme will take place in March 2027'; particularly keen to work with organisations whose main focus is within sectors such as sustainability, global health, charity, finance, technology, arts, media, and engineering; described as open to all students.",
+     "supports": [
+      "project",
+      "employer",
+      "reach",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://warwick.ac.uk/services/careers/employers/international/teamwork/teamwork-questions/",
+     "title": "TeamWork FAQs",
+     "section": "FAQ",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Teams have 'up to 6 students that we will assign to you based on the project detail you have given'; organisation commitment of about 2 hours per week during the 4 week project phase, including 'an online pre-project briefing with your student team, regular check ins – and a final project presentation meeting'; 'Students will have to have applied for a place and undergone a detailed induction programme'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://warwick.ac.uk/services/careers/employers/international/teamwork/employer_feedback/",
+     "title": "TeamWork Employer Feedback",
+     "section": "Employer feedback",
+     "pub_year": "2024 and 2025 rounds",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Employer feedback from the 2024 and 2025 rounds praising team presentations.",
+     "supports": [
+      "status",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Strategic Consulting Project (group SCP) - MBA",
+   "english_name": "Strategic Consulting Project (group route)",
+   "module_code": "",
+   "description": "WBS MBA capstone route in which a self-formed group of three MBA students undertakes a 10-12 week consultancy project for a client organisation, working to a client-completed project brief and Project Agreement that defines deliverables (e.g. presentation or management report). The client interviews the group, assigns a mentor/point of contact and gives access to data. WBS advertises projects and manages recruitment. Also described for the Global Online MBA (group of three addressing topics posed by the Client).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Warwick Business School (CareersPlus / Employer Relations project team)",
+   "eligible_faculties_programmes": "MBA programmes (Full-time MBA per 2026 FAQ; Global Online MBA structure, January 2027 intake)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage of MBA (summer)",
+   "eligibility_restrictions": "MBA students only for group SCPs (2026 FAQ: Masters students can only be offered Individual Projects); client selects group by interview.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "MBA final project (alternative to an Individual Project/dissertation); exact credit not captured.",
+   "duration": "Typically 10-12 weeks, June to September",
+   "duration_band": "~1 term/semester",
+   "delivery_format": "In person / on site or virtual with client",
+   "project_based": "Yes",
+   "project_evidence": "Client completes a project brief and Project Agreement defining deliverables such as a presentation or management report [1]; Global Online MBA SCP addresses 'at least one topic posed by the Client' [2].",
+   "group_working": "Yes",
+   "group_evidence": "'A group SCP consists of 3 students who will present themselves as a self-formed group' [1]; Global Online MBA: 'as a group of three' [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation submits the brief, interviews the group, must allocate an employee as mentor/point of contact, provides data access and reimburses expenses; max two group projects per organisation [1].",
+   "external_partner_coverage": "All/standard",
+   "partner_type": "Unclear",
+   "partner_role": "Client: sets brief, selects group, mentors, receives deliverables",
+   "named_partners": "",
+   "deliverable": "Presentation and/or management report agreed in Project Agreement",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (2026 project FAQ); Global Online MBA January 2027 structure",
+   "participation_data": "",
+   "unresolved": "One search summary (unattributed between WBS FAQ versions) said SCPs were also offered to three MSc programmes (Business Analytics, ISDI, Marketing & Strategy); the 2026 FAQ says Masters students only get Individual Projects - treated as historical. Client sector mix for SCPs not evidenced. Credit weighting not confirmed.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.wbs.ac.uk/sites/wbs2020/assets/pdf/FAQs_Student_Consultancy_Projects_2026.pdf",
+     "title": "MBA & Masters Projects 2026 Frequently Asked Questions",
+     "section": "FAQ PDF",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'A group SCP consists of 3 students who will present themselves as a self-formed group'; MBA students can undertake either an SCP or an Individual Project; 'Masters students can only be offered Individual Projects'; clients 'will need to allocate an employee as a mentor or point of contact'; projects typically 10 to 12 weeks between June and September; deliverables such as a presentation or management report defined in the Project Agreement; no more than two group projects from any one organisation for full-time MBA SCPs.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.wbs.ac.uk/courses/mba/global-online/january-2027-programme-structure1/",
+     "title": "January 2027 Programme Structure (Global Online MBA)",
+     "section": "Strategic Consulting Project",
+     "pub_year": "2027 intake",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Strategic Consulting Project where 'as a group of three, you'll engage with an organisation, addressing at least one topic posed by the Client'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "LeadershipPlus group consultancy project (Full-time MBA)",
+   "english_name": "LeadershipPlus group consultancy project",
+   "module_code": "",
+   "description": "Group consultancy project within the Full-time MBA LeadershipPlus strand: groups of six to eight Full-time MBA students investigate a current business issue for a corporate, SME or not-for-profit client over about 9-10 weeks (January-March) and present findings and practical recommendations to the client and staff.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Warwick Business School",
+   "eligible_faculties_programmes": "Full-time MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Full-time MBA (spring term)",
+   "eligibility_restrictions": "Full-time MBA students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not captured",
+   "duration": "About 9-10 weeks (sources differ), January to March",
+   "duration_band": "~1 term/semester",
+   "delivery_format": "In person with client",
+   "project_based": "Yes",
+   "project_evidence": "Client's current business issue investigated; practical recommendations delivered [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Groups of six to eight Full-time MBA students [1]; blog describes groups of seven or eight [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Corporate, SME or not-for-profit clients supply the business issue and receive findings presented to client and staff [1][2].",
+   "external_partner_coverage": "All/standard",
+   "partner_type": "Mixed",
+   "partner_role": "Client sets business issue; receives presentation and recommendations",
+   "named_partners": "",
+   "deliverable": "Findings and recommendations presented to client",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (one page described as 2024-era)",
+   "participation_data": "",
+   "unresolved": "Sources undated or inconsistent (9 vs 10 weeks); no dated 2025/26-2026/27 corroboration; whether compulsory for all FT MBA students not confirmed.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.wbs.ac.uk/working-with-wbs/student-consultancy-projects/",
+     "title": "Student Consultancy Projects",
+     "section": "Employer-facing page (LeadershipPlus group projects)",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "LeadershipPlus group projects run January to March with groups of six to eight Full-time MBA students; corporate, SME or not-for-profit clients have a current business issue investigated and receive practical recommendations.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.wbs.ac.uk/blogs/student/mba/how-to-use-consultancy-and-group-projects-to-accelerate-your-career/",
+     "title": "How to use consultancy and group projects to accelerate your career",
+     "section": "WBS student blog",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "LeadershipPlus group project runs for 10 weeks, working on a consultancy project as a group and ending with findings presented to the client and staff.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.wbs.ac.uk/courses/mba/full-time/careers/",
+     "title": "Careers (Full-time MBA)",
+     "section": "Careers page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Describes the group project as nine weeks.",
+     "supports": [
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business with Consulting MSc - live client consulting projects",
+   "english_name": "MSc Business with Consulting live client projects",
+   "module_code": "",
+   "description": "Alumni of the WBS MSc Business with Consulting describe consulting projects in the first two terms involving real clients, carried out in student teams. The current (2027-entry) course page lists eight compulsory modules plus one option but the search did not identify which module carries the live-client project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Warwick Business School",
+   "eligible_faculties_programmes": "MSc Business with Consulting",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Terms 1-2",
+   "eligibility_restrictions": "MSc Business with Consulting students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "Within terms 1-2 (exact length unknown)",
+   "duration_band": "Unclear",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Alumni: 'the consulting projects in the first two terms involved real clients and we got to experience the full experience of a live project' [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Search summary states students were split into teams, but the statement could not be tied to a specific source page.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Alumni accounts describe 'real clients' / 'live client projects' [1][2]; role of client (brief, feedback) not detailed.",
+   "external_partner_coverage": "Unclear",
+   "partner_type": "Unclear",
+   "partner_role": "Real client provides live project (detail unknown)",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated alumni blogs; course page for 2027 entry does not name the project",
+   "participation_data": "",
+   "unresolved": "Module code, team structure and client role not verified in official module documentation; current delivery not dated.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://wbs.ac.uk/blogs/student/postgraduate/one-year-on-from-my-msc-business-with-consulting-course",
+     "title": "One year on from my MSc Business with Consulting course",
+     "section": "Student blog",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'the consulting projects in the first two terms involved real clients and we got to experience the full experience of a live project'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.wbs.ac.uk/blogs/alumni/my-consultancy-journey-since-completing-my-msc/",
+     "title": "My consultancy journey since completing my MSc",
+     "section": "Alumni blog",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Live client projects let students 'work with real clients to simulate a project proposal'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://warwick.ac.uk/study/postgraduate/courses/msc-business-consulting/",
+     "title": "Business with Consulting (MSc)",
+     "section": "Course page (2027 entry)",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Eight compulsory modules and one optional module over three terms; Professional communication module aimed at teamwork and client skills.",
+     "supports": [
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Consulting",
+   "english_name": "Business Consulting (Foundation Year)",
+   "module_code": "IB013-15",
+   "description": "Foundation Year module (15 credits, 10 weeks) on WBS foundation-year business programmes. Course pages say students complete a third-term project working with an organisation to identify an issue or challenge; the 2024 catalogue describes a formal report on a placement or chosen business, assessed 70% individual assignment, 20% group presentation, 10% individual contribution report and minutes.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Warwick Business School",
+   "eligible_faculties_programmes": "Business and Management / Management / International Business Management with Foundation Year BSc",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Foundation year",
+   "eligibility_restrictions": "Foundation-year students on WBS programmes",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; 70% individual assignment, 20% group presentation, 10% individual contribution report",
+   "duration": "10 weeks",
+   "duration_band": "~1 term/semester",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Students work on a business consulting project with an organisation [1]; third-term project working with an organisation to identify an issue or challenge [2].",
+   "group_working": "Unclear",
+   "group_evidence": "Group presentation worth 20% but main output is a 70% individual assignment; a resit route replaces group work [1]. Joint output not established.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'project working with an organisation' [2], but catalogue frames the report as on 'a placement or chosen business' [1]; organisation's role (brief, feedback) not documented.",
+   "external_partner_coverage": "Unclear",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024 (module catalogue)",
+   "participation_data": "",
+   "unresolved": "Whether organisation participates actively; whether project is group or individual; no 2025/26+ catalogue seen.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.warwick.ac.uk/modules/2024/IB013-15",
+     "title": "IB013-15 Business Consulting - Module Catalogue",
+     "section": "Module catalogue 2024",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Students will work on a business consulting project with an organisation which could include primary and secondary research'; aims include writing a formal report on a placement or chosen business; assessment 70% individual assignment, 20% group presentation, 10% individual contribution report and minutes.",
+     "supports": [
+      "project",
+      "group",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management-foundation-year/",
+     "title": "Business and Management with Foundation Year BSc",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In the third term, students will complete a project working with an organisation to identify an issue or challenge.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Project",
+   "english_name": "Engineering MEng Group Project",
+   "module_code": "ES410-30",
+   "description": "Fourth-year School of Engineering team project (30 credits, 25 weeks, 100% coursework) core for many MEng programmes. Teams of normally six students from different degree streams tackle tasks set by the School's Project Director, which ideally have industrial backing where possible. Examples cited on course pages include IMechE Formula Student, a Severn Trent reservoir design and a human-powered submarine.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Engineering",
+   "eligible_faculties_programmes": "MEng Mechanical, Electronic, Civil, Automotive, Biomedical Systems, Systems Engineering etc.",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4 (MEng)",
+   "eligibility_restrictions": "MEng engineering students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits, 100% coursework",
+   "duration": "25 weeks",
+   "duration_band": ">1 term",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Defined project tasks set each year, e.g. reservoir design, racing car, submarine [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams normally six students drawn from different degree streams [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects 'ideally have industrial backing or can at least show industrial applicability' where possible [1] - industrial involvement is an aspiration, not the documented norm.",
+   "external_partner_coverage": "Some projects",
+   "partner_type": "Unclear",
+   "partner_role": "Industrial backing for some projects (nature unspecified)",
+   "named_partners": "Severn Trent named as example project context on course page (role unverified)",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022 (module catalogue)",
+   "participation_data": "",
+   "unresolved": "No 2025/26+ catalogue entry seen; share and role of industrial sponsors unknown.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.warwick.ac.uk/modules/2022/ES410-30",
+     "title": "ES410-30 Group Project - Module Catalogue",
+     "section": "Module catalogue 2022",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "30 credits, 25 weeks, 100% coursework; teams normally six students from different degree streams; tasks set by the School's Project Director; projects ideally have industrial backing or can at least show industrial applicability, where possible; core for Year 4 of many MEng programmes.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://warwick.ac.uk/fac/sci/eng/undergraduate/manufacturing_and_mechanical_engineering/",
+     "title": "Manufacturing and Mechanical Engineering - Undergraduate degrees",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group project examples include the IMechE Formula Student racing car competition, Severn Trent reservoir design, or creating a human-powered submarine.",
+     "supports": [
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Project",
+   "english_name": "Group Project (Degree Apprenticeship, Electromechanical Engineering)",
+   "module_code": "ES3H7-30",
+   "description": "Level 3, 30-credit group project for degree apprentices; groups of normally six students undertake tasks predetermined each year by the School of Engineering Project Director in conjunction with industry (employers).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering",
+   "eligible_faculties_programmes": "Degree Apprenticeship in Electromechanical Engineering (DESA-H360), Year 4",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4 of apprenticeship programme",
+   "eligibility_restrictions": "Degree apprentices on DESA-H360",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits, 100% coursework",
+   "duration": "",
+   "duration_band": "Unclear",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Predetermined group project tasks set each year [1].",
+   "group_working": "Yes",
+   "group_evidence": "Groups normally of six students [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Tasks will be predetermined by the School of Engineering Project Director in conjunction with industry (employers) each year' [1] - employers co-set the brief.",
+   "external_partner_coverage": "All/standard",
+   "partner_type": "Business/commercial",
+   "partner_role": "Employers co-set project tasks",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024 (module catalogue)",
+   "participation_data": "",
+   "unresolved": "No 2025/26+ catalogue seen; whether employers are apprentices' own employers and whether they assess/receive outputs unknown.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.warwick.ac.uk/modules/2024/ES3H7-30",
+     "title": "ES3H7-30 Group Project - Module Catalogue",
+     "section": "Module catalogue 2024",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Tasks will be predetermined by the School of Engineering Project Director in conjunction with industry (employers) each year to match the skills and mix of the students'; groups normally six students; 30 credits, 100% coursework; core for Year 4 of DESA-H360.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Project",
+   "english_name": "Computer Science Group Project",
+   "module_code": "CS407-30",
+   "description": "Final-year (MEng) Computer Science group project in which groups of 4-6 students engineer a complex software system or conduct a research project to the requirements of a customer, who may be an academic or an industrial partner.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "Computer Science MEng (Year 4)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4 (MEng)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits",
+   "duration": "",
+   "duration_band": ">1 term",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Engineer complex software systems or conduct research projects 'according to the requirements of a customer' [1].",
+   "group_working": "Yes",
+   "group_evidence": "Each group has between 4 and 6 students [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Customer 'may be an academic or an industrial partner' [1]; archived catalogue said the customer 'will normally be an industrial partner' [2] - current wording does not make external customers the norm.",
+   "external_partner_coverage": "Some projects",
+   "partner_type": "Mixed",
+   "partner_role": "Customer sets requirements (academic/internal or industrial)",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated module page; Fourth Year Computer Science MEng 2025/26 course page exists but CS407 listing not confirmed in extract",
+   "participation_data": "",
+   "unresolved": "Share of industrial customers; whether CS407 is listed on 2025/26-2026/27 course structures (not confirmed in extract).",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs407/",
+     "title": "CS407-30 Group Project",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students learn to engineer complex software systems or conduct research projects 'according to the requirements of a customer'; customer may be an academic or an industrial partner; each group has between 4 and 6 students.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/cs/cs407/",
+     "title": "CS407 - Group Project (archived catalogue)",
+     "section": "Archived module catalogue (pre-2019/20)",
+     "pub_year": "pre-2019/20",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'the customer will normally be an industrial partner, or may alternatively be an academic'.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industry Impact Projects (MSc International Trade, Strategy and Operations)",
+   "english_name": "Industry Impact Projects",
+   "module_code": "",
+   "description": "On WMG's MSc International Trade, Strategy and Operations, groups of students work on a pre-defined industrial challenge provided by a corporate partner; students have worked with Tata companies (Tata Motors, Tata Steel, Tata AutoComp Systems) on topics such as EV lifecycle assessment and steel logistics. The programme also offers individual Company Collaboration Projects (individual route, not counted here).",
+   "academic_reach": "Programme/course",
+   "admin_host": "WMG",
+   "eligible_faculties_programmes": "MSc International Trade, Strategy and Operations",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "duration_band": "Unclear",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Pre-defined industrial challenge (e.g. EV lifecycle assessment, steel logistics) [1].",
+   "group_working": "Yes",
+   "group_evidence": "'groups of students work on a pre-defined industrial challenge' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenge provided by a corporate partner; students collaborated with Tata Motors, Tata Steel and Tata AutoComp Systems [1].",
+   "external_partner_coverage": "All/standard",
+   "partner_type": "Business/commercial",
+   "partner_role": "Corporate partner provides industrial challenge",
+   "named_partners": "Tata Motors, Tata Steel, Tata AutoComp Systems (year not stated)",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated programme page",
+   "participation_data": "",
+   "unresolved": "Evidence is a search-summary paraphrase only (extended verification search could not be run: search budget exhausted); credit, duration, compulsory status and current delivery not verified.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/international-trade/",
+     "title": "MSc International Trade, Strategy and Operations",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry Impact Projects where groups of students work on a pre-defined industrial challenge provided by a corporate partner; students have worked with Tata companies (Tata Motors, Tata Steel, Tata AutoComp Systems) on EV lifecycle assessment and steel logistics; individual Company Collaboration Projects also offered.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industry Collaboration Project (MSc Innovation and Entrepreneurship)",
+   "english_name": "Industry Collaboration Project",
+   "module_code": "",
+   "description": "WMG MSc Innovation and Entrepreneurship project in which students develop solutions to a real-world industry problem set in consultation with a WMG partner organisation; assessed by supervisor and independent assessor. Not described as a team project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "WMG",
+   "eligible_faculties_programmes": "MSc Innovation and Entrepreneurship",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "duration_band": "Unclear",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Solutions to a real-world industry problem [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page describes a project but not team working [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Problem set in consultation with a WMG partner organisation [1].",
+   "external_partner_coverage": "All/standard",
+   "partner_type": "Unclear",
+   "partner_role": "Partner organisation co-sets problem",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated programme page",
+   "participation_data": "",
+   "unresolved": "Individual vs group not established; paraphrase only; WMG partner organisations assumed external (not verified).",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/entrepreneurship/",
+     "title": "MSc Innovation and Entrepreneurship",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry Collaboration Project asks students to develop solutions to a real-world industry problem set in consultation with a WMG partner organisation; assessed by supervisor plus independent assessor.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Practice-based Project",
+   "english_name": "Practice-based Project (Global Sustainable Development)",
+   "module_code": "GD903-60",
+   "description": "Masters capstone in the School for Cross-faculty Studies (Global Sustainable Development) in which teams work on a 'client' project brief for promoting sustainable development; partners may be external organisations identified by the student or the School's Placement Officer.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Global Sustainable Development (School for Cross-faculty Studies)",
+   "eligible_faculties_programmes": "GSD Masters programmes",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60 credits",
+   "duration": "",
+   "duration_band": "Unclear",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "'client' project brief for promoting sustainable development [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams work on the client project brief [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Partner 'may be' external organisations identified by the student or Placement Officer [1] - external clients not documented as the norm.",
+   "external_partner_coverage": "Some projects",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021 (module catalogue)",
+   "participation_data": "",
+   "unresolved": "Only 2021 catalogue seen (paraphrase); whether still delivered; client sources.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.warwick.ac.uk/modules/2021/GD903-60",
+     "title": "GD903-60 Practice-based Project - Module Catalogue",
+     "section": "Module catalogue 2021",
+     "pub_year": "2021",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Capstone module for Masters students: teams work on a 'client' project brief for promoting sustainable development; partner may be external organisations identified by the student or the School's Placement Officer.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S12",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Applied Communication Project",
+   "english_name": "Applied Communication Project",
+   "module_code": "LP916-15",
+   "description": "Applied Linguistics postgraduate module (15 credits) in which teams work on a live brief and present a strategic proposal to the client at the end of the module.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Applied Linguistics",
+   "eligible_faculties_programmes": "",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits",
+   "duration": "",
+   "duration_band": "Unclear",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Live brief leading to a strategic proposal [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams work on the live brief [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Proposal presented to 'the client' [1]; whether clients are external organisations is not stated in the extract.",
+   "external_partner_coverage": "Unclear",
+   "partner_type": "Unclear",
+   "partner_role": "Client sets live brief and receives proposal (identity unknown)",
+   "named_partners": "",
+   "deliverable": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024 (module catalogue)",
+   "participation_data": "",
+   "unresolved": "Client identity/externality; programme eligibility; current delivery; paraphrase only.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.warwick.ac.uk/modules/2024/LP916-15",
+     "title": "LP916-15 Applied Communication Project - Module Catalogue",
+     "section": "Module catalogue 2024",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams work on a live brief and present a strategic proposal to the client at the end of the module.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "IATL undergraduate modules",
+   "legacy": true,
+   "category": "Breadth/interdisciplinary curriculum",
+   "reason": "University-level interdisciplinary elective framework (legacy row). The framework itself is not a project scheme; individual IATL modules with live external partners were NOT tested because the session's web-search budget was exhausted. Remains a lead.",
+   "source_url": "https://warwick.ac.uk/fac/cross_fac/iatl/study/iatlugmodules/",
+   "status_note": "Not re-searched in this review"
+  },
+  {
+   "name": "WBS Individual Projects (MBA/MSc client projects)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual client-based project/dissertation route (Masters students can only be offered Individual Projects; MBA may choose). B = No.",
+   "source_url": "https://www.wbs.ac.uk/sites/wbs2020/assets/pdf/FAQs_Student_Consultancy_Projects_2026.pdf",
+   "status_note": "2026 FAQ"
+  },
+  {
+   "name": "Business in Practice capstone (WBS MSc programmes)",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Applied capstone alternative to dissertation described as a simulation of real-world corporate challenges; no live external client evidenced.",
+   "source_url": "https://www.wbs.ac.uk/courses/masters/business-with-finance/structure/",
+   "status_note": ""
+  },
+  {
+   "name": "IB3G2 Team Consulting Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Appears only as a title in the archived 2018-19 WBS module list; no description, client or current delivery evidence.",
+   "source_url": "https://warwick.ac.uk/services/aro/dar/quality/modules/archive201819/undergraduate-1819/ib",
+   "status_note": "2018/19 only"
+  },
+  {
+   "name": "IB2BC-15 Business Operations Consulting",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Level 2 elective open to WBS and non-WBS students, 100% coursework; aims refer to skills for consulting projects but no live external client or team output evidenced.",
+   "source_url": "https://courses.warwick.ac.uk/modules/2025/IB2BC-15",
+   "status_note": "2025 catalogue"
+  },
+  {
+   "name": "IB260 Business Consulting/Research Methods",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Archived 2018/19 module: 20% group presentation plus 80% individual assignment; no external client evidenced.",
+   "source_url": "https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/ib/ib260/",
+   "status_note": "Historical (18/19)"
+  },
+  {
+   "name": "CS261 Software Engineering group project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Year 2 core module with 50% group project developing a significant software system; no external client/customer evidenced in results.",
+   "source_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs261/",
+   "status_note": ""
+  },
+  {
+   "name": "Warwick Railway Challenge (IMechE) team",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Sponsored student team building a locomotive for the IMechE Railway Challenge (sponsors include Catapult HVM, West Midlands Rail Executive, Chiltern Railways); sponsors fund rather than set a client brief. Also an ES410 project instance.",
+   "source_url": "https://warwick.ac.uk/fac/sci/eng/meng/railchallenge/",
+   "status_note": ""
+  },
+  {
+   "name": "WMG student-led projects (Warwick Racing, Warwick Harvest)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Extracurricular engineering teams with industry connections (Warwick Harvest collaborates with Warwick Agri-Tech and G's Fresh); whether the company sets a brief or receives outputs not evidenced; Warwick Agri-Tech is internal.",
+   "source_url": "https://warwick.ac.uk/fac/sci/wmg/study/undergraduate/student-led-projects/",
+   "status_note": "undated"
+  },
+  {
+   "name": "MSc Smart, Connected and Autonomous Vehicles sponsored project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Project 'will have an industrial sponsor' but no evidence it is a team project (likely individual).",
+   "source_url": "https://warwick.ac.uk/fac/sci/wmg/study/masters-degrees/connected-autonomous-vehicles/",
+   "status_note": "undated"
+  },
+  {
+   "name": "LP303-30 Media and Creative Industries Residency",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Residency or directed client brief with a cultural/creative organisation; group working not evidenced; 2020 catalogue only.",
+   "source_url": "https://courses.warwick.ac.uk/modules/2020/LP303-30",
+   "status_note": "2020"
+  },
+  {
+   "name": "WMG EngD / MSc by Research",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual company-sponsored research degrees.",
+   "source_url": "https://warwick.ac.uk/study/postgraduate/courses/msc-by-research-warwick-manufacturing-group/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Warwick** (partial review) shows employer-linked group project provision in several separate places. There is one university-wide extracurricular route; the other verified examples are postgraduate or engineering and are embedded in specific programmes.\n\n- **University-wide:** **TeamWork International Experience Programme**, run by Warwick Careers. It is selective and open to all students. Multidisciplinary, multi-university teams of up to six spend four weeks part-time online on a project supplied by an external organisation. The organisation briefs the team, checks in regularly and receives the final presentation. Rounds ran in 2024 and 2025; the next is March 2027.\n- **Business (WBS):**\n  - MBA students may choose a group **Strategic Consulting Project**: three students, 10-12 weeks, for a client that sets the brief, interviews the group and assigns a mentor (2026 FAQ). The Global Online MBA uses the same model.\n  - The Full-time MBA **LeadershipPlus** project uses groups of 6-8 for corporate, SME or not-for-profit clients, but it is undated.\n  - MSc client projects are mainly individual. The MSc Business with Consulting live-client projects rest on alumni blogs only.\n- **Engineering and computing:**\n  - The MEng **ES410** group project uses teams of six, with industrial backing only 'where possible'.\n  - Apprentices' **ES3H7** tasks are co-set with employers.\n  - Computer Science **CS407** has customers that may be academic or industrial.\n  - WMG's MSc ITSO **Industry Impact Projects** have groups tackling corporate-partner challenges (Tata companies).\n- **Uncertain:** most module evidence is undated or pre-2025. Science, law/health and most social sciences/humanities were not searched, and IATL modules were not tested, because the search budget ran out. GD903 (GSD) and LP916 (Applied Linguistics) are incidental leads that still need verification.",
+ "gaps": "Partial review: science, other (law/medicine), most AHSS and further central routes not searched; IATL legacy framework not tested at module level; current-year (2025/26-2026/27) catalogue evidence missing for ES410, ES3H7, CS407, LP916, GD903 and WMG programmes; WMG ITSO Industry Impact Projects evidence is paraphrase only; WBS undergraduate team consulting provision unclear (IB3G2 historical); further departmental instances likely."
+}
