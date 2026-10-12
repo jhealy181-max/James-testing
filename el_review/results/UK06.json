@@ -1,0 +1,1062 @@
+{
+ "inst_id": "UK06",
+ "institution": "Reading",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Reading students team project real client organisation consultancy",
+    "Reading careers employer-led project team challenge students",
+    "Reading Careers employer project short-term students work in teams brief employer RED Awards Reading Internship Scheme alternative",
+    "Reading Students' Union / University of Reading enterprise challenge hackathon employer sponsored team students 2025"
+   ],
+   "key_sources": [
+    "https://www.reading.ac.uk/essentials/careers/employers/ris",
+    "https://www.reading.ac.uk/essentials/Careers/Gaining-experience/Work-Experience-Framework",
+    "https://www.henley.ac.uk/henley-enterprise-lab"
+   ],
+   "finding": "Central provision (RED Awards, Reading Internship Scheme, Henley Enterprise Lab) is individual, award-based or competition-based; no central employer team-project scheme found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Henley Business School consulting project live client module students teams",
+    "MMM161 module description assessment",
+    "MMM190 Management Consultancy Project",
+    "MMM194 Assembling Strategy",
+    "MQM3CSP Capstone Project",
+    "MQM2STC Strategic Technology Consulting",
+    "MMM163 Advanced Project",
+    "MM313A Applied Entrepreneurship A",
+    "MSc Real Estate industry challenge REMF56",
+    "Applied Marketing Project AD3APR",
+    "Henley undergraduate live client"
+   ],
+   "key_sources": [
+    "https://www.reading.ac.uk/modules/documents?acyear=2025%2F6&modcode=MMM161&schoolcode=HBS+DME+W%7CHBS+FIN+W%7CHBS+IBS+W%7CHBS+ICM+W%7CHBS+LOB+W%7CHBS+MGM+W%7CHBS+MKR+W%7CHBS+REP+W",
+    "https://www.reading.ac.uk/modules/documents?acyear=2025%2F6&modcode=REMF56&schoolcode=HBS+DME+W%7CHBS+FIN+W%7CHBS+IBS+W%7CHBS+ICM+W%7CHBS+LOB+W%7CHBS+MGM+W%7CHBS+MKR+W%7CHBS+REP+W",
+    "https://www.henley.ac.uk/study/masters/msc-management",
+    "https://www.henley.ac.uk/study/masters/msc-management-international-business"
+   ],
+   "finding": "Henley PG taught provision is the strongest area: MMM161 (host-entrepreneur consultancy) and REMF56 industry challenge qualify with 2025/6 evidence; MMM190/MMM194 and Executive MBA projects have employer links but incomplete evidence. No undergraduate live-client group route found."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Computer Science industry project team software client students final year Reading",
+    "software engineering group project request for proposal customer industry partner",
+    "CS3IP Degree Project team industry-sponsored",
+    "CE3CLP1 Construction Live Project",
+    "School of the Built Environment group project live client"
+   ],
+   "key_sources": [
+    "https://www.reading.ac.uk/modules/documents?acyear=2025/6&modcode=CS3IP&schoolcode=MPS+CS%7CMPS+MATHST%7CMPS+MET",
+    "https://www.reading.ac.uk/modules/documents?acyear=2024/5&modcode=CE3CLP1&schoolcode=BEN+ATC%7CBEN+CME"
+   ],
+   "finding": "Computer Science final-year project has no external client evidenced; Construction Live Project is a team build supported by partner contractor staff but no client brief evidenced."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Reading science students group project industry partner brief module",
+    "food product development project industry partner students teams",
+    "New Product Development final year teams brief industry experts trade show",
+    "Agriculture farm business consultancy client report student group module",
+    "Environmental Consultancy module Reading BSc"
+   ],
+   "key_sources": [
+    "https://www.reading.ac.uk/ready-to-study/study/2026/food-and-nutrition-ug/bsc-food-technology-with-bioprocessing-with-industrial-training"
+   ],
+   "finding": "Food Technology New Product Development uses an industry-expert brief and team product but external organisation not identified; agriculture case-study teams only 2023/4 evidence. No chemistry, pharmacy, meteorology or biological sciences route found (limited searching)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Reading Economics MSc capstone project team external client organisation",
+    "ECM200 Capstone Project 2025/6",
+    "Applied Research Project and Placement MSc Public Policy",
+    "Graphic Communication Typography live brief client",
+    "Typography Real Jobs scheme",
+    "Going Public archaeology module external partners",
+    "Psychology Clinical Language Sciences project external organisation",
+    "Geography Environmental Science consultancy project"
+   ],
+   "key_sources": [
+    "https://www.reading.ac.uk/modules/documents?acyear=2025/6&modcode=ECM200&schoolcode=PPE+ECO%7CPPE+GIPIS%7CPPE+PHIL%7CPPE+POL",
+    "https://www.reading.ac.uk/typography/work-with-us",
+    "https://www.reading.ac.uk/ready-to-study/study/2026/archaeology-ug/ba-archaeology-and-history"
+   ],
+   "finding": "Economics/PPE Capstone (ECM200) qualifies with 2025/6 evidence; Typography Real Jobs and History/Archaeology Going Public are leads with incomplete evidence."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Reading School of Law pro bono clinic OR live client project",
+    "Archaeology heritage client group project module"
+   ],
+   "key_sources": [
+    "https://www.reading.ac.uk/law/undergraduate/co-curricular-activities-and-pro-bono-work"
+   ],
+   "finding": "Law clinics are individual pro bono/volunteering. Education, Pharmacy, Film/Theatre and Art not searched specifically."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Entrepreneurship and Innovation Consultancy Project",
+   "english_name": "Entrepreneurship and Innovation Consultancy Project (MSc, Henley Business School)",
+   "module_code": "MMM161",
+   "description": "Postgraduate summer capstone in which student consultancy teams practise on case studies then work for a real host entrepreneur from mid-June to late July, meeting the host face to face and online; teams present their analysis and each student writes a project proposal sent to the host entrepreneur.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Henley Business School (Digitalisation, Marketing and Entrepreneurship)",
+   "eligible_faculties_programmes": "MSc Entrepreneurship and Innovation (programme specification treats MMM161 as the dissertation equivalent); other programmes using the module not verified",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Master's, summer capstone",
+   "eligibility_restrictions": "Master's-level (Level 7) module; programme eligibility beyond MSc Entrepreneurship and Innovation not verified.",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits, Level 7. 2025/6: Task 1 individual self-assessment 20%; Task 2 team oral presentation 30%; Task 3 individual 5,000-word proposal for the host entrepreneur 50%.",
+   "duration": "Teams work with host mid-June to late July; module runs Semester 2/Summer (Task 3 due Week 12)",
+   "delivery_format": "In-person and online team meetings and host visits; convenor monitors attendance",
+   "project_based": "Yes",
+   "project_evidence": "Source 2: live consultancy for a real entrepreneur, 'not a case study'; outputs are team presentation and written project proposal for the host (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Sources 1-2: consultancy team works with its project host; assessed 25-minute team presentation (30%). Individual proposals are also assessed, but teamwork on the live project is documented.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 2: students work for real entrepreneurs (project hosts) who interact with the team and receive the individual proposals; 2023/4 and earlier versions also had a client-facing team report. The team presentation itself is delivered to the convenor, not the client.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Host entrepreneurs supply the venture/problem, meet the team and receive written proposals.",
+   "named_partners": "",
+   "deliverable": "Team presentation; individual project proposal for the host entrepreneur",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Programmes taking the module beyond MSc Entrepreneurship and Innovation, and whether it is compulsory vs optional elsewhere, not verified. Host entrepreneurs' sectors and names not published. Assessment structure changed between 2024/5 and 2025/6.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2025%2F6&modcode=MMM161&schoolcode=HBS+DME+W%7CHBS+FIN+W%7CHBS+IBS+W%7CHBS+ICM+W%7CHBS+LOB+W%7CHBS+MGM+W%7CHBS+MKR+W%7CHBS+REP+W",
+     "title": "MMM161: Entrepreneurship and Innovation Consultancy Project (2025/6)",
+     "section": "Module description and assessment",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "40-credit Level 7 module, Semester 2/Summer; Task 2 team oral presentation 30% (25 min plus questions); Task 3 individual project proposal for the host entrepreneur 50% (5,000 words).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2024/5&modcode=MMM161",
+     "title": "Entrepreneurship and Innovation Consultancy Project (2024/5)",
+     "section": "Module overview / summer semester",
+     "pub_year": "2024/5",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students practise on case studies in informal groups, then work for real entrepreneurs: 'not a case study... for real'; summer semester involves the consultancy team interacting with their project host from mid-June to late-July.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.reading.ac.uk/progspecs/pdf23/PFTZENTRINHM23.pdf",
+     "title": "Programme Specification MSc Entrepreneurship and Innovation (full-time)",
+     "section": "Assessment/classification",
+     "pub_year": "2023",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MMM161 is considered equivalent to a dissertation; a mark of 60+ in MMM161 is required for Distinction.",
+     "supports": [
+      "participation",
+      "eligibility"
+     ]
+    }
+   ],
+   "local_id": "S1"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Capstone Project (ECM200)",
+   "english_name": "Capstone Project - team consultancy for an external organisation (Economics, Politics & International Relations)",
+   "module_code": "ECM200",
+   "description": "Postgraduate teams, supervised by an academic, complete a project on behalf of an external organisation (business, government agency, NGO, start-up), analysing an issue the organisation faces; teams produce a report and/or client presentation and each student then writes an individual economics-focused report based on it.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Economics / School of Politics, Economics and International Relations (PPE)",
+   "eligible_faculties_programmes": "MSc Applied Economics, MSc Business Economics, MSc Economics and MSc Public Policy (Capstone is an alternative to the individual Applied Research Project and Placement PIM92 on Public Policy); teams may include students from different disciplines",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Master's, full year",
+   "eligibility_restrictions": "MSc programmes listing the module; availability by programme not fully verified.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; assessed by individual written report 3,000-4,000 words (100%) based on the team's report for the external organisation, plus literature review",
+   "duration": "Runs across the full year",
+   "delivery_format": "Small groups with academic supervisor; client presentation depending on project",
+   "project_based": "Yes",
+   "project_evidence": "Sources 1-3: comprehensive analysis of an issue facing an external organisation, producing a report and/or presentation.",
+   "group_working": "Yes",
+   "group_evidence": "Sources 1-3: 'Working in small groups' with an academic supervisor to complete the project; assessed output is individual.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sources 2-3: project completed 'on behalf of an external organisation'; past clients include businesses, government agencies, not-for-profits, NGOs and start-ups; teams may present findings to the client; organisations invited to propose projects via capstone@reading.ac.uk.",
+   "partner_type": "Mixed",
+   "partner_role": "External clients set the problem/brief and may receive the team's report and presentation.",
+   "named_partners": "",
+   "deliverable": "Team report and/or client presentation; individual 3,000-4,000-word report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Named 2025/26 clients not published; 'depending on the project' whether the team presents to the client; programme-by-programme compulsory/optional status not verified (appears optional or one of two options).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2025/6&modcode=ECM200&schoolcode=PPE+ECO%7CPPE+GIPIS%7CPPE+PHIL%7CPPE+POL",
+     "title": "ECM200: Capstone Project (2025/6)",
+     "section": "Module description",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Working in small groups and overseen by a faculty member, students complete a project on behalf of an external organisation (businesses, government agencies, not-for-profits, NGOs); individual written report 3,000-4,000 words, 100%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2024/5&modcode=ECM200",
+     "title": "ECM200: Capstone Project (2024/5)",
+     "section": "Module description",
+     "pub_year": "2024/5",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Small-group project for an external organisation with academic supervisor; 20 credits; full year.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.reading.ac.uk/economics/masters/how-youll-study",
+     "title": "Department of Economics - How you'll study",
+     "section": "Capstone Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams work for an outside client; past clients include businesses, government agencies, not-for-profits, NGOs and start-ups; organisations contact capstone@reading.ac.uk.",
+     "supports": [
+      "employer",
+      "participation",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.reading.ac.uk/ready-to-study/study/2026/economics-pg/msc-public-policy",
+     "title": "MSc in Public Policy - 2026/27",
+     "section": "Course structure",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Capstone Project (group project for an external organisation) offered as an alternative to the Applied Research Project and Placement.",
+     "supports": [
+      "eligibility",
+      "participation",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S2"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Real Estate Opportunities (Industry Challenge)",
+   "english_name": "Real Estate Opportunities - Industry Challenge element (MSc Real Estate capstone)",
+   "module_code": "REMF56",
+   "description": "Capstone module with three group assignments (international field trip, Industry Challenge, Real Estate Strategy Game). In the Industry Challenge teams are assigned a task by an industry partner and deliver a group report and a 20-minute in-person group client presentation to that partner.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Henley Business School (Real Estate and Planning)",
+   "eligible_faculties_programmes": "MSc Real Estate (capstone); other REP master's programmes not verified",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Master's, Semester 2",
+   "eligibility_restrictions": "Master's students on programmes including the module.",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, Level 7. Industry Challenge = 40% of module (group report 3,000 words plus 20-min group client presentation, Week 12 Semester 2).",
+   "duration": "Course page describes a one-week industry challenge within a Semester 2 module",
+   "delivery_format": "Group work; in-person client presentation",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: group report based on brief from industry partner plus client presentation.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 'teams of students'; group report and group presentation (stated as three group assignments).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: task/brief set by an industry partner; group presentation delivered to the industry partner.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partner sets the brief and receives the client presentation.",
+   "named_partners": "",
+   "deliverable": "Group report (3,000 words) and 20-minute client presentation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Partner names not published; compulsory status 'capstone' for MSc Real Estate inferred from module description and course page; other programmes taking REMF56 not verified; marking involvement of partner not evidenced.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2025%2F6&modcode=REMF56&schoolcode=HBS+DME+W%7CHBS+FIN+W%7CHBS+IBS+W%7CHBS+ICM+W%7CHBS+LOB+W%7CHBS+MGM+W%7CHBS+MKR+W%7CHBS+REP+W",
+     "title": "REMF56: Real Estate Opportunities (2025/6)",
+     "section": "Module description / assessment",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Teams of students are assigned a task by an industry partner; assessment: '20 Minute in person group client presentation to industry partner group report based on brief from Industry Partner (3,000 words)', 40%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://henley.ac.uk/study/masters/msc-real-estate",
+     "title": "MSc Real Estate",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Course described as industry-facing including executing a client brief for an assigned industry partner; capstone with one-week industry challenge.",
+     "supports": [
+      "employer",
+      "duration",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.reading.ac.uk/progspecs/pdf24/PFTREALESTM24.pdf",
+     "title": "Programme Specification MSc in Real Estate (full-time)",
+     "section": "Programme structure",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Programme specification for MSc Real Estate (module list).",
+     "supports": [
+      "eligibility"
+     ]
+    }
+   ],
+   "local_id": "S3"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Management Consultancy Project",
+   "english_name": "Management Consultancy Project (MSc Management capstone)",
+   "module_code": "MMM190",
+   "description": "20-credit capstone on the Master's in Management: a consulting project with an organisation on a contemporary management problem, with projects developed in collaboration with specific organisations. One of several summer capstone options (study trip, work placement or applied project).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Henley Business School",
+   "eligible_faculties_programmes": "MSc Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (10 ECTS)",
+   "duration": "Summer period",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: consulting project with an organisation addressing a contemporary management problem.",
+   "group_working": "Unclear",
+   "group_evidence": "Source 1 does not say whether the consulting project is done in teams or individually; other core modules include group projects.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: projects 'developed in collaboration with specific organisations' - but roles (brief, supervision, assessment) and whether this applies to all projects are not stated, and the summer capstone has alternative options.",
+   "partner_type": "Unclear",
+   "partner_role": "Collaborating organisations (role not specified).",
+   "named_partners": "",
+   "deliverable": "Consulting project output (unspecified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (page shows September 2027 start)",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Team vs individual; client role; delivery year; no module record found in catalogue search.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.henley.ac.uk/study/masters/msc-management",
+     "title": "MSc Management",
+     "section": "Modules / capstone",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MMM190 Management Consultancy Project, 20 credits (10 ECTS), capstone including a consulting project with an organisation; projects developed in collaboration with specific organisations.",
+     "supports": [
+      "project",
+      "employer",
+      "credit"
+     ]
+    }
+   ],
+   "local_id": "S4"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Assembling Strategy",
+   "english_name": "Assembling Strategy - live consulting engagement (MSc International Business)",
+   "module_code": "MMM194",
+   "description": "20-credit second-phase module applying first-semester frameworks to a real-life consulting project with an external company, emphasising client communication and teamwork.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Henley Business School",
+   "eligible_faculties_programmes": "MSc International Business",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (10 ECTS)",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: real-life consulting project with an external company.",
+   "group_working": "Unclear",
+   "group_evidence": "Source 1 lists 'teamwork' as a focus but does not state team-based delivery or assessment.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: consulting project with an external company (client communication).",
+   "partner_type": "Business/commercial",
+   "partner_role": "External company is the consulting client (details not published).",
+   "named_partners": "",
+   "deliverable": "Consulting output (unspecified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Group structure, assessment, how many projects/companies, delivery year; no catalogue module record found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.henley.ac.uk/study/masters/msc-management-international-business",
+     "title": "MSc International Business",
+     "section": "Module list",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MMM194 Assembling Strategy, 20 credits (10 ECTS): applies frameworks to a real-life consulting project with an external company; client communication and teamwork.",
+     "supports": [
+      "project",
+      "employer",
+      "credit"
+     ]
+    }
+   ],
+   "local_id": "S5"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Executive MBA (Global) team consultancy projects",
+   "english_name": "Henley Executive MBA team projects for a start-up and an NGO",
+   "module_code": "",
+   "description": "Executive MBA students complete a team-based consultancy-style project with an emerging international business or start-up, and a team project for an NGO in South Africa (as summarised from the programme page).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Henley Business School",
+   "eligible_faculties_programmes": "Executive MBA (Global)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Source 1 (summary paraphrase): consultancy-style project with start-up; NGO team project.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: described as team-based.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: projects for an emerging international business/start-up and an NGO.",
+   "partner_type": "Mixed",
+   "partner_role": "Start-up and NGO host organisations",
+   "named_partners": "",
+   "deliverable": "Unspecified",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Evidence is a search-summary paraphrase only; no module codes, assessment, or dates; executive (part-time, working-professional) cohort; compulsory status inferred.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://henley.ac.uk/study/mba/executive-mba-global",
+     "title": "Executive MBA - Global",
+     "section": "Programme content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Team-based consultancy-style project with an emerging international business or start-up; team project for an NGO in South Africa.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S6"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "New Product Development (FB3NPD)",
+   "english_name": "New Product Development - final-year food product team project",
+   "module_code": "FB3NPD (earlier FB3FPD Food Product Development)",
+   "description": "Final-year teams are given a brief by industry experts and develop an original food product, showcased at an end-of-semester trade show and presented to industry professionals; group presentations, executive summary and peer assessment appear in the catalogue.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Food and Nutritional Sciences",
+   "eligible_faculties_programmes": "BSc Food Technology with Bioprocessing and related BSc Food/Nutrition programmes",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year (Part 3)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, Level 6",
+   "duration": "One semester",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Sources 1-2: design, develop and evaluate a food product against a brief; trade show.",
+   "group_working": "Yes",
+   "group_evidence": "Sources 1-2: 'work as a team'; group presentation and executive summary with peer assessment.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: brief from 'industry experts' and presentation to 'industry professionals' - but no named external organisation is identified, so it is unclear that an external organisation sets the brief or whether the experts are internal staff.",
+   "partner_type": "Unclear",
+   "partner_role": "'Industry experts' set brief; 'industry professionals' view outputs (organisation not identified).",
+   "named_partners": "",
+   "deliverable": "Original food product prototype, presentation, executive summary",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 programme specification / 2026/27 course page (module record 2023/4)",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Which organisations/individuals set the brief; whether external; module record for 2025/26; compulsory status per programme.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.reading.ac.uk/ready-to-study/study/2026/food-and-nutrition-ug/bsc-food-technology-with-bioprocessing-with-industrial-training",
+     "title": "BSc Food Technology with Bioprocessing with Industrial Training - 2026/27",
+     "section": "Final year",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Given a brief by industry experts, you'll work as a team to produce an original product, which you will showcase at an end-of-semester trade show'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2023/4&modcode=FB3FPD&schoolcode=CFP+CHEM%7CCFP+FOODBI%7CCFP+PHARM",
+     "title": "FB3FPD - Food Product Development (2023/4)",
+     "section": "Assessment",
+     "pub_year": "2023/4",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student groups receive a product concept; group presentation, group executive summary, final product presentation, peer assessment; 20 credits.",
+     "supports": [
+      "group",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.reading.ac.uk/progspecs/pdf25/UFFDTECHBIO325.pdf",
+     "title": "Programme Specification BSc Food Technology with Bio-processing (3 year)",
+     "section": "Part 3 modules",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "FB3NPD listed as 20-credit Level 6 module in Part 3.",
+     "supports": [
+      "credit",
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S7"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Going Public: Presenting the Past, Planning the Future",
+   "english_name": "Going Public - group project for an external partner (History / Archaeology and History)",
+   "module_code": "HS2GPP",
+   "description": "Second-year group project in which students choose from listed projects and work to a brief from an organisation outside the history department, producing a portfolio and presentation; peer assessment adjusts individual marks.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of History / Archaeology",
+   "eligible_faculties_programmes": "BA Archaeology and History (optional); possibly other History programmes",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Group portfolio 40% and presentation 40% (peer-moderated); remainder not stated",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: group project with portfolio and presentation to a partner brief.",
+   "group_working": "Yes",
+   "group_evidence": "Sources 1-2: group project; peer assessment of individual contribution.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sources 1-2: 'external partners' / brief from an organisation 'outside the history department' - sector and independence from the University (e.g. university museums) not established.",
+   "partner_type": "Unclear",
+   "partner_role": "Partner organisation supplies brief (role in feedback/assessment not stated).",
+   "named_partners": "",
+   "deliverable": "Portfolio and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023/4 module record; 2026/27 course page",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Partner identity/type; whether partners are external to the University; current delivery year.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2023/4&modcode=HS2GPP&schoolcode=HUM+CLASS%7CHUM+GCMS%7CHUM+HIST%7CHUM+PHIL",
+     "title": "HS2GPP - Going Public (2023/4)",
+     "section": "Module description",
+     "pub_year": "2023/4",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work to a brief from an organisation outside the history department; portfolio 40% and presentation 40%, adjusted by peer assessment.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.reading.ac.uk/ready-to-study/study/2026/archaeology-ug/ba-archaeology-and-history",
+     "title": "BA Archaeology and History - 2026/27",
+     "section": "Course modules",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Optional second-year module: students work collaboratively with external partners on a group project.",
+     "supports": [
+      "group",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S8"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Real Jobs (Typography & Graphic Communication)",
+   "english_name": "Real Jobs live-client briefs",
+   "module_code": "TY3PRP (Professional Practice, 2020/1 record)",
+   "description": "Students undertake at least two live-brief projects with real clients (e.g. charity rebrand, packaging, wayfinding), supported by tutors and assessed as completed; the department also runs an IBM-linked UX project and employer feedback on briefs.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Typography & Graphic Communication",
+   "eligible_faculties_programmes": "BA Graphic Communication",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2 onward",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Assessed per project by agreed rubric (2020/1 record)",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Sources 1-2: live briefs with design outputs.",
+   "group_working": "Unclear",
+   "group_evidence": "Source 1: students 'work one-on-one with real clients'; 2020/1 record says supervisors 'may require students to work in small teams'. Cannot separate individual and group routes.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sources 1-2: real clients (e.g. BASIC, Longhaul, Reading City of Sanctuary), real budgets; IBM Design and OUP give feedback.",
+   "partner_type": "Mixed",
+   "partner_role": "Clients brief students, work with them to delivery and give feedback.",
+   "named_partners": "",
+   "deliverable": "Design deliverables (rebrand, packaging, wayfinding, publicity)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated pages; module record 2020/1",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Individual vs team routes; current module codes; dates of named projects.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.reading.ac.uk/typography/work-with-us",
+     "title": "Work with us - Typography & Graphic Communication",
+     "section": "Real Jobs",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Real Jobs scheme: students work one-on-one with real clients on live briefs; examples include rebranding for BASIC and packaging for Longhaul.",
+     "supports": [
+      "project",
+      "employer",
+      "group"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2020/1&modcode=TY3PRP",
+     "title": "TY3PRP Professional Practice (2020/1)",
+     "section": "Module description",
+     "pub_year": "2020/1",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Real Jobs assessed as completed by an agreed rubric; supervisors may require students to work in small teams.",
+     "supports": [
+      "group",
+      "credit"
+     ]
+    }
+   ],
+   "local_id": "S9"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Construction Live Project",
+   "english_name": "Construction Live Project",
+   "module_code": "CE3CLP1",
+   "description": "Two-week intensive: student teams plan on campus for five days then build a scaled replica of an iconic structure on site for five days, supported by academics and, in earlier versions, young professionals from a partner contractor and its supply chain.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of the Built Environment (Construction Management and Engineering)",
+   "eligible_faculties_programmes": "Built Environment undergraduate programmes (Level 6)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (2024/5)",
+   "duration": "Two weeks, residential",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: plan, schedule, cost, manage H&S and build replica.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: student teams.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sources 1-2: partner contractor staff/young professionals supported earlier versions; the partner is not a client setting a brief, and 2025/6 involvement not confirmed.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Partner contractor staff support delivery (earlier version).",
+   "named_partners": "",
+   "deliverable": "Scaled structure built on site",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (module listed); content 2024/5",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Whether partner contractor involvement continues and whether it amounts to external organisation setting brief/supervising/assessing; compulsory status.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2024/5&modcode=CE3CLP1&schoolcode=BEN+ATC%7CBEN+CME",
+     "title": "CE3CLP1: Construction Live Project (2024/5)",
+     "section": "Module description",
+     "pub_year": "2024/5",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Two-week intensive project supported by academics and industry staff to plan, schedule, cost, manage H&S and build a scaled iconic structure; 20 credits.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2023/4&modcode=CE3CLP&schoolcode=BEN+ATC%7CBEN+CME",
+     "title": "CE3CLP: Construction Live Project (2023/4)",
+     "section": "Module description",
+     "pub_year": "2023/4",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students worked with young professionals from the partner contractor and their supply chain.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.reading.ac.uk/modules/module?acyear=2025%2F6&school=BEN+ATC%7CBEN+CME",
+     "title": "Built Environment - Modules for 2025/6",
+     "section": "Module list",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "CE3CLP1 Construction Live Project listed, Level 3.",
+     "supports": [
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S10"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Management (Case Studies)",
+   "english_name": "Farm/rural business case study teams (AP3A54)",
+   "module_code": "AP3A54",
+   "description": "Small teams (usually 4-5) work on case-study exercises for farms and rural enterprises, preparing a business proposal presented orally and in writing, usually in the presence of the business manager.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Agriculture, Policy and Development",
+   "eligible_faculties_programmes": "BSc Agricultural Business Management",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: business proposal for introduction of new enterprise or change to a rural business.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: small teams (usually 4/5).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: presented 'usually' in the presence of the manager of the business studied - not established as standard; real vs teaching case unclear.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Business manager attends presentation (usually).",
+   "named_partners": "",
+   "deliverable": "Business proposal report and presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023/4",
+   "participation_data": "Not published in sources found.",
+   "unresolved": "Module code may be retired; no 2025/26 equivalent found; case studies may be teaching cases.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.reading.ac.uk/modules/documents?acyear=2023/4&modcode=AP3A54",
+     "title": "AP3A54 Business Management (Case Studies) (2023/4)",
+     "section": "Module description",
+     "pub_year": "2023/4",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Case study work usually in small teams of 4/5; written and verbal reports presented, usually in the presence of the manager of the business studied.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S11"
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "RED Awards (Professional Development, Global Engagement, Sustainable Action)",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Co-curricular recognition scheme for any student activity; not itself a bounded team project with an external organisation (criteria A, B, C not evidenced).",
+   "source_url": "https://www.reading.ac.uk/essentials/Careers/Gaining-experience/RED-Awards",
+   "status_note": "Legacy row; undated page"
+  },
+  {
+   "name": "Reading Internship Scheme (RIS)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual paid internships of 4-8 weeks with employer-set projects; individual, no team component (B not met).",
+   "source_url": "https://www.reading.ac.uk/essentials/careers/employers/ris",
+   "status_note": "2026-27 employer page"
+  },
+  {
+   "name": "MM313A/B Applied Entrepreneurship",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Students run their own venture solo or in teams up to 3; no external client; earlier-year external industry assessor not confirmed for current version.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2025%2F6&modcode=MM313A&schoolcode=HBS+DME+W%7CHBS+FIN+W%7CHBS+IBS+W%7CHBS+ICM+W%7CHBS+LOB+W%7CHBS+MGM+W%7CHBS+MKR+W%7CHBS+REP+W",
+   "status_note": "2025/6 module record"
+  },
+  {
+   "name": "MMM163 Advanced Project (MSc International Business and Digital Transformation)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Projects usually for outside organisations (competitive, may need interview) but a single report is submitted; group working not evidenced.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2025/6&modcode=MMM163&schoolcode=HBS+DME+W%7CHBS+FIN+W%7CHBS+IBS+W%7CHBS+ICM+W%7CHBS+LOB+W%7CHBS+MGM+W%7CHBS+MKR+W%7CHBS+REP+W",
+   "status_note": "2025/6 record"
+  },
+  {
+   "name": "MQM3CSP Capstone Project (Degree Apprenticeship MSc)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual project for the apprentice's own employer.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2024/5&modcode=MQM3CSP&schoolcode=HBS+BIS+G%7CHBS+BIS+W%7CHBS+IBS+G%7CHBS+IBS+W%7CHBS+ICM+W%7CHBS+LOB+W%7CHBS+MGM+W%7CHBS+MKR+W%7CHBS+REP+W",
+   "status_note": "2024/5"
+  },
+  {
+   "name": "Strategic Technology Consulting (MQM2STC / INMB39)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Module draws on students' own organisations; no live external client project evidenced.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2024/5&modcode=MQM2STC",
+   "status_note": ""
+  },
+  {
+   "name": "CS3IP Degree Project (Computer Science)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Final-year project with staff-proposed or own topics, supervisor and second assessor; no external organisation evidenced; team format unclear.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2025/6&modcode=CS3IP&schoolcode=MPS+CS%7CMPS+MATHST%7CMPS+MET",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "PIM92 Applied Research Project and Placement (MSc Public Policy)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placement with external organisation and 4,000-word report; not a group route.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2023/4&modcode=PIM92&schoolcode=PEI+ECO%7CPEI+GIPIS%7CPEI+POL",
+   "status_note": "2023/4"
+  },
+  {
+   "name": "AD3APR Applied Marketing Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Students act as consultants responding to a client's brief, assessed by individual reports (3,500 words); no group work or external client evidenced.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2025/6&modcode=AD3APR&schoolcode=APD",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "AP3EX3 Consumer Research Group Project 2",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Team consultancy for client companies/organisations, but only a 2021/22 record found; no current delivery evidence.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2021/2&modcode=AP3EX3&schoolcode=APD%7CAPD+AGECON%7CAPD+AGRIC%7CAPD+GIIDAE%7CAPD+IRDD",
+   "status_note": "Historical"
+  },
+  {
+   "name": "GV3GEF Geography and Environmental Science Field Class",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Groups act as consultants on a scenario informed by field data; hypothetical scenario with no external organisation.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2025/6&modcode=GV3GEF&schoolcode=HES+ARCH%7CHES+GESC",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "School of Law clinics and pro bono credit (Freedom Law Clinic, CommuniCare, Resolve Mediation)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Individual casework/volunteering with supervisors; not a team project for a client; CommuniCare detail from 2010 source.",
+   "source_url": "https://www.reading.ac.uk/law/undergraduate/co-curricular-activities-and-pro-bono-work",
+   "status_note": ""
+  },
+  {
+   "name": "Henley Enterprise Lab, IDEAFEST, Entrepreneurship Society",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Student business-idea competition and society; no external client brief evidenced.",
+   "source_url": "https://www.henley.ac.uk/henley-enterprise-lab",
+   "status_note": ""
+  },
+  {
+   "name": "CE2CPR Projects (construction/surveying client briefs)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Teams respond to client briefs and present to clients' representatives (2023/4 record), but whether clients are real external organisations and current delivery not verified.",
+   "source_url": "https://www.reading.ac.uk/modules/documents?acyear=2023/4&modcode=CE2CPR",
+   "status_note": "2023/4"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Reading's documented employer-linked group provision is concentrated in postgraduate taught programmes in Henley Business School and the Economics group, with a few undergraduate leads.\n\n**Qualifying routes (current 2025/26 evidence):** (1) MMM161 Entrepreneurship and Innovation Consultancy Project (40 credits, MSc Entrepreneurship and Innovation), where teams work with a real host entrepreneur over June-July and each student writes a proposal for the host; (2) ECM200 Capstone Project (20 credits), where small supervised teams produce a report/presentation for an external organisation (businesses, government agencies, NGOs, start-ups) across MSc Economics-family and Public Policy programmes; (3) REMF56 Real Estate Opportunities, whose Industry Challenge (40% of the module) has teams respond to an industry partner's brief and present to that partner.\n\n**Partial evidence:** Henley's MMM190 (MSc Management) and MMM194 (MSc International Business) consulting projects and the Executive MBA team projects name organisations but do not show team structure or delivery year. Typography's Real Jobs live briefs are real-client but described as one-on-one. Food Technology's New Product Development is team-based with an industry-expert brief, and Going Public (Archaeology and History) is a group project for external partners, but partner identity is unclear. The Construction Live Project is a team build with partner-contractor support but no client brief.\n\n**Scope:** All routes are programme-specific, mostly optional or tied to a master's programme; no institution-wide scheme exists (RED Awards and the Reading Internship Scheme are award-based or individual). Participation numbers are unpublished. Named partners are not published.",
+ "gaps": "Searched with ~39 queries via search-index only. Unverified: group structure and delivery year for MMM190, MMM194, Executive MBA projects; whether MMM161 is compulsory in programmes beyond MSc Entrepreneurship and Innovation; partner identity for Food NPD and Going Public; individual vs team split for Typography Real Jobs; engineering/computing (further Built Environment client modules e.g. CE2CPR, Real Estate undergraduate projects), Pharmacy/Chemistry/Biological Sciences/Meteorology, Education, Film/Theatre/Art, MSc Environmental Management expert-panel contaminated-site project (clients from industry on panel) and other Henley PG programmes were not searched in depth; further departmental instances likely."
+}

@@ -1,0 +1,1216 @@
+{
+ "inst_id": "UK07",
+ "institution": "Surrey",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Surrey student consultancy live client project employer challenge",
+    "Surrey Ready4Innovation Challenges IKEEP team of three students",
+    "Surrey Work with our students businesses student projects IKEEP Ready4Innovation",
+    "iTEK programme Surrey ERA Foundation",
+    "Surrey Hackathon17",
+    "Surrey careers employer-set challenge hackathon students teams",
+    "Surrey Mentoring and Professional Development project"
+   ],
+   "key_sources": [
+    "https://www.surrey.ac.uk/innovation/business-partners/work-our-students",
+    "https://www.surrey.ac.uk/news/itek-programme-funded-era-foundation"
+   ],
+   "finding": "No university-wide curricular employer project route found; central Student Enterprise runs IKEEP, iTEK and hackathons (extracurricular, status unclear). Professional Training placements are individual."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Surrey Business School Professional Training placements Business Solutions Consultancy",
+    "MANM448",
+    "MANM466",
+    "MAN3164",
+    "MANM488",
+    "MAN3213",
+    "MAN3136/MAN3245",
+    "MANM372/MANM363",
+    "Entrepreneurial experience built in",
+    "Dynamics of Business Consultancy",
+    "Digital Business Challenge",
+    "MANM468",
+    "Hospitality consultancy",
+    "Gatwick",
+    "MAN3251",
+    "B-Clinic"
+   ],
+   "key_sources": [
+    "https://catalogue.surrey.ac.uk/2025-6/module/MANM448/SEMR2/2",
+    "https://www.surrey.ac.uk/news/entrepreneurial-experience-built",
+    "https://catalogue.surrey.ac.uk/2026-7/module/MAN3213",
+    "https://catalogue.surrey.ac.uk/2025-6/module/MAN3164/SEMR2/2"
+   ],
+   "finding": "Dense, programme-embedded live-client team modules across MSc Management, MSc Entrepreneurship & Innovation, MSc HRM and final-year hospitality/tourism, plus Applied Business Project and B-Clinic."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Surrey Engineering Group Design Project industrial client",
+    "ENGM001 Multi-Disciplinary Design Project",
+    "ENGM307",
+    "ENGM321",
+    "COM3001",
+    "COM2027"
+   ],
+   "key_sources": [
+    "https://catalogue.surrey.ac.uk/2025-6/module/ENGM001/SEMR1/1R",
+    "https://catalogue.surrey.ac.uk/2025-6/module/ENGM307"
+   ],
+   "finding": "ENGM001 (MEng, industry visiting professors) qualifies; other group design/software projects have staff clients or only optional industrial partners."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Surrey biosciences chemistry physics mathematics students group project industry partner company brief module"
+   ],
+   "key_sources": [
+    "https://www.surrey.ac.uk/undergraduate/biochemistry"
+   ],
+   "finding": "Nothing qualifying verified; one biochemistry MSci industry-pitch lead unresolved."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Surrey students team consultancy social enterprise charity community client project module sociology politics law psychology",
+    "Surrey School of Literature and Languages Law Sociology Politics students project with external organisation"
+   ],
+   "key_sources": [
+    "https://surrey.ac.uk/faculty-arts-social-sciences/education/projects"
+   ],
+   "finding": "Only isolated law/teaching-fund pilots and placement/dissertation routes; no qualifying scheme verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Surrey Faculty of Health and Medical Sciences students interprofessional team project external organisation NHS charity live brief module",
+    "Hospitality, Tourism & Events Consultancy project"
+   ],
+   "key_sources": [
+    "https://www.surrey.ac.uk/faculty-health-medical-sciences/international"
+   ],
+   "finding": "Hospitality/tourism consultancy sits in Business School (S5). Health: clinical placements and an FHMS hackathon only; no qualifying scheme verified."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Consulting Project (MANM448)",
+   "english_name": "Consulting Project",
+   "module_code": "MANM448",
+   "description": "Student groups take on a brief set by a client organisation, plan and deliver the consultancy engagement (including finding a client sponsor), give a formative presentation to the client, and produce a group consultancy presentation and report. Weekly group meetings February to July.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School",
+   "eligible_faculties_programmes": "MSc Management (Surrey Business School)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits, FHEQ L7, Semester 2; group presentation 50% + group report 50% (2024/5, 2025/6)",
+   "duration": "Semester 2 (Feb-Jul)",
+   "delivery_format": "Self-managed team consultancy with weekly group meetings",
+   "project_based": "Yes",
+   "project_evidence": "Live consulting project applying learning to a real business problem; consultancy report and presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams plan and deliver the engagement; two equally weighted group assessments [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Brief set by a client organisation; students present formatively to the client and client oral/written feedback is included in the final report; 2020/1 entry: report presented to the client organisation [1][2].",
+   "partner_type": "Unclear",
+   "partner_role": "Sets the brief, acts as client sponsor, gives feedback on formative presentation",
+   "named_partners": "",
+   "deliverable": "Group consulting report and presentation to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Compulsory status is from the 2020/1 catalogue (Management MSc, Semester 2, Compulsory); 2025/6 programme listing not seen. Client sector and named clients not published.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2025-6/module/MANM448/SEMR2/2",
+     "title": "CONSULTING PROJECT - 2025/6",
+     "section": "Module descriptor",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Student groups take on a brief set by a client organisation, responsible for planning the engagement incl. finding a client sponsor; two group assessments 50% each (presentation, report); short formative presentation to the client, whose oral and written feedback is meant to be included in the final report (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://catalogue.surrey.ac.uk/2020-1/module/MANM448",
+     "title": "CONSULTING PROJECT - 2020/1",
+     "section": "Module descriptor",
+     "pub_year": "2020/1",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Management MSc, Semester 2, Compulsory; teams prepare a consulting report and present it to the client organisation (older year; supports design/compulsory status only).",
+     "supports": [
+      "participation",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S1"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Dynamics of Business Consultancy (MSc Entrepreneurship & Innovation Management)",
+   "english_name": "Dynamics of Business Consultancy",
+   "module_code": "",
+   "description": "Compulsory Year 1 Semester 2 module in which small student teams act as consultants for an external organisation: they receive a live client brief, analyse a genuine workplace problem and develop practical, evidence-based recommendations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School",
+   "eligible_faculties_programmes": "MSc Entrepreneurship & Innovation Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credit/assessment not retrieved; programme is 180 credits FHEQ L7",
+   "duration": "Semester 2",
+   "delivery_format": "Team consultancy for external organisation",
+   "project_based": "Yes",
+   "project_evidence": "Live client brief producing practical evidence-based recommendations [1].",
+   "group_working": "Yes",
+   "group_evidence": "'small student teams act as consultants' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams work for an external organisation on a live client brief [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Provides live client brief (further role not published)",
+   "named_partners": "",
+   "deliverable": "Recommendations to the client organisation (format not retrieved)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Module code, credit and assessment not retrieved; programme page undated, corroborated by 2026/7 and 2025/6 programme catalogue entries. Possible overlap with S3 (MANM468) not resolved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.surrey.ac.uk/news/entrepreneurial-experience-built",
+     "title": "Entrepreneurial experience built in",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "In the compulsory module Dynamics of Business Consultancy, small student teams act as consultants for an external organisation; students receive a live client brief and develop practical, evidence-based recommendations.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://catalogue.surrey.ac.uk/2026-7/programme/PKA61-5",
+     "title": "Entrepreneurship & Innovation Management MSc - 2026/7",
+     "section": "Programme catalogue",
+     "pub_year": "2026/7",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Programme listing places a team live project challenge with an external organisation in Year 1, Semester 2 (search-index summary).",
+     "supports": [
+      "status",
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S2"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Digital Business Challenge / Digital Project Development (MANM468)",
+   "english_name": "Digital Project Development",
+   "module_code": "MANM468",
+   "description": "Masters-level module (Feb-May) where student teams work on a digital-marketing problem for partner companies: teams review the company's current marketing, present to stakeholders, then execute agreed tasks (social media, SEO, UI/UX etc.). Partner companies commit at least two hours a week.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School",
+   "eligible_faculties_programmes": "Compulsory on MSc Entrepreneurship & Innovation Management (2025/6 catalogue)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits, FHEQ L7, Semester 2, cap 60",
+   "duration": "Feb-May (one semester)",
+   "delivery_format": "Team project with weekly company meetings",
+   "project_based": "Yes",
+   "project_evidence": "Defined digital marketing problem per company; stakeholder presentation then agreed tasks [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Student teams' work on digital marketing for partner companies [1]; module teaching uses teams on business challenge [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies are recruited on a project proposal highlighting a digital marketing challenge, meet teams weekly (min 2 h/week) and attend the stakeholder presentation [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets the challenge, meets teams weekly, receives presentation",
+   "named_partners": "Vision Engineering Ltd (credited students' SEO/social work; year not stated)",
+   "deliverable": "Stakeholder presentation and executed digital marketing work",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Link between the (undated) Digital Business Challenge page and the MANM468 catalogue entry rests on the search summary; 2025/6 catalogue snippet did not show team structure. Whether other programmes take it unknown.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.surrey.ac.uk/digital-business-challenge",
+     "title": "Digital Business Challenge project",
+     "section": "Project page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Student teams work on digital marketing for partner companies; companies must have a specific digital marketing problem and commit at least two hours a week (weekly team meetings and the stakeholder presentation).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://catalogue.surrey.ac.uk/2025-6/module/MANM468/SEMR2/2",
+     "title": "DIGITAL PROJECT DEVELOPMENT - 2025/6",
+     "section": "Module descriptor",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "15 credits, FHEQ L7, Semester 2, compulsory on Entrepreneurship & Innovation Management MSc, module cap 60; 2024/5 entry: students work in teams on business challenge.",
+     "supports": [
+      "status",
+      "participation",
+      "credit",
+      "group"
+     ]
+    }
+   ],
+   "local_id": "S3"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Employee Resourcing (MANM466) - client resourcing challenge",
+   "english_name": "Employee Resourcing",
+   "module_code": "MANM466",
+   "description": "Compulsory Semester 2 module on the Human Resources Management MSc. Teams work on a real resourcing challenge presented by a client organisation, are mentored by a senior manager from the client and coached by SBS staff, and present to an audience including senior HR professionals from the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School",
+   "eligible_faculties_programmes": "MSc Human Resources Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Group presentation 40% + individual written assignment 60% (2024/5)",
+   "duration": "Semester 2",
+   "delivery_format": "Client-mentored team challenge",
+   "project_based": "Yes",
+   "project_evidence": "Real resourcing challenge with group presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'each group' mentored; group presentation 40% [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client presents the challenge, senior manager mentors each group, client HR professionals are in the presentation audience [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Presents challenge, mentors groups, attends presentation",
+   "named_partners": "",
+   "deliverable": "Group presentation (plus individual assignment)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Client description is from the 2024/5 catalogue; module remains listed in 2025/6 and 2026/7 catalogues but its 2025/6 descriptor text was not seen. Client type 'organisation' not sector-specified (typed Business/commercial on 'client organisation' HR context - weak).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2024-5/module/MANM466/SEMR2/2CF",
+     "title": "EMPLOYEE RESOURCING - 2024/5",
+     "section": "Module descriptor",
+     "pub_year": "2024/5",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Teams work on a real resourcing challenge presented by a client; each group mentored by a senior manager from the client organisation and coached by SBS staff; present to audience including HR senior professionals from the client; group presentation 40%, individual assignment 60%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S4"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Hospitality, Tourism and Events Consultancy / Consultancy for the Visitor Economy (MAN3164 / MAN3251)",
+   "english_name": "Hospitality, Tourism and Events Consultancy",
+   "module_code": "MAN3164 (2025/6); MAN3251 (listed 2025/6 and 2026/7)",
+   "description": "Final-year BSc teams carry out a consultancy project for a designated hospitality, tourism or events organisation from inception to presenting recommendations, with a dedicated tutor and self-organised client meetings. Company contact meets students at least four times; firms help define the brief. Example: London Gatwick brief on Africa-route passenger preferences, with passenger interviews in departure lounges and report/presentation provided to the airport.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School (Hospitality, Tourism & Events)",
+   "eligible_faculties_programmes": "Final-year BSc Hospitality/Tourism/Events programmes (MAN3251 optional 30 credits, Semester 2, in International Tourism Management)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits (MAN3251), Semester 2; assessment detail not retrieved",
+   "duration": "Feb-May",
+   "delivery_format": "Supported group work with dedicated tutor and self-organised client meetings",
+   "project_based": "Yes",
+   "project_evidence": "Small consultancy project from inception to client recommendations [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'collaboratively undertake a real consultancy project'; supported group work [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External industry client sets brief, meets team (>=4 one-hour meetings) and receives recommendations/report; Gatwick example [1][2][3].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets brief, regular meetings, receives report/presentation",
+   "named_partners": "London Gatwick Airport (year not stated in extract; search summary indicated 2026)",
+   "deliverable": "Report and presentation of recommendations to the organisation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "MAN3164 vs MAN3251 naming (likely renamed) not confirmed; MAN3251 descriptor not retrieved; Gatwick news year not confirmed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2025-6/module/MAN3164/SEMR2/2",
+     "title": "HOSPITALITY, TOURISM AND EVENTS CONSULTANCY - 2025/6",
+     "section": "Module descriptor",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Gives students the opportunity to collaboratively undertake a real consultancy project on behalf of an external industry client, from inception until presenting recommendations; supported group work with dedicated tutor and regular self-organised client meetings.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.surrey.ac.uk/hospitality-tourism-and-events-consultancy",
+     "title": "Hospitality, Tourism & Events Consultancy project",
+     "section": "Project page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Final-year student teams collaborate with business stakeholders for a designated organisation; contact available for at least four one-hour meetings; firms help define the brief; students present recommendations.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.surrey.ac.uk/news/surrey-students-collaborate-london-gatwick-visitor-economy-project",
+     "title": "Surrey students collaborate with London Gatwick on visitor economy project",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Final-year students work in teams on consultancy projects set by industry partners; report and presentation to Gatwick partners; MAN3251 Consultancy for the Visitor Economy.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S5"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Applied Business Project (MAN3213) - Semester 1 group partner project",
+   "english_name": "Applied Business Project",
+   "module_code": "MAN3213",
+   "description": "In Semester 1 (2026/7 catalogue) students work in groups with an external business partner, typically an entrepreneurial start-up, to analyse the founder's journey, evaluate the business's position and propose growth through new revenue opportunities; the project is client-facing. Semester 2 is an individual new-venture proposal (not part of this route).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School",
+   "eligible_faculties_programmes": "Surrey Business School undergraduate programmes (not retrieved)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year (assumed; not retrieved)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits",
+   "duration": "Semester 1 (group element)",
+   "delivery_format": "Group project with external business partner; client interaction",
+   "project_based": "Yes",
+   "project_evidence": "Analysis and growth proposals for a partner business [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students work in groups with an external business partner' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project is client-facing and requires interaction with the external business partner [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Partner business (typically start-up) engaged with groups",
+   "named_partners": "",
+   "deliverable": "Growth proposals for partner business",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "The 2025/6 catalogue entry describes an individual business-idea project; the group-partner format appears from 2026/7. Programme eligibility, compulsory/optional status and partner names not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2026-7/module/MAN3213",
+     "title": "APPLIED BUSINESS PROJECT - 2026/7",
+     "section": "Module descriptor",
+     "pub_year": "2026/7",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "In Semester 1, students work in groups with an external business partner, typically an entrepreneurial start-up, to analyse the founder's journey, evaluate the current position of the business, and develop proposals for growth through new revenue opportunities; client-facing and requires interaction with the external business partner.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://catalogue.surrey.ac.uk/2025-6/module/MAN3213",
+     "title": "APPLIED BUSINESS PROJECT - 2025/6",
+     "section": "Module descriptor",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "2025/6 entry describes an individual project built around the student's own business idea (differs from 2026/7).",
+     "supports": [
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S6"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Consultancy Project (B-Clinic)",
+   "english_name": "B-Clinic Consultancy Project",
+   "module_code": "",
+   "description": "Supervised consultancy for a partner company on a strategic issue; kick-off with client, student and supervisor; client contact meets student at least four times; 12,000-word report plus optional practical output (website prototype, campaign, design, database). Offered individually or in groups, short-term or a full semester; used as an option on the MSc Entrepreneurship & Innovation Management.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School",
+   "eligible_faculties_programmes": "MSc Entrepreneurship & Innovation Management option; wider eligibility unclear",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "12,000-word report",
+   "duration": "Short-term to a full semester",
+   "delivery_format": "Supervised client consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Formal brief, objectives, deliverables, 12,000-word report [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Pages say projects may be individual or group, but 'each student submits a 12,000-word report'; routes not separable [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Business partner defines the brief, attends kick-off, meets student/supervisor and may agree a practical output [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Defines brief, regular meetings",
+   "named_partners": "",
+   "deliverable": "12,000-word report plus agreed practical output",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "B-Clinic reported as having supported more than 200 students and about 14 businesses a year (Innovate UK funding news; year not stated)",
+   "unresolved": "Group vs individual routes cannot be separated; page undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.surrey.ac.uk/consultancy-project",
+     "title": "Consultancy Project",
+     "section": "Partner page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Kick-off attended by client, student and academic supervisor; client typically commits to at least four one-hour meetings; each student submits a 12,000-word report; partner may agree a practical output; projects individually or in groups.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.surrey.ac.uk/business-school/businesses/b-clinic",
+     "title": "The B-clinic",
+     "section": "B-Clinic page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "B-Clinic offers supervised student consultancy projects for businesses.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S7"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Integrative Applied Project (MANM363) - consultancy option",
+   "english_name": "MBA Integrative Applied Project",
+   "module_code": "MANM363",
+   "description": "Core 30-credit MBA Semester 2 independent project; students may choose a consultancy option on a live business problem with a real company (corporate, public or third sector) producing client-actionable outcomes, or a management research project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School",
+   "eligible_faculties_programmes": "MBA (consultancy option within core module)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits",
+   "duration": "Semester 2",
+   "delivery_format": "Independent project",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy outcomes must be actionable by the client [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Described as an independent project; team format not stated [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Live business problem with a real company; judged on added value to the customer [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Hosts live problem; benefits from outcomes",
+   "named_partners": "",
+   "deliverable": "Consultancy outcome for client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Group working unclear; consultancy is one option of two.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2025-6/module/MANM363/SEMR2/2R",
+     "title": "INTEGRATIVE APPLIED PROJECT - 2025/6",
+     "section": "Module descriptor",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Not a taught module but an independent project; consultancy option: live business problem with a real company (corporate, public or third sector); outcomes actionable by the client.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S8"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Multi-Disciplinary Design Project (ENGM001)",
+   "english_name": "Multi-Disciplinary Design Project",
+   "module_code": "ENGM001",
+   "description": "Semester 1 30-credit core module for MEng students: groups drawn from at least three engineering disciplines (aerospace, civil, chemical, electronic, mechanical, medical) work on industry-originated briefs from Royal Academy of Engineering Visiting Professors from Industry, with weekly meetings with the visiting professor; emulates an intensive industrial design project.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Engineering (Chemistry and Chemical Engineering provider)",
+   "eligible_faculties_programmes": "MEng programmes incl. Aerospace, Civil, Electronic, Biomedical (core/compulsory)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "MEng (FHEQ L7 module)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits; 2025/6 marks for communication and teamwork across group meetings, presentations and oral exam; weighting not retrieved",
+   "duration": "Semester 1",
+   "delivery_format": "Multi-disciplinary groups with industry Visiting Professor",
+   "project_based": "Yes",
+   "project_evidence": "Industry design briefs; reports, presentation, poster and viva in earlier years [1].",
+   "group_working": "Yes",
+   "group_evidence": "Groups of at least three disciplines, often four; teamwork assessed [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Briefs come from RAE Visiting Professors from Industry supported by their sponsoring organisation; visiting professor meets weekly and records marks with tutors [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry visiting professor supplies brief, mentors weekly, contributes to assessment",
+   "named_partners": "",
+   "deliverable": "Design report/presentation/poster/viva",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Sponsoring organisations unnamed; visiting professors act through their companies, but the sponsor's direct engagement with students is via the professor.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2025-6/module/ENGM001/SEMR1/1R",
+     "title": "MULTI-DISCIPLINARY DESIGN PROJECT - 2025/6",
+     "section": "Module descriptor",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students from Aerospace, Civil, Chemical, Electronic, Mechanical and Medical Engineering work in groups of at least three disciplines; industry briefs from RAE Visiting Professors from Industry; weekly meetings with the visiting professor; teamwork/communication marks recorded by tutors and Visiting Professor; 30 credits, core across several MEng programmes.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status",
+      "credit"
+     ]
+    }
+   ],
+   "local_id": "S9"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Design Project (ENGM307 / ENG3162)",
+   "english_name": "Group Design Project",
+   "module_code": "ENGM307",
+   "description": "Small groups tackle a design challenge; 'where feasible' projects are proposed by industrial partners.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Engineering",
+   "eligible_faculties_programmes": "",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Group design challenge [1].",
+   "group_working": "Yes",
+   "group_evidence": "Small groups [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Only 'where feasible' industrial partners propose projects; 2027/8 version has staff as customers 'often through consultation with industry' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "May propose projects",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Programmes, credits, partner share unknown.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2025-6/module/ENGM307",
+     "title": "GROUP DESIGN PROJECT - 2025/6",
+     "section": "Module descriptor",
+     "pub_year": "2025/6",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Small groups tackle a design challenge; where feasible, projects will be proposed by Industrial partners.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S10"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Software Engineering Project (COM2027)",
+   "english_name": "Software Engineering Project",
+   "module_code": "COM2027",
+   "description": "Second-year team software project built from a high-level specification, supervised by a staff 'project sponsor'; teams deliver a system; presentations 'potentially' to external stakeholders.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "Computer Science BSc/MEng",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Large-scale team software project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Team project [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sponsor is a member of the teaching team; external stakeholders only potential audience; a course page says teams deliver to clients [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "No external organisation evidenced as client.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2026-7/module/COM2027",
+     "title": "SOFTWARE ENGINEERING PROJECT - 2026/7",
+     "section": "Module descriptor",
+     "pub_year": "2026/7",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Supervised group meetings with a member of the teaching team acting as project sponsor; student-led sessions present progress to the cohort and, potentially, external stakeholders (search summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S11"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "IKEEP (Intrapreneurial Knowledge Exchange Enterprise Pathway)",
+   "english_name": "IKEEP",
+   "module_code": "",
+   "description": "SETsquared-backed scheme: team of three students from varied disciplines (undergraduate and postgraduate) works on a 'backburner' innovation project for a local business or charity, intensively over 2 weeks or flexibly over 4 weeks; free to organisations; students receive a stipend.",
+   "academic_reach": "Unclear",
+   "admin_host": "Student Enterprise",
+   "eligible_faculties_programmes": "Students across disciplines (restrictions not retrieved)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Stipend on completion (2021: GBP450); not credit-bearing",
+   "duration": "2-4 weeks (210 h in 2021)",
+   "delivery_format": "Short team placement with project brief",
+   "project_based": "Yes",
+   "project_evidence": "Organisation supplies a project brief developed with Student Enterprise [1].",
+   "group_working": "Yes",
+   "group_evidence": "Team of three students [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local business/charity submits brief and hosts the team [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies brief, hosts team",
+   "named_partners": "",
+   "deliverable": "Project outcome for host organisation",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021",
+   "participation_data": "",
+   "unresolved": "Most dated pages are 2020-21; current 'Work with our students' page undated. Delivery in 2025/26 not verified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.surrey.ac.uk/innovation/business-partners/work-our-students",
+     "title": "Work with our students",
+     "section": "Partner page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "IKEEP: funded programme letting students apply knowledge to an innovation challenge for a local business or charity; team of three students from a variety of disciplines; free for organisations; two or four weeks.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://blogs.surrey.ac.uk/student-enterprise/2021/06/01/setsquared-surreys-ikeep-programme-launching-again-in-2021/",
+     "title": "SETsquared Surrey's IKEEP Programme Launching Again in 2021!",
+     "section": "Blog",
+     "pub_year": "2021",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Mixed UG/PG teams of three; 4-week part-time projects totalling 210 hours; stipend GBP450.",
+     "supports": [
+      "group",
+      "duration",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S12"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "iTEK (Ready4Innovation challenges, ERA Foundation funded)",
+   "english_name": "iTEK",
+   "module_code": "",
+   "description": "Intrapreneurship programme connecting SMEs and industry partners with small student teams drawn from the cohort attached to a module (began with MSc Artificial Intelligence); teams get intrapreneurship training and coaching and tackle SME-set innovation challenges (kick-off, review, delivery, handover) for short-term funded projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Student Enterprise",
+   "eligible_faculties_programmes": "MSc Artificial Intelligence (initially)",
+   "faculty_areas": [
+    "central",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Mixed",
+   "credit_assessment": "",
+   "duration": "Short-term project (a Ready4Innovation summary indicated four weeks part-time; not confirmed)",
+   "delivery_format": "Team challenge with industry coaching",
+   "project_based": "Yes",
+   "project_evidence": "SME innovation challenge with testable, business-ready outcomes [1].",
+   "group_working": "Yes",
+   "group_evidence": "'small student teams' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "SMEs set challenges and receive the team's project outcome [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets challenge, receives output",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022",
+   "participation_data": "",
+   "unresolved": "ERA donation made 2022, extended 'for another year'; no 2025/26 cohort evidence. Duration, stipend and credit status unconfirmed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.surrey.ac.uk/news/itek-programme-funded-era-foundation",
+     "title": "iTEK Programme funded by ERA Foundation",
+     "section": "News",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "iTEK connects SMEs and industry partners with small student teams drawn from the cohort attached to the relevant module; companies offered an innovation team for a short-term funded project; GBP195,600 from ERA Foundation, began with MSc AI.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S13"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Hackathon17",
+   "english_name": "Hackathon17 (SDG hackathon)",
+   "module_code": "",
+   "description": "Three-day Student Enterprise hackathon: interdisciplinary teams address SDG-related problem statements, as a consultancy-style challenge or start-up.",
+   "academic_reach": "Unclear",
+   "admin_host": "Student Enterprise",
+   "eligible_faculties_programmes": "",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "3 days",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "Teams create products/services for problem statements [1]; defined output for a named organisation not shown.",
+   "group_working": "Yes",
+   "group_evidence": "Interdisciplinary teams [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industry partners (WWF, GRACE, Yakult Ltd, Environment Agency) involved per a staff profile; 2022 event sponsored by Yakult; whether partners set briefs/judge not shown [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Involved; role unclear",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Historical delivery only",
+   "latest_evidenced_year": "2024",
+   "participation_data": "",
+   "unresolved": "No 2025/26 edition found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://blogs.surrey.ac.uk/student-enterprise/2022/05/14/hackathon17-hacking-the-sustainable-development-goals-for-a-better-future/",
+     "title": "HACKATHON17",
+     "section": "Blog",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Three-day event; interdisciplinary teams create products and services for problem statements on SDGs.",
+     "supports": [
+      "group",
+      "project",
+      "duration"
+     ]
+    }
+   ],
+   "local_id": "S14"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Retail Consultancy Project (MAN3136)",
+   "english_name": "Retail Consultancy Project",
+   "module_code": "MAN3136",
+   "description": "Final-year retail module: written group project and group presentation to the client for a small consultancy project; 2020 news describes live Carabao/Simply Fresh campaigns with the companies on the assessment panel.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Surrey Business School",
+   "eligible_faculties_programmes": "",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Plan, design and deliver a small retail consultancy project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Group project and presentation [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Catalogue says 'hypothetical or real client'; routes not separated; 2020 news shows real client panel [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "",
+   "named_partners": "Carabao; Simply Fresh (2020 news)",
+   "deliverable": "",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Historical delivery only",
+   "latest_evidenced_year": "2022/23",
+   "participation_data": "",
+   "unresolved": "No 2025/26 catalogue entry seen.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.surrey.ac.uk/2022-3/module/MAN3136",
+     "title": "RETAIL CONSULTANCY PROJECT - 2022/3",
+     "section": "Module descriptor",
+     "pub_year": "2022/3",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Small simulated consultancy project in retail with hypothetical or real client; written group project and group presentation to the client.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.surrey.ac.uk/news/students-work-business-launch-marketing-campaigns-and-boost-store-sales",
+     "title": "Students work with business to launch marketing campaigns and boost in-store sales",
+     "section": "News",
+     "pub_year": "c.2020",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Final-year groups ran live campaigns for Carabao in Simply Fresh store; presented to a panel including company representatives.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S15"
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Professional Training placements",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "Up-to-a-year individual placement with employers (legacy row); individual work alongside colleagues, no group project; not tested as project/group.",
+   "source_url": "https://www.surrey.ac.uk/professional-training-placements/ug-courses-placements",
+   "status_note": "Undated page; intake unverified"
+  },
+  {
+   "name": "Independent Applied Study (MANM572)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Consultancy route on a brief agreed with a company stakeholder and supervisor is an individual summer project.",
+   "source_url": "https://catalogue.surrey.ac.uk/2025-6/module/MANM572/XAY/X",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "Business Analytics Consultancy Project (MAN3245)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual supervised analytics project.",
+   "source_url": "https://catalogue.surrey.ac.uk/2025-6/module/MAN3245",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "Capstone Project (MANM488)",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual 8,000-word research report plus viva; no external organisation.",
+   "source_url": "https://catalogue.surrey.ac.uk/2025-6/module/MANM488",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "Professional Project (COM3001)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Mostly individual final-year project; some on placement-employer topics.",
+   "source_url": "https://catalogue.surrey.ac.uk/2025-6/module/COM3001",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "Group Project (ENGM321, MSc Sustainable Energy)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Compulsory group project, but academic staff act as clients (internal), only 'often' consulting industry.",
+   "source_url": "https://catalogue.surrey.ac.uk/2025-6/module/ENGM321/XAY/XCF",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "Mentoring and Professional Development (MAN3162)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Industry mentor sets a live issue but assessment is an individual 6,000-word industry report.",
+   "source_url": "https://www.surrey.ac.uk/mentoring-and-professional-development",
+   "status_note": "2025/6 catalogue"
+  },
+  {
+   "name": "International Business Project (MANM372)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Unsupervised secondary-research project; no client evidenced.",
+   "source_url": "https://catalogue.surrey.ac.uk/2025-6/module/MANM372/SEMR2/2",
+   "status_note": "2025/6"
+  },
+  {
+   "name": "Law Access to Justice partner workshop / D2LT pro bono / AI simulated client",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Single 2024 teaching-fund workshop with a charity and theatre company; pro bono clinical options and AI 'client' (simulation) not shown as group projects.",
+   "source_url": "https://surrey.ac.uk/faculty-arts-social-sciences/education/projects",
+   "status_note": "2024-2026"
+  },
+  {
+   "name": "Biochemistry MSci target-product-profile pitch to industry experts",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group status, client role and programme unclear from search summary.",
+   "source_url": "https://www.surrey.ac.uk/undergraduate/biochemistry",
+   "status_note": ""
+  },
+  {
+   "name": "Surrey Hatchery / Student Enterprise start-up support",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Supports students' own ventures.",
+   "source_url": "https://www.surrey.ac.uk/student-enterprise/about",
+   "status_note": ""
+  },
+  {
+   "name": "Surrey Employability Hub / Pathfinder / careers events",
+   "legacy": false,
+   "category": "Careers service",
+   "reason": "Job and event listings; no project.",
+   "source_url": "https://www.surrey.ac.uk/employability-and-careers/about/surrey-employability-hub",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Surrey's qualifying provision is concentrated in Surrey Business School, with one engineering route and several extracurricular Student Enterprise programmes. In the business school, small student teams act as consultants for external client organisations in compulsory MSc modules: Consulting Project (MANM448, MSc Management; group report and presentation, client feedback), Dynamics of Business Consultancy (MSc Entrepreneurship & Innovation Management), Digital Project Development (MANM468; partner companies meet teams at least two hours a week) and, on the 2024/5 evidence, Employee Resourcing (MANM466, client-mentored). Final-year hospitality and tourism students can take a team consultancy for an industry client (MAN3164/MAN3251, e.g. London Gatwick), and the 2026/7 Applied Business Project (MAN3213) puts groups with an external start-up partner. In engineering, the MEng Multi-Disciplinary Design Project (ENGM001) puts mixed-discipline groups on briefs from industry Visiting Professors, who meet them weekly and contribute to assessment. Extracurricular IKEEP and iTEK place teams of students on SME or charity challenges, but delivery after 2022 was not verified.\n\nAccess is programme-specific: modules are compulsory within named MSc or MEng programmes or optional in final-year degrees; no university-wide route or compulsory institution-wide scheme was found. The Professional Training placement year is individual and was excluded. Science and arts/social science provision is isolated or unverified. Uncertainties: client sectors and names are rarely published, some descriptions are from 2024/5, and B-Clinic and MBA consultancy routes mix individual and group work.",
+ "gaps": "Further departmental instances likely (other FEPS group design projects, MSc programmes in business school). Client names, group sizes and participation numbers mostly unpublished. Science and arts/health coverage thin (about 3 searches each). MANM466, IKEEP and iTEK lack 2025/26 evidence. Dynamics of Business Consultancy and MANM468 may overlap."
+}
