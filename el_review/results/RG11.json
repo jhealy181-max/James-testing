@@ -1,0 +1,1246 @@
+{
+ "inst_id": "RG11",
+ "institution": "Leeds",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Leeds student consultancy project live client module",
+    "Leeds Discovery Module project employer client team",
+    "Leeds Global Industry Programme live company brief students teams",
+    "Leeds Global Industry Programme 2025-2026 eligibility teams company brief report",
+    "Global Industry Programme Leeds students partners companies feedback",
+    "Leeds careers employability student team challenge employer-set brief",
+    "CSER2201 Career Development 2 skills challenge employer"
+   ],
+   "key_sources": [
+    "https://students.leeds.ac.uk/careers/doc/leeds-global-industry-programme-2025-2026",
+    "https://students.leeds.ac.uk/modules/doc/explore-discovery-modules",
+    "https://lcee.leeds.ac.uk/enterprise-consultancy-project-2024-2/"
+   ],
+   "finding": "Central routes: Global Industry Programme (PGT, live company briefs, teams of 5-8) qualifies; Discovery Modules is a breadth framework (excluded) but hosts LUBS3013 and LUBS3990. No central compulsory employer-project scheme found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "LUBS3013 Enterprise Consultancy",
+    "Enterprise Consultancy Project Leeds apply small business",
+    "Management Consulting MSc Leeds consultancy project LUBS5318M",
+    "Leeds MBA Consulting Challenge live challenges",
+    "Leeds University Business School undergraduate module real client team project",
+    "Students wow leading industry experts KPMG IBM",
+    "Innovation Thinking and Practice LUBS3990",
+    "LUBS3990 2025/26",
+    "LUBS5723M",
+    "Marketing Consultancy Project LUBS2931",
+    "Business and Intelligent Technologies Capstone",
+    "Leeds MBA Leading in Practice Consulting Challenge 2025 2026"
+   ],
+   "key_sources": [
+    "https://catalogue.leeds.ac.uk/Module/UG/LUBS/3013/202526",
+    "https://catalogue.leeds.ac.uk/Module/UG/LUBS/3990/202526",
+    "https://business.leeds.ac.uk/leeds-mba/doc/live-challenges-3"
+   ],
+   "finding": "Strong provision: LUBS3013 (team consultancy for SMEs/social enterprises, current), LUBS3990 (partner-set innovation challenges, status unclear), MBA Consulting Challenge; individual consulting projects (MSc Management Consulting) excluded as not group."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Leeds School of Computer Science industry project module team client",
+    "Leeds EPS group design project industry client sponsor",
+    "COMP5530M Group Project",
+    "Leeds mechanical engineering MEng major team project industrial partner",
+    "MECH5 Team Project 45 credits catalogue 2025/26",
+    "Leeds civil/chemical/electronic engineering design project industry client",
+    "Leeds civil engineering Integrated Design Project industrial partner client",
+    "Leeds EPS embedded virtual work experience",
+    "Leeds chemical engineering design project design consultants",
+    "Integrated Design Project 4 CIVE catalogue 2025/26",
+    "Leeds Computer Science MEng industry-based group project"
+   ],
+   "key_sources": [
+    "https://catalogue.leeds.ac.uk/Module/UG/MECH/5080M/202526",
+    "https://eps.leeds.ac.uk/homepage/266/embedded-virtual-work-experience",
+    "https://eps.leeds.ac.uk/civil-engineering-undergraduate/doc/year-one"
+   ],
+   "finding": "MECH5080M MEng team project with industry mentors as customers (confirmed 2025/26) and EPS embedded virtual work experience qualify; civil IDP4 qualifies on undated evidence; Computer Science and Chemical Engineering group projects lack evidenced external clients."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Leeds School of Mathematics statistics industry project group MSc Data Science and Analytics",
+    "Leeds Biological Sciences OR Earth and Environment OR Chemistry OR Physics team project external client",
+    "Leeds School of Earth and Environment undergraduate consultancy project client group"
+   ],
+   "key_sources": [
+    "https://courses.leeds.ac.uk/g378/biological-sciences-biotechnology-with-enterprise-mbiol-bsc",
+    "https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc"
+   ],
+   "finding": "Science routes are LUBS3013 (compulsory in Biotechnology with Enterprise) and the EPS embedded work experience for science MSc students; Maths/Data Science projects are co-supervised individual projects; MSc Sustainability and Consultancy is individual."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Leeds Faculty of Arts Humanities Cultures module working with external organisation client project team",
+    "FOAH5000M Civic Researcher",
+    "Arts Management and Heritage Studies MA Placements in Context",
+    "Leeds Faculty of Social Sciences group project policy brief external organisation",
+    "Leeds Social Sciences Institute student consultancy Policy Leeds",
+    "Leeds Law School legal advice clinic pro bono"
+   ],
+   "key_sources": [
+    "https://catalogue.leeds.ac.uk/Module/TP/FOAH/5000M/202526",
+    "https://courses.leeds.ac.uk/g646/arts-management-and-heritage-studies-ma",
+    "https://catalogue.leeds.ac.uk/Module/UG/SLSP/2976/202425"
+   ],
+   "finding": "FOAH5000M (confirmed 2025/26) and the Arts Management MA partner-brief module qualify; social science and law routes are individual placements or clinics (excluded)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Leeds School of Design live brief industry client students project",
+    "DESN3585 Collaborative Marketing and Promotion",
+    "Leeds School of Medicine OR Healthcare quality improvement project team NHS",
+    "MEDI4226 ESREP",
+    "Product Design Leeds live projects industrial partners"
+   ],
+   "key_sources": [
+    "https://catalogue.leeds.ac.uk/Module/UG/DESN/3585/202627",
+    "https://catalogue.leeds.ac.uk/Module/UG/MEDI/4226/202526"
+   ],
+   "finding": "Design module DESN3585 has a team client brief but client identity unclear; medicine ESREP and product design lack sufficient evidence."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "LUBS3013 Enterprise Consultancy (Leeds Enterprise Consultancy Project)",
+   "english_name": "Enterprise Consultancy",
+   "module_code": "LUBS3013",
+   "description": "Final-year undergraduates, working in student teams, deliver a project to a consultancy brief supplied by a small business or social enterprise that has applied to the Centre for Enterprise and Entrepreneurship Studies (business development, innovation or new-market focus). Assessed by a group client report plus an individual reflective log. Also compulsory within the BSc/MBiol Biological Sciences (Biotechnology with Enterprise) degrees.",
+   "academic_reach": "University-wide",
+   "admin_host": "Leeds University Business School (Centre for Enterprise and Entrepreneurship Studies)",
+   "eligible_faculties_programmes": "Final-year undergraduates across the University (also approved as a Discovery module); compulsory in Biological Sciences (Biotechnology with Enterprise)",
+   "faculty_areas": [
+    "business",
+    "central",
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year (Level 3)",
+   "eligibility_restrictions": "Final-year undergraduate students; subject to programme rules / Discovery module enrolment",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, Semester 1 (2025/26 catalogue). Group client report (3,000 words, 50%) + individual reflective log (2,500 words, 50%) per search summary of catalogue.",
+   "duration": "Client project over a 6-8 week period within a Semester 1 module",
+   "delivery_format": "In-person/hybrid module; student teams work with an enterprise client",
+   "project_based": "Yes",
+   "project_evidence": "Student team 'delivers a project to an enterprise's consultancy brief over a 6-8 week period' with a client report as output (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "'student team'; assessed by a group client report (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Small businesses and social enterprises apply to the Centre with a project proposal and act as client; a charity client reported implementing most recommendations; a cafe client trialled a student team's layout proposal (sources 1, 3).",
+   "partner_type": "Mixed",
+   "partner_role": "Small businesses and social enterprises/charities apply, supply the consultancy brief and receive the team's client report",
+   "named_partners": "Better Giving Partnership (charity client, case study; year not confirmed)",
+   "deliverable": "Group consultancy/client report with recommendations (plus individual reflective log)",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "Class size 130 (2025/26 catalogue; capacity, not enrolment)",
+   "unresolved": "Number of client organisations per year not published. Duration band reflects the 6-8 week client project inside a longer module (band conservative). Note: the Biological Sciences (Biotechnology with Enterprise) programme pages describe this module as compulsory within that degree (source 4).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.leeds.ac.uk/Module/UG/LUBS/3013/202526",
+     "title": "LUBS3013 Enterprise Consultancy",
+     "section": "Module catalogue 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Working directly with enterprises, the student team delivers a project to an enterprise's consultancy brief over a 6-8 week period; 20 credits, Semester 1, class size 130; open to final year undergraduate students across the university.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://lcee.leeds.ac.uk/enterprise-consultancy-project-2024-2/",
+     "title": "Enterprise Consultancy Project 2025",
+     "section": "Call for enterprise partners",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Invites small businesses and social enterprises to apply with a proposal emphasising business development, innovations or exploring new market opportunities; module open to final year undergraduates across the university.",
+     "supports": [
+      "project",
+      "employer",
+      "reach",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://lcee.leeds.ac.uk/casestudies/behind-the-scenes-look-at-the-leeds-enterprise-consultancy-project/",
+     "title": "Behind-the-scenes look at the Leeds Enterprise Consultancy Project",
+     "section": "Case study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "A charity client (Better Giving Partnership) said they have taken away, and are implementing, most of the students' recommendations.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://courses.leeds.ac.uk/g378/biological-sciences-biotechnology-with-enterprise-mbiol-bsc",
+     "title": "Biological Sciences (Biotechnology with Enterprise) MBiol, BSc",
+     "section": "Course content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Enterprise Consultancy is a compulsory 20-credit module in which students work as a team on a consultancy brief for an enterprise (search summary).",
+     "supports": [
+      "participation",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Leeds Global Industry Programme (postgraduate)",
+   "english_name": "Leeds Global Industry Programme",
+   "module_code": "",
+   "description": "Online consulting-style programme in which multidisciplinary teams of 5-8 taught postgraduates receive a live brief from a UK or overseas company, research and develop solutions, and present findings in a professional consultancy report; participants get feedback and a digital badge/certificate. Guaranteed for on-campus taught postgraduates (not MBA); EPS students instead take S3.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers / Leeds University Business School Employability and Opportunity team (central programme)",
+   "eligible_faculties_programmes": "All on-campus taught postgraduate students, UK and international, except Leeds MBA; Faculty of Engineering and Physical Sciences students offered the embedded 8-week programme (S3) instead",
+   "faculty_areas": [
+    "central",
+    "business",
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Taught postgraduate year",
+   "eligibility_restrictions": "On-campus PGT students; excludes MBA; EPS students take the embedded alternative",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Digital badge and certificate; credit/assessment status not stated in the extracts.",
+   "duration": "Described as a 2-week online programme on several Masters pages; other pages give different formats",
+   "delivery_format": "Online, multi-disciplinary teams of 5-8",
+   "project_based": "Yes",
+   "project_evidence": "Teams receive a live company brief and produce a professional consultancy report (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "'small groups of five to eight students' in a multi-disciplinary team (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies supply the live brief; a partner company's comments on the 2024/25 cohort quoted in the programme news item (sources 1, 3). Whether students present directly to the company is not stated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies live company brief (UK and overseas organisations); comments on performance",
+   "named_partners": "Partner companies from Spain, Nigeria, Canada, Singapore and elsewhere (2024/25 news; individual names not captured)",
+   "deliverable": "Professional consultancy report",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "2024/25 expansion aimed to engage 200 students across two cohorts (Nov 2024 and Feb 2025) (target, not outcome)",
+   "unresolved": "Credit/assessment status and whether compulsory are not stated; some pages give a 2-week format. Whether the client receives the output directly is not stated (employer role limited to brief-setting and comment).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://students.leeds.ac.uk/careers/doc/leeds-global-industry-programme-2025-2026",
+     "title": "Leeds Global Industry Programme",
+     "section": "Programme page 2025-26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Guaranteed for all on-campus taught postgraduate students except Leeds MBA; multi-disciplinary teams of five to eight; students receive a live company brief, then research, analyse and develop solutions presenting findings in a professional consultancy report; digital badge and certificate.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://students.business.leeds.ac.uk/the-lubs-employability-and-opportunity-team/postgraduates/leeds-global-industry-programme-2025-2026/",
+     "title": "Leeds Global Industry Programme 2025-2026",
+     "section": "LUBS employability page",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "2025-26 programme page (same description of live brief and teams).",
+     "supports": [
+      "project",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://business.leeds.ac.uk/faculty/news/article/1267/championing-experiential-learning-with-expanded-global-industry-programme",
+     "title": "Championing experiential learning with expanded Global Industry Programme",
+     "section": "News",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Aimed to engage 200 students across two cohorts (Nov 2024, Feb 2025); partner companies from Spain, Nigeria, Canada, Singapore; a company praised the students' work.",
+     "supports": [
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "EPS Embedded Virtual Work Experience",
+   "english_name": "Embedded virtual work experience (Engineering and Physical Sciences, postgraduate)",
+   "module_code": "",
+   "description": "Eight-week part-time online programme in which a team of five students from the same course solves a real business problem set by an assigned company; academic tutor and EPS Employability Team support; company gives feedback on performance; short pass/fail reflective assignment.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Engineering and Physical Sciences Employability Team",
+   "eligible_faculties_programmes": "EPS taught postgraduate (MSc) students (e.g. Computer Science, Chemistry, Electronic Engineering, Mathematics/Data Science MSc pages); several course pages call it optional",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Near end of MSc, from August",
+   "eligibility_restrictions": "Progression requirements (e.g. no outstanding resits)",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Short reflective assignment graded pass/fail by academic tutor",
+   "duration": "8 weeks part-time",
+   "delivery_format": "Online, team of five",
+   "project_based": "Yes",
+   "project_evidence": "Students 'solve real business problems' set by an assigned company (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Team of five students from the same course (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Assigned company sets the problem and gives feedback on performance; placement with a company guaranteed (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets business problem; gives performance feedback",
+   "named_partners": "",
+   "deliverable": "Team solution to company business problem (output form not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Faculty page undated; delivery in 2025/26 corroborated by the central 2025-26 Global Industry Programme page stating EPS students are offered the embedded programme instead (S2 source 1). Some MSc pages are very old. Exact deliverable and presentation to company not stated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://eps.leeds.ac.uk/homepage/266/embedded-virtual-work-experience",
+     "title": "Embedded virtual work experience",
+     "section": "Faculty page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Eight-week online work experience: team of five students from your course solve real business problems for an assigned company part-time; company gives feedback; academic tutor; pass/fail reflective assignment.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://students.leeds.ac.uk/careers/doc/leeds-global-industry-programme-2025-2026",
+     "title": "Leeds Global Industry Programme",
+     "section": "Programme page 2025-26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "EPS students are offered an eight-week online work experience programme instead of the Global Industry Programme.",
+     "supports": [
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://courses.leeds.ac.uk/k301/computer-science-with-software-engineering-msc",
+     "title": "Computer Science with Software Engineering MSc",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Describes an optional online work experience programme on a live company brief.",
+     "supports": [
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MECH5080M Team Project (MEng major team project with industrial partner)",
+   "english_name": "Mechanical Engineering MEng Team Project",
+   "module_code": "MECH5080M",
+   "description": "Advanced engineering project in groups of 3-6, supervised by staff and mentored by an industry collaborator who acts as the customer; teams develop a tender or business plan. Example topics include cooling channels for turbine blades (Rolls-Royce), hydrogen aircraft optimisation (Airbus), rocket base drag (MBDA).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Mechanical Engineering",
+   "eligible_faculties_programmes": "Mechanical Engineering MEng; also described for Mechatronics and Robotics MEng and Industrial variants (Year 4 or 5 depending on variant)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4 (Year 5 for Industrial variants)",
+   "eligibility_restrictions": "MEng students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "45 credits, Semesters 1 and 2, pass for progression (2025/26 programme listing)",
+   "duration": "Two semesters",
+   "delivery_format": "In-person team project",
+   "project_based": "Yes",
+   "project_evidence": "Tender/business plan format emulating professional practice (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of 3 to 6 (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "'mentored by a collaborator from industry'; industry mentors act as customers; students 'work closely with one of our industrial partners' (sources 1, 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry collaborator mentors team and acts as customer; supplies project topic",
+   "named_partners": "Rolls-Royce, Airbus, MBDA (example project titles; year not stated)",
+   "deliverable": "Engineering solution with tender/business plan",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "Class size 240 (catalogue; capacity)",
+   "unresolved": "Named partner examples undated; whether every team has an external (not internal) mentor is stated as the norm but not quantified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.leeds.ac.uk/Module/UG/MECH/5080M/202526",
+     "title": "MECH5080M Team Project",
+     "section": "Module catalogue 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "45 credits; groups of 3 to 6; staff supervisor and industry collaborator as mentor; tender or business plan with industry mentors acting as customers; class size 240.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://courses.leeds.ac.uk/f411/mechanical-engineering-meng-beng",
+     "title": "Mechanical Engineering MEng, BEng",
+     "section": "Course content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Major team project working closely with one of our industrial partners; examples with Rolls-Royce, Airbus, MBDA.",
+     "supports": [
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://catalogue.leeds.ac.uk/Programme/202526?code=MEBE-MECH",
+     "title": "MEng, BEng Mechanical Engineering",
+     "section": "Programme listing 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "MECH5080M Team Project | 45 | Semesters 1 & 2 | PFP (compulsory Year 4).",
+     "supports": [
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Civil Engineering Integrated Design Project (Year 4 MEng)",
+   "english_name": "Civil Engineering Integrated Design Project 4",
+   "module_code": "IDP4 (code not captured)",
+   "description": "Year 4 MEng groups usually work on a real-life problem proposed by an industrial partner, who acts as client; external engineers advise on technical issues. Staged outputs from option study to detailed design; groups present to the module team and industry partner, with top groups re-presenting at the partner's offices.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Civil Engineering",
+   "eligible_faculties_programmes": "Civil Engineering MEng variants (Civil, Civil & Structural, with Project Management, with Transport)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4",
+   "eligibility_restrictions": "MEng civil engineering programmes",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits, Semester 1 (per search summary of catalogue listing; year of listing not confirmed)",
+   "duration": "Semester 1",
+   "delivery_format": "In-person group design project",
+   "project_based": "Yes",
+   "project_evidence": "Staged design deliverables for a partner-set problem (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Groups' present reports/presentations (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industrial partner proposes the problem, acts as client and receives presentations; external engineers advise (source 1). 'usually' indicates standard but not absolute.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Proposes brief, acts as client, receives presentations at their offices",
+   "named_partners": "",
+   "deliverable": "Option study, holistic report, detailed design, presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Page describing partner-client model is undated; no 2025/26 or 2026/27 catalogue entry for this module was retrieved (the 2025/26 results showed Architecture Design Studio modules instead). Module code not captured.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://eps.leeds.ac.uk/civil-engineering-undergraduate/doc/year-one",
+     "title": "Civil engineering project work",
+     "section": "Year 4 Integrated Design Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Year 4 MEng students usually get a real-life problem proposed by one of the department's industrial partners; partner takes the role of client; groups present to module team and industry partner; top groups re-present at partner's offices.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "FOAH5000M Engaging the Modern City: The Civic Researcher",
+   "english_name": "Engaging the Modern City: The Civic Researcher",
+   "module_code": "FOAH5000M",
+   "description": "Interdisciplinary student groups negotiate project briefs with Leeds-based politics, culture and third-sector organisations and produce external-facing outputs (consultancy reports, data analysis, policy briefs, artistic interventions, exhibitions, online resources), presenting at a showcase.",
+   "academic_reach": "Unclear",
+   "admin_host": "Faculty of Arts, Humanities and Cultures (module FOAH)",
+   "eligible_faculties_programmes": "Taught postgraduate students; programme list not captured (appears in cultural/engagement MAs)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Taught postgraduate; programme eligibility unconfirmed",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits, Semester 2 (2025/26). Reflective log 20% (individual), group portfolio 50%, showcase presentation 30% (75% panel of academic and external leads, 25% peer).",
+   "duration": "One semester (Semester 2)",
+   "delivery_format": "In-person project groups",
+   "project_based": "Yes",
+   "project_evidence": "Negotiated project brief; outputs such as consultancy reports/policy briefs (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'student groups'; group portfolio 50% (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Leeds-based organisations negotiate briefs with groups; showcase marked by a panel of academic and external leads; organisations include Leeds Playhouse and The Works Skatepark (source 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Negotiates/co-articulates project brief; sits on assessment panel; receives output",
+   "named_partners": "Leeds Playhouse, The Works Skatepark (catalogue); East Street Arts (alumni profile, year unclear)",
+   "deliverable": "Group portfolio and external-facing research-led output",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Which programmes the module serves and whether compulsory/optional not retrieved; reach marked Unclear.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.leeds.ac.uk/Module/TP/FOAH/5000M/202526",
+     "title": "FOAH5000M Engaging the Modern City: The Civic Researcher",
+     "section": "Module catalogue 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Leeds-based organisations from politics, culture and the third sector will negotiate and co-articulate project briefs with student groups; group portfolio 50%; showcase marked 75% by a panel of academic and external leads.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://essl.leeds.ac.uk/student-and-alumni-profiles/single/6/school-of-politics-and-international-studies/1031/emma-briones",
+     "title": "Emma Briones",
+     "section": "Alumni profile",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Names partners such as East Street Arts, the Performance Ensemble and Leeds Playhouse (search summary).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Placements in Context (MA Arts Management and Heritage Studies)",
+   "english_name": "Placements in Context / Projects with Cultural Organisations",
+   "module_code": "",
+   "description": "Optional 30-credit module in which students deliver a collaborative group project responding to a brief set by a gallery, museum or heritage partner, presenting at an annual school event.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Fine Art, History of Art and Cultural Studies (Centre for Critical Studies in Museums, Galleries and Heritage)",
+   "eligible_faculties_programmes": "MA Arts Management and Heritage Studies; related MA Art Gallery and Museum Studies",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits, Semester 2",
+   "duration": "Semester 2",
+   "delivery_format": "Group project with partner",
+   "project_based": "Yes",
+   "project_evidence": "Group project responding to a partner brief (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'collaborative group project' (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Brief set by a gallery, museum or heritage partner; past partners include National Science and Media Museum, Leeds Museums and Galleries, Yorkshire Contemporary, Hyde Park Picture House (sources 1, 2).",
+   "partner_type": "Mixed",
+   "partner_role": "Sets the project brief (museums, galleries, heritage organisations)",
+   "named_partners": "National Science and Media Museum, Leeds Museums and Galleries, Yorkshire Contemporary, Hyde Park Picture House (past collaborations, years not stated)",
+   "deliverable": "Group project output for partner (form varies); presentation at annual event",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Module code and 2025/26-2026/27 delivery evidence not retrieved; partner list and call-for-projects news are undated or old.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.leeds.ac.uk/g646/arts-management-and-heritage-studies-ma",
+     "title": "Arts Management and Heritage Studies MA",
+     "section": "Course content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Optional 30-credit module supporting students to deliver a collaborative group project responding to a brief set by one of our many gallery, museum and heritage partners; Semester 2.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://ahc.leeds.ac.uk/fine-art/news/article/2471/call-for-ma-student-projects-with-museum-gallery-and-heritage-sector-opens",
+     "title": "Call for MA student projects with museum, gallery and heritage sector opens",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Call for partner projects; past collaborations with National Science and Media Museum, Leeds Museums and Galleries, Yorkshire Contemporary (search summary).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Leeds MBA Live Challenges (Consulting Challenge in Leading in Practice)",
+   "english_name": "Leeds MBA Consulting Challenge",
+   "module_code": "",
+   "description": "MBA teams act as consultants to an external organisation (typically an SME, social enterprise or voluntary-sector body): meet the client, diagnose a significant problem, intervene or recommend next steps, mentored by Business School staff and practitioners. Two further challenges (New Venture, Innovation capstone) use briefs from larger firms and are not separately assessed here.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Leeds University Business School (Leeds MBA)",
+   "eligible_faculties_programmes": "Leeds MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "MBA students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Within Leading in Practice module; credit weighting not retrieved",
+   "duration": "Within a module; length not stated",
+   "delivery_format": "Team consulting",
+   "project_based": "Yes",
+   "project_evidence": "Diagnose problem and make intervention/recommendations for client (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Teams meet the client' (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External business/social enterprise/voluntary-sector client engaged; mentoring by practitioners (sources 1, 2).",
+   "partner_type": "Mixed",
+   "partner_role": "Acts as client; receives consultancy; practitioners mentor",
+   "named_partners": "Past listed partners incl. NHS Foundation Trust, Leeds City Council, Jet2.com, Deloitte (undated list)",
+   "deliverable": "Consultancy recommendations/intervention for client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Pages undated; no 2025/26 or 2026/27 cohort evidence retrieved; duration and credit weighting unknown.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://business.leeds.ac.uk/leeds-mba/doc/live-challenges-3",
+     "title": "Live challenges",
+     "section": "Leeds MBA",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consulting Challenge during Leading in Practice: students advise a social enterprise or voluntary sector organisation; teams engage with the client, diagnose a significant problem, make a positive intervention; mentored by staff and practitioners.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://courses.leeds.ac.uk/a992/full-time-mba",
+     "title": "Full Time MBA",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Includes a Consulting Challenge providing consultancy support to an external business.",
+     "supports": [
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "LUBS3990 Innovation Thinking and Practice",
+   "english_name": "Innovation Thinking and Practice",
+   "module_code": "LUBS3990",
+   "description": "10-credit Semester 1 module: interdisciplinary student teams (LUBS, Computer Science and Discovery students) tackle a real-world innovation challenge set by a partner organisation using design thinking, developing prototypes and pitching to a panel of industry and academic experts. Postgraduate sibling LUBS5723M (Creative and Innovative Thinking and Practice) follows a similar model but only a 2024/25 catalogue entry was retrieved.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Leeds University Business School",
+   "eligible_faculties_programmes": "LUBS and School of Computer Science students plus Discovery module students from across the University",
+   "faculty_areas": [
+    "business",
+    "engineering_computing",
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Approved as a Discovery module; programme rules apply",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 credits; individual 2,000-word reflective essay 100%; team project and final team presentation not formally marked as a group (catalogue)",
+   "duration": "Semester 1 (about 10 weeks of project work per news report)",
+   "delivery_format": "Eleven facilitated workshops; team project",
+   "project_based": "Yes",
+   "project_evidence": "Prototype and solution to a partner-set challenge pitched to panel (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Team project with interdisciplinary teams; 40 teams reported in news; assessment individual (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner organisations co-develop/write the challenge briefs and sit on pitch panels (first direct, Co-op Food, OVO Energy, UNEP, Leeds City Council, KPMG, IBM) (source 2).",
+   "partner_type": "Mixed",
+   "partner_role": "Sets challenge brief; panel judges final pitch",
+   "named_partners": "first direct, Co-Op Food, OVO Energy, United Nations Environment Programme, Leeds City Council, KPMG, IBM (various cohorts; years not reliably dated)",
+   "deliverable": "Prototype/solution pitched to industry panel",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "Class size 280-320 listed in 2025/26 catalogue versions; news reports 320 students in 40 teams (year not reliably dated)",
+   "unresolved": "One 2025/26 catalogue version carries a 'discontinued in the selected year' note and class sizes conflict (280 vs 320); the 2026/27 catalogue URL exists but no content retrieved. News item dating is inconsistent. Treat current delivery as unconfirmed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.leeds.ac.uk/Module/UG/LUBS/3990/202526",
+     "title": "LUBS3990 Innovation Thinking and Practice",
+     "section": "Module catalogue 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "10 credits, Semester 1; approved as a discovery module; team projects assessed individually (single 2,000-word essay); final team presentation to panel of industry and academic experts.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "reach",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://business.leeds.ac.uk/faculty/news/article/727/students-wow-leading-industry-experts-from-kpmg-ibm-co-op-food-and-more",
+     "title": "Students wow leading industry experts from KPMG, IBM, Co-Op Food and more",
+     "section": "News",
+     "pub_year": "undated/inconsistent",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Final-year students work in interdisciplinary teams on real-world problems; industry partners set the challenges (first direct, Co-Op Food, OVO Energy, UNEP); panel included KPMG and IBM.",
+     "supports": [
+      "employer",
+      "project",
+      "group"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://catalogue.leeds.ac.uk/Module/UG/LUBS/3990/202425",
+     "title": "LUBS3990 Innovation Thinking and Practice",
+     "section": "Module catalogue 2024/25",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Teams should include representatives from different faculties and schools; eleven workshops; final team presentation to panel.",
+     "supports": [
+      "group",
+      "reach"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://catalogue.leeds.ac.uk/Module/TP/LUBS/5723M/202425",
+     "title": "LUBS5723M Creative and Innovative Thinking and Practice",
+     "section": "Module catalogue 2024/25 (postgraduate sibling)",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Real-world challenge presented to a panel of industry experts; mixed-discipline teams; group presentation 40%.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "DESN3585 Collaborative Marketing and Promotion",
+   "english_name": "Collaborative Marketing and Promotion",
+   "module_code": "DESN3585",
+   "description": "Student teams design a marketing campaign for one of an international client's brands in response to a consultancy brief, with seminars involving tutors and the client and two interim presentations to the client; group project 40% plus individual reflective report 60%.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Design",
+   "eligible_faculties_programmes": "Design/fashion marketing programmes (e.g. Fashion Marketing BA)",
+   "faculty_areas": [
+    "other",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; group project 40% (marketing materials and presentation), reflective report 60%",
+   "duration": "Semesters 1 and 2",
+   "delivery_format": "Team project with client interaction",
+   "project_based": "Yes",
+   "project_evidence": "Campaign materials and presentation (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in teams'; team-produced group project (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Client gives feedback in seminars and two interim presentations, and an earlier (2021/22) catalogue describes an international fashion business; but no named external client or evidence the client is real rather than a teaching case.",
+   "partner_type": "Unclear",
+   "partner_role": "Client; formative feedback on interim presentations",
+   "named_partners": "",
+   "deliverable": "Marketing campaign materials and presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "Class size 48 (catalogue)",
+   "unresolved": "Client identity and whether it is a live external organisation not established; catalogue entries 2025/26 and 2026/27 exist but retrieved text appears to be 2024/25-labelled.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.leeds.ac.uk/Module/UG/DESN/3585/202627",
+     "title": "DESN3585 Collaborative Marketing and Promotion",
+     "section": "Module catalogue",
+     "pub_year": "2026/27 URL (text labelled 2024/25)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students work in teams to design a marketing campaign for one of the client's brands; two interim presentations to the client provide formative feedback; group project 40%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "COMP5530M Group Project (MEng Computer Science)",
+   "english_name": "Group Project (Computer Science MEng)",
+   "module_code": "COMP5530M",
+   "description": "Year 4 MEng teams define a problem and plan, code and manage a collective software project; course page labels it industry-based but module description pairs the team with an academic on research-led problems.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer Science",
+   "eligible_faculties_programmes": "Computer Science MEng variants",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4",
+   "eligibility_restrictions": "MEng students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits (45 on some variants), Semesters 1-2",
+   "duration": "Two semesters",
+   "delivery_format": "Team software project",
+   "project_based": "Yes",
+   "project_evidence": "Collective software project negotiated with supervisor (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Working as part of a group on a major computing project (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "MEng page says 'industry-based group project' but module text says students are paired with an academic on problems tied to School research expertise; no named external client (sources 1, 2).",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced",
+   "named_partners": "",
+   "deliverable": "Software system",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "Class size 70 (catalogue)",
+   "unresolved": "Whether external organisations supply briefs is unresolved; may be academic research clients (internal, would fail C).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalogue.leeds.ac.uk/Module/UG/COMP/5530M/202526",
+     "title": "COMP5530M Group Project",
+     "section": "Module catalogue 2025/26",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "30 credits; work as part of a group on a major computing project; deliver a solution negotiated with the supervisor; class size 70.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://courses.leeds.ac.uk/f919/computer-science-meng-bsc",
+     "title": "Computer Science MEng, BSc",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Fourth year advances skills through an industry-based group project; students paired with an academic to tackle a problem related to the School's research expertise.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S12",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Chemical Engineering Process Plant Design Project (Year 3)",
+   "english_name": "Chemical Engineering capstone design project",
+   "module_code": "",
+   "description": "Third-year teams design a full chemical plant for an industrially relevant process, mentored by design consultants with weekly progress meetings; lectures by practising chemical engineers run alongside.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Chemical and Process Engineering",
+   "eligible_faculties_programmes": "Chemical Engineering BEng/MEng variants",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20-40 credits depending on programme/year",
+   "duration": "Year-long/semesters (not confirmed)",
+   "delivery_format": "Team design project",
+   "project_based": "Yes",
+   "project_evidence": "Full plant design (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "'work in a team' (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Design consultants mentor teams weekly but whether they are external practitioners, and whether a client sets the brief, is not stated.",
+   "partner_type": "Unclear",
+   "partner_role": "Mentors (affiliation unclear)",
+   "named_partners": "",
+   "deliverable": "Plant design report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "No external client/brief setter evidenced; no dated delivery evidence.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://eps.leeds.ac.uk/chemical-engineering-undergraduate/doc/year-one-two-1",
+     "title": "Chemical Engineering Project work",
+     "section": "Year 3 design project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in a team on a full chemical plant design; design team mentored by design consultants meeting weekly (search summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S13",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Marketing Consultancy Project (Marketing BSc, Year 3 optional)",
+   "english_name": "Marketing Consultancy Project",
+   "module_code": "",
+   "description": "Optional 10-credit Year 3 module in which students work with a live client to investigate a real-life marketing issue; client receives a strategic and operational marketing plan.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Leeds University Business School",
+   "eligible_faculties_programmes": "Marketing BSc",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 credits",
+   "duration": "Not stated",
+   "delivery_format": "Live client project",
+   "project_based": "Yes",
+   "project_evidence": "Marketing plan for client (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Individual vs team format not stated in extract.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Live client; receives marketing plan (source 1).",
+   "partner_type": "Unclear",
+   "partner_role": "Live client; receives plan",
+   "named_partners": "",
+   "deliverable": "Strategic and operational marketing plan",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Module code, group format, client type and delivery year not retrieved (LUBS2931 is Evidence-based Consultancy, a different module).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.leeds.ac.uk/k047/marketing-bsc",
+     "title": "Marketing BSc",
+     "section": "Course content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Year 3 optional Marketing Consultancy Project (10 credits): work with a live client to research a real-life marketing issue; client receives a strategic and operational marketing plan (search summary).",
+     "supports": [
+      "project",
+      "employer",
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Discovery Modules",
+   "legacy": true,
+   "category": "Breadth/interdisciplinary curriculum",
+   "reason": "Breadth framework; experiential content depends on module. Underlying qualifying activity tested separately: LUBS3013 Enterprise Consultancy (S1) and LUBS3990 Innovation Thinking and Practice (S9) are Discovery-approved.",
+   "source_url": "https://students.leeds.ac.uk/modules/doc/explore-discovery-modules",
+   "status_note": "Framework page undated"
+  },
+  {
+   "name": "MSc Management Consulting - Management Consulting Project (LUBS5594M)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "45-credit real consultancy project with client organisation, but described as individual (supervisor and organisational contact; 9,500-word report and video); group working not evidenced.",
+   "source_url": "https://catalogue.leeds.ac.uk/Module/TP/LUBS/5594M/202526",
+   "status_note": "2025/26"
+  },
+  {
+   "name": "MSc Sustainability and Consultancy - Sustainability Consultancy Project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "12-week consultancy project with industry partner (AECOM, Arup, Environment Agency etc.) but explicitly individual work.",
+   "source_url": "https://courses.leeds.ac.uk/g723/sustainability-and-consultancy-msc",
+   "status_note": ""
+  },
+  {
+   "name": "Business and Intelligent Technologies BSc Capstone",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "40-credit independent supervised capstone with organisations; group working not stated.",
+   "source_url": "https://courses.leeds.ac.uk/k239/business-and-intelligent-technologies-bsc",
+   "status_note": ""
+  },
+  {
+   "name": "Universities Business Challenge / Global Masters Business Challenge",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Team business simulation run with Learning Dynamics Ltd; no live client brief.",
+   "source_url": "https://students.business.leeds.ac.uk/the-lubs-employability-and-opportunity-team/university-business-challenge/",
+   "status_note": ""
+  },
+  {
+   "name": "Law clinics (Welfare Rights Clinic, Tribunal Clinic, pop-up clinics, StreetLaw)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Pro bono advice to individual clients; extracurricular volunteering rather than a bounded group project for an organisation; no 2025/26 evidence retrieved. Cerebra Pro Bono Research Programme not assessed (further instance possible).",
+   "source_url": "https://essl.leeds.ac.uk/law-undergrad-enrichment-opportunities/doc/community-engagement-3",
+   "status_note": ""
+  },
+  {
+   "name": "CSER2201 Career Development 2 (skills challenge)",
+   "legacy": false,
+   "category": "Employability award",
+   "reason": "Group skills challenge worth 20% but employer involvement is networking/mock interview; 2019/20 catalogue only; no external client brief.",
+   "source_url": "https://catalogue.leeds.ac.uk/Module/UG/CSER/2201/201920",
+   "status_note": ""
+  },
+  {
+   "name": "SLSP2976 Social and Public Policy beyond the University",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Research project placed at external organisation (50+ hours, organisation supervisor) but individual placement; group working not evidenced; 2024/25 catalogue.",
+   "source_url": "https://catalogue.leeds.ac.uk/Module/UG/SLSP/2976/202425",
+   "status_note": ""
+  },
+  {
+   "name": "MEDI4226 Extended Student Research and Evaluation Project (MBChB)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Student-led research/service evaluation embedded in NHS clinical teams; team size and external-client role not evidenced.",
+   "source_url": "https://catalogue.leeds.ac.uk/Module/UG/MEDI/4226/202526",
+   "status_note": ""
+  },
+  {
+   "name": "Product Design Years 1-2 'Live' projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Industrial partners support some projects; no module-level evidence of group working, partner role or dates.",
+   "source_url": "https://courses.leeds.ac.uk/g893/product-design-industrial-bsc",
+   "status_note": ""
+  },
+  {
+   "name": "Liberal Arts BA Year 2 guided group research project; Digital Humanities and Culture MA; Culture, Creativity and Entrepreneurship MA",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "External organisation involvement is optional ('option of working with'/'may') or unspecified; not tested further.",
+   "source_url": "https://courses.leeds.ac.uk/g809/liberal-arts-ba",
+   "status_note": ""
+  },
+  {
+   "name": "Evidence Based Consultancy (LUBS2931 / LUBS5318M); Contemporary Management Consulting (LUBS3850)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Taught consultancy-skills modules (CMI qualification route); no live client evidenced.",
+   "source_url": "https://catalogue.leeds.ac.uk/Module/UG/LUBS/2931/202425",
+   "status_note": ""
+  },
+  {
+   "name": "Student-led engineering societies (Leeds Gryphon Racing, Rocketry, Sustainable Marine Team); EPS Year 1-2 sponsored competitions (Daring Dash, Martian Mile)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Industry-sponsored competitions/societies; no evidence that sponsors set briefs as clients.",
+   "source_url": "https://eps.leeds.ac.uk/homepage/271/student-led-groups",
+   "status_note": ""
+  },
+  {
+   "name": "Global Futures programme; Global Industry Project (undergraduate two-week virtual)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Global Futures is an overseas individual placement; undergraduate Global Industry Project only seen in passing (undergraduate business page); details not retrieved.",
+   "source_url": "https://students.leeds.ac.uk/leadership-programmes/doc/global-futures-programme",
+   "status_note": "Further instance likely"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Leeds has several verified employer-linked group project routes, distributed across schools rather than run through one university-wide scheme. The widest are two Discovery-eligible or central routes: LUBS3013 Enterprise Consultancy (final-year undergraduates from across the University work in teams on consultancy briefs from small businesses and social enterprises, graded partly by a group client report) and the Leeds Global Industry Programme (multidisciplinary teams of 5-8 taught postgraduates produce a consultancy report for a live company brief; EPS students take an eight-week embedded equivalent in teams of five). Within degrees, the MEng Team Project (MECH5080M, 45 credits, groups of 3-6 mentored by industry collaborators acting as customers) is compulsory in mechanical-engineering MEng programmes, and the civil engineering Year 4 design project has industrial partners acting as client (undated evidence). In arts and humanities, FOAH5000M Civic Researcher has interdisciplinary groups negotiating briefs with Leeds cultural and third-sector bodies, with external leads on the assessment panel; the Arts Management MA has a partner-brief group module. Business school routes include the MBA Consulting Challenge and LUBS3990 Innovation Thinking and Practice (partner-set challenges pitched to industry panels), but current delivery is not confirmed for either. Several individual live-client routes (MSc Management Consulting, MSc Sustainability and Consultancy) fail the group criterion. Uncertain: client identity for the design marketing module, external role in Computer Science and Chemical Engineering group projects, and participation volumes, which are mostly unpublished.",
+ "gaps": "Further departmental instances likely (Electronic Engineering, Aerospace/Mechatronics variants, Geography/Environment, Education, Cerebra pro bono programme, School of Media and Communication, Computer Science industrial MSc projects). Not searched in detail: Physics/Chemistry/Biology group projects other than via Enterprise Consultancy; Maths/Statistics MSc projects (co-supervised individual projects found, group unclear). Participation numbers mostly unpublished; several pages undated so current delivery uncertain for S5, S7, S8, S9. Search budget exceeded the ~40 target (about 50 searches) to cover six areas."
+}
