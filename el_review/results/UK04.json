@@ -1,0 +1,1095 @@
+{
+ "inst_id": "UK04",
+ "institution": "Loughborough",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Loughborough University student consultancy live client project team employer",
+    "Loughborough Personal Best award employer project challenge",
+    "Talent Match Consultancy Programme Loughborough",
+    "Loughborough Enterprise Network Challenge X OR Grand Challenge",
+    "Loughborough Careers Network employer challenge teams",
+    "Collaborate Sprint Loughborough University London",
+    "Loughborough Students' Union society consultancy OR Enactus"
+   ],
+   "key_sources": [
+    "https://www.lboro.ac.uk/internal/news/2026/august/talent-match-consultancy-applications/",
+    "https://www.lboro.ac.uk/news-events/news/2026/july/collaborative-project-show-london/",
+    "https://www.lboro.ac.uk/students/personal-best/award/"
+   ],
+   "finding": "Talent Match Consultancy Programme (2026) is the main central team-based live-client route; Personal Best is an award (excluded). London campus Collaborative Project is the main curricular route outside home departments."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Loughborough Business School work with our students master's consultancy project MBA live project",
+    "MSc Management Industry Experience Project",
+    "Loughborough full-time MBA Consultancy Project",
+    "Industry Experience Project 2025/26 module specification",
+    "Industry Experience Project 2026 MSc Marketing",
+    "Loughborough undergraduate group project real client business school"
+   ],
+   "key_sources": [
+    "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/management/",
+    "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/full-time-mba/",
+    "https://www.lboro.ac.uk/schools/business-school/collaborate/work-with-our-students/"
+   ],
+   "finding": "PG taught Industry Experience Project (group, client company) across several MSc programmes and the MBA Consultancy Project; no undergraduate live-client group module verified (NatWest case was fictional). Current delivery undated."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Loughborough engineering group project industry partner Wolfson School",
+    "Wolfson School Industry Collaboration Programme",
+    "Wolfson School Teaching Contract Scheme",
+    "Computer Science Loughborough group project external client",
+    "Architecture Building Civil Engineering group project industry client",
+    "Cross School Design Week"
+   ],
+   "key_sources": [
+    "https://www.lboro.ac.uk/schools/meme/undergraduate/employability/recruiting-placement-students-benefit-business/wolfson-school-engagement-opportunities/",
+    "https://www.lboro.ac.uk/departments/abce/undergraduate/employability/design-weeks/"
+   ],
+   "finding": "Wolfson School Industry Collaboration Programme (company-set group projects) and ABCE Cross-School Design Weeks found; Computer Science group projects lack client evidence; EnerHy CDT team project with Cadent."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Physics industry projects final year group project",
+    "Loughborough Physics Group Project NLA Blue IBM BEIS",
+    "arXiv Loughborough physics group project external partner",
+    "Loughborough Mathematical Sciences OR Chemistry OR Materials group project industry",
+    "Loughborough AI Challenge Camp 2026"
+   ],
+   "key_sources": [
+    "https://arxiv.org/html/2601.10219",
+    "https://www.lboro.ac.uk/departments/physics/undergraduate/careers-employability/industry-projects/"
+   ],
+   "finding": "Physics has year-3 and final-year group projects with external partners/stakeholders (strongest science route); no equivalent verified in Chemistry, Materials or Mathematics (individual projects). AI Challenge Camp 2026 is a short team event with mixed industry/academic partners."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Loughborough School of Social Sciences and Humanities live client project",
+    "Loughborough Communication and Media OR Geography OR Politics client organisation group project"
+   ],
+   "key_sources": [
+    "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/digital-media-communication/"
+   ],
+   "finding": "No team-based live-client module verified; Digital Media and Communication Workplace Focused Dissertation is individual (excluded). London Collaborative Project (S1) includes Media and Communication (London) MSc."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Loughborough Design School final year industry sponsored project team",
+    "School of Design and Creative Arts engage with industry live projects",
+    "Design Week 2025 live briefs",
+    "User Experience Industry Project MSc",
+    "Industrial Design BA design sprint module",
+    "Loughborough Sport Exercise Health Sciences student consultancy"
+   ],
+   "key_sources": [
+    "https://sdcapgshow2023.lboro.ac.uk/industry-collaborations/user-experience-industry-project/",
+    "https://www.lboro.ac.uk/schools/design-creative-arts/whats-happening/news/2025/designweek2025bringingindustrytoourstudents/"
+   ],
+   "finding": "Design school has company-set live briefs (group status unclear for UG) and a compulsory team Industry Project on UX PG programmes; Sport/Health sciences: no team-based client module found (individual placements). Law not applicable (no law school)."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "2026: Sports Interactive, Workplace Futures Group, West Ham United Foundation, Sysdoc, The Commonwealth Secretariat, Plexal; UNICEF and Sainsbury's named in VC blog (June 2026)",
+   "participation_data": "2018: 660+ postgraduate students in 122 teams for 19 organisations (cumulative first-year figure); 2026: 9 organisations, 100+ students in Show per VC blog",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S1",
+   "official_name": "Collaborative Project (Loughborough University London)",
+   "english_name": "Collaborative Project",
+   "description": "Team-based action-learning module at Loughborough University London in which students from different disciplines form multidisciplinary teams to solve a real business/organisational challenge set by a partner organisation, culminating in the annual Collaborative Project Show. 2026 partners included Sports Interactive, Workplace Futures Group, West Ham United Foundation, Sysdoc, The Commonwealth Secretariat and Plexal.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Loughborough University London (Institute-level; London campus programmes)",
+   "eligible_faculties_programmes": "Listed as a 15-credit module in London-campus MSc programmes (e.g. Computer Science (London), Media and Communication (London); 2020/21 spec lists it as compulsory in MSc Digital Marketing). A 2019 article says it is open to all full-time and part-time students at Loughborough University London.",
+   "faculty_areas": [
+    "central",
+    "business",
+    "engineering_computing",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Master's programmes (London campus)",
+   "eligibility_restrictions": "London campus students only; 2019 statement 'open to all full-time and part-time students at Loughborough University London' (undergraduate Collaborate Sprint is a separate short format).",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits (programme pages; LLP008 in 2020/21 spec); assessment detail not found",
+   "duration": "One module (term-length; exact timetable not found)",
+   "delivery_format": "In-person at London campus; teams of multidisciplinary students; partner briefs; final Project Show presentation",
+   "project_based": "Yes",
+   "project_evidence": "Students 'create solutions to real business challenges provided by organisations' and showcase them at the Collaborative Project Show [1]; Computer Science (London) page: multidisciplinary team tackling a real-world challenge set by an industry partner [3].",
+   "group_working": "Yes",
+   "group_evidence": "'They work in teams'; interdisciplinary teams formed from different disciplines [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisations set the challenge and take part in the Show; 2026 cohort worked with nine organisations; partner Workplace Futures Group set a project [1]. Over 200 organisations collaborated with the London campus since 2015 (all collaboration types, not only this module) [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets live challenge/brief; engages with team; receives presentation at the Show",
+   "deliverable": "Solution/recommendations presented at Collaborative Project Show",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Collaborative Project Show, June 2026)",
+   "unresolved": "Exact credit/compulsory status per current London programme; whether all London programmes include it; assessment weighting; term of delivery.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/news-events/news/2026/july/collaborative-project-show-london/",
+     "title": "10th Anniversary Collaborative Project Show celebrates 10 years and over 200 collaborations",
+     "section": "News article",
+     "pub_year": "2026 (July)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "'The Collaborative Project Show completes Loughborough University London's Collaborative Project module, in which students create solutions to real business challenges provided by organisations'; 'They work in teams'; nine organisations took part including Sports Interactive, Workplace Futures Group, West Ham United Foundation, Sysdoc, The Commonwealth Secretariat and Plexal; guaranteed in programme of studies.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lboro.ac.uk/news-events/news/2019/april/london-collaborative-project-success/",
+     "title": "Students celebrated by renowned national and international organisations for their solutions to real business challenges",
+     "section": "News article",
+     "pub_year": "2019",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'The Collaborative Project is open to all full-time and part-time students at Loughborough University London'; students from across the University form interdisciplinary teams to solve a real business problem provided by a corporate partner.",
+     "supports": [
+      "group",
+      "employer",
+      "eligibility",
+      "reach"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/computer-science-london/",
+     "title": "Computer Science (London) Degree",
+     "section": "What you'll study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Collaborative Project (15 credits): students work in a multidisciplinary team to tackle a real-world challenge set by an industry partner.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.lboro.ac.uk/media-centre/press-releases/2018/march/collaborative-project-show-2018/",
+     "title": "London project that saw over 660 students tackle real business challenges is celebrated at event",
+     "section": "Press release",
+     "pub_year": "2018",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Over 660 postgraduate students worked in 122 multi-disciplinary teams on tasks set by 19 organisations.",
+     "supports": [
+      "participation",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "GB Snowsport, Cross Country Trains (undated page); Vector Consumer, The Investing and Saving Alliance (TISA) (undated page)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S2",
+   "official_name": "Industry Experience Project (Loughborough Business School MSc programmes)",
+   "english_name": "Industry Experience Project",
+   "description": "45-credit summer-semester group project on MSc programmes (e.g. Management, International Business, Finance, Finance and Management, Marketing). Students work in a group on a real organisational problem prescribed by a 'client' company, running consultancy across the project lifecycle and delivering agreed outputs. Past clients include GB Snowsport, Cross Country Trains (Management page) and Vector Consumer, TISA (Finance page). Related offering: Business School 'Work with our students' invites employers to commission master's consultancy projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Loughborough Business School",
+   "eligible_faculties_programmes": "MSc Management; International Business; Finance; Finance and Management; Marketing and related MSc pages list an Industry Experience Project (45 credits); full-time MBA has a 30-credit Business Administration Industry Experience Project option.",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Summer semester of MSc",
+   "eligibility_restrictions": "Students on named MSc programmes.",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "45 credits (MBA version 30 credits)",
+   "duration": "Summer semester",
+   "delivery_format": "Group consultancy project for a client company",
+   "project_based": "Yes",
+   "project_evidence": "Real organisational problem; 'range of agreed outputs to a deadline' [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'working in a group'; aim to 'work effectively in a group' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Problem 'prescribed by a client company'; named past clients GB Snowsport, Cross Country Trains, Vector Consumer, TISA [1][2]. Interaction detail (supervision/feedback/assessment) not evidenced.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Prescribes the organisational problem as client; receives outputs (assumed from 'client'; not explicitly evidenced)",
+   "deliverable": "Consultancy outputs agreed with the client company",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated course pages (2026 entry pages exist but module year not shown)",
+   "unresolved": "No dated 2025/26 or 2026/27 module spec or cohort found; compulsory vs optional status per programme not verified; exact team size and whether every programme uses external clients; MBA version is individual/optional (see S3).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/management/",
+     "title": "Management Degree",
+     "section": "What you'll study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Industry Experience Project (45 credits): tackle a real organisational problem in a specific discipline, as prescribed by a 'client' company, working in a group; aims include business consultancy across the project lifecycle, working effectively in a group, delivering agreed outputs to a deadline; past work with GB Snowsport and Cross Country Trains.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/finance/",
+     "title": "Finance Degree",
+     "section": "What you'll study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Summer-semester practical Industry Experience Project (45 credits), group project; students have worked with organisations such as Vector Consumer and TISA.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lboro.ac.uk/schools/business-school/collaborate/work-with-our-students/",
+     "title": "Work with our students",
+     "section": "Collaborate",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Organisations can work with a master's student on a consultancy project to address a particular issue; MBA live projects with groups of students.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S3",
+   "official_name": "MBA Consultancy Project / Managing Innovation live projects (Loughborough full-time MBA)",
+   "english_name": "MBA Consultancy Project",
+   "description": "Full-time MBA students choose between a Business Administration Project, a Consultancy Project (team-based, addressing a client organisation's real-world challenges, within the Capstone Challenge) or a Work Based Learning Project on the internship pathway. The Managing Innovation module is also reported to involve live projects with innovation partners and presentation to company directors.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Loughborough Business School",
+   "eligible_faculties_programmes": "Full-time MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA",
+   "eligibility_restrictions": "MBA students; professionals with 3+ years experience",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Consultancy project credit not found",
+   "duration": "Not found",
+   "delivery_format": "Team consultancy for client organisation",
+   "project_based": "Yes",
+   "project_evidence": "Applies theory/research to a client organisation's real-world challenges [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work as part of a team' on the Consultancy Project [1]; Managing Innovation team composition not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation's real-world challenges [1]; Managing Innovation: present strategies to company directors [2]. Specific partner roles not detailed.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client whose challenge is addressed; directors receive presentations (Managing Innovation)",
+   "deliverable": "Consultancy report/recommendations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Current-year delivery; credit value; whether Consultancy Project is chosen by many students; Managing Innovation live-project route not separately verified as group.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/full-time-mba/",
+     "title": "The Loughborough Full-Time MBA Degree",
+     "section": "What you'll study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Choose between Business Administration Project, Consultancy Project or Work Based Learning Project; Consultancy Project: work as part of a team to apply theory and research-led knowledge and address a client organisation's real-world challenges.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lboro.ac.uk/study/pg-offer/business-school/advance-your-career-mba/",
+     "title": "Advance your career",
+     "section": "MBA offer page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Managing Innovation: work on live projects alongside innovation partners and present strategies to the company directors.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S4",
+   "official_name": "Talent Match Consultancy Programme",
+   "english_name": "Talent Match Consultancy Programme",
+   "description": "Paid, three-week virtual consultancy (starting late August 2026) in which current Loughborough students and 2025-26 graduates form consulting teams to carry out a project for a real UK start-up, SME or non-profit, receiving a project brief and delivering findings and recommendations in a professional report. Themes: growth strategy, sustainable impact, investment strategy, user experience.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers Network (Target Connect applications)",
+   "eligible_faculties_programmes": "Current students and 2025-26 graduates; no faculty restriction stated",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any (not stated)",
+   "eligibility_restrictions": "Current students and 2025-26 graduates; application via Target Connect (closed 9 August 2026).",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Paid; no credit evidenced",
+   "duration": "3 weeks",
+   "delivery_format": "Virtual consultancy teams",
+   "project_based": "Yes",
+   "project_evidence": "Project brief; findings and recommendations in a professional report [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work as part of a consulting team'; 'collaborate' as team [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project is for 'a real business based in the UK' (start-up, SME or non-profit); client context presented to [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client providing the project brief",
+   "deliverable": "Professional report with findings and recommendations",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Aug 2026 call; programme began late Aug 2026)",
+   "unresolved": "Team sizes, number of participants and named clients not found; whether earlier years ran; the 2026 edition is described as new.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/internal/news/2026/august/talent-match-consultancy-applications/",
+     "title": "Apply now: deadline approaches for Talent Match Consultancy Programme",
+     "section": "News",
+     "pub_year": "2026 (August)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "'paid three-week, virtual consultancy opportunity starting late August 2026'; 'work as part of a consulting team to undertake a project for a real business based in the UK, whether that be a start-up, SME or non-profit'; team receives a project brief and presents findings in a professional report; applications via Target Connect close 9 August.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "eligibility",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "NLA Blue, IBM, UK government BEIS Technical Energy Specialist team (department page, undated)",
+   "participation_data": "2024/25: 'met professional expectations' in 89% of cases (not a participation count)",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S5",
+   "official_name": "Physics industry group projects (Year 3 group project and final-year year-long group project)",
+   "english_name": "Physics industry group projects",
+   "description": "In Physics degrees, third-year students collaborate with an industrial partner to agree a user requirement specification and derive a system requirement specification; final-year students manage a year-long group project with an external stakeholder (staff mentors <10 hours per group). Example final-year projects: seabed object detection (NLA Blue), AR/AI physics showcase (IBM), high-frequency power transmission (UK government BEIS team).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Physics",
+   "eligible_faculties_programmes": "Physics, Engineering Physics, Physics with Computing, Mathematics and Physics BSc/MPhys (Group Project modules)",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 3 and final year",
+   "eligibility_restrictions": "Physics-related degree students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Physics BSc Group Project: ~1500 hours effort per project (search paraphrase); credits not found",
+   "duration": "Year-long (final year)",
+   "delivery_format": "Group projects with external partner/stakeholder; light staff mentoring",
+   "project_based": "Yes",
+   "project_evidence": "Requirement specification and project deliverables with industrial partner; named example projects [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'group projects are central'; staff mentors meet each group [1]; department page: industry-based group project [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students collaborate with an industrial partner/external stakeholder; partners reprise roles across years [1]; named partners NLA Blue, IBM, BEIS [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Partner agrees requirement specification / acts as external stakeholder for the project",
+   "deliverable": "Project outputs against partner requirements (e.g. detection system, demonstrator)",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 cohort (arXiv Jan 2026)",
+   "unresolved": "Compulsory vs optional (department page says 'opportunity'); team size; module codes; confirmation of 2025/26 delivery; independent verification of partner involvement beyond authors' own paper.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://arxiv.org/html/2601.10219",
+     "title": "Systemically Designed Degrees for Real-World Challenges: A case study on Physics curriculum design at Loughborough University",
+     "section": "Curriculum design / group projects",
+     "pub_year": "2026 (arXiv Jan 2026)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In year three students collaborate with an industrial partner to agree a user requirement specification; in the final year they manage a year-long project with an external stakeholder; staff mentors meet each group <10 hours over the year; 2024/25 cohort; many external partners reprise their role across years.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lboro.ac.uk/departments/physics/undergraduate/careers-employability/industry-projects/",
+     "title": "Industry projects",
+     "section": "Department of Physics",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'all students have the opportunity of conducting an industry-based group project'; examples: seabed man-made object detection (NLA Blue), AR/AI showcase (IBM), BEIS Technical Energy Specialist team.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "2015-16 list: GE Sensing, Renishaw, Bosch, JCB, Jaguar Land Rover, Kohler Mira, Bentley, Rolls-Royce, Perkins, Ford (outdated)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S6",
+   "official_name": "Wolfson School Industry Collaboration Programme (Teaching Contract Scheme)",
+   "english_name": "Industry Collaboration Programme",
+   "description": "Companies set real-life group projects for Wolfson School students in the 2nd or 4th year; an industry tutor makes three focused visits including the final presentations and an academic supervises. Earlier (2015-16) version: consortium of companies (e.g. Rolls-Royce, JCB, Renishaw, Jaguar Land Rover) provides projects for small student teams, with a written report and oral presentation to the company.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Wolfson School of Mechanical, Electrical and Manufacturing Engineering",
+   "eligible_faculties_programmes": "Wolfson School undergraduate (incl. MEng) students in 2nd or 4th year",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2 or Year 4 (final year)",
+   "eligibility_restrictions": "Wolfson School students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Within the academic curriculum; academic supervisor assesses, normally seeking industrialist advice (2015-16 page); module list includes 'Integrated Industrial Group Projects' (25WS007META)",
+   "duration": "Not stated (academic year/semester)",
+   "delivery_format": "Company-set projects; 3 industry tutor visits; final presentation",
+   "project_based": "Yes",
+   "project_evidence": "Real-life projects; formal report and oral presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'real-life group projects'; 'small student teams' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Company sets the project, provides industry tutor for three visits including final presentations; presentation to the company [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets project; industry tutor visits; attends/gives feedback at final presentation",
+   "deliverable": "Formal written report and oral presentation to company",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (company list 2015-16)",
+   "unresolved": "No dated 2025/26 evidence; link between this programme and the 'Integrated Industrial Group Projects' module not confirmed; share of students on externally-sponsored projects; compulsory status.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/schools/meme/undergraduate/employability/recruiting-placement-students-benefit-business/wolfson-school-engagement-opportunities/",
+     "title": "Other Wolfson School engagement opportunities",
+     "section": "Industry Collaboration Programme",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Opportunities to offer real-life group projects to students in 2nd or 4th year; support from an industry tutor through 3 focussed visits including the final project presentations, whilst supervised by an academic.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lboro.ac.uk/departments/meme/business/what-we-offer/teaching-contract-scheme/",
+     "title": "Teaching Contract Scheme",
+     "section": "Scheme page",
+     "pub_year": "2015-16 (company list)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consortium of companies provides projects within the curriculum; small student teams work on real problems; written report and oral presentation to the company; second- or final-year students.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Sainsbury's, SCS (2023 showcase); Capco (student account)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S7",
+   "official_name": "Industry Project (MSc User Experience Design / MA User Experience and Service Design)",
+   "english_name": "User Experience Industry Project",
+   "description": "15-credit Industry Project in which small teams of students work on a creative, problem-oriented brief created by a partnering organisation (with School support) and present their responses to the briefing company. 2023 showcase partners: Sainsbury's Customer Experience team and SCS; Capco mentioned by a student.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Design and Creative Arts",
+   "eligible_faculties_programmes": "MSc User Experience Design; MA/MSc User Experience and Service Design (incl. London variant lists a related 15-credit Collaborative Project)",
+   "faculty_areas": [
+    "other",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Master's",
+   "eligibility_restrictions": "Students on named programmes",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits",
+   "duration": "Module (term not stated)",
+   "delivery_format": "Small teams; partner brief; presentation to company",
+   "project_based": "Yes",
+   "project_evidence": "Creative problem-oriented brief with evidence-based design outcome for sponsoring organisation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'small teams of students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners create briefs; teams 'ultimately present their responses directly to their briefing company' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Creates brief; receives presentation",
+   "deliverable": "Design response presented to the briefing company",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023 (showcase); programme page undated",
+   "unresolved": "No 2025/26 partner list found; the 2025 showcase page contains no industry-project partner detail.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sdcapgshow2023.lboro.ac.uk/industry-collaborations/user-experience-industry-project/",
+     "title": "User Experience Industry Project",
+     "section": "PG Degree Showcase 2023",
+     "pub_year": "2023",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Small teams of students work on a creative problem-oriented brief with a partnering organisation; partners create briefs with support from the school; students present responses directly to their briefing company; Sainsbury's and SCS partners.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/user-experience-design/",
+     "title": "User Experience Design Degree",
+     "section": "What you'll study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry Project (15 credits, compulsory): industry-set brief with evidence-based design outcome for a sponsoring organisation.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S8",
+   "official_name": "Cross-School Design Weeks (School of Architecture, Building and Civil Engineering)",
+   "english_name": "Cross-School Design Week",
+   "description": "Annual cross-disciplinary week in which Architecture, Building and Civil Engineering students work in mixed teams on real-world design challenges and present to a panel of industry partners. Past briefs: sustainability, a community hub, redesigning an area on campus.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Architecture, Building and Civil Engineering",
+   "eligible_faculties_programmes": "ABCE undergraduates (cross-course)",
+   "faculty_areas": [
+    "engineering_computing",
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "ABCE students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Within curriculum; credit not found",
+   "duration": "1 week",
+   "delivery_format": "Cross-discipline teams; showcase to industry panel",
+   "project_based": "Yes",
+   "project_evidence": "Team design proposals showcased [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of students from different disciplines [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Ideas 'showcased to a panel of our well-established industry partners' [1], but who sets briefs is unclear (some are campus redesigns, i.e. internal).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Panel receives/feeds back on presentations",
+   "deliverable": "Design proposal presented to industry panel",
+   "duration_band": "1 week",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Who sets briefs; years; panel involvement beyond viewing; dates of recent weeks.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/departments/abce/undergraduate/employability/design-weeks/",
+     "title": "Cross-School design weeks",
+     "section": "School page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Annual Cross School Design Week: work with students from different disciplines on real-world challenges; teams' ideas showcased to a panel of industry partners; past briefs include sustainability, a community hub, redesign of campus area.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "These Hands Academy Ltd (2026)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S9",
+   "official_name": "Loughborough AI Challenge Camp",
+   "english_name": "AI Challenge Camp 2026",
+   "description": "Week-long camp (26-30 January 2026) where undergraduates from several disciplines worked in four teams, each mentored by a PhD researcher, on challenges set by industry and academic partners; final presentations to an expert panel. Winning challenge 'Automating Healthcare Onboarding' set by These Hands Academy Ltd.",
+   "academic_reach": "Unclear",
+   "admin_host": "Led by Prof Diwei Zhou (department not confirmed)",
+   "eligible_faculties_programmes": "Undergraduates from several disciplines",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "Not stated",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "5 days (26-30 Jan 2026)",
+   "delivery_format": "On campus; 4 teams with PhD mentors",
+   "project_based": "Yes",
+   "project_evidence": "Teams built solutions (e.g. decision-tree/scoring framework with AI explainer) and presented to expert panel [1].",
+   "group_working": "Yes",
+   "group_evidence": "Four teams, each with a PhD mentor [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Challenges set by 'industry and academic partners'; only one named industry setter (These Hands Academy Ltd, healthcare) [1]; academic share unknown.",
+   "partner_type": "Mixed",
+   "partner_role": "Sets challenge (industry and academic partners)",
+   "deliverable": "Data-science solution presented to expert panel",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Jan)",
+   "unresolved": "Which challenges were set by external vs academic partners; eligibility/selection; whether recurring; credit.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/internal/news/2026/february/ai-challenge-camp-2026/",
+     "title": "Loughborough AI Challenge Camp 2026: Bridging the Talent Gap Through Collaborative Innovation",
+     "section": "News",
+     "pub_year": "2026 (Feb)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "26-30 Jan 2026; four teams each mentored by a PhD researcher on challenges set by industry and academic partners; winning challenge from These Hands Academy Ltd; final presentations to expert panel on 30 January.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Cambridge Consultants, Joseph Joseph, Kohler Mira (Design Week 2025); Panasonic, DCA, Seymour Powell (2020)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S10",
+   "official_name": "School of Design and Creative Arts live industry briefs (Design Week; final-year 7-day project; Industrial Design design sprint)",
+   "english_name": "SDCA live industry briefs",
+   "description": "School arranges live projects with industry partners who create and review briefs. Design Week 2025: second-year Industrial Design and Product Design and Technology students tackled live briefs from Cambridge Consultants, Joseph Joseph and Kohler Mira. Final-year 7-day project (2020-21 evidence): briefs from Panasonic, DCA and Seymour Powell, who also judged. Industrial Design BA sprint module: each student selects one brief and sends a proposal to the company for feedback (individual).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Design and Creative Arts",
+   "eligible_faculties_programmes": "Industrial Design BA; Product Design and Technology BSc",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2 (Design Week); final year (7-day project)",
+   "eligibility_restrictions": "Named design programmes",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not found",
+   "duration": "1 week (Design Week); 7 days (final-year project)",
+   "delivery_format": "Live briefs; company judging",
+   "project_based": "Yes",
+   "project_evidence": "Design proposals responding to company briefs [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Team/individual split not stated for Design Week or 7-day project; Industrial Design sprint proposal appears individual [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies set and judge briefs (Panasonic, DCA, Seymour Powell 2020; Cambridge Consultants, Joseph Joseph, Kohler Mira 2025) [1][2][4].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets brief; judges; gives feedback",
+   "deliverable": "Design proposals/concepts",
+   "duration_band": "1 week",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (Design Week 2025; exact date not shown)",
+   "unresolved": "Group vs individual working; whether the final-year 7-day project still runs; compulsory status; credits.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/schools/design-creative-arts/study/employability/engage-with-industry/",
+     "title": "Engage with industry",
+     "section": "Employability",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "School arranges live projects with industry contacts; briefs created and reviewed by partners; companies including Milliken, Panasonic, Layer, DCA and Seymour Powell.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lboro.ac.uk/schools/design-creative-arts/whats-happening/news/2025/designweek2025bringingindustrytoourstudents/",
+     "title": "Design Week 2025: Industrial Design and Product Design & Technology students tackle live industry briefs",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Second-year students worked on live briefs from Cambridge Consultants, Joseph Joseph and Kohler Mira.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lboro.ac.uk/study/undergraduate/courses/industrial-design/",
+     "title": "Industrial Design BA",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Design sprint module: each student selects one brief and creates a design proposal sent to respective companies for feedback.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://designshow.lboro.ac.uk/awards/",
+     "title": "Awards - Loughborough Design Digital Showcase 2020",
+     "section": "Awards",
+     "pub_year": "2020",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Intense 7-day project where final-year students respond to briefs from Panasonic, DCA and Seymour Powell; winners chosen by the brief-providing companies.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Cadent (2025)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S11",
+   "official_name": "EnerHy Centre for Doctoral Training design-and-build project (Cadent)",
+   "english_name": "EnerHy CDT team project",
+   "description": "Six-month design-and-build project posed by Cadent (UK gas distribution network) completed by a 13-person multidisciplinary team of EnerHy CDT students, producing a pipe inspection gauge prototype unveiled at an event.",
+   "academic_reach": "Programme/course",
+   "admin_host": "EnerHy Centre for Doctoral Training (Loughborough-led)",
+   "eligible_faculties_programmes": "EnerHy CDT doctoral students",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Postgraduate research",
+   "year_of_study": "CDT cohort",
+   "eligibility_restrictions": "CDT students only",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not found",
+   "duration": "6 months",
+   "delivery_format": "Multidisciplinary team design-and-build",
+   "project_based": "Yes",
+   "project_evidence": "Prototype pipe inspection gauge delivered [1].",
+   "group_working": "Yes",
+   "group_evidence": "'13-person multidisciplinary team' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "This year's project was posed by Cadent [1]; whether external clients are the documented norm for the CDT team project each year is not evidenced.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Poses project",
+   "deliverable": "Prototype pipe inspection gauge",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 (news Sept 2025)",
+   "unresolved": "Whether compulsory for all CDT students and recurs annually with different partners; CDT is jointly hosted (other universities).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/news-events/news/2025/september/enerhy/",
+     "title": "EnerHy makes strides in public engagement and research collaboration",
+     "section": "News",
+     "pub_year": "2025 (September)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Design and build project for this year posed by Cadent; students with varied science and engineering backgrounds worked as a 13-person multidisciplinary team on a six-month project and unveiled a prototype at the event.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Holland & Barrett (2022)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S12",
+   "official_name": "Collaborate Sprint (Loughborough University London)",
+   "english_name": "Collaborate Sprint",
+   "description": "2-day condensed version of the Collaborative Project for Loughborough undergraduates at the London campus; first edition (June 2022) with Holland & Barrett on improving global health via supply chains; teams built, researched and pitched solutions.",
+   "academic_reach": "Unclear",
+   "admin_host": "Loughborough University London",
+   "eligible_faculties_programmes": "Loughborough undergraduates (2022)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "Open to Loughborough undergraduates in 2022",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "2 days",
+   "delivery_format": "On campus, London",
+   "project_based": "Yes",
+   "project_evidence": "Pitched sustainable solutions to partner challenge [1].",
+   "group_working": "Yes",
+   "group_evidence": "Participants built teams [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner organisation Holland & Barrett set challenge (2022) [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets challenge",
+   "deliverable": "Pitched solution",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Historical delivery only",
+   "latest_evidenced_year": "2022",
+   "unresolved": "Whether Sprint ran after 2022/23; a later sustainability sprint was seen only as a headline.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lboro.ac.uk/news-events/news/2022/july/ldn-team-deliver-first-collab-spring-with-ugs/",
+     "title": "Loughborough University London team deliver first ever 'Collaborate Sprint' with Loughborough undergraduates",
+     "section": "News",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2-day experience working with a partner organisation on a real-world challenge; first edition end of June 2022 with Holland & Barrett; students built teams and pitched solutions.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Personal Best",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Co-curricular award recording personal/professional development badges (complete Ready Set Loughborough plus other badges); no project, group or external-organisation component identified.",
+   "source_url": "https://www.lboro.ac.uk/students/personal-best/award/",
+   "status_note": "Awarded on transcript; undated"
+  },
+  {
+   "name": "Digital Media and Communication MSc Workplace Focused Dissertation",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "60-credit dissertation based on a project partner's brief solving a real problem, but a dissertation assessed individually; no group working evidenced.",
+   "source_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/digital-media-communication/",
+   "status_note": "Undated"
+  },
+  {
+   "name": "NatWest Group final-year work-based learning case",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "NatWest wrote a case study of a fictional organisation; top performers offered an internship; not a live brief.",
+   "source_url": "https://www.lboro.ac.uk/schools/business-school/news/2023/natwest-group-working-with-business-school/",
+   "status_note": "2023"
+  },
+  {
+   "name": "University Business Challenge (Loughborough Business School teams)",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Online business simulation competition; no live client.",
+   "source_url": "https://www.lboro.ac.uk/schools/business-school/news/2026/ubc-semi-final-2026/",
+   "status_note": "2026 semi-finals"
+  },
+  {
+   "name": "Challenge X (Loughborough Enterprise Network)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "18-hour event pairing students with SMEs on real problems (Santander-sponsored) but evidence is an old student blog post and current delivery was not confirmed.",
+   "source_url": "https://blog.lboro.ac.uk/students/postgraduate/challenge-x/",
+   "status_note": "Undated/old"
+  },
+  {
+   "name": "Talent Match micro-internships and Finalist/Global internships",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "50-100 hour paid internships with SMEs/organisations; individual placements; no group project evidenced (the Consultancy Programme is recorded as S4).",
+   "source_url": "https://www.lboro.ac.uk/internal/news/2023/october/talent-match-roles-live/",
+   "status_note": "2023 call"
+  },
+  {
+   "name": "Materials Science and Engineering BEng year-3 research project / Chemistry MChem final-year project",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual research projects possibly with an industrial partner; industry-sponsored projects mentioned but no group or client-brief evidence.",
+   "source_url": "https://www.lboro.ac.uk/study/undergraduate/courses/materials-science-engineering-beng/",
+   "status_note": "Undated"
+  },
+  {
+   "name": "Computer Science Team Projects / Group Project modules",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group project modules exist (26COB290, 26COC800, 26COD292) but search results gave no evidence of external clients or briefs.",
+   "source_url": "https://www.lboro.ac.uk/study/undergraduate/courses/computer-science-msci/",
+   "status_note": "2025 course archive"
+  },
+  {
+   "name": "Loughborough University Enterprises Limited (LUEL) consultancy",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Staff-led external consultancy, not student project work.",
+   "source_url": "https://www.lboro.ac.uk/internal/research-innovation-support/partners-collaborators/luel/",
+   "status_note": ""
+  },
+  {
+   "name": "Engineers Without Borders Loughborough (student society)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Student society design challenges; no external client brief evidenced.",
+   "source_url": "https://lsu.co.uk/societies/engineers-without-borders",
+   "status_note": ""
+  },
+  {
+   "name": "Loughborough Apprentice / LEN enterprise challenge",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Student-life improvement challenge for societies and halls; internal, not an employer brief.",
+   "source_url": "https://www.lboro.ac.uk/services/student-services/topics/len-whats-on/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Loughborough University (UK04)** has several distributed employer-linked team routes but no single institution-wide scheme.\n\nThe most widely accessible curricular route is the **Collaborative Project at Loughborough University London** (15 credits; 2026 show with nine partners including Sports Interactive, West Ham United Foundation and The Commonwealth Secretariat), where multidisciplinary teams solve partner-set challenges. In the Business School, MSc programmes include a 45-credit **Industry Experience Project**, a group project for a client company (named clients: GB Snowsport, Cross Country Trains, Vector Consumer, TISA) and the MBA has a team Consultancy Project; both lack dated 2025/26 delivery evidence. **Physics** runs year-3 and final-year group projects with industrial partners (NLA Blue, IBM, BEIS examples), the **Wolfson School** offers company-set group projects in years 2 and 4, **Design and Creative Arts** runs company-brief projects and a compulsory UX Industry Project with team briefs presented to the company, and ABCE runs Cross-School Design Weeks with an industry panel.\n\nCentrally, the **Talent Match Consultancy Programme** (August 2026) puts selected students and recent graduates into paid three-week consulting teams for UK start-ups, SMEs and non-profits. Personal Best is an award and does not qualify.\n\nMost routes are programme-level, optional or compulsory only within specified programmes. Undergraduate business, social sciences, and Computer Science lacked verified live-client team modules. Uncertain: current-year delivery, team sizes, and compulsion for several departmental routes.",
+ "gaps": "No university-wide curricular scheme found; most evidence is undated programme pages. Not verified: dated 2025/26 delivery for S2, S3, S5-S8, S10; Physics compulsory status and team sizes; Wolfson link to Integrated Industrial Group Projects module; Computer Science group-project clients; Managing Innovation (MBA) team format; undergraduate Business School live-client modules; further departmental instances likely (e.g. Sport Business/Marketing London programmes, Civil Engineering group design projects, Design final-year projects, Mechanical/Aeronautical group projects). Search results were summaries, mostly not verbatim quotes."
+}
