@@ -1,0 +1,59 @@
+{
+ "inst_id": "AU07",
+ "institution": "University of Western Australia",
+ "review_status": "Partial",
+ "partial_remaining": "Whole institution: all six areas (central incl. McCusker Centre/SVLG3003, UWA Careers/industry projects; Business School consulting units; Engineering/Computing capstones; Science; Arts/Social Sciences; Law/Health/Architecture) not searched because the shared WebSearch budget was exhausted.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "business": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "engineering_computing": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  }
+ },
+ "schemes": [],
+ "exclusions": [
+  {
+   "name": "McCusker Centre for Citizenship internship, SVLG3003",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "As described in the legacy row, an elective-credit internship placing individual students with community organisations; likely fails B (individual placement) and A unless a project component is evidenced. Not re-verified this round (no searches available).",
+   "source_url": "https://www.handbooks.uwa.edu.au/unitdetails?code=SVLG3003",
+   "status_note": "Not re-verified; legacy evidence undated"
+  }
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "**University of Western Australia: not yet researched.** The session's shared web-search budget ran out before this institution could be started, so no provision has been tested against the three criteria. The legacy row is listed under exclusions as a WIL/placement framework still to be checked. **Unclear** is recorded here because nothing was searched; it does not mean no qualifying scheme exists. A full search across all six areas is still needed.",
+ "gaps": "Entire review outstanding (all six search areas)."
+}

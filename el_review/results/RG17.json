@@ -1,0 +1,790 @@
+{
+ "inst_id": "RG17",
+ "institution": "University of Oxford",
+ "review_status": "Partial",
+ "partial_remaining": "Search budget exhausted after 13 searches (shared per-turn WebSearch limit). Remaining: arts/humanities/social sciences (Blavatnik MPP, OII, ODID, Humanities, Continuing Education), other (Law, Medical Sciences, Education), remaining science departments and Smith School, Saïd Executive MBA/MSc programmes, confirmation of Careers Service programme status for 2026/27.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Oxford Careers Service student consultancy team project real client organisation",
+    "Collaborative projects / Oxford Strategy Challenge / Making a Difference programme paused (extended)",
+    "'Oxford Strategy Challenge' teams client eligibility (extended)",
+    "Oxford careers 'The Agency' teams client brief (extended)",
+    "Oxford Micro-Internship Programme 2026 project work shadowing (extended)"
+   ],
+   "key_sources": [
+    "https://www.careers.ox.ac.uk/Collaborative-Projects",
+    "https://www.careers.ox.ac.uk/oxford-strategy-challenge",
+    "https://www.careers.ox.ac.uk/making-a-difference",
+    "https://www.careers.ox.ac.uk/tsc",
+    "https://www.careers.ox.ac.uk/micros"
+   ],
+   "finding": "The Careers Service has a family of team client-consultancy programmes (TOSCA, MaDe, The Student Consultancy, Researcher Strategy Consultancy, The Agency) open broadly to students, but most programme pages are now labelled 'Programme Paused' despite 2025/26 cohort evidence; the legacy Micro-Internship Programme is individual."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Oxford MBA Strategic Consulting Project teams client organisation elective (extended)",
+    "Saïd Business School team project real organisation client MSc/Executive MBA"
+   ],
+   "key_sources": [
+    "https://development.sbs.ox.ac.uk/strategic-consulting-projects/index.html",
+    "https://www.sbs.ox.ac.uk/sites/default/files/2024-10/Master_of_Businsess_Administation_MBA_2025-26entry_08Oct2024.pdf"
+   ],
+   "finding": "MBA Strategic Consulting Project (optional summer team consultancy for companies/charities, client on presentation panel) qualifies. Executive MBA, MSc programmes (e.g. Financial Economics, Major Programme Management) and the BA Economics & Management were not verified."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Oxford Computer Science group design practical industry sponsor teams (extended)",
+    "'Group Design Practical' 2025 OR 2026 sponsors presentation day (extended)",
+    "Oxford Engineering Science third year group design project industrial sponsor (extended)",
+    "MSc in Energy Systems group consultancy project external stakeholders (extended)"
+   ],
+   "key_sources": [
+    "https://www.cs.ox.ac.uk/innovation/industry_relations/interact_group_project.html",
+    "https://www.cs.ox.ac.uk/teaching/bacompsci/PartA/",
+    "https://eng.ox.ac.uk/study/undergraduate/your-degree/course-structure",
+    "https://eng.ox.ac.uk/media/ycigaoue/msc-energy-systems-course-handbook-25-26-v11.pdf"
+   ],
+   "finding": "Computer Science's compulsory second-year Group Design Practical with industrial sponsors qualifies (HT2026). Engineering 3YP is a compulsory group design project but external sponsorship is only occasional (C unclear). MSc Energy Systems runs a whole-cohort consultancy for an external stakeholder (2025/26)."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Oxford MSc Mathematical Modelling and Scientific Computing case studies industry group project (extended)",
+    "Oxford MSc students group consultancy project external partner organisation environment/sustainability/statistics"
+   ],
+   "key_sources": [
+    "https://courses.maths.ox.ac.uk/mod/book/view.php?id=65607&chapterid=802",
+    "https://www.stats.ox.ac.uk/internal-clients"
+   ],
+   "finding": "Limited coverage: MMSC group case studies lack evidenced external clients; Statistics consultancy is not a student route. Chemistry, Biology, Earth Sciences, Physics, Smith School (MSc SEE) not searched due to search budget exhaustion."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [
+    "Blavatnik School MPP students team project real policy client (refused: web search budget exhausted)"
+   ],
+   "key_sources": [],
+   "finding": "Not searched: the shared per-turn web-search limit was reached before this area could be researched (Blavatnik MPP, Oxford Internet Institute, ODID, Humanities Division, Continuing Education MSc Sustainable Urban Development all outstanding)."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: search budget exhausted (Law Faculty clinics/pro bono, Medical Sciences, Education)."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The Oxford Strategy Challenge (TOSCA)",
+   "english_name": "The Oxford Strategy Challenge",
+   "module_code": "",
+   "description": "Careers Service extracurricular programme: after an assessment task and training, mixed teams of 4-6 Oxford students (undergraduates to DPhils, any subject) work for about five days on a strategic challenge defined with a client organisation (businesses, charities, overseas firms), liaise directly with the client and present research and recommendations, usually as a PowerPoint presentation on a pre-booked online call. Runs (per the employer-facing page) three times a year.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers Service",
+   "eligible_faculties_programmes": "All subjects; current students from 1st-year undergraduates to DPhils",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Saïd Business School students, visiting students, research staff, alumni and previous participants excluded; application with assessment task (selection).",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Non-credit",
+   "duration": "About 5 days (one week) after training",
+   "delivery_format": "Remote/online team work with online client presentation",
+   "project_based": "Yes",
+   "project_evidence": "Defined strategic challenge outlined with the client; output is a presentation of research and recommendations [1][2][3].",
+   "group_working": "Yes",
+   "group_evidence": "Careers mixes applicants into teams of four to six, often mixing undergraduates and postgraduates [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisations work with Careers to define the challenge, teams liaise directly with them, and clients receive the final presentation of recommendations; clients get a licence to use the report [1][2][3].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets challenge with Careers Service; briefing call, check-in, receives final presentation/report",
+   "named_partners": "Olga's Fine Foods (Australian food manufacturer; ESG roadmap project, undated article); past clients described as a faith-based charity, a fundraising charity and an overseas business",
+   "deliverable": "Client presentation of research and recommendations (PowerPoint)",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025/26 (testimonials referencing Michaelmas 2025 cohort)",
+   "participation_data": "",
+   "unresolved": "Conflicting status evidence: the programme page, skills roadmap and news navigation label TOSCA 'Programme Paused' ('This programme is paused at the moment'), while the employer Collaborative Projects page describes it as running three times a year and testimonials reference Michaelmas 2025. Classified 'Current status unclear' per round-2 ruling; weight of programme-specific evidence suggests a pause after Michaelmas 2025.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.careers.ox.ac.uk/oxford-strategy-challenge",
+     "title": "The Oxford Strategy Challenge (Programme Paused)",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'This programme is paused at the moment.' Teams of four to six, mixing undergraduates and postgraduates; current Oxford students from 1st years to DPhils can apply regardless of subject; SBS students, visiting students, research staff, alumni and previous participants excluded; testimonials up to Michaelmas 2025.",
+     "supports": [
+      "project",
+      "group",
+      "eligibility",
+      "reach",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.careers.ox.ac.uk/Collaborative-Projects",
+     "title": "Collaborative projects with Oxford students",
+     "section": "Employer information; programme table",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'The Oxford Strategy Challenge and Making a Difference are programmes of learning and development activities for University of Oxford students.' TOSCA: length of client project 5 days, runs three times a year; clients define outline of challenge, teams liaise directly with clients; students own copyright, client receives a licence to use the report; no charge to clients.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.careers.ox.ac.uk/article/oxford-students-olgas-fine-foods",
+     "title": "Students on their Oxford Strategy Challenge projects with Olga's Fine Foods",
+     "section": "Article",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Team worked with Olga's Fine Foods, an Australian food manufacturer; client said recommendations would inform its ESG roadmap (energy efficiency, sustainable packaging, waste reduction).",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Making a Difference Programme (MaDe)",
+   "english_name": "Making a Difference Programme",
+   "module_code": "",
+   "description": "Careers Service programme of learning and development activities in which Oxford students undertake a client project for charities and social enterprises; runs twice a year (autumn and spring terms) with about 50 places per term. Team structure not confirmed in the extracts obtained.",
+   "academic_reach": "Unclear",
+   "admin_host": "Careers Service",
+   "eligible_faculties_programmes": "University of Oxford students (detailed eligibility not obtained)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application-based; 50 places per term",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Non-credit",
+   "duration": "Described as a three-week client project within a term-long programme (sources differ)",
+   "delivery_format": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Programme page describes a client project for a charity/social enterprise [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Extracts obtained do not state whether MaDe client projects are done in teams (team sizes of 4-6 are stated for TOSCA/TSC, not MaDe).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Programme aimed at charities and social enterprises that supply client projects via the Careers Service Collaborative Projects route [2].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client organisation proposing project",
+   "named_partners": "",
+   "deliverable": "Client project output (form not confirmed)",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025/26 (Hilary 2026 participant; January 2026 workshop dates)",
+   "participation_data": "50 places per term (stated capacity, undated page)",
+   "unresolved": "Page titled 'Programme Paused' yet lists Hilary 2026 participant and January 2026 workshop dates; Collaborative Projects page describes it as running twice a year. Group working not evidenced.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.careers.ox.ac.uk/making-a-difference",
+     "title": "Making a Difference Programme (Programme Paused)",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'This programme is paused at the moment.' Term-long programme with 50 places per term and a client project; Hilary term 2026 participant and January 2026 workshop dates listed.",
+     "supports": [
+      "project",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.careers.ox.ac.uk/Collaborative-Projects",
+     "title": "Collaborative projects with Oxford students",
+     "section": "Programme table",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Making a Difference (MaDe): three-week programme aimed at charities and social enterprises; programme runs twice a year during the autumn and spring terms.",
+     "supports": [
+      "employer",
+      "duration",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The Student Consultancy (TSC)",
+   "english_name": "The Student Consultancy",
+   "module_code": "",
+   "description": "Careers Service experiential learning programme in which teams of students spend 4-6 weeks addressing a strategic issue or business challenge for a client organisation, liaising directly with the client with mentoring support.",
+   "academic_reach": "Unclear",
+   "admin_host": "Careers Service",
+   "eligible_faculties_programmes": "Oxford students (detailed eligibility not obtained)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Non-credit",
+   "duration": "4-6 weeks",
+   "delivery_format": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Strategic issue/business challenge for a client organisation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students participate in teams; Careers employer page gives team size of four to six [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisations set the strategic issue; teams liaise directly with clients and present recommendations [1][2].",
+   "partner_type": "Unclear",
+   "partner_role": "Client organisation",
+   "named_partners": "",
+   "deliverable": "Recommendations to client",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Paused/discontinued",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Programme page labelled paused; no dated cohort found; a 'Student Consultancy for schools' page also exists (not examined).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.careers.ox.ac.uk/tsc",
+     "title": "The Student Consultancy (Programme Paused)",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students participate in teams over 4 - 6 weeks to address a strategic issue or business challenge for a client organisation; teams liaise directly with clients and receive mentoring support; page marked paused.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://careers.ox.ac.uk/partnerships-in-the-community",
+     "title": "Collaborative Projects with Oxford Students",
+     "section": "Employer information",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "'The Oxford Strategy Challenge and The Student Consultancy are innovative learning and consulting experience programmes for Oxford students.' Teams of four to six; clients get a briefing call, a check-in and a final presentation of recommendations.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The Agency",
+   "english_name": "The Agency",
+   "module_code": "",
+   "description": "Careers Service programme developed with the Oxford Advertising and Marketing Society: after an assessment centre and training, students work in teams of six over one academic term on a creative/marketing problem for a client (e.g. attracting a new demographic to a bookshop, reviewing an advertising campaign), liaising directly with the client and producing a report or advertising/marketing campaign.",
+   "academic_reach": "Unclear",
+   "admin_host": "Careers Service with Oxford Advertising and Marketing Society",
+   "eligible_faculties_programmes": "",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Assessment centre selection",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Non-credit",
+   "duration": "One academic term",
+   "delivery_format": "Independent team work with mentorship",
+   "project_based": "Yes",
+   "project_evidence": "Creative problem brief; output is a report or advertising/marketing campaign [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of six [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisations provide the project brief (no charge) and teams liaise directly with their clients [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Provides brief; receives report/campaign",
+   "named_partners": "",
+   "deliverable": "Report or advertising/marketing campaign",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (search index metadata indicates page c. 6.5 years old)",
+   "participation_data": "",
+   "unresolved": "Page appears old; not listed among current programmes in the extracts; likely historical. Eligibility not obtained.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.careers.ox.ac.uk/the-agency",
+     "title": "The Agency",
+     "section": "Programme page",
+     "pub_year": "undated (index metadata ~2,385 days old)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Developed by The Careers Service and the Oxford Advertising and Marketing Society; students work in teams of six over one academic term on a creative problem; teams liaise directly with their clients and produce a report, advertising or marketing campaign; no charge to the organisations providing the project brief.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Strategic Consulting Project (Oxford MBA)",
+   "english_name": "Strategic Consulting Project",
+   "module_code": "",
+   "description": "Optional summer route for the final two elective credits of the full-time Oxford MBA: a student team acts as consultants for a sponsoring organisation (companies, charities, non-profits, start-ups, worldwide) for 6-7 weeks; the client provides an Executive Sponsor and Project Leader with regular senior-management interaction; at the end of August the team presents to a panel of its faculty Project Supervisor, other faculty and the client organisation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Saïd Business School",
+   "eligible_faculties_programmes": "Full-time Oxford MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Summer term of one-year MBA",
+   "eligibility_restrictions": "MBA students; alternative to summer electives or internship for credit",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Counts for final two elective credits; presentation to supervisor/faculty/client panel",
+   "duration": "6-7 weeks (sources differ)",
+   "delivery_format": "On client site/worldwide; client bears travel costs",
+   "project_based": "Yes",
+   "project_evidence": "Consulting project for a corporate sponsor with final presentation [1][2][3].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of two to five (2025-26 entry spec) / two to four (curriculum page) / minimum four, max six (SCP FAQ) [1][2][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation sponsors the project, provides Executive Sponsor and Project Leader, bears direct costs, and sits on the final presentation panel [2][3].",
+   "partner_type": "Mixed",
+   "partner_role": "Commissioning client; supervision contacts; on assessment/presentation panel",
+   "named_partners": "",
+   "deliverable": "Consulting project work presented to faculty/client panel",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (programme specification for 2025-26 entry)",
+   "participation_data": "",
+   "unresolved": "Team size and duration inconsistent across pages; number of teams not published; 6-7 weeks banded as ~1 term (Oxford terms are 8 weeks).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sbs.ox.ac.uk/sites/default/files/2024-10/Master_of_Businsess_Administation_MBA_2025-26entry_08Oct2024.pdf",
+     "title": "Master of Business Administration (MBA) 2025-26 entry",
+     "section": "Programme specification",
+     "pub_year": "2024 (for 2025-26 entry)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final two elective credits over the summer via electives, a Strategic Consulting Project or an Internship for Credit; teams of two to five for a six-week project for a corporate sponsor.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://development.sbs.ox.ac.uk/strategic-consulting-projects/index.html",
+     "title": "Strategic Consulting Projects",
+     "section": "FAQ for organisations",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Client must provide an Executive Sponsor and a Project Leader; students must have regular interaction with senior and/or executive management; direct costs borne by the client; teams have worked with companies, charities, non-profits and start-ups; at the end of August the Project Team presents to a panel of its Project Supervisor, other faculty and the client organisation; minimum of four students but no more than six.",
+     "supports": [
+      "employer",
+      "group",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sbs.ox.ac.uk/programmes/mbas/mba/academic-curriculum/core-courses-and-electives",
+     "title": "Core courses and electives",
+     "section": "Academic curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of two to four take on a seven-week project for a corporate sponsor.",
+     "supports": [
+      "group",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Design Practical (Second Year Group Design Practicals)",
+   "english_name": "Group Design Practical",
+   "module_code": "GDP (Part A practical)",
+   "description": "Compulsory second-year (Part A) practical in which undergraduate teams of 5-6 choose from software projects that have an external industry supervisor and an internal academic supervisor, design and deliver a 'real-world' software solution for the sponsor over Hilary Term, and present at a May presentation day (with prizes).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "BA/MCompSci Computer Science; Computer Science and Philosophy; Mathematics and Computer Science (Part A)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2 (Part A)",
+   "eligibility_restrictions": "All Part A students in the listed degrees",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Part A practical requirement (students need 40%+ overall in practicals); precise weighting not obtained",
+   "duration": "Hilary Term (proposals Nov-Dec, allocation Feb, presentations May)",
+   "delivery_format": "In person; three mandatory sponsor meetings",
+   "project_based": "Yes",
+   "project_evidence": "Teams design and deliver a real-world software solution to a sponsor brief [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Small groups of 4-6 (department page) / teams of 5 or 6 (sponsor guidance) [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industrial sponsors propose projects, meet students to discuss the brief, act as co-supervisor (scoping, progress and delivery meetings) and provide data/resources; NDAs signed by the University [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Proposes brief, co-supervises, receives delivered solution",
+   "named_partners": "G-Research, Winton Capital, Palantir, Metaswitch (described as recent sponsors, undated page); Oxford Asset Management, Bloomberg (2016 page)",
+   "deliverable": "Software solution/prototype and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (GDP listed in Hilary Term 2026; Hilary 2027 also listed)",
+   "participation_data": "",
+   "unresolved": "2025/26 sponsor list not obtained; whether any GDP projects are academically proposed without an industry sponsor not confirmed (guidance describes projects with both external and internal supervisors).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cs.ox.ac.uk/innovation/industry_relations/interact_group_project.html",
+     "title": "Department of Computer Science: industry interaction - group projects",
+     "section": "Industry relations",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Undergraduates form small groups of 4-6 and partner with an industrial sponsor to design and deliver a 'real-world' software solution; sponsors meet students to discuss the brief and act as co-supervisor; recent sponsors include G-Research, Winton Capital, Palantir and Metaswitch.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cs.ox.ac.uk/innovation/industry_relations/Guidance_for_industrial_sponsors_on_second_year_group_projects.pdf",
+     "title": "Guidance for industrial collaboration on Undergraduate group projects",
+     "section": "Sponsor guidance PDF",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 5 or 6 choose from projects with an external industry supervisor and an internal academic supervisor; three mandatory meetings (initial scoping, progress, delivery); proposals Nov-Dec, allocation Feb, presentations May; NDAs signed by the university.",
+     "supports": [
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.cs.ox.ac.uk/teaching/bacompsci/PartA/",
+     "title": "Part A, Computer Science",
+     "section": "Course listing",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group Design Practical listed in Hilary Term 2026; required of every second-year student; students need 40% or more overall in their practicals.",
+     "supports": [
+      "status",
+      "participation",
+      "credit"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.cs.ox.ac.uk/news/1311-full.html",
+     "title": "Four £500 prizes awarded to students at the Second Year Group Design Practical Presentation Day",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Prizes awarded at the Second Year Group Design Practical Presentation Day.",
+     "supports": [
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Third Year Group Design Project (3YP), Engineering Science",
+   "english_name": "Third Year Group Design Project",
+   "module_code": "3YP",
+   "description": "Core third-year element of the Engineering Science MEng: teams of 4-5 students each spend about a day a week producing a detailed design proposal that could underpin a new product or engineering project (e.g. Formula Student car, marine renewable energy system, hospital service robot); assessed by a report on each student's personal contribution. External sponsorship is occasional (one college page cites a project sponsored by a Scottish company).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Engineering Science",
+   "eligible_faculties_programmes": "MEng Engineering Science",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Assessed by individual report on personal contribution to group design project",
+   "duration": "About one day per week (term-length)",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Detailed design proposal for a new product/engineering project [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 4-5 students [1][2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Only one example of company sponsorship found (unnamed Scottish company, college page); no evidence that external organisations are a standard source of 3YP briefs [3].",
+   "partner_type": "Unclear",
+   "partner_role": "Occasional sponsor",
+   "named_partners": "",
+   "deliverable": "Group design proposal; individual reports",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (FHS handbook)",
+   "participation_data": "",
+   "unresolved": "Share of industry-sponsored 3YPs and current-year (2025/26) handbook not obtained.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://eng.ox.ac.uk/study/undergraduate/your-degree/course-structure",
+     "title": "Course Structure (Engineering Science)",
+     "section": "Third year",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "In teams of 4-5 students, you'll write the sort of detailed design proposal that could be used as the basis for a new product or engineering project; about a day a week.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://eng.ox.ac.uk/media/hb1n1xsp/fhs-handbook-2024-25-clean-version-final.pdf",
+     "title": "Course Handbook 2024/2025 Engineering Science Final Honour School",
+     "section": "3YP assessment",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Element consists of a report on your personal contribution to a design project undertaken as part of a small group of undergraduates.",
+     "supports": [
+      "group",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.st-hildas.ox.ac.uk/asset/engineering-science-university-of-oxford.pdf",
+     "title": "Engineering Science (St Hilda's College)",
+     "section": "Student profile",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Third-year wind turbine project 'was actually sponsored by a Scottish company who approached Oxford.'",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc in Energy Systems whole-cohort consultancy exercise",
+   "english_name": "MSc Energy Systems whole-cohort consultancy exercise",
+   "module_code": "",
+   "description": "At the end of the taught elements, the whole MSc Energy Systems cohort (~30 students) works together as if a large consultancy on an energy-related problem agreed with an external stakeholder (planning begins in Hilary Term), organising itself to meet the target and presenting at the end to the stakeholders. Past examples: a sustainability-strategy toolkit for university colleges; review of the Begbroke Innovation District masterplan with an international external consultancy; during Covid the University sustainability strategy was used instead.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Engineering Science (MSc Energy Systems, interdepartmental)",
+   "eligible_faculties_programmes": "MSc Energy Systems",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc (Hilary-Trinity)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course element (assessment weighting not obtained)",
+   "duration": "Planning from Hilary Term; intensive exercise at end of taught course",
+   "delivery_format": "In person, whole cohort",
+   "project_based": "Yes",
+   "project_evidence": "Agreed energy-related problem with a defined target and final presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'All thirty students work together as if they are a large consultancy' [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "2025/26 handbook: cohort partners with an external stakeholder to plan the agreed problem; stakeholders help set the problem and attend the final presentation [1][2].",
+   "partner_type": "Unclear",
+   "partner_role": "Sets/agrees problem; receives presentation. Some past 'stakeholders' were internal (university colleges; University sustainability strategy in Covid year).",
+   "named_partners": "Begbroke Innovation District masterplan review with an (unnamed) international consultancy (c. 2021 interview)",
+   "deliverable": "Consultancy output and presentation to stakeholder",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (course handbook)",
+   "participation_data": "",
+   "unresolved": "Some historic stakeholders were University bodies (internal); 2025/26 stakeholder not named; duration of the exercise not stated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://eng.ox.ac.uk/media/ycigaoue/msc-energy-systems-course-handbook-25-26-v11.pdf",
+     "title": "Course Handbook 2025/2026 MSc Energy Systems",
+     "section": "Whole cohort exercise",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "During Hilary term, the cohort partners with an external stakeholder to begin planning the shape and context of their agreed energy-related problem.",
+     "supports": [
+      "employer",
+      "status",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://oerc.ox.ac.uk/news/msc-in-energy-systems-at-the-university-of-oxford-prepares-to-enter-its-fifth-year",
+     "title": "MSc in Energy Systems at the University of Oxford prepares to enter its fifth year",
+     "section": "Interview",
+     "pub_year": "undated (c. 2021)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'At the end of the taught elements of the course, all thirty students work together as if they are a large consultancy.' External stakeholders help set a problem; stakeholders asked to come along to the final presentation; examples include colleges' sustainability toolkit and Begbroke masterplan review with an international external consultancy; Covid year used University sustainability strategy.",
+     "supports": [
+      "group",
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Micro-Internship Programme",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "Individual 2-5 day voluntary placements with an employer: the intern assists with and observes a small project and/or work shadowing. A project component exists but is undertaken by an individual intern with host staff (B = No); not a team project.",
+   "source_url": "https://www.careers.ox.ac.uk/micros",
+   "status_note": "Current: 2026-27 cycles published (winter 7-11 or 14-18 Dec 2026; spring Mar 2027; summer Jun/Jul 2027) per https://www.careers.ox.ac.uk/the-micro-internship-programme-employer-information"
+  },
+  {
+   "name": "The Researcher Strategy Consultancy (TRSC; incl. health and life sciences variant)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Careers Service consultancy programme for researchers; page labelled 'Programme Paused' and no extract on team structure/clients obtained before search budget ran out.",
+   "source_url": "https://www.careers.ox.ac.uk/trsc",
+   "status_note": "Paused (programme page)"
+  },
+  {
+   "name": "Insight into Strategy and Management / Insight into Consulting and Strategy",
+   "legacy": false,
+   "category": "Careers service",
+   "reason": "Insight/skills programmes; no evidence obtained of a team client project; one variant labelled paused.",
+   "source_url": "https://www.careers.ox.ac.uk/insight-into-business/",
+   "status_note": "Paused label"
+  },
+  {
+   "name": "MSc MMSC Case Studies in Mathematical Modelling / Scientific Computing",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group case studies (groups of 4-5; group presentation 20% + individual report) on 'problems of practical interest'; no evidence an external organisation sets or receives them. Industry co-supervision applies only to the individual dissertation ('may be').",
+   "source_url": "https://courses.maths.ox.ac.uk/mod/book/view.php?id=65607&chapterid=802",
+   "status_note": "2025-26 handbook"
+  },
+  {
+   "name": "Oxford Statistical Consultancy",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Staff consultancy service; states it generally does not have capacity to support MSc students; not a student project route.",
+   "source_url": "https://www.stats.ox.ac.uk/internal-clients",
+   "status_note": ""
+  },
+  {
+   "name": "Oxford Global Private Equity Challenge",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Competition hosted by Saïd for full-time business-school postgraduates (teams of 3-4); no evidence of a live client setting its own problem; open to external business schools.",
+   "source_url": "https://www.sbs.ox.ac.uk/events/oxford-global-private-equity-challenge-2026",
+   "status_note": "2026 edition"
+  },
+  {
+   "name": "Oxford Scenarios Programme (executive education)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Non-degree executive education (group work on a strategic issue for a real-world client); out of scope for student provision.",
+   "source_url": "https://www.sbs.ox.ac.uk/programmes/executive-education/person-programmes/oxford-scenarios-programme",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Oxford** (partial review) shows qualifying provision in three places, but no institution-wide curricular route.\n\n- **Careers Service (central, extracurricular, selective):** a family of team consultancy programmes for real clients. **The Oxford Strategy Challenge** runs 5-day projects for mixed teams of 4-6 students, from first-year undergraduates to DPhils in any subject (Saïd students excluded); clients define the challenge and receive the recommendations. **Making a Difference** serves charities and social enterprises (50 places a term). **The Student Consultancy** (4-6 weeks) and **The Agency** (term-long marketing briefs) are similar. Most of these pages are now labelled *Programme Paused*, although there are testimonials from Michaelmas 2025 and Hilary 2026, so their current status is unclear.\n- **Embedded in degrees:**\n  - **Computer Science:** the compulsory second-year **Group Design Practical** (HT2026). Teams of 5-6 build software for industrial sponsors such as G-Research and Palantir, who co-supervise.\n  - **MSc Energy Systems:** the whole cohort works as a consultancy for an external stakeholder (2025/26 handbook), although some past stakeholders were internal.\n  - **Saïd MBA:** the optional summer **Strategic Consulting Project** for companies and charities. The client provides sponsors and sits on the final presentation panel.\n- **Near-misses:**\n  - Engineering Science's compulsory 3YP group design project has only occasional company sponsors.\n  - The MMSC case studies have no evidenced external client.\n  - The legacy **Micro-Internship Programme** is an individual placement.\n- **Uncertain:** humanities and social sciences, law and medicine were not searched because the search budget ran out, and it is not confirmed whether the Careers programmes will resume.",
+ "gaps": "Arts/humanities/social sciences and 'other' areas not searched (budget). Careers Service programme status for 2026/27 (paused vs running) unresolved. GDP 2025/26 sponsor list; 3YP sponsored share; MBA SCP team counts; MaDe team structure and eligibility; TSC/Agency eligibility. Further departmental instances likely (e.g. Smith School MSc SEE, Blavatnik MPP, OII, Continuing Education)."
+}

@@ -1,0 +1,59 @@
+{
+ "inst_id": "AU08",
+ "institution": "Adelaide University",
+ "review_status": "Partial",
+ "partial_remaining": "Whole institution: all six areas not searched (adelaideuni.edu.au plus legacy University of Adelaide and UniSA pages, e.g. industry/client project courses, business consulting capstones, engineering capstones) because the shared WebSearch budget was exhausted.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "business": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "engineering_computing": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: the session's shared WebSearch budget was exhausted before this institution was started; no web evidence gathered."
+  }
+ },
+ "schemes": [],
+ "exclusions": [
+  {
+   "name": "Work-Integrated Learning",
+   "legacy": true,
+   "category": "WIL framework",
+   "reason": "Legacy row is a university-wide WIL framework (placements, projects and other work-related learning) rather than a specific scheme; underlying employer-linked group project courses still need identifying and testing. Not re-verified this round (no searches available).",
+   "source_url": "https://adelaide.edu.au/students/manage-study/work-integrated-learning/",
+   "status_note": "Not re-verified; legacy evidence undated"
+  }
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "**Adelaide University: not yet researched.** The session's shared web-search budget ran out before this institution could be started, so no provision has been tested against the three criteria. The legacy row is listed under exclusions as a WIL/placement framework still to be checked. **Unclear** is recorded here because nothing was searched; it does not mean no qualifying scheme exists. A full search across all six areas is still needed.",
+ "gaps": "Entire review outstanding (all six search areas)."
+}
