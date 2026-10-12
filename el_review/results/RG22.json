@@ -1,0 +1,1469 @@
+{
+ "inst_id": "RG22",
+ "institution": "UCL",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UCL Grand Challenges ChangeMakers applications 2026",
+    "UCL ExtendED employer project team challenge live brief",
+    "Nano Projects Industry Challenge UCL",
+    "Supercharge your Career ExtendED eligibility",
+    "UCL Careers employer-set challenge hackathon live brief",
+    "UCL Researcher Consultancy Challenge",
+    "Grand Challenges partnership projects ChangeMakers external organisation"
+   ],
+   "key_sources": [
+    "https://www.ucl.ac.uk/study/current-students/academic-support-and-skills/extended-learning/202526-programme/supercharge-your-career",
+    "https://www.ucl.ac.uk/careers/work-experience-researchers",
+    "https://www.ucl.ac.uk/grand-challenges/news/2025/dec/grand-challenges-x-changemakers-applications-now-open"
+   ],
+   "finding": "Central routes are optional/extracurricular: ExtendED International Industry Challenges (all UG/PGT, real overseas employer briefs), a researcher Consultancy Challenge, and student-staff Grand Challenges x ChangeMakers (internal partnership, no external organisation required). No central compulsory employer-project scheme found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "UCL School of Management MSc consulting project live client",
+    "MSc Marketing Science Business Project",
+    "MSc Business Analytics consulting project industry partners",
+    "MSc Business Analytics Analytics Lab",
+    "UCL Global Business School for Health consultancy project",
+    "MSc Supply Chain Management consulting project",
+    "MSc Marketing Science business project clients 2025"
+   ],
+   "key_sources": [
+    "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/marketing-science-msc",
+    "https://www.mgmt.ucl.ac.uk/msc-marketing-science",
+    "https://www.ucl.ac.uk/global-business-school-health/study/ucl-mba-health/projects"
+   ],
+   "finding": "Marketing Science team business project qualifies on route but delivery undated. Business Analytics project is individual; MSc Management consultancy is optional and ungraded; MBA Health team/individual unseparated."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "UCL Industry Exchange Network IXN",
+    "Integrated Engineering Programme Scenarios industry partner",
+    "COMP0016 Systems Engineering team project client",
+    "Computer Science BSc IXN compulsory",
+    "UCL IXN case study 2025",
+    "How to Change the World UCL Engineering",
+    "Industry supervised MSc EEE IXN",
+    "IEP scenario week 2025 industry client",
+    "Mechanical/Chemical/Civil group design project industry client",
+    "MECH0049 Innovation and Group Design Project"
+   ],
+   "key_sources": [
+    "https://www.ucl.ac.uk/module-catalogue/modules/systems-engineering/COMP0016",
+    "https://www.ucl.ac.uk/electronic-electrical-engineering/collaborate/industry-supervised-msc-undergraduate-projects",
+    "https://www.ucl.ac.uk/engineering/centre-for-engineering-education/study/integrated-engineering-programme/how-change-world"
+   ],
+   "finding": "Strongest provision: CS IXN/COMP0016 (second-year group projects for external partners) and EEE IXN final-year team projects, both confirmed current; IEP How to Change the World has partner-co-created challenges but status unclear; Scenario weeks only occasionally employer-linked."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "UCL Data Intensive Science and Industry group projects",
+    "Statistical Science/Mathematics/Physics/Chemistry/Earth Sciences industry-set group project"
+   ],
+   "key_sources": [
+    "https://www.ucl.ac.uk/data-intensive-science-industry/group-projects-industry-placements"
+   ],
+   "finding": "DISI PhD CDT group projects with industry partners qualify; no equivalent undergraduate or taught industry-project module found in Statistical Science, Maths, Physics, Chemistry or Earth Sciences (not conclusive)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "UCL STEaPP MPA group project client",
+    "MPA Group and Individual Project cohort clients",
+    "STEaPP MPA group project 2026 news",
+    "UCL Arts and Sciences BASc interdisciplinary project external partner",
+    "Collaborative Economy BASC0070",
+    "Institute of Education / IGP / Geography / Anthropology live project"
+   ],
+   "key_sources": [
+    "https://www.ucl.ac.uk/steapp/study/masters-public-administration-mpa/mpa-group-and-individual-project",
+    "https://www.ucl.ac.uk/module-catalogue/modules/the-collaborative-economy-BASC0070"
+   ],
+   "finding": "STEaPP MPA group client project is the main qualifying route; BASC0070 is a compulsory team module with outside-set prompts but output unclear. No live-client modules located for IOE, IGP, Geography or Anthropology (not conclusive)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Bartlett live project client students team",
+    "Building a Better Future 2026",
+    "Development Planning Unit / Bartlett Planning live project",
+    "Urban Development Planning London project 2025",
+    "Urban Economic Development UK Practice Engagement",
+    "Community-engaged Planning Projects BPLN0033",
+    "UCL Laws Pro Bono Project"
+   ],
+   "key_sources": [
+    "https://www.ucl.ac.uk/bartlett/news/2026/jul/bartlett-students-gain-industry-experience-through-building-better-future-consultancy-project",
+    "https://www.ucl.ac.uk/bartlett/development/study/urban-economic-development-msc/urban-economic-development-msc-uk-practice-engagement"
+   ],
+   "finding": "Bartlett/DPU have several qualifying group client routes (BABF, UED London Project confirmed current; UDP London Project); Laws provision is individual casework/volunteering. Health, medical sciences, SLADE and pharmacy not specifically searched."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Systems Engineering team project with external partner (UCL Industry Exchange Network)",
+   "module_code": "COMP0016",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "Historical examples only (e.g. a British Heart Foundation chatbot in a 2021-22 team blog); no 2025/26 client list found.",
+   "eligible_faculties_programmes": "BSc Computer Science; MEng Computer Science",
+   "eligibility_restrictions": "Module restricted to BSc/MEng Computer Science; object-oriented programming prerequisite.",
+   "year_of_study": "Year 2 (FHEQ Level 5)",
+   "local_id": "S1",
+   "official_name": "Systems Engineering (COMP0016) - UCL IXN team project",
+   "description": "Second-year Computer Science students work in groups, each allocated a different project from an external partner, building a proof-of-concept design and prototype to the partner's requirements. Groups meet the partner regularly for input and feedback, have a PGTA and academic supervisor, and submit a portfolio (software, other artefacts, demo video). The module sits within the UCL Industry Exchange Network (IXN).",
+   "academic_reach": "Programme/course",
+   "admin_host": "UCL Computer Science (Faculty of Engineering Sciences)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits; 100% group activity (4 assessments), individual contribution also considered",
+   "duration": "Full academic year (30 credits, taught across terms; exact length not stated in extract)",
+   "delivery_format": "In-person team project with external partner, PGTA and academic supervisor",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: groups build a proof-of-concept design and prototype for an external partner's requirements; portfolio incl. software and demo video.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 'groups'; assessed 100% by group activity with individual contribution considered.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: each group works on a project from an external partner and meets regularly with the partner for input and feedback. Source 2: BSc page says students complete a team project set by one of the industry partners via IXN.",
+   "partner_type": "Mixed",
+   "partner_role": "Partner supplies requirements/brief and gives regular feedback; students' prototype is for the partner.",
+   "deliverable": "Proof-of-concept prototype, software, portfolio and demo video for the external partner",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Compulsory status inferred from the BSc page (team project set by an industry partner) and 2026 compulsory-module list; the module catalogue entry itself says only 'available on' BSc/MEng CS. No 2025/26 client list found. Partner sector mix unconfirmed (hence Mixed).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/module-catalogue/modules/systems-engineering/COMP0016",
+     "title": "Systems Engineering (COMP0016)",
+     "section": "Module catalogue entry (page updated 10 Mar 2026)",
+     "pub_year": "2026/27 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "30-credit Level 5 module: groups build a proof-of-concept design and prototype implementation for requirements from an external partner; each group allocated a different project and meets regularly with the external partner; 100% group activity assessment; restricted to BSc/MEng Computer Science.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-bsc",
+     "title": "Computer Science BSc",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "'You'll also complete a team project set by one of our industry partners as part of the Industry Exchange Network (IXN).'",
+     "supports": [
+      "employer",
+      "group",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.ucl.ac.uk/engineering/news/2026/jan/ucl-computer-science-students-work-schools-tackle-recycling-challenges",
+     "title": "UCL Computer Science students work with schools to tackle recycling challenges",
+     "section": "News, Jan 2026",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Second-year COMP0016 students (2025/26 cohort) worked on a project with Tower Hamlets schools / Recycling Lab partners (an outreach variant, not a standard client brief).",
+     "supports": [
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.ucl.ac.uk/computer-science/collaborate/ucl-industry-exchange-network-ucl-ixn/frequently-asked-questions",
+     "title": "UCL IXN FAQ",
+     "section": "FAQ",
+     "pub_year": "undated (c. 5 years old)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "In the second year there are IXN group projects and in the final year individual projects, each taking approximately 25% of learning time.",
+     "supports": [
+      "group",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "EEE Industry eXchange Network final-year industry team projects",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "EEE undergraduates/MSc (final-year team route is fourth-year UG)",
+   "eligibility_restrictions": "Not stated in extract; participation basis not clear.",
+   "year_of_study": "Year 4 (team route); Year 3 route is individual/themed groups of 2-3",
+   "local_id": "S2",
+   "official_name": "Industry supervised MSc & Undergraduate projects (EEE-IXN) - final-year team projects",
+   "description": "Fourth-year (MEng) Electronic & Electrical Engineering students work in teams of typically 4-5 on a six-month part-time proof-of-concept project proposed and mentored by a partner company, with a UCL academic supervisor; a student acts as liaison officer and students hand over report and code/designs to the company mentor.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UCL Electronic & Electrical Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated in extract",
+   "duration": "About six months part-time (project work Oct 2025 to Mar 2026 in the 2025/26 cycle)",
+   "delivery_format": "Company-mentored team project plus academic supervisor",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: proof-of-concept projects defined by partner company; handover of final report and code/designs.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: fourth-year projects are team efforts for groups of typically 4 or 5, each student taking part of the project with interdependence expected; student liaison officer.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: company must name a lead contact and technical mentor(s); each project has a company mentor alongside a UCL supervisor; students hand over to company mentor.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Company proposes project, supplies technical mentor, receives proof-of-concept output.",
+   "deliverable": "Proof-of-concept design/prototype, final report, handover to company mentor",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Page is a partner-facing call; unclear whether the IXN team route is compulsory for all EEE final-year students or one option among project types; no named companies for 2025/26; Year 3 route (themed groups of 2-3, each student a different approach) not separable as group work and not recorded.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/electronic-electrical-engineering/collaborate/industry-supervised-msc-undergraduate-projects",
+     "title": "Industry supervised MSc & Undergraduate projects",
+     "section": "Partner guidance",
+     "pub_year": "2025/26 timeline shown",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Fourth-year projects should be team projects of typically 4 or 5 students, interdependence expected; company names lead contact and mentors; student liaison officer; proof of concept not for deployment; undergraduate brief deadline 30 March 2025 with project work Oct 2025 to Mar 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/engineering/centre-for-engineering-education/study/integrated-engineering-programme/scenario-weeks",
+     "title": "Scenario weeks / IEP",
+     "section": "IEP pages",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Summary of search result: fourth-year EEE undergraduates do a six-month part-time team project via IXN.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "english_name": "UCL Faculty of Engineering Sciences Integrated Engineering Programme",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "Engineering degrees (Civil Engineering students do not currently take How to Change the World); Management Science takes an IEP minor",
+   "eligibility_restrictions": "",
+   "year_of_study": "Years 1-2",
+   "local_id": "S3",
+   "official_name": "Integrated Engineering Programme (IEP)",
+   "description": "Faculty-wide project-based engineering curriculum: departmental Scenario weeks (Years 1-2) and the cross-disciplinary two-week How to Change the World project (end of Year 2). Umbrella record; children assessed separately.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "UCL Centre for Engineering Education / Faculty of Engineering Sciences",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "Project weeks",
+   "project_based": "Yes",
+   "project_evidence": "Source 1",
+   "group_working": "Yes",
+   "group_evidence": "Source 1",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Employer role differs by child record.",
+   "partner_type": "Mixed",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025",
+   "unresolved": "Umbrella; see S4 and S5.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/engineering/centre-for-engineering-education/study/integrated-engineering-programme",
+     "title": "Integrated Engineering Programme",
+     "section": "IEP overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "IEP comprises Scenario weeks and How to Change the World as team-based projects.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S3",
+   "is_umbrella": false,
+   "english_name": "Scenario weeks (intensive departmental team design projects, Years 1-2)",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "",
+   "eligibility_restrictions": "",
+   "year_of_study": "Years 1-2",
+   "local_id": "S4",
+   "official_name": "IEP Scenario weeks",
+   "description": "Week-long intensive team design projects in Years 1 and 2 where other teaching stops; each department runs its own. Some scenarios occasionally involve start-ups, companies, third-sector professionals or communities.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "UCL Faculty of Engineering Sciences departments",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "One week per scenario",
+   "delivery_format": "Intensive team project week",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: intensive project-based experiences, a single technical design project.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: teams focus on one technical design project.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: scenarios only 'occasionally' collaborate with industry/third sector/communities; not the norm.",
+   "partner_type": "Mixed",
+   "partner_role": "Occasional external input to some scenarios.",
+   "deliverable": "Technical design project output",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "No scenario-by-scenario list of external partners; undated page with no 2025/26 corroboration.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/engineering/centre-for-engineering-education/study/integrated-engineering-programme/scenario-weeks",
+     "title": "Scenario weeks",
+     "section": "IEP pages",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Scenario weeks are intensive project-based learning; each department runs its own; some occasionally collaborate with industry (start-ups to established companies), third-sector professionals and/or regional communities.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S3",
+   "is_umbrella": false,
+   "english_name": "How to Change the World - two-week interdisciplinary team challenge",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "Recent partners listed on UCL page (undated): UK Dept for Transport, ARUP, Engineers Without Borders UK, Motorola Solutions, Lloyds Banking Group.",
+   "eligible_faculties_programmes": "IEP engineering programmes, computer science, management science (Civil Engineering students do not currently participate)",
+   "eligibility_restrictions": "",
+   "year_of_study": "End of Year 2",
+   "local_id": "S5",
+   "official_name": "How to Change the World (IEP)",
+   "description": "Two-week interdisciplinary team project after Year 2 exams: teams of up to six across engineering disciplines, computer science and management science address an open societal challenge linked to the UN SDGs in facilitated workshops with industry/community partners, ending in an Innovation Showcase pitch to a panel of academics and external experts.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "UCL Centre for Engineering Education / Faculty of Engineering Sciences",
+   "faculty_areas": [
+    "engineering_computing",
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Two weeks",
+   "delivery_format": "Intensive in-person challenge, workshops and pitch",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: open-ended societal challenge; teams pitch concepts at final-day showcase.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: teams of up to six engineering disciplines, computer scientists and management scientists.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: challenges created in partnership with external experts from policy, industry and the third sector; supported by industrial partners; teams pitch to a panel including external experts.",
+   "partner_type": "Mixed",
+   "partner_role": "Partners co-create challenges, run workshops and sit on feedback/judging panel.",
+   "deliverable": "Concept pitch/showcase",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025",
+   "unresolved": "Page undated; only dated item is Nov 2025 news about How to Change the World Student Awards (summer 2025 delivery, i.e. 2024/25) - no 2025/26 or 2026 corroboration. Compulsory status per programme not verified from a programme specification. Partner role is workshop/panel rather than a single client brief.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/engineering/centre-for-engineering-education/study/integrated-engineering-programme/how-change-world",
+     "title": "How to Change the World",
+     "section": "IEP page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Two-week project at end of Year 2; teams of up to six disciplines; supported by industrial partners; pitch to panel; external partners incl. DfT, ARUP, EWB UK, Motorola Solutions, Lloyds Banking Group.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/engineering/news/2025/nov/ucl-chemical-engineering-students-shine-2025-cee-fes-education-awards",
+     "title": "UCL Chemical Engineering Students Shine at 2025 CEE-FES Education Awards",
+     "section": "News, Nov 2025",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Chemical Engineering students were part of interdisciplinary winning teams in the How to Change the World Student Awards.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Bartlett Building a Better Future consultancy project (ExtendED Learning)",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "83 students in third edition (2026)",
+   "legacy_ref": "",
+   "named_partners": "2026: AtkinsRealis, Buro Happold, Hereworks UK, Turner & Townsend, Gensler, London Boroughs of Islington and Sutton",
+   "eligible_faculties_programmes": "Bartlett students only",
+   "eligibility_restrictions": "Open only to Bartlett students; places allocated by preference.",
+   "year_of_study": "",
+   "local_id": "S6",
+   "official_name": "Building a Better Future (BABF) consultancy project",
+   "description": "Two-week consultancy project: Bartlett students (UG, PG, PhD) rank partner organisations, are assigned to teams of 5-8, attend design-thinking/project-management workshops, visit sites/offices, and present recommendations on the host organisation's brief to a judging panel and host organisations.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "The Bartlett (UCL Faculty of the Built Environment) via ExtendED Learning",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced",
+   "duration": "Two weeks (1-17 June 2026)",
+   "delivery_format": "In-person workshops, site/office visits, showcase",
+   "project_based": "Yes",
+   "project_evidence": "Sources 1-2: briefs set by host organisations; teams deliver 10-minute presentation of recommendations.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: teams of five to eight.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: briefs set by AtkinsRealis, Buro Happold, Hereworks UK, Turner & Townsend, Gensler, LB Islington and LB Sutton; teams present to judging panel and host organisations.",
+   "partner_type": "Mixed",
+   "partner_role": "Host organisations set briefs, host office visits, receive presentation and Q&A.",
+   "deliverable": "Recommendations presentation to host organisation",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "2026/27 call not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/bartlett/news/2026/jul/bartlett-students-gain-industry-experience-through-building-better-future-consultancy-project",
+     "title": "Bartlett students gain industry experience through 'Building a Better Future' consultancy project",
+     "section": "News, Jul 2026",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "83 students in third edition; students ranked partner organisations and were assigned to teams of five to eight; briefs set by AtkinsRealis, Buro Happold, Hereworks UK, Turner & Townsend, Gensler, LB Islington and Sutton; 10-minute presentation with Q&A to judging panel and host organisations.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/study/current-students/academic-support-and-skills/extended-learning/202526-programme/supercharge-your-career",
+     "title": "Supercharge your Career (ExtendED 2025/26)",
+     "section": "Programme listing",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Listing gives 1-17 June 2026 and states activity open only to Bartlett students (per search summary).",
+     "supports": [
+      "status",
+      "eligibility",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "International Industry Challenge teams",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "Up to 150 places (2025 cycle)",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "All UCL undergraduate and taught postgraduate students (ExtendED eligibility)",
+   "eligibility_restrictions": "ExtendED open to UG and PGT students; some places reserved for Careers Extra students; limited places (up to 150 in 2025).",
+   "year_of_study": "",
+   "local_id": "S7",
+   "official_name": "International Industry Challenges (Practera Nano Projects) - ExtendED Learning",
+   "description": "Small teams of UCL students respond to a single brief from a real overseas employer (sourced via delivery partner Practera): briefing session, mid-project Q&A, and a pitch event with feedback from the employer; about 25 hours over roughly three weeks, online with in-person orientation.",
+   "academic_reach": "University-wide",
+   "admin_host": "UCL Careers / ExtendED Learning (Teaching & Learning)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Digital badge; no credit",
+   "duration": "~25 hours, 26 May-15 June 2026",
+   "delivery_format": "Online teams with briefing, Q&A, pitch",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: team responds to one employer brief and delivers a pitch.",
+   "group_working": "Yes",
+   "group_evidence": "Sources 1-2: 'teams' respond to a single brief; 'Industry Challenge Teams'.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: brief provided by a real international industry partner; team meets client at briefing and gets client feedback at pitch. Source 2 separates the AI-simulated variant (excluded).",
+   "partner_type": "Unclear",
+   "partner_role": "Employer sets brief, answers questions, gives pitch feedback.",
+   "deliverable": "Pitch to the employer",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Partner sector and named employers not found; exact team sizes not stated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/study/current-students/academic-support-and-skills/extended-learning/202526-programme/supercharge-your-career",
+     "title": "Supercharge your Career (ExtendED 2025/26)",
+     "section": "International Industry Challenges",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams respond to a single challenge/brief provided by a real international industry partner, meet clients at a briefing session, mid-project Q&A, finish with pitch and client feedback; ran 26 May-15 June 2026, 25 hours.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/careers/events/2025/apr/nano-projects-industry-challenge-teams-information-session",
+     "title": "Nano Projects: Industry Challenge - Teams Information Session",
+     "section": "Event page",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Briefs sourced from real-world organisations by delivery partner Practera; up to 150 spots; some places reserved for Careers Extra students.",
+     "supports": [
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.ucl.ac.uk/news/2025/oct/register-your-interest-now-term-3-skills-development-programme",
+     "title": "Register your interest now for Term 3 skills development programme",
+     "section": "News, Oct 2025",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "ExtendED Learning is open to all UG and PGT students at UCL.",
+     "supports": [
+      "reach",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "MSc Marketing Science Business Project",
+   "module_code": "MSIN0314",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "MSc Marketing Science",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S8",
+   "official_name": "Business Project (MSIN0314), MSc Marketing Science",
+   "description": "Term 3, 45-credit team-based consultancy-style project: groups under faculty supervision work with real-world external organisations on a marketing challenge over about 10 weeks (e.g. product line expansion, new segment entry, campaign optimisation, controlled experiments).",
+   "academic_reach": "Programme/course",
+   "admin_host": "UCL School of Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "45 credits; individual and group components",
+   "duration": "~10 weeks (Term 3)",
+   "delivery_format": "Supervised group consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: real marketing challenge; consultancy-style project.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: students put into groups under faculty supervision; assessed with group and individual components.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: groups work with real-world external organisations (external client).",
+   "partner_type": "Unclear",
+   "partner_role": "External client organisation supplies the marketing challenge.",
+   "deliverable": "Consultancy project outputs for external organisation (not specified in extract)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025",
+   "unresolved": "Programme pages undated; no named 2025/26 clients or presentations found; 2025 info session and April 2025 advisory board are not delivery evidence. Partner sector not stated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/marketing-science-msc",
+     "title": "Marketing Science MSc",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Term 3 Business Project is 45 credits, team-based consultancy-style project with an external client; students in groups under faculty supervision work with real-world external organisations; assessed on individual and group components.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.mgmt.ucl.ac.uk/msc-marketing-science",
+     "title": "MSc Marketing Science",
+     "section": "School of Management programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Over approximately 10 weeks students apply analytical and strategic skills to a real marketing challenge; past projects range from product line expansion to optimising multimillion-pound campaigns.",
+     "supports": [
+      "project",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "PhD CDT industry group projects",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "9 rounds completed; over 40 placements (separate route)",
+   "legacy_ref": "",
+   "named_partners": "ASOS, The Guardian, NCC Group, UK Atomic Energy Authority, Fathom, Peak AI (past rounds); 2025 Fathom",
+   "eligible_faculties_programmes": "PhD students in the Data Intensive Science CDT",
+   "eligibility_restrictions": "",
+   "year_of_study": "First-year PhD",
+   "local_id": "S9",
+   "official_name": "Centre for Data Intensive Science and Industry (DISI) CDT group projects",
+   "description": "Partner companies bring real data/problems to teams of 3-4 first-year PhD students in the Data Intensive Science doctoral training centre; teams work about two days a week January-April on the partner's problem. Partners pitch at an annual event. Separate from six-month individual industry placements.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UCL Centre for Data Intensive Science and Industry (Mathematical & Physical Sciences)",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate research",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Training component of CDT; credit not stated",
+   "duration": "January-April, ~2 days per week",
+   "delivery_format": "Team projects with partner data",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: partners bring real-world problems; example 2025 project building a machine-learning pipeline to detect levees for Fathom's flood maps.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: teams of three to four junior PhD students.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: companies pitch projects at an annual partner event and provide problem/data; past partners ASOS, The Guardian, NCC Group, UKAEA, Fathom, Peak AI.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Partner supplies problem and data, receives pipeline/analysis output.",
+   "deliverable": "Data/ML pipeline or analysis for partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Compulsory status inferred from 'each PhD student takes two industry-led projects'; small centre cohort size not published.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/data-intensive-science-industry/group-projects-industry-placements",
+     "title": "Group Projects & Industry Placements",
+     "section": "Group projects",
+     "pub_year": "list runs 2019-2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Partners bring real-world problems to small teams of first-year PhD students (3-4); January-April; past partners ASOS, The Guardian, NCC Group, UKAEA, Fathom, Peak AI; partners pitch at annual event.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/high-energy-physics/9th-round-cdt-group-projects-completed",
+     "title": "9th Round of CDT Group Projects Completed",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Ninth round of CDT group projects completed.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "STEaPP Master of Public Administration group project for external clients",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "Undated listings: BSI, Alan Turing Institute, GO-Science, Chatham House, Save the Children UK, ARUP, UNESCO, Demos Helsinki",
+   "eligible_faculties_programmes": "STEaPP MPA programmes (several specialisms)",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S10",
+   "official_name": "MPA Group Project (STEaPP)",
+   "description": "Nine-month major group project in which interdisciplinary student teams work with an external client on a real policy challenge with STEaPP faculty support; students may state preferences. The individual project route (needs departmental approval, e.g. with existing employer) is separate and not recorded.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UCL Dept of Science, Technology, Engineering and Public Policy (STEaPP)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60-credit final project (per search summary); group-project assessment details not captured",
+   "duration": "Nine months (Term 2 to summer)",
+   "delivery_format": "Supervised client team project",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: real-world policy challenge for a client with output for the client.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: group project is the default major component; example team of five working with BSI.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: external client for each project; clients include BSI, Alan Turing Institute, UK Government Office for Science, Chatham House, Save the Children UK, ARUP, UNESCO.",
+   "partner_type": "Mixed",
+   "partner_role": "Client sets the policy challenge and receives the project output.",
+   "deliverable": "Policy report/recommendations for client",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Group-project pages undated; the dated 2026 catalogue update (25 Aug 2026) is for the individual project module STEP0036; no dated 2025/26 group client list found. Group assessment weight not captured.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/steapp/study/masters-public-administration-mpa/mpa-group-and-individual-project",
+     "title": "MPA Group and Individual Project",
+     "section": "Project page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group Project lets students apply skills to a real-world policy challenge in an interdisciplinary team with STEaPP faculty support; default major component; nine-month projects for external clients; listed clients include Alan Turing Institute and UK Government Office for Science.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/module-catalogue/modules/mpa-individual-project-STEP0036",
+     "title": "MPA Individual Project (STEP0036)",
+     "section": "Module catalogue",
+     "pub_year": "updated 25 Aug 2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Individual project module entry (80% reports, 20% viva) - evidences programme still running but is not the group route.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "DPU MSc Urban Economic Development London Project",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "2025-26 The Fitzrovia Partnership; 2024-25 GLA, TfL, OPDC",
+   "eligible_faculties_programmes": "MSc Urban Economic Development",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S11",
+   "official_name": "Urban Economic Development MSc - UK Practice Engagement (London Project)",
+   "description": "Student groups carry out applied research projects for London partner organisations; in 2025-26 six projects for The Fitzrovia Partnership on circular economy waste streams using material flow analysis, interviews, mapping and audits; 2024-25 partners GLA, TfL and OPDC; groups produced policy-facing reports with recommendations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bartlett Development Planning Unit",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not captured",
+   "duration": "Not stated",
+   "delivery_format": "Group applied research with partner organisations",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: applied research projects, final policy-facing report.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 'student groups' investigated six projects.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: partner organisations pose research questions and engage practitioners; partners The Fitzrovia Partnership (2025-26); GLA, TfL, OPDC (2024-25).",
+   "partner_type": "Mixed",
+   "partner_role": "Partners set questions and receive reports.",
+   "deliverable": "Policy-facing report/recommendations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Duration, credit weight and compulsory status of the practice module not captured.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/bartlett/development/study/urban-economic-development-msc/urban-economic-development-msc-uk-practice-engagement",
+     "title": "Urban Economic Development MSc UK Practice Engagement",
+     "section": "London Project page",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "London Project 2025-26 with The Fitzrovia Partnership: six applied research projects; 2024-25 partners GLA, TfL, OPDC; groups produced final policy-facing report.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "DPU MSc UDP London Project with community groups",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "Just Space, Southwark Planning Network (earlier years)",
+   "eligible_faculties_programmes": "MSc Urban Development Planning",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S12",
+   "official_name": "Urban Development Planning MSc - London Project",
+   "description": "Annual October-December group project in the core practice module co-designed with Just Space (alliance of London community groups); latest documented 2023-2025 co-production of planning policy propositions linked to the Fairville project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bartlett Development Planning Unit",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not captured (core practice module)",
+   "duration": "October-December",
+   "delivery_format": "Group project with community partners",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: co-produced planning policy propositions.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: described as a group project (students).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: Just Space and Southwark Planning Network community groups co-design the project; partnership since 2014.",
+   "partner_type": "Charity/community",
+   "partner_role": "Community groups co-design topic and use outputs.",
+   "deliverable": "Policy propositions/co-produced outputs",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025",
+   "unresolved": "Latest project dated 2023-2025; no 2025/26 cohort confirmation. Team structure inferred from 'group project' wording.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/bartlett/development/study/masters/urban-development-planning-msc/urban-development-planning-msc-london-projects",
+     "title": "Urban Development Planning MSc London projects",
+     "section": "Project page",
+     "pub_year": "2023-2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Project runs each year Oct-Dec in the core practice module; partnership with Just Space since 2014; most recent project 2023-2025 with Just Space Fairville London lab.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Community-engaged Planning Projects",
+   "module_code": "BPLN0033",
+   "likely_duplicate_of": "",
+   "participation_data": "61 students in previous year (per catalogue)",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "Priority to Bartlett School of Planning students; strict cap",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S13",
+   "official_name": "Community-engaged Planning Projects (BPLN0033)",
+   "description": "15-credit Term 2 module: students design and run a participatory research project on a selected theme with community voices through fieldwork and engagement events; 80% group activity assessment; UCL community-engaged-learning list notes assessment co-designed with community partners.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Bartlett School of Planning",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; 80% group activity, 20% coursework",
+   "duration": "Term 2",
+   "delivery_format": "In person, 5+ days fieldwork",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: participatory research project in the field.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 80% group activity assessment.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 2 lists CEL elements (community-based research; assessment co-designed with community partners) but partners are unnamed and the page does not state their role in this module.",
+   "partner_type": "Charity/community",
+   "partner_role": "Unclear",
+   "deliverable": "Not stated",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Community partners unnamed; deliverable and current-year delivery unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/module-catalogue/modules/collaborative-city-planning-strategies-BPLN0033",
+     "title": "Community-engaged Planning Projects (BPLN0033)",
+     "section": "Module catalogue",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "15-credit Term 2 module; participatory research project; 80% group activity, 20% coursework; priority for Bartlett School of Planning students.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/teaching-learning/teaching-resources/community-engaged-learning/cel-ucl-staff",
+     "title": "CEL for UCL Staff",
+     "section": "CEL module list",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Lists BPLN0033 with CEL elements: assessment co-designed with community partners; community-based research.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "The Collaborative Economy",
+   "module_code": "BASC0070",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "BA Creative Arts and Humanities only",
+   "eligibility_restrictions": "",
+   "year_of_study": "Year 2 (Level 5)",
+   "local_id": "S14",
+   "official_name": "The Collaborative Economy (BASC0070)",
+   "description": "Year 2 module on BA Creative Arts and Humanities in which peer teams work on a prompt, question or provocation set by an outside organisation, via a January briefing, March collaborative event and evaluation by students and organisations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UCL Arts and Sciences / Faculty of Arts & Humanities",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not captured",
+   "duration": "January-March (2025 cycle)",
+   "delivery_format": "Team challenge with external organisations",
+   "project_based": "Unclear",
+   "project_evidence": "Source 1: team addresses an outside-set prompt and produces an output, but the output is not shown.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: peer groups/teams.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: prompt set by an outside group; Source 2: organisations take part in the collaborative event and evaluation.",
+   "partner_type": "Unclear",
+   "partner_role": "Set prompt, attend event, evaluate.",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025",
+   "unresolved": "Output/assessment unknown; timeline from 2024 news about 2025 cycle; partner sector unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/module-catalogue/modules/the-collaborative-economy-BASC0070",
+     "title": "The Collaborative Economy (BASC0070)",
+     "section": "Module catalogue",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams work on a prompt, question or provocation set by an outside group; compulsory in year 2 of BA Creative Arts and Humanities.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/creative-cultural-industries/news/2024/aug/supporting-collaborative-economy-work-ucl-solve-your-organisational-challenges",
+     "title": "Supporting a Collaborative Economy: Work with UCL to solve your organisational challenges",
+     "section": "News, Aug 2024",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Timeline: January briefing, March collaborative event, evaluation by students and organisations.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Innovation and Group Design Project",
+   "module_code": "MECH0049",
+   "likely_duplicate_of": "",
+   "participation_data": "About 80 students in previous year (catalogue)",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "MSc Engineering with Finance; Engineering with Innovation and Entrepreneurship; Manufacturing with Innovation and Enterprise",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S15",
+   "official_name": "Innovation and Group Design Project (MECH0049)",
+   "description": "30-credit group module for three MSc programmes: groups design a complex engineering product/system, build a working prototype and business plan; industry liaison is 'where possible' and some programme pages say groups solve an industrial problem or develop their own idea.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UCL Mechanical Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits; 100% group activity",
+   "duration": "Terms 1-2",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: prototype, specification, manufacturing plan, business plan.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: 100% group activity.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source 1: 'work with industry in liaison, where possible'; own-idea alternative.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Optional industry liaison",
+   "deliverable": "Prototype and business plan",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Share of industry-set projects unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/module-catalogue/modules/innovation-and-group-design-project-MECH0049",
+     "title": "Innovation and Group Design Project (MECH0049)",
+     "section": "Module catalogue",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "30 credits; groups design product/system; 100% group assessment; industry liaison 'where possible'; ~80 students previous year.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "MBA Health final-term consultancy project",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "MBA Health (Executive MBA Health has similar Term 3 project)",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S16",
+   "official_name": "MBA Health consultancy project (Global Business School for Health)",
+   "description": "Final-term consultancy project with a real health-sector client, with academic supervisor and industry mentor; students work independently or in small teams.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UCL Global Business School for Health",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not captured",
+   "duration": "Final term",
+   "delivery_format": "Consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Source 1",
+   "group_working": "Unclear",
+   "group_evidence": "Source 1: students work independently or in small teams; routes not separable.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: real client in the health sector; industry mentor.",
+   "partner_type": "Unclear",
+   "partner_role": "Client plus industry mentor",
+   "deliverable": "Consultancy solutions",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Team vs individual split unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/global-business-school-health/study/ucl-mba-health/projects",
+     "title": "MBA Health",
+     "section": "Projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final term includes consultancy project with a real client in the health sector; students work independently or in small teams with academic supervisor and industry mentor.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Researcher Consultancy Challenge (UCL Careers)",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "eligible_faculties_programmes": "Early-career researchers (PhD students/postdocs)",
+   "eligibility_restrictions": "Early-career researchers only; application via newsletter.",
+   "year_of_study": "",
+   "local_id": "S17",
+   "official_name": "UCL Researcher Consultancy Challenge",
+   "description": "Week-long programme for early-career researchers: a consultancy-skills training day followed by groups of researchers working on a real industry partner's problem, ending with presentations and feedback; usually July.",
+   "academic_reach": "University-wide",
+   "admin_host": "UCL Careers (researcher careers)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Postgraduate research",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "One week plus training day",
+   "delivery_format": "Team consultancy challenge",
+   "project_based": "Yes",
+   "project_evidence": "Source 1: team works on industry partner's problem and presents.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: groups of researchers work together.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Source 1: industry partner's problem; presentations and feedback.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partner sets problem, gives feedback.",
+   "deliverable": "Presentation to partner",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026",
+   "unresolved": "2026 training day described as 'likely' 3 July 2026; no confirmation it ran; partner names not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/careers/work-experience-researchers",
+     "title": "Work Experience for Researchers",
+     "section": "Consultancy Challenge",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Week-long programme: training day then groups of researchers work on a real industry partner's problem, presentations and feedback; 2026 training day likely 3 July 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "UCL Grand Challenges x ChangeMakers student-staff projects",
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "participation_data": "15 funded projects, 35 student partners (2025-26)",
+   "legacy_ref": "Grand Challenges × ChangeMakers",
+   "named_partners": "",
+   "eligible_faculties_programmes": "Any UCL students and staff",
+   "eligibility_restrictions": "Joint student-staff application; competitive funding.",
+   "year_of_study": "",
+   "local_id": "S18",
+   "official_name": "Grand Challenges x ChangeMakers",
+   "description": "Funded (up to GBP 1,560) student-staff partnership projects of about 12 weeks addressing one of four Grand Challenges themes (Mental Health & Wellbeing, Climate Crisis, Data-Empowered Societies, Inequalities); teams must include at least two students and one staff member. In 2025-26, 15 funded projects involved 35 student partners.",
+   "academic_reach": "University-wide",
+   "admin_host": "UCL Grand Challenges / ChangeMakers",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None",
+   "duration": "~12 weeks across the year",
+   "delivery_format": "Funded student-staff project teams",
+   "project_based": "Yes",
+   "project_evidence": "Sources 1-2: ~12-week funded projects under Grand Challenge themes.",
+   "group_working": "Yes",
+   "group_evidence": "Source 1: teams of at least two students plus staff.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Partners are student-staff; no requirement for an external organisation. Only incidental external engagement (e.g. a site visit to OXCUU in one past project).",
+   "partner_type": "Other",
+   "partner_role": "Internal student-staff partnership; external involvement optional/incidental.",
+   "deliverable": "Project-specific",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Legacy row cited a 'September 2026 application call'; the September 2026 UCL page found says the next programme 'launches soon' (no open call or deadline). The 2025-26 call closed 23 Jan 2026. C is not shown: no external-organisation requirement.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ucl.ac.uk/grand-challenges/news/2025/dec/grand-challenges-x-changemakers-applications-now-open",
+     "title": "Grand Challenges x ChangeMakers: Applications Now Open",
+     "section": "News, Dec 2025",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams at least two students and one staff member; up to GBP 1,560; ~12 weeks; four themes; deadline 23 Jan 2026.",
+     "supports": [
+      "project",
+      "group",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ucl.ac.uk/research-innovation/news/2026/sep/ideas-impact-how-ucl-students-are-driving-change-through-grand-challenges-x-changemakers",
+     "title": "From ideas to impact: how UCL students are driving change through Grand Challenges x ChangeMakers",
+     "section": "News, Sep 2026",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "15 funded projects, 35 student partners in 2025-26; next programme launches soon.",
+     "supports": [
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "UCL IXN individual final-year / MSc dissertation projects (CS MSc, Santander etc.)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Industry-set but individual dissertation projects (e.g. ~15 MSc students/yr on financial-risk projects with Santander); group working not evidenced (A/C Yes, B No).",
+   "source_url": "https://www.ucl.ac.uk/engineering/computer-science/collaborate/ucl-industry-exchange-network-ucl-ixn/ucl-ixn-case-studies/santander-case-study",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Business Analytics Consulting Project/Dissertation (MSIN0114)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Real company projects but an individual (60-credit) dissertation; one student account says partner wanted three students together but separate research questions were required.",
+   "source_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/business-analytics-msc",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Management optional consultancy project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Small-group company projects run mid-May to August but optional and not for a grade; company 'of their choice'; coverage unclear (2023 blog timings).",
+   "source_url": "https://www.mgmt.ucl.ac.uk/management",
+   "status_note": "Could be revisited."
+  },
+  {
+   "name": "LAWS0030 Access to Justice and Community Engagement / iLAC casework",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Supervised individual casework for clinic clients, not a team project; Pro Bono projects (231 volunteers, 25 projects 2024/25) are volunteering with no team brief evidence.",
+   "source_url": "https://www.ucl.ac.uk/laws/study/undergraduate/modules/laws0030-access-justice-and-community-engagement",
+   "status_note": ""
+  },
+  {
+   "name": "UCL Public International Law Pro Bono Project (LLM/PhD)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Research and advice for external parties but team structure and current delivery not evidenced.",
+   "source_url": "https://www.ucl.ac.uk/laws/study/life-ucl-laws/pro-bono-opportunities",
+   "status_note": ""
+  },
+  {
+   "name": "BASC0002 Interdisciplinary Research Methods team exercise",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team research interview exercise on a Grand Challenge; no external organisation evidenced.",
+   "source_url": "https://www.ucl.ac.uk/module-catalogue/modules/interdisciplinary-research-methods/BASC0002",
+   "status_note": ""
+  },
+  {
+   "name": "ExtendED AI-Simulated Industry Challenge (Practera Nano Projects)",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "AI acts as the client; pitch to student cohort; no live external organisation.",
+   "source_url": "https://www.ucl.ac.uk/study/current-students/academic-support-and-skills/extended-learning/202526-programme/supercharge-your-career",
+   "status_note": ""
+  },
+  {
+   "name": "Civil Engineering MEng Integrated Design Project / Construction Engineering MEng industry design project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Large-group design projects 'supported by practitioners/industry experts'; no evidence of client brief or employer receiving output.",
+   "source_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/civil-engineering-meng",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Global Healthcare Management (Finance) group business project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group business case 'actionable in a real-world context' but no external organisation evidenced.",
+   "source_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/global-healthcare-management-finance-msc",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Supply Chain Management Consulting Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Programme announced to launch 2027; consulting project in partnership with industry but not yet delivered.",
+   "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/systems-engineering/study/postgraduate-taught-courses/msc-management-complex-projects",
+   "status_note": "Announced/forthcoming; URL from search result that mentioned it."
+  },
+  {
+   "name": "Hackathons (Minerva's Hack, UCL x Canva, Newham Futures Hackathon)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "One-day events; sponsor/community involvement noted but defined output for a named organisation not evidenced.",
+   "source_url": "https://www.ucl.ac.uk/ucl-east/news/2025/oct/newham-futures-hackathon-day-ideas-action-imagination",
+   "status_note": ""
+  },
+  {
+   "name": "ChangeMakers Student Societies grant; Policy Impact Unit; Venturer programme",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Funding/incubation/research-translation structures, not employer-set team projects.",
+   "source_url": "https://www.ucl.ac.uk/research-innovation/ucl-grand-challenges-grant-student-societies",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "UCL has no institution-wide employer-project requirement, but several distributed, programme-embedded routes where student teams work for external organisations. In Engineering, second-year BSc/MEng Computer Science students take COMP0016 (30 credits, 100% group-assessed), building a prototype for an external partner under the UCL Industry Exchange Network, and EEE final-year teams of 4-5 deliver company-mentored proof-of-concept projects; both are confirmed for 2025/26. The Integrated Engineering Programme's two-week How to Change the World challenge uses partner-co-created briefs and external panels, though current delivery is unconfirmed, while Scenario weeks are only occasionally employer-linked. In Business, the MSc Marketing Science 45-credit group Business Project works with external organisations (undated), and the PhD Data Intensive Science centre places 3-4 student teams on company problems. In Social Sciences and the Bartlett, the STEaPP MPA nine-month group project serves external policy clients; the Bartlett's Building a Better Future (June 2026, 83 students, teams of 5-8, briefs from AtkinsRealis, Buro Happold, councils) and the DPU Urban Economic Development London Project (2025-26 with The Fitzrovia Partnership) are confirmed current. The only University-wide routes are extracurricular: ExtendED International Industry Challenges (real overseas employer briefs, ~25 hours) and a researcher Consultancy Challenge. Grand Challenges x ChangeMakers is a student-staff partnership scheme without an external organisation requirement. Uncertain: current delivery for several undated routes and the share of industry-set projects in Scenario weeks and MECH0049.",
+ "gaps": "Further departmental instances likely (e.g. other Engineering MEng group design projects, Bartlett Architecture/Planning studios, Medical Sciences, Pharmacy, Slade, IOE, Laws, SSEES, Life Sciences) not exhaustively searched. Several routes rest on undated pages (How to Change the World, Marketing Science Business Project, STEaPP MPA group project, UDP London Project, BASC0070). No participation numbers for most routes. UCL Volunteering/researcher-student charity challenge (June) and Newham Futures/UCL East Co-Design Lab activities noted but not assessed. 41 searches used (slightly over the ~40 ceiling)."
+}
