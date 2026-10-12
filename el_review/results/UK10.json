@@ -1,0 +1,924 @@
+{
+ "inst_id": "UK10",
+ "institution": "Strathclyde",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Strathclyde Vertically Integrated Projects for Sustainable Development credit teams external partner",
+    "VIP4SD our projects partners",
+    "employability opportunities students work on projects for employers teams challenge programme",
+    "Careers Service employer challenge sponsored project brief",
+    "Exploring Entrepreneurship Challenge",
+    "Strathclyde Solutions Exchange"
+   ],
+   "key_sources": [
+    "https://www.strath.ac.uk/studywithus/verticallyintegratedprojectsforsustainabledevelopment/abouttheprogramme/",
+    "https://www.strath.ac.uk/whystrathclyde/employability/employabilityopportunities/",
+    "https://www.strath.ac.uk/workwithus/strathclydesolutionsexchange/"
+   ],
+   "finding": "Central provision is VIP4SD (credit-bearing multi-year teams, partner role unclear). Entrepreneurship challenges, Solutions Exchange and Careers employer pages tested and excluded."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Strathclyde Hunter Centre student consultancy live client",
+    "Strathclyde Business School MSc consultancy project client organisation teams",
+    "Consultancy in Practice module",
+    "MSc Business Analysis & Consulting experiential learning",
+    "Business School newsletter March 2026 BEBA",
+    "SBS student projects engage with our students",
+    "BA Business Analysis & Technology live consultancy",
+    "Marketing Works",
+    "Management Development Programme",
+    "Management Science IDeA"
+   ],
+   "key_sources": [
+    "https://www.strath.ac.uk/courses/postgraduatetaught/businessanalysisconsulting/",
+    "https://www.sbs.strath.ac.uk/newsletter/2026-03/also-in-the-news/",
+    "https://www.strath.ac.uk/business/marketing/industrylinks/",
+    "https://www.strath.ac.uk/business/undergraduate/managementdevelopmentprogramme/"
+   ],
+   "finding": "Dense client-project provision in Strathclyde Business School: BEBA (current, 2026 dated), BA Business Analysis & Technology team consultancy, Marketing Works, Consultancy in Practice, MDP (unclear); most pages undated."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Strathclyde engineering group project industry sponsor client",
+    "computer science software engineering team project external client",
+    "Product Design Engineering industry-sponsored",
+    "DMEM Industrial Group Project",
+    "MSc Civil Engineering Group Design Project",
+    "DMEM IGP Presentation Day 2025",
+    "Mechanical and Aerospace PG handbook 2025/26",
+    "MSc Systems Engineering Management"
+   ],
+   "key_sources": [
+    "https://www.strath.ac.uk/engineering/designmanufacturingengineeringmanagement/workingwithbusinessorganisations/interestedinparticipatingindmemsindustrialgroupprojects/",
+    "https://pureportal.strath.ac.uk/en/activities/dmem-industrial-group-projects-igp-presentation-day-2025/",
+    "https://www.strath.ac.uk/courses/postgraduatetaught/civilengineering/"
+   ],
+   "finding": "DMEM Industrial Group Projects (client-set briefs, team allocation, 2025 presentation day) is the principal route; MSc Civil Engineering industry-mentored group design project also qualifies (currency unclear). Computing and mechanical group projects lack external-client evidence."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "physics chemistry mathematics statistics team project industry partner client MSc",
+    "Mathematics and Statistics group project external organisation",
+    "SIPBS pharmacy biomedical student team project external organisation"
+   ],
+   "key_sources": [
+    "https://www.strath.ac.uk/science/mathematicsstatistics/smart/",
+    "https://www.strath.ac.uk/studywithus/verticallyintegratedprojectsforsustainabledevelopment/previousprojects/drugdiscovery/"
+   ],
+   "finding": "No team-based external-client route found; SMART MSc summer projects are individual. Science students participate through VIP4SD (e.g. Drug Discovery team)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Humanities Social Sciences group project external organisation client consultancy module",
+    "Architecture OR Journalism OR Politics live project community client",
+    "Psychological Sciences / Education group project partner organisation"
+   ],
+   "key_sources": [
+    "https://www.strath.ac.uk/humanities/engagewithus/consultancy/",
+    "https://www.strath.ac.uk/humanities/departmentofhumanities/journalism/"
+   ],
+   "finding": "No verified student group client-project module in HaSS; faculty consultancy is staff-led. Journalism and Politics pages show guest speakers/practice teaching only."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Strathclyde Law Clinic students teams clients",
+    "Architecture Individual & Industrial Group Projects live projects",
+    "Strathclyde Solutions Exchange"
+   ],
+   "key_sources": [
+    "https://www.strath.ac.uk/humanities/lawschool/lawclinic/",
+    "https://www.strath.ac.uk/engineering/architecture/workingwithbusinessorganisations/individualindustrialgroupprojects/"
+   ],
+   "finding": "Law Clinic serves individual members of the public (excluded). Architecture live-project scheme found but group/individual split unclear. Education, health and design partly covered only via VIP4SD."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Vertically Integrated Projects for Sustainable Development (VIP4SD)",
+   "english_name": "Vertically Integrated Projects for Sustainable Development",
+   "module_code": "",
+   "description": "Multidisciplinary, multi-year, credit-bearing research/challenge projects addressing the UN SDGs. Teams combine students from different year groups and disciplines with academics and postgraduate researchers; individual projects (e.g. Energy for Development solar PV installations, STEM education in primary schools, Drug Discovery) work with collaborators such as local schools, the NHS and partners in Malawi, Rwanda and the Gambia. Whether external organisations are a standard source of the brief for every project is not evidenced.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Centre for Sustainable Development / VIP4SD programme",
+   "eligible_faculties_programmes": "Projects across all four faculties (being introduced across all four faculties per Nov 2025 strategy); eligibility and credit values said to be listed on the programme site but not retrieved.",
+   "faculty_areas": [
+    "central",
+    "engineering_computing",
+    "science",
+    "arts_humanities_social_sciences",
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "From second year to Honours and beyond (multi-year)",
+   "eligibility_restrictions": "Students in participating degrees and project teams; credit depends on degree.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Academic credit towards degree (value not retrieved).",
+   "duration": "Multi-year participation; annual project cycles",
+   "delivery_format": "In-person project teams, vertically integrated",
+   "project_based": "Yes",
+   "project_evidence": "Research/challenge projects with defined SDG-related aims and outputs (e.g. solar PV installations, school STEM teaching) [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of students from different year groups and disciplines work collaboratively with staff and postgraduate researchers [1][2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Individual projects work with schools, NHS and overseas partners [2][3], but the source does not show external organisations setting the brief or taking part as client for each project; roles of partners (beneficiary vs client) not documented. Coverage 'some projects'.",
+   "partner_type": "Mixed",
+   "partner_role": "Collaborators/beneficiaries on individual projects (schools, NHS, overseas institutions); programme-level partners include Scottish Government, Royal Academy of Engineering, EAUC.",
+   "named_partners": "Local schools, NHS, partners in Malawi, Rwanda and the Gambia (undated programme pages)",
+   "deliverable": "Project outputs (e.g. installations, teaching interventions, research outputs)",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025",
+   "participation_data": "Approx. 200 students across 20 interdisciplinary research projects (University sustainability strategy case study, SESS30, Nov 2025 document).",
+   "unresolved": "Credit value per project, eligibility, and whether external organisations set briefs or only benefit. Participation figures are from an undated case study within a Nov 2025 document.",
+   "legacy_ref": "Vertically Integrated Projects for Sustainable Development",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/studywithus/verticallyintegratedprojectsforsustainabledevelopment/abouttheprogramme/",
+     "title": "About Vertically Integrated Projects for Sustainable Development (VIP4SD)",
+     "section": "About the programme",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students gain academic credits while working to address real-world problems through collaborative projects; teams include students from different year groups and disciplines, academics and postgraduate researchers (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.strath.ac.uk/workwithus/centreforsustainabledevelopment/researchadvising/vip4sd/",
+     "title": "VIP4SD",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Projects work with local schools, the NHS and partners in Malawi, Rwanda and the Gambia; Energy for Development project completed solar PV installations in schools and health clinics (search-index summary).",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.strath.ac.uk/media/1newwebsite/documents/Strathclyde_SESS30_Nov25_-_Digital_(2).pdf",
+     "title": "The Place of Useful Learning: Social and Environmental Sustainability Strategy",
+     "section": "VIP4SD case study",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Programme currently engages approximately 200 students working across 20 interdisciplinary research projects and is being introduced across all four University faculties (search-index summary).",
+     "supports": [
+      "reach",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S1"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "DMEM Industrial Group Projects (IGP) / Industrial Projects scheme",
+   "english_name": "Design, Manufacturing & Engineering Management Industrial Group Projects",
+   "module_code": "",
+   "description": "Team-based industrial project in which a company sets an outline brief (agreed in preliminary discussions), and a team of senior undergraduate and postgraduate taught students (single- or multi-discipline) manages the project through four stages (Brief, Definition, Conceptualisation, Realisation) to a product, system or process solution, usually with a report and sometimes prototype/CAD/data. Each team has a university mentor and a client representative; the client gives formal feedback at each milestone and attends the presentation day. Evidenced on the MSc Systems Engineering Management page as a 40-credit module with report and presentation to the client (past clients listed: Babcock, BAE Systems, Rolls-Royce, Thales, Jacobs).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Design, Manufacturing & Engineering Management (Faculty of Engineering)",
+   "eligible_faculties_programmes": "Senior undergraduate and postgraduate taught students on DMEM product design, manufacture and engineering management related degrees (e.g. MEng Manufacturing Engineering with Management, MSc Systems Engineering Management, Product Design Engineering).",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Senior undergraduate (e.g. year 4) and PGT",
+   "eligibility_restrictions": "Students on participating DMEM programmes.",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40-credit module on MSc Systems Engineering Management (course page); BEng assessment: brief and report/folio 75%, critiques 25% (per search summary). Credit values on other programmes not confirmed.",
+   "duration": "October to May; January to August",
+   "delivery_format": "In-person team projects with client liaison; presentation day in May/August",
+   "project_based": "Yes",
+   "project_evidence": "Defined client brief, four staged milestones, final report/prototype/CAD/data [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Team-based industrial project'; project allocated to a team of single- or multi-discipline students [1][2][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Company sets the brief, nominates a representative, gives formal feedback at each stage and is expected to attend the presentation day [1][2]; MSc SEM students present to the client [3].",
+   "partner_type": "Mixed",
+   "partner_role": "Client company sets brief, liaises, gives milestone feedback, attends presentation day.",
+   "named_partners": "Babcock, BAE Systems, Rolls-Royce, Thales, Jacobs (SEM course page, undated); Rolls-Royce, Unilever, Jaguar Land Rover, NHS listed as companies worked with (DMEM page); Royal Botanic Garden Edinburgh in 2021-22 catalogue",
+   "deliverable": "Report, often with prototype, CAD layouts or experimental data; client presentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2024/25 (IGP Presentation Day 9 May 2025)",
+   "participation_data": "",
+   "unresolved": "Credit values and compulsory status per programme beyond MSc SEM; no 2025/26 cohort list found (dated evidence is the May 2025 presentation day record).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/engineering/designmanufacturingengineeringmanagement/workingwithbusinessorganisations/interestedinparticipatingindmemsindustrialgroupprojects/",
+     "title": "Interested in Participating in DMEM's Individual and Industrial Group Projects?",
+     "section": "Scheme description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Once a brief has been finalised with the client company through preliminary discussions, the project is allocated to a suitable team of single-discipline or multi-discipline students; four stages with milestones; client expected to attend the presentation day in May or August; client gives formal feedback at each stage.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.strath.ac.uk/courses/undergraduate/manufacturingengineeringwithmanagementmeng/",
+     "title": "MEng Manufacturing Engineering with Management",
+     "section": "Course content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Industrial Group Project is a team-based industrial project where an outline brief is set by an industrial client; the team manages all aspects through to a finished solution; teams meet academic staff and industrial clients regularly.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.strath.ac.uk/courses/postgraduatetaught/systemsengineeringmanagement/",
+     "title": "MSc Systems Engineering Management",
+     "section": "Class content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "40-credit team project working with an industrial client on a practical problem; deliverables include project report and presentation to the client; past clients listed include Babcock, BAE Systems, Rolls-Royce, Thales and Jacobs (search-index summary).",
+     "supports": [
+      "credit",
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://pureportal.strath.ac.uk/en/activities/dmem-industrial-group-projects-igp-presentation-day-2025/",
+     "title": "DMEM Industrial Group Projects (IGP) Presentation Day 2025",
+     "section": "Activity record",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Presentation day recorded for 9 May 2025 (search-index summary).",
+     "supports": [
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S2"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Civil Engineering industry-led Group Design Project",
+   "english_name": "Industry-led Civil Engineering Group Design Project (renewable energy project)",
+   "module_code": "",
+   "description": "20-credit group design class on the MSc Civil Engineering in which students undertake a renewable energy project from concept to detailed design (structural, geotechnical, water, management, environmental and financial planning) with continuous feedback from an industry mentor. Recent mentors named on the course page: Arcadis, Ocean Winds, AtkinsRealis, Amey, Skanska; example topic: routing of transmission connection assets for an offshore wind farm.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Civil & Environmental Engineering",
+   "eligible_faculties_programmes": "MSc Civil Engineering (tied to the sustainability pathways)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Linked to the MSc Civil Engineering 'sustainability' pathways.",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "One class (semester not retrieved)",
+   "delivery_format": "Group design project with industry mentor",
+   "project_based": "Yes",
+   "project_evidence": "Group design project producing a concept-to-detailed design for a renewable energy project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Described as a Group Design Project [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry mentor gives continuous feedback; mentors named (Arcadis, Ocean Winds, AtkinsRealis, Amey, Skanska) [1]. Role is mentoring/feedback; whether the firm sets the brief is not stated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry mentors provide continuous feedback on student projects.",
+   "named_partners": "Arcadis, Ocean Winds, AtkinsRealis, Amey, Skanska (course page, undated; 'recent projects')",
+   "deliverable": "Group design report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Course page is undated and no dated 2025/26 corroboration found; whether the class is compulsory on the pathways; whether mentors also set briefs.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/courses/postgraduatetaught/civilengineering/",
+     "title": "MSc Civil Engineering Masters UK",
+     "section": "Course content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry-led Civil Engineering Group Design Project: work on real projects with continuous feedback from an industry mentor; 20-credit class on a renewable energy project; recent mentors Arcadis, Ocean Winds, AtkinsRealis, Amey, Skanska (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ],
+   "local_id": "S3"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Becoming an Effective Business Analyst (BEBA) experiential learning class, MSc Business Analysis & Consulting (and pathway variants)",
+   "english_name": "Becoming an Effective Business Analyst client-problem class",
+   "module_code": "",
+   "description": "Core experiential class running across both semesters on the Management Science MSc Business Analysis & Consulting programmes (incl. January intake, with Project Management and with AI pathways). External managers/organisations present semi-structured business problems (about three times a semester); allocated teams analyse the problem and report recommendations back to the client. March 2026 SBS newsletter lists client case studies from Deloitte, StormID, Sphera software solutions and WB Alloys.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Management Science, Strathclyde Business School",
+   "eligible_faculties_programmes": "MSc Business Analysis & Consulting and related pathways (January, with Project Management, with AI)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credit and weighting not retrieved (pages inconsistent).",
+   "duration": "Two semesters",
+   "delivery_format": "In-person client sessions, workshops, team report and presentation",
+   "project_based": "Yes",
+   "project_evidence": "Defined client problems with team report/recommendations presented to client [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Alumni accounts: 'allocated team members' and a week or two to produce a report and present back to the client [1]; assessment weighting unclear but a group report is mentioned for a pathway page.",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisations present problems/case studies, and students present solutions back to the client [1][2]; 2026 newsletter names Deloitte, StormID, Sphera, WB Alloys [3].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Clients set the problem and receive recommendations.",
+   "named_partners": "Deloitte, StormID, Sphera software solutions, WB Alloys (SBS newsletter March 2026); earlier pages cite Accenture, British Airways, RBS, NHS, Diageo (undated)",
+   "deliverable": "Team report/recommendations and client presentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (March 2026 newsletter)",
+   "participation_data": "",
+   "unresolved": "Credit value; exact team size and assessment split; the separate summer project is individual (see exclusions).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/courses/postgraduatetaught/businessanalysisconsulting/",
+     "title": "Business Analysis & Consulting",
+     "section": "Experiential learning class",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Clients, usually managers from outside organisations, bring semi-structured business problems; alumni describe being allocated team members and presenting recommendations back to the client (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.strath.ac.uk/courses/postgraduatetaught/businessanalysisconsultingwithprojectmanagement/",
+     "title": "MSc Business Analysis & Consulting with Project Management",
+     "section": "Course content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Assessment includes group report (search-index summary); work with industry partners across energy, healthcare and financial services.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sbs.strath.ac.uk/newsletter/2026-03/also-in-the-news/",
+     "title": "Also in the news - Strathclyde Business School",
+     "section": "Business Analysis and Consulting item",
+     "pub_year": "2026-03",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "The Becoming an Effective Business Analyst experiential learning module has featured client case studies from Deloitte, StormID, Sphera software solutions, WB Alloys.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S4"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "BA Business Analysis & Technology: live business consultancy projects (second year) / Business Analysis and Practice",
+   "english_name": "Undergraduate live consultancy projects for local SMEs and corporate clients",
+   "module_code": "",
+   "description": "Second-year Business Analysis & Technology module described as a research and consultancy facility: two live consultancy projects (one per semester) in which a team of six develops solutions for local SME clients; clients introduce problems, supply information and hear recommendations. The March 2026 SBS newsletter reports the 'Business Analysis and Practice' module used client cases from Barclays (scam detection) and DSTL (defence spending options).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Management Science, Strathclyde Business School",
+   "eligible_faculties_programmes": "BA Hons Business Analysis & Technology and its joint-honours variants (with Finance, Marketing, Economics, HRM, Business Enterprise, etc.)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Second year (Honours projects separate)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Two semesters (two projects)",
+   "delivery_format": "In-person client-led projects",
+   "project_based": "Yes",
+   "project_evidence": "Two live consultancy projects with solutions/recommendations presented to clients [1].",
+   "group_working": "Yes",
+   "group_evidence": "'As a team of six' develop solutions [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients introduce problems, provide information and listen to recommended solutions [1]; 2026 newsletter reports Barclays and DSTL cases in the module [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Clients (local SMEs; corporate/government clients in 2026 module) set problems and receive recommendations.",
+   "named_partners": "Barclays, DSTL (March 2026 newsletter); Honours-year past clients on course page: Scottish Power, RBS, NHS, Kwik Fit, Barclays Wealth, Glasgow City Council, Scottish Water (undated)",
+   "deliverable": "Team solutions/recommendations presented to clients",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (newsletter, module identity uncertain)",
+   "participation_data": "",
+   "unresolved": "Course page is roughly a decade old; the 2026 newsletter names the 'Business Analysis and Practice' module, which may or may not be the same second-year module, so current delivery of the exact team-of-six route is not confirmed. Honours-year projects are individual/client-based (see exclusions); Management Science 4 team projects for external clients mentioned on a related page.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/courses/undergraduate/businessanalysistechnology/",
+     "title": "BA Hons Business Analysis & Technology",
+     "section": "Second year / Honours",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Second year: two live business consultancy projects, one per semester; as a team of six, develop solutions for the local SME economy; clients introduce problems, provide information and listen to recommended solutions (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sbs.strath.ac.uk/newsletter/2026-03/also-in-the-news/",
+     "title": "Also in the news - Strathclyde Business School",
+     "section": "BA Business Analysis and Technology item",
+     "pub_year": "2026-03",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "The Business Analysis and Practice module used client cases from Barclays (scam detection and prevention strategy) and DSTL (defence spending options for the next 10 years).",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S5"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Marketing Works (live project option), MSc Marketing / International Marketing / Tourism Marketing Management",
+   "english_name": "Marketing Works group consultancy project",
+   "module_code": "",
+   "description": "Students work in groups (industry-links page: groups of five or six) as consultants on a real marketing problem put forward by a business, supervised by marketing academics. On current MSc Marketing pages it is an alternative capstone to a theory-based dissertation. Past clients listed on the industry-links page include Sgurr Energy, Smith McLaurin, Microsoft, Thales and Strathclyde Police.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Marketing, Strathclyde Business School",
+   "eligible_faculties_programmes": "MSc Marketing, MSc International Marketing, MSc Tourism Marketing Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Capstone (semester 3); credit not retrieved",
+   "duration": "Begins January; capstone period",
+   "delivery_format": "Group project with client",
+   "project_based": "Yes",
+   "project_evidence": "Real-life marketing problem with consultant-style output (e.g. marketing communication strategy) [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Groups of five or six [2]; 'students work in groups' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects 'put forward by various types of business' and clients work closely with students (data collection, strategy; client recruited a marketing assistant to implement recommendations) [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client organisations put forward projects and receive recommendations.",
+   "named_partners": "Sgurr Energy, Smith McLaurin, Microsoft, Thales, Strathclyde Police (industry-links page, undated)",
+   "deliverable": "Group consultancy report/marketing strategy",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "170 students on 33 projects in one year (department blog, around 2017; historical).",
+   "unresolved": "Older sources call it compulsory; current MSc Marketing pages present it as a choice with a dissertation. No dated 2025/26 corroboration found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/business/faculty/engagewithourstudents/studentinternships/marketingworksproject/",
+     "title": "Marketing Works project",
+     "section": "Scheme description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in groups on real-life projects put forward by various types of business, supervised by marketing academics (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.strath.ac.uk/business/marketing/industrylinks/",
+     "title": "Industry links",
+     "section": "Marketing Works",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in groups of five or six; projects begin in January; recent clients have included Sgurr Energy, Smith McLaurin, Microsoft, Thales, Strathclyde Police (search-index summary).",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.strath.ac.uk/courses/postgraduatetaught/marketing/",
+     "title": "MSc Marketing Masters UK",
+     "section": "Programme structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students choose either a theory-based marketing dissertation or a practice-based marketing-works live project (search-index summary).",
+     "supports": [
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S6"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Consultancy in Practice (MSc Project Management & Innovation; MSc International Management)",
+   "english_name": "Consultancy in Practice",
+   "module_code": "",
+   "description": "Final-class module in which students work in small teams on live issues supplied by client companies; the client briefs the problem and expected outcome, supplies more detailed input at stages, with a group activity applying techniques; students review theories/tools and apply them to the client issue.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Strathclyde Business School",
+   "eligible_faculties_programmes": "MSc Project Management & Innovation; MSc International Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "One class (final)",
+   "delivery_format": "Small-team client project",
+   "project_based": "Yes",
+   "project_evidence": "Live client issue with brief and expected outcome [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Small teams; group activity [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client companies provide the live issue, brief and further input, often in direct contact [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client company supplies live brief and input.",
+   "named_partners": "",
+   "deliverable": "Client-facing consultancy output (form not retrieved)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Undated course pages; credit, assessment, whether compulsory, and any dated cohort not found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/courses/postgraduatetaught/projectmanagementinnovation/",
+     "title": "MSc Project Management & Innovation",
+     "section": "Consultancy in Practice",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in small teams to engage with live issues provided by client companies (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.strath.ac.uk/courses/postgraduatetaught/internationalmanagement/",
+     "title": "MSc International Management",
+     "section": "Consultancy in Practice",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Analysing the client's brief on the problem and expected outcome, then group activity; client supplies more detailed input at various stages (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S7"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Management Development Programme (MDP)",
+   "english_name": "Management Development Programme",
+   "module_code": "",
+   "description": "Compulsory team-based, problem-based programme across the first three years of Strathclyde Business School undergraduate degrees. Project teams work on business problems; employers (historically Deloitte, Procter & Gamble, Screenmedia, Ernst & Young, Barclays) sponsor prizes, and the best teams present to the sponsor and its senior staff. Not evidenced that each team has an external client.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Strathclyde Business School",
+   "eligible_faculties_programmes": "Strathclyde Business School undergraduate degrees (years 1-3)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 1-3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "Modules said to be driven by real business problems, but project briefs/outputs not retrieved [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in project teams [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sponsor organisations fund prizes and selected best teams present to the organisation's senior staff [1][2]; no evidence that employers set briefs for all teams, so standard involvement unclear. Prize sponsorship alone is insufficient.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Prize sponsor and recipient of presentations from selected best teams.",
+   "named_partners": "Deloitte, Procter & Gamble, Screenmedia, Ernst & Young, Barclays (past; 2010 and 2013 newsletters)",
+   "deliverable": "Team project presentations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Current sponsors and whether MDP projects use real employer briefs; sources date from 2010-2013 and an undated page.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/business/undergraduate/managementdevelopmentprogramme/",
+     "title": "Management Development Programme",
+     "section": "Programme description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Compulsory part of the first three years; project teams, active problem-based approach; prizes for best team projects sponsored by companies such as Deloitte, Procter & Gamble, Screenmedia and Ernst & Young; best teams present to sponsoring organisations' senior staff (search-index summary).",
+     "supports": [
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sbs.strath.ac.uk/newsletter/2010-04/mdp.asp",
+     "title": "Management Development Programme prizewinners",
+     "section": "MDP 3 prize",
+     "pub_year": "2010",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Top three teams presented to staff at the Ernst & Young Glasgow office (search-index summary).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S8"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Architecture: Individual & Industrial Group Projects (live projects)",
+   "english_name": "Architecture live projects with practices, organisations and community groups",
+   "module_code": "",
+   "description": "Department of Architecture working-with-organisations scheme: a brief is agreed with a client (practice, organisation or community group), then allocated to an individual student or a multidisciplinary team; partners can attend mid-point and final reviews; a university page also reports Year 4 architecture students engaging with real private-sector clients on live design briefs. Search summary wording closely mirrors the DMEM scheme, so may blend pages.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Architecture (Faculty of Engineering)",
+   "eligible_faculties_programmes": "Architecture programmes",
+   "faculty_areas": [
+    "engineering_computing",
+    "other"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Live design briefs agreed with clients [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'Individual students or multidisciplinary groups'; routes cannot be separated from the retrieved extract [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client co-defines the brief and partners join reviews [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Practices, organisations and community groups supply briefs and join reviews.",
+   "named_partners": "",
+   "deliverable": "Design proposals",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (consultancy page on private-sector live briefs, per search summary)",
+   "participation_data": "",
+   "unresolved": "Group vs individual split, module/credit, whether it is standard across architecture years; possible blending with DMEM wording.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.strath.ac.uk/engineering/architecture/workingwithbusinessorganisations/individualindustrialgroupprojects/",
+     "title": "Individual & Industrial Group Projects",
+     "section": "Scheme description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Brief settled with the client through early discussions, then a student team assigned: individual students or multidisciplinary groups; partners can join mid-point and final reviews (search-index summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S9"
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "MSc Business Analysis & Consulting summer project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Three-month summer project for an external organisation, but the student manages the client relationship individually (individual project).",
+   "source_url": "https://www.strath.ac.uk/courses/postgraduatetaught/businessanalysisconsulting/",
+   "status_note": "Undated page; June-Sept (Aug-Nov January intake)"
+  },
+  {
+   "name": "BA Business Analysis & Technology Honours client projects",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Honours students work 'directly for a client' on business research projects (past clients Scottish Power, NHS, Glasgow City Council), but format appears individual; a Management Science 4 team module for external clients mentioned on a related page without separable detail.",
+   "source_url": "https://www.strath.ac.uk/courses/undergraduate/businessanalysistechnology/",
+   "status_note": "Undated"
+  },
+  {
+   "name": "Strathclyde Business School Student Projects / HR Management Projects / Marketing placements (organisation engagement offer)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Employer-facing offer of projects from a few days to months (class assignments or dissertations); HR route is student acting as consultant on an HR brief but no group working or underlying module evidenced; Marketing Works captured as S6.",
+   "source_url": "https://www.strath.ac.uk/business/faculty/engagewithourstudents/studentprojects/",
+   "status_note": ""
+  },
+  {
+   "name": "Management Science IDeA three-month consultancy",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Postgraduate students spend three months with organisations delivering consultancy work (dissertation-type); group working not evidenced.",
+   "source_url": "https://www.strath.ac.uk/business/managementscience/idea/howcanwehelp/",
+   "status_note": ""
+  },
+  {
+   "name": "Chemical & Process Engineering industrial placement projects",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Final-year MEng students placed with a company for 3-6 months on a defined project: individual placement.",
+   "source_url": "https://www.strath.ac.uk/engineering/chemicalprocessengineering/workingwithindustry/industryprojects/",
+   "status_note": ""
+  },
+  {
+   "name": "BSc Software Engineering / MSc Advanced Computer Science employer-sponsored final projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Companies develop individual or group final-year projects with occasional advice; MSc summer research projects come from employers but are individual; group/individual routes cannot be separated. MEng Computer Science group project (teams of 3-4) has no external client evidenced.",
+   "source_url": "https://www.strath.ac.uk/courses/undergraduate/softwareengineering/",
+   "status_note": ""
+  },
+  {
+   "name": "Mechanical & Aerospace Engineering MEng/MSc group projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "PGT handbook 2025/26 refers to group projects tackling industry and societal challenges; no evidence retrieved that external clients set briefs.",
+   "source_url": "https://www.strath.ac.uk/media/departments/mechanicalengineering/handbooks/pg/FINAL_PGT_Handbook_2526.pdf",
+   "status_note": "2025/26 handbook"
+  },
+  {
+   "name": "Mathematics & Statistics SMART MSc summer projects",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Financial-sector firms co-supervise MSc Actuarial Science / Quantitative Finance summer projects; individual dissertations.",
+   "source_url": "https://www.strath.ac.uk/science/mathematicsstatistics/smart/",
+   "status_note": ""
+  },
+  {
+   "name": "Strathclyde Law Clinic",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Students work in pairs under supervision on casework for members of the public (individuals), not external organisations; project-based clinics (e.g. Scottish Women's Rights Centre) mentioned but not assessed. Typed as service-learning/clinical.",
+   "source_url": "https://www.strath.ac.uk/humanities/lawschool/lawclinic/",
+   "status_note": ""
+  },
+  {
+   "name": "Exploring Entrepreneurship Challenge",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Student teams develop their own ventures with Strathclyde Inspire mentors; no external organisation sets a brief.",
+   "source_url": "https://www.strath.ac.uk/whystrathclyde/employability/employabilityopportunities/exploringentrepreneurshipchallenge/",
+   "status_note": ""
+  },
+  {
+   "name": "Innovation Challenge",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Grant of up to GBP 5,000 for students developing own product idea.",
+   "source_url": "https://www.strath.ac.uk/whystrathclyde/employability/employabilityopportunities/innovationchallege/",
+   "status_note": ""
+  },
+  {
+   "name": "Strathclyde Solutions Exchange",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Five-day workshop aimed at researchers working with students/staff on problems from industry, charities and SMEs; researcher-focused, student participation and curricular status not evidenced.",
+   "source_url": "https://www.strath.ac.uk/workwithus/strathclydesolutionsexchange/",
+   "status_note": ""
+  },
+  {
+   "name": "Careers Service employer projects/engagement",
+   "legacy": false,
+   "category": "Careers service",
+   "reason": "Employer engagement page lists guest lectures and offering projects but no defined student project scheme.",
+   "source_url": "https://www.strath.ac.uk/professionalservices/careers/employers/",
+   "status_note": ""
+  },
+  {
+   "name": "Faculty of Humanities & Social Sciences consultancy",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Staff consultancy (Save the Children, UNICEF Albania, British Council); no student project route evidenced.",
+   "source_url": "https://www.strath.ac.uk/humanities/engagewithus/consultancy/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Strathclyde has several distributed, programme-embedded client-project routes, concentrated in Engineering and the Business School, plus a university-wide VIP4SD framework whose partner role is unclear.**\n\nThe clearest route is the Design, Manufacturing & Engineering Management (DMEM) Industrial Group Projects: companies set outline briefs, teams of senior undergraduate and postgraduate taught students work through four client-reviewed stages to a report or prototype, and the client attends the May/August presentation day (a 9 May 2025 presentation day is recorded). It is a compulsory element within DMEM programmes (40 credits on MSc Systems Engineering Management). The MSc Civil Engineering group design project (20 credits) adds industry mentors such as Arcadis and Skanska but lacks dated currency evidence.\n\nIn Strathclyde Business School, the MSc Business Analysis & Consulting class (Becoming an Effective Business Analyst) has allocated teams solving client problems; a March 2026 newsletter names Deloitte, StormID, Sphera and WB Alloys. Team consultancy modules also appear in BA Business Analysis & Technology, Marketing Works (an option on MSc Marketing) and Consultancy in Practice, but are evidenced only by undated pages.\n\nVIP4SD gives credit-bearing multi-year teams across faculties (about 200 students, 20 projects), but external partners appear as collaborators on some projects rather than documented clients. Entrepreneurship challenges, the Law Clinic (individual public clients), summer consultancy projects and Careers pages were excluded. Further departmental capstones (computing, mechanical, Honours projects) likely exist but lack separable evidence.",
+ "gaps": "Most Business School and Civil Engineering pages are undated (some roughly a decade old), so current delivery is unconfirmed for S3, S5-S9. Credit values, compulsory status and assessment splits are missing for several routes. Further departmental instances likely (Honours client projects, Management Science 4, computing/mechanical group projects, Education, Product Design). VIP4SD partner roles and eligibility/credit not retrieved. Architecture scheme wording may blend with DMEM wording."
+}
