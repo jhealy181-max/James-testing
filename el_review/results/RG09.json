@@ -1,0 +1,1100 @@
+{
+ "inst_id": "RG09",
+ "institution": "Imperial College London",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Imperial College London student consultancy live client project team",
+    "Imperial Enterprise Lab students corporate challenge team project company brief",
+    "Imperial careers service employer-set challenge students teams project",
+    "Imperial Global Sustainability Challenge Stanford interdisciplinary teams",
+    "Imperial College Union consulting society student-run consultancy",
+    "I-Explore Imperial interdisciplinary module group project external organisation",
+    "Imperial Horizons Global Challenges / Global Village Innovation Challenge"
+   ],
+   "key_sources": [
+    "https://www.imperial.ac.uk/careers/jobs-and-experience/competitions-and-awards/",
+    "https://www.imperial.ac.uk/horizons/module-options/year-2-undergraduates/innovation-challenge/",
+    "https://www.imperialcollegeunion.org/activities/a-to-z/consultancy"
+   ],
+   "finding": "No central university-wide employer project scheme verified; I-Explore/Horizons modules and Enterprise Lab challenges lack documented external-organisation participation. Careers competitions are employer-run extracurricular leads not verified as project-based groups."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Imperial College Business School MSc consulting project client organisation team",
+    "Imperial Business School MSc Group Consulting Projects June July 2026",
+    "Imperial MSc Business Analytics AI consulting project client organisation",
+    "Imperial MBA Business Projects Perspectives on Practice",
+    "Imperial MSc Climate Change Management and Finance project client",
+    "Imperial MSc Management Strategic Marketing consulting project ECTS",
+    "Imperial Business School consulting projects 87 companies AlixPartners"
+   ],
+   "key_sources": [
+    "https://www.imperial.ac.uk/business-school/news/work-imperial-msc-students-solve-real-business-challenges/",
+    "https://www.imperial.ac.uk/business-school/corporate-relations/recruit-new-talent/partner-our-students/",
+    "https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/icbs/25x2f26/N501T-MSc-Strategic-Marketing-2025-26.pdf",
+    "https://www.imperial.ac.uk/business-school/programmes/msc-business-analytics/programme/project/",
+    "https://www.imperial.ac.uk/business-school/masters/management/"
+   ],
+   "finding": "Strong, programme-embedded provision: cross-MSc Group Consulting Projects (5-7 students, company briefs, June-July 2026) with Strategic Marketing, Business Analytics & AI, Management, Economics & Strategy and Climate Change programme variants. MBA route is individual."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Imperial Dyson School of Design Engineering industry partner group project",
+    "Imperial Computing Group Software Engineering Project industry clients",
+    "Imperial chemical engineering design project / Civil engineering group project client",
+    "Imperial Mechanical Engineering industry-sponsored group project",
+    "Imperial Electrical Engineering 3rd year group project proposed by industry",
+    "Imperial Civil Engineering Third Year group design project industry supervisor",
+    "Imperial Transport with Data Science Group Design Project World Bank",
+    "Imperial Innovation Design Engineering MSc industry partner",
+    "Dyson School MEng project-based modules industry",
+    "Imperial Aeronautics Materials Earth Science group project industrial sponsor"
+   ],
+   "key_sources": [
+    "https://www.imperial.ac.uk/electrical-engineering/study/current-students-course-handbook/projects/",
+    "https://www.imperial.ac.uk/engineering/departments/computing/current-students/courses/60021/",
+    "https://www.imperial.ac.uk/civil-engineering/prospective-students/undergraduate-admissions/individual-and-group-projects/",
+    "https://www.imperial.ac.uk/study/courses/postgraduate-taught/transport-data-science/"
+   ],
+   "finding": "Industry-proposed team projects exist in EEE (all projects industry-proposed, 5-7 students) and Computing (many industry-proposed; customer feedback), Civil (industry supervision sought) and Transport MSc; current-year evidence thin outside Computing. Other departments (Mech, Aero, Chem, Design Eng) not shown to have external-client group projects."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Imperial Department of Mathematics industry project students team company MSc statistics",
+    "Imperial Physics OR Chemistry OR Life Sciences group project industry partner",
+    "MSc Environmental Technology Imperial group project genuine client Hounslow Borough Council"
+   ],
+   "key_sources": [
+    "https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/cep/25x2f26/J9UF-MSc-Environmental_Technology-2025-26.pdf",
+    "https://www.imperial.ac.uk/natural-sciences/departments/mathematics/postgraduate/msc/statistics/prospective/"
+   ],
+   "finding": "Environmental Technology (EAM) Hounslow Heath client project qualifies; Statistics/Math Finance projects are individual; no Physics/Chemistry/Life Sciences client group project found."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Imperial Centre for Environmental Policy MSc group consultancy project external client",
+    "Imperial Horizons module options year 2 3 team project real client"
+   ],
+   "key_sources": [
+    "https://www.imperial.ac.uk/horizons/module-options/year-2-undergraduates/"
+   ],
+   "finding": "Imperial has little arts/social-science provision outside the Business School and Environmental Policy (counted under science); Humanities Project is independent; no employer-linked group route found."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Imperial Faculty of Medicine School of Public Health MSc group project external organisation client NHS"
+   ],
+   "key_sources": [
+    "https://www.imperial.ac.uk/study/pg/medicine/public-health-masters/"
+   ],
+   "finding": "Medicine/public health projects found are individual dissertations; Law/architecture not applicable. Faculty of Medicine group projects and Brain/Bioengineering degree projects not exhaustively searched."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Imperial Business School MSc Group Consulting Projects",
+   "english_name": "MSc Group Consulting Projects (cross-MSc client scheme)",
+   "module_code": "",
+   "description": "Business School scheme in which organisations submit real business briefs; a team of 5-7 MSc students (drawn from seven MSc programmes including Management, Strategic Marketing, Business Analytics and Global Health Management) bids for and works on the brief for four to five weeks in June-July, delivering evidence-based recommendations presented to a panel of academics and company representatives. Free to the organisation.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Imperial College Business School (Corporate Relations / Employer Relations)",
+   "eligible_faculties_programmes": "Seven Business School MSc programmes (Management, Strategic Marketing, Business Analytics, Global Health Management named)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc, summer term",
+   "eligibility_restrictions": "Students of participating Business School MSc programmes only.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credit varies by programme (e.g. 10 ECTS for Strategic Marketing Consulting Project); assessed within the programme capstone.",
+   "duration": "4-5 weeks (June-July)",
+   "delivery_format": "Team consulting project for a live client; in-person, remote or hybrid",
+   "project_based": "Yes",
+   "project_evidence": "Real business challenge supplied by organisation; recommendations delivered (src 1, 3).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of five to seven MSc students (src 2, 3).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies submit briefs, work with the team, and company representatives sit on the final presentation panel (src 1); 87 companies partnered in a previous summer (src 4).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies brief/live problem; receives and hears recommendations; panel participation.",
+   "named_partners": "AlixPartners (one of 87 companies in a previous summer; year not shown on page extract, src 4).",
+   "deliverable": "Evidence-based recommendations / consulting report and presentation to client panel",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "87 companies partnered (unit: companies; previous summer, year not stated on the extract; src 4).",
+   "unresolved": "Page extracts are search summaries (no verbatim quote); the 2026 call is an announcement of June-July 2026 delivery rather than a cohort report. Student numbers not published. Umbrella: children counted instead.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/business-school/news/work-imperial-msc-students-solve-real-business-challenges/",
+     "title": "Work with Imperial MSc students to solve real business challenges",
+     "section": "Call for client briefs (2026)",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MSc Group Consulting Projects run June to July 2026; organisations partner with a dedicated team of MSc students for four to five weeks, free of charge; submissions reviewed and matched to an MSc programme, students bid; at the end students present final recommendations to a panel of academic assessors and company representatives (search-index summary; verbatim page quote not returned).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/business-school/news/partner-imperials-msc-talent/",
+     "title": "Partner with Imperial's MSc talent",
+     "section": "Call for client briefs (2025)",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Companies work with a dedicated team of five to seven MSc students for four to five weeks (June-July 2025); projects in-person, remote or hybrid.",
+     "supports": [
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.imperial.ac.uk/business-school/corporate-relations/recruit-new-talent/partner-our-students/",
+     "title": "Partner with our students",
+     "section": "Consulting Project course / Perspectives on Practice",
+     "pub_year": "undated (refers to Summer 2025)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Designed to give MSc students an opportunity to work on a small real-life consulting project in groups of 5 to 7 students; Perspectives on Practice (MBA) is individual and self-directed.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.imperial.ac.uk/business-school/alumni/alumni-careers/",
+     "title": "Alumni careers",
+     "section": "Employer engagement item",
+     "pub_year": "undated ('last summer')",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Global consulting firm AlixPartners were one of 87 companies who partnered with Imperial Business School for our Consulting Projects, presenting students with a real-world business challenge.",
+     "supports": [
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "Strategic Marketing Consulting Project",
+   "english_name": "MSc Strategic Marketing Consulting Project",
+   "module_code": "BUSI70292",
+   "description": "MSc Strategic Marketing students may choose, in the summer term, a Strategic Marketing Consulting Project (alternative to Case Study or Work Placement), working with a corporate sponsor/client in a team over about six weeks (past cohort).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Imperial College Business School",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc (summer term/summer period)",
+   "eligibility_restrictions": "Students on the named MSc programme; allocation by bidding and academic panel.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "delivery_format": "Group consulting project for a client organisation; in-person, remote or hybrid",
+   "project_based": "Yes",
+   "group_working": "Yes",
+   "employer_connected": "Yes",
+   "partner_type": "Business/commercial",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/icbs/25x2f26/N501T-MSc-Strategic-Marketing-2025-26.pdf",
+     "title": "MSc Strategic Marketing 2025-26 Programme Specification",
+     "section": "Summer term electives",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Strategic Marketing Consulting Project (BUSI70292) is a 10-ECTS elective in the Summer term, Elective group C; students choose a Consulting Project, a Case Study or a Work Placement in the summer period.",
+     "supports": [
+      "project",
+      "credit",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/business-school/news/work-imperial-msc-students-solve-real-business-challenges/",
+     "title": "Work with Imperial MSc students to solve real business challenges",
+     "section": "Call for client briefs (2026)",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Projects drawn from seven MSc programmes incl. Strategic Marketing; team projects June-July 2026 (search-summary).",
+     "supports": [
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.imperial.ac.uk/business-school/blogs/features/applying-learnings-msc-strategic-marketing-live-client-project/",
+     "title": "Applying learnings from MSc Strategic Marketing to a live client project",
+     "section": "Student blog",
+     "pub_year": "undated (past cohort)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In a past MSc Strategic Marketing cohort, students worked on consulting projects for six weeks, working closely with the client from their assigned company (search-summary).",
+     "supports": [
+      "project",
+      "employer",
+      "duration"
+     ]
+    }
+   ],
+   "eligible_faculties_programmes": "MSc Strategic Marketing (12-month route)",
+   "credit_assessment": "10 ECTS elective (Elective group C), Summer term",
+   "duration": "June-July (past cohort: six weeks)",
+   "unresolved": "Group format for this programme relies on the umbrella scheme page naming Strategic Marketing among participating MSc programmes (src 1 of S1 repeated as src 2); 2025-26 delivery shown by spec listing and 2026 call, not by a cohort report.",
+   "project_evidence": "Module BUSI70292 listed in 2025-26 spec (src 1); client project (src 3).",
+   "group_evidence": "Umbrella scheme: teams of 5-7 across participating MSc programmes incl. Strategic Marketing (src 2).",
+   "employer_evidence": "Students work closely with the client from an assigned company (src 3); company panel hears final recommendations (src 2).",
+   "partner_role": "Corporate sponsor supplies brief and works with team; company representatives on final panel.",
+   "named_partners": "",
+   "deliverable": "Consulting recommendations/report and presentation",
+   "duration_band": "1-4 weeks",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026"
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "MSc Business Analytics & AI Consulting Project (capstone option)",
+   "english_name": "MSc Business Analytics & AI consulting project",
+   "module_code": "",
+   "description": "In the summer-term capstone, MSc Business Analytics & AI students choose either a Work Placement or a Consulting Project, described as a substantial group-based project undertaken for a real client, managed from inception to completion.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Imperial College Business School",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc (summer term/summer period)",
+   "eligibility_restrictions": "Students on the named MSc programme; allocation by bidding and academic panel.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "delivery_format": "Group consulting project for a client organisation; in-person, remote or hybrid",
+   "project_based": "Yes",
+   "group_working": "Yes",
+   "employer_connected": "Yes",
+   "partner_type": "Business/commercial",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/business-school/programmes/msc-business-analytics/programme/project/",
+     "title": "MSc Business Analytics & AI - Project",
+     "section": "Projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The capstone runs over the summer term; students choose either a Consulting Project or a Work Placement. The Consulting Project is a substantial group-based project undertaken for a real client; collaborating organisations include Agilisys, Burberry, Expedia, Johnson and Johnson, PropertyScape, Trench Capital and 55 UK (search-summary of programme page; see also https://www.imperial.ac.uk/business-school/masters/business-analytics/).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/business-school/news/work-imperial-msc-students-solve-real-business-challenges/",
+     "title": "Work with Imperial MSc students to solve real business challenges",
+     "section": "Call for client briefs (2026)",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Business Analytics among seven MSc programmes taking June-July 2026 group consulting projects.",
+     "supports": [
+      "status",
+      "group"
+     ]
+    }
+   ],
+   "eligible_faculties_programmes": "MSc Business Analytics & AI (campus); online variant has its own spec",
+   "credit_assessment": "Capstone; credit not extracted",
+   "duration": "Summer term (June-July)",
+   "unresolved": "Credit weighting and module code not extracted; client list on page not year-specific; no cohort size.",
+   "project_evidence": "Consulting Project is a substantial group-based project for a real client (src 1).",
+   "group_evidence": "'group-based project' (src 1); teams 5-7 (S1 src 2).",
+   "employer_evidence": "Real client; organisations that have collaborated include Agilisys, Burberry, Expedia, Johnson and Johnson, PropertyScape, Trench Capital, 55 UK (src 1, no year).",
+   "partner_role": "Real client supplies brief; receives recommendations.",
+   "named_partners": "Agilisys, Burberry, Expedia, Johnson and Johnson, PropertyScape, Trench Capital, 55 UK (programme page, year not stated).",
+   "deliverable": "Consulting project report/recommendations",
+   "duration_band": "1-4 weeks",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026"
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "MSc Management Consulting Project",
+   "english_name": "MSc in Management (MiM) consulting project",
+   "module_code": "",
+   "description": "MiM students undertake a consulting project (July-August on the programme page) as a substantial group-based project for an actual client; past cohort worked with global companies (e.g. Lamborghini, Capco per older blog).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Imperial College Business School",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc (summer term/summer period)",
+   "eligibility_restrictions": "Students on the named MSc programme; allocation by bidding and academic panel.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "delivery_format": "Group consulting project for a client organisation; in-person, remote or hybrid",
+   "project_based": "Yes",
+   "group_working": "Yes",
+   "employer_connected": "Yes",
+   "partner_type": "Business/commercial",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/business-school/masters/management/",
+     "title": "MSc in Management (MiM)",
+     "section": "Consulting project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The MiM consulting project is a substantial group-based project undertaken for an actual client (search-summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/business-school/blogs/features/gaining-real-consulting-experience-global-companies-msc-management/",
+     "title": "Gaining real consulting experience with global companies on MSc Management",
+     "section": "Student blog",
+     "pub_year": "undated (several years old)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students apply programme learning to a live client project; past clients include Lamborghini and Capco (search-summary).",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.imperial.ac.uk/business-school/news/work-imperial-msc-students-solve-real-business-challenges/",
+     "title": "Work with Imperial MSc students to solve real business challenges",
+     "section": "Call for client briefs (2026)",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Management among seven MSc programmes in June-July 2026 consulting projects.",
+     "supports": [
+      "status"
+     ]
+    }
+   ],
+   "eligible_faculties_programmes": "MSc Management (MiM)",
+   "credit_assessment": "Credit not extracted",
+   "duration": "July-August (programme page); older cohort three weeks",
+   "unresolved": "Credit and module code not extracted; named clients are from an older blog; whether consulting project is compulsory or one of capstone options for MiM not confirmed.",
+   "project_evidence": "Consulting project for an actual client (src 1).",
+   "group_evidence": "Group-based (src 1); teams of 5-7 (S1 src 2).",
+   "employer_evidence": "Actual client (src 1); past clients include Lamborghini and Capco (src 2, several years old).",
+   "partner_role": "Client supplies brief and receives recommendations.",
+   "named_partners": "Lamborghini, Capco (past cohort, blog undated/several years old)",
+   "deliverable": "Consulting recommendations",
+   "duration_band": "1-4 weeks",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026"
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "Consulting Project (MSc Economics & Strategy for Business)",
+   "english_name": "MSc Economics & Strategy for Business Consulting Project",
+   "module_code": "",
+   "description": "A substantial group-based consulting project for a real client, June-July, within the MSc Economics & Strategy for Business.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Imperial College Business School",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc (summer term/summer period)",
+   "eligibility_restrictions": "Students on the named MSc programme; allocation by bidding and academic panel.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "delivery_format": "Group consulting project for a client organisation; in-person, remote or hybrid",
+   "project_based": "Yes",
+   "group_working": "Yes",
+   "employer_connected": "Yes",
+   "partner_type": "Business/commercial",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/business-school/masters/economics-strategy-business/",
+     "title": "MSc Economics & Strategy for Business",
+     "section": "Consulting Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The Consulting Project runs in June-July. It is a substantial group-based project for a real client (search-summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ],
+   "eligible_faculties_programmes": "MSc Economics & Strategy for Business",
+   "credit_assessment": "Not extracted (2025-26 spec L100T exists)",
+   "duration": "June-July",
+   "unresolved": "Current delivery for this programme not tied to a dated cohort source; whether compulsory not extracted; credit unknown.",
+   "project_evidence": "Substantial group-based project for a real client (src 1).",
+   "group_evidence": "Group-based (src 1).",
+   "employer_evidence": "Real client (src 1); no named clients.",
+   "partner_role": "Client supplies brief.",
+   "named_partners": "",
+   "deliverable": "Consulting project report",
+   "duration_band": "1-4 weeks",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025/26 (programme spec exists; project delivery undated)"
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "Consulting Project (MSc Climate Change, Management & Finance)",
+   "english_name": "MSc Climate Change, Management & Finance consulting project",
+   "module_code": "",
+   "description": "Summer-term option: a client-based consulting project delivered for a real client by a team, as alternative to a work placement; example: decarbonisation strategy for a global food company.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Imperial College Business School",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc (summer term/summer period)",
+   "eligibility_restrictions": "Students on the named MSc programme; allocation by bidding and academic panel.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "delivery_format": "Group consulting project for a client organisation; in-person, remote or hybrid",
+   "project_based": "Yes",
+   "group_working": "Yes",
+   "employer_connected": "Yes",
+   "partner_type": "Business/commercial",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/business-school/masters/climate-change-management-finance/",
+     "title": "MSc Climate Change, Management & Finance",
+     "section": "Consulting project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The consulting project will be delivered for a real client; students combine programme material with a specific problem as part of a team; alternative to a work placement (search-summary). 2025-26 programme spec: https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/icbs/25x2f26/N304-MSc-Climate-Change-Management-and-Finance-2025-26.pdf",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "eligible_faculties_programmes": "MSc Climate Change, Management & Finance",
+   "credit_assessment": "Not extracted",
+   "duration": "Summer term/vacation",
+   "unresolved": "Credit, module code and current-year cohort not evidenced; team size and client list not found; page undated.",
+   "project_evidence": "Consulting project delivered for a real client (src 1).",
+   "group_evidence": "Students combine programme material with a specific problem 'as part of a team' (src 1).",
+   "employer_evidence": "Real client; partner companies (student blog example) (src 1).",
+   "partner_role": "Client supplies problem.",
+   "named_partners": "Unnamed global food company (student blog example)",
+   "deliverable": "Consulting project output (e.g. decarbonisation strategy)",
+   "duration_band": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025/26 (programme spec only)"
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Third-year MEng Group Project (Electrical and Electronic Engineering)",
+   "english_name": "EEE 3rd-year industry-proposed group project",
+   "module_code": "",
+   "description": "Third-year MEng EEE students who do not take an industrial placement undertake a summer-term group project (about April-June). All projects are proposed by industry and addressed by groups of 5-7 students; each group has an industrial and an academic supervisor who guide and assess; work done at Imperial.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Electrical and Electronic Engineering",
+   "eligible_faculties_programmes": "MEng EEE / Electronic and Information Engineering / EEE with Management (third-year students not on placement)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3 (MEng)",
+   "eligibility_restrictions": "MEng students who choose not to undertake an industrial placement.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Part of third-year MEng; credit not extracted",
+   "duration": "Summer term (about April-June); 2024-25 spec: 3 month",
+   "delivery_format": "On-campus team project supervised by industry + academic",
+   "project_based": "Yes",
+   "project_evidence": "Projects proposed by industry, design/prototype (src 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of 5 to 7 students (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "All projects proposed by industry; supervised by industry; industrial supervisor guides and assesses outcomes (src 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Proposes project, industrial supervisor, assessment input.",
+   "named_partners": "",
+   "deliverable": "Design/prototype and report (not specified in extract)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Handbook page undated; 2025-26 specification extract refers only generally to design projects (team of 6-8) so 2025/26 delivery of this option not corroborated; 2024-25 spec describes the 3 month industry-proposed group project option. Credit not extracted.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/electrical-engineering/study/current-students-course-handbook/projects/",
+     "title": "Projects (EEE course handbook)",
+     "section": "Third year group project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "The 3rd year group project is undertaken by those students in the 3rd Year of the MEng who choose not to undertake an Industrial Placement. All projects are proposed by industry and are addressed by groups of 5 to 7 students. They are supervised by industry but the project is undertaken at Imperial. Each group will be allocated an industrial and an academic supervisor, who will provide guidance and assess the outcomes.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/eee/24x2f25/H601-MEng-Electrical-and-Electronic-Engineering-YA-2024-25.pdf",
+     "title": "Programme Specification 2024-25 MEng EEE",
+     "section": "Year 3 options",
+     "pub_year": "2024-25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Describes the option as a 3 month group project proposed by one of our industrial partners (search-summary).",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Year 3 Software Engineering Group Project",
+   "english_name": "Third-year Software Engineering Group Project",
+   "module_code": "COMP60021",
+   "description": "Teams build software for a customer in four two-week iterations over a term, agreeing requirements with the customer each iteration, with consultations from an industrial software engineer; many (not all) projects are proposed by industry collaborators.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computing",
+   "eligible_faculties_programmes": "Computing MEng/BEng and joint degrees (Year 3); MSc students also take software engineering group project",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "Computing programmes where listed as elective.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 ECTS elective, Spring term (2025-26 MEng/BEng specs); marked by assessors with customer input and peer assessment",
+   "duration": "One term (Spring), four two-week iterations",
+   "delivery_format": "Team software project with customer",
+   "project_based": "Yes",
+   "project_evidence": "Team develops and manages a relatively large-scale software project for a customer (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Team project; projects suitable for 4-6 students; peer assessment (src 1, 2).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Many of the group projects are proposed by industry collaborators; industrial partner commits two or three meetings and ad hoc email support; customer gives oral feedback and input to marking (src 1, 2). Not stated that all projects have external customers.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Proposes project; acts as customer; feedback/input to assessment.",
+   "named_partners": "",
+   "deliverable": "Working software, report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Share of projects with external industrial customers (vs internal) not stated, so C is Unclear; 'many' proposed by industry only.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/engineering/departments/computing/current-students/courses/60021/",
+     "title": "60021 Year 3 Software Engineering Group Project",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams build software for a customer in four two-week iterations; teams agree requirements with the customer each iteration; marking draws on assessors with input from the project customer; peer assessment.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/engineering/departments/computing/industry/projects/",
+     "title": "Projects x Industry",
+     "section": "Industry projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Many of the group projects are proposed by our industry collaborators; typical commitment from an industrial partner involves two or three meetings, and ad hoc email support; group projects suitable for 4 to 6 students.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.imperial.ac.uk/computing/current-students/computing/comp-third-meng/",
+     "title": "Computing Third Year (MEng)",
+     "section": "Year 3 modules",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2025-26 MEng/BEng specifications list COMP60021 as an elective, Spring term, 10 credits.",
+     "supports": [
+      "credit",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Third Year Group Design Project (Civil and Environmental Engineering)",
+   "english_name": "Civil Engineering Third Year Group Design Project",
+   "module_code": "Civil Engineering Design 3",
+   "description": "Intensive group design activity after summer-term exams in which Year 3 students work in teams on 'real' multi-faceted civil engineering projects; industry supervision sought via department industry links.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Civil and Environmental Engineering",
+   "eligible_faculties_programmes": "MEng Civil Engineering Year 3",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Core module Civil Engineering Design 3 (credit not extracted)",
+   "duration": "Four weeks (department page); another page states 5.5 weeks",
+   "delivery_format": "Team design project with presentation and poster session",
+   "project_based": "Yes",
+   "project_evidence": "Engage students in 'real' multi-faceted Civil Engineering projects (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Develop team working skills; students work in teams (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Course page says module involves industrial partnering; department seeks industry supervisors for Year 3 Group Design Projects (src 2). No evidence that external organisations set briefs or assess every group.",
+   "partner_type": "Unclear",
+   "partner_role": "Industry supervision sought; exact role not evidenced.",
+   "named_partners": "",
+   "deliverable": "Design report, presentation and poster",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Industry role, share of projects with external supervisors/clients, current-year delivery, credit, and whether compulsory are unconfirmed; duration discrepancy 4 vs 5.5 weeks.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/civil-engineering/prospective-students/undergraduate-admissions/individual-and-group-projects/",
+     "title": "Individual and group projects",
+     "section": "Group Design Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "The Third Year Group design project is an intensive four-week activity held after the students examinations in the Summer Term. The purpose of the project is to engage the students in 'real' multi-faceted Civil Engineering projects and to develop their team working skills.",
+     "supports": [
+      "project",
+      "group",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/civil-engineering/about-us/industry-and-outreach/ways-to-get-involved/",
+     "title": "Ways to get involved",
+     "section": "Industry",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "If you are interested in supervising a project at Undergraduate level, please contact: Year 3. Group Design Projects. (search-summary; Civil Engineering MEng course page lists Civil Engineering Design 3 as involving industrial partnering).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Design Project (MSc Transport / Transport with Data Science)",
+   "english_name": "MSc Transport Group Design Project",
+   "module_code": "",
+   "description": "Four-week full-time summer group design project in which teams work with clients to develop briefs into a feasibility and outline design study of a transport engineering problem; MSc Transport with Data Science students also have a partner project with World Bank project teams.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Civil and Environmental Engineering",
+   "eligible_faculties_programmes": "MSc Transport; MSc Transport with Data Science",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc, summer",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not extracted",
+   "duration": "Four weeks full-time",
+   "delivery_format": "Team design project",
+   "project_based": "Yes",
+   "project_evidence": "Feasibility and outline design study from client briefs (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Work in teams on a significant piece of transport engineering design (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Teams work with clients; page cites industrial partnership on projects; separate World Bank partner project (src 1, 2). Identity/external status of clients for the Group Design Project not evidenced.",
+   "partner_type": "Unclear",
+   "partner_role": "Clients develop briefs with students; World Bank teams on partner project (group status not shown).",
+   "named_partners": "World Bank (partner project, Transport with Data Science; year not stated)",
+   "deliverable": "Feasibility and outline design study",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Who the 'clients' are (external vs staff), 2025/26 delivery for Transport with Data Science (2024-25 spec seen; 2025-26 Transport spec exists), credit.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/transport-data-science/",
+     "title": "Transport with Data Science MSc",
+     "section": "Group Design Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "This module, delivered over 4 weeks full-time, provides you with an opportunity to work in teams on a significant piece of transport engineering design. You will work with clients to develop the briefs into projects.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/civil/24x2f25/H2B5-MSc-Transport-with-Data-Science-2024-25.pdf",
+     "title": "MSc Transport with Data Science programme specification",
+     "section": "Summer period",
+     "pub_year": "2024-25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group Design Project and Research Project in summer period (search-summary).",
+     "supports": [
+      "status",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Hounslow Heath Project (MSc Environmental Technology: Environmental Assessment and Management option)",
+   "english_name": "Hounslow Heath contaminated-land group project for Hounslow Borough Council",
+   "module_code": "",
+   "description": "Group case-study project on contaminated land/water near Heathrow run for Hounslow Borough Council; assessed by a group technical report to a real client, team presentations to the client on completion, and an individual interview. Undertaken in collaboration with the Integrated Water Management option.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Centre for Environmental Policy (Faculty of Natural Sciences)",
+   "eligible_faculties_programmes": "MSc Environmental Technology, Environmental Assessment and Management (EAM) option (IWM students collaborate)",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "Students on EAM option (and IWM collaboration).",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Group technical report to client + individual interview (weighting not extracted)",
+   "duration": "Part of option coursework (length not extracted)",
+   "delivery_format": "Team project with client presentation",
+   "project_based": "Yes",
+   "project_evidence": "Group technical report to a real client on contaminated land (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Group technical report and team presentations to the client (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project is run for Hounslow Borough Council; team presentations are made to the client on completion; a group technical report to a real client (src 1, 2).",
+   "partner_type": "Public sector",
+   "partner_role": "Real client: receives team presentations and report; collaboration in project.",
+   "named_partners": "Hounslow Borough Council (2025-26 spec)",
+   "deliverable": "Group technical report and client presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Duration/credit weighting not extracted; programme renamed MSc Sustainability, Environmental Policy and Innovation from 2027 so arrangements may change; Integrated Water Management's own case study is simulated (not counted).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/cep/25x2f26/J9UF-MSc-Environmental_Technology-2025-26.pdf",
+     "title": "MSc Environmental Technology programme specification 2025-26",
+     "section": "EAM option assessment",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The Hounslow Heath project is run for Hounslow Borough Council, and team presentations are made to the client on completion; EAM assessment lists a group technical report to a real client based on the Hounslow Heath Project and an individual interview (search-summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.imperial.ac.uk/natural-sciences/departments/environmental-policy/study/msc-environmental-technology/choosing-an-option/environmental-assessment-and-management-eam/",
+     "title": "Environmental Assessment and Management (EAM)",
+     "section": "Option page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Hounslow Heath coursework is a real-world case of contaminated land and water near Heathrow Airport, in close collaboration with Hounslow Borough Council (search-summary).",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "I-Explore (Imperial Horizons / Multidisciplinary Project module)",
+   "legacy": true,
+   "category": "Breadth/interdisciplinary curriculum",
+   "reason": "Breadth requirement for participating UG programmes. Tested modules: Multidisciplinary Project (term-long, 5 ECTS, group project video; no external partner mentioned), Interdisciplinary Research Computing (group project, no partner), How to Outreach (schools audience), Global Challenges: Sustainable Innovation (team research on global issue; no external partner found) and Global Village: Innovation Challenge (2 terms, team design proposal for a case study community chosen by the teaching team; no external client). No employer/organisation participation evidenced (C not met/Unclear).",
+   "source_url": "https://www.imperial.ac.uk/centre-for-languages-culture-and-communication/i-explore/multidisciplinary-project/multidisciplinary-project-module/",
+   "status_note": "Legacy row 'I-Explore' reassessed; not compulsory evidence found; Imperial Horizons modules page indicates 2026-27 listings"
+  },
+  {
+   "name": "MBA Perspectives on Practice",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual, self-directed internship or consulting project with an academic supervisor.",
+   "source_url": "https://www.imperial.ac.uk/business-school/corporate-relations/recruit-new-talent/partner-our-students/",
+   "status_note": ""
+  },
+  {
+   "name": "MBA Group Consulting Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Only an old (c. seven-year) student blog found describing group consulting for a company; no current evidence.",
+   "source_url": "https://www.imperial.ac.uk/business-school/blogs/features/what-does-year-look-the-imperial-full-time-mba/",
+   "status_note": ""
+  },
+  {
+   "name": "Mechanical Engineering Third Year Design, Make and Test",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams of 4-5 work like a small consultancy but briefs mostly from supervisors' research (example built for an Imperial lab); no standard external client evidenced.",
+   "source_url": "https://www.imperial.ac.uk/engineering/departments/mechanical-engineering/study/undergraduate/third-year-design-make-and-test--projects/",
+   "status_note": ""
+  },
+  {
+   "name": "Chemical Engineering final-year design project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Team design project (teams of about ten) but no industrial partner role evidenced.",
+   "source_url": "https://www.imperial.ac.uk/engineering/departments/chemical-engineering/courses/undergraduate/",
+   "status_note": ""
+  },
+  {
+   "name": "Aeronautics Third-year Group Design Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Team design project mirroring an industrial design office; no external sponsor evidenced.",
+   "source_url": "https://www.imperial.ac.uk/aeronautics/study/ug/aeroimperial/student-projects/",
+   "status_note": ""
+  },
+  {
+   "name": "Dyson School of Design Engineering MEng/MSc project modules",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Project-based, team working, industry briefs mentioned generally; no specific industry-set group module evidenced. Six-month placement is individual.",
+   "source_url": "https://www.imperial.ac.uk/media/imperial-college/study/programme-specifications/design-eng/25x2f26/28G3-MEng-Design-Engineering-2025-26.pdf",
+   "status_note": ""
+  },
+  {
+   "name": "Innovation Design Engineering (MA/MSc with RCA)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Year-2 projects described as self-directed; regular company links but no partner-set group briefs evidenced.",
+   "source_url": "https://www.imperial.ac.uk/engineering/departments/design-engineering/study/postgraduate-taught-pgt/ide/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Statistics research project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Small-group phase in spring term then individual research project that may be done with an industry partner; project individual.",
+   "source_url": "https://www.imperial.ac.uk/natural-sciences/departments/mathematics/postgraduate/msc/statistics/prospective/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Mathematics and Finance project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Around four-month project with a finance firm but individual dissertation.",
+   "source_url": "https://www.imperial.ac.uk/mathematics/postgraduate/msc/mathematical-finance/project-and-thesis/",
+   "status_note": ""
+  },
+  {
+   "name": "Master of Public Health project",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual research project/dissertation, may be with NHS or agencies.",
+   "source_url": "https://www.imperial.ac.uk/study/pg/medicine/public-health-masters/",
+   "status_note": ""
+  },
+  {
+   "name": "Enterprise Lab challenges (Global Challenge Lab, Start-up Sprint, Idea Challenge, Venture Catalyst)",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Student-led venture/ideas competitions; Idea Challenge teams present to corporate-partner audience but no employer-set brief evidenced; Global Challenge Lab is an inter-university hackathon.",
+   "source_url": "https://www.imperial.ac.uk/events/210302/global-challenge-lab-2026-enterprise-lab/",
+   "status_note": ""
+  },
+  {
+   "name": "Siemens x Sony Immersive Design Challenge; Accuracy Business Cup; LSEG x Microsoft hackathon (Careers competitions)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Employer-set competitions listed by Careers; team status, deliverable, duration and delivery details not evidenced; Siemens call closed 31 January 2026; Accuracy Business Cup described as teams supervised by Accuracy consultants presenting to leaders of a listed company but format not verified.",
+   "source_url": "https://www.imperial.ac.uk/careers/jobs-and-experience/competitions-and-awards/",
+   "status_note": "Possible extracurricular qualifying route; evidence gap"
+  },
+  {
+   "name": "Global Sustainability Challenge (with Stanford Doerr School)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Interdisciplinary teams with mentors on real-world solutions; no evidence that an external organisation sets the brief.",
+   "source_url": "https://www.imperial.ac.uk/careers/jobs-and-experience/competitions-and-awards/",
+   "status_note": ""
+  },
+  {
+   "name": "Imperial College Consultancy Society / Imperial Consulting Group",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Union society with a consulting subsidiary offering 'genuine consulting experience'; clients, projects and team format not evidenced.",
+   "source_url": "https://www.imperialcollegeunion.org/activities/a-to-z/consultancy",
+   "status_note": ""
+  },
+  {
+   "name": "Imperial Consultants (ICON)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "College service for academics' consultancy, not a student scheme.",
+   "source_url": "https://www.imperial.ac.uk/admin-services/enterprise/staff/imperial-consultants/",
+   "status_note": ""
+  },
+  {
+   "name": "Shell Techno-Economic project (Chemical and Mechanical Engineering)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "One-day role-play exercise delivered by Shell; known only from a 2023 TEF submission; short and no evidence of output for Shell.",
+   "source_url": "https://www.imperial.ac.uk/media/imperial-college/about/leadership-and-strategy/vp-education/Imperial-College-of-Science,-Technology-and-Medicine---TEF-2023---Provider-Submission---Redacted.pdf",
+   "status_note": ""
+  },
+  {
+   "name": "Integrated Water Management case study",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Simulates a typical consultant problem with a presentation to a 'potential' client; hypothetical client.",
+   "source_url": "https://www.imperial.ac.uk/natural-sciences/departments/environmental-policy/study/msc-environmental-technology/choosing-an-option/integrated-water-management-iwm/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Imperial's strongest employer-linked group provision sits in the Business School and a few engineering/environment programmes, with no institution-wide scheme found. The Business School's MSc Group Consulting Projects (June-July 2026 call; 4-5 weeks; teams of 5-7 from seven MSc programmes) take real briefs from companies, which are free to participate; students bid for them and present recommendations to a panel including company representatives. These run as elective capstone options (e.g. Strategic Marketing Consulting Project BUSI70292, 10 ECTS; Business Analytics & AI; Management; Economics & Strategy; Climate Change, Management & Finance). The MBA equivalent (Perspectives on Practice) is individual. In science, the MSc Environmental Technology (EAM option) Hounslow Heath project is a group technical report for Hounslow Borough Council with team presentations to the client (2025-26 specification). In engineering, the EEE third-year MEng group project (industry-proposed, groups of 5-7, industrial and academic supervisors) and the Computing Year 3 Software Engineering Group Project (customers, many industry-proposed) are strong leads, but current-year delivery or share of external clients is unconfirmed; Civil and Transport MSc group design projects mention clients/industry without detail. I-Explore/Horizons modules lack external partners. Access is programme-by-programme: provision is distributed across schools and not university-wide. Uncertain: current-year evidence for engineering routes, extracurricular employer challenges, and Medicine/Natural Sciences coverage.",
+ "gaps": "Further departmental instances likely (e.g. Bioengineering, Materials, Chemical Engineering, Earth Science, Physics/Chemistry industry projects, Faculty of Medicine). Extracurricular employer-set challenges (Careers competitions such as Accuracy Business Cup, Siemens/Sony) and the Imperial College Consultancy Society not verified. Credit weightings, module codes and cohort sizes mostly not extracted (search summaries only; no verbatim page quotes for most). Current-year evidence needed for S5, S6, S7, S9, S10. UROP/internship routes were not examined (individual)."
+}
