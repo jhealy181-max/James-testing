@@ -1,0 +1,1425 @@
+{
+ "inst_id": "RG06",
+ "institution": "Edinburgh",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Edinburgh Students as Change Agents EFI elective group project external partner",
+    "Careers Service employer challenge students teams real project employer brief Edinburgh",
+    "Edinburgh Innovations student projects industry partners masters students team consultancy",
+    "EFI Change Agents EFIE08006 course catalogue",
+    "Students as Change Agents EFIE08003 2025/26",
+    "EFI Student Challenge projects"
+   ],
+   "key_sources": [
+    "https://careers.ed.ac.uk/build-experience/students-as-change-agents",
+    "https://www.drps.ed.ac.uk/25-26/dpt/cxefie08006.htm",
+    "https://efi.ed.ac.uk/student-challenge-projects/",
+    "https://edinburgh-innovations.ed.ac.uk/news/hvdc-challenges-msc-students"
+   ],
+   "finding": "The only university-wide employer-challenge team scheme (SACHA) has a paused Careers co-curricular route and a continuing EFI credit course (reach unclear); EFI postgraduate challenge projects are individual; Edinburgh Innovations ran a one-off MSc industry challenge week."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "University of Edinburgh student consultancy live client project",
+    "business-school.ed.ac.uk collaborate student-projects Management Consultancy in Practice",
+    "Project Management in Business Analysis consultancy project",
+    "Sustainable Business Consultancy Project MSc",
+    "Enterprise Consultancy Project BUST10120",
+    "Management Consultancy in Practice course catalogue",
+    "Business Project Portfolio BUST10167",
+    "Consultancy Project (MBA) CMSE11224",
+    "MBA Charity Consultancy Week",
+    "Capco Consulting Challenge",
+    "Climate Change Consulting Project",
+    "Project Management in Business Analysis CMSE11452"
+   ],
+   "key_sources": [
+    "https://www.business-school.ed.ac.uk/collaborate/student-projects/management-consultancy-practice",
+    "https://www.drps.ed.ac.uk/26-27/dpt/cxcmse11573.htm",
+    "https://www.drps.ed.ac.uk/25-26/dpt/cxbust10120.htm",
+    "https://www.business-school.ed.ac.uk/collaborate/student-projects/mba-charity-consultancy-week"
+   ],
+   "finding": "Dense distributed provision: a Business School 'student projects' framework with live-client team consultancy across MSc E&I, MSc GSS, MSc CCFI, MBA (consultancy and charity week) and an undergraduate Enterprise Consultancy Project; current delivery confirmed for only some."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "School of Informatics industry project team external company client MSc group project",
+    "School of Engineering industry-sponsored group design project external client",
+    "Design Informatics MSc compulsory course small groups external organisation data",
+    "Design with Data DESI11025",
+    "Informatics Group Practical OR System Design Project industry client",
+    "System Design Project INFR09032",
+    "Engineering MSc Group Design Project industry client",
+    "Digital Design and Manufacture Group Design Project PGEE11211"
+   ],
+   "key_sources": [
+    "https://informatics.ed.ac.uk/taught-students/msc-students/taught-msc-handbook-202526/degree-programmes-and-courses/design",
+    "http://www.drps.ed.ac.uk/25-26/dpt/cxdesi11025.htm",
+    "https://www.drps.ed.ac.uk/23-24/dpt/cxinfr09032.htm"
+   ],
+   "finding": "Industry links in Informatics run mainly through individual dissertations; Design with Data (group, external organisation data) is partially evidenced; System Design Project has a hypothetical client; engineering group design projects show no partner evidence."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "School of Mathematics MSc week-long industry challenge National HVDC Centre",
+    "School of GeoSciences OR Biological Sciences OR Chemistry OR Physics group project external partner",
+    "GeoScience Outreach course external client",
+    "Bayes Centre External Partners for Student Projects"
+   ],
+   "key_sources": [
+    "https://edinburgh-innovations.ed.ac.uk/news/hvdc-challenges-msc-students",
+    "https://www.drps.ed.ac.uk/21-22/dpt/cxeasc10087.htm"
+   ],
+   "finding": "A one-off MSc HVDC industry challenge week and the GeoSciences outreach client-project course found; Bayes MSc partner projects appear individual. No Chemistry/Physics/Biology module identified."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "School of Social and Political Science OR Moray House OR History Classics Archaeology team external organisation client project",
+    "Creative Industries Team Project EFIE11120",
+    "Client Consulting Project EFIE11118",
+    "Edinburgh College of Art live brief industry client"
+   ],
+   "key_sources": [
+    "https://www.drps.ed.ac.uk/25-26/dpt/cxefie11118.htm",
+    "https://www-test.drps.ed.ac.uk/24-25/dpt/cxefie11120.htm"
+   ],
+   "finding": "Qualifying provision is concentrated in EFI's MSc Creative Industries (Client Consulting Project; Team Project). No SPS, Moray House or HCA team-client module surfaced; ECA live briefs not resolvable to module level."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Edinburgh Law School clinic OR Medicine OR Veterinary students team project partner organisation",
+    "Edinburgh Law School Law Clinic students",
+    "Freedom of Expression Law Clinic",
+    "LLM Human Rights Clinic students present research findings"
+   ],
+   "key_sources": [
+    "https://www.law.ed.ac.uk/news-events/news/human-rights-clinic-presents-new-research-scottish-government-and-range-childrens",
+    "https://www.drps.ed.ac.uk/15-16/dpt/cxlaws10190.htm"
+   ],
+   "finding": "Law runs group clinics with external NGOs (LLM Human Rights Clinic with Together; Freedom of Expression Law Clinic with MLDI); FLAC and Tax Clinic are casework. Medicine/Veterinary: nothing qualifying surfaced (All4Paws is a student charity)."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "EFIE08003 / EFIE08006",
+   "named_partners": "Eurowings Discover, Grand Bequest, Everyone's Edinburgh (SACHA programme examples, careers page, undated); 2025/26 challenge on attainment gap for under-12s in Scotland (partner not named in extract)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "Students as Change Agents (SACHA) elective",
+   "local_id": "S1",
+   "official_name": "Students as Change Agents (EFIE08003) / EFI Change Agents (EFIE08006)",
+   "english_name": "Students as Change Agents elective (EFI)",
+   "description": "Credit-bearing 20-credit pass/fail undergraduate course. Small interdisciplinary student teams explore a challenge proposed by an external partner (non-profit, public or private), meet fortnightly with group coaches, negotiate the problem statement with the partner, and produce a team output (business-style report, process map or prototype with implementation plan) that is presented/sent to the partner, plus an individual 1000-word reflection.",
+   "academic_reach": "Unclear",
+   "admin_host": "Edinburgh Futures Institute",
+   "eligible_faculties_programmes": "Conflicting: the 2025/26 EFI catalogue lists EFIE08003 with availability code SV1 (all students incl. visiting) and the careers page says the elective is for 1st/2nd-year students; the 2024/25 EFIE08006 entry restricts the course to students on the EFI Interdisciplinary Futures (MA) degree.",
+   "faculty_areas": [
+    "central",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "SCQF level 8 (first/second year per careers page)",
+   "eligibility_restrictions": "Unclear: university-wide (SV1/SS1 codes and careers page wording) vs Interdisciplinary Futures MA only (2024/25 EFIE08006 page).",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 SCQF credits; pass/fail; group output (one submission, same result for all) plus individual 1000-word reflection; both must be passed",
+   "duration": "Semester 2 / full-year listing (2025/26)",
+   "delivery_format": "Interdisciplinary teams with group coaches; partner presents challenge at start",
+   "project_based": "Yes",
+   "project_evidence": "Team explores a partner-proposed challenge and produces outputs and recommendations (src 2, 3).",
+   "group_working": "Yes",
+   "group_evidence": "'Work in a small team'; one submission for the whole group with the same result for all members (src 2, 3).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External partner proposes the challenge, attends/presents early on, teams negotiate the problem statement with them, and the group output goes to the partner in writing and as a presentation (src 2, 3). Careers page lists partner examples from non-profit, public and private sectors (src 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Sets the challenge, gives context at start, receives output/presentation",
+   "deliverable": "Team report/process map/prototype with implementation plan presented to partner; individual reflection",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "University-wide eligibility vs MA Interdisciplinary Futures-only is unresolved (search summaries; EFIE08003 and EFIE08006 may be the same course renamed). Participant numbers not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://careers.ed.ac.uk/build-experience/students-as-change-agents",
+     "title": "Students as Change Agents (Careers Service)",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "SACHA participants 'worked in interdisciplinary groups to tackle real-world challenges posed by organisations from the non-profit, public and private sectors'; page states the Careers co-curricular programme has paused and a SACHA elective for 1st and 2nd year students is available via EFI.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.drps.ed.ac.uk/24-25/dpt/cxefie08006.htm",
+     "title": "Course Catalogue - EFI Change Agents (EFIE08006)",
+     "section": "course description/assessment",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students work in a small team to explore a challenge proposed by an external partner and produce outputs and recommendations; group output presented to the partner; group coaches meet fortnightly; coursework only; entry lists availability to EFI Interdisciplinary Futures (MA) students.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.drps.ed.ac.uk/25-26/dpt/cxefie08006.htm",
+     "title": "Course Catalogue - EFI Change Agents (EFIE08006) - DRPS",
+     "section": "2025/26 entry",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "20-credit pass/fail; one student submits for the whole group with the same result for all; teams choose output format; 1000-word individual reflection; example 2025/26 challenge on attainment gap for under-12s.",
+     "supports": [
+      "group",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.drps.ed.ac.uk/25-26/dpt/cx_sb_efie.htm",
+     "title": "Course Catalogue - Edinburgh Futures Institute - DRPS",
+     "section": "course list",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "EFIE08003 Students as Change Agents listed Semester 2, 20 credits, availability SV1 (as relayed in search summary).",
+     "supports": [
+      "reach",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://www.drps.ed.ac.uk/21-22/dpt/cxefie08003.htm",
+     "title": "Course Catalogue - Students as Change Agents (EFIE08003)",
+     "section": "course description",
+     "pub_year": "2021/22",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "External partner's live project; teams propose solutions; final output a short video and business-style report; SCQF level 8; pre-requisites none.",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Eurowings Discover, Grand Bequest, Everyone's Edinburgh (undated)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "Students as Change Agents: careers co-curricular route",
+   "local_id": "S2",
+   "official_name": "Students as Change Agents: Careers Service co-curricular route",
+   "english_name": "SACHA co-curricular (non-credit) programme",
+   "description": "Non-credit co-curricular version of SACHA: interdisciplinary student groups tackled real-world challenges set by non-profit, public and private organisations using a 'living lab' approach, with design-thinking training and a digital badge. The page states this route is paused.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers Service",
+   "eligible_faculties_programmes": "Former optional co-curricular participants (legacy row)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "1st/2nd year (legacy)",
+   "eligibility_restrictions": "Not currently open (paused)",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Non-credit; digital badge; option of Edinburgh Award or SLICC",
+   "duration": "Unclear",
+   "delivery_format": "Interdisciplinary groups with partner challenges",
+   "project_based": "Yes",
+   "project_evidence": "Groups 'tackle real-world challenges' (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Worked in interdisciplinary groups' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges 'posed by organisations from the non-profit, public and private sectors' (src 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Pose the challenge",
+   "deliverable": "Challenge recommendations (format not stated)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Paused/discontinued",
+   "latest_evidenced_year": "",
+   "unresolved": "Date of pause and earlier cohort sizes not stated; page is undated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://careers.ed.ac.uk/build-experience/students-as-change-agents",
+     "title": "Students as Change Agents (Careers Service)",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Past-tense description: 'worked in interdisciplinary groups to tackle real-world challenges posed by organisations from the non-profit, public and private sectors'; 'living lab'; Careers co-curricular programme paused.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CMSE11519 (2021/22) / CMSE11547 (2022/23 programme table)",
+   "named_partners": "Page describes past clients generically (an investment management firm, a specialist food producer, a public-sector body); no names",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "Management Consultancy in Practice: Innovation and Entrepreneurship (MSc Entrepreneurship and Innovation)",
+   "english_name": "Management Consultancy in Practice (MSc E&I)",
+   "description": "Teams of normally four MSc students act as consultants on a live innovation/venture-growth challenge for an external organisation (start-up/scale-up; private, public and non-profit clients), January to March, with scoping meeting, consultancy report, evaluation of strategic options, recommendations and final client presentation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Edinburgh Business School",
+   "eligible_faculties_programmes": "MSc Entrepreneurship and Innovation",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits (2021/22) / 20 credits (2022/23 table); 100% coursework: 70% group, 30% individual (2021/22)",
+   "duration": "January to March",
+   "delivery_format": "Team consultancy, supported by teaching team; clients attend scoping and final presentation",
+   "project_based": "Yes",
+   "project_evidence": "Live challenge; report, strategic options, recommendations (src 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams normally four; 70% group coursework (src 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients propose challenge (deadline 1 October), nominate contact, attend scoping meeting and final presentation and give feedback; free to clients (src 1). Catalogue: real clients from private, public and non-profit sectors (src 2).",
+   "partner_type": "Mixed",
+   "partner_role": "Commission the challenge, attend scoping and final presentation, give feedback",
+   "deliverable": "Consultancy report, strategic options evaluation, recommendations, client presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Business School page undated; catalogue entries 2021/22 and 2022/23 only; no 2025/26 or 2026/27 course entry found. Page inconsistent on start-up age criteria (18 months vs 5 years or younger). Course code/credit differ across sources.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.business-school.ed.ac.uk/collaborate/student-projects/management-consultancy-practice",
+     "title": "Management Consultancy in Practice project",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Projects January to March; student consultancy teams normally four; no charge; proposal deadline 1 October; clients name contact, attend scoping meeting and final presentation; deliverables consultancy report, strategic options, recommendations, presentation.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.drps.ed.ac.uk/21-22/dpt/cxcmse11519.htm",
+     "title": "Course Catalogue - Management Consultancy in Practice: Innovation and Entrepreneurship (CMSE11519)",
+     "section": "description/assessment",
+     "pub_year": "2021/22",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Students engage with real business clients; projects defined around an innovation/venture growth problem with private, public and non-profit clients; 30% individual, 70% group coursework.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.drps.ed.ac.uk/22-23/dpt/ptmscentin1f.htm",
+     "title": "DPT: Entrepreneurship and Innovation (MSc)",
+     "section": "programme table",
+     "pub_year": "2022/23",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Management Consultancy in Practice: Innovation and Entrepreneurship, CMSE11547, 20 credits, compulsory, Semester 2.",
+     "supports": [
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CMSE11573",
+   "named_partners": "South of Scotland Enterprise (student account, undated)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Sustainable Business Consultancy Projects (MSc Global Strategy and Sustainability)",
+   "english_name": "Sustainable Business Consultancy Project",
+   "description": "Teams of 5-6 MSc students act as consultants on a real sustainability challenge faced by a private or public organisation over ten weeks (January-March): research, data collection, stakeholder consultation, recommendations, delivered as written report and oral presentation to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Edinburgh Business School",
+   "eligible_faculties_programmes": "MSc Global Strategy and Sustainability (core/option status not confirmed)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Coursework (group); credit not captured",
+   "duration": "Ten weeks, January-March",
+   "delivery_format": "Team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Real challenge; research, recommendations, report and presentation (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 5-6 (src 1); catalogue refers to groups (src 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client from private or public sector supplies the challenge and receives written report and oral presentation; no fee (src 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies the challenge, receives report and presentation",
+   "deliverable": "Written report and oral presentation to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Whether compulsory or optional not established; credit weighting not captured.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.business-school.ed.ac.uk/collaborate/student-projects/sustainable-business-consultancy",
+     "title": "Sustainable Business Consultancy Project",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 5-6 students; real challenge from private or public organisation; ten-week period; written report and oral presentation; no financial payment.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.drps.ed.ac.uk/26-27/dpt/cxcmse11573.htm",
+     "title": "Course Catalogue - Sustainable Business Consultancy Projects (CMSE11573)",
+     "section": "catalogue entry",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2026/27 catalogue entry exists; course described as group consultancy for private/public clients, no fee.",
+     "supports": [
+      "status",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CMSE11518",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "official_name": "Climate Change Consulting Project (MSc Climate Change Finance and Investment)",
+   "english_name": "Climate Change Consulting Project",
+   "description": "Core MSc course: groups of five to six, mixed in expertise (finance, science, engineering, business), consult on a client's climate challenge (e.g. tradable carbon offsets, carbon-market exposure, low-carbon screening tool) and deliver a written report and oral presentation to private or public-sector clients, January-March.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Edinburgh Business School",
+   "eligible_faculties_programmes": "MSc Climate Change Finance and Investment",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (2023/24 programme table)",
+   "duration": "Semester 2 (main work January-March)",
+   "delivery_format": "Team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Client climate challenge; report and presentation (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Groups of five to six (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients (private or public) submit proposals, receive report and presentation; unpaid (src 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Provide challenge, receive report/presentation",
+   "deliverable": "Consulting report and oral presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023/24",
+   "unresolved": "Latest dated evidence is the 2023/24 catalogue/programme table; no 2025/26 or 2026/27 entry found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.business-school.ed.ac.uk/collaborate/student-projects/carbon-finance",
+     "title": "Climate Change Consulting Project",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students matched in groups of five to six to a client's climate challenge; clients private or public-sector, receive report and presentation; no payment.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.drps.ed.ac.uk/23-24/dpt/ptmscclcfi1f.htm",
+     "title": "DPT: Climate Change Finance & Investment (MSc)",
+     "section": "programme table",
+     "pub_year": "2023/24",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Course compulsory, 20 credits, Semester 2 (as relayed in search summary).",
+     "supports": [
+      "participation",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CMSE11452",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "official_name": "Project Management in Business Analysis (MSc Management) consultancy project",
+   "english_name": "Project Management in Business Analysis Consultancy Project",
+   "description": "Group project in which teams of 4-5 MSc Management students manage a project life cycle. Business School page presents it as a 10-week (up to 72 hours each) consultancy project for a private or public organisation; the catalogue instead says topics are open, agreed at start, with lecturer-supplied portfolio or student-chosen projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Edinburgh Business School",
+   "eligible_faculties_programmes": "MSc Management (Semester 2 option)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; 50% group coursework, 50% individual exam (2025/26 entry)",
+   "duration": "Semester 2; 6 weeks / ~97 hours (catalogue) vs 10 weeks / up to 72 hours (Business School page)",
+   "delivery_format": "Student groups",
+   "project_based": "Yes",
+   "project_evidence": "Small-scale group project (src 2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 4-5; 50% group coursework (src 2).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Business School page says client is a private or public organisation receiving report and presentation (src 1), but the 2025/26 catalogue states topic is open and students may choose their own project and assesses process rather than outcome (src 2).",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "deliverable": "Group report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Whether external clients are standard in current delivery; sources disagree on duration and design.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.business-school.ed.ac.uk/collaborate/student-projects/project-management-in-business-analysis",
+     "title": "Project Management in Business Analysis Consultancy Project",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "10-week project for a private or public sector organisation; groups of four to five; up to 72 hours each; written report and oral presentation to client.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.drps.ed.ac.uk/25-26/dpt/cxcmse11452.htm",
+     "title": "Course Catalogue - Project Management in Business Analysis (CMSE11452)",
+     "section": "description/assessment",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of 4 to 5; topic open and agreed at start; lecturers provide a portfolio but students may develop their own; ~97 hours; 50% group coursework, 50% exam.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "BUST10120",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S7",
+   "official_name": "Enterprise Consultancy Project (BUST10120), Undergraduate Enterprise Consultancy",
+   "english_name": "Enterprise Consultancy Project",
+   "description": "Final-year undergraduate teams of three to six consult for the owner-manager of a new local business recruited before the course by the co-ordinator; teams negotiate project details, produce interim reports and deliver a final group report and presentation to the company.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Edinburgh Business School",
+   "eligible_faculties_programmes": "Final-year Business students with prior innovation/entrepreneurship course passes",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Requires prior passes in specified innovation/entrepreneurship courses",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 SCQF credits; 100% coursework incl. 45% group report to the company and 15% presentation to the company",
+   "duration": "Semester 2; ~12 weeks",
+   "delivery_format": "Team consultancy; client recruited by co-ordinator",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy assignment with interim reports, final report and presentation (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of three to six; 45% group report (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Owner-manager of a new local business is the client, agreed brief with co-ordinator; receives final report and presentation (src 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: agrees brief, receives report and presentation",
+   "deliverable": "Final group report and presentation to company",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Compulsory/optional status in Business degrees not established; client names not published.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.drps.ed.ac.uk/25-26/dpt/cxbust10120.htm",
+     "title": "Course Catalogue - Enterprise Consultancy Project (BUST10120)",
+     "section": "description/assessment",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consultancy assignment for owner-manager of a new local business; client recruited before course; teams of 3-6; 45% group report to the company, 15% presentation to company; 20 credits; Semester 2.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.business-school.ed.ac.uk/collaborate/student-projects/undergraduate-enterprise",
+     "title": "Undergraduate Enterprise Consultancy Project",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final-year students; 12-week project; consultancy report and client presentation.",
+     "supports": [
+      "project",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CMSE11224",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S8",
+   "official_name": "MBA Consultancy Project (Consultancy Project (MBA), CMSE11224)",
+   "english_name": "MBA Consultancy Project",
+   "description": "MBA students work in small teams to deliver consultancy on a strategic business issue for an external client, April to June, with report and presentation delivered to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Edinburgh Business School",
+   "eligible_faculties_programmes": "MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA",
+   "eligibility_restrictions": "MBA students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Group report and presentation (2016/17 catalogue)",
+   "duration": "April-June (Business School page)",
+   "delivery_format": "Team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Strategic business issue; report and presentation to client (src 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "'Small teams'; multi-cultural teams; group report/presentation assessment (src 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisations submit proposals (deadline 31 January) and receive report and presentation (src 1, 2).",
+   "partner_type": "Unclear",
+   "partner_role": "Provide strategic issue; receive report/presentation",
+   "deliverable": "Report and presentation to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Business School page undated; only a 2016/17 catalogue extract seen (three-week format then); a 'current' catalogue URL appeared but no extract; client sector not stated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.business-school.ed.ac.uk/collaborate/student-projects/mba-consultancy",
+     "title": "MBA Consultancy Project",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Small teams deliver expert consultancy on a strategic business issue; proposals due 31 January; work April-June; report and presentation mid-June.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www-test.drps.ed.ac.uk/16-17/dpt/cxcmse11224.htm",
+     "title": "Postgraduate Course: Consultancy Project (MBA) (CMSE11224)",
+     "section": "description",
+     "pub_year": "2016/17",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consultancy assignment in multi-cultural teams; report and presentation delivered to clients; group report 50%, group presentation.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S9",
+   "official_name": "MBA Charity Consultancy Week",
+   "english_name": "MBA Charity Consultancy Week",
+   "description": "During the last week of October MBA students work in small teams on a problem facing one charity and present in person; the presentation forms the consultancy report. Charities submit proposals by mid-August and the School assigns teams in early October.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Edinburgh Business School",
+   "eligible_faculties_programmes": "MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA",
+   "eligibility_restrictions": "MBA students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "One week (last week of October)",
+   "delivery_format": "Intensive team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Defined charity problem with consultancy report/presentation (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Small groups' on a specific charity (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Charities submit proposals and receive the presentation (src 1).",
+   "partner_type": "Charity/community",
+   "partner_role": "Supply problem; receive presentation",
+   "deliverable": "In-person presentation constituting consultancy report",
+   "duration_band": "1 week",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Page undated; credit/compulsory status unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.business-school.ed.ac.uk/collaborate/student-projects/mba-charity-consultancy-week",
+     "title": "MBA Charity Consultancy Week",
+     "section": "main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consultancy Week at end of October; small groups on an issue facing a specific charity; charity proposals by mid-August; teams assigned early October.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "EFIE11118",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S10",
+   "official_name": "Client Consulting Project (EFIE11118), MSc Creative Industries",
+   "english_name": "Client Consulting Project",
+   "description": "Student teams apply strategy, law and data literacy to a challenge from a cultural organisation, present to the client and receive client feedback, and submit a team client report (up to 7,000 words, 85%) plus individual peer review (15%).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Edinburgh Futures Institute",
+   "eligible_faculties_programmes": "MSc Creative Industries only",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "Only students enrolled on Creative Industries (MSc)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 SCQF credits; 85% team client report, 15% peer review",
+   "duration": "Short course (10 credits); length not stated",
+   "delivery_format": "Team client consulting",
+   "project_based": "Yes",
+   "project_evidence": "Challenge from a cultural organisation with report (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Team client report 85% (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams present to the client; client gives feedback on the report (src 1).",
+   "partner_type": "Unclear",
+   "partner_role": "Sets challenge; receives presentation and report; gives feedback",
+   "deliverable": "Team client report and client presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Client names and sector (charity vs commercial) not seen; duration not stated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.drps.ed.ac.uk/25-26/dpt/cxefie11118.htm",
+     "title": "Postgraduate Course: Client Consulting Project (EFIE11118)",
+     "section": "description/assessment",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Student teams apply strategy, law and data literacy to a challenge from a cultural organisation; Team Client Report 85% (max 7000 words); Individual Peer Review 15%; summative feedback from instructors and client; compulsory in MSc Creative Industries.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "EFIE11120",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S11",
+   "official_name": "Creative Industries Team Project (EFIE11120)",
+   "english_name": "Creative Industries Team Project",
+   "description": "40-credit summer project for MSc Creative Industries: interdisciplinary teams produce a report on a client's challenge or create a new product, service or event. Clients and student leaders each submit one-page briefs in May; programme director matches teams; findings presented in August.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Edinburgh Futures Institute",
+   "eligible_faculties_programmes": "MSc Creative Industries",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits; 60% team report, 15% peer review, team presentation",
+   "duration": "March/April to mid-late August",
+   "delivery_format": "Interdisciplinary teams with supervisors",
+   "project_based": "Yes",
+   "project_evidence": "Team report on client challenge or new product/service/event (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Interdisciplinary teams; team report (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Clients may submit briefs and teams present findings to the client, but projects may alternatively be student-led new products/services/events, so external clients are not shown to be standard (src 1).",
+   "partner_type": "Unclear",
+   "partner_role": "Submit briefs where client-led",
+   "deliverable": "Team project report (max 13,000 words) and presentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "unresolved": "Share of client-led vs student-led projects; client names; no 2025/26 course page seen (2026/27 programme table lists it as compulsory).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www-test.drps.ed.ac.uk/24-25/dpt/cxefie11120.htm",
+     "title": "Course Catalogue - Creative Industries Team Project (EFIE11120)",
+     "section": "description/assessment",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Interdisciplinary teams on a client problem or new product, service or event; clients submit one-page briefs in May; teams matched; report 60%, peer review 15%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.drps.ed.ac.uk/26-27/dpt/ptmsccrind1f.htm",
+     "title": "DPT: Creative Industries (MSc)",
+     "section": "programme table",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Creative Industries Team Project listed as compulsory 40-credit course.",
+     "supports": [
+      "participation",
+      "status",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "DESI11025",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S12",
+   "official_name": "Design with Data (MSc Design Informatics)",
+   "english_name": "Design with Data",
+   "description": "Compulsory Design Informatics course in which students in small groups build interactive prototypes; the 2025/26 programme handbook says they work with an external organisation's data. Course catalogue describes a challenge-led experimental construction assessed through group work, without naming a partner.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Informatics / Edinburgh College of Art (Design Informatics)",
+   "eligible_faculties_programmes": "MSc Design Informatics (MA route shares courses)",
+   "faculty_areas": [
+    "engineering_computing",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; group presentation, digital artefact, portfolio; peer-adjusted group marks",
+   "duration": "Semester 2",
+   "delivery_format": "Small-group challenge-led studio",
+   "project_based": "Yes",
+   "project_evidence": "Group experimental construction/interactive prototype (src 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "'Small groups'; assessment through group work (src 1, 2).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Handbook line says groups work with an external organisation's data (src 1); catalogue pages mention no partner (src 2). Role of the organisation (brief, feedback) not evidenced.",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear (provides data per handbook)",
+   "deliverable": "Interactive prototype / digital artefact, presentation, portfolio",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Identity and role of the external organisation; whether standard each year.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://informatics.ed.ac.uk/taught-students/msc-students/taught-msc-handbook-202526/degree-programmes-and-courses/design",
+     "title": "Design Informatics MSc (taught MSc handbook 2025/26)",
+     "section": "degree programmes and courses",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Design with Data: creating interactive prototypes in small groups, working with an external organisation's data.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "http://www.drps.ed.ac.uk/25-26/dpt/cxdesi11025.htm",
+     "title": "Postgraduate Course: Design with Data (DESI11025)",
+     "section": "description/assessment",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Challenge-led; experimental construction in digital and physical media; assessment through group work; no external partner mentioned.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "National HVDC Centre",
+   "likely_duplicate_of": "",
+   "participation_data": "More than 50 students, six teams (undated event)",
+   "legacy_ref": "",
+   "local_id": "S13",
+   "official_name": "National HVDC Centre MSc industry challenge week (Edinburgh Innovations / School of Mathematics)",
+   "english_name": "HVDC offshore wind network industry challenge",
+   "description": "Week-long challenge for MSc students from several disciplines: six interdisciplinary teams addressed a question set by the National HVDC Centre (optimal offshore-wind network under coordinated development); the Centre supplied data and background and a technology manager sat on the judging panel.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Edinburgh Innovations with School of Mathematics",
+   "eligible_faculties_programmes": "MSc students across the University interested in energy sector (50+ participants)",
+   "faculty_areas": [
+    "science",
+    "engineering_computing",
+    "central"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc",
+   "eligibility_restrictions": "MSc students with energy-sector interest",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not stated",
+   "duration": "One week",
+   "delivery_format": "Challenge week with pitching training and judging",
+   "project_based": "Yes",
+   "project_evidence": "Defined network design question, solutions pitched (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Six interdisciplinary teams (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External centre set the challenge, supplied data and judged (src 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Set challenge, supply data, judge",
+   "deliverable": "Team solution pitched to panel",
+   "duration_band": "1 week",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Article undated (search result indicated roughly two years old); no evidence of repeat. Whether HVDC Centre is wholly external (hosted by industry operators) not verified; sector typed Business/commercial provisionally.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://edinburgh-innovations.ed.ac.uk/news/hvdc-challenges-msc-students",
+     "title": "MSc students have the energy to solve industry challenges",
+     "section": "news article",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract",
+     "extract": "Week-long challenge for MSc students, set by the National HVDC Centre; 50+ students in six interdisciplinary teams; Centre technology manager provided data and sat on judging panel.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Together (Scottish Alliance for Children's Rights) (2020, 2024, 2025)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S14",
+   "official_name": "LLM Human Rights Clinic (LLM in Human Rights)",
+   "english_name": "Human Rights Clinic",
+   "description": "20-credit clinic element of the LLM in Human Rights in which student groups research and write reports with external partners, notably Together (Scottish Alliance for Children's Rights), presenting findings to Scottish Government and children's-rights organisations (UNCRC case-law 2020; child rights budgeting; child rights impact assessments 2024; babies' access to justice 2025).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Edinburgh Law School",
+   "eligible_faculties_programmes": "LLM Human Rights",
+   "faculty_areas": [
+    "other",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "LLM",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "Unclear (academic year cohorts)",
+   "delivery_format": "Practical research clinic with presentations",
+   "project_based": "Yes",
+   "project_evidence": "Research reports with launch/presentations (src 1-3).",
+   "group_working": "Yes",
+   "group_evidence": "Group of four students presented 2020 findings; five students presented a child rights budgeting report (src 1, 3).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Work done in partnership with Together to support its advocacy; findings fed Together's UN consultation response; presentations to Scottish Government and rights organisations (src 1-3).",
+   "partner_type": "Charity/community",
+   "partner_role": "Partner commissions/uses research; audiences include Scottish Government",
+   "deliverable": "Research report and presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025",
+   "unresolved": "Whether every clinic project has an external partner is inferred from cohorts 2020, 2024, 2025; compulsory/option status not seen; 2025 item not tied to an academic year.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.law.ed.ac.uk/news-events/news/llm-human-rights-clinic-students-present-research-findings-scottish-government",
+     "title": "LLM Human Rights Clinic students present research findings to Scottish Government",
+     "section": "news",
+     "pub_year": "2020",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Four students presented UNCRC research to Scottish Government, working with Together to support its advocacy.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.law.ed.ac.uk/news-events/news/human-rights-clinic-presents-new-research-scottish-government-and-range-childrens",
+     "title": "Human Rights Clinic presents new research to Scottish Government and children's rights organisations",
+     "section": "news",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Clinic working with Together presented on how babies and young children access justice; findings used in Together's UN consultation response.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.law.ed.ac.uk/study/masters-degrees/llm-human-rights",
+     "title": "LLM in Human Rights",
+     "section": "programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Clinic is a 20-credit element of the LLM; research, discussion, writing and presentation in a practical setting.",
+     "supports": [
+      "credit",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "LAWS10190",
+   "named_partners": "Media Legal Defence Initiative; Garden Court Chambers (2015-16)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S15",
+   "official_name": "Freedom of Expression Law Clinic (LAWS10190)",
+   "english_name": "Freedom of Expression Law Clinic",
+   "description": "40-credit LLB clinic: final-year students, supervised by practitioners, prepare draft submissions to UN Special Procedures (e.g. petitions for detained bloggers) in collaboration with Media Legal Defence Initiative, Oxford PCMLP and Garden Court Chambers; MLDI filed the petitions.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Edinburgh Law School",
+   "eligible_faculties_programmes": "Final-year LLB (incl. Law and Social Policy, Law and Business)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Final-year LLB",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits",
+   "duration": "Unclear",
+   "delivery_format": "Supervised clinic",
+   "project_based": "Yes",
+   "project_evidence": "Draft UN petitions as defined outputs (src 1, 2).",
+   "group_working": "Unclear",
+   "group_evidence": "'Students worked together in the clinic' but joint output vs individual drafts not stated (src 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "NGO partner supervises and files the petitions (src 1, 2).",
+   "partner_type": "Charity/community",
+   "partner_role": "Co-supervises; files petitions",
+   "deliverable": "Draft submissions to UN Working Group",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2015/16",
+   "unresolved": "Latest dated evidence is 2015/16; 2026/27 catalogue mentions the '40 credit variant' (LAWS10190) as an exclusion, suggesting it may still run; team structure unclear.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.drps.ed.ac.uk/15-16/dpt/cxlaws10190.htm",
+     "title": "Course Catalogue - Freedom of Expression Law Clinic (LAWS10190)",
+     "section": "description",
+     "pub_year": "2015/16",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Collaboration with Oxford PCMLP, Media Legal Defence Initiative and Garden Court Chambers; draft submissions to UN Special Procedures; clinical supervision by practitioners; 40 credits.",
+     "supports": [
+      "project",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.law.ed.ac.uk/news-events/news/two-petitions-prepared-freedom-expression-law-clinic-students-submitted-un",
+     "title": "Two petitions prepared by Freedom of Expression Law Clinic students submitted to the UN",
+     "section": "news",
+     "pub_year": "c.2015",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final year LLB students worked together in the clinic; petitions filed by MLDI.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.drps.ed.ac.uk/26-27/dpt/cxlaws10302.htm",
+     "title": "Course Catalogue - International Protection of Freedom of Expression (LAWS10302)",
+     "section": "restrictions",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Cannot be taken with the 40-credit variant Freedom of Expression Law Clinic LAWS10190.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "EASC10087",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S16",
+   "official_name": "Geoscience Outreach and Engagement (EASC10087)",
+   "english_name": "Geoscience Outreach and Engagement",
+   "description": "20-credit course in which students design and carry out an outreach project for an external client (schools, community centres, museums, care homes, conservation groups, City of Edinburgh Council), chosen by the student; outputs include lesson series, videos, apps, workshops.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of GeoSciences",
+   "eligible_faculties_programmes": "Geology/Physical Geography, Environmental Geoscience; also taken by other programmes",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 10 (honours)",
+   "eligibility_restrictions": "Programme tables; open to some other programmes",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "Semester 1 mentoring; project mainly Semester 2",
+   "delivery_format": "Student-designed client project",
+   "project_based": "Yes",
+   "project_evidence": "Bespoke outreach project with defined outputs (src 1, 2).",
+   "group_working": "Unclear",
+   "group_evidence": "Individual vs group projects not stated (src 1, 2).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Students choose audience and client; clients (schools, community groups, council) receive outputs, but selection is student-sourced and external clients not shown to be standard for all (src 1, 2).",
+   "partner_type": "Charity/community",
+   "partner_role": "Receive project outputs; some council requests",
+   "deliverable": "Outreach resources/events for client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021/22",
+   "unresolved": "Group vs individual; currency; mix of clients.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.drps.ed.ac.uk/21-22/dpt/cxeasc10087.htm",
+     "title": "Course Catalogue - Geoscience Outreach and Engagement (EASC10087)",
+     "section": "description",
+     "pub_year": "2021/22",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students design and carry out outreach projects; partners include schools, community centres, museums, visitor centres, community groups.",
+     "supports": [
+      "project",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://blogs.ed.ac.uk/teaching-matters/geoscience-outreach-course-assessment-through-impactful-student-projects/",
+     "title": "GeoScience Outreach Course: Assessment through impactful student projects",
+     "section": "blog",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students develop a bespoke project for the external client with legacy value; City of Edinburgh Council has asked students for projects.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "EFI Student Challenge Projects (postgraduate)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Postgraduate EFI students take a challenge with a partner organisation (Partner Bank / Project Bank / own challenge), but examples (VisitScotland toolkit, Nesta, LGBT Youth Scotland) are individual final-project work; group working not evidenced.",
+   "source_url": "https://efi.ed.ac.uk/student-challenge-projects/",
+   "status_note": "2024-25 examples"
+  },
+  {
+   "name": "System Design Project (INFR09032)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Compulsory Year 3 Informatics team project (groups of ~ten) aimed at a demonstrator suitable for a client/investor, with industry visitors at the final presentation; brief is set by the course (assistive robotics) and no external organisation sets the brief or is shown to assess, so hypothetical client (C = No).",
+   "source_url": "https://www.drps.ed.ac.uk/23-24/dpt/cxinfr09032.htm",
+   "status_note": "2023/24 entry"
+  },
+  {
+   "name": "Informatics MSc projects with industrial collaborators",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Externally proposed or self-proposed industry dissertation projects with an external supervisor; individual dissertations.",
+   "source_url": "https://opencourse.inf.ed.ac.uk/diss/projects-with-industrial-collaborators",
+   "status_note": ""
+  },
+  {
+   "name": "Bayes Centre external partners for MSc student projects",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Partners propose MSc projects (5-12 weeks) but pages indicate one MSc student per partner; team structure not stated.",
+   "source_url": "https://bayes-centre.ed.ac.uk/access-expertise/partner-with-us/student-projects",
+   "status_note": "cached pages roughly two years old"
+  },
+  {
+   "name": "Digital Design and Manufacture Group Design Project (PGEE11211) and UG Interdisciplinary Group Design Project (SCEE11014)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Team design problems described as 'real world' (teams of 4-6) but no external company brief or participation evidenced.",
+   "source_url": "http://www.drps.ed.ac.uk/24-25/dpt/cxpgee11211.htm",
+   "status_note": ""
+  },
+  {
+   "name": "Capco Consulting Challenge (Business School)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Teams analyse a fictional business set by Capco and present to Capco management; no live client engagement evidenced; extracurricular competition.",
+   "source_url": "https://www.bccas.business-school.ed.ac.uk/news/msc-students-final-stage-capco-consulting-challenge",
+   "status_note": "undated"
+  },
+  {
+   "name": "MBA Strategic Marketing Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Assignments with start-up and spin-out ventures (spin-outs may be internal); team working and external-client standardness not evidenced in extracts seen.",
+   "source_url": "https://www.business-school.ed.ac.uk/collaborate/student-projects/mba-strategic-marketing",
+   "status_note": ""
+  },
+  {
+   "name": "Business Project Portfolio (BUST10167)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual independent study on a company in the year-abroad country (MA Language and Business Year 3).",
+   "source_url": "https://www.drps.ed.ac.uk/24-25/dpt/cxbust10167.htm",
+   "status_note": ""
+  },
+  {
+   "name": "Free Legal Advice Centre and Scottish Tax Clinic (Law)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Supervised casework for individual members of the public (Tax Clinic is an undergraduate course with 14 students per year working with TaxAid); casework rather than a bounded team project for an external organisation; team output not evidenced.",
+   "source_url": "https://www.law.ed.ac.uk/community/legal-advice-clinics/free-legal-advice-centre",
+   "status_note": ""
+  },
+  {
+   "name": "ECA live-brief projects (Graphic Design, Product Design, Illustration; Cala Homes artwork brief)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Programme pages describe live client briefs and mentoring by design agencies, but module-level team structure, participation rules and current delivery not evidenced; Cala Homes brief paid individual artwork for 2nd-4th year students.",
+   "source_url": "https://www.eca.ed.ac.uk/programme/graphic-design-ma",
+   "status_note": "further departmental instances likely"
+  },
+  {
+   "name": "Careers Service virtual work experience",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Signposting to virtual work experience; no live client team project.",
+   "source_url": "https://careers.ed.ac.uk/build-experience/getting-virtual-work-experience",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Edinburgh** has no institution-wide employer-project programme in operation. The one university-wide scheme, Students as Change Agents (SACHA), survives only as a 20-credit EFI course (EFIE08003 / EFIE08006) in which small interdisciplinary teams work on a challenge set by an external partner and present outputs to it; the Careers co-curricular route is paused. Whether the elective is open university-wide or restricted to the EFI Interdisciplinary Futures MA is unresolved.\n\nThe densest provision is distributed in the **Business School**: live-client team consultancies for MSc Global Strategy and Sustainability (teams of 5-6, ten weeks, current in the 2026/27 catalogue), MSc Entrepreneurship and Innovation, MSc Climate Change Finance and Investment, the MBA (consultancy project and a one-week charity consultancy), and an undergraduate Enterprise Consultancy Project (2025/26) for a new local business. Clients propose challenges, attend scoping and presentations, and receive reports; several of these pages are undated or last evidenced before 2025.\n\n**EFI** MSc Creative Industries has a compulsory Client Consulting Project (cultural-organisation client, 2025/26) and a Team Project that mixes client-led and student-led work. The Law School's LLM Human Rights Clinic produces group research with Together for Scottish Government audiences. Design with Data (Design Informatics) is group-based and may use an external organisation's data but partner role is not documented.\n\nMostly postgraduate and programme-bound; undergraduate access is limited to the Enterprise Consultancy Project and the EFI elective. Engineering, Informatics and the sciences show industry work mainly through individual dissertations or hypothetical clients. Remaining uncertainty: currency of several Business School pages, SACHA eligibility, and further departmental instances.",
+ "gaps": "Further departmental instances likely (ECA live-brief modules, Business School and EFI courses not individually checked, Engineering/Informatics sponsor projects). Currency not confirmed for MCiP, Climate Change Consulting, MBA projects, Freedom of Expression Clinic, GeoSciences Outreach. SACHA/EFI Change Agents eligibility conflict. No participation numbers published. Search ceiling approached (~40); Medicine/Veterinary/Social Sciences/Moray House only lightly searched."
+}
