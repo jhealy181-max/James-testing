@@ -1,0 +1,1091 @@
+{
+ "inst_id": "RG19",
+ "institution": "Queen's University Belfast",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Queen's University Belfast student consultancy live client project module",
+    "QUB Future-Ready Award employer project group challenge",
+    "Real-World Consultancy Programme Queen's careers 2026 teams",
+    "Real-World Challenge careers programme",
+    "Access Skills Queen's careers Real World Projects",
+    "Future Skills for Leaders Queen's",
+    "Science Shop Queen's Belfast students community organisations",
+    "Queen's interdisciplinary challenge module external partner"
+   ],
+   "key_sources": [
+    "https://www.qub.ac.uk/directorates/sgc/careers/careers-events/Programmes/real-world-consultancy-programme/",
+    "https://www.qub.ac.uk/directorates/sgc/careers/careers-events/Real-WorldConsultancyProgramme.html",
+    "https://www.qub.ac.uk/directorates/sgc/careers/recruit-queens-students/AccessSkills/",
+    "https://www.qub.ac.uk/sites/ScienceShop/",
+    "https://blogs.qub.ac.uk/careers/2025/02/27/students-work-with-industry-experts-to-suggest-climate-change-solutions/",
+    "https://blogs.qub.ac.uk/careers/tag/future-ready-skills-for-leaders/"
+   ],
+   "finding": "Careers runs the Real-World Consultancy Programme (4 days, 40 places, university-wide, current 2026), a one-day Real-World Challenge and Skills for Leaders; Science Shop hosts community projects. No institution-wide curricular employer-project scheme found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Queen's Management School consultancy project client organisation students teams",
+    "Business Clinic Queen's Business School module/teams/2026",
+    "MSc International Business International Consultancy capstone",
+    "Consultancy and problem solving module",
+    "MBA consultancy project",
+    "MSc Management consultancy",
+    "Data for Good Hackathon"
+   ],
+   "key_sources": [
+    "https://www.qub.ac.uk/schools/queens-business-school/business-hub/business-clinic/",
+    "https://www.qub.ac.uk/schools/queens-business-school/about/news/PartnerwiththeQBSBusinessClinictoUnlockPotential.html",
+    "https://www.qub.ac.uk/courses/postgraduate-taught/international-business-msc/",
+    "https://www.qub.ac.uk/schools/queens-business-school/events/DataforGoodHackathon2024.html"
+   ],
+   "finding": "Business Clinic gives live organisation consultancy projects (current 2026) but team/individual and credit status unresolved; consultancy dissertation routes and a hackathon are less documented."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "EEECS industry-sponsored group project software engineering",
+    "SE-FYP external organisations",
+    "CSC3032 module description",
+    "EEECS module descriptions 2025-26",
+    "mechanical aerospace civil group design project industrial sponsor",
+    "Sponsor a Student Project",
+    "Chemical engineering design project industry",
+    "MSc Software Development summer project industry"
+   ],
+   "key_sources": [
+    "https://blogs.qub.ac.uk/sefyp/",
+    "https://www.qub.ac.uk/schools/eeecs/filestore/Module%20Descriptions%202024-2025.%20%20Updated%2028.08.24-combined.pdf",
+    "https://www.qub.ac.uk/schools/SchoolofMechanicalandAerospaceEngineering/EmployerHub/SponsoraStudentProject/"
+   ],
+   "finding": "SE-FYP is a compulsory team capstone with externally proposed projects (client share unclear, currency unclear); Mech/Aero sponsored projects appear individual."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Pharmacy Biological Sciences Chemistry group project industry client",
+    "Mathematics Physics group project external organisation",
+    "MSc Data Analytics Analytathon",
+    "Analytics in Action DSA8023"
+   ],
+   "key_sources": [
+    "https://www.qub.ac.uk/schools/SchoolofMathematicsandPhysics/Study/StudentHandbook/PGStudentHandbook/DataAnalyticsModuleInformationandTimetable/",
+    "https://www.qub.ac.uk/courses/postgraduate-taught/data-analytics-msc/"
+   ],
+   "finding": "Only MSc Data Analytics Analytics in Action (group assignments on business-supplied data) found; undergraduate science projects with outside bodies are individual."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "English Politics History Sociology group project partner organisation",
+    "Law clinic live project students",
+    "Science Shop student group project"
+   ],
+   "key_sources": [
+    "https://www.qub.ac.uk/sites/ScienceShop/",
+    "https://www.qub.ac.uk/about/teaching-excellence/teaching-case-studies/science-shop-real-world-research.html"
+   ],
+   "finding": "Humanities/social science provision is placement-based or individual; Science Shop community research projects span disciplines but team working unevidenced."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Law Clinic Architecture live project Social Work Planning",
+    "MSc Planning and Development live planning problem",
+    "City Planning and Design Comparative Urban Design",
+    "architecture civil engineering planning studio live project"
+   ],
+   "key_sources": [
+    "https://www.qub.ac.uk/courses/postgraduate-taught/city-planning-design-msc/",
+    "https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ProgrammeSpecifications/2024/courses/CityPlanningandDesign-MSc-AcademicYear202425.html"
+   ],
+   "finding": "City Planning and Design has a commissioned live project in EVP7038 (client and team structure unclear); medicine/health and education not specifically searched for group projects beyond general queries."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Real-World Consultancy Programme (Careers)",
+   "english_name": "Real-World Consultancy Programme",
+   "module_code": "",
+   "description": "Four-day careers programme in which students from different disciplines work in project teams for an external client organisation and are facilitated through a Design Thinking process to resolve the client's problem. Clients named for 2025 include Aflac Northern Ireland, BDO Northern Ireland, Gig Grafter Limited, KPMG Ireland, The Phoenix Education Centre and SureCert.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers, Employability and Skills (Student Guidance Centre)",
+   "eligible_faculties_programmes": "Any subject; degree-registered students or recent graduates",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Open to Queen's students of all levels and subjects; free; limited to 40 places with waitlist; full attendance required.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit; accredited activity for the Future-Ready Award (Combined Route)",
+   "duration": "4 days (26-29 May 2026)",
+   "delivery_format": "In person, The Cube, One Elmwood, Belfast",
+   "project_based": "Yes",
+   "project_evidence": "Teams address a client's problem through Design Thinking within the four-day programme (sources 1-2). Final output format (presentation to client) is not explicit in the extracts seen.",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in a project team for an external client organisation with other students from different disciplines' (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "External client organisations set the problem; named 2025 clients listed in a student account (source 3). Programme page describes work 'for an external client organisation' (source 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Clients set the problem (business, professional services, an education charity/centre); exact feedback/assessment role not evidenced.",
+   "named_partners": "2025: Aflac Northern Ireland, BDO Northern Ireland, Gig Grafter Limited, KPMG Ireland, The Phoenix Education Centre, SureCert (source 3)",
+   "deliverable": "Solution to client problem (Design Thinking output; presentation not explicitly evidenced)",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (26-29 May 2026)",
+   "participation_data": "40 places (2026)",
+   "unresolved": "Exact deliverable/assessment by clients not seen; one-off short programme (4 days). Next (2027) cohort not announced in results seen.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qub.ac.uk/directorates/sgc/careers/careers-events/Programmes/real-world-consultancy-programme/",
+     "title": "Real-World Consultancy Programme",
+     "section": "Programme page",
+     "pub_year": "undated (2026 run advertised)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students work in a project team for an external client organisation with other students from different disciplines and will be facilitated through a Design Thinking process to resolve the client's problem; open to Queen's students of all levels; 40 places.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qub.ac.uk/directorates/sgc/careers/careers-events/Real-WorldConsultancyProgramme.html",
+     "title": "26-05-2026 - 29-05-2026 Real-World Consultancy Programme",
+     "section": "Event listing",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Listing for the programme run 26-29 May 2026 at The Cube, One Elmwood; free; full attendance required.",
+     "supports": [
+      "status",
+      "duration",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.qub.ac.uk/student-blog/careers-global-opportunities/UnveillingtheReal-WorldConsultancyExperienceAJourneyofDiscoveryandImpact.html",
+     "title": "Unveiling the Real-World Consultancy Experience",
+     "section": "Student blog",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student account lists client challenges set by Aflac Northern Ireland, BDO Northern Ireland, Gig Grafter Limited, KPMG Ireland, The Phoenix Education Centre and SureCert (search-summary attribution).",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.qub.ac.uk/directorates/future-ready-award/activity-search-tool/activities/Real-WorldConsultancyProgrammeCareersprogramme.html",
+     "title": "Real-World Consultancy Programme (Careers programme)",
+     "section": "Future-Ready Award activity",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Listed as a Future-Ready Award accredited careers programme.",
+     "supports": [
+      "credit"
+     ]
+    }
+   ],
+   "local_id": "S1"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Queen's Business School Business Clinic",
+   "english_name": "Business Clinic (student consultancy)",
+   "module_code": "",
+   "description": "Organisations (industry, government, charities, not-for-profits) submit a business issue; student consultants, supervised by an academic and a Professor of Practice and with an organisation mentor, work on it for 6-12 weeks and deliver a report, presentation and recommendations that form part of graded coursework. Current page names MSc International Business postgraduates; older pages describe undergraduate student teams.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Queen's Business School (Business Hub)",
+   "eligible_faculties_programmes": "Queen's Business School students (MSc International Business named on current page; undergraduates in earlier cycles)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Student level differs between pages (undergraduate teams 2023/24; postgraduates 2025/2026).",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Report and presentation 'form part of the students' graded coursework'; module/credit link not evidenced",
+   "duration": "6-12 weeks, June-September 2026",
+   "delivery_format": "Virtual or in person; academic supervision plus organisation mentor",
+   "project_based": "Yes",
+   "project_evidence": "Defined business issue; students produce 'engaging, action-oriented reports' with recommendations and a presentation (sources 1,3).",
+   "group_working": "Unclear",
+   "group_evidence": "Older pages: 'undergraduate student teams' (source 3); 2025 page: 'a dedicated team of postgraduate students' (source 2); a search summary of the current page also mentioned individual postgraduate students. Team vs individual for the current route not resolved.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation submits the proposal, provides a company mentor and works with a Professor of Practice during the project, and receives findings and recommendations (sources 1-3).",
+   "partner_type": "Mixed",
+   "partner_role": "Client sets issue, provides mentor, receives report/presentation. Eligible: industry, government, charities, not-for-profits.",
+   "named_partners": "Past clients cited on school pages: Danske Bank, KPMG, Innovation Factory, Bryson Charity Group, AllState NI, Denroy, TeamFeePay, GetSociable, Harmoni (undated/various years)",
+   "deliverable": "Report with recommendations plus presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (June-September 2026 projects advertised)",
+   "participation_data": "",
+   "unresolved": "Team vs individual working on the current postgraduate route; whether credit-bearing module (e.g. MSc IB capstone) or extra-curricular; no 2025/26 application call seen (last found: closing 30 Aug 2023).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qub.ac.uk/schools/queens-business-school/business-hub/business-clinic/",
+     "title": "Business Clinic",
+     "section": "Main page",
+     "pub_year": "2026 (projects June-Sept 2026)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "The projects range from six to twelve weeks and take place between June and September 2026; each student will require a company mentor; academics supervise; presentation, report and recommendations form part of students' graded coursework; postgraduate students from MSc International Business matched with businesses.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qub.ac.uk/schools/queens-business-school/about/news/PartnerwiththeQBSBusinessClinictoUnlockPotential.html",
+     "title": "Partner with the QBS Business Clinic to Unlock Potential",
+     "section": "News",
+     "pub_year": "2025 (listed 26 Jan 2025)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Organisations submit a proposal on objectives, scope and challenges; a dedicated team of postgraduate students works on the project and the organisation receives findings and recommendations; open to SMEs, large organisations, charities and social enterprises.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.qub.ac.uk/schools/queens-business-school/about/news/BusinessClinicNowOpenandAcceptingApplicationsFromOrganisations.html",
+     "title": "Business Clinic Now Open and Accepting Applications From Organisations",
+     "section": "News",
+     "pub_year": "2023",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Undergraduate student teams are matched with businesses seeking consultancy support; teams produce a report, presentation and recommendations; cycle September 2023 to April 2024; applications closed 30 August 2023.",
+     "supports": [
+      "group",
+      "project",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S2"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc International Business: International Consultancy capstone pathway",
+   "english_name": "MSc International Business - International Consultancy capstone",
+   "module_code": "",
+   "description": "Semester-3 capstone pathway in which students work alongside a real-world global organisation and mentor to address a specific problem; alternatives are a Global Applied Project and an International Internship. Likely overlaps with the Business Clinic matching of MSc International Business students (S2).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Queen's Business School",
+   "eligible_faculties_programmes": "MSc International Business",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60-credit capstone (2024/25 programme specification); students must complete 90 CATS of taught modules first",
+   "duration": "Semester 3",
+   "delivery_format": "Organisation mentor plus dedicated academic support",
+   "project_based": "Yes",
+   "project_evidence": "'Working alongside a real-world global organisation and mentor to address a specific problem' (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Specification refers to an 'individual capstone project'; team-based element only evidenced for an online simulation. Consultancy pathway team vs individual not resolved.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real-world global organisation and company mentor (source 1); coverage across pathway options varies (optional pathway).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Mentor and problem owner (organisation); extent of assessment role not evidenced.",
+   "named_partners": "",
+   "deliverable": "Capstone consultancy report (not detailed)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "S2",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Group vs individual; current-year delivery; relationship to Business Clinic (probable duplicate of S2 activity).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qub.ac.uk/courses/postgraduate-taught/international-business-msc/",
+     "title": "International Business (MSc)",
+     "section": "Course page - capstone",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Students can choose International Consultancy - working alongside a real-world global organisation and mentor to address a specific problem; assigned dedicated academic support and company mentors where relevant.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ProgrammeSpecifications/2024/courses/InternationalBusiness-MSc-AcademicYear202425.html",
+     "title": "International Business - MSc - Academic Year 2024/25",
+     "section": "Programme specification",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "60-credit capstone; 90 CATS of taught modules required before the individual capstone project.",
+     "supports": [
+      "credit",
+      "group",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S3"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CSC3032 Software Engineering Final Year Project (SE-FYP)",
+   "english_name": "Software Engineering Final Year Project",
+   "module_code": "CSC3032",
+   "description": "Capstone, team-based module for final-year BEng Software Engineering students. Teams of 4-5 build a new system or extend an existing codebase against projects in an annual Project Booklet; projects are proposed by non-academic organisations (expression-of-interest call) as well as academics, with the Science Shop (community), careers/YOPE (industry) and cross-department routes. Teams sign a Memorandum of Understanding.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of EEECS",
+   "eligible_faculties_programmes": "BEng Software Engineering (incl. placement/year in industry route)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits, 100% coursework (EEECS module descriptions 2024-25)",
+   "duration": "~24-25 weeks (mid-September to mid-April)",
+   "delivery_format": "Team project with internal supervisor; example in booklet also shows external subject-expert supervisor",
+   "project_based": "Yes",
+   "project_evidence": "Bounded software build/extension per team from Project Booklet (sources 1,3).",
+   "group_working": "Yes",
+   "group_evidence": "'Students form teams of four'; 'each team member is responsible for a key component of the system' (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Non-academic organisations propose problems by EoI; staff profile says the lecturer 'links private, public and third party organisations to final year software engineering student teams' (sources 1,2); example booklet entry shows an external supervisor (source 4). But academics also propose projects and the share of external-client projects is not stated.",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes the problem via EoI; MoU with team; sometimes external expert supervisor. Internal (academic) proposals also exist.",
+   "named_partners": "",
+   "deliverable": "Working software system",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (module descriptions); booklet 2023-24",
+   "participation_data": "",
+   "unresolved": "Share of projects with external clients per year; no dated 2025/26 allocation or booklet seen; blog page undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://blogs.qub.ac.uk/sefyp/",
+     "title": "SE-FYP @ QUB/EEECS",
+     "section": "Blog home",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Capstone module for BEng Software Engineering; students form teams of four (~70 students); non-academic organisations and academics may propose projects via expression of interest; allocation in second week of October; teams sign an MoU.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://pure.qub.ac.uk/en/persons/moira-watson/",
+     "title": "Moira Watson - staff profile",
+     "section": "Profile",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Links private, public and third-party organisations to final year software engineering student teams to work on authentic challenges as part of their capstone project.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.qub.ac.uk/schools/eeecs/filestore/Module%20Descriptions%202024-2025.%20%20Updated%2028.08.24-combined.pdf",
+     "title": "EEECS Module Descriptions 2024-2025",
+     "section": "CSC3032",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "CSC3032: 40 units; project assessment 100%.",
+     "supports": [
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://blogs.qub.ac.uk/sefyp/wp-content/uploads/sites/330/2023/10/CSC3032-Projects-Booklet-2023-24-pub.pdf",
+     "title": "CSC3032 Projects Booklet 2023-24",
+     "section": "Booklet",
+     "pub_year": "2023/24",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Each project lists an internal supervisor and (in at least one example) an external subject-expert supervisor.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S4"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "DSA8023 Analytics in Action (MSc Data Analytics)",
+   "english_name": "Analytics in Action",
+   "module_code": "DSA8023",
+   "description": "Core module of the MSc Data Analytics: three assignments/presentations (two group, one individual) using real-life data provided by real-world businesses, presenting results and recommendations. Programme also cites industry-provided data for 'Analytathons' and projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Mathematics and Physics",
+   "eligible_faculties_programmes": "MSc Data Analytics",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Assessed by assignments/presentations; weighting differs between sources",
+   "duration": "One module (timetabled teaching period)",
+   "delivery_format": "Group and individual presentations on business data",
+   "project_based": "Unclear",
+   "project_evidence": "Assignments analyse business-provided data and present recommendations, but project scale/brief definition not evidenced (sources 1-2).",
+   "group_working": "Yes",
+   "group_evidence": "'3 assignments/presentations (2 group, 1 individual)' (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Data are 'provided by real-world businesses'; industry experts present real-world examples (source 1). Role in feedback/assessment not evidenced.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies real data; industry speakers.",
+   "named_partners": "",
+   "deliverable": "Group presentations/reports of analytics findings",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Whether assignments are substantive bounded projects; which businesses; current-year delivery (2024-25 timetable page only).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qub.ac.uk/schools/SchoolofMathematicsandPhysics/Study/StudentHandbook/PGStudentHandbook/DataAnalyticsModuleInformationandTimetable/",
+     "title": "Data Analytics Module Information and Timetable",
+     "section": "DSA8023",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Module includes 3 assignments/presentations (2 group, 1 individual) working with real-life data provided by real-world businesses.",
+     "supports": [
+      "group",
+      "employer",
+      "project",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qub.ac.uk/courses/postgraduate-taught/data-analytics-msc/",
+     "title": "Data Analytics (MSc)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Special features include the Analytics in Action module and the commitment of industry to provide real data for 'Analytathons' and projects.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S5"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Queen's Science Shop (QUB/Ulster)",
+   "english_name": "Science Shop community-based student research projects",
+   "module_code": "",
+   "description": "Community and voluntary organisations submit research requests; students undertake them as curriculum projects (dissertations and small-scale projects) with an academic supervisor and an agreement with the community partner. Reports 50-60 projects and 200+ students annually.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Science Shop (joint QUB/Ulster University; HEIF-funded)",
+   "eligible_faculties_programmes": "Undergraduate and master's degrees across disciplines (e.g. planning, architecture, geography, environmental, social science MRes)",
+   "faculty_areas": [
+    "central",
+    "science",
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Integrated into degree projects/dissertations (e.g. MRes 15,000-20,000 words); credit varies by programme",
+   "duration": "Varies by project",
+   "delivery_format": "Academic supervisor approves each project; agreement drawn up with community group",
+   "project_based": "Yes",
+   "project_evidence": "Defined community research question with a report output (sources 1-2).",
+   "group_working": "Unclear",
+   "group_evidence": "Mainly individual dissertation-type projects; group delivery possible but not separable in the extracts seen.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Community groups propose the project and receive the findings; agreement with student (sources 1-2).",
+   "partner_type": "Charity/community",
+   "partner_role": "Proposes project, receives research.",
+   "named_partners": "Ulster Cancer Foundation, National Trust, Bryson Recycling, Age NI, Women's Aid, Rural Community Network, Forever Mournes Partnership, Cancer Focus NI (undated/various)",
+   "deliverable": "Research report for community organisation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 (live project requests with 2025 codes; officer post advertised May 2025)",
+   "participation_data": "50-60 projects and 200+ students per year (undated)",
+   "unresolved": "No evidence which projects are team-based; reach is cross-faculty by example only; scale per year undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qub.ac.uk/about/teaching-excellence/teaching-case-studies/science-shop-real-world-research.html",
+     "title": "The Science Shop: Connecting Students with Real-World Community Research Challenges",
+     "section": "Teaching case study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Community organisations matched with students needing a degree project; projects fully integrated into curriculum with academic supervision; 50-60 projects, 200+ students annually.",
+     "supports": [
+      "project",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qub.ac.uk/sites/ScienceShop/LiveProjects/",
+     "title": "Live Projects",
+     "section": "Live project list",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Live requests from community groups, some with 2025 request codes.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S6"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "EVP7038 Comparative Urban Design (MSc City Planning and Design)",
+   "english_name": "Comparative Urban Design - live regeneration project",
+   "module_code": "EVP7038",
+   "description": "20-credit core module with a real-world live project commissioned in the semester: students analyse a Northern Ireland study area (policy analysis, stakeholder mapping, urban analysis) and produce urban design and policy proposals; includes a Week 8 European field trip. Programme pages describe live design projects for local authority and community clients.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Natural and Built Environment",
+   "eligible_faculties_programmes": "MSc City Planning and Design (also PgCert, HLA variants)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, 100% coursework",
+   "duration": "12 weeks",
+   "delivery_format": "Seminars, studio, group and individual project work, field trip",
+   "project_based": "Yes",
+   "project_evidence": "Proposals for allocated study area from commissioned live project (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Programme specification lists 'group and individual project work' as teaching methods; module-level team structure for the live project not shown.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Search extract says a 'professional client' sets parameters for the regeneration strategy, but client identity/role in assessment not shown; page appears partly duplicated across programmes.",
+   "partner_type": "Public sector",
+   "partner_role": "Commissioned live project client (identity unevidenced); local authority/community clients described at programme level.",
+   "named_partners": "",
+   "deliverable": "Urban design and policy proposals",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Group vs individual; client identity; current delivery; identical wording appears on other programme pages (possible copy-paste).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qub.ac.uk/courses/postgraduate-taught/city-planning-design-msc/",
+     "title": "City Planning and Design (MSc)",
+     "section": "Course page - module description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A real-world live project has been commissioned within the semester; professional client sets parameters for a regeneration strategy; field trip in Week 8.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/ProgrammeSpecifications/2024/courses/CityPlanningandDesign-MSc-AcademicYear202425.html",
+     "title": "City Planning and Design - MSc - Academic Year 2024/25",
+     "section": "Programme specification",
+     "pub_year": "2024/25",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Comparative Urban Design EVP7038, 20 credits, 100% coursework, 12 weeks; teaching includes group and individual project work.",
+     "supports": [
+      "credit",
+      "status",
+      "group"
+     ]
+    }
+   ],
+   "local_id": "S7"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Real-World Challenge: Climate Change (Careers)",
+   "english_name": "Real-World Challenge",
+   "module_code": "",
+   "description": "One-day careers event (PwC Belfast, 20 Feb 2025) where about 70 students from several schools work on climate-change challenges and present ideas on sustainability transformation to leaders from public, private and not-for-profit organisations (partners credited include Climate Northern Ireland, Arup, Belfast City Council).",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers, Employability and Skills",
+   "eligible_faculties_programmes": "Students from several Queen's schools",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Future-Ready Award accredited (Combined Route)",
+   "duration": "1 day",
+   "delivery_format": "In person, PwC Merchant Square, Belfast",
+   "project_based": "Unclear",
+   "project_evidence": "Task described variously (sustainability ideas; 'Best & Worst Newspaper Headlines of 2050'); defined organisation-set brief not evidenced (sources 1-2).",
+   "group_working": "Unclear",
+   "group_evidence": "Students 'work with industry experts' and tackle the challenge with peers; team structure not explicit.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Leaders from public, private and not-for-profit organisations hear and respond to student ideas (source 1).",
+   "partner_type": "Mixed",
+   "partner_role": "Receive presentations; speakers; host.",
+   "named_partners": "2025: PwC (host), Climate Northern Ireland, Arup, Belfast City Council",
+   "deliverable": "Presentation of ideas",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (20 Feb 2025)",
+   "participation_data": "~70 students (2025)",
+   "unresolved": "Whether organisations set the problem; team structure; 2026 edition not found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://blogs.qub.ac.uk/careers/2025/02/27/students-work-with-industry-experts-to-suggest-climate-change-solutions/",
+     "title": "Students work with industry experts to suggest climate change solutions",
+     "section": "Careers blog",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students asked to present ideas to drive sustainability transformation to leaders from the public, private and not-for-profit sectors.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qub.ac.uk/events/whats-on/listing/realworldchallengeclimatechange.html",
+     "title": "20.02.2025 Real World Challenge Climate Change",
+     "section": "Event listing",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Full-day session at PwC for students from several Queen's schools; tackle climate change with 70 peers.",
+     "supports": [
+      "reach",
+      "duration",
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S8"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Future-Ready Skills for Leaders (Careers)",
+   "english_name": "Future-Ready Skills for Leaders",
+   "module_code": "",
+   "description": "Three-day programme: teams work through business games and challenges on global problems, are mentored by an employer representative (2024) and pitch to employers/judges (2024 Innovation Fair).",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers, Employability and Skills",
+   "eligible_faculties_programmes": "Any discipline or level",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Future-Ready Award accredited",
+   "duration": "3 days",
+   "delivery_format": "In person over Easter break",
+   "project_based": "Unclear",
+   "project_evidence": "Business games/challenges; product pitch in 2024; employer-set live brief not evidenced.",
+   "group_working": "Yes",
+   "group_evidence": "'work in teams to tackle global challenges' (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Employer representative mentors each team and employers receive pitches (2024), but organisations do not evidently supply a live brief; games likely simulated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Mentors, judges.",
+   "named_partners": "",
+   "deliverable": "Team pitch/business plan",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024",
+   "participation_data": "~50 students (2024)",
+   "unresolved": "Simulation vs live brief; no 2025/26 dates.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://blogs.qub.ac.uk/careers/tag/future-ready-skills-for-leaders/",
+     "title": "future-ready skills for leaders",
+     "section": "Careers blog tag",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Fast-paced three-day event: work in teams to tackle global challenges, present to employers and compete for prizes; each team mentored by an employer representative (2024).",
+     "supports": [
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ],
+   "local_id": "S9"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Data for Good Hackathon (Queen's Business School)",
+   "english_name": "Data for Good Hackathon",
+   "module_code": "",
+   "description": "Two-day hackathon in which students from MBA, Business Analytics, Management and International Business programmes use open NI health data to address GP-practice problems with industry mentors (EY, PwC, FinTrU, Kainos in 2024). A 2026 edition was listed for 11-12 June 2026.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Queen's Business School (Dr Byron Graham)",
+   "eligible_faculties_programmes": "Business School postgraduate programmes",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "2 days",
+   "delivery_format": "In person, training day beforehand",
+   "project_based": "Unclear",
+   "project_evidence": "Problem-focused data challenge; defined output for an organisation not evidenced.",
+   "group_working": "Yes",
+   "group_evidence": "'Teams worked on NI health service problems' (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industry mentors only; no organisation evidenced as setting the brief or receiving outputs.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Mentors.",
+   "named_partners": "Mentors 2024: EY, PwC, FinTrU, Kainos",
+   "deliverable": "Data-driven solution (format not evidenced)",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 listing / 2024 delivered",
+   "participation_data": "",
+   "unresolved": "Who sets the problem and who receives outputs; whether 2026 edition ran.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qub.ac.uk/schools/queens-business-school/events/DataforGoodHackathon2024.html",
+     "title": "14.06.2024 Data for Good Hackathon 2024",
+     "section": "Event page",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Two-day event at Queen's Business School; teams with industry mentors.",
+     "supports": [
+      "group",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.qub.ac.uk/student-blog/india/data-for-good-hackathon.html",
+     "title": "Data for Good Hackathon 2024 at Queen's Business School",
+     "section": "Student blog",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Mentored by data experts from EY, PwC, FinTrU and Kainos.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S10"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Sponsor a Student Project (School of Mechanical and Aerospace Engineering)",
+   "english_name": "Industry-sponsored final-year projects",
+   "module_code": "",
+   "description": "Scheme linking final-year students with industrial sponsors: sponsor joins a fortnightly 30-minute supervision meeting, covers hardware costs, and receives the final report and artefacts.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Mechanical and Aerospace Engineering",
+   "eligible_faculties_programmes": "Final-year mechanical/aerospace students",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Final-year project (credit not seen)",
+   "duration": "Academic year",
+   "delivery_format": "Supervision meeting with academic and student",
+   "project_based": "Yes",
+   "project_evidence": "Sponsored final-year project with final report and artefacts (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Page refers to 'the academic supervisor and student'; appears individual but not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsor attends supervision meetings, funds hardware, receives report (source 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor/supervision participant; receives deliverables.",
+   "named_partners": "",
+   "deliverable": "Final report and artefacts",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (page indexed ~3 years old)",
+   "participation_data": "",
+   "unresolved": "Group vs individual; currency; number of sponsored projects.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.qub.ac.uk/schools/SchoolofMechanicalandAerospaceEngineering/EmployerHub/SponsoraStudentProject/",
+     "title": "Sponsor a Student Project",
+     "section": "Employer Hub",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Aims to link final-year students with industrial partners; sponsors join fortnightly 30-minute supervision meeting, cover hardware costs, receive final report and artefacts.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S11"
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Future-Ready Award",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Co-curricular recognition framework (1,000+ awards/yr, 100+ accredited activities per legacy); it recognises other activities rather than being a project scheme. Qualifying underlying activities (e.g. Real-World Consultancy Programme, S1) are recorded separately.",
+   "source_url": "https://www.qub.ac.uk/directorates/future-ready-award/",
+   "status_note": "Undated page"
+  },
+  {
+   "name": "Stock Market Challenge (Careers)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Pairs/teams compete on an investment simulation; no external organisation brief evidenced.",
+   "source_url": "https://www.qub.ac.uk/directorates/sgc/careers/recruit-queens-students/AccessSkills/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Data Analytics Work Based Project / 12-week industry placement",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Project with external organisation proposed by the organisation with company mentor, but described as individual placement/report.",
+   "source_url": "https://www.qub.ac.uk/courses/postgraduate-taught/data-analytics-msc/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Software Development (AI) summer project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "60-credit individual software development project, many in collaboration with industry partners.",
+   "source_url": "https://www.qub.ac.uk/courses/postgraduate-taught/2026/software-development-ai-msc/",
+   "status_note": ""
+  },
+  {
+   "name": "Industrial and Green Chemistry team problem (Medicinal Chemistry with a Year in Industry)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams solve a problem 'framed as coming from a company' and give poster presentations; hypothetical company, no external organisation evidenced.",
+   "source_url": "https://www.qub.ac.uk/courses/undergraduate/medicinal-chemistry-year-industry-mchem-f15c/",
+   "status_note": ""
+  },
+  {
+   "name": "Business Management with Placement: Consultancy and problem solving (20 credits)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Teaches consulting methods and client-proposal skills; no external client evidenced for the assessment.",
+   "source_url": "https://www.qub.ac.uk/courses/undergraduate/business-management-placement-bsc-n202/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Management Consultancy Based Report (MGT9202) and MBA consultancy project option",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "60-credit consultancy route / optional consultancy dissertation (MBA pays own travel); no evidence of live clients or team delivery seen.",
+   "source_url": "https://www.qub.ac.uk/courses/postgraduate-taught/master-business-administration-mba/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Planning and Development live planning problems",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Programme-level marketing refers to live problems and a local-authority Development Plan exercise; no module-level extract on client or group working.",
+   "source_url": "https://www.qub.ac.uk/courses/postgraduate-taught/planning-development-msc/",
+   "status_note": ""
+  },
+  {
+   "name": "Software engineering first-year Deloitte brief / EWB Design Challenge (CSC2058)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Deloitte-briefed first-year group work (page ~1,200 days old) and Engineering Without Borders challenge within CSC2058 group project: no current-year evidence of external organisation role.",
+   "source_url": "https://www.qub.ac.uk/research-centres/ces/CaseStudies/EngineeringWithoutBordersEWBDesignChallengeatEEECS/",
+   "status_note": "Historical/undated"
+  },
+  {
+   "name": "EEE final-year projects (Megaw Lecture) with industry support",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Industry judges and sponsors at showcase; no evidence that organisations set briefs or that projects are group-based.",
+   "source_url": "https://www.qub.ac.uk/schools/eeecs/News/EEEstudentsshowcasedprojectsattheMegawLecture2025withsupportfromindustrypartners.html",
+   "status_note": ""
+  },
+  {
+   "name": "Chemical Engineering plant design groups",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Groups of five design a chemical plant under academic supervision; no external client or industrial mentor evidenced.",
+   "source_url": "https://www.qub.ac.uk/courses/undergraduate/chemical-engineering-meng-h802/",
+   "status_note": ""
+  },
+  {
+   "name": "Physics/Maths projects with outside organisations",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual projects with external bodies (e.g. Central Laser Facility, NI Cancer Centre) if approved; group projects are internal modelling.",
+   "source_url": "https://www.qub.ac.uk/courses/undergraduate/physics-mphys-f303/",
+   "status_note": ""
+  },
+  {
+   "name": "Industry-linked MSc Industrial Pharmaceutics / Pharmaceutical Analysis projects",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual research projects possibly with industry partners.",
+   "source_url": "https://www.qub.ac.uk/courses/postgraduate-taught/industrial-pharmaceutical-biotechnology-msc/",
+   "status_note": ""
+  },
+  {
+   "name": "Law: Clinical Law placement (Law Centre NI), Victims' Rights Law Clinic, GLAN clinical project",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Placement-based or historical (clinic evidence 2016/17); GLAN project is a small postgraduate group but no project/team detail seen.",
+   "source_url": "https://www.qub.ac.uk/schools/SchoolofLaw/news/archive-22-25/GLAN.html",
+   "status_note": ""
+  },
+  {
+   "name": "Politics / Public History placements",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements with partner organisations (Ulster Museum, Titanic Belfast, PRONI) or dissertation alternative.",
+   "source_url": "https://www.qub.ac.uk/courses/postgraduate-taught/public-history-ma/",
+   "status_note": ""
+  },
+  {
+   "name": "Architecture live projects / Civil Engineering group design exercises",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "General statements of live projects and team design exercises; no specific external-client module found.",
+   "source_url": "https://www.qub.ac.uk/schools/NBE/Disciplines/Architecture/",
+   "status_note": ""
+  },
+  {
+   "name": "Queen's Global Leadership Programme (Careers)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Students create a proposal and pitch to a professional panel; organisation brief and group structure not evidenced.",
+   "source_url": "https://www.qub.ac.uk/directorates/future-ready-award/activity-search-tool/activities/QueensGlobalLeadershipProgrammeCareersProgramme.html",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Queen's has one verified, currently delivered route meeting all three criteria: the Careers-run **Real-World Consultancy Programme** (4 days, 26-29 May 2026), where multidisciplinary teams of up to 40 students from any subject or level resolve problems set by named external clients (2025: Aflac NI, BDO NI, KPMG Ireland, an education charity and others). It is extracurricular, selective and Future-Ready Award accredited, so reach is university-wide but participation is small and short.\n\nOther routes are discipline-based and incomplete. The Queen's Business School **Business Clinic** places students on 6-12 week consultancy projects for organisations (industry, government, charities) with an organisation mentor and academic supervision, delivering reports and presentations for graded coursework; current-year delivery is advertised but team versus individual working and credit are unresolved. The **Software Engineering Final Year Project (CSC3032)** is a compulsory 40-credit team capstone whose projects can be proposed by outside organisations through an EoI call, but academics also propose and the external share and 2025/26 delivery are not shown. MSc Data Analytics (Analytics in Action) uses business-supplied data in group presentations; MSc City Planning and Design has a commissioned live project. The Science Shop supports community-organisation research projects across disciplines, mostly individual dissertations.\n\nEmbedding is distributed across schools rather than institution-wide; no compulsory or university-wide curricular employer-project requirement was found. Many legacy and departmental items (the Future-Ready Award itself, placements, individual industry projects) were excluded on the criteria.",
+ "gaps": "Search exceeded the ~40 ceiling (44 searches). Unresolved: Business Clinic team vs individual and credit status; share of external-client projects and 2025/26 delivery for CSC3032; client and group structure in EVP7038; Science Shop team-based projects; further departmental capstones (architecture, civil, chemical engineering, medicine/health, education, law) likely exist but were not verified; no 2025/26 handbook-level module pages were retrievable (WebSearch only)."
+}
