@@ -97,6 +97,8 @@ legacy_disp = {}  # legacy_row -> disposition text
 for inst in insts:
     iid = inst["inst_id"]; reg = REGION[iid[:2]]
     r = results.get(iid)
+    if r and not any(s((r.get("search_log") or {}).get(a, {}).get("status")).lower().startswith("searched") for a in AREAS) and not r.get("schemes"):
+        r = None  # placeholder written without any research: treat as not started
     if not r:
         summary.append(dict(inst=inst, region=reg, status="Not started", r=None))
         for lr in legacy[iid]["legacy_rows"]:

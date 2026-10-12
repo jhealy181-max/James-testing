@@ -1,0 +1,733 @@
+{
+ "inst_id": "RG01",
+ "institution": "University of Birmingham",
+ "review_status": "Partial",
+ "partial_remaining": "Shared WebSearch budget exhausted after 14 searches. Remaining: science (Biosciences, Geography/Earth & Environmental Sciences, Mathematics, Psychology); social sciences (INLOGOV/public policy consultancy, Government & Society, Education, Social Policy); arts & humanities (Professional Skills Module current format, cultural-sector projects); other (Law pro bono/clinics, Medicine/Health, Dentistry); computing (MSc/Year 2 team projects with industry); engineering module-level evidence for industry-set group design projects; current-year corroboration for S5/S6; MBA Grow Movement detail.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Birmingham Project interdisciplinary students teams challenge employers",
+    "\"Birmingham Project\" first year challenge question employer group video presentation self-evaluation 2026",
+    "Who can take part in The Birmingham Project eligibility employer partners",
+    "Masters Consultancy Challenge postgraduate teams client organisation brief",
+    "Careers Network Impact Challenge Global Challenge teams organisation brief"
+   ],
+   "key_sources": [
+    "https://intranet.birmingham.ac.uk/student/careers/skills-development/birmingham-project/index.aspx",
+    "https://www.birmingham.ac.uk/news/2026/university-of-birmingham-wins-student-employability-award",
+    "https://intranet.birmingham.ac.uk/student/student-hub/solution.aspx?nodeId=5442",
+    "https://intranet.birmingham.ac.uk/as/employability/careers/postgraduate/pgt/mcc.aspx",
+    "https://intranet.birmingham.ac.uk/student/careers/equality-and-diversity/impact-challenge.aspx"
+   ],
+   "finding": "Three qualifying central Careers Network routes: the Birmingham Project (first-year UGs, employer-set challenges), the Masters Consultancy Challenge (PGT, Turner & Townsend) and the Impact Challenge (WP undergraduates, employer-set projects). Global Challenge is overseas placements."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Birmingham Business School company projects group consultancy project organisations",
+    "Capgemini Community Challenge undergraduate teams charity consultancy",
+    "Strategic Marketing and Consulting MSc group consultancy project real client module"
+   ],
+   "key_sources": [
+    "https://www.birmingham.ac.uk/about/college-of-social-sciences/birmingham-business-school/company-projects",
+    "https://intranet.birmingham.ac.uk/student/careers/skills-development/capgemini-community-challenge.aspx",
+    "https://www.birmingham.ac.uk/study/postgraduate/subjects/marketing-courses/strategic-marketing-and-consulting-msc"
+   ],
+   "finding": "Capgemini Community Challenge (UG, charity clients) and the MSc Strategic Marketing and Consulting group consultancy project qualify; Masters/MBA Company Projects have live challenges but group format unclear; Deloitte MBA challenge is a simulation."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Group Industrial Projects engineering students industry partner team project",
+    "engineering final year group design project set by industry sponsor company MEng",
+    "Chemical Engineering final year design project groups industry linked",
+    "Computer Science team project external client industry software group module"
+   ],
+   "key_sources": [
+    "https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-industrial-beng",
+    "https://www.birmingham.ac.uk/study/undergraduate/subjects/aerospace-engineering-courses/aerospace-engineering-meng"
+   ],
+   "finding": "Group design projects exist across MEng programmes but course pages describe them only as industry-linked/relevant; no external client evidenced. Chemical Engineering design project recorded as Unclear. No CS external-client team project found."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "physics third year group industrial project company students small groups"
+   ],
+   "key_sources": [
+    "https://www.birmingham.ac.uk/Documents/college-eps/college/stem/group-industrial-projects.pdf"
+   ],
+   "finding": "Only Physics searched: group project is academic-led. Biosciences, Geography/Environmental Sciences, Mathematics, Psychology not searched (search limit reached)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "module students work in groups consultancy project for external organisation charity council report social sciences"
+   ],
+   "key_sources": [
+    "https://www.birmingham.ac.uk/documents/college-artslaw/studentexperience/2022-psm-example-projects-web-version.pdf"
+   ],
+   "finding": "One broad search only: Arts and Law Professional Skills Module is placement-based; no social-science group client module found. INLOGOV/public policy, Government and Society, Education not searched individually."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Law (Pro Bono/clinics), Medicine and Health, Education not searched: shared web-search budget exhausted after 14 searches."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "More than 2,000 students have completed the programme since 2013 (cumulative participants; 2026 news item).",
+   "named_partners": "2026 news item: Birmingham City FC, Conde Nast, Expedia Group, HSBC, Siemens, Transport for West Midlands, West Midlands Combined Authority; employer partners page lists 8 supporters for June 2026 incl. new partner BBC Studios Drama Productions.",
+   "local_id": "S1",
+   "official_name": "The Birmingham Project",
+   "english_name": "The Birmingham Project",
+   "module_code": "",
+   "description": "One-week, full-time (09:00-17:00) on-campus programme for first-year undergraduates. Students are matched to a sustainability/social theme and placed in small interdisciplinary teams; the challenge question, set by one of the employer partners, is revealed on day one. Each challenge is supported by an industry professional and a team of academics. Teams produce a solution and give an assessed group video presentation to peers, industry professionals and academics on the final day, plus an individual self-evaluation.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers Network (central)",
+   "eligible_faculties_programmes": "Registered first-year undergraduates on any course (incl. Erasmus students) at the Birmingham (Edgbaston) campus",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 1",
+   "eligibility_restrictions": "First-year UG, Birmingham campus only; must attend every day of the week; Birmingham Scholars and students from IMD Quintile 1 neighbourhoods encouraged/get early enrolment (16 March 2026; general enrolment 30 March 2026).",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Non-credit-bearing; recorded as a pass/fail module on the University transcript. Group video presentation 50% + individual self-evaluation 50%.",
+   "duration": "One week (5 days, full-time), June",
+   "delivery_format": "In person, Edgbaston campus",
+   "project_based": "Yes",
+   "project_evidence": "Defined challenge question per team, solution developed over the week and delivered as an assessed group video presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in small interdisciplinary teams/groups with students from across the university; assessed group presentation [1][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employer partners set the challenges ('seven employer-set challenges' in the 2026 news item), an industry professional supports each challenge, and teams present to industry professionals on the final day [1][4][5].",
+   "partner_type": "Mixed",
+   "partner_role": "Set the challenge question; industry professional supports each challenge team; industry professionals attend/receive final presentations.",
+   "deliverable": "Group video presentation of solution; individual self-evaluation",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (8-12 June 2026 run; a 7-11 June 2027 run was also reported)",
+   "unresolved": "Partner count differs (7 in news item vs 8 on partner page for 2026). Annual places not published. 2027 dates came from a search summary of the project page and are not separately verified.",
+   "legacy_ref": "Birmingham Project",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://intranet.birmingham.ac.uk/student/careers/skills-development/birmingham-project/index.aspx",
+     "title": "The Birmingham Project",
+     "section": "Main page (2026 run)",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Runs 8-12 June 2026, in-person one-week event on campus for first-year undergraduates; students are matched to a theme and the challenge question is revealed on the first day; teams give their assessed presentation 'to your peers, industry professionals, and your academic support team' on the final day; group video presentation 50% and self-evaluation 50%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://intranet.birmingham.ac.uk/student/student-hub/solution.aspx?nodeId=4522",
+     "title": "How will my participation in The Birmingham Project be recognised?",
+     "section": "Student Hub FAQ",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'The Birmingham Project is formally recognised as a pass/fail module on your University transcript; however, the project is non-credit bearing.'",
+     "supports": [
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://intranet.birmingham.ac.uk/student/student-hub/solution.aspx?nodeId=5442",
+     "title": "Who can take part in The Birmingham Project?",
+     "section": "Student Hub FAQ",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Registered first-year undergraduates from any course, including Erasmus students, can take part; only Birmingham campus students; teams work on an innovative solution to social or environmental issues in small groups with students from across the university; must be available every day 09:00-17:00.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "group",
+      "participation"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.birmingham.ac.uk/news/2026/university-of-birmingham-wins-student-employability-award",
+     "title": "University of Birmingham wins student employability award",
+     "section": "News 2026",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Mixed-discipline teams of first-year students develop solutions to seven employer-set, sustainability-focused challenges; each challenge supported by an industry professional and a team of academics; partners Birmingham City FC, Conde Nast, Expedia Group, HSBC, Siemens, Transport for West Midlands and West Midlands Combined Authority; more than 2,000 students since 2013; won Employer and Community Partnerships Award (Academic Employability Awards).",
+     "supports": [
+      "employer",
+      "project",
+      "group",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://intranet.birmingham.ac.uk/student/careers/skills-development/birmingham-project/employer-partners.aspx",
+     "title": "The Birmingham Project employer partners",
+     "section": "Employer partners",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Lists 8 employer supporters for June 2026, including new addition BBC Studios Drama Productions.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "named_partners": "Turner & Townsend (2025, 2026)",
+   "local_id": "S2",
+   "official_name": "Masters Consultancy Challenge (MCC)",
+   "english_name": "Masters Consultancy Challenge",
+   "module_code": "",
+   "description": "Intensive three-week Careers Network programme in which taught postgraduates form interdisciplinary groups to solve a challenge set by Turner & Townsend (project management, sustainability, transport and infrastructure themes), then present solutions to a judging panel of industry and University representatives.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers Network (central, postgraduate)",
+   "eligible_faculties_programmes": "PGT students from any of the five Colleges registered on Edgbaston-campus programmes",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Masters (summer period)",
+   "eligibility_restrictions": "PGT only; Edgbaston-campus programmes; limited places allocated on quality of application.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "3 weeks (8-26 June 2026; 9-27 June 2025)",
+   "delivery_format": "Intensive programme; mode not specified",
+   "project_based": "Yes",
+   "project_evidence": "Defined 'challenge' set by the firm, solved by teams and presented as challenge solutions [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'students will form interdisciplinary groups to solve a challenge' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Turner & Townsend sets the challenge; teams present to a judging panel of industry and University representatives [1][2]. Caveat: one page says the challenge 'simulates real organisational challenges', while the Business School page calls them 'real organisational challenges for Turner & Townsend' [2] - the firm nonetheless sets the brief and industry representatives judge.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets the challenge brief; industry representatives sit on the judging panel.",
+   "deliverable": "Team challenge solution and presentation to judging panel",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Whether the Turner & Townsend brief is a live organisational problem or a designed scenario ('simulates'); number of places; credit/recognition.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://intranet.birmingham.ac.uk/as/employability/careers/postgraduate/pgt/mcc.aspx",
+     "title": "Masters Consultancy Challenge",
+     "section": "Careers Network PGT page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'an intensive 3-week programme, students will form interdisciplinary groups to solve a 'challenge' set by Turner & Townsend'; challenge 'simulates real organisational challenges'; 'Teams will present their challenge solutions to a judging panel made up of industry and University representatives'; 2026 edition 8-26 June 2026; 'only open to Postgraduate Taught students registered to a degree programme based at the Edgbaston Campus'; places 'allocated on the quality of your application'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "participation",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.birmingham.ac.uk/about/college-of-social-sciences/birmingham-business-school/company-projects",
+     "title": "Company Projects in Birmingham Business School",
+     "section": "Masters Consultancy Challenge paragraph",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "The Masters Consultancy Challenge has students working in interdisciplinary teams on real organisational challenges for Turner & Townsend.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.intranet.birmingham.ac.uk/student/careers/postgraduate/pgt/mcc.aspx",
+     "title": "Masters Consultancy Challenge",
+     "section": "Careers Network PGT page (alternate URL)",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Open to taught postgraduates from across the University's five Colleges.",
+     "supports": [
+      "reach",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "named_partners": "Past briefs (undated): Grace Cares, The Patient Centre, CoachBright; internal: Careers Network.",
+   "local_id": "S3",
+   "official_name": "Impact Challenge",
+   "english_name": "Impact Challenge",
+   "module_code": "",
+   "description": "Paid (GBP125) week-long on-campus work-experience programme for widening-participation undergraduates. Students work in small teams on a project set by an employer and present their outputs at the end of the week; compulsory follow-up session.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers Network (Equality, diversity and inclusion careers support)",
+   "eligible_faculties_programmes": "Penultimate and final-year undergraduates in any discipline meeting WP criteria",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Penultimate and final year",
+   "eligibility_restrictions": "Birmingham Scholars, students with home address in IMD Quintile 1, and/or students registered with a disability / in receipt of DSA.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not credit-bearing; GBP125 payment on completion",
+   "duration": "One week (15-19 June 2026) + follow-up session 22 or 24 June",
+   "delivery_format": "In person, on campus",
+   "project_based": "Yes",
+   "project_evidence": "Team project set by an employer with outputs presented at end of week; past briefs e.g. a campaign for Grace Cares, a patient feedback strategy for The Patient Centre, marketing work for CoachBright [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students work 'in small teams on a project set by an employer' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employer sets the project and receives the presented outputs [1]. One past brief was internal (study of student engagement with Careers Network, which informed the Careers Corner location).",
+   "partner_type": "Mixed",
+   "partner_role": "Sets the project brief; receives end-of-week presentation. Mostly charities/social enterprises/health organisations in examples; one internal (Careers Network) brief evidenced.",
+   "deliverable": "Team outputs (e.g. campaign, strategy) presented at end of week",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Number of places/teams; whether internal briefs recur each year (would lower external coverage).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://intranet.birmingham.ac.uk/student/careers/equality-and-diversity/impact-challenge.aspx",
+     "title": "Impact Challenge",
+     "section": "Careers Network EDI page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'The Impact Challenge (IC) is a week-long work experience opportunity, open to Undergraduate penultimate and final year Birmingham Scholars, those who have a home address in an IMD Quintile 1 and/or are registered at the University with a disability / in receipt of Disability Student Allowance'; groups work in small teams on a project set by an employer and present output(s) at the end of the week; 2026 week 15-19 June with compulsory follow-up 22 or 24 June; 'Receive £125 payment after completing the programme'; past briefs Grace Cares, The Patient Centre, CoachBright, Careers Network.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status",
+      "duration",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "named_partners": "Host: Capgemini (2026). Past clients (undated/2015-2024): Ironbridge Gorge Museum Trust, Age Concern, Air Ambulance, Shropshire Wildlife Trust; a Telford charity (2024).",
+   "local_id": "S4",
+   "official_name": "Capgemini Community Challenge",
+   "english_name": "Capgemini Community Challenge",
+   "module_code": "",
+   "description": "Week-long, all-expenses-paid consultancy programme hosted at Capgemini's offices (Telford in 2026) in partnership with Birmingham Business School. Undergraduate teams work on solutions-based consultancy projects for third-sector clients (e.g. Ironbridge Gorge Museum Trust, Age Concern, Air Ambulance, Shropshire Wildlife Trust). Compulsory team-building session the week before.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Birmingham Business School with Capgemini; advertised via Careers Network",
+   "eligible_faculties_programmes": "Intranet: first, second and penultimate-year UGs in business, computing, engineering, maths and sciences subjects; Business School page: 'exclusive to undergraduate students at Birmingham Business School' (conflict)",
+   "faculty_areas": [
+    "business",
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "First, second and penultimate year",
+   "eligibility_restrictions": "Application-based; subject eligibility stated differently on two pages.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced; unpaid but all expenses covered",
+   "duration": "One week (8-12 June 2026) + team-building session",
+   "delivery_format": "In person at Capgemini Telford office",
+   "project_based": "Yes",
+   "project_evidence": "Solutions-based consultancy projects for third-sector clients [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Undergraduates 'work in consultancy teams' for a third-sector client [1][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Third-sector organisations act as clients for the team consultancy projects; Capgemini hosts the week at its client-solutions facilities [1][2][3].",
+   "partner_type": "Charity/community",
+   "partner_role": "Charity clients commission/receive the consultancy solutions; Capgemini (business) hosts and sponsors.",
+   "deliverable": "Consultancy solutions for the charity client",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Eligibility conflict (BBS-only vs business/computing/engineering/maths/sciences); number of places; Capgemini staff role in coaching not evidenced.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://intranet.birmingham.ac.uk/student/careers/skills-development/capgemini-community-challenge.aspx",
+     "title": "University of Birmingham and Capgemini Community Challenge",
+     "section": "Careers Network skills development",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Next Community Challenge at Capgemini's Telford office 8-12 June 2026 with compulsory team-building session the week before; first, second and penultimate year undergraduates across business, computing, engineering, maths and sciences can apply; all-expenses paid; teams work on solutions-based projects for third-sector clients; past clients Ironbridge Gorge Museum Trust, Age Concern, Air Ambulance, Shropshire Wildlife Trust.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.birmingham.ac.uk/about/college-of-social-sciences/birmingham-business-school/capgemini-community-challenge",
+     "title": "Capgemini Community Challenge",
+     "section": "Birmingham Business School page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Immersive week-long consultancy programme exclusive to undergraduate students at Birmingham Business School, held at Capgemini's client-solutions facilities; applications reopen March 2026.",
+     "supports": [
+      "project",
+      "reach",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.intranet.birmingham.ac.uk/student/careers/transcripts/video/capgemini-community-challenge-2024-video-transcript.aspx",
+     "title": "Capgemini Community Challenge 2024 (Video transcript)",
+     "section": "Video transcript",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "A 2024 participant describes working in a team with a Telford charity as client.",
+     "supports": [
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "named_partners": "",
+   "local_id": "S5",
+   "official_name": "MSc Strategic Marketing and Consulting: Consultancy Skills and Practice (group consultancy project)",
+   "english_name": "",
+   "module_code": "",
+   "description": "Within the 20-credit Consultancy Skills and Practice module, student teams complete a consultancy project for a real organisation (SMEs, corporates, public bodies) and present recommendations directly to the client. Separate from the programme's 60-credit individual consultancy-style project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Birmingham Business School",
+   "eligible_faculties_programmes": "MSc Strategic Marketing and Consulting",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Masters",
+   "eligibility_restrictions": "Students on the named MSc",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20-credit module (of 180)",
+   "duration": "Not stated (within one-year MSc)",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Group consultancy project with recommendations presented to the client [1].",
+   "group_working": "Yes",
+   "group_evidence": "Course page describes a 'group consultancy project' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project is for a real external organisation; students present recommendations directly to the client [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client supplies the consultancy problem and receives recommendations",
+   "deliverable": "Consultancy recommendations presented to client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Course page undated and not corroborated by a dated 2025/26-2026/27 source; whether the module is core; group size. A student story [2] about applying (CV/cover letter) to live briefs may refer to the individual company project rather than this group project.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/marketing-courses/strategic-marketing-and-consulting-msc",
+     "title": "Strategic Marketing and Consulting MSc",
+     "section": "Course content / modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Includes Consultancy Skills and Practice (20 credits) in which students complete a group consultancy project for a real organisation - clients range from SMEs to corporates and public bodies - and present recommendations directly to the client; 180 credits of 20-credit modules plus a 60-credit Individual Project.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.birmingham.ac.uk/study/student-experience/stories/my-company-project-experience-harriet-cox",
+     "title": "My Company Project experience with Zest Marketing",
+     "section": "Student story",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student describes applying for live projects with CV and cover letter after project briefs were released.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "named_partners": "MBA (reported, undated): Microsoft, BT, Sebring",
+   "local_id": "S6",
+   "official_name": "Masters Company Projects (Birmingham Business School)",
+   "english_name": "",
+   "module_code": "",
+   "description": "On selected MSc programmes (incl. Business Analytics, Marketing, Supply Chain Management) students can complete their degree with an organisation, 'contributing to solutions for a live business challenge'. The MBA offers a parallel 40-credit MBA Company Project option (alternatives: Entrepreneurial Project or dissertation); recent MBA company projects reportedly with Microsoft, BT and Sebring.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Birmingham Business School (BBS Careers)",
+   "eligible_faculties_programmes": "Selected BBS MSc programmes; MBA (option)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage of Masters",
+   "eligibility_restrictions": "Selected programmes only; MBA students choose between company project, entrepreneurial project or dissertation",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "MBA Company Project 40 credits; MSc credit not stated (final project/dissertation equivalent)",
+   "duration": "Not stated (summer final-project period)",
+   "delivery_format": "With host organisation",
+   "project_based": "Yes",
+   "project_evidence": "Project on a live business challenge for an organisation [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Sources do not say whether company projects are individual or team; functions as the final project/dissertation route, which is typically individual.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisation provides the live business challenge and hosts the project [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Provides live business challenge; hosts student",
+   "deliverable": "Company project report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Individual vs group; current-year evidence; credits for MSc variants.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.birmingham.ac.uk/about/college-of-social-sciences/birmingham-business-school/company-projects",
+     "title": "Company Projects in Birmingham Business School",
+     "section": "Masters Company Projects; MBA projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Masters Company Projects offered on selected MSc programmes incl. Business Analytics, Marketing and Supply Chain Management; they 'give students the chance to complete their degree with an organisation, contributing to solutions for a live business challenge'; MBA students choose a 40-credit MBA Company Project, Entrepreneurial Project or dissertation.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "named_partners": "",
+   "local_id": "S7",
+   "official_name": "Chemical / Energy Engineering final-year industry-linked design project",
+   "english_name": "",
+   "module_code": "",
+   "description": "Final-year design project (40 credits on MEng variants) on a chemical process, described as 'industry linked', with students 'working closely with industry figures'. Example topics cited by a student: recycling carbon fibre composites, ice-cream factory design, dressings for chronic wounds.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Chemical Engineering",
+   "eligible_faculties_programmes": "Chemical Engineering and Energy Engineering BEng/MEng (incl. industrial/international variants)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Students on named programmes",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits (MEng with International and Industrial Study)",
+   "duration": "Final year (length not stated)",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Design project on a chemical process, 40 credits [2][3].",
+   "group_working": "Unclear",
+   "group_evidence": "Programme stresses 'team-based project work' [3] but no source states the design project is done in teams.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'final year sees you working closely with industry figures, as you develop your design project' [1]; 'industry relevant/industry linked' - no evidence that a company sets the brief, supervises or assesses.",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear (industry figures involved in some way)",
+   "deliverable": "Process design",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Group format and industry role; course pages show module tables for future intakes only.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-industrial-beng",
+     "title": "Chemical Engineering with Industrial Study BEng",
+     "section": "Final year",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'final year sees you working closely with industry figures, as you develop your design project'.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-international-industrial-meng",
+     "title": "Chemical Engineering with International and Industrial Study MEng",
+     "section": "Final year",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'an industry relevant design project which enables you to put into practice all of the skills you have gained' (40 credits).",
+     "supports": [
+      "project",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-beng",
+     "title": "Chemical Engineering BEng",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Thrive individually and collectively with an emphasis on team-based project work'; design project on a chemical process.",
+     "supports": [
+      "group",
+      "project"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Birmingham MBA Deloitte Consultancy Challenge",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Week-long challenge 'simulating a major business acquisition and consolidation' with Deloitte consultants; a designed scenario rather than a live client brief. MBA-only.",
+   "source_url": "https://www.birmingham.ac.uk/about/college-of-social-sciences/birmingham-business-school/company-projects",
+   "status_note": "undated"
+  },
+  {
+   "name": "MBA Grow Movement pro-bono consulting",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "MBA students act as pro-bono consultants to entrepreneurs in emerging economies; group working and current delivery not evidenced (not searched further owing to search limit).",
+   "source_url": "https://www.birmingham.ac.uk/about/college-of-social-sciences/birmingham-business-school/company-projects",
+   "status_note": "undated"
+  },
+  {
+   "name": "Global Challenge (Careers Network)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Overseas placements/internships (e.g. The English Theatre Frankfurt, British Consulate Chicago); no group project evidenced.",
+   "source_url": "https://intranet.birmingham.ac.uk/as/employability/careers/internships-and-work-experience/opportunities/bespoke-opportunities/global-challenge/index.aspx",
+   "status_note": ""
+  },
+  {
+   "name": "Physics Year 3 group research project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "BSc physics pages describe a group research project led by an academic; no external partner. The IOP 'Group Industrial Projects' document hosted on the Birmingham site (2013) describes a national scheme, not a verified Birmingham route.",
+   "source_url": "https://www.birmingham.ac.uk/Documents/college-eps/college/stem/group-industrial-projects.pdf",
+   "status_note": "2013 document"
+  },
+  {
+   "name": "Engineering MEng group design projects (Aerospace, Mechanical, Mechatronic, Materials)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Major group design projects confirmed (A, B) but described only as 'industry-relevant'; Mechanical cites lectures from Rolls-Royce/JLR, not client briefs. No external organisation evidenced setting/assessing projects.",
+   "source_url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/aerospace-engineering-courses/aerospace-engineering-meng",
+   "status_note": "course pages show future-intake module tables"
+  },
+  {
+   "name": "Computer Science team projects / MSc Computer Science projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Software Engineering for Global Challenges (Y2, 20 credits) is a team project on a 'real-life problem' (Dubai page) with no external client evidenced; MSc projects 'proposed by academic staff or industrial collaborators' are individual.",
+   "source_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-msc",
+   "status_note": ""
+  },
+  {
+   "name": "College of Arts and Law Professional Skills Module",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Minimum 70-hour placement assessed by reflective essay and presentation; a 2022 example placement involved students working in teams to produce a report for a think tank, but team projects are not the standard route. Not verified further (search limit reached).",
+   "source_url": "https://www.birmingham.ac.uk/documents/college-artslaw/studentexperience/2022-psm-example-projects-web-version.pdf",
+   "status_note": "2022 examples"
+  },
+  {
+   "name": "Social Sciences BASc final-year project",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual research project supervised one-to-one.",
+   "source_url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/ba-social-sciences",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Birmingham** has several distributed live-project routes. Most are **short, extracurricular and centrally run**, with smaller programme-embedded provision in the Business School.\n\n- **Central (Careers Network):**\n  - **The Birmingham Project** is open to all first-year undergraduates on the Edgbaston campus. It is optional, non-credit and recorded as pass/fail on the transcript. Interdisciplinary teams spend one full-time week in June on challenges set by 7–8 employer partners in 2026 (e.g. HSBC, Siemens, Transport for West Midlands, West Midlands Combined Authority). Each challenge has an industry professional, and teams finish with a group video presentation to industry and academics. More than 2,000 students have taken part since 2013.\n  - The **Masters Consultancy Challenge** is selective and open to taught postgraduates. Interdisciplinary groups work for 3 weeks on a Turner & Townsend challenge and present to an industry and University panel.\n  - The **Impact Challenge** is a paid, week-long programme for widening-participation finalists and penultimate-year students. Teams work on employer-set projects, mostly for charities and social enterprises.\n- **Business School:**\n  - The **Capgemini Community Challenge** is a week at Capgemini Telford in which undergraduate teams consult for charity clients.\n  - The **MSc Strategic Marketing and Consulting** includes a group consultancy project for real organisations, but its current-year delivery is unconfirmed.\n  - **Masters/MBA Company Projects** tackle live business challenges, but it is unclear whether they are done in groups.\n- **Engineering:** MEng group design projects are only described as \"industry-linked\". The **Chemical Engineering** design project is recorded as Unclear.\n\n**Limits:** the review is **Partial**. The shared search limit was reached after 14 searches. Science beyond Physics, most social sciences and humanities, Law, Health and Education remain largely unsearched, so further departmental routes are likely.",
+ "gaps": "Science, social sciences, humanities, law and health largely unsearched (search limit). Engineering group design projects lack evidence of industry-set briefs. Current-year evidence missing for the SMC MSc and Company Projects. Birmingham Project partner count conflicts (7 vs 8 for 2026). Capgemini Community Challenge eligibility conflicts between pages. Further departmental instances likely."
+}

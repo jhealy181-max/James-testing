@@ -1,4 +1,11 @@
+WARN | RG01 | other | search area status: Not searched
+WARN | RG01 | RG01-S02 | possible simulation marked employer-connected — check
 WARN | RG13 | RG13-S11 | employer-connected Yes but partner type Unclear
+WARN | RG17 | arts_humanities_social_sciences | search area status: Not searched
+WARN | RG17 | other | search area status: Not searched
+WARN | RG17 | RG17-S03 | employer-connected Yes but partner type Unclear
+WARN | RG17 | RG17-S04 | employer-connected Yes but partner type Unclear
+WARN | RG17 | RG17-S08 | employer-connected Yes but partner type Unclear
 WARN | AU02 | AU02-S01 | employer-connected Yes but partner type Unclear
 WARN | AU02 | AU02-S02 | employer-connected Yes but partner type Unclear
 WARN | AU02 | AU02-S03 | B group=Yes but evidence text/source tag missing
@@ -13,3 +20,34 @@ WARN | AU02 | AU02-S16 | employer-connected Yes but partner type Unclear
 WARN | AU02 | AU02-S16 | possible simulation marked employer-connected — check
 WARN | AU02 | AU02-S17 | employer-connected Yes but partner type Unclear
 WARN | AU02 | AU02-S20 | employer-connected Yes but partner type Unclear
+WARN | AU06 | science | search area status: Not searched
+WARN | AU06 | arts_humanities_social_sciences | search area status: Not searched
+WARN | AU06 | other | search area status: Not searched
+WARN | AU06 | AU06-S02 | possible simulation marked employer-connected — check
+WARN | AU09 | business | search area status: Not searched
+WARN | AU09 | engineering_computing | search area status: Not searched
+WARN | AU09 | science | search area status: Not searched
+WARN | AU09 | arts_humanities_social_sciences | search area status: Not searched
+WARN | AU09 | other | search area status: Not searched
+WARN | UK02 | science | search area status: Not searched
+WARN | UK02 | arts_humanities_social_sciences | search area status: Not searched
+WARN | UK02 | other | search area status: Not searched
+WARN | UK05 | business | search area status: Not searched
+WARN | UK05 | science | search area status: Not searched
+WARN | UK05 | arts_humanities_social_sciences | search area status: Not searched
+WARN | UK05 | other | search area status: Not searched
+WARN | UK05 | UK05-S01 | employer-connected Yes but partner type Unclear
+WARN | UK05 | UK05-S03 | employer-connected Yes but partner type Unclear
+WARN | UK05 | UK05-S04 | employer-connected Yes but partner type Unclear
+WARN | UK08 | engineering_computing | search area status: Not searched
+WARN | UK08 | science | search area status: Not searched
+WARN | UK08 | arts_humanities_social_sciences | search area status: Not searched
+WARN | UK08 | other | search area status: Not searched
+WARN | UK08 | UK08-S03 | employer-connected Yes but partner type Unclear
+WARN | UK11 | science | search area status: Not searched
+WARN | UK11 | arts_humanities_social_sciences | search area status: Not searched
+WARN | UK11 | other | search area status: Not searched
+WARN | UK14 | science | search area status: Not searched
+WARN | UK14 | arts_humanities_social_sciences | search area status: Not searched
+WARN | UK14 | other | search area status: Not searched
+WARN | UK14 | UK14-S03 | employer-connected Yes but partner type Unclear
