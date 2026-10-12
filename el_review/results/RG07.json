@@ -1,0 +1,1054 @@
+{
+ "inst_id": "RG07",
+ "institution": "University of Exeter",
+ "review_status": "Partial",
+ "partial_remaining": "Search budget exhausted after 24 searches. Remaining: 'other' area (Law clinics, Medicine/Health, Psychology, Sport) unsearched; AHSS only one discovery search (Liberal Arts/Sociology external research-challenge modules, Politics/Q-Step, History/heritage, English/Film); ECMM427 customer identity; MSc Marketing and Business Analytics consulting project format; dated 2025/26-2026/27 evidence for Future17 and BEMM149; One Planet MBA team challenges (LCIC/GSC).",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Exeter Grand Challenges students teams 2026",
+    "Future17 Exeter students eligibility credit module",
+    "Grand Challenges week enquiry group external partner industry-led AWS",
+    "Future17 partner organisation challenge teams QS Exeter",
+    "Future17 2025 cohort students graduate news",
+    "Grand Challenges external experts partners present panel",
+    "Education Innovation Industry-led Enquiry Group AWS"
+   ],
+   "key_sources": [
+    "https://www.exeter.ac.uk/students/grandchallenges/moreinfo/faqs/",
+    "https://www.exeter.ac.uk/students/grandchallenges/challenges2026/educationinnovation/",
+    "https://www.exeter.ac.uk/study/future17/students/",
+    "https://news.exeter.ac.uk/student/students-graduate-from-global-learning-programme-focused-on-real-world-sustainability-challenges/"
+   ],
+   "finding": "Grand Challenges (UG-wide project week, groups 4-8) is current (2026) but external organisation role unclear except an AWS 'industry-led' enquiry group. Future17 meets A/B/C (partner-set challenges, partner on assessment panel) but latest dated cohort c.2024/25."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Business School consultancy project client organisation students teams module",
+    "Exeter Business School live projects businesses student consultancy",
+    "BEP3020 Practice-Based Consultancy Management",
+    "BEMM771 module consultancy project",
+    "2025/6 consultancy project group client BEMM",
+    "MSc Management Business Project BEMM149 partner brief group",
+    "MSc Management 2026 entry compulsory modules Business Project",
+    "MBAM914 MBA Project live project client teams"
+   ],
+   "key_sources": [
+    "https://www.exeter.ac.uk/masters-degrees/msc-management/",
+    "http://business-school.exeter.ac.uk/module/?mod_code=BEMM771",
+    "https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=BEP3020&ay=2024/5&sys=0"
+   ],
+   "finding": "MSc Management BEMM149 is a compulsory group consultancy project on a partner's brief (A/B/C met; undated). Other routes have unclear group format or live/simulated clients; MBA capstone is individual."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "engineering group design project industry sponsored client Exeter ECM",
+    "computer science group project industry partner ECM3401 ECM2434",
+    "ENEM010 Group Design Project client",
+    "Engineering year-long multidisciplinary group project industrially driven",
+    "ECMM102 Group Project MEng industrial sponsor"
+   ],
+   "key_sources": [
+    "http://emps.exeter.ac.uk/modules/ECMM102",
+    "https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=ENEM010&ay=2024/5&sys=1"
+   ],
+   "finding": "Substantial engineering and CS group projects exist (ECMM102, ENEM010, ECM2434, ECMM427) but external client involvement is only 'may'/'often' or unverified; C Unclear throughout."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "geography module consultancy project external organisation GEO2449",
+    "natural sciences biosciences group project external partner",
+    "data science mathematics MSc group project industry partner"
+   ],
+   "key_sources": [
+    "https://exeter.ac.uk/greenconsultants",
+    "https://www.exeter.ac.uk/undergraduate-degrees/msci-natural-sciences/"
+   ],
+   "finding": "No qualifying science route verified: Green Consultants uses the University as client; Natural Sciences and data science group projects lack external clients; external-partner PG projects are individual."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "humanities social sciences teams real-world brief external organisation consultancy charity heritage",
+    "Liberal Arts external organisations real-life research challenge (search failed: budget exhausted)"
+   ],
+   "key_sources": [
+    "https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/humanities-and-social-sciences-penryn-cornwall/university-of-exeter-and-national-trust-to-create-student-research-opportunities-through-new-agreement/"
+   ],
+   "finding": "Only one discovery search completed. National Trust-linked Environmental Humanities projects (group format unclear); Liberal Arts/Sociology claims of external research challenges unverified."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: session web-search budget exhausted. Law, Medicine/Health, Sport and Health Sciences, Psychology, Arts/Drama outstanding."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Grand Challenges",
+   "english_name": "Grand Challenges",
+   "module_code": "",
+   "description": "Annual week-long, non-credit project week for undergraduates. Students choose one themed Challenge (2026 themes include Climate and Environment Emergency, Defence Security and Resilience, Social Inequality, Education Innovation, Mental Health, and a Penryn planetary-health challenge), join an enquiry group and work in interdisciplinary groups of normally 4-8 to design solutions to a real-world problem, presenting to academic experts (Streatham) or a panel of independent experts (Penryn) at the end of the week, with a Forum showcase. Lectures are led by academics and external experts; for some challenges industry experts attend the presentations. No evidence that an external organisation sets the brief or receives/assesses outputs for the standard enquiry groups (the AWS industry-led group is recorded separately as S2).",
+   "academic_reach": "University-wide",
+   "admin_host": "Grand Challenges team (central, Education/Student Experience)",
+   "eligible_faculties_programmes": "All undergraduate programmes (Streatham and Penryn campuses; Penryn challenge Penryn-only)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Any undergraduate year (FAQ refers to enrolled undergraduates)",
+   "eligibility_restrictions": "Enrolled University of Exeter undergraduates; one Challenge per student; free as part of tuition",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced; final group presentation",
+   "duration": "One week (Monday-Friday) in June",
+   "delivery_format": "In person, Streatham and Penryn campuses",
+   "project_based": "Yes",
+   "project_evidence": "Groups design innovative solutions to a defined real-world challenge and present ideas to an expert panel [1][2][3].",
+   "group_working": "Yes",
+   "group_evidence": "'Groups vary in size, and normally contain 4 to 8 people' [1]; interdisciplinary groups [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "External involvement evidenced only as external-expert lectures, 'independent experts' on the Penryn panel and, for some challenges, industry experts in the audience [2][3]. No source shows external organisations setting briefs, acting as clients or assessing for the standard enquiry groups; external experts as speakers/audience do not satisfy C.",
+   "partner_type": "Unclear",
+   "partner_role": "External experts give lectures; independent experts sit on Penryn presentation panel; industry experts sometimes in the audience",
+   "named_partners": "",
+   "deliverable": "Group presentation of proposed solution (plus showcase)",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (June 2026 challenges, 2025/26)",
+   "participation_data": "",
+   "unresolved": "Whether any enquiry groups besides S2 have external organisations setting briefs; the Grand Challenges home page reportedly lists 7-11 June 2027, while challenge pages are under 'challenges2026' - the 2026 pages are taken as dated evidence of 2025/26 delivery. Participation numbers not found.",
+   "legacy_ref": "Grand Challenges",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/students/grandchallenges/moreinfo/faqs/",
+     "title": "FAQs",
+     "section": "FAQs",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'undergraduate students enrolled at the University of Exeter can access our Grand Challenges Week for free as a part of your tuition. Each Challenge is a week-long experience so you can only sign up for one Challenge.' 'Groups vary in size, and normally contain 4 to 8 people.'",
+     "supports": [
+      "group",
+      "eligibility",
+      "duration",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.exeter.ac.uk/students/grandchallenges/whatisgrandchallenges/",
+     "title": "What is Grand Challenges?",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students 'work in interdisciplinary groups with other like-minded students to design innovative solutions to real world challenges'; lectures 'led by academics and external experts'; on the final Friday students deliver a presentation to academic experts; for some challenges there will also be industry experts in the audience (latter attribution within Grand Challenges pages not fully explicit).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.exeter.ac.uk/students/grandchallenges/challenges2026/tomorrowsworld/",
+     "title": "Grand Challenges Penryn",
+     "section": "2026 challenge page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Penryn-only challenge taking a planetary health approach; students present their ideas to a panel of independent experts at the end of the week.",
+     "supports": [
+      "project",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Grand Challenges - Education Innovation: Industry-led Enquiry Group with Amazon Web Services",
+   "english_name": "Grand Challenges - Education Innovation: Industry-led Enquiry Group with Amazon Web Services",
+   "module_code": "",
+   "description": "One of five enquiry groups in the 2026 Education Innovation challenge within Grand Challenges week (S1). Students work on solutions to real-world problems 'that organisations like AWS face', applying emerging technologies such as generative AI (no coding required). Linked to the Exeter-AWS strategic collaboration agreement signed July 2025. Group format inherited from Grand Challenges (groups of 4-8).",
+   "academic_reach": "University-wide",
+   "admin_host": "Grand Challenges team with Amazon Web Services",
+   "eligible_faculties_programmes": "All undergraduates (via Grand Challenges sign-up)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "As S1; one Challenge per student",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced",
+   "duration": "One week",
+   "delivery_format": "In person, Streatham",
+   "project_based": "Yes",
+   "project_evidence": "Students develop solutions to real-world industry problems using emerging technologies [1]; Grand Challenges groups present solutions at end of week [3].",
+   "group_working": "Yes",
+   "group_evidence": "Grand Challenges FAQ: groups normally 4-8 people (applies to all Challenges) [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Labelled 'Industry-led Enquiry Group with Amazon Web Services' [1], implying AWS leads/frames the group, but the extract says problems 'that organisations like AWS face' and does not state that AWS sets a specific brief, mentors, receives outputs or judges. Exeter-AWS strategic agreement (2025) confirms the corporate relationship [4] but not the specific role in this group.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry lead of an enquiry group (exact role not evidenced)",
+   "named_partners": "Amazon Web Services (2026)",
+   "deliverable": "Group presentation of proposed solution",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "",
+   "unresolved": "AWS's concrete role (brief-setting, mentoring, judging) and whether this group is repeated in 2027.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/students/grandchallenges/challenges2026/educationinnovation/",
+     "title": "Education Innovation",
+     "section": "2026 challenge page, enquiry groups",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry-led Enquiry Group with Amazon Web Services: students work on solutions to real-world problems that organisations like AWS face, using emerging technologies such as generative AI, without needing coding experience; one of five enquiry groups.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.exeter.ac.uk/students/grandchallenges/moreinfo/faqs/",
+     "title": "FAQs",
+     "section": "FAQs",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'Groups vary in size, and normally contain 4 to 8 people.'",
+     "supports": [
+      "group"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.exeter.ac.uk/students/grandchallenges/whatisgrandchallenges/",
+     "title": "What is Grand Challenges?",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in interdisciplinary groups to design innovative solutions to real world challenges and present at the end of the week.",
+     "supports": [
+      "project"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://news.exeter.ac.uk/staff-news/exeter-and-aws-seal-collaboration-to-boost-digital-innovation-and-sustainability/",
+     "title": "Exeter and AWS seal collaboration to boost digital innovation and sustainability",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Strategic collaboration agreement with AWS signed 30 July 2025 at the AWS Executive Education Summit; will equip students and staff with digital skills.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Future17",
+   "english_name": "Future17",
+   "module_code": "BEP3172 (credit route via APEL)",
+   "description": "12-week online programme run by Exeter with QS (Future17 consortium of 12 universities). After a 4-week induction, students spend 8 weeks in international, interdisciplinary teams (typically 6-8, drawn from at least two partner universities) working on a sustainability (SDG) challenge set by a Challenge Partner (business, charity, NGO), with an academic mentor; assessed on a group report (or equivalent) and an online group presentation to an expert panel including a representative of the challenge partner.",
+   "academic_reach": "University-wide",
+   "admin_host": "Global Classrooms / Future17 team with QS",
+   "eligible_faculties_programmes": "All programmes, all campuses (UG excluding first years; PGT)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "UG year 2+ and PGT",
+   "eligibility_restrictions": "Undergraduates except first years, and postgraduate taught students, all campuses; once only per student; competitive limited places; credit route subject to available optional credit and programme rules",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Optional 15 credits at level 6 via APEL (module BEP3172) replacing an optional module, or non-credit route with QS certificate. Assessed on group project output and group presentation [1][3].",
+   "duration": "12 weeks (4-week induction + 8 weeks team project)",
+   "delivery_format": "Online, international teams",
+   "project_based": "Yes",
+   "project_evidence": "Teams address a defined partner-set sustainability challenge producing a report (or equivalent) and presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Small groups of typically 6-8 students from at least two partner universities; group project output and group presentation [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenge Partner outlines the challenge, provides context and potentially data; assessment panel includes a representative of the partner that set the challenge [1]; 31 organisations provided 44 challenges in a recent round [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets challenge brief, provides context/data, sits on assessment panel",
+   "named_partners": "CapGemini; T-Hues (Sri Lanka) (cohort reported in news c.2025)",
+   "deliverable": "Group report (or equivalent) and online group presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "About 50 Exeter students graduated in the cohort reported (c.2024/25), c.300 worldwide [2]",
+   "unresolved": "No dated 2025/26 or 2026/27 call/cohort found (search budget exhausted); module page is 2024/5; graduation news dated c. spring 2025 from search metadata. Attribution of partner-role text among Future17 pages not fully explicit.",
+   "legacy_ref": "Future17",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/study/future17/students/",
+     "title": "Future17: Information for students",
+     "section": "Eligibility, structure, assessment",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Available to 'undergraduate students (except first years) and postgraduate taught students on all campuses'; optional 15-credit route via APEL or non-credit QS certificate; teams 'typically 6-8 students'; a Challenge Partner 'outlines the sustainability challenge, provides context (and potentially data)'; assessed on 'a group project output (a report or equivalent) and an online group presentation to an expert panel, which includes a representative of the partner that set the challenge' (partner/assessment text returned across Future17 pages; attribution to this page probable).",
+     "supports": [
+      "eligibility",
+      "reach",
+      "group",
+      "employer",
+      "project",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://news.exeter.ac.uk/student/students-graduate-from-global-learning-programme-focused-on-real-world-sustainability-challenges/",
+     "title": "Students graduate from global learning programme focused on real-world sustainability challenges",
+     "section": "News",
+     "pub_year": "c.2025 (undated in extract)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Around 50 Exeter students graduating; c.300 worldwide; '31 organisations provided a choice of 44 challenges', including CapGemini and T-Hues; 12-week programme, 4-week induction then 8 weeks group work.",
+     "supports": [
+      "employer",
+      "participation",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.exeter.ac.uk/study/studyinformation/modules/info/?sys=0&moduleCode=BEP3172",
+     "title": "BEP3172",
+     "section": "Module catalogue",
+     "pub_year": "2024/5",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "BEP3172, 15 credits, NQF level 6; pre-requisite 90 credits at level 4.",
+     "supports": [
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Project (MSc Management)",
+   "english_name": "Business Project (MSc Management)",
+   "module_code": "BEMM149",
+   "description": "Compulsory 30-credit module on MSc Management. Students work in a group consultancy team on a real organisational problem taken from a partner organisation's research brief, from design through investigation, delivering findings and recommendations to the partner in a report and presentation; module lead assists liaison with the partner.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Exeter Business School",
+   "eligible_faculties_programmes": "MSc Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "PGT",
+   "eligibility_restrictions": "MSc Management students only",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits; report and presentation",
+   "duration": "Not stated",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy project on a partner-specified challenge with report and presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students 'work in a team'/group consultancy team [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner organisation supplies the research brief/challenge, receives findings and recommendations (report and presentation); module lead liaises with the partner [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Supplies brief; client receiving report and presentation",
+   "named_partners": "",
+   "deliverable": "Consultancy report and presentation to partner",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Programme page is un-yeared (other Exeter pages show 2027 entry); no dated 2025/26-2026/27 module page retrieved. An old ELE listing shows a 2019-20 BEMM149 instance under 'For Deletion' (routine archive). Partner sectors not evidenced.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/masters-degrees/msc-management/",
+     "title": "MSc Management",
+     "section": "Compulsory modules: Business Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Compulsory modules include Business Project (30 credits). Students work in a group consultancy team on a real organisational problem from a partner's research brief, delivering findings in a report and presentation; aim is to give the partner recommendations or a solution; module lead assists liaison with the partner.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Research and Consultancy Project",
+   "english_name": "Research and Consultancy Project",
+   "module_code": "BEMM771",
+   "description": "15-credit master's module (term 2, 10 weeks) in which organised group teams undertake 'real-life' client projects, supported by supervisor sessions that sometimes double as 'client' updating meetings; group report (3,000 words) and 20-minute presentation (60%) plus individual reflective essay (40%). Host programme not identified.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Exeter Business School",
+   "eligible_faculties_programmes": "Not identified",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; group report+presentation 60%, reflective essay 40%",
+   "duration": "10 weeks, term 2",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Group project report and presentation on real-life client projects [1].",
+   "group_working": "Yes",
+   "group_evidence": "Work in organised group teams; group report and presentation [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Real-life projects' with clients stated, but supervisors sometimes act as 'client' in update meetings; external client identity/role not evidenced [1].",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "Group report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Historical delivery only",
+   "latest_evidenced_year": "2018/19",
+   "participation_data": "",
+   "unresolved": "Whether module still runs (only 2018/19 spec found) and whether clients are external.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "http://business-school.exeter.ac.uk/module/?mod_code=BEMM771",
+     "title": "Module BEMM771 Research and Consultancy Project",
+     "section": "Module specification",
+     "pub_year": "2018/19",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Designed 'to present you with real-life projects'; group teams; group project report (3,000 words) and 20-minute presentation 60%, individual reflective essay 40%; support sessions with supervisor sometimes double as 'client' updating meetings.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Practice-Based Consultancy Management",
+   "english_name": "Practice-Based Consultancy Management",
+   "module_code": "BEP3020",
+   "description": "15-credit final-year module on BSc Business (Cornwall) introducing professional consultancy with a sustainability focus; students prepare to meet a client, write a proposal and produce a client report for a consulting project to a defined brief and timeline. The programme page describes the consulting project as 'live or simulated'.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Exeter Business School (Penryn)",
+   "eligible_faculties_programmes": "BSc Business (Cornwall)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; proposal and client report (weighting not found)",
+   "duration": "Not stated",
+   "delivery_format": "In person, Penryn",
+   "project_based": "Yes",
+   "project_evidence": "Consulting project to a defined brief with proposal and client report [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "No evidence on whether the consulting project is group or individual.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Programme page describes a 'live or simulated' consulting project [2] - per ruling, C Unclear.",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "Proposal and client report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "c.30 students expected (2024/5 module page)",
+   "unresolved": "Group vs individual; proportion of live clients; current-year delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=BEP3020&ay=2024/5&sys=0",
+     "title": "Practice-Based Consultancy Management",
+     "section": "Module catalogue",
+     "pub_year": "2024/5",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "15-credit module, c.30 expected students; syllabus includes preparing to meet the client and preparing the proposal; independent study covers research, proposal and client report.",
+     "supports": [
+      "project",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-cornwall/",
+     "title": "BSc Business (Cornwall)",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Module covers real cases, research tasks and 'a live or simulated consulting project'; students plan and deliver a consulting project to a defined brief and timeline.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Consulting project (MSc Marketing and Business Analytics)",
+   "english_name": "Consulting project (MSc Marketing and Business Analytics)",
+   "module_code": "",
+   "description": "Final-term option in which students can choose a consulting project working with real businesses on live marketing challenges (alternative to other final-term options).",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Exeter Business School",
+   "eligible_faculties_programmes": "MSc Marketing and Business Analytics",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final term",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not found",
+   "duration": "Final term",
+   "delivery_format": "Not stated",
+   "project_based": "Yes",
+   "project_evidence": "Consulting project on live marketing challenges [1].",
+   "group_working": "Unclear",
+   "group_evidence": "No evidence of team format.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students work with real businesses on live marketing challenges [1] (search-summary only).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Business supplies live marketing challenge",
+   "named_partners": "",
+   "deliverable": "Not specified",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Module code, group/individual format, assessment and dated evidence not retrieved (search budget exhausted).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/masters-degrees/msc-marketing-and-business-analytics/",
+     "title": "MSc Marketing and Business Analytics",
+     "section": "Programme structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In the final term, students can choose a consulting project working with real businesses on live marketing challenges.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Sports Consultancy Project (BSc Sport Business Management)",
+   "english_name": "Sports Consultancy Project (BSc Sport Business Management)",
+   "module_code": "",
+   "description": "Module in which students work with a real or simulated client to solve a current sport-industry challenge.",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Exeter Business School / Sport and Health Sciences",
+   "eligible_faculties_programmes": "BSc Sport Business Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy project solving a current industry challenge [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Not evidenced.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Real or simulated client' [1] - routes not separable.",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "Not specified",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Module code, group format, client share, current delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-sport-business-management/",
+     "title": "BSc Sport Business Management",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Sports Consultancy Project where students work with a real or simulated client to solve a current industry challenge.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Project (MEng)",
+   "english_name": "Group Project (MEng)",
+   "module_code": "ECMM102",
+   "description": "60-credit MEng engineering group project (c.600 hours per student) giving experience of a project team 'in a situation close to one that might be found in an industrial or commercial setting', using formal project planning methods. MEng pages say projects 'may involve working with industrial partners'.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Engineering",
+   "eligible_faculties_programmes": "MEng engineering programmes",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4 (MEng)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60 credits",
+   "duration": "Substantial; 600 hours",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Substantial engineering group project with planning methods [1].",
+   "group_working": "Yes",
+   "group_evidence": "Work as part of a project team [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industrial-like setting is simulated by design; industrial partners 'may' be involved [2] (Some projects).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Occasional industrial partner involvement (not specified)",
+   "named_partners": "",
+   "deliverable": "Not specified in extracts",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2019/20",
+   "participation_data": "",
+   "unresolved": "Compulsory status inferred from MEng structure not confirmed; share of industry-sponsored projects; current-year module page not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "http://emps.exeter.ac.uk/modules/ECMM102",
+     "title": "modules ECMM102",
+     "section": "Module description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group Project (MEng) ECMM102, 60 credits; 'experience of working as part of a project team in a situation close to one that might be found in an industrial or commercial setting'; 'substantial (600 hours work) engineering group project'.",
+     "supports": [
+      "project",
+      "group",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.exeter.ac.uk/undergraduate-degrees/meng-mechanical-engineering/",
+     "title": "MEng Mechanical Engineering",
+     "section": "Course content",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student projects 'are often linked to our research activities and may involve working with industrial partners' (attribution among MEng pages not fully explicit).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Design Project (Renewable Energy)",
+   "english_name": "Group Design Project (Renewable Energy)",
+   "module_code": "ENEM010",
+   "description": "20-credit, nine-week term-2 module on MEng Renewable Energy Engineering (Penryn): teams of 4-6 apply renewable-energy knowledge to 'a real engineering situation' in a setting close to industrial/commercial practice, with a product-design focus.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Engineering (Renewable Energy, Penryn)",
+   "eligible_faculties_programmes": "MEng Renewable Energy Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "MEng (level 7)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "9 weeks, term 2",
+   "delivery_format": "In person, Penryn",
+   "project_based": "Yes",
+   "project_evidence": "Team design project on a real engineering situation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Project team of between four and six [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "A discovery-mode summary mentioned pitching a proposal to and reporting to 'clients', but the extended extract did not confirm a client role; module text describes a setting 'close to' industry, which may be simulated [1].",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "Design project outputs (not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "18 students anticipated (2024 entry module page)",
+   "unresolved": "Whether clients are real external organisations; current delivery not evidenced beyond 2024/5.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=ENEM010&ay=2024/5&sys=1",
+     "title": "Group Design Project - 2024 entry",
+     "section": "Module catalogue",
+     "pub_year": "2024/5",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'working as part of a project team of between four and six in a situation close to that which might be found in an industrial or commercial setting'; apply knowledge 'to a real engineering situation at a professional level and as part of a team effort'; 20 credits; 18 students anticipated.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S11",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Software Engineering Project",
+   "english_name": "Group Software Engineering Project",
+   "module_code": "ECM2434",
+   "description": "15-credit second-year Computer Science module introducing practical software engineering (requirements analysis, HCI design, testing, teamwork) through a group project. No evidence of external clients.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "Computer Science degrees",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Group software development project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Group software engineering project with teamwork [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "No evidence that external organisations set briefs; department's industry links (IBM, Met Office, NATS, Motorola) are not tied to this module.",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "Software system",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023/24",
+   "participation_data": "",
+   "unresolved": "Client source; current delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=ECM2434&ay=2023/4&sys=1",
+     "title": "Group Software Engineering Project - 2023 entry",
+     "section": "Module catalogue",
+     "pub_year": "2023/4",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "15 credits; topics include application of programming techniques to large-scale software system development, requirements analysis, HCI design, and software system testing and integration.",
+     "supports": [
+      "project",
+      "group",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S12",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSci Data Science group module (software for a customer)",
+   "english_name": "MSci Data Science group module (software for a customer)",
+   "module_code": "ECMM427",
+   "description": "MSci Data Science group module giving students experience of developing software for a customer; MSci Mathematics and Data Science final year has one group and one individual major project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science / Mathematics",
+   "eligible_faculties_programmes": "MSci Data Science; MSci Mathematics and Data Science",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year (MSci)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Software development project for a customer [1].",
+   "group_working": "Yes",
+   "group_evidence": "Described as a group module/group project [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Customer' not identified as external; extended search to verify failed (budget exhausted).",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "Software for customer",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Customer identity (internal vs external), credits, current delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.exeter.ac.uk/undergraduate-degrees/msci-data-science/",
+     "title": "MSci Data Science",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group module ECMM427 gives students experience developing software for a customer (summary; attribution between MSci Data Science pages not fully explicit).",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S13",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Environmental Humanities research projects with the National Trust",
+   "english_name": "Environmental Humanities research projects with the National Trust",
+   "module_code": "",
+   "description": "Under a University-National Trust agreement, Environmental Humanities (Penryn) second-year students visited Trust properties and spoke with managers about environmental challenges, then design final-year research projects in collaboration with Trust staff.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Humanities and Social Sciences, Penryn",
+   "eligible_faculties_programmes": "BA Environmental Humanities (Cornwall)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 2-3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Final-year research project designed around Trust-identified environmental challenges [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Not stated whether projects are group or individual (likely individual dissertation-type).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Trust managers explain challenges and Trust staff collaborate on project design [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Identifies challenges; collaborates on project design",
+   "named_partners": "National Trust (year of agreement not shown in extract)",
+   "deliverable": "Research project",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Group vs individual; year and continuation of the agreement.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/humanities-and-social-sciences-penryn-cornwall/university-of-exeter-and-national-trust-to-create-student-research-opportunities-through-new-agreement/",
+     "title": "University of Exeter and National Trust to create student research opportunities",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'The second-year students visited numerous Trust properties and sites in May, where they spoke with managers to gain an understanding of the environmental challenges they face. The students will now design a research project to be conducted during their final year, in collaboration with Trust staff.'",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "One Planet MBA / Exeter MBA consultancy project (MBAM914)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Live client project with UK/international organisations (C met) but capstone described as a '12-week individual assignment with a client partner'. Embedded team elements (Local Community Impact Challenge, Global Sustainability Challenge, five-day corporate sprint) not verified in detail.",
+   "source_url": "https://www.exeter.ac.uk/study/studyinformation/modules/info/?moduleCode=MBAM914&ay=2024/5&sys=0",
+   "status_note": "2024/5 module page; 2023/24 timetable"
+  },
+  {
+   "name": "Green Consultants (GEO2449 credited route)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Small-group consultancy project with the University of Exeter as client (internal); older versions used FX Plus (Falmouth Exeter Plus, a university-affiliated services company - internal). Separate individual internship. C not met.",
+   "source_url": "https://exeter.ac.uk/greenconsultants",
+   "status_note": "Credited option for some Penryn students in 2025/26"
+  },
+  {
+   "name": "MSc Applied Data Science and Statistics group projects",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group and individual projects use real data on research topics; no external organisation evidenced.",
+   "source_url": "https://www.exeter.ac.uk/study/postgraduate/courses/mathematics/appdatamod/",
+   "status_note": "undated"
+  },
+  {
+   "name": "MSci Natural Sciences Group Project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "30-credit third-year team project 'of your choosing', usually scientific research or outreach; no external client evidenced.",
+   "source_url": "https://www.exeter.ac.uk/undergraduate-degrees/msci-natural-sciences/",
+   "status_note": "undated"
+  },
+  {
+   "name": "MSc Social Data Science / MSc Health Data Science external-partner projects",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "External partner (NHS, pharma, organisations) dissertation alternatives; individual research projects, no group working evidenced.",
+   "source_url": "https://www.exeter.ac.uk/masters-degrees/msc-social-data-science/",
+   "status_note": "undated"
+  },
+  {
+   "name": "Exe Consulting (student society pro bono consultancy)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Student society offering pro bono consultancy mentioned on a careers page; not university-run and no detail on teams/clients obtained.",
+   "source_url": "https://www.exeter.ac.uk/students/careers/research/explore/employmentsectors/businessanalysisstrategyandconsulting/consultancy/",
+   "status_note": ""
+  },
+  {
+   "name": "Liberal Arts / Sociology 'real-life research challenges' from external organisations",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Programme pages say external organisations set real-life research challenges, but the underlying module, group format and current delivery could not be identified (search budget exhausted).",
+   "source_url": "",
+   "status_note": ""
+  },
+  {
+   "name": "Culture Innovation Consultancy",
+   "legacy": false,
+   "category": "Other",
+   "reason": "University commercial consultancy service for heritage/arts clients; not a student learning route.",
+   "source_url": "https://www.exeter.ac.uk/departments/exeterinnovation/culture-consultancy/",
+   "status_note": ""
+  },
+  {
+   "name": "BEng Engineering final-year projects / ENG1005 Multi-Disciplinary Group Challenge Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "BEng page says projects are 'typically industrially driven' and 'often directly involve a company' with group or individual options; ENG1005 is a 30-credit first-year group challenge. Routes, group format and client role not separable from extracts.",
+   "source_url": "https://exeter.ac.uk/study/undergraduate/courses2023/engineering/engineering",
+   "status_note": "2023 course page"
+  }
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "**Exeter** has two university-wide extracurricular routes. Embedded programme provision is mainly in the Business School. Review incomplete (search budget exhausted).\n\n- **Grand Challenges** (legacy): a free June project week open to all undergraduates. Groups of normally 4-8 design solutions to themed real-world challenges and present them to expert panels. 2026 challenge pages confirm current delivery. External input is largely experts giving lectures or sitting in the audience, so C is Unclear. The exception is a 2026 *Industry-led Enquiry Group with Amazon Web Services*, but AWS's exact role was not evidenced.\n- **Future17** (legacy, with QS): open to undergraduates in year 2 or later and to PGT students. International teams of 6-8 spend 12 weeks on challenges set by partner organisations; 31 organisations offered 44 challenges in one round. A partner representative sits on the assessment panel. It can be taken for 15 credits via APEL or without credit. It meets all three criteria, but the latest dated cohort is about 2024/25, so its status is unclear.\n- **Business School:** the compulsory **BEMM149 Business Project** on MSc Management is a group consultancy project on a partner's brief, with a report and presentation for the partner. It meets A/B/C, but the page is undated. The other routes are incomplete:\n  - BEMM771 (2018/19 only)\n  - BEP3020 (live or simulated)\n  - the MSc Marketing and Business Analytics consulting option (group format unknown)\n  - the MBA capstone, which is individual\n- **Engineering and Computing:** substantial group projects (ECMM102, ENEM010, ECM2434, ECMM427). Industry involvement is 'may' or unverified.\n- **Science:** no qualifying route found. Green Consultants uses the University itself as client.\n- **Uncertain:** no qualifying scheme with current delivery has been verified. Not yet checked: the AHSS modules, Law/Health, and dated evidence for Future17 and BEMM149.",
+ "gaps": "Other area unsearched; AHSS barely searched; dated current evidence missing for Future17 and BEMM149; AWS role in Grand Challenges; ECMM427 customer; group format for BEP3020, MSc MBA consulting option, Sports Consultancy Project; One Planet MBA team challenges; further departmental instances likely (engineering, business MSc programmes)."
+}
