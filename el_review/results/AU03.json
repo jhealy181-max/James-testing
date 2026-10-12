@@ -1,0 +1,981 @@
+{
+ "inst_id": "AU03",
+ "institution": "University of Sydney",
+ "review_status": "Partial",
+ "partial_remaining": "'other' area (law, health/medicine/pharmacy, architecture/design) not searched; engineering discipline capstones, science XXXX3888 units, INDP3000, Sydney Policy Reform Project, MBA and Business Analytics capstones untested; group format of SIEN6600 and BIS capstone and current status of MMGT6101/JFC unresolved. Cause: shared WebSearch budget exhausted.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Industry and Community Project Units interdisciplinary teams",
+    "3000 level industry and community project units 2026 semester partners how to enrol",
+    "industry and community projects partners semester 2 2026 project brief team deliverable presentation",
+    "work with our students collaborate on real-world projects partner organisations student teams"
+   ],
+   "key_sources": [
+    "https://www.sydney.edu.au/students/industry-and-community-projects.html",
+    "https://www.sydney.edu.au/students/industry-and-community-projects/enrol-icpu.html",
+    "https://www.sydney.edu.au/students/industry-and-community-projects/4000-level-projects.html",
+    "https://educational-innovation.sydney.edu.au/teaching@sydney/industry-and-community-project-units-preparing-our-students-for-the-real-world/",
+    "https://www.sydney.edu.au/engage/industry-business-partnerships/work-with-our-students/real-world-projects.html"
+   ],
+   "finding": "University-wide ICPU framework (3000 and 4000 level) with partner-set briefs and interdisciplinary teams, current into 2026/27."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Business School capstone consulting project real client team postgraduate unit",
+    "BWIL6300 Business Consulting Practicum sponsor organisation team report 2026",
+    "Business Consulting Practicum student consultancy classmates live industry project eligibility",
+    "SIEN6600 Strategy Innovation and Management Capstone partner organisations groups 2026",
+    "MMGT6101 Business Project groups real organisation; Master of Commerce capstone Prezzee teams"
+   ],
+   "key_sources": [
+    "https://www.sydney.edu.au/students/business-placements/business-consulting-practicum.html",
+    "https://www.sydney.edu.au/units/BWIL6300",
+    "https://www.sydney.edu.au/units/SIEN6600",
+    "https://www.sydney.edu.au/units/MMGT6101"
+   ],
+   "finding": "Business Consulting Practicum (UG and PG) qualifies with 2026 offerings; MMGT6101 group partner project (status unclear); SIEN6600 and BIS capstone partner projects with group format unverified."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "COMP3888 Computer Science Capstone Project teams industry client 2026",
+    "Jacaranda Flame Consulting engineering students teams client projects",
+    "Jacaranda Flame Consulting 2025 OR 2026 applications winter summer"
+   ],
+   "key_sources": [
+    "https://www.sydney.edu.au/units/COMP3888",
+    "https://www.sydney.edu.au/engineering/study/student-experience/industry-placements-and-internships/jacaranda-flame-consulting.html"
+   ],
+   "finding": "COMP3888 group external-client capstone (2026); Jacaranda Flame Consulting extracurricular engineering client teams (status undated). Engineering discipline capstones not searched (budget)."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "DATA3888 data science capstone groups industry partner; SCPU3001 Industry and Community Science Project"
+   ],
+   "key_sources": [
+    "https://www.sydney.edu.au/units/DATA3888",
+    "https://www.sydney.edu.au/units/SCPU3001",
+    "https://www.sydney.edu.au/units/SCPU4001"
+   ],
+   "finding": "Science routes run through ICPU shell units (SCPU3001 now mainly for double majors; SCPU4001/4002). DATA3888 has teams but no external partner evidenced. Discipline XXXX3888 units only lightly covered (one search)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Arts and Social Sciences engage with our students partner project teams postgraduate capstone client",
+    "Sydney Policy Reform Project students teams research paper partner organisation 2026 (refused: search budget exhausted)"
+   ],
+   "key_sources": [
+    "https://www.sydney.edu.au/arts/industry-and-community/industry-partnerships/engage-with-our-students.html"
+   ],
+   "finding": "FASS routes are mainly ICPU shell units (FASS3333, FASS4902, GOVT3898); PG capstones found were individual internships/projects. Sydney Policy Reform Project untested."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: shared web-search budget exhausted. Law, health, architecture/design appear only via ICPU shell units (FMHU4001, ARCH4108, PHAR4820)."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Industry and Community Project Units (ICPUs)",
+   "english_name": "Industry and Community Project Units",
+   "module_code": "",
+   "description": "University-wide framework (run through the DVC/PVC Education portfolio) of semester-long or intensive credit-bearing units in which interdisciplinary student teams receive a real-world brief from an industry, community or government partner, define the problem and propose solutions. Delivered at 3000 level (6 cp, undergraduate) and 4000 level (12 cp via two linked A/B shell units). Students enrol through faculty 'shell' units (e.g. FASS3333, FINC3400, ACCT3400, BANK3400, GOVT3898, ENGG3800, SCPU3001; BUSS4905, FASS4902, SCPU4001/4002, FMHU4001, ARCH4108) and then register for a specific partner project.",
+   "academic_reach": "University-wide",
+   "admin_host": "Pro-Vice-Chancellor (Education) portfolio (pvceducation.enquiries@sydney.edu.au) with faculty shell units",
+   "eligible_faculties_programmes": "Students from all faculties via faculty shell units offered in their course",
+   "faculty_areas": [
+    "central",
+    "business",
+    "engineering_computing",
+    "science",
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "3000 level and 4000 level (senior years)",
+   "eligibility_restrictions": "Must be undergraduate; shell unit must be available in the student's course; places limited; signed Deed Poll required",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 cp (3000 level) or 12 cp (4000 level, Projects A+B)",
+   "duration": "Semester-long or intensive",
+   "delivery_format": "On campus, interdisciplinary teams with project supervisor",
+   "project_based": "Yes",
+   "project_evidence": "Students are given a brief of a real-world problem from a partner and propose solutions [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Students 'must work in interdisciplinary teams' [2]; supervisors allocate groups [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners supply the brief, can give feedback and receive the recommended solutions [2][4].",
+   "partner_type": "Mixed",
+   "partner_role": "Set real-world brief; give feedback; receive presentations/recommendations",
+   "named_partners": "Westpac, Accenture, AGL, NSW Farmers Association, NSW Public Service Commission, Thales, NSW Health (teaching@sydney article, undated)",
+   "deliverable": "Recommendations/solutions presented to partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "Partner-facing page: more than 85 business, government and community organisations have worked with the University (cumulative, undated) [4].",
+   "unresolved": "Total student enrolments per year not published in results.",
+   "legacy_ref": "Industry and Community Project Units",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/students/industry-and-community-projects.html",
+     "title": "Industry and community projects - The University of Sydney",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Industry and community projects are run in collaboration with partners outside of the University; project partner and topic details are subject to change prior to the start of teaching.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://educational-innovation.sydney.edu.au/teaching@sydney/industry-and-community-project-units-preparing-our-students-for-the-real-world/",
+     "title": "Industry and Community Project Units - teaching@sydney",
+     "section": "Article",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'ICPUs are semester-long or intensive units of study, where students are given a brief of a real-world problem from an industry partner and must work in interdisciplinary teams'; 'Students from all faculties across the University are involved'; partners include Westpac, Accenture, AGL, NSW Farmers Association, the Public Service Commission, Thales and NSW Health.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sydney.edu.au/students/industry-and-community-projects/types-of-project-units.html",
+     "title": "3000 level - types of project units",
+     "section": "Types of project units",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Partners set a real business challenge; 'Project supervisors will allocate the groups to ensure an interdisciplinary mix of students.'",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.sydney.edu.au/engage/industry-business-partnerships/work-with-our-students/real-world-projects.html",
+     "title": "Collaborate on real-world projects - The University of Sydney",
+     "section": "Partner-facing page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "ICPU students work in interdisciplinary teams on a partner brief and present findings; partner supplies the problem, students research, analyse and present recommended solutions; partners can give feedback; one listing describes groups of five within a cohort of 45-60; more than 85 business, government and community organisations.",
+     "supports": [
+      "employer",
+      "group",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "Industry and Community Project (3000 level ICPU)",
+   "english_name": "Industry and Community Project (3000 level)",
+   "module_code": "Faculty shell units incl. FASS3333, FINC3400, ACCT3400, BANK3400, GOVT3898, ENGG3800/ENGG3801, SCPU3001",
+   "description": "6 cp senior undergraduate unit: students enrol in their faculty's shell unit, register for a partner project (e.g. City of Sydney, Westpac, Insurance Council of Australia on the 3000-level partners page), and are allocated by project supervisors into interdisciplinary groups that research a partner-set real business/community challenge and present ideas and solutions to the partner.",
+   "academic_reach": "University-wide",
+   "admin_host": "PVC Education portfolio; faculty shell units",
+   "eligible_faculties_programmes": "Any undergraduate whose course includes a 3000-level ICPU shell unit (Arts & Social Sciences, Business, Engineering, Science, etc.)",
+   "faculty_areas": [
+    "central",
+    "business",
+    "engineering_computing",
+    "science",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "3000 level (typically third year)",
+   "eligibility_restrictions": "Must be an undergraduate; shell unit must be offered in your course and handbook criteria met; places limited; ENGG3801 requires departmental permission; from 2026 SCPU3001 is mainly for Science double-major students; signed and witnessed Deed Poll required.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 credit points",
+   "duration": "Semester or intensive session (Jan-Feb intensive offered); 120-150 hours effort cited for intensive",
+   "delivery_format": "On campus; interdisciplinary groups with project supervisor",
+   "project_based": "Yes",
+   "project_evidence": "Partners set a real business challenge [3]; students present ideas and solutions (FASS3333) [5].",
+   "group_working": "Yes",
+   "group_evidence": "'Project supervisors will allocate the groups to ensure an interdisciplinary mix of students' [3]; groups of five within cohort of 45-60 in one listing [4].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External partners set the challenge; FASS3333 students present ideas and solutions to the industry partner [3][5]; projects 'run in collaboration with partners outside of the University' [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets brief, receives presentation, may give feedback",
+   "named_partners": "City of Sydney, Westpac, Insurance Council of Australia (3000-level projects page, listing for 2027 sessions)",
+   "deliverable": "Recommendations / solution presentation to partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (project registration windows: intensive opens 30 Nov 2026; Semester 1 2027 window 11 Jan-21 Feb 2027)",
+   "participation_data": "",
+   "unresolved": "Exact assessment weighting and number of students/projects per session not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/students/industry-and-community-projects.html",
+     "title": "Industry and community projects",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Projects are run in collaboration with partners outside of the University.",
+     "supports": [
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sydney.edu.au/students/industry-and-community-projects/enrol-icpu.html",
+     "title": "3000 level - eligibility and how to enrol",
+     "section": "Eligibility; registration dates",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'To be eligible to enrol in a 3000 level Industry and Community Project Unit (ICPU) you need to be an undergraduate student'; confirm the shell unit is offered in your course; 'Places are limited'; Deed Poll compulsory; Semester 1 window 11 January 2027 - 21 February 2027; intensive window opens 30 November 2026; ENGG3801 needs departmental permission; SCPU3001 changed for 2026.",
+     "supports": [
+      "eligibility",
+      "reach",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sydney.edu.au/students/industry-and-community-projects/types-of-project-units.html",
+     "title": "3000 level - types of project units",
+     "section": "Types",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Partners set a real business challenge; 'Project supervisors will allocate the groups to ensure an interdisciplinary mix of students.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.sydney.edu.au/engage/industry-business-partnerships/work-with-our-students/real-world-projects.html",
+     "title": "Collaborate on real-world projects",
+     "section": "Partner-facing page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams vary by project; one listing describes smaller groups of five within a larger cohort of 45 to 60 students; partners can give feedback.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://www.sydney.edu.au/units/FASS3333",
+     "title": "FASS3333: Industry and Community Project",
+     "section": "Unit page",
+     "pub_year": "2026 (Semester 2 2026 offering listed)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students present their ideas and solutions to the industry partner; Semester 2 2026 offering listed; 120-150 hours effort for the intensive unit and 90% attendance requirement (as summarised).",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "Advanced Industry and Community Project A and B (4000 level ICPU)",
+   "english_name": "Advanced Industry and Community Project (4000 level)",
+   "module_code": "Shell units incl. BUSS4905, FASS4902, SCPU4001/SCPU4002, FMHU4001, ARCH4108",
+   "description": "12 cp advanced project taken as two co-requisite 6 cp faculty shell units (Project A in a June-July intensive, Project B in Semester 2). Interdisciplinary teams address a complex real-world problem identified by an industry, community or government organisation, using systems thinking and self-directed research to produce final recommendations. 2026 Semester 2 projects listed: AMP (climate transition planning for financial services) and PTW Architects (sustainable urban environments).",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "PVC Education portfolio; faculty shell units",
+   "eligible_faculties_programmes": "Students in courses offering a 4000-level shell unit (Business, Arts & Social Sciences, Science, Medicine & Health, Architecture evidenced)",
+   "faculty_areas": [
+    "central",
+    "business",
+    "science",
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "4000 level (final/honours-level year)",
+   "eligibility_restrictions": "Must access via the two co-requisite shell units available in own course; detailed eligibility not retrieved.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "12 credit points (2 x 6 cp shell units, A and B)",
+   "duration": "Project A June-July intensive + Project B Semester 2 (3 Aug - 8 Nov 2026)",
+   "delivery_format": "Interdisciplinary teams; intensive + semester",
+   "project_based": "Yes",
+   "project_evidence": "Teams work on a complex real-world problem identified by partner organisations and produce final recommendations [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "ARCH4108 describes teams working on the problem [2]; SCPU4001 students work in teams in collaboration with a major industry partner [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Problem identified by industry, community and government organisations [2]; SCPU4001 run in collaboration with a major industry partner [3]; 2026 projects with AMP and PTW Architects [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Identifies the problem/brief; collaborates on the project",
+   "named_partners": "AMP; PTW Architects (Semester 2 2026)",
+   "deliverable": "Final recommendations",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Semester 2 2026 projects, 3 Aug-8 Nov 2026)",
+   "participation_data": "",
+   "unresolved": "The AMP 2026 project uses AMP's publicly available climate disclosures as a case study; extent of AMP's direct engagement with students not stated. Reach classed Cross-faculty because no explicit all-faculty eligibility statement for 4000 level was retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/students/industry-and-community-projects/4000-level-projects.html",
+     "title": "4000 level - projects and how to enrol",
+     "section": "Projects; dates",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "12 cp projects accessed through 'two co-requisite 6 credit point faculty-based shell units (Projects A and B)'; Project B Semester 2 registration closes 2 August 2026, project dates 3 August - 8 November 2026; Semester 2 industry projects: AMP (climate transition planning for financial services; uses AMP's publicly available climate-related disclosures as a case study) and PTW Architects (sustainable urban environments); students use systems thinking and self-directed inquiry-based research to produce final recommendations.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sydney.edu.au/units/ARCH4108",
+     "title": "ARCH4108: Industry and Community Project Unit A",
+     "section": "Unit page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams work on a complex real-world problem identified by industry, community and government organisations.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sydney.edu.au/units/SCPU4001",
+     "title": "SCPU4001: Industry and Community Science Project A",
+     "section": "Unit page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'In collaboration with a major industry partner and an academic lead, students integrate their academic skills and knowledge by working in teams.'",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.sydney.edu.au/units/FASS4902",
+     "title": "FASS4902: Advanced Industry and Community Project B",
+     "section": "Unit page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Semester 2 2026 offering listed.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Consulting Practicum (Undergraduate)",
+   "english_name": "Business Consulting Practicum",
+   "module_code": "BWIL1300",
+   "description": "Business School elective in which students form a student consultancy with classmates and work through the semester on a live project for a sponsor organisation (corporate, SME, not-for-profit or government), scoping deliverables with the sponsor and delivering a written report.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "University of Sydney Business School (Business placements, projects and study tours)",
+   "eligible_faculties_programmes": "Business School degrees incl. Bachelor of Commerce and combined degrees",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "After at least 24 cp of business units",
+   "eligibility_restrictions": "Enrolled in specified Business School degree; 24 cp of UG business units completed; 6 cp free elective space; does not count to major/minor; minimum enrolment needed.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 credit points",
+   "duration": "One semester",
+   "delivery_format": "On campus (Camperdown/Darlington)",
+   "project_based": "Yes",
+   "project_evidence": "Live industry project; scope and deliverables set with the sponsor; ends in a written report to the sponsor [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Students 'form a student consultancy with your classmates' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsor organisation provides the project, agrees scope/deliverables and receives the written report [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client: scopes deliverables, receives report",
+   "named_partners": "",
+   "deliverable": "Written consulting report to sponsor",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Semester 2 2026 offering)",
+   "participation_data": "",
+   "unresolved": "Sponsor/report details are evidenced on the BWIL6300 unit page and shared programme page; BWIL1300's own unit page extract gave only the 2026 session.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/students/business-placements/business-consulting-practicum.html",
+     "title": "Business Consulting Practicum - The University of Sydney",
+     "section": "Programme page; eligibility",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'you'll form a student consultancy with your classmates and collaborate on a live industry project throughout the semester'; available as BWIL1300 (Undergraduate) or BWIL6300 (Postgraduate); UG applicants need six credit points of space and 'a minimum of 24 credit points of undergraduate business units'; cannot count towards major/minor; no minimum credit points for PG; must be enrolled in specified Business School degrees (e.g. Bachelor of Commerce incl. combined, Master of Commerce, Master of Professional Accounting); minimum enrolment needed or unit may be cancelled.",
+     "supports": [
+      "group",
+      "project",
+      "eligibility",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sydney.edu.au/units/BWIL6300",
+     "title": "BWIL6300: Business Consulting Practicum",
+     "section": "Unit description",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work with a sponsor (corporate, SME, not-for-profit or government) on a project examining the sponsor's activities, challenges and aspirations; scope and key deliverables determined in consultation with the sponsor; 'culminates' in a written report to the sponsor.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sydney.edu.au/units/BWIL1300",
+     "title": "BWIL1300: Business Consulting Practicum",
+     "section": "Unit page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Undergraduate equivalent; 2026 listing shows Semester 2 2026.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Consulting Practicum (Postgraduate)",
+   "english_name": "Business Consulting Practicum",
+   "module_code": "BWIL6300",
+   "description": "Postgraduate version: student consultancy teams of classmates work for a semester with a sponsor (corporate, SME, not-for-profit or government), examining the sponsor's current activities, challenges and aspirations and delivering a written report.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "University of Sydney Business School",
+   "eligible_faculties_programmes": "Specified Business School master's degrees (e.g. Master of Commerce, Master of Professional Accounting)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Any (no minimum credit points)",
+   "eligibility_restrictions": "Enrolled in specified Business School PG degree; minimum enrolment needed.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 credit points",
+   "duration": "One semester",
+   "delivery_format": "On campus; Semester 1 and Semester 2 2026",
+   "project_based": "Yes",
+   "project_evidence": "Sponsor project; scope/deliverables set with sponsor; written report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students form a student consultancy with classmates [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsor organisation supplies project, co-scopes deliverables, receives written report [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client",
+   "named_partners": "",
+   "deliverable": "Written report to sponsor",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Semester 1 and 2 2026 offerings)",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/units/BWIL6300",
+     "title": "BWIL6300: Business Consulting Practicum",
+     "section": "Unit description; sessions",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work with a sponsor, which may be a corporate, SME, not-for-profit or government organisation; determine scope and key deliverables in consultation with the sponsor; ends with a written report to the sponsor; offerings Semester 1 2026 and Semester 2 2026, Camperdown/Darlington.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sydney.edu.au/students/business-placements/business-consulting-practicum.html",
+     "title": "Business Consulting Practicum - The University of Sydney",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'you'll form a student consultancy with your classmates and collaborate on a live industry project throughout the semester'; available as BWIL1300 (Undergraduate) or BWIL6300 (Postgraduate); UG applicants need six credit points of space and 'a minimum of 24 credit points of undergraduate business units'; cannot count towards major/minor; no minimum credit points for PG; must be enrolled in specified Business School degrees (e.g. Bachelor of Commerce incl. combined, Master of Commerce, Master of Professional Accounting); minimum enrolment needed or unit may be cancelled.",
+     "supports": [
+      "group",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MMGT Business Project",
+   "english_name": "Master of Management Business Project",
+   "module_code": "MMGT6101",
+   "description": "12 cp field-experience unit in the Master of Management: groups of four or five partner with a real organisation for ten weeks to research and recommend solutions to a business problem identified with the partner, with a consulting mentor; assessed by scoping document, business project report (45%), presentation (25%) and thought-leadership piece/learning portfolio (30%).",
+   "academic_reach": "Programme/course",
+   "admin_host": "University of Sydney Business School",
+   "eligible_faculties_programmes": "Master of Management (and CEMS variant)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "After 24 cp of core units (2016 handbook)",
+   "eligibility_restrictions": "Department permission; 24 cp core units completed (archived 2016 handbook)",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "12 cp; report 45%, presentation 25%, thought leadership + portfolio 30%",
+   "duration": "Ten weeks",
+   "delivery_format": "Field experience, no formal classes",
+   "project_based": "Yes",
+   "project_evidence": "Research and recommend solutions to a business problem; project report and presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'small groups of four or five' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Groups partner with a real (host) organisation that identifies the business problem; projects range from NGOs/community groups to multinational corporations [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Host organisation; identifies problem; receives recommendations",
+   "named_partners": "",
+   "deliverable": "Business project report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Unclear (unit page undated in extract; detailed description from un-yeared/archived handbooks)",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26-2026/27 corroboration retrieved (round-2 ruling); compulsory vs elective status in the MMgt not confirmed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/units/MMGT6101",
+     "title": "MMGT6101: MMGT Business Project",
+     "section": "Unit page / handbook description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in small groups of four or five and partner with a real organisation over a ten-week period to research and recommend solutions to a business problem identified with the partner; projects range from social entrepreneurship programs with community groups and NGOs to consultancy for large multinationals; consulting mentor; assessment: scoping document 0%, business project report 45%, presentation 25%, thought leadership piece and learning portfolio 30%; 12 cp; Semester 1, Semester 2.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sydney.edu.au/handbooks/business_school_PG/coursework/management/management_descriptions.shtml",
+     "title": "Master of Management - Business School Postgraduate",
+     "section": "Unit descriptions",
+     "pub_year": "undated (legacy handbook format)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MMGT6101 described as a business project with a real organisation in groups.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://rp-handbooks.sydney.edu.au/handbooks/archive/2016/business_school_PG/coursework/management/management_units.shtml.html",
+     "title": "Units of study for the Master of Management (2016 archive)",
+     "section": "Units",
+     "pub_year": "2016",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students must complete 24 credit points of core units before enrolling; department permission required.",
+     "supports": [
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Strategy, Innovation and Management Capstone",
+   "english_name": "",
+   "module_code": "SIEN6600",
+   "description": "6 cp capstone in the Master of Commerce Strategy, Innovation and Management specialisation in which theories and concepts are tested in real-life business projects offered by participating partner organisations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Business School, Discipline of Strategy, Innovation and Entrepreneurship",
+   "eligible_faculties_programmes": "Master of Commerce (SIM specialisation)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final (capstone)",
+   "eligibility_restrictions": "Not retrieved",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 credit points",
+   "duration": "One semester",
+   "delivery_format": "On campus, Semester 1 and Semester 2 2026",
+   "project_based": "Yes",
+   "project_evidence": "Real-life business projects [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Team format not stated in retrieved extracts.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects 'offered by participating partner organisations' [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Offers the project",
+   "named_partners": "",
+   "deliverable": "Not retrieved",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "",
+   "unresolved": "Group vs individual format; named partners; whether compulsory for the specialisation.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/units/SIEN6600",
+     "title": "SIEN6600: Strategy, Innovation and Management Capstone",
+     "section": "Unit page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Theories and concepts are tested in real-life business projects offered by participating partner organisations; offered Semester 1 2026 and Semester 2 2026 at Camperdown/Darlington.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Master of Commerce Business Information Systems (BIS) capstone",
+   "english_name": "",
+   "module_code": "Not identified",
+   "description": "BIS capstone unit in the Master of Commerce in which students work with industry partners (e.g. Prezzee, 2024) on real business cases over 13 weeks with mid-term deliverables and a final report and presentation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Business School, Discipline of Business Information Systems",
+   "eligible_faculties_programmes": "Master of Commerce (BIS)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Capstone",
+   "eligibility_restrictions": "Not retrieved",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "13 weeks",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Real business cases with mid-term deliverables, final report and presentation [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Team format not explicit in retrieved summary.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students work with industry partner Prezzee as a real client [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partner/client",
+   "named_partners": "Prezzee (2024)",
+   "deliverable": "Final report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024",
+   "participation_data": "",
+   "unresolved": "Unit code, group format, whether all projects have industry partners, and 2025/26 delivery not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/business/news-and-events/news/2024/07/17/-master-of-commerce-students-navigate-real-world-projects-with-p.html",
+     "title": "BIS Capstone Unit Students Navigate Real-World Projects with Prezzee",
+     "section": "News",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work with industry partners such as Prezzee on real business cases over 13 weeks with mid-term deliverables and a final report and presentation; a student valued working with a real client.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Computer Science Project",
+   "english_name": "",
+   "module_code": "COMP3888 (advanced alternative COMP3988)",
+   "description": "Third-year computer science capstone: students work in groups for an external client under academic supervision, building a substantial software system across the full development cycle using XP, and working with the client to discover needs and demonstrate the delivered results meet them.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer Science, Faculty of Engineering",
+   "eligible_faculties_programmes": "Computer Science major (BSc, BAdvComputing, etc.)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Third year",
+   "eligibility_restrictions": "Core for Computer Science major; may be replaced by COMP3988",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 credit points",
+   "duration": "Semester 2",
+   "delivery_format": "On campus (Camperdown/Darlington)",
+   "project_based": "Yes",
+   "project_evidence": "Substantial software system built across the full development cycle [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students work in groups' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Groups work 'for an external client'; outcome on working with clients to discover their needs [1]; partner-facing page invites partners to provide a project scope and expected deliverables for a twelve-week CS capstone [2].",
+   "partner_type": "Unclear",
+   "partner_role": "Client: provides project scope/requirements, receives software",
+   "named_partners": "",
+   "deliverable": "Software system",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Semester 2 2026)",
+   "participation_data": "",
+   "unresolved": "Partner sector mix and whether internal (university) clients are also used; COMP3988 format not checked.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/units/COMP3888",
+     "title": "COMP3888: Computer Science Project",
+     "section": "Unit page",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in groups for an external client, with academic supervision, covering the full development cycle (XP methodology); outcome: 'Demonstrate analytic and problem solving skills through working with clients to discover their needs'; core for CS major, 'may be replaced by advanced unit COMP3988'; Semester 2 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sydney.edu.au/engage/industry-business-partnerships/work-with-our-students/real-world-projects.html",
+     "title": "Collaborate on real-world projects",
+     "section": "Computer science capstone",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In computer science, a partner can provide a project scope describing a real-world problem and expected deliverables for a twelve-week capstone.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S10",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Jacaranda Flame Consulting (JFC)",
+   "english_name": "",
+   "module_code": "",
+   "description": "Faculty of Engineering extracurricular consulting programme: teams of 4-5 engineering students from all disciplines work full-time over the winter (6 weeks) or summer (9 weeks) break on problems submitted by commercial engineering companies and government organisations, meeting the client to set needs and deliverables, holding progress meetings and presenting outcomes for client sign-off. A 2023 collaboration with UTS (Optik) formed joint consulting teams.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Engineering",
+   "eligible_faculties_programmes": "Engineering undergraduates (3rd/4th year) and Master of Professional Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Third and fourth year UG; MPE",
+   "eligibility_restrictions": "Engineering students; selection implied ('eligible students')",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Unpaid; no credit evidenced",
+   "duration": "6 weeks full time (winter) or 9 weeks full time (summer), twice a year",
+   "delivery_format": "Full-time team consulting",
+   "project_based": "Yes",
+   "project_evidence": "Client problem with agreed deliverables; outcomes presented for client sign-off [1].",
+   "group_working": "Yes",
+   "group_evidence": "'project teams of 4 to 5 students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Problems submitted by commercial engineering companies and government organisations; clients meet teams, attend progress meetings and sign off outcomes [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Submits problem; client meetings; signs off outcomes",
+   "named_partners": "Ampol, Transport for NSW, Laing O'Rourke, Robert Bird Group, IPWEA, Marrickville Golf Course, Vinsi Partners (undated page)",
+   "deliverable": "Consulting outcomes presented for client sign-off",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023 (UTS collaboration announcement)",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 round found; page directs students to engineering.jfc@sydney.edu.au. Duration band approximate (6-9 weeks full time).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sydney.edu.au/engineering/study/student-experience/industry-placements-and-internships/jacaranda-flame-consulting.html",
+     "title": "Jacaranda Flame Consulting - The University of Sydney",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Engineering consulting experience for 6 weeks full time over winter or 9 weeks full time over summer; unpaid, offered twice a year; 'project teams of 4 to 5 students from across all engineering disciplines'; problems submitted by leading commercial engineering companies and government organisations; meet client to clarify needs, timeframes and deliverables, progress meetings, present outcomes for client sign-off; aimed at third- and fourth-year and Master of Professional Engineering students; clients include Ampol, Transport for NSW, Laing O'Rourke, Robert Bird Group, IPWEA.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sydney.edu.au/news-opinion/news/2023/12/01/university-of-sydney-and-uts-collaborate-on-digital-central.html",
+     "title": "University of Sydney and UTS collaborate on Digital Central",
+     "section": "News",
+     "pub_year": "2023",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "JFC and UTS Optik: high-performing students from both faculties of engineering form consulting teams for industry clients; first project Green Gate Consulting.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "DATA3888 Data Science Capstone",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "2026 unit page: project-based learning teams create a public data product; no industry partner mentioned (A,B yes; C not evidenced). A 2020 handbook described a separate selective partner-provided project, not current evidence.",
+   "source_url": "https://www.sydney.edu.au/units/DATA3888",
+   "status_note": "2026 unit page; ~440 students per 2025 symposium programme"
+  },
+  {
+   "name": "SMBA6201 MBA capstone",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "2018 handbook: teams integrate MBA learning to bring a real prototype to market; no external client evidenced and only historical (2018) evidence.",
+   "source_url": "https://rp-handbooks.sydney.edu.au/handbooks/archive/2018/business_school_PG/coursework/mba/mba_units.shtml.html",
+   "status_note": "2018"
+  },
+  {
+   "name": "ARHT6923 Capstone Art Curating Placement",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "20-day individual internship with a gallery/museum followed by a major essay; not a group project.",
+   "source_url": "https://www.sydney.edu.au/units/ARHT6923",
+   "status_note": ""
+  },
+  {
+   "name": "Cultural Studies internship capstone / MECO6928 Media internship",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Supervised individual work placements (MECO6928: 20-day placement); no group project evidenced.",
+   "source_url": "https://www.sydney.edu.au/handbooks/arts-pg/coursework-areas/cultural-studies/overview.html",
+   "status_note": ""
+  },
+  {
+   "name": "MECO6935 Professional Project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual researched project tied to student's career goals; no team or external client evidenced (2021 archive).",
+   "source_url": "https://rp-handbooks.sydney.edu.au/handbooks/archive/2021/arts_PG/subject_areas_im/digital_communication_culture_descriptions.shtml.html",
+   "status_note": "2021 archive"
+  },
+  {
+   "name": "Sydney Policy Reform Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "High-achieving students do volunteer research for policy and law reform organisations under academic supervision (230+ students, ~45 papers since 2019, per FASS partner page). Group format, partner role and current status not verified: search budget exhausted before the dedicated search ran.",
+   "source_url": "https://www.sydney.edu.au/arts/industry-and-community/industry-partnerships/engage-with-our-students.html",
+   "status_note": "Not tested"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**University of Sydney** has an institution-level framework for live, partner-briefed group projects, plus several faculty routes. This review is **partial**: the search budget ran out before law, health, architecture and most discipline capstones were covered.\n\n- **Industry and Community Project Units (ICPUs):** run from the PVC Education portfolio and taken through faculty shell units. At **3000 level** (6 cp), any undergraduate whose course offers a shell unit can register for a partner project. Supervisors put students into interdisciplinary groups, which work on a real challenge set by an industry, government or community partner and present solutions to it. Registration windows for the 2026/27 sessions are published. At **4000 level** (12 cp: an A unit in a June-July intensive, then a B unit in Semester 2), the 2026 partners are AMP and PTW Architects. Both levels are elective.\n- **Business School:** the **Business Consulting Practicum** (BWIL1300 undergraduate, BWIL6300 postgraduate; offered in 2026) has student consultancies work for a corporate, SME, not-for-profit or government sponsor, which scopes the deliverables and receives a written report. **MMGT6101** puts groups of 4-5 with a host organisation for 10 weeks, but its current status is undated. **SIEN6600** and the **BIS capstone** use partner projects, but their group format is unverified.\n- **Computing:** **COMP3888**, a core unit for the Computer Science major, has groups build software for an external client (2026).\n- **Engineering:** **Jacaranda Flame Consulting** is an extracurricular, selective programme. Teams of 4-5 work full time over the winter or summer break on problems from companies and government bodies. Its page is undated.\n- **Overall:** the provision is distributed, with a university-wide elective spine. Remaining uncertainties are partner engagement depth in individual ICPU projects, enrolment numbers, and the faculty areas not yet searched.",
+ "gaps": "PARTIAL: shared web-search budget exhausted after 14 successful searches. Not searched: law (Industry and community engagement units page surfaced but untested), health/medicine/pharmacy (beyond ICPU shell units), architecture/design studios with industry partners, engineering discipline capstones/thesis industry routes, INDP3000 Interdisciplinary Project, Science XXXX3888/3988 discipline project units (single majors), Sydney Policy Reform Project, Business School Industry Placement/Experience in Industry routes, MBA current capstone, Business Analytics capstone. Further departmental instances likely."
+}
