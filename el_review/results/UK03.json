@@ -1,0 +1,1359 @@
+{
+ "inst_id": "UK03",
+ "institution": "Lancaster University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Lancaster University student consultancy live client project team",
+    "Lancaster Award employability students activities eligibility",
+    "Lancaster University accessing student talent businesses student projects hackathon",
+    "Lancaster careers students team challenge employer project Lancaster Award",
+    "Management School Careers Service recognised work-related learning"
+   ],
+   "key_sources": [
+    "https://www.lancaster.ac.uk/study/why-lancaster/careers-and-employability/",
+    "https://www.lancaster.ac.uk/lums/careers/employers/company-projects/",
+    "https://www.lancaster.ac.uk/sci-tech/business/new-business-pages/for-businesses/accessing-student-talent/"
+   ],
+   "finding": "No university-wide group employer-project scheme found; Lancaster Award is a co-curricular recognition. Employer project provision is run through faculty/school units (LUMS Company Projects)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Lancaster LUMS consultancy project module client organisation",
+    "LUMS company projects consultancy projects teams",
+    "Marketing BSc Research Consultancy Project",
+    "Human Resources and Consulting MA",
+    "Advanced Management Consulting and Change MSc",
+    "MBA consultancy challenge",
+    "Management MSc company-based project",
+    "Digital and Social Media Marketing MSc live client",
+    "LUMS hackathon Fujitsu Heathrow"
+   ],
+   "key_sources": [
+    "https://www.lancaster.ac.uk/lums/careers/students/consultancy-projects/",
+    "https://www.lancaster.ac.uk/lums/careers/employers/company-projects/",
+    "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/advanced-management-consulting-and-change-msc/2026/"
+   ],
+   "finding": "Dense, programme-embedded LUMS consultancy provision across UG Marketing, MBA and several MSc programmes, plus a 2026 two-day hackathon."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "physics/engineering industrial group projects",
+    "SCC group project industry client",
+    "engineering group design project industry sponsor MEng",
+    "Software Design Studio Project III Live Studio"
+   ],
+   "key_sources": [
+    "https://www.lancaster.ac.uk/engineering/business/collaborating-with-our-students/",
+    "https://www.lancaster.ac.uk/study/course-information/modules/016901/"
+   ],
+   "finding": "MEng ENGR 445 industry group projects qualify; Software Engineering Studio III client status unclear; CS Year 2 group project excluded."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Physics Industrial Group Projects",
+    "Lancaster Environment Centre team project external client",
+    "Mathematics and Statistics MSc Data Science industrial project",
+    "Science and Technology student engagement industrial projects"
+   ],
+   "key_sources": [
+    "https://www.lancaster.ac.uk/physics/business/student-engagement/industrial-group-projects/",
+    "https://www.lancaster.ac.uk/sci-tech/msc-data-science-apply-now/"
+   ],
+   "finding": "Physics Industrial Group Projects qualify; MSc Data Science Term 1 group project unclear; LEC/Chemistry not found beyond individual partner dissertations."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Design BA live brief client",
+    "Design Consultancy module real client",
+    "FASS group project community organisation live brief",
+    "Criminology live project",
+    "Discovery module Global Challenges",
+    "Sustainability and Global Environmental Futures MA Applied Learning Studio"
+   ],
+   "key_sources": [
+    "https://www.lancaster.ac.uk/study/undergraduate/courses/design-ba-hons-w281/2026/",
+    "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/sustainability-and-global-environmental-futures-ma/2026/"
+   ],
+   "finding": "Design Consultancy qualifies; Sustainability MA studios unclear (external clients 'may'); Criminology live-project claim not verified; discovery module no external org."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Law School pro bono clinic",
+    "Architecture BA second year client project"
+   ],
+   "key_sources": [
+    "https://www.lancaster.ac.uk/study/why-lancaster/law-clinics/",
+    "https://www.lancaster.ac.uk/study/undergraduate/courses/architecture-ba-hons-k100/2026/"
+   ],
+   "finding": "Law clinics serve members of the public (excluded); Architecture live client project found but group status unclear. Medicine/health not searched (search budget)."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "Careers Projects Team: >150 bespoke projects delivered; since 2023, 668 students and >160 employer partners (cumulative, news item c. 2025); LUMS also states >800 consultancy projects since 2010 (search summary, unquoted).",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "Management School degrees that include a consultancy or company-project module; compulsory in some degrees, optional in others (alternatives may be offered)",
+   "partner_role": "Company hosts supply live project and contact time",
+   "local_id": "S1",
+   "official_name": "LUMS Company Projects / Consultancy Projects (Management School consultancy project modules)",
+   "description": "Management School framework in which a Company Projects team sources and scopes real-world projects from external companies for undergraduate and postgraduate consultancy-project modules; student teams negotiate the brief with the client, analyse data and make recommendations. Umbrella for the programme-specific routes below.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Lancaster University Management School (LUMS) Careers / Company Projects team",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Varies by module",
+   "project_based": "Yes",
+   "project_evidence": "Teams tackle a real-world challenge for a partner company (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Work in small teams' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner companies (Companies House-registered, trading 1+ year, 5-10 hours commitment) supply the project; teams negotiate scope with the client (src 1, 2).",
+   "partner_type": "Business/commercial",
+   "deliverable": "Consultancy report/recommendations to company",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (news: 668 students since 2023)",
+   "unresolved": "Umbrella page does not name modules/degrees; undated pages. Counted via children.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/lums/careers/students/consultancy-projects/",
+     "title": "Consultancy projects",
+     "section": "student page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in small teams with partner companies on a real-world challenge; teams negotiate the scope of the brief with the client, collect/analyse data and make recommendations; compulsory in some degrees, optional in others.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/lums/careers/employers/company-projects/",
+     "title": "Company projects",
+     "section": "employer page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Company Projects team sources and scopes real-world projects for undergraduate and postgraduate consultancy project modules; hosts must be registered on Companies House for 1+ year and commit roughly 5-10 hours.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lancaster.ac.uk/lums/news/management-school-careers-service-recognised-for-excellence-in-work-related-learning",
+     "title": "Management School Careers Service recognised for excellence in work-related learning",
+     "section": "news",
+     "pub_year": "c.2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Careers Projects Team delivered >150 bespoke projects; since 2023, 668 students and >160 employer partners have taken part.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "MOBO Awards, Saatchi & Saatchi, Tesco, Lake District Tourism, plus SMEs and charities (as listed on Marketing with Psychology (Industry) page, undated)",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "BSc Marketing (N500), Marketing with Psychology (N5C8), Marketing (Industry) (N505) and related degrees",
+   "partner_role": "Client sets brief; scope negotiated with client",
+   "official_name": "Research Consultancy Project (BSc Marketing and related Marketing degrees)",
+   "description": "Final-year core consultancy-style research project: students work in a small team on a live client brief in marketing (market research, analytics), negotiating the brief with the client and reporting recommendations. Appears in Marketing BSc and variants (e.g. Marketing with Psychology, Marketing (Industry)).",
+   "academic_reach": "Programme/course",
+   "admin_host": "LUMS Department of Marketing",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Module length not retrieved",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy-style research project investigating a marketing issue for a live client (src 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "'as part of a small team' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Live client project; groups negotiate scope with client; past clients listed (src 2, 3).",
+   "partner_type": "Mixed",
+   "deliverable": "Group research report/presentation to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 entry page",
+   "unresolved": "Module code and credit not retrieved; 2026/2027-entry course pages list the module but no 2025/26 or 2026/27 module catalogue or cohort confirmation; older MKTG310 handbook (2017-18) describes the predecessor. Duration band is inferred as module-length, not stated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/marketing-bsc-hons-n500/2026/",
+     "title": "Marketing BSc Hons (N500)",
+     "section": "Core modules",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Core module Research Consultancy Project: consultancy-style research project, small team, live client project.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/lums/careers/students/consultancy-projects/",
+     "title": "Consultancy projects",
+     "section": "student page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Groups negotiate scope of the brief with client; marketing research/analytics themes.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/marketing-with-psychology-industry-bsc-hons-n5c9/2027/",
+     "title": "Marketing with Psychology (Industry) BSc Hons (N5C9)",
+     "section": "course page",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Past clients include MOBO Awards, Saatchi & Saatchi, Tesco, Lake District Tourism, SMEs and charities.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S2"
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "BA Design (W281) and variants; Marketing and Design BSc (NW52)",
+   "partner_role": "Real client shapes brief",
+   "official_name": "Design Consultancy (BA Design; Marketing and Design BSc)",
+   "description": "Final-year core module in which student design teams work with a real client on a live project, shaping the brief with the client (product, brand, UX, design strategy) and delivering design research-based solutions; Marketing and Design BSc has a similar consultancy module.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Lancaster Institute for Contemporary Arts / Design (Faculty of Humanities, Arts and Social Sciences); Marketing and Design jointly with LUMS",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Entire final year (stated on Study Abroad variant page)",
+   "project_based": "Yes",
+   "project_evidence": "Live project with a real client delivering creative solutions (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'In a team, you will tackle real business challenges'; aligned with 'your team's strengths' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Briefs are shaped with the client; students manage client relationships (src 1).",
+   "partner_type": "Unclear",
+   "deliverable": "Design solution/research for client",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 entry page",
+   "unresolved": "Client sectors/names not retrieved; credit not retrieved; no cohort/dated delivery evidence beyond 2026-entry course pages.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/design-ba-hons-w281/2026/",
+     "title": "Design BA Hons (W281)",
+     "section": "Core modules",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Design Consultancy: live project with a real client; in a team tackle real business challenges; briefs shaped collaboratively with client.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/design-study-abroad-ba-hons-w283/2026/",
+     "title": "Design (Study Abroad) BA Hons (W283)",
+     "section": "course page",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "In your final year, our Design Consultancy module enables you to work with a real client for the entire year.",
+     "supports": [
+      "duration",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/marketing-and-design-bsc-hons-nw52/2027/",
+     "title": "Marketing and Design BSc Hons (NW52)",
+     "section": "course page",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final-year consultancy module in a design team conducting research using design methods.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ],
+   "local_id": "S3"
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "Lancaster MBA (full-time); Executive MBA has a similar group consultancy challenge",
+   "partner_role": "Client organisation sets problem",
+   "official_name": "MBA Consultancy Challenge and Corporate Challenge (Lancaster MBA)",
+   "description": "Action-learning MBA challenge in which teams act as consultants to a client organisation, analyse a problem and develop implementable recommendations; the programme culminates in a Corporate Challenge consultancy project for a major firm.",
+   "academic_reach": "Programme/course",
+   "admin_host": "LUMS MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Fixed points in programme (not retrieved)",
+   "project_based": "Yes",
+   "project_evidence": "Analyse a problem for a client organisation and develop recommendations (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of students' act as consultants; one blog describes 10 teams of 4-5 (older) (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation supplies the problem and receives recommendations; RSPCA testimonial praises an MBA student team (src 1, 2).",
+   "partner_type": "Mixed",
+   "deliverable": "Consultancy recommendations to client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Pages undated; module name/credit/team size for current MBA not confirmed; Executive MBA version says 'real-life problem or business simulation' (Unclear).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/lums/news/mba-consultancy-challenge",
+     "title": "MBA Consultancy Challenge",
+     "section": "news/programme",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Third action-learning challenge; teams of consultants analyse a problem for a client organisation and develop implementable recommendations.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/lums/business/",
+     "title": "LUMS for business",
+     "section": "testimonial",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "RSPCA testimonial praising an MBA student team as professional and well structured.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S4"
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "MSc Advanced Management, Consulting and Change",
+   "partner_role": "Industry partner collaborates; clients assigned",
+   "official_name": "Company-based group project (MSc Advanced Management, Consulting and Change)",
+   "description": "Option replacing the individual literature-review dissertation: students work in groups with an industry partner on a company-based project (consulting intervention for a client or organisational dilemma). Group route recorded separately from the individual dissertation route.",
+   "academic_reach": "Programme/course",
+   "admin_host": "LUMS Organisation, Work and Technology",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "Dissertation period (not retrieved)",
+   "project_based": "Yes",
+   "project_evidence": "Company-based project as dissertation option (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'working in groups and in collaboration with an industry partner' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partner collaborates on the company-based project (src 1).",
+   "partner_type": "Business/commercial",
+   "deliverable": "Group company report/consulting intervention",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (2026-entry course page)",
+   "unresolved": "Group formation process is from the sister MSc Management blog; module code/credit not retrieved. Programme described as evolved from MA Human Resources and Consulting.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/advanced-management-consulting-and-change-msc/2026/",
+     "title": "Advanced Management, Consulting and Change MSc",
+     "section": "Dissertation options",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Two options: company-based project, working in groups and in collaboration with an industry partner; or individual literature-review dissertation.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "eligibility"
+     ]
+    }
+   ],
+   "local_id": "S5"
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "S5",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "MA Human Resources and Consulting",
+   "partner_role": "Client sets HR brief",
+   "official_name": "Organisational Diagnosis and Consulting live project (MA Human Resources and Consulting)",
+   "description": "Term 2 consultancy project in which teams of 6-8 students act as a consultancy group for an external client organisation (private or public, any size) on an HR-related live brief: diagnose, gather data, recommend change; students manage the client relationship with tutor support.",
+   "academic_reach": "Programme/course",
+   "admin_host": "LUMS Organisation, Work and Technology",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "8-10 weeks in Term 2 (sources differ: 8 weeks; 10 weeks)",
+   "project_based": "Yes",
+   "project_evidence": "Live consultancy brief (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of six-eight (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation (private/public sector) provides live brief (src 1, 2).",
+   "partner_type": "Mixed",
+   "deliverable": "Diagnosis and recommendations to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (2025-entry page)",
+   "unresolved": "Search summary indicates the MA has been succeeded by MSc Advanced Management, Consulting and Change (S5), so this may be discontinued for 2026 entry; flagged as probable predecessor of S5 and not to be double counted.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/human-resources-and-consulting-ma/2025/",
+     "title": "Human Resources and Consulting MA",
+     "section": "Project",
+     "pub_year": "2025 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Eight-week Term 2 project, teams of six-eight, live consultancy brief for a client; client relationship managed by the student group.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/lums/our-departments/organisation-work-and-technology/masters/ma-human-resources-and-consulting/",
+     "title": "MA Human Resources and Consulting",
+     "section": "department page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Clients typically from private and public sectors, large and small.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S6"
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "MSc Management (MiM) and sibling Management MSc programmes (International Business and Strategic Management; Management and AI pages also appear)",
+   "partner_role": "Firm supplies live issue",
+   "official_name": "Company-based project (MSc Management)",
+   "description": "Option to the independent research project: teams of four students solve a live business issue for a local firm and produce an assessed company report. Students choose teammates, interview and rank company preferences; department assigns clients (per student blog).",
+   "academic_reach": "Programme/course",
+   "admin_host": "LUMS",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "Not retrieved",
+   "project_based": "Yes",
+   "project_evidence": "Assessed company report on a live business issue (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Team of four students (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Live issue for a local firm; clients assigned by department (src 1, 2).",
+   "partner_type": "Business/commercial",
+   "deliverable": "Company report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (2027-entry pages exist)",
+   "unresolved": "Programme page undated; group formation details come from a blog; other Management MSc variants not separately assessed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/lums/postgraduate/msc-management/",
+     "title": "MSc Management (MiM)",
+     "section": "company project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Company project is a team of four students solving a live business issue for a local firm with an assessed company report; alternative is independent research project.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/lums/blogs/my-experience-of-msc-managements-company-based-project",
+     "title": "My experience of MSc Management's company-based project",
+     "section": "blog",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students choose teammates, are interviewed, submit company preferences; clients assigned by department.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S7"
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "MSc Project Management",
+   "partner_role": "SMEs/industry partner host project",
+   "official_name": "Action project / consultancy project (MSc Project Management)",
+   "description": "Dissertation alternative: an industry action project with a real outcome, usually in groups of two to three (pairs/triples), or consultancy project with SMEs; the individual dissertation is a reflection on the project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "LUMS / National Centre for Project Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "Dissertation period (not retrieved)",
+   "project_based": "Yes",
+   "project_evidence": "Industry project with a real outcome (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'usually done in groups of two to three' (src 1; pairs count as group; 'usually' noted).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Consultancy project with SMEs / industry partner (src 1, 2).",
+   "partner_type": "Business/commercial",
+   "deliverable": "Project outcome plus individual reflective dissertation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (2026-entry page)",
+   "unresolved": "Individual-only possibility ('usually') not fully excluded; sources are search summaries.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/project-management-msc/2026/",
+     "title": "Project Management MSc",
+     "section": "dissertation options",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Choose desk-based dissertation or consultancy project with SMEs; action project usually in groups of two to three.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/project-management-msc/2027/",
+     "title": "Project Management MSc",
+     "section": "course page",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Optional module: small student team delivers real-world project with an industry partner.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S8"
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "MSc Digital and Social Media Marketing (other Marketing MSc pages mention optional live dissertations)",
+   "partner_role": "Company client",
+   "official_name": "Company Commissioned Dissertation (MSc Digital and Social Media Marketing)",
+   "description": "Final assessment is a live client consultancy project: self-selected student team works with a company client and supervisor, addresses a real business challenge and may present findings to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "LUMS Department of Marketing",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Dissertation period (not retrieved)",
+   "project_based": "Yes",
+   "project_evidence": "Real business challenge; findings presented to client (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'self-selected team' (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Company client with supervisor input; may present to client (src 1).",
+   "partner_type": "Business/commercial",
+   "deliverable": "Company-commissioned dissertation report/presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (2026-entry page)",
+   "unresolved": "Whether CCD is compulsory vs one of options not fully clear; exact weighting not retrieved. Search summary only.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/digital-and-social-media-marketing-msc/2026/",
+     "title": "Digital and Social Media Marketing MSc",
+     "section": "final project",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Company Commissioned Dissertation: self-selected team with a company client; live client consultancy as final assessment.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S9"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "32 students (2026 event)",
+   "named_partners": "Heathrow, Fujitsu (April 2026)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "Students on MSc PM, DBIM and Cyber Security",
+   "partner_role": "Client sets challenge; sponsor",
+   "local_id": "S10",
+   "official_name": "LUMS annual hackathon (MSc Digital Business, Innovation and Management) with Fujitsu/Heathrow",
+   "description": "Two-day annual hackathon: 32 students from MSc Project Management, DBIM and Cyber Security teams worked on an AI and cybersecurity challenge with Heathrow as client; Fujitsu and Heathrow executives gave talks; winning team sponsored by Fujitsu.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "LUMS (DBIM programme)",
+   "faculty_areas": [
+    "business",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Mixed",
+   "duration": "2 days",
+   "project_based": "Unclear",
+   "project_evidence": "Challenge with client; defined output for client not evidenced (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Students worked in teams (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Heathrow as client; Fujitsu and Heathrow speakers; Fujitsu sponsors prize (src 1).",
+   "partner_type": "Business/commercial",
+   "deliverable": "Not specified",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Whether a defined output is produced for the client is not evidenced; earlier editions used fictional scenarios (Fujitsu/Kingfisher; Welsh Water).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/lums/news/lancaster-students-work-with-fujitsu-and-heathrow-airport-on-hackathon-event",
+     "title": "Lancaster students work with Fujitsu and Heathrow Airport on Hackathon event",
+     "section": "news",
+     "pub_year": "22 April 2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Two-day hackathon, 32 students from MSc PM, DBIM and Cyber Security; challenge involving AI and cybersecurity with Heathrow as client; talks from Fujitsu and Heathrow.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Siemens Energy (per 2026 course page)",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "credit_assessment": "25% of third-year marks; individual report + presentation",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "BSc and MPhys Physics degrees",
+   "partner_role": "Company sets problem, supervises informally, receives reports",
+   "local_id": "S11",
+   "official_name": "Industrial Group Projects (Physics)",
+   "description": "Third-year physics students in groups of 3-6 tackle a technically oriented problem set by a company via a short briefing document; teams meet clients in early October, report weekly, then write individual reports and present at departmental conference; reports supplied to clients. Recent example: Siemens Energy (recycling a plastic for subsea use).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Physics",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Academic year (from October)",
+   "project_based": "Yes",
+   "project_evidence": "Company-defined problem, research phase and reports (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'small groups of 3-6 people' (src 1); individual reports also required.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies provide briefing, meet students on first day, host visit, answer queries, receive reports (src 1).",
+   "partner_type": "Business/commercial",
+   "deliverable": "Group research with individual reports and conference presentation; reports to clients",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (course page references recent project)",
+   "unresolved": "Scheme page undated; compulsory status inferred from 25% of marks wording; dated cohort evidence not confirmed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/physics/business/student-engagement/industrial-group-projects/",
+     "title": "Industrial Group Projects",
+     "section": "scheme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in small groups of 3-6, projects account for 25% of marks; companies provide briefing, meet students, receive reports.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/physics-bsc-hons-f300/2026/",
+     "title": "Physics BSc Hons (F300)",
+     "section": "course page",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Describes recent Siemens Energy project on recycling a high-performance plastic.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ENGR 445",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Wasp (Cumbria) Ltd, Pennine Pods; engagement partners incl. QinetiQ, NNL, Linde, Sellafield, BAE Systems, Yorkshire Water, United Utilities, DfT (not confirmed as ENGR 445 sponsors for 2025/26)",
+   "year_of_study": "Year 4 (MEng); Years 3-4 for short projects",
+   "eligibility_restrictions": "",
+   "credit_assessment": "c.1500 indicative hours (fourth-year project)",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "Integrated MEng programmes (ENGR 445 core); two-week projects for Years 3-4",
+   "partner_role": "Company sponsors problem; supplies materials",
+   "local_id": "S12",
+   "official_name": "Industry-based group projects (ENGR 445 and short team projects), School of Engineering",
+   "description": "Integrated MEng students complete an extended team project (teams typically 4-6) addressing real company problems; nine-month fourth-year project (c.1500 hours) plus two-week team projects in March and June; examples include Wasp (Cumbria) tidal turbine prototype (8 MEng students) and Pennine Pods.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Engineering (Engineering Engagement Team)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Nine months (fourth year) and two weeks (short projects)",
+   "project_based": "Yes",
+   "project_evidence": "Real company problems, prototype/specification deliverables (src 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Teams of typically four to six (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies supply real problems and materials; engineering does not charge for credit-bearing projects (src 1, 2).",
+   "partner_type": "Mixed",
+   "deliverable": "Prototype/report/specification for company",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2027-entry course pages",
+   "unresolved": "No 2025/26 sponsor list found; scheme pages undated; case studies undated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/engineering/business/collaborating-with-our-students/",
+     "title": "Collaborating with our Students",
+     "section": "scheme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Team projects typically four to six students; two weeks in March; nine-month fourth-year project; ENGR 445 core for integrated MEng; real-life company problems.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/engineering/study/industrial-projects/",
+     "title": "Industrial Projects",
+     "section": "scheme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MEng industrial projects with external organisations.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.lancaster.ac.uk/engineering/business/case-studies/wasp-ltd/",
+     "title": "WASP Ltd",
+     "section": "case study",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group of eight MEng students developed and tested prototype tidal turbine for Wasp (Cumbria) Ltd.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "MSc Data Science",
+   "partner_role": "",
+   "local_id": "S13",
+   "official_name": "Group project with industry-set briefs (MSc Data Science, Term 1)",
+   "description": "Term 1 group project in multi-skilled teams solving an industrial data science problem from briefs given by industrial speakers (older sci-tech page); current Term 1 page describes hands-on AI/data-science team projects supported by industry talks. Individual summer placement/dissertation is a separate non-group route.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Science and Technology (SCC, Mathematics and Statistics, LEC)",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Term 1",
+   "project_based": "Unclear",
+   "project_evidence": "Industrial data science problem (older page) vs hands-on projects (current page) (src 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "Multi-skilled teams (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industrial speakers provide briefs per older page; not confirmed that external organisations set/assess briefs in current version (src 1, 2).",
+   "partner_type": "Unclear",
+   "deliverable": "Not specified",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated / 2027 entry",
+   "unresolved": "Two pages describe module differently; need module handbook to confirm external briefs.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/sci-tech/msc-data-science-apply-now/",
+     "title": "MSc Data Science apply now",
+     "section": "Term 1",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Group project work on project briefs from industrial speakers in multi-skilled teams.",
+     "supports": [
+      "group",
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/scc/study/masters/data-science-msc-term-one/",
+     "title": "Data Science MSc - Term 1",
+     "section": "Term 1",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Introduction to AI and Data Science promotes teamwork through hands-on projects supported by industry talks.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "MA Sustainability and Global Environmental Futures",
+   "partner_role": "",
+   "local_id": "S14",
+   "official_name": "Applied Learning Studios 1 and 2 (MA Sustainability and Global Environmental Futures)",
+   "description": "Studio modules where students receive a live brief and work in group projects; projects may be tied to real-world issues and external clients, or be academic.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Global Affairs (per course page)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Module length not retrieved",
+   "project_based": "Yes",
+   "project_evidence": "Live brief met through group project (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "'work with others in a group project' (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects 'may be linked to real world issues and external clients' (src 1) - optional wording.",
+   "partner_type": "Unclear",
+   "deliverable": "Group project outputs",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (2026-entry page)",
+   "unresolved": "No named clients; need studio module guides.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/sustainability-and-global-environmental-futures-ma/2026/",
+     "title": "Sustainability and Global Environmental Futures MA",
+     "section": "studio modules",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "You will be given a live brief ... work with others in a group project; may be linked to 'real world' issues and external clients.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Lancaster Music Co Op, Queen's Market Morecambe (course page, 2026 entry)",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "BA Architecture (K100)",
+   "partner_role": "Client for live project",
+   "local_id": "S15",
+   "official_name": "Second-year live client project (BA Architecture)",
+   "description": "Second-year design of a retrofit live project working directly with a client such as Lancaster Music Co-op or Queen's Market Morecambe.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Lancaster Institute for Contemporary Arts / Architecture",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Not retrieved",
+   "project_based": "Yes",
+   "project_evidence": "Retrofit design project for a client (src 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Team/individual structure not stated (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Work directly with a client such as Lancaster Music Co Op or Queen's Market Morecambe (src 1).",
+   "partner_type": "Unclear",
+   "deliverable": "Retrofit design proposal",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 entry page",
+   "unresolved": "Group vs individual working not established; partner types inferred from names - treat as Unclear.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/architecture-ba-hons-k100/2026/",
+     "title": "Architecture BA Hons (K100)",
+     "section": "Year 2",
+     "pub_year": "2026 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Second year: design a retrofit live project and work directly with a client such as Lancaster Music Co Op or Queen's Market Morecambe.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "SCC.331 (older code unconfirmed)",
+   "english_name": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 credits",
+   "delivery_format": "",
+   "eligible_faculties_programmes": "BSc Software Engineering (G602) and variants",
+   "partner_role": "",
+   "local_id": "S16",
+   "official_name": "Software Engineering Studio III / Software Design Studio Project III (Live Studio)",
+   "description": "Year 3 studio module (30 credits): groups build a large system deployed with live users, agile approach, with industry involvement and work 'closely with clients'.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing and Communications",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Academic year (inferred)",
+   "project_based": "Yes",
+   "project_evidence": "System deployed with live users (src 1).",
+   "group_working": "Yes",
+   "group_evidence": "Large team / groups (src 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Industry involvement' and 'clients' stated but not shown to be external organisations (src 1, 2).",
+   "partner_type": "Unclear",
+   "deliverable": "Deployed software system",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2027-entry page (module handbook 2016)",
+   "unresolved": "Module code from 2016 handbook uncertain; no client names; need current module guide.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/software-engineering-bsc-hons-g602/2027/",
+     "title": "Software Engineering BSc Hons (G602)",
+     "section": "Year 3",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Software Engineering Studio III: groups build system that goes live with real users; industry involvement; working closely with clients.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.lancaster.ac.uk/study/course-information/modules/016901/",
+     "title": "Software Design Studio Project III (Live Studio)",
+     "section": "module page",
+     "pub_year": "2016 handbook",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "30-credit module; working closely with clients; teams submit weekly progress reports.",
+     "supports": [
+      "credit",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Lancaster Award",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Co-curricular award recognising work experience, volunteering, workshops; not itself a group employer project. Open to all students per careers pages but underlying activities not tested. (Legacy: 900+ registrations, 200 completions in preceding year per graduation info.)",
+   "source_url": "https://www.lancaster.ac.uk/study/why-lancaster/careers-and-employability/",
+   "status_note": "Academic reach would be University-wide but no qualifying activity"
+  },
+  {
+   "name": "Computer Science Group Project (Year 2)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group client-brief module, but brief is the module's own; no evidence of external organisations; client represented through supervisor in older records.",
+   "source_url": "https://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-bsc-hons-g400/2027/",
+   "status_note": ""
+  },
+  {
+   "name": "Computing Third Year Project with external partner",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual project that can be done with a company.",
+   "source_url": "https://www.lancaster.ac.uk/natural-sciences/course-and-pathways-2026/computing-and-communications-pathway/",
+   "status_note": ""
+  },
+  {
+   "name": "Law Clinic (pro bono advice)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Students in pairs advise members of the public under supervision; clients are individuals, output is advice letters rather than organisation project. Policy Law Clinic with Environmental Law Foundation not evidenced in detail.",
+   "source_url": "https://www.lancaster.ac.uk/study/why-lancaster/law-clinics/",
+   "status_note": ""
+  },
+  {
+   "name": "Global Challenges and Collaborative Solutions (FASS5002 Discovery module)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Interdisciplinary team problem-solving; no external organisation evidenced.",
+   "source_url": "https://www.lancaster.ac.uk/humanities-arts-and-social-sciences/courses/discovery-modules/",
+   "status_note": ""
+  },
+  {
+   "name": "SHAPE sustainability project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Small interdisciplinary groups solving real-life sustainability challenges (2024, with SOS-UK/British Academy); external organisation role and current status not evidenced.",
+   "source_url": "https://www.lancaster.ac.uk/sustainability/get-involved/students/",
+   "status_note": "2024"
+  },
+  {
+   "name": "MSc Data Science summer placement/dissertation",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Industry placements (Unilever, Siemens, Bank of England) as individual dissertation basis; not shown as group.",
+   "source_url": "https://www.lancaster.ac.uk/sci-tech/msc-data-science-apply-now/",
+   "status_note": ""
+  },
+  {
+   "name": "Psychology Employability Programme",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Individual community/charity work placements counting toward Lancaster Award.",
+   "source_url": "https://www.lancaster.ac.uk/psychology/study/employability/",
+   "status_note": ""
+  },
+  {
+   "name": "Environmental Management MSc / Environment and Development MSc",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Partner-organisation dissertations are individual; Eco-innovation team module has no external client evidenced.",
+   "source_url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environmental-management-msc/2025/",
+   "status_note": ""
+  },
+  {
+   "name": "Marketing MSc live dissertation / Executive MBA group consultancy challenge",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "'Can' complete live company dissertation (P&G, Molson Coors, Suntory); Executive MBA says 'real-life problem or business simulation'; group/real status not separable.",
+   "source_url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/marketing-msc/2026/",
+   "status_note": ""
+  },
+  {
+   "name": "Lancaster University Consultancy Services (LUCS)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Staff consultancy; states it will not subcontract to students.",
+   "source_url": "https://www.lancaster.ac.uk/research/research-enterprise-services/consultancy/key-principles/",
+   "status_note": ""
+  },
+  {
+   "name": "LUMS Next-Gen Entrepreneurs Challenge / 100 Day Challenge",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Schools outreach / entrepreneurship competition; no live external client.",
+   "source_url": "https://www.lancaster.ac.uk/lums/about-us/working-with-schools/next-gen-entrepreneurs-challenge/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Lancaster's relevant provision is concentrated in programme-embedded, faculty-level routes rather than a single institution-wide scheme. The Lancaster Award is a co-curricular recognition scheme and was excluded as such.\n\n**Business (strongest):** LUMS runs a Company Projects framework in which external companies (Companies House-registered, trading 1+ year, 5-10 hours commitment) supply live briefs to small student teams. Programme routes include the final-year Research Consultancy Project in Marketing degrees, the MBA Consultancy and Corporate Challenges, a Management MSc company project (teams of four), an Advanced Management, Consulting and Change MSc group project, the MSc Project Management action project (groups of two to three), and the Digital and Social Media Marketing MSc company-commissioned dissertation. The LUMS Careers Projects Team reports 668 students and 160+ employer partners since 2023. A two-day April 2026 hackathon had Heathrow as client.\n\n**Engineering and science:** MEng ENGR 445 group projects (teams of 4-6, real company problems) and Physics Industrial Group Projects (groups of 3-6, company briefs, 25% of year-3 marks) qualify.\n\n**Arts and design:** Design Consultancy (real client, team, final year) qualifies; Architecture second-year client project has unclear team structure.\n\nAccess is mostly compulsory within specified programmes or optional dissertation alternatives; no University-wide route. Uncertain: most pages are undated or 2026/27-entry course pages, so current delivery is confirmed mainly for one-year MSc routes; Software Engineering Studio III and MSc Data Science client roles are unclear.",
+ "gaps": "Further departmental instances likely (other LUMS UG modules, Chemistry, LEC, Statistics/STOR-i, Medical School and Health not searched). Most evidence is search-summary paraphrase of undated pages; UG routes lack dated 2025/26 delivery evidence. Criminology live-project claim from search summary not verified. Policy Law Clinic with Environmental Law Foundation and Executive MBA consultancy challenge need checking. Search budget approx 38 searches."
+}
