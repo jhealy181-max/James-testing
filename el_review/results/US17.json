@@ -1,0 +1,650 @@
+{
+ "inst_id": "US17",
+ "institution": "Northwestern University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Northwestern Design Thinking and Communication DTC community industry partners projects",
+    "Northwestern University student teams real client projects Career Advancement / Design for America / GESI"
+   ],
+   "key_sources": [
+    "https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/",
+    "https://writingprogram.northwestern.edu/courses/2026-2027/course-descriptions/"
+   ],
+   "finding": "No central employer-project scheme found; DTC is open university-wide (compulsory for McCormick first-years). Careers/experiential office and GEO (individual graduate placements) did not yield group client projects."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Northwestern Kellogg Corporate Lab client team project MBA",
+    "Kellogg Marketing Consulting Lab fetch"
+   ],
+   "key_sources": [
+    "https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=206993",
+    "https://www.kellogg.northwestern.edu/programs/full-time-mba/academics/experiential-learning/"
+   ],
+   "finding": "Kellogg offers numerous client-project labs; MKTG 650 verified with team of 5-6 and named corporate clients; others listed but not verified."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Northwestern Segal Design Institute capstone sponsor industry project team",
+    "MLDS practicum capstone",
+    "IEMS client project challenge / ME 398"
+   ],
+   "key_sources": [
+    "https://www.mccormick.northwestern.edu/industrial/academics/undergraduate/client-project-challenge/",
+    "https://www.mccormick.northwestern.edu/machine-learning-data-science/industry-partners/practicum-and-capstone-sponsorship.html"
+   ],
+   "finding": "Distributed employer-linked provision: DTC, IEMS 394 client projects, MMM Business Innovation Lab, MLDS practicum/capstone; ME 398 capstone likely but PDF unreadable."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Northwestern Weinberg College science course student teams community partner project",
+    "Northwestern Buffett/Weinberg/Data Science capstone external partner team"
+   ],
+   "key_sources": [
+    "https://news.weinberg.northwestern.edu/2024/01/10/using-data-for-social-good-faculty-empower-students-to-use-data-to-uplift-community-organizations-through-collaboration/"
+   ],
+   "finding": "No chemistry/biology/physics client-project course found; nearest is MCDC data-science practicums (2024 evidence, current status unclear)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Northwestern Weinberg social science or humanities course community partner client student teams policy project"
+   ],
+   "key_sources": [
+    "https://sesp.northwestern.edu/news-events/sesp-news/2025/crafting-policy-for-our-youngest-learners.html",
+    "https://class-descriptions.northwestern.edu/4940/WCAS/BUS_INST/36255"
+   ],
+   "finding": "Leads (Crafting Child Policy, Civic Engagement Certificate, Professional Linkage Seminar, English 282 service learning) found only through search summaries; none verified on page text."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Northwestern Medill OR School of Communication OR Law clinic student team client project"
+   ],
+   "key_sources": [
+    "https://www.medill.northwestern.edu/imc/full-time/life-at-medill/student-committees.html",
+    "https://www.law.northwestern.edu/academics/entrepreneurship/students/"
+   ],
+   "finding": "Medill Cause Marketing Initiative (nonprofit clients) recorded; Law clinics are casework and excluded; Medill IMC Immersion Quarter (companies) not verified."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ENG 106-1/DSGN 106-1 and ENG 106-2/DSGN 106-2 (Writing in Special Contexts)",
+   "named_partners": "Search summary (Segal/McCormick magazine, 2025) lists Envision Unlimited, Shirley Ryan AbilityLab, North Center (examples; not opened directly)",
+   "participation_data": "",
+   "unresolved": "Credit units; team size; share of partners that are companies; participation numbers.",
+   "legacy_ref": "Design Thinking and Communication (DTC)",
+   "likely_duplicate_of": "",
+   "local_id": "S1",
+   "official_name": "Design Thinking and Communication (DTC)",
+   "english_name": "Design Thinking and Communication (DTC)",
+   "description": "Two-quarter design-and-communication course taught jointly by McCormick faculty and the Weinberg Cook Family Writing Program. Student teams work on real design problems submitted by individuals, non-profits, entrepreneurs and industry members; partners commit 5-10 hours over ten weeks, meet teams to review progress and give feedback, and receive a semi-functional proof-of-concept and a research/findings report.",
+   "academic_reach": "University-wide",
+   "admin_host": "Segal Design Institute (McCormick) with Cook Family Writing Program (Weinberg)",
+   "eligible_faculties_programmes": "Required for first-year McCormick students; also open to any Northwestern undergraduate interested in design",
+   "faculty_areas": [
+    "central",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 1 (McCormick); any year for other undergraduates",
+   "eligibility_restrictions": "Compulsory only for first-year McCormick Engineering students; other undergraduates may enrol (writing program 2026-27 listing). Not compulsory university-wide.",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credit-bearing two-quarter sequence (ENG/DSGN 106-1, 106-2); credit value and assessment not stated on pages fetched",
+   "duration": "Two quarters; partner engagement over ten weeks",
+   "delivery_format": "Team design projects with partner check-ins",
+   "project_based": "Yes",
+   "project_evidence": "Teams address a partner-submitted design problem and produce a proof-of-concept and findings report [2].",
+   "group_working": "Yes",
+   "group_evidence": "'DTC student teams integrate communication skills and design thinking' [1]; partners meet 'student teams' [2]. Team size not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Problems are 'submitted by individuals, non-profits, entrepreneurs, and industry members' [1][3]; partners meet teams, give feedback and receive the prototype and report [2]. Partner mix includes individuals and community members, so partner_type is Mixed; share of industry vs individual partners is not published. Not internal university units.",
+   "partner_type": "Mixed",
+   "partner_role": "Submits problem; 5-10 hrs check-ins/feedback; receives proof of concept and report",
+   "deliverable": "Semi-functional proof-of-concept plus report of research and findings",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (writing program 2026-27 course descriptions list ENG/DSGN 106-1/2)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://design.northwestern.edu/programs/take-design-course/design-thinking-communication/",
+     "title": "Design Thinking & Communication (DTC)",
+     "section": "Course page",
+     "pub_year": "undated (2026 footer)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "'a required two-quarter course for all first-year students at Northwestern Engineering'; 'real design problems submitted by individuals, non-profits, entrepreneurs, and industry members'; 'DTC student teams integrate communication skills and design thinking'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://design.northwestern.edu/work-with-us/project-partners/dtc-project-partnerships/",
+     "title": "DTC Project Partnerships",
+     "section": "Partner role",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "'Project partners commit to 5 to 10 hours of collaboration over ten weeks'; partners meet student teams to review progress and give feedback; partners receive 'a semi-functional proof of concept' and a report of research and findings.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://writingprogram.northwestern.edu/courses/2026-2027/course-descriptions/",
+     "title": "Writing Program 2026-27 course descriptions",
+     "section": "ENG 106-1/-2 DTC",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "'required two-quarter course for all first-year students at McCormick'; 'also available to any Northwestern undergraduate student interested in design'; 'real design problems submitted by individuals, non-profits, entrepreneurs, and industry members'.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "participation",
+      "status",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "IEMS 394",
+   "named_partners": "JetBlue, Lurie Children's Hospital (Fall 2025); Coca-Cola Consolidated (2026); James Hardie, North America Central School Bus (2025)",
+   "participation_data": "",
+   "unresolved": "Team vs individual working; compulsory status; credit.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S2",
+   "official_name": "IEMS 394: IE Client Project Challenge",
+   "english_name": "Industrial Engineering Client Project Challenge",
+   "description": "Industrial Engineering and Management Sciences undergraduate course in which students work on projects for external clients in fall and spring quarters; clients propose projects and are helped to scope them. Examples include a simulation-based decision-support tool for JetBlue and optimisation work for Lurie Children's Hospital and Coca-Cola Consolidated.",
+   "academic_reach": "Programme/course",
+   "admin_host": "McCormick IEMS department",
+   "eligible_faculties_programmes": "Industrial Engineering undergraduates",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "Search summary describes it as required for IE majors; not confirmed on page text fetched.",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Fall and spring quarters (per page)",
+   "delivery_format": "Client projects",
+   "project_based": "Yes",
+   "project_evidence": "Client-scoped projects with deliverables such as a ProModel simulation decision-support tool and a mixed-integer scheduling model [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page fetched does not state team size or that projects are team-based; a search summary says 'teams' but this was not confirmed on the page [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'The process of working on projects for external clients is essential to the IEMS undergraduate curriculum'; clients propose and scope projects; named external clients incl. JetBlue, Lurie Children's Hospital, Coca-Cola Consolidated (Fall 2025, 2025, 2026) [1]. Some listed projects are internal (Northwestern Office of the Registrar, Northwestern logistics); those are not counted.",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes project; scoped with instructor; receives output",
+   "deliverable": "Decision-support tool / optimisation model / analysis for client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Coca-Cola Consolidated); Fall 2025 (JetBlue, Lurie)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mccormick.northwestern.edu/industrial/academics/undergraduate/client-project-challenge/",
+     "title": "Client Project Challenge",
+     "section": "Main page",
+     "pub_year": "2025-2026 (named projects)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "'The process of working on projects for external clients is essential to the IEMS undergraduate curriculum.' 'Each year we look for projects for students to work on in the fall and spring quarters.' Named clients 2026: Coca-Cola Consolidated; Fall 2025: JetBlue, Lurie Children's Hospital.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.mccormick.northwestern.edu/industrial/academics/courses/descriptions/394.html",
+     "title": "IEMS 394: IE Client Project Challenge",
+     "section": "Course description",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Course title appeared in search results; description text not opened.",
+     "supports": [
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MKTG 650 (catalog id 206993)",
+   "named_partners": "AbbVie, Crate and Barrel, Coca-Cola, McDonalds, Nike, Uber (past clients, undated)",
+   "participation_data": "",
+   "unresolved": "Mismatch Spring 2027 vs 2026 syllabus; delivery in 2025/26 not directly evidenced; the other Kellogg labs (see exclusions) share the model but were not individually verified.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S3",
+   "official_name": "Marketing Consulting Lab (MKTG 650)",
+   "english_name": "Marketing Consulting Lab",
+   "description": "Kellogg 10-week consulting project: students are assigned to a team of 5-6 students and a client. Listed with Kellogg's other client-project 'lab' courses (Analytical Consulting Lab, Venture Lab, Private Equity Lab, Real Estate Lab, Healthcare Strategy Consulting Lab and others) in which students are 'fully immersed in a client project'.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Kellogg School of Management",
+   "eligible_faculties_programmes": "Kellogg MBA students",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA",
+   "eligibility_restrictions": "MBA elective; eligibility rules not captured",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Pass / No Credit",
+   "duration": "10 weeks",
+   "delivery_format": "Team consulting project with client",
+   "project_based": "Yes",
+   "project_evidence": "'real-time 10-week consulting project' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Students will be assigned to a team of 5-6 students and a client' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real corporate clients; 'Past clients include AbbVie, Crate and Barrel, Coca-Cola, McDonalds, Nike, and Uber' [1]. Output/feedback role of the client not detailed.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client for the consulting project",
+   "deliverable": "Consulting project output (form not stated)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "Spring 2027 schedule on catalog page (syllabus filename references Spring 2026)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=206993",
+     "title": "Marketing Consulting Lab",
+     "section": "Course catalog",
+     "pub_year": "Spring 2027 schedule",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "'The Marketing Consulting Lab allows students to work on a real-time 10-week consulting project.' 'Students will be assigned to a team of 5-6 students and a client.' 'Past clients include AbbVie, Crate and Barrel, Coca-Cola, McDonalds, Nike, and Uber.' Grading PASS / NO CREDIT.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kellogg.northwestern.edu/programs/full-time-mba/academics/experiential-learning/",
+     "title": "Experiential Learning (Full-Time MBA)",
+     "section": "Lab courses list",
+     "pub_year": "2026-27 deadlines",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "Lab courses described as 'fully immersed in a client project' incl. MKTG 650 Marketing Consulting Laboratory; client-project courses where students 'will partner with a real company'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "No dated cohort evidence; compulsory status for MMM students not stated; credit.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S4",
+   "official_name": "Business Innovation Lab (MMM Program capstone)",
+   "english_name": "MMM Business Innovation Lab",
+   "description": "Capstone of the joint MBA/MS Master of Management and Manufacturing (MMM) programme: companies bring a business problem and teams of four to six students, guided by a faculty lead, work on it over about 10 weeks (winter or spring quarter); partner names a project champion who provides data and feedback; final deliverables are presented to senior executives.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Segal Design Institute / MMM Program",
+   "eligible_faculties_programmes": "MMM students",
+   "faculty_areas": [
+    "business",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage of MMM",
+   "eligibility_restrictions": "MMM students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "About 10 weeks (winter or spring quarter)",
+   "delivery_format": "Team company project",
+   "project_based": "Yes",
+   "project_evidence": "Company business problem; 'executive summary of the project' and final deliverables presented to executives [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 'four to six' students guided by a faculty lead [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner company supplies the problem, names a project champion who provides 'pertinent data and feedback', and receives presentation to senior-level executives [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets problem; project champion provides data/feedback; receives deliverables",
+   "deliverable": "Executive summary and final presentation to company executives",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://design.northwestern.edu/mmm-program/partner-with-mmm/partnering-on-a-business-innovation-lab/",
+     "title": "Partnering on a Business Innovation Lab",
+     "section": "Partner page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "Teams of 'four to six' students with a faculty lead; project champion with 'the capacity to provide pertinent data and feedback'; 'the final deliverables are presented to senior-level executives'; lab 'typically takes place over a 10-week period', winter or spring quarter; companies 'collaborate with MMM students each year'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "Deliverables, named sponsors, dated cohort; whether participation is formally required (page says students 'engage in' both).",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S5",
+   "official_name": "MLDS Practicum and Capstone",
+   "english_name": "MS in Machine Learning and Data Science industry practicum and capstone",
+   "description": "McCormick MS in Machine Learning and Data Science: students engage in two applied projects provided directly from industry. Practicum is a new-cohort project of eight months (October-May) in groups of 3-4; Capstone is an outgoing-cohort ten-week project (September-December) in groups of 3-4; each group has a faculty advisor.",
+   "academic_reach": "Programme/course",
+   "admin_host": "McCormick MLDS",
+   "eligible_faculties_programmes": "MS in Machine Learning and Data Science",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 1 and outgoing cohort",
+   "eligibility_restrictions": "MLDS students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Practicum 8 months; Capstone 10 weeks",
+   "delivery_format": "Group industry project with faculty advisor",
+   "project_based": "Unclear",
+   "project_evidence": "Applied industry projects; the sponsorship page does not specify deliverables [1].",
+   "group_working": "Yes",
+   "group_evidence": "'groups of 3-4' for both Practicum and Capstone [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'two applied projects provided directly from industry'; Practicum vs Capstone decided in conversation between MLDS and the project sponsor [1]. Sponsor duties not listed.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor supplying project (specific duties not stated)",
+   "deliverable": "Not specified",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mccormick.northwestern.edu/machine-learning-data-science/industry-partners/practicum-and-capstone-sponsorship.html",
+     "title": "Practicum & Capstone Sponsorship",
+     "section": "Structure",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "'MLDS students engage in two applied projects provided directly from industry'; Practicum 'groups of 3-4', 'Eight months, October - May'; Capstone 'groups of 3-4', 'Ten weeks, September - December'; 'supported by a faculty advisor with relevant technical background'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "Dated cohort, duration, credit, selectivity.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S6",
+   "official_name": "Cause Marketing Initiative (Medill IMC)",
+   "english_name": "Cause Marketing Initiative",
+   "description": "Medill Integrated Marketing Communications students work in teams on a marketing communications project for a local nonprofit; teams present their work to their clients each spring. Listed on a Medill student-committees page.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Medill IMC",
+   "eligible_faculties_programmes": "Medill IMC students",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "IMC students",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not stated (listed as a student committee)",
+   "duration": "Unclear (presentations each spring)",
+   "delivery_format": "Team pro bono marketing project",
+   "project_based": "Yes",
+   "project_evidence": "'marketing communications project for a local nonprofit organization' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'you work with a team of IMC students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Chicago-area and national nonprofits use this pro bono marketing support'; 'Each spring, teams present their work to their clients' [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client; receives presentation",
+   "deliverable": "Marketing communications plan/presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.medill.northwestern.edu/imc/full-time/life-at-medill/student-committees.html",
+     "title": "Student Committees (Medill IMC)",
+     "section": "Cause Marketing Initiative",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "'you work with a team of IMC students on a marketing communications project for a local nonprofit organization.' 'Each spring, teams present their work to their clients.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "The Nature Conservancy / Nachusa Grasslands, Women for Green Spaces, Equiticity (January 2024 article)",
+   "participation_data": "",
+   "unresolved": "No 2025/26-2026/27 evidence; practicum course codes not found; undergraduate vs graduate level.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S7",
+   "official_name": "Metropolitan Chicago Data-Science Corps (MCDC) practicums",
+   "english_name": "MCDC data science practicums",
+   "description": "NSF-funded collaborative in which Northwestern (Weinberg and McCormick) students who have completed three basic data science courses enrol in faculty-led practicums where student teams work on distinct parts of a community partner's data needs (e.g. Nachusa Grasslands/The Nature Conservancy, Women for Green Spaces, Equiticity), producing analyses and presentations for a final showcase.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Weinberg / McCormick (MCDC consortium)",
+   "eligible_faculties_programmes": "Northwestern students with three basic data science courses",
+   "faculty_areas": [
+    "science",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "After 3 data science courses",
+   "eligibility_restrictions": "Prerequisite of three basic data science courses (2024 article); level not explicitly stated",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Practicum course; credit not stated",
+   "duration": "Unclear",
+   "delivery_format": "Team practicum for community partner",
+   "project_based": "Yes",
+   "project_evidence": "Teams set research questions, source data, draft analysis plans and produce assets, e.g. fire-database analysis, GIS tree-cover findings [1].",
+   "group_working": "Yes",
+   "group_evidence": "Faculty 'tasking teams of students to work on distinct parts of the partner organization's needs' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Community organisations supply the data challenges and receive final showcase outputs [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Supplies data challenge; receives analysis and showcase",
+   "deliverable": "Analysis, GIS findings, primers/graphics, showcase presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023/24 (article dated 10 Jan 2024)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://news.weinberg.northwestern.edu/2024/01/10/using-data-for-social-good-faculty-empower-students-to-use-data-to-uplift-community-organizations-through-collaboration/",
+     "title": "Using data for social good",
+     "section": "Article",
+     "pub_year": "2024",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; extract is the fetch model's quoted answer)",
+     "extract": "Students enrol after 'completing three basic data science courses'; faculty lead practicums 'tasking teams of students to work on distinct parts of the partner organization's needs'; partners include The Nature Conservancy/Nachusa Grasslands, Women for Green Spaces, Equiticity; 'visually rich presentations and assets' for a final showcase for the partner.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Mechanical Engineering ME 398 Senior Design Capstone",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary: industry-solicited projects over 20 weeks; call-for-projects PDF could not be read (binary), so team basis, partner role and current delivery were not verified.",
+   "source_url": "https://www.mccormick.northwestern.edu/mechanical/documents/courses/northwestern-mechanical-engineering-capstone-call-for-projects-2024-2025.pdf",
+   "status_note": "Likely qualifies; further departmental capstones likely"
+  },
+  {
+   "name": "McCormick Corporate Engagement capstone sponsorship",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Page says upper-class and masters-level student teams under faculty guidance engage with a sponsor company and present a solution; umbrella solicitation page, no course or dated cohort named.",
+   "source_url": "https://mccormick.northwestern.edu/corporate-engagement/sponsor-capstone-design-project.html",
+   "status_note": ""
+  },
+  {
+   "name": "Global Engagement Opportunities (GEO) Community Practicum",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "10-week individual placements with community organisations plus seminar CFS 495; graduate students only; page describes one-on-one placements, no team project.",
+   "source_url": "https://engage.northwestern.edu/programs/geo/",
+   "status_note": "Spring 2026 applications open"
+  },
+  {
+   "name": "Donald Pritzker Entrepreneurship Law Center clinic",
+   "legacy": false,
+   "category": "Near-miss: not project",
+   "reason": "Legal casework for startup clients; students work 'on teams or individually' so group basis unclear; casework not a bounded project.",
+   "source_url": "https://www.law.northwestern.edu/academics/entrepreneurship/students/",
+   "status_note": ""
+  },
+  {
+   "name": "Kellogg other lab and client-project courses (Analytical Consulting Lab, Venture Lab, Private Equity Lab, Real Estate Lab, Healthcare Strategy Consulting Lab, SSIM 452 etc.)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Listed on Kellogg experiential learning page as client-project labs; team size and client role not verified per course (reduced-depth mode). Further instances likely.",
+   "source_url": "https://www.kellogg.northwestern.edu/programs/full-time-mba/academics/experiential-learning/",
+   "status_note": ""
+  },
+  {
+   "name": "Professional Linkage Seminar (Business Institutions, Weinberg)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary: Spring 2024 class of 25 split into teams of five and matched with local non-profits for quarter-long consulting; class page returned 404 on fetch; current delivery unknown.",
+   "source_url": "https://class-descriptions.northwestern.edu/4940/WCAS/BUS_INST/36255",
+   "status_note": "Historical (2024)"
+  },
+  {
+   "name": "Civic Engagement Certificate Program (second-year capstone)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary: groups work on projects negotiated with organisations, presented to the organisation and faculty; page not opened.",
+   "source_url": "https://engage.northwestern.edu/",
+   "status_note": "Source URL is the engage.northwestern.edu domain; exact page not retrieved"
+  },
+  {
+   "name": "Crafting Child Policy (SESP)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary: undergraduate teams answer policy questions from city leaders in partnership with EC*REACH; not opened or dated here.",
+   "source_url": "https://sesp.northwestern.edu/news-events/sesp-news/2025/crafting-policy-for-our-youngest-learners.html",
+   "status_note": ""
+  },
+  {
+   "name": "Farley Center wearable technology consulting course; Design for America; student consulting clubs",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Appeared in search; Farley course is quarter-long consulting for companies, DFA and clubs are extracurricular; not verified.",
+   "source_url": "https://farley.northwestern.edu/news-events/news/articles/2024/consulting-for-wearable-technology-a-catalyst-for-innovation.html",
+   "status_note": ""
+  },
+  {
+   "name": "Segal mpd2 and MaDE capstone sequences",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summaries describe sponsored projects (mpd2) and a three-quarter design capstone (MaDE); partner involvement and team basis not verified.",
+   "source_url": "https://design.northwestern.edu/product-design-development-management/inside-our-program/",
+   "status_note": ""
+  },
+  {
+   "name": "SPS Master's in Data Science capstone",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary mentions a team capstone with an AI start-up; programme-wide partner basis not verified.",
+   "source_url": "https://sps.northwestern.edu/masters/data-science/thesis-capstone.html",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Northwestern has a distributed set of employer-linked group routes rather than one institution-wide scheme. The widest is Design Thinking and Communication (ENG/DSGN 106-1/-2), a two-quarter course compulsory for first-year McCormick Engineering students and open to any undergraduate (2026-27 listing); student teams tackle design problems submitted by individuals, non-profits, entrepreneurs and industry members, with partners checking in over ten weeks and receiving a proof-of-concept. The partner mix includes individuals, so partner type is Mixed. McCormick programmes add IEMS 394 client projects (named clients such as JetBlue, Lurie Children's Hospital and Coca-Cola Consolidated in 2025-26; team basis not confirmed), the MMM Business Innovation Lab (teams of 4-6 for company problems) and the MLDS industry practicum/capstone (groups of 3-4). Kellogg runs many client-project labs; MKTG 650 Marketing Consulting Lab (teams of 5-6 with a client, 10 weeks) was verified. Medill's Cause Marketing Initiative places IMC teams with nonprofits. Several of these pages are undated, so current delivery is only confirmed for DTC and IEMS 394. Internal Northwestern units appear among some IEMS projects and are not counted. Arts, humanities and social science leads and the science area remain unverified beyond search summaries.",
+ "gaps": "Reduced-depth review. Not verified: ME 398 and other departmental capstones (PDF unreadable); remaining Kellogg labs; Segal mpd2/MaDE; Civic Engagement Certificate, Crafting Child Policy and Professional Linkage Seminar (search summaries only; class page 404); Medill Immersion Quarter; IEMS 394 team basis and compulsory status; DTC credit and partner mix; participation numbers throughout. Several McCormick/Medill/MMM/MLDS pages are undated (current status unclear). Further departmental instances likely."
+}

@@ -1,8 +1,8 @@
 {
  "inst_id": "US16",
  "institution": "New York University",
- "review_status": "Partial",
- "partial_remaining": "Wagner 2026/27 evidence; Stern NYC Consulting Capstone 2025/26 corroboration; law clinics, CGA practicums, Steinhardt Ed Tech UX Studio, Stern Consulting Corps/Signature Projects not yet assessed as routes.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -101,15 +101,15 @@
    "employer_evidence": "External client organisations submit proposals via spring RFP, are vetted, and the final work product is typically owned by the client; client FAQ states min. 3 years operating / 3 FTE and a suggested $5,000 engagement fee [1]. Search-index extract only; direct fetch of Wagner pages returned HTTP 403 (CloudFront), not bypassed.",
    "partner_type": "Mixed",
    "partner_role": "Client: proposes project, engages with team, receives final report/presentation and owns work product",
-   "named_partners": "",
+   "named_partners": "City Harvest, Mount Sinai Health System, NYC Department of Transportation, World Bank (past clients; undated)",
    "deliverable": "Final report and presentation (literature review, environmental scan, operational framework, financial model or policy recommendations)",
    "duration_band": ">1 term",
    "external_partner_coverage": "All/standard",
    "likely_duplicate_of": "",
    "operating_status": "Current delivery confirmed",
-   "latest_evidenced_year": "2025/26 (client FAQ timeline covers 2025-26 cycle)",
+   "latest_evidenced_year": "2025/26 (proposals due 30 May 2025; client presentations April-May 2026)",
    "participation_data": "Search extract: since 1995 more than 7,300 students and 1,828 projects for 1,000+ organisations (cumulative; undated page).",
-   "unresolved": "2026/27 call not seen; credit value; whether clients include internal NYU units (not indicated). Pages not opened directly (403).",
+   "unresolved": "2026/27 call not seen; credit value; no team/client list for 2025/26 seen. Pages not opened directly (HTTP 403 from CloudFront, not bypassed); all Wagner evidence is search-index summary.",
    "legacy_ref": "",
    "sources": [
     {
@@ -143,8 +143,23 @@
       "group",
       "employer"
      ]
+    },
+    {
+     "n": 3,
+     "url": "https://wagner.nyu.edu/portal/employers/capstone",
+     "title": "Capstone: Learning in Action (search result, 2025-26 cycle)",
+     "section": "Employer page",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (search-summary paraphrase)",
+     "extract": "2025-26 cycle: proposals due May 30, 2025; faculty choose projects presented to students in September; projects conclude with client presentations April-May 2026; past clients incl. City Harvest, Mount Sinai Health System, NYC DOT, World Bank.",
+     "supports": [
+      "employer",
+      "status"
+     ]
     }
-   ]
+   ],
+   "retrieval_note": "search-index/summary only; direct access 403"
   },
   {
    "local_id": "S2",
@@ -294,17 +309,17 @@
    "group_evidence": "'Faculty-led student teams are paired with corporate partners' [1].",
    "employer_connected": "Yes",
    "employer_evidence": "Corporate partner supplies the challenge and receives pitches mid-semester and at the end [1]; each section has its own corporate partner.",
-   "partner_type": "Business/commercial",
+   "partner_type": "Mixed",
    "partner_role": "Corporate partner sets challenge, receives pitches",
-   "named_partners": "Microsoft Garage (fall 2024)",
+   "named_partners": "Microsoft Garage (fall 2024); McDonald's Corporation and SoHo Broadway Business Improvement District (Fall 2025 section syllabi per search extract)",
    "deliverable": "Pitch and final deliverable to the corporate partner",
    "duration_band": "~1 term/semester",
    "external_partner_coverage": "All/standard",
    "likely_duplicate_of": "",
-   "operating_status": "Current status unclear",
-   "latest_evidenced_year": "Fall 2024 (news); syllabus file labelled F2026 but content could not be read",
-   "participation_data": "",
-   "unresolved": "Dated 2025/26 or 2026/27 corroboration: syllabus PDF (title 'Fall 2025', filename F2026) could not be text-extracted via WebFetch; so 'current' not confirmed. Student-team size not stated.",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2025 (section syllabi titled Fall 2025: McDonald's, SoHo Broadway BID)",
+   "participation_data": "Search summary of Stern FAQ: 2,000+ seniors to date; 90+ clients/projects annually across 16 industries (five-year average); not opened directly.",
+   "unresolved": "Syllabus PDFs could not be text-extracted (binary) so partner roles in 2025 rest on search-extract titles; one syllabus file name (F2026) conflicts with its 'Fall 2025' title. Team size not stated. Mixed corporate/BID partner types by section.",
    "legacy_ref": "",
    "sources": [
     {
@@ -322,6 +337,21 @@
       "employer",
       "participation",
       "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://web-apps-shib.stern.nyu.edu/syllabi/static/syllabusfiles/MULT-UB.303_009_F2026.pdf",
+     "title": "NYC Consulting Capstone Course Syllabus MULT-UB 303.009 Fall 2025",
+     "section": "Syllabus",
+     "pub_year": "Fall 2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (search result title/summary; PDF not text-extractable)",
+     "extract": "Section 303.004 syllabus (Fall 2025) names McDonald's Corporation as partner; section 303.009 names SoHo Broadway Business Improvement District; one syllabus weights midterm presentation 30%, draft deliverable 10%, final deliverable 40%.",
+     "supports": [
+      "employer",
+      "status",
+      "credit"
      ]
     }
    ]
@@ -466,9 +496,41 @@
    "reason": "Search found no page documenting external sponsors for undergraduate senior design; industry professionals judge a showcase competition only; ECE teams 1-3 students.",
    "source_url": "https://engineering.nyu.edu/news/future-was-display-tandons-2025-capstone-competition",
    "status_note": ""
+  },
+  {
+   "name": "NYU Law clinics (e.g. International Transactions Clinic, Regulatory Policy Clinic)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Clinics (35+) work in teams for real clients (e.g. ITC teams of 2-3 for for-profit and non-profit clients) but the activity is legal client work/fieldwork per clinic; project vs casework, team basis and current cohorts not assessed individually in reduced-depth mode. Further clinic instances likely.",
+   "source_url": "https://www.law.nyu.edu/academics/clinics/international-transactions-jd",
+   "status_note": ""
+  },
+  {
+   "name": "Stern Consulting Corps / Stern Signature Projects / Tech Solutions / FinTech Experiential Learning",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Stern graduate for-credit team client courses (Consulting Corps: MBA teams, partners e.g. ABC News, City Harvest, UNICEF) described but 'may not be offered each semester', team size/credit/current delivery not evidenced; Stern Solutions (S6) is the umbrella legacy record.",
+   "source_url": "https://www.stern.nyu.edu/portal-partners/experiential-learning/experiential-learning-opportunities/stern-consulting-corps",
+   "status_note": "Current status unclear"
+  },
+  {
+   "name": "SPS Center for Global Affairs Consulting Practicums",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Credit-bearing practicums with UN CTED, Mastercard, NYC Cyber Command etc. produce reports for external clients; team basis stated only for some practicums (Mastercard 'work together as a team'), no dated current term, elective status unstated.",
+   "source_url": "https://www.sps.nyu.edu/about/academic-divisions-and-departments/center-for-global-affairs/consulting-practicums.html",
+   "status_note": "Current status unclear"
+  },
+  {
+   "name": "Steinhardt Ed Tech UX Studio: Design for a Client",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search result lists graduate real-client design course with teams of peers and external clients; page not opened, no dates.",
+   "source_url": "https://steinhardt.nyu.edu/courses/ed-tech-ux-studio-design-client",
+   "status_note": "Not verified"
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "Interim profile: see final.",
- "gaps": "Interim."
+ "profile_md": "NYU provides several distributed, mostly postgraduate programme-embedded routes where student teams work for external organisations; no single institution-wide scheme is compulsory. The strongest are compulsory team capstones: Wagner's Capstone (teams of 3-5 MPA/MUP students over the final two semesters working for nonprofit, governmental and health clients selected via an annual RFP; client owns the final report), the Tandon CUSP capstone (teams of 3-5 MS Urban Data Science students over two semesters for government, company and nonprofit sponsors, 2026-27 cycle confirmed), and Stern's NYC Consulting Capstone (taken by all Stern BS in Business seniors; faculty-led teams paired with a corporate partner per section, e.g. McDonald's and SoHo Broadway BID in Fall 2025 syllabi, Microsoft Garage in 2024). The only route open across schools is the SPS Real World courses (2-3 credit electives, application-based; multidisciplinary teams answer an industry partner's challenge and pitch to its executives; Fall 2026 applications confirmed). The CDS MS Data Science capstone (groups of 2-4, partner-proposed) mixes external companies and NYU labs, so employer connection is Unclear. Stern Solutions (graduate, for-credit client teams) is undated. Many other leads (law clinics, Consulting Corps, CGA practicums, Steinhardt studios) were not assessed. Wagner pages returned 403 on direct fetch, so Wagner evidence is search-extract only. Participation numbers are largely unpublished.",
+ "gaps": "Reduced-depth review (~8 searches, ~9 fetches). Wagner pages 403 (not bypassed): evidence is search summary. Stern syllabus PDFs unreadable. Further instances likely: Stern Consulting Corps/Signature Projects, SPS CGA practicums, Law clinics, other Tandon departmental senior design, Steinhardt/Tisch studios. Summer Launchpad excluded as accelerator."
 }
