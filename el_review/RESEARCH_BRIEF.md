@@ -136,3 +136,9 @@ Put schemes that fail a criterion (a "No") either in `schemes` (if a near-miss w
 ## Search-limit handling and resuming partial files
 - A shared per-turn WebSearch cap exists. If a search is refused because a limit was reached, do NOT retry repeatedly: immediately write/update the institution file as "Partial", fill `partial_remaining` precisely (which areas/leads remain, which schemes still need status/eligibility evidence), set unsearched areas to "Not searched" with reason "search limit", and stop.
 - If `/home/user/James-testing/el_review/results/<ID>.json` already exists as "Partial", RESUME it: load it, keep its existing schemes/exclusions/sources/search_log entries (correct them only if new evidence warrants), research only what `partial_remaining` lists plus any area marked "Not searched", then rewrite the whole file (merged) with updated review_status, profile_md and gaps. Do not duplicate existing records.
+
+## Reduced-depth mode (round 3 — use for all remaining institutions)
+- Budget: ~15 searches per institution (ceiling 20). Cover the six areas in `search_log`, but with 1–3 queries each; mark an area "Searched" only if at least one query was run for it.
+- Record only the 3–6 strongest, best-evidenced routes (prefer: university-wide routes, compulsory programme capstones with named external clients, dated 2025/26–2026/27 evidence). List other leads in `exclusions` (category "Evidence gap") or `gaps` — do not research them further.
+- If direct page access is available (WebFetch works), open the 1–2 key pages per scheme and quote them (retrieval "page text"); otherwise use search extracts as before.
+- Write `review_status` "Complete" only if the six areas were each queried; otherwise "Partial" with `partial_remaining`.
