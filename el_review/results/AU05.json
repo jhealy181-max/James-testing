@@ -1,0 +1,511 @@
+{
+ "inst_id": "AU05",
+ "institution": "Monash",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Monash Innovation Guarantee MON2750 industry partner team project",
+    "Monash careers employability work integrated learning industry projects university-wide students"
+   ],
+   "key_sources": [
+    "https://www.monash.edu/flagship-rich-experiences/mig/about-the-unit",
+    "https://www.monash.edu/careers/employers/connect/work-integrated-learning"
+   ],
+   "finding": "MIG is the university-wide flagship team industry challenge (UG and PG). Careers/WIL pages point to faculty provision."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Monash Business School industry-based learning client project team unit"
+   ],
+   "key_sources": [
+    "https://www.monash.edu/business/current-students/work-integrated-learning/industry-consulting-projects"
+   ],
+   "finding": "Industry Consulting Projects: teams of up to 5 with real clients, UG and PG."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Monash engineering final year project industry partner team",
+    "Monash Industry Innovation Program IIP students team industry partner",
+    "Monash Faculty of IT industry experience project FIT5120",
+    "Monash IT industry-based learning IBL partners"
+   ],
+   "key_sources": [
+    "https://www.monash.edu/industry-innovation-program/students",
+    "https://www.monash.edu/it/industry-and-community/partnership-options"
+   ],
+   "finding": "IIP final-year industry projects (team unclear) and IT studio projects (team of 4-5, current status unclear); IBL is individual placement."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Monash Science industry-based learning project team external partner unit SCI"
+   ],
+   "key_sources": [
+    "https://www.monash.edu/science/current-students/manage-your-science-studies/research-units"
+   ],
+   "finding": "Only optional industry-partner research project (SCI3990), Global Challenges project, and internships; group format unevidenced. MIG open to science students."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Monash Arts social sciences community partner project unit students teams client report"
+   ],
+   "key_sources": [
+    "https://www.monash.edu/arts/research/partner-with-us/partnercollaborate"
+   ],
+   "finding": "No current Arts/Social Sciences unit pairing student teams with external clients found; only old Social Work handbook unit."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Monash Art Design Architecture studio industry client collaborative project unit",
+    "Monash Law Medicine Nursing health interprofessional student team project external organisation unit"
+   ],
+   "key_sources": [
+    "https://handbook.monash.edu/2022/units/MDC5330",
+    "https://www.monash.edu/medicine/education/collaborative-practice"
+   ],
+   "finding": "Design collaborative studios mention industry issues (older handbook, no client evidence); health provision is interprofessional placement-based; nothing qualifying verified."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Monash Innovation Guarantee (undergraduate)",
+   "module_code": "MON2750 (year 2); MON3750 (year 3+)",
+   "admin_host": "Flagship Rich Educational Experiences (Monash central)",
+   "faculty_areas": [
+    "central"
+   ],
+   "year_of_study": "Year 2 (MON2750); year 3+ (MON3750)",
+   "eligibility_restrictions": "Needs 6 credit points of elective space and an eligible degree; no application or interview; preferences expressed then matched to a challenge.",
+   "credit_assessment": "6 credit points; in-semester assessment 100%; 144 hours workload",
+   "delivery_format": "In-person intensive; small teams",
+   "named_partners": "Microsoft (testimonial, undated); 'one of 50 leading industry partners'",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "Monash Innovation Guarantee (MIG), MON2750",
+   "local_id": "S1",
+   "official_name": "Monash Innovation Guarantee (MIG)",
+   "description": "Three-week intensive in-person summer unit. Students are matched into small teams, each taking a challenge set by an industry partner organisation (commercial or social enterprise, government or UN agency, start-up) and delivering a purpose-driven solution. Partners have three touch points, one per week.",
+   "academic_reach": "University-wide",
+   "eligible_faculties_programmes": "Undergraduates from eligible degrees with 6 credit points of elective space; FAQ says open to any degree (sources differ)",
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "3 weeks (January/February)",
+   "project_based": "Yes",
+   "project_evidence": "Teams deliver a solution to a defined real-world challenge [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in a small team to deliver a purpose-driven solution'; matched into teams by interests and skills [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenge is set by an industry partner organisation; partners attend three weekly touch points [1][2]. Partner example: Microsoft (student testimonial).",
+   "partner_type": "Mixed",
+   "partner_role": "Sets challenge; attends weekly touch points (c. 1.5 hours/week)",
+   "deliverable": "Team solution to partner challenge",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Summer B 2026 listing",
+   "unresolved": "Eligibility wording differs between sources (eligible degree vs any degree). Deliverable format and per-year partner list not seen. Page text not opened directly (403/Cloudflare).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.monash.edu/flagship-rich-experiences/mig/about-the-unit",
+     "title": "About the unit - Flagship Rich Educational Experiences",
+     "section": "About",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students work in a small team to deliver a purpose-driven solution to a real-world challenge set by an industry partner organisation; three-week intensive in-person summer unit (Jan/Feb); partner touch points once each week, not exceeding 1.5 hours per week.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://enrich.monash.edu/programs/mon2750-monash-innovation-guarantee",
+     "title": "MON2750: Monash Innovation Guarantee",
+     "section": "Program page",
+     "pub_year": "2026 (Summer B 2026 listing)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Challenge set by an industry partner (commercial or social enterprise, government or UN agency, or start-up); 6 credit points elective space; preferences then matched to a challenge; 100% in-semester assessment; 144 hours.",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.monash.edu/flagship-rich-experiences/mig/faqs",
+     "title": "FAQs - Flagship Rich Educational Experiences",
+     "section": "FAQ",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MON2750 for second-year and MON3750 for third-year and above; enrolment open to students from any degree.",
+     "supports": [
+      "reach",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Monash Innovation Guarantee - Postgraduate",
+   "module_code": "MON5750",
+   "admin_host": "Flagship Rich Educational Experiences",
+   "faculty_areas": [
+    "central"
+   ],
+   "year_of_study": "",
+   "eligibility_restrictions": "Indonesia page: eligible degree, at least 24 completed credit points, 6 elective points available (June 2025).",
+   "credit_assessment": "Unit-based, credit points not confirmed",
+   "delivery_format": "Intensive",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "Monash Innovation Guarantee - Postgraduate (MIG-P)",
+   "description": "Postgraduate coursework counterpart of MIG: three-week intensive winter unit (6-23 July 2026) open across faculties. Team format and partner role are inferred from the MIG model; not separately evidenced.",
+   "academic_reach": "University-wide",
+   "eligible_faculties_programmes": "Monash postgraduate coursework (Masters) students across all faculties",
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "3 weeks (6-23 July 2026)",
+   "project_based": "Unclear",
+   "project_evidence": "Not separately evidenced for MIG-P [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Not separately evidenced [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Not separately evidenced; MIG model has partner-set challenges [1].",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "deliverable": "",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (July 2026 schedule)",
+   "unresolved": "Need the postgraduate page text to confirm team and partner role. Possible duplicate of S1 in concept.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.monash.edu/flagship-rich-experiences/mig/postgraduate",
+     "title": "Postgraduate - Flagship Rich Educational Experiences",
+     "section": "Postgraduate",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "MIG-P is an intensive winter unit; 2026 schedule 6-23 July 2026; open to Monash postgraduate coursework students across all faculties.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Industry Consulting Projects",
+   "module_code": "BEX3350/BEX3351 (6 CP), BEX3450 (12 CP), BEX5006 (6 CP), BEX5112 (12 CP)",
+   "admin_host": "Monash Business School, Industry Experience",
+   "faculty_areas": [
+    "business"
+   ],
+   "year_of_study": "UG: 72 CP completed to apply, 96 CP at commencement",
+   "eligibility_restrictions": "Competitive application; elective space required; compulsory induction; one application considered.",
+   "credit_assessment": "6 CP (about 20 days) or 12 CP (about 30 days)",
+   "delivery_format": "Team consulting project",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "Industry Consulting Projects (Business School consulting project units)",
+   "description": "Credit-bearing Industry Experience units in which teams of up to 5 students from business degree specialisations work with industry partners on real business problems; projects are matched to student preferences and skills. Student-sourced projects need a brief from the host organisation.",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "Business and Commerce degrees (undergraduate and graduate)",
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "duration": "Semester-length; 20 or 30 days' workload",
+   "project_based": "Yes",
+   "project_evidence": "Teams solve real business problems for clients [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of up to 5 students; faculty matches students into project groups; teammates meet at induction [1][2][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partners/host organisations supply real business problems; host organisation brief for student-sourced projects [1][2][3].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client/host organisation supplying business problem",
+   "deliverable": "Consulting project output for client (form not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 round (2027 applications open Oct 2026)",
+   "unresolved": "Partner type may include non-business hosts; 'up to 5' team size seen in search summary only; deliverable and assessment not seen; participation numbers not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.monash.edu/business/current-students/work-integrated-learning/industry-consulting-projects",
+     "title": "Industry consulting projects - Monash Business School",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry consulting projects involve teams of up to 5 students from various business degree specialisations working with industry partners to solve real business problems; units run in all semesters; 2027 applications open from October 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.monash.edu/business/current-students/wil/industry-consulting-projects/how-to-apply",
+     "title": "How to apply - Monash Business School",
+     "section": "How to apply",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Faculty matches you with the project group best aligned to your preferences and the skills of group members; competitive; compulsory induction; student-sourced applications attach a host-organisation brief; UG 72 CP to apply.",
+     "supports": [
+      "group",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://handbook.monash.edu/2025/units/BEX3350",
+     "title": "BEX3350 - Consulting project",
+     "section": "Handbook entry",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Consulting project unit listed in the 2025 handbook (BEX3450 and BEX5006 in the 2023 handbook).",
+     "supports": [
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Industry Innovation Program final year project",
+   "module_code": "ENG4701/ENG4702 (also FIT4701/FIT4702)",
+   "admin_host": "Faculty of Engineering / Industry Innovation Program",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "year_of_study": "",
+   "eligibility_restrictions": "Expression of interest via IIP portal; interviews with Monash and industry partner.",
+   "credit_assessment": "Credit via ENG4701/ENG4702 (12 CP final year project); deliverables: project plan, reflective diary, final report",
+   "delivery_format": "On-campus industry project",
+   "named_partners": "Woodside; Wave Consulting; Tasty Fresh (undated news/case pages)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Industry Innovation Program (IIP) - Final Year Project",
+   "description": "Twelve-month industry-funded final-year project in Engineering/STEM. A partner company scopes the project with Monash and appoints a mentor; an academic supervisor supports a student team at the Monash Innovation Hub. Students receive an industry-sponsored scholarship. Examples: Woodside direct air capture, Wave Consulting greywater filtration, Tasty Fresh refrigeration.",
+   "academic_reach": "Cross-faculty",
+   "eligible_faculties_programmes": "STEM students (Engineering, IT) in final year",
+   "student_level": "Undergraduate",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "duration": "12 months",
+   "project_based": "Yes",
+   "project_evidence": "Scoped industry project with prototype/report deliverables [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Pages say students collaborate with other IIP students and Monash 'builds a student team', but deliverables (plan, diary, report) appear to be per student; team vs individual outputs not separated [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner scopes project, appoints mentor and funds scholarship; interviews include partner [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Funds, scopes and mentors project",
+   "deliverable": "Project plan, reflective diary, final report; prototype where applicable",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (FYP awards page)",
+   "unresolved": "Team versus individual assessment; dated 2025/26 or 2026/27 cohort; 2023 info session described IIP as a pilot.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.monash.edu/industry-innovation-program/students",
+     "title": "Students - Industry Innovation Program",
+     "section": "Students",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "12-month industry project, credit via ENG4701/ENG4702; industry-sponsored scholarship; deliverables include project plan, reflective diary and final report; collaborate with an industry partner and other IIP students.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.monash.edu/engineering/current-students/student-industry-engagement/final-year-project-options",
+     "title": "Final year project options - Engineering",
+     "section": "FYP options",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "IIP projects governed by a formal IIP Agreement; companies collaborate with a Monash academic supervisor to outline scope and milestones; interviews include Monash and the industry partner; also co-op and self-sourced industry FYPs.",
+     "supports": [
+      "project",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Industry Experience Studio Project",
+   "module_code": "FIT5120",
+   "admin_host": "Faculty of Information Technology",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "12 CP; project deliverables 70-80% plus final presentation (2015 unit guide)",
+   "delivery_format": "Team studio project",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "official_name": "Industry Experience Studio Project (FIT5120)",
+   "description": "Capstone-style IT unit: teams of four or five students build an IT solution for a real problem with mentoring from academic staff and industry clients. Partner page says partners assign a project, mentor teams with four campus visits per semester and judge an expo. Detail comes from 2015-2019 handbooks and an undated partner page.",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "Faculty of IT postgraduate coursework (FIT5120); undergraduate equivalents (FIT3047/FIT3048) seen only in 2014-2016 handbooks",
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Semester",
+   "project_based": "Yes",
+   "project_evidence": "Teams build an IT solution to a real problem [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of four or five students [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Partner page: partners assign a project, mentor and judge expo; but projects can also be 'social good' issues, so external client share is not standard-documented [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Assigns project, mentors, judges expo (partner page)",
+   "deliverable": "IT solution and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2019 handbook",
+   "unresolved": "Current-year handbook and unit guide not seen; compulsoriness inferred from capstone status; client share unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www3.monash.edu/pubs/2019handbooks/units/FIT5120.html",
+     "title": "FIT5120: Industry experience studio project - 2019 Handbook",
+     "section": "Unit",
+     "pub_year": "2019",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of four or five students build an IT solution for a real problem with mentoring from academic staff and senior industry clients; capstone unit.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.monash.edu/it/industry-and-community/partnership-options",
+     "title": "Partnership options - Faculty of Information Technology",
+     "section": "Partnership options",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Industry Experience Studio Projects: multidisciplinary student teams develop IT solutions for a real business problem or social good issue; partners assign a project, mentor (four visits per semester) and judge the expo.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Science in Action research project SCI3990 / Global Challenges SCI3502 industry project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Project with an external industry partner is an option, but individual versus team format not evidenced.",
+   "source_url": "https://www.monash.edu/science/current-students/manage-your-science-studies/research-units",
+   "status_note": "Search summary only"
+  },
+  {
+   "name": "Science internships SCI3920/SCI3925/SCI3501; IT Industry-Based Learning placements; Business placements",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements, not group projects.",
+   "source_url": "https://www.monash.edu/it/industry-based-learning/partners",
+   "status_note": ""
+  },
+  {
+   "name": "Monash Student Teams Initiative (IT)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Partners act as adviser/sponsor to self-managed student teams; extent of partner-set briefs and curricular status not evidenced.",
+   "source_url": "https://www.monash.edu/it/industry-and-community/partnership-options",
+   "status_note": ""
+  },
+  {
+   "name": "Collaborative design studios (MDC5330, COL3001/3002)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "2019-2022 handbook entries say projects are drawn from industry or societal issues; no evidence of an external client or current delivery.",
+   "source_url": "https://handbook.monash.edu/2022/units/MDC5330",
+   "status_note": "Historical handbook"
+  },
+  {
+   "name": "SWM5106 Community engagement group project (Social Work); PAC3552 Community engagement (Pharmacy)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "2018-2019 handbook entries; group community project, but current status and organisation role not evidenced.",
+   "source_url": "http://www.monash.edu/pubs/2019handbooks/units/SWM5106.html",
+   "status_note": "Historical handbook"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Monash has one university-wide route and several faculty routes.\n\n**University-wide:** the Monash Innovation Guarantee (MON2750/MON3750 for undergraduates; MIG-P, MON5750, for postgraduates) is a three-week elective intensive. Small matched teams take a challenge set by an industry partner (commercial or social enterprise, government or UN agency, start-up), with weekly partner touch points. Eligibility depends on elective space and degree, and enrolment needs no application. Not compulsory.\n\n**Business:** Industry Consulting Projects (BEX3350/3351/3450 undergraduate; BEX5006/5112 graduate) put teams of up to 5 on real client problems. The route is competitive, and applications for 2027 open in October 2026.\n\n**Engineering/IT:** the Industry Innovation Program is a 12-month industry-funded final-year project (ENG4701/4702), but team versus individual assessment is unclear. The IT Industry Experience Studio Project (FIT5120) uses teams of 4-5 on real problems, but its evidence is mostly 2015-2019 handbooks, so current status is unclear.\n\nNo qualifying team-with-external-client provision was verified in Science, Arts/Social Sciences, Law or health. Provision is distributed across the centre and faculties and not compulsory anywhere found. All evidence comes from search-result summaries because monash.edu returned 403 to fetching.",
+ "gaps": "monash.edu page text could not be opened (WebFetch 403; curl returned a Cloudflare challenge, not bypassed), so all sources are search-summary paraphrases. Not verified: MIG-P team/partner detail; IIP team assessment; current FIT5120 handbook; Science SCI3990/SCI3502 team format; Engineering faculty capstones (e.g. ENG4701 non-IIP) and further departmental projects likely exist; participation numbers."
+}

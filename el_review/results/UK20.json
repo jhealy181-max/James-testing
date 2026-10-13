@@ -1,0 +1,388 @@
+{
+ "inst_id": "UK20",
+ "institution": "SOAS University of London",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "SOAS careers employer project students teams live brief",
+    "SOAS Virtual Industry Project 2026 applications semester 2 Practera",
+    "WebFetch work-aligned learning; services-employers"
+   ],
+   "key_sources": [
+    "https://www.soas.ac.uk/soas-virtual-industry-project",
+    "https://www.soas.ac.uk/about/news/students-build-real-life-employment-skills-through-online-industry-placements",
+    "https://www.soas.ac.uk/work-aligned-learning-soas",
+    "https://www.soas.ac.uk/services-employers"
+   ],
+   "finding": "University-wide extracurricular 2-week Practera virtual industry project (100 places) qualifies on A/B/C but current-year evidence missing; employer-facing Student Consultancy Project is unclear on groups."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "SOAS School of Finance and Management consultancy project module client",
+    "SOAS MSc Finance Practical Industry Project 30 credits Practera",
+    "SOAS courseunits Practical Industry Project 2025"
+   ],
+   "key_sources": [
+    "https://www.soas.ac.uk/study/find-course/msc-finance",
+    "https://www.soas.ac.uk/about/event/school-finance-and-management-virtual-industry-project"
+   ],
+   "finding": "MSc Finance/International Business optional 30-credit Practical Industry Project with 5-6 person groups on a client brief; client identity unverified; 2022 SFM VIP event historical."
+  },
+  "engineering_computing": {
+   "status": "Not applicable",
+   "queries": [
+    "SOAS data science computing science engineering department degree"
+   ],
+   "key_sources": [
+    "https://www.soas.ac.uk/study/find-course/msc-data-science"
+   ],
+   "finding": "No engineering or computing department found; data science MScs are run from Economics."
+  },
+  "science": {
+   "status": "Not applicable",
+   "queries": [
+    "SOAS data science computing science engineering department degree"
+   ],
+   "key_sources": [
+    "https://www.soas.ac.uk/study/find-course/msc-data-science"
+   ],
+   "finding": "SOAS has no natural science faculty; quantitative provision (data science) sits in Economics and was queried once, no external-partner group project found."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "SOAS development studies MA Global Development placement module group project partner organisation",
+    "SOAS International Development Placement module partner organisations groups"
+   ],
+   "key_sources": [
+    "https://www.soas.ac.uk/study/find-course/msc-global-development"
+   ],
+   "finding": "Optional virtual International Development Placement: teams of 2-9 with development partner organisations (cap 75), but project output and currency unverified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "SOAS Law clinic students real clients Detention Law Clinic Wilsons module"
+   ],
+   "key_sources": [
+    "https://www.soas.ac.uk/work-aligned-learning-soas",
+    "https://www.soas.ac.uk/about-soas/colleges-schools-and-departments/school-law-gender-and-media/soas-llb/ba-llm/ma-law"
+   ],
+   "finding": "Law clinics are supervised casework (excluded). No health, design or architecture faculties."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "SOAS Careers / Practera",
+   "eligible_faculties_programmes": "All second-year and final-year undergraduates (any discipline)",
+   "year_of_study": "Second and final year",
+   "eligibility_restrictions": "Second- and final-year undergraduates; 100 places per year; available online for 25 hours over 2 weeks in semester 2; two compulsory workshops.",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "100 places per year (scheme page, undated); 100 SOAS students took part and c.15 client organisations (news, 20 March 2025).",
+   "legacy_ref": "SOAS Virtual Industry Project",
+   "local_id": "S1",
+   "official_name": "SOAS Virtual Industry Project",
+   "english_name": "SOAS Virtual Industry Project",
+   "description": "Two-week virtual consultancy run with Practera: students in assigned teams work remotely on a project brief from an employer (one unique brief/organisation per team), research and present recommendations in a final report. Clients reported as startups, SMEs and NGOs (c.15 organisations) on themes such as growth strategy, sustainable impact, public policy and digital marketing.",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced; unpaid; digital certificate for LinkedIn on completion.",
+   "duration": "2 weeks (25 hours), semester 2",
+   "delivery_format": "Fully virtual, Practera platform",
+   "project_based": "Yes",
+   "project_evidence": "Teams respond to an employer brief and submit a final report with recommendations [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Work in small teams on a two-week intensive project responding to an employer brief'; students form teams that 'work virtually and collaboratively' [1][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Each team receives 'a project brief from an employer (one unique brief/organisation per team)'; clients startups, SMEs and NGOs [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies the live brief; recipient of recommendations/final report (employer feedback role not detailed).",
+   "deliverable": "Final report with recommendations for the client organisation",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (news dated 20 March 2025; cohort year not stated)",
+   "unresolved": "No 2025/26 or 2026/27 dated cohort/application evidence; the scheme page carries no year, so current delivery not confirmed. Short format (2 weeks, 25 hours). Retrieval via WebFetch page text.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.soas.ac.uk/soas-virtual-industry-project",
+     "title": "SOAS Virtual Industry Project",
+     "section": "Main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'offers all second and final year undergraduates the opportunity to participate in a 2-week virtual industry project'; 'a project brief from an employer (one unique brief/organisation per team)'; 'Each year the programme supports 100 student places'; 25 hours over 2 weeks in semester 2; two compulsory workshops.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "participation",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.soas.ac.uk/about/news/students-build-real-life-employment-skills-through-online-industry-placements",
+     "title": "Students build real-life employment skills through online industry placements",
+     "section": "News",
+     "pub_year": "2025-03-20",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Dated 20 March 2025: 100 SOAS students; clients 'startups, SMEs and NGOs' (c.15); each team researches a brief and presents recommendations in 'a final report'.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.soas.ac.uk/work-aligned-learning-soas",
+     "title": "Work-aligned learning at SOAS",
+     "section": "Group projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Virtual industry projects: 'Work in small teams on a two-week intensive project responding to an employer brief.' Open to undergraduates from any discipline.",
+     "supports": [
+      "group",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "School of Finance and Management",
+   "eligible_faculties_programmes": "MSc Finance; MSc International Business (alternative to 60-credit dissertation: 30-credit Practical Industry Project plus 30-credit Research Project)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "Practical Industry Project (Practera Virtual Industry Experience), MSc Finance / MSc International Business",
+   "english_name": "Practical Industry Project",
+   "description": "30-credit module option on SOAS School of Finance and Management MSc programmes with an embedded Practera Virtual Industry Experience: students work in groups of 5-6 on a specific client brief on Practera's platform, supervised, with group and client meetings, then complete an individual assessment.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits; team work on client brief then individual assessment (breakdown not found).",
+   "duration": "Unclear",
+   "delivery_format": "Virtual, Practera platform, with module convenor",
+   "project_based": "Yes",
+   "project_evidence": "Team works on a real-world client brief with an individual assessment afterwards [1].",
+   "group_working": "Yes",
+   "group_evidence": "'groups of 5-6 students on a specific client brief' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Described as a 'client brief' via Practera Virtual Industry Experience, but the source extract does not show who the clients are or that they are external organisations for this module (the undergraduate VIP uses startups/SMEs/NGOs). Client meetings are held [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Client brief; client meetings (nature unverified)",
+   "deliverable": "Team client output plus individual assessment (unspecified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (programme page described as c.18 months old by search tool)",
+   "unresolved": "Direct page fetch returned HTTP 403 (also via curl with proxy); evidence is search-index extract only. Client identity, current-year delivery, duration and assessment weighting unverified. Optional alternative to dissertation.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.soas.ac.uk/study/find-course/msc-finance",
+     "title": "MSc Finance",
+     "section": "Dissertation/projects element",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (page fetch 403)",
+     "extract": "Search result states: dissertation-or-projects element combines Research Project (30 credits) and Practical Industry Project (30 credits); embedded Practera Virtual Industry Experience where students work in a team on a real-world client brief then complete an individual assessment; groups of 5-6 students on a specific client brief; Practera supervises and hosts group and client meetings.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Department of Development Studies",
+   "eligible_faculties_programmes": "MSc Global Development and other development MSc programmes listing it as an open option (e.g. MSc Development Studies (South Asia))",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "named_partners": "Overseas Development Institute, ISEAL, MSF (undated, per search summary)",
+   "likely_duplicate_of": "",
+   "participation_data": "Capped at 75 students (undated).",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "International Development Placement (virtual group placement with partner organisations)",
+   "english_name": "International Development Placement",
+   "description": "15-credit virtual placement option on SOAS development MSc programmes: students are allocated in teams of 2-9 to development-orientated partner organisations and each completes a Placement Agreement of 40 hours across February and March of term 2. Capped at 75 students.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; assessment not found.",
+   "duration": "40 hours across Feb-Mar (term 2)",
+   "delivery_format": "Virtual placement, group-based",
+   "project_based": "Unclear",
+   "project_evidence": "Described as a placement with core activity of group work with partner organisations; no defined project brief or output evidenced [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Students will be allocated to Partner Organisations in teams varying in size from 2-9 students'; 'core activity is centred on students working in groups' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students sign a Placement Agreement with a development-orientated partner organisation; past hosts reported as ODI, ISEAL, MSF (search summary, undated) [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Hosts team placement (brief/output role unspecified)",
+   "deliverable": "Not specified",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Whether teams produce a defined project output for the partner (placement vs project); current-year delivery; assessment.  Partner type 'Charity/community' is inferred from development NGO examples only; mark Mixed/Unclear if challenged.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.soas.ac.uk/study/find-course/msc-global-development",
+     "title": "MSc Global Development",
+     "section": "Module options",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'The core activity is centred on students working in groups with development-orientated partner organisations (POs).' 'Each student will enter into a Placement Agreement with a partner organisation consisting of 40 hours of work spread over February and March in term 2.' 'Students will be allocated to Partner Organisations in teams varying in size from 2-9 students.' 'Numbers in this module are capped to 75 students due to limited availability.' Listed '15 credits Open'.",
+     "supports": [
+      "group",
+      "employer",
+      "credit",
+      "participation",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "SOAS Careers / Employer Engagement",
+   "eligible_faculties_programmes": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Student Consultancy Project (SOAS Careers, employer-set)",
+   "english_name": "Student Consultancy Project",
+   "description": "SOAS Careers offer to employers: an employer sets a short real-world challenge or strategic question; students research, analyse and develop recommendations with academic or careers support; employer reviews presentations or SOAS assesses on their behalf.",
+   "academic_reach": "Unclear",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "'short' (not specified)",
+   "delivery_format": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Employer brief, research, recommendations and presentations [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page does not say whether students work in teams or individually [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'You provide a brief outlining a small challenge or strategic question'; employer may review student presentations [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Sets brief; reviews presentations",
+   "deliverable": "Recommendations and presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Employer-facing page only: no evidence on student cohorts, team structure, eligibility, dates or whether it has run.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.soas.ac.uk/services-employers",
+     "title": "Services to employers",
+     "section": "Student Consultancy Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Our Student Consultancy Projects give employers the opportunity to set a short, real-world challenge for students to explore.' 'You provide a brief outlining a small challenge or strategic question.' 'Students then research, analyse and develop recommendations with academic or careers support.' 'you can review student presentations or allow our team to assess on your behalf.'",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "School of Finance and Management Virtual Industry Project (2022 event)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Practera two-week team project for a client (startup/non-profit/SME), places reserved for SFM UG years 2/3; only dated 12-25 September 2022; BSc Management page says collaboration continues but no current-year evidence. Probably a department variant of S1.",
+   "source_url": "https://www.soas.ac.uk/about/event/school-finance-and-management-virtual-industry-project",
+   "status_note": "Historical delivery only (2022)"
+  },
+  {
+   "name": "Law clinics (Detention Law Clinic with Wilsons Solicitors LLP; other clinics)",
+   "legacy": false,
+   "category": "Near-miss: not project",
+   "reason": "Supervised legal advice to real clients/individual casework; no team project brief or group output evidenced; embedded in law modules or competitive application.",
+   "source_url": "https://www.soas.ac.uk/work-aligned-learning-soas",
+   "status_note": ""
+  },
+  {
+   "name": "Summer Internship, Co-Creator Internship, AES x Learning Connected Micro-Internship, placement modules, Year in Industry/PG Placement Year",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual paid placements/internships; no group project evidenced.",
+   "source_url": "https://www.soas.ac.uk/work-aligned-learning-soas",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Data Science / Economics research projects",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Data science MScs sit in Economics with a 60-credit research project; no external-partner group project found in one query.",
+   "source_url": "https://www.soas.ac.uk/study/find-course/msc-data-science",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "Reduced-depth review (about 10 searches plus page fetches). The strongest route is the **SOAS Virtual Industry Project** (legacy row), a Careers/Practera two-week extracurricular scheme open to all second- and final-year undergraduates (100 places a year). Assigned teams work remotely on one employer brief per team (startups, SMEs and NGOs, about 15 clients in the March 2025 news item) and submit a final report with recommendations. It meets project, group and employer criteria, but the pages are undated apart from the 2025 news story, so current delivery is unconfirmed, and it is only 25 hours long.\n\nCurricular routes are thin. The MSc Finance / International Business optional 30-credit Practical Industry Project embeds a Practera experience with groups of 5-6 on a client brief, but client identity is unverified and the source page could not be opened (HTTP 403), so evidence is a search extract. The optional International Development Placement puts teams of 2-9 with development partner organisations for 40 hours (capped at 75), but no project output is evidenced. SOAS Careers also advertises an employer-facing Student Consultancy Project with no team or cohort evidence. Law clinics, internships and micro-internships are individual and excluded.\n\nProvision is limited and mostly extracurricular or optional, with no compulsory employer-linked group project found. SOAS has no engineering or science faculty.",
+ "gaps": "Current 2025/26-2026/27 delivery of the Virtual Industry Project, Practical Industry Project and International Development Placement unverified; MSc Finance page returned 403 to WebFetch and curl; client identities for the MSc module unknown; other Practera-style or departmental projects (e.g. MSc International Marketing, BSc Management, Law, Economics) not researched in reduced-depth mode; Student Consultancy Project team structure unknown."
+}

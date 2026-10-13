@@ -1,0 +1,441 @@
+{
+ "inst_id": "UK16",
+ "institution": "Kent",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Kent students live client project employer consultancy module",
+    "Kent Careers Employability Service employer project challenge students teams",
+    "Kent i-teams eight-week programme (extended)",
+    "WebFetch employability points and student-impact pages"
+   ],
+   "key_sources": [
+    "https://student.kent.ac.uk/careers/student-impact/i-teams",
+    "https://student.kent.ac.uk/careers/employability-points/ep-points-how-it-works"
+   ],
+   "finding": "i-Teams is the central employer-challenge team route (latest evidence 2023); Employability Points is an award only."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Kent Business School student consultancy project real client module",
+    "Kent Business Analytics Challenge module live organisational problem MSc team client"
+   ],
+   "key_sources": [
+    "https://www.kent.ac.uk/courses/modules/module/BUSB6514",
+    "https://blogs.kent.ac.uk/kbs-news-events/2026/08/in-at-the-deep-end-how-kbs-students-took-on-real-business-challenges/",
+    "https://www.kent.ac.uk/courses/modules/module/BUSB7032"
+   ],
+   "finding": "KBS Challenge verified with named 2026 partners; other KBS consultancy modules unclear or individual."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Kent School of Engineering Digital Arts computing group project industry client final year",
+    "Kent Engineering Mathematics Statistics Physical Sciences group project industrial sponsor"
+   ],
+   "key_sources": [
+    "https://www.kent.ac.uk/courses/modules/module/EL562",
+    "https://www.kent.ac.uk/courses/modules/module/COMP8430"
+   ],
+   "finding": "Group projects exist but no confirmed external client; KITC modules individually assessed and not running."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Kent School of Natural Sciences biosciences chemistry physics industry project external partner group",
+    "(plus physics group project result)"
+   ],
+   "key_sources": [
+    "https://www.kent.ac.uk/courses/modules/module/PH603"
+   ],
+   "finding": "Physics Group Project has some industry-linked themes but is undated for current delivery; nothing qualifying verified in Natural Sciences."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Kent social sciences humanities module real client community organisation group project",
+    "Kent Politics/Psychology/Anthropology consultancy project client module"
+   ],
+   "key_sources": [
+    "https://www.kent.ac.uk/courses/modules/module/SOCI6015"
+   ],
+   "finding": "Only optional organisation-research options with unstated group basis; nothing qualifying verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Kent Law Clinic OR architecture OR pharmacy OR medical team project external organisation"
+   ],
+   "key_sources": [
+    "https://www.kent.ac.uk/kent-law-school/kent-law-clinic"
+   ],
+   "finding": "Law Clinic is casework; nothing found for architecture, pharmacy or medicine."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "KBS Challenge",
+   "english_name": "KBS Challenge",
+   "module_code": "BUSB6514",
+   "description": "Level 6 Kent Business School module (Medway, Summer Term) in which groups of KBS students act as consultants on live problems set by real businesses. 2026 cohort: 106 students in 15 consultancy teams across 10 live projects over eight weeks, visiting business sites and meeting senior business representatives, producing recommendations presented back to the organisation.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Kent Business School",
+   "eligible_faculties_programmes": "KBS students (Canterbury and Medway) at Stage 3; blog reports students from across KBS",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Stage 3 (Level 6)",
+   "eligibility_restrictions": "Search summary reported an average of at least 60% in the preceding stage; module page fetched did not state a restriction (conflict, unresolved).",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (10 ECTS). Group report 3,000 words 60%; group presentation 15 min 20%; individual reflective blog 750 words 20%.",
+   "duration": "Eight weeks (Summer Term)",
+   "delivery_format": "In person, team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Live business challenges; group report and presentation with recommendations [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'in a group of your peers'; group report and group presentation assessed; 15 teams in 2026 [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Four external organisations supported the projects; teams visited sites, engaged senior business representatives and produced recommendations 'presented back to the organisation' [2]. Module page: 'we'll work with real businesses' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets live challenge; engages with teams on site; receives recommendations/presentation",
+   "named_partners": "Port of Dover, Macknade, Barretts Kent, Enterprise Mobility (2026 cohort) [2]",
+   "deliverable": "Group consultancy report and client presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (cohort); 2026/27 module listing",
+   "participation_data": "106 students, 15 teams, 10 projects (2026 cohort)",
+   "unresolved": "Whether compulsory on any KBS degree (page silent); progression threshold conflict; whether 'four external organisations' covered all 10 projects.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kent.ac.uk/courses/modules/module/BUSB6514",
+     "title": "KBS Challenge - BUSB6514",
+     "section": "Module page",
+     "pub_year": "2026 to 2027",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Do you have what it takes to be a management consultant?'; 'we'll work with real businesses'; 'in a group of your peers'; Group Report (3,000 words) 60%, Group Presentation (15 minutes) 20%, Individual Reflective Blog 20%; Level 6, 20 credits; 2026 to 2027.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://blogs.kent.ac.uk/kbs-news-events/2026/08/in-at-the-deep-end-how-kbs-students-took-on-real-business-challenges/",
+     "title": "In at the Deep End: How KBS Students Took on Real Business Challenges",
+     "section": "Blog (12 Aug 2026)",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'15 consultancy teams across 10 live projects' over eight weeks; '106 students from across Kent Business School'; 'supported by four external organisations: Port of Dover, Macknade, Barretts Kent, and Enterprise Mobility'; teams 'visited business sites, engaged directly with senior business representatives'; recommendations 'presented back to the organisation'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "i-Teams (Kent Innovation i-Teams; Student Impact Projects)",
+   "english_name": "i-Teams",
+   "module_code": "",
+   "description": "Eight-session, eight-week careers/knowledge-exchange programme in which students from different disciplines form multi-disciplinary teams to tackle a live business problem set by a sponsor, with an industry mentor, ending in a Grand Final presentation to a panel. Open to non-business students.",
+   "academic_reach": "University-wide",
+   "admin_host": "Careers and Employability Service (with Research and Innovation Services historically)",
+   "eligible_faculties_programmes": "Kent students across disciplines (careers page says non-business students welcome)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not stated in retrieved extracts",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit; sessions carry Employability Points (search extract)",
+   "duration": "Eight weeks / 8 sessions",
+   "delivery_format": "Team programme with mentor and Grand Final",
+   "project_based": "Yes",
+   "project_evidence": "Teams propose solutions to a sponsor's business challenge and present them at a Grand Final [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Multi-disciplinary student teams [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges set by business sponsors (2023: BAE Systems, Vesper 247, Docking Station; earlier IBM, TRN, Young Lives Foundation); mentor from industry; solutions presented to a panel [1][2][3].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets live challenge; mentors; panel receives solutions",
+   "named_partners": "BAE Systems, Vesper 247, Docking Station (2023) [3]",
+   "deliverable": "Solution presentation at Grand Final",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023 (cohort); undated careers page",
+   "participation_data": "",
+   "unresolved": "No 2025/26 or 2026/27 evidence found; the careers page returned no relevant text on direct fetch, so its content is known only from the search extract; student level and eligibility not stated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://student.kent.ac.uk/careers/student-impact/i-teams",
+     "title": "i-teams - Careers and employability service",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted); WebFetch of the page returned no relevant text",
+     "extract": "'There are 8 sessions, which include an introductory meeting and the grand final.' 'At the end of the programme, you and your team will have the chance to present your solutions to a panel during a Grand Final.' Eight-week programme, live business problem, industry expert, non-business students welcome (as paraphrased by search).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.kent.ac.uk/business-and-partnerships/student-talent/i-teams",
+     "title": "Kent i-Teams 2023",
+     "section": "Business and Partnerships page",
+     "pub_year": "2023",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Cohort page for 2023 i-Teams (title only retrieved).",
+     "supports": [
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://blogs.kent.ac.uk/ris/2023/02/02/kent-students-take-on-bae-systems-vesper-247-and-docking-station-challenges-in-i-teams-2023/",
+     "title": "Kent students take on BAE Systems, Vesper 247 and Docking Station challenges in i-Teams 2023",
+     "section": "Blog",
+     "pub_year": "2023",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "'an 8-week knowledge exchange programme which brings together innovative students from across the University to tackle real business problems.'",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The Business Analytics Challenge",
+   "english_name": "The Business Analytics Challenge",
+   "module_code": "BUSB7032",
+   "description": "Level 7 40-credit capstone on MSc Business Analytics (alternative to a placement/internship): students pitch solutions to existing organisational problems; search extracts say groups of 3-4 work on a company partner's or curated dataset, then each writes an individual consultancy report.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Kent Business School",
+   "eligible_faculties_programmes": "MSc Business Analytics (and possibly related KBS MScs)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final term",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits (20 ECTS). Group presentation 20%; individual consultancy report 4,000 words 60%; individual reflective report 20%.",
+   "duration": "Final term",
+   "delivery_format": "Consultancy-style group work",
+   "project_based": "Yes",
+   "project_evidence": "'Gain consultancy experience and pitch your solutions to existing organisational problems' [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Group presentation (20%) but main report is individual; group size 3-4 only from search paraphrase [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Module page mentions 'existing organisational problems' but no client; company partner dataset only from search paraphrase, not verified on a page [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "named_partners": "",
+   "deliverable": "Group presentation and individual consultancy report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Whether organisations are external clients and how they take part; group vs individual output; compulsory vs placement alternative.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kent.ac.uk/courses/modules/module/BUSB7032",
+     "title": "The Business Analytics Challenge - BUSB7032",
+     "section": "Module page",
+     "pub_year": "2026 to 2027",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Gain consultancy experience and pitch your solutions to existing organisational problems!'; 'Group presentation (15 minutes) worth 20%'; 'Individual consultancy report (4000 words) worth 60%'; credits 40 (20), Level 7; 2026 to 2027.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Strategic Project Management Challenge (MSc Strategic Project Management)",
+   "english_name": "Strategic Project Management Challenge",
+   "module_code": "",
+   "description": "Compulsory Stage 1 module on MSc Strategic Project Management: small teams work on a company problem presented to them and pitch a solution to the organisation, described as a student consultancy experience.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Kent Business School",
+   "eligible_faculties_programmes": "MSc Strategic Project Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Stage 1",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Not stated",
+   "delivery_format": "Team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Team consultancy task to pitch a solution [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Students will be working in small teams on a company problem presented to them' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'connects students to organisational case studies'; 'pitch a solution to the organization' [1] but unclear whether the organisation is a live external client or a case.",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "named_partners": "",
+   "deliverable": "Solution pitch",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Live vs case-based; year; credits; assessment.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kent.ac.uk/courses/postgraduate/3269/strategic-project-management",
+     "title": "Strategic Project Management - MSc",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'The Strategic Project Management Challenge module connects students to organisational case studies and challenges them via a student consultancy experience.' 'Students will be working in small teams on a company problem presented to them'; 'their task will be to pitch a solution to the organization.' Listed under compulsory modules, Stage 1.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Employability Points",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Points scheme redeemed for employer rewards (e.g. virtual internships after 200 points); no group project. Page text: 'These points can then be cashed in for exclusive rewards offered by employers.'",
+   "source_url": "https://student.kent.ac.uk/careers/employability-points/ep-points-how-it-works",
+   "status_note": "Undated page"
+  },
+  {
+   "name": "Kent IT Consultancy modules (COMP8430, COMP6500, COMP6450)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "External client work via KITC with teamwork, but 'each student is assessed on an individual basis'; COMP8430 'not currently running in 2026 to 2027'; COMP6500/6450 reported not running 2024/25.",
+   "source_url": "https://www.kent.ac.uk/courses/modules/module/COMP8430",
+   "status_note": "Not running"
+  },
+  {
+   "name": "Physics Group Project (PHYS6030)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group research problems; 'project themes vary from industry linked projects to academic research and education/outreach' so external client only for some; page states not running 2024/25; compulsory status not stated.",
+   "source_url": "https://www.kent.ac.uk/courses/modules/module/PH603",
+   "status_note": "Current status unclear"
+  },
+  {
+   "name": "Engineering Group Project (EENG5620)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Practical group project (groups of typically five) but no external client mentioned on module page; 2024/25 listing. Older 2019 MEng pages mention industrial advisers (not fetched).",
+   "source_url": "https://www.kent.ac.uk/courses/modules/module/EL562",
+   "status_note": "2024/25"
+  },
+  {
+   "name": "Consultancy and Evaluation Skills in Practice (BUSN9125) and Consultancy Project (BUSX5104)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "BUSN9125 real client project but both assessments individual and page year 2024/25; BUSX5104 students choose own organisation, individual report.",
+   "source_url": "https://www.kent.ac.uk/courses/modules/module/BUSN9125",
+   "status_note": ""
+  },
+  {
+   "name": "SOCI6015 Final Year Project (research for organisations option) / SOCI5470 Social Research Placement",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Opportunity to undertake research for organisations within an independent project; group basis not stated; SOCI5470 reported not running 2024/25.",
+   "source_url": "https://www.kent.ac.uk/courses/modules/module/SOCI6015",
+   "status_note": ""
+  },
+  {
+   "name": "Kent Law Clinic / Clinical Option (LAWS5430)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Live client casework under supervision, not a team project with a defined output.",
+   "source_url": "https://www.kent.ac.uk/kent-law-school/kent-law-clinic",
+   "status_note": ""
+  },
+  {
+   "name": "Social Research Methods SOCI6020 group research project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group research project in spring term; no external organisation evidenced.",
+   "source_url": "https://www.kent.ac.uk/courses/modules/module/SO602",
+   "status_note": ""
+  },
+  {
+   "name": "MSc International Business and Management live consultancy option / MBA Challenge",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Programme page says options include live consultancy; group basis and partner role not evidenced; 2023 MBA challenge historical.",
+   "source_url": "https://www.kent.ac.uk/courses/postgraduate/299/international-business-management",
+   "status_note": "Not researched further"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Kent's strongest verified route is the **KBS Challenge (BUSB6514)**: a Level 6, 20-credit Kent Business School module where groups consult for real businesses. In 2026, 106 students in 15 teams worked on 10 live projects over eight weeks for Port of Dover, Macknade, Barretts Kent and Enterprise Mobility, presenting recommendations back to the organisations; assessment is a group report and presentation plus individual blog. It meets all three criteria with 2026/27 evidence, but only KBS students are evidently eligible and it is not shown to be compulsory.\n\nOther leads are weaker. **i-Teams** (Careers and Employability Service, multi-disciplinary teams, sponsor challenges, mentor, Grand Final) fits the criteria and is open beyond business students, but the latest evidenced cohort is 2023 and no current delivery was found. The **Business Analytics Challenge (BUSB7032)** and MSc **Strategic Project Management Challenge** are consultancy-style team modules whose client role is unclear. IT consultancy (KITC) modules involve external clients but are individually assessed and not running. Engineering and physics group projects show no confirmed external client; Law Clinic is casework. The legacy Employability Points scheme is an award, not a project route. Provision is distributed within business with one central extracurricular route; no institution-wide curricular scheme was found.",
+ "gaps": "Compulsory status of KBS Challenge and its eligibility threshold; i-Teams current delivery; client role in BUSB7032 and Strategic Project Management Challenge; MSc International Business live consultancy; engineering/computing and Digital Arts projects with industry advisers (2019 pages only); further departmental instances likely. Reduced-depth: 11 searches, 12 fetches."
+}

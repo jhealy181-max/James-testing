@@ -1,0 +1,516 @@
+{
+ "inst_id": "UK13",
+ "institution": "Dundee",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Dundee live client project students teams employer module",
+    "Dundee MSc live employer project team of up to five students report to company",
+    "Dundee Forensic/Life Sciences/Environmental group project external partner client"
+   ],
+   "key_sources": [
+    "https://www.dundee.ac.uk/careers/employers/internships-work-experience",
+    "https://www.dundee.ac.uk/feature/strengthening-employability-through-alumni-support",
+    "https://www.dundee.ac.uk/entrepreneurship/venture"
+   ],
+   "finding": "No central taught employer-project route found; Employer Team offers MSc live projects (S5, programmes unidentified). Venture is an enterprise competition (excluded)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Dundee Business School consultancy project module external organisation group",
+    "Dundee Business Consultancy BU40012 client project"
+   ],
+   "key_sources": [
+    "https://www.dundee.ac.uk/module/bu40025",
+    "https://www.dundee.ac.uk/module/bu40012",
+    "https://www.dundee.ac.uk/business/internships-industry-projects"
+   ],
+   "finding": "Marketing Research Project is group-based with mixed internal/external clients; other consultancy modules (BU40012, BU52020) are individual reports. A Nov 2025 news feature says partner employers (e.g. Toll House Spirits, Dundee United FC) give students real problems but names no module."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Dundee computing games industry project client group module",
+    "Computer Science Industrial Team Project CS32002 compulsory 2025/26 clients",
+    "Dundee School of Science and Engineering multidisciplinary group design project industry client engineering"
+   ],
+   "key_sources": [
+    "https://www.dundee.ac.uk/module/cs32002",
+    "https://www.dundee.ac.uk/module/me32003"
+   ],
+   "finding": "CS32002 industrial client team project and ME32003 industry-partner group project qualify on A/B/C; currency undated."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Dundee mathematics OR life sciences OR chemistry MSc project industry partner team module"
+   ],
+   "key_sources": [],
+   "finding": "Nothing found for life sciences, maths or chemistry; results returned only computing/engineering/business modules."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Dundee Duncan of Jordanstone design students live brief client collaborative project module"
+   ],
+   "key_sources": [
+    "https://www.dundee.ac.uk/module/dj52027",
+    "https://www.dundee.ac.uk/module/dj53010"
+   ],
+   "finding": "DJCAD: Going Live (industry live brief, collaborative) and Research Through Design (external problem holder). Graphic Design Final Projects/Illustration live briefs not tested for group working."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Dundee Law OR Nursing OR Medicine OR Dentistry OR Social Work students community organisation project group clinic"
+   ],
+   "key_sources": [
+    "https://www.dundee.ac.uk/module/co32001"
+   ],
+   "finding": "Only a 2012 Student Law Clinic press release and individual placements (community work module, social work) found; nothing qualifying verified."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CS32002",
+   "partner_type": "Business/commercial",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated page",
+   "local_id": "S1",
+   "official_name": "Industrial Team Project",
+   "english_name": "Industrial Team Project",
+   "description": "Level 3 Computing module in which student teams plan and execute a software development project proposed by an industry client, using agile methods; assessed by group portfolio, final presentation and peer review.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Science and Engineering (Computing)",
+   "eligible_faculties_programmes": "Available on six undergraduate Computer Science programmes (e.g. Computer Science; CS (UX and Design); CS (Data Science and AI))",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 3",
+   "eligibility_restrictions": "Programme-listed",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Module page (WebFetch): 40 credits, Semester 2; software development team project 60%, written exam 40%. A search summary said 20 credits; discrepancy unresolved.",
+   "duration": "Semester 2; team client work in final three weeks",
+   "delivery_format": "Agile team project",
+   "project_based": "Yes",
+   "project_evidence": "'Plan and execute a software development project for a client using agile methods' [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams develop a software system; group portfolio and peer reviews [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project is proposed by a client from industry and the system is developed 'for an industrial client' [1].",
+   "partner_role": "Client proposes project and is recipient of software",
+   "deliverable": "Software system, group portfolio, final presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "unresolved": "Page undated and no 2025/26 corroboration found, so current delivery unclear; whether compulsory on each programme not verified (search summary says listed as core, unverified); credit discrepancy (40 vs 20); client names not found.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.dundee.ac.uk/module/cs32002",
+     "title": "Industrial Team Project module (CS32002)",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'Plan and execute a software development project for a client using agile methods.' Client from industry proposes the project; in final three weeks students 'work in teams to develop a software system for an industrial client'; assessed via group portfolio, final presentation, peer reviews; software development team project 60%, written exam 40%; Level 3, Semester 2, 40 credits.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ME32003",
+   "partner_type": "Business/commercial",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated page",
+   "local_id": "S2",
+   "official_name": "Engineering Design II (industrial group project)",
+   "english_name": "Engineering Design II",
+   "description": "Level 3 mechanical engineering module with a 10-week group problem-solving task: students visit a local engineering company for a brief, work directly with the industry partner to design or develop a product or process, and present the outputs.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Science and Engineering (Mechanical Engineering)",
+   "eligible_faculties_programmes": "Programmes not listed on module page; mechanical engineering BEng programme page references the industrial visit project",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits, Semester 2; class test 40%; problem-solving industrial visit report and presentation 60%",
+   "duration": "10-week group task within Semester 2",
+   "delivery_format": "Industrial group project with company visit",
+   "project_based": "Yes",
+   "project_evidence": "'Industrial group project, presenting the outputs'; design or develop a product or process [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a 10-week group problem-solving task' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'You will work directly with a local industry partner to design or develop a product or process' [1]; search summary says students return to present to the company (not seen in fetched text).",
+   "partner_role": "Local industry partner provides brief and works with students",
+   "deliverable": "Design/process proposal, report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "unresolved": "Undated; no 2025/26 corroboration; compulsory status and partner names unknown; partner presentation not confirmed from page text.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.dundee.ac.uk/module/me32003",
+     "title": "Engineering Design II module (ME32003)",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'You will work directly with a local industry partner to design or develop a product or process.' Includes 'a 10-week group problem-solving task'; 'Problem-solving industrial visit report and presentation (60%)'; 15 credits, Level 3, Semester 2.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "DJ52027",
+   "partner_type": "Business/commercial",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated page",
+   "local_id": "S3",
+   "official_name": "Going Live",
+   "english_name": "Going Live (animation live brief)",
+   "description": "Level 5 Duncan of Jordanstone module in which students work collaboratively with an industry client to deliver a live animation brief, with production meetings and industry adviser input.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Duncan of Jordanstone College of Art & Design",
+   "eligible_faculties_programmes": "Art and Design courses incl. Communication Design MDes and Animation & VFX MSc",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Level 5",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits, Semester 2; coursework 100%",
+   "duration": "Semester 2",
+   "delivery_format": "Studio production with group tutorials",
+   "project_based": "Yes",
+   "project_evidence": "'work with an industry client to deliver a live brief' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Working collaboratively'; group tutorials and production meetings [1]. Whether a single joint output is produced is not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "'The project brief is provided by an industry partner'; input from industry advisers [1].",
+   "partner_role": "Industry partner provides live brief",
+   "deliverable": "Animation production (form not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "unresolved": "Undated; level labelled 5 with PG programmes listed; group deliverable and compulsory status unclear; partner names unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.dundee.ac.uk/module/dj52027",
+     "title": "Going Live module (DJ52027)",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'Experience a professional animation pipeline. You will work with an industry client to deliver a live brief.' 'The project brief is provided by an industry partner.' 'Working collaboratively, you will research audiences and content.' Group tutorials, production meetings. 20 credits, Level 5, Semester 2, coursework 100%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.dundee.ac.uk/postgraduate/animation-vfx/teaching-and-assessment",
+     "title": "Teaching and assessment - Animation & VFX MSc",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "Page describes Going Live as collaboration with a real-world animation or VFX studio partner (Advanced Production DJ52026 is the core studio module).",
+     "supports": [
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "BU40025",
+   "partner_type": "Mixed",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated page",
+   "local_id": "S4",
+   "official_name": "Marketing Research Project",
+   "english_name": "Marketing Research Project",
+   "description": "Level 4 15-credit module in which small consulting teams carry out a market research project (proposal, questionnaire, final presentation) for an assigned client that is either a University department or an external stakeholder.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Dundee Business School",
+   "eligible_faculties_programmes": "International Business with Marketing (MA/BSc); Business Economics with Marketing (MA/BSc)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 4",
+   "eligibility_restrictions": "Marketing-named programmes",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; Both Semesters; Research Proposal 20%, Questionnaire 20%, Final Presentation 60%; peer review for individual contribution",
+   "duration": "Two semesters",
+   "delivery_format": "Team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "'real-life market research, covering all stages of the research process' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Coursework in this module is group-based'; fixed groups, peer review [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Client is 'either a University department or an external stakeholder' [1]; the external share is not stated. Internal clients do not satisfy C.",
+   "partner_role": "Assigned client receives marketing research insights",
+   "deliverable": "Research proposal, questionnaire, final presentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "unresolved": "Proportion of external vs internal clients; compulsory status; undated page.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.dundee.ac.uk/module/bu40025",
+     "title": "Marketing Research Project module (BU40025)",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'Gain experience of real-life market research'; each team serves an assigned client, 'either a University department or an external stakeholder'; 'Coursework in this module is group-based'; 15 credits, Level 4.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "partner_type": "Business/commercial",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated page",
+   "local_id": "S5",
+   "official_name": "MSc employer live projects (Employer Team offer)",
+   "english_name": "MSc live employer projects",
+   "description": "Employer-facing offer: MSc students are tasked with an employer's project, issue or question, as a team of up to five who report individually; timeline agreed, on-site visits arranged, academic support for students and company.",
+   "academic_reach": "Unclear",
+   "admin_host": "Careers Service Employer Team / School of Business (linked page)",
+   "eligible_faculties_programmes": "MSc students; programmes not identified",
+   "faculty_areas": [
+    "central",
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated (School of Business page says some use projects as their MSc project)",
+   "duration": "Not stated",
+   "delivery_format": "Team live project, individual reporting",
+   "project_based": "Yes",
+   "project_evidence": "Employer's project/issue/question tackled by students [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'a team effort with up to five students... together as a group, although reporting individually' [1]: joint work but individual outputs; not clearly a joint output.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employer supplies the project; on-site visits [1].",
+   "partner_role": "Employer supplies project",
+   "deliverable": "Individual reports",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "unresolved": "Which MSc programmes/modules; whether delivered currently; employer-facing marketing text, no cohort evidence. School of Business page says 'Many of our postgraduate students have spent short periods working with local companies on real-life projects' (undated).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.dundee.ac.uk/careers/employers/internships-work-experience",
+     "title": "Employers: providing internships and work experience to students",
+     "section": "Live projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'MSc students can be tasked with your project/issue/problem/question/opportunity.' 'This can be a team effort with up to five students tackling your opportunity,' 'together as a group, although reporting individually.' 'We would agree a timeline and arrange on-site visits.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.dundee.ac.uk/business/internships-industry-projects",
+     "title": "Internships and industry projects in the School of Business",
+     "section": "Page text",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'Many of our postgraduate students have spent short periods working with local companies on them real-life projects.' 'Many have used these projects as their MSc project.'",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "DJ53010",
+   "partner_type": "Unclear",
+   "named_partners": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated page",
+   "local_id": "S6",
+   "official_name": "Research Through Design",
+   "english_name": "Research Through Design",
+   "description": "Level 5, 40-credit Semester 2 module (Duncan of Jordanstone) where students work as a team alongside leading researchers to address a brief set by an external problem holder.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Duncan of Jordanstone College of Art & Design (Faculty of Arts and Social Sciences)",
+   "eligible_faculties_programmes": "Not listed on page",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Level 5",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "40 credits, Semester 2; assessment not listed",
+   "duration": "Semester 2",
+   "delivery_format": "Team design research",
+   "project_based": "Yes",
+   "project_evidence": "Students address 'a specific brief set by an external problem holder' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students will work as a team' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'external problem holder' sets the brief but sector, role in feedback and who counts as external are not stated [1].",
+   "partner_role": "External problem holder sets brief",
+   "deliverable": "Not stated",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "unresolved": "Partner type and involvement; programmes; delivery year.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.dundee.ac.uk/module/dj53010",
+     "title": "Research Through Design module (DJ53010)",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'students will work as a team alongside internationally-leading researchers'; addresses 'a specific brief set by an external problem holder'; 40 credits, Level 5, Semester 2.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Enterprise Challenge / Venture Competition",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "New-business-idea competition for students, staff and recent graduates; no external organisation sets a brief; team participation not stated. Venture 2026 stages Jan-Feb 2026 (page text).",
+   "source_url": "https://www.dundee.ac.uk/entrepreneurship/venture",
+   "status_note": "Venture 2026 is now over; legacy dates confirmed"
+  },
+  {
+   "name": "Business Consultancy Project (BU40012)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "30-credit consultancy project for a client but assessed by an individual 10,000-word report with supervisor; no group evidence (search extract).",
+   "source_url": "https://www.dundee.ac.uk/module/bu40012",
+   "status_note": "search-index extract"
+  },
+  {
+   "name": "International Business Project (BU52020)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Consultancy route with company brief but individual 4,000-6,000 word report (search extract).",
+   "source_url": "https://www.dundee.ac.uk/module/bu52020",
+   "status_note": "search-index extract"
+  },
+  {
+   "name": "Partner employer real-life problems (Toll House Spirits, Dundee United FC)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "19 Nov 2025 news feature says partner employers provide real problems and students produce recommendation reports, but module, group basis and level are not named.",
+   "source_url": "https://www.dundee.ac.uk/feature/strengthening-employability-through-alumni-support",
+   "status_note": "page text; lead for follow-up"
+  },
+  {
+   "name": "Biomedical Engineering BE32001 industry-provided design project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary only: industrial partners provide projects; module page not opened.",
+   "source_url": "https://www.dundee.ac.uk/undergraduate/biomedical-engineering/teaching-and-assessment",
+   "status_note": "search-index summary"
+  },
+  {
+   "name": "Student Law Clinic",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Only 2012 press release; casework under solicitor supervision, not a team project.",
+   "source_url": "http://app.dundee.ac.uk/pressreleases/2012/june12/lawclinic.htm",
+   "status_note": "2012"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Dundee shows several distributed, programme-level client-project routes rather than an institution-wide scheme. In computing, CS32002 Industrial Team Project has student teams build software proposed by an industry client (module page: 'for an industrial client'; group portfolio, presentation, peer review). In mechanical engineering, ME32003 Engineering Design II includes a 10-week group task working directly with a local industry partner. DJCAD's Going Live (DJ52027) has students collaborate on a live brief from an industry partner, and Research Through Design (DJ53010) has a team address a brief set by an external problem holder (partner type unclear). In Dundee Business School, Marketing Research Project (BU40025) uses group consulting teams but clients may be University departments, so employer connection is unclear; other consultancy modules are individual reports. The Careers Employer Team offers MSc live projects for up to five students reporting individually. The Venture competition is enterprise-based and excluded. All module pages are undated and none was corroborated for 2025/26, so current delivery is unconfirmed (a Nov 2025 news feature does confirm business-school employer problems generally). Compulsory status and partner names remain unverified. No science, law or health route verified.",
+ "gaps": "Module pages undated; no 2025/26 corroboration for any scheme. Compulsory status per programme not checked. Not tested: BE32001 biomedical engineering, Graphic Design/Illustration live briefs, DJ31015 collaborative briefs, Architecture studios, further departmental instances likely. Search used about 13 searches plus about 9 WebFetch page opens (all succeeded; no curl needed). Science/health/law minimal."
+}
