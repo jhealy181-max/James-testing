@@ -1,0 +1,69 @@
+{
+ "inst_id": "US23",
+ "institution": "Illinois Urbana-Champaign",
+ "review_status": "Partial",
+ "partial_remaining": "science and other areas not yet searched; schemes to be drafted",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Illinois Urbana-Champaign student projects external partner capstone university-wide employer challenge"
+   ],
+   "key_sources": [
+    "https://hireillini.illinois.edu/experiential-learning-opportunities"
+   ],
+   "finding": "No university-wide employer project scheme surfaced; provision is college/department-level."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Gies College of Business student consulting live client project course team corporate partner"
+   ],
+   "key_sources": [
+    "https://giesbusiness.illinois.edu/experience/experiential-learning/experiential-learning-clients",
+    "https://giesbusiness.illinois.edu/experience/experiential-learning/illinois-business-consulting"
+   ],
+   "finding": "Gies embeds client-based experiential learning in every degree; IBC is a student-run consulting group."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Illinois Engineering senior design industry sponsored project teams ECE 445 sponsor",
+    "Siebel School CS senior project industry sponsor"
+   ],
+   "key_sources": [
+    "https://ise.illinois.edu/undergraduate/senior-engineering-program",
+    "https://siebelschool.illinois.edu/corporate/senior-design"
+   ],
+   "finding": "ISE SE 494 and CS 492/4 have industry sponsors and teams."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": ""
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Urban Planning workshop community client students plan report Illinois"
+   ],
+   "key_sources": [
+    "https://urban.illinois.edu/our-work/student-work/"
+   ],
+   "finding": "Urban planning workshops with City of Urbana as client."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": ""
+  }
+ },
+ "schemes": [],
+ "exclusions": [],
+ "embeddedness": "Unclear",
+ "profile_md": "Draft in progress.",
+ "gaps": "in progress"
+}

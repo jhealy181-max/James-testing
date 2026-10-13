@@ -1,0 +1,553 @@
+{
+ "inst_id": "US21",
+ "institution": "California San Diego (University of California, San Diego)",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UC San Diego Global TIES teams nonprofit partner",
+    "UC San Diego social sciences OR humanities community partner course student teams project nonprofit client TIES Sixth College (surfaced i4X)"
+   ],
+   "key_sources": [
+    "https://thebasement.ucsd.edu/programs/i4x.html",
+    "https://catalog.ucsd.edu/courses/ENG.html"
+   ],
+   "finding": "i4X is a university-wide, partner-set multidisciplinary team challenge; Global TIES is open to all undergraduates via ENG 100D."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Rady School of Management experiential learning client project MBA consulting teams companies"
+   ],
+   "key_sources": [
+    "https://rady.ucsd.edu/partner-with-rady/",
+    "https://rady.ucsd.edu/programs/ms-business-analytics/academics/capstone.html"
+   ],
+   "finding": "RAP (MBA) and MSBA capstone are team client projects with named external companies."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Jacobs School of Engineering capstone design industry sponsored projects teams",
+    "MAE 156B OR ECE 191 OR BENG 187 senior design sponsor"
+   ],
+   "key_sources": [
+    "https://mae156b.eng.ucsd.edu/",
+    "https://www.be.ucsd.edu/senior-design"
+   ],
+   "finding": "Sponsored team capstones (MAE 156B, BENG 187/188, ECE) exist; sponsors mix internal faculty/units and external companies so C is Unclear."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "HDSI capstone DSC 180 industry partner projects teams"
+   ],
+   "key_sources": [
+    "https://today.ucsd.edu/story/hdsi-industry-mentor-capstone-fosters-benefits-for-students-and-employers"
+   ],
+   "finding": "Data science senior capstone has industry mentors; no natural-science (biology/chemistry/physics) team-project route searched or found."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "social sciences OR humanities community partner course student teams project nonprofit client (USP, Sixth College)"
+   ],
+   "key_sources": [
+    "https://catalog.ucsd.edu/courses/USP.html"
+   ],
+   "finding": "Only catalog-title leads (USP 128B, USP 163, PAL); nothing verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "School of Global Policy and Strategy capstone client organization team project"
+   ],
+   "key_sources": [
+    "https://catalog.ucsd.edu/courses/GPS.html"
+   ],
+   "finding": "GPS catalog lists client-team courses (GPCO 466, GPCO 463) but no current-year delivery evidence; health/medicine/pharmacy not searched."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Global TIES (ENG 100D Design for Development / ENG 100L Design for Development Lab)",
+   "english_name": "Global TIES",
+   "module_code": "ENG 100D (4 units); ENG 100L (2 units)",
+   "description": "Interdisciplinary undergraduate teams design, build, test and deliver solutions for local or global nonprofit/NGO partners. ENG 100D includes a group project for a nonprofit; ENG 100L is the long-term lab for accepted Global TIES students.",
+   "academic_reach": "University-wide",
+   "admin_host": "Jacobs School of Engineering / Center for Global Sustainable Development",
+   "eligible_faculties_programmes": "ENG 100D open to all undergraduates; ENG 100L restricted to applicants accepted into Global TIES",
+   "faculty_areas": [
+    "central",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Any (prerequisite: a college writing/foundation course)",
+   "eligibility_restrictions": "ENG 100L by application and department approval; ENG 100D prerequisite CAT 2/DOC 2/HUM 2/MCWP 40/MMW 2/WCWP 10B/SYN 1",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "ENG 100D 4 units; ENG 100L 2 units, repeatable six times",
+   "duration": "ENG 100D one quarter; ENG 100L long-term (multi-quarter)",
+   "delivery_format": "Team project courses",
+   "project_based": "Yes",
+   "project_evidence": "ENG 100D: 'Includes a group project designing a solution for a local or global nonprofit organization' [1]; ENG 100L: teams 'design, build, test, and deliver solutions to real-world problems' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in teams' (ENG 100L) and 'group project' (ENG 100D) [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Catalog states group project is 'for a local or global nonprofit organization' and 100L students work with nonprofits and their communities [1]; search summary of Global TIES site says teams work with an NGO on a real-world problem [2]. Nonprofit's role in supervision/feedback/receipt of output not verified on a fetched page (Global TIES site pages returned 404 to WebFetch).",
+   "partner_type": "Charity/community",
+   "partner_role": "Nonprofit/NGO partner for whom solution is designed; long-term community partners for 100L",
+   "named_partners": "Spring 2026 project list per search summary: Schoolhouse Ghana, Diabeatit!, Cruz Roja (Tijuana) [2]",
+   "deliverable": "Designed/built/tested solution (prototype/software) for nonprofit",
+   "duration_band": "~1 term/semester (100D); >1 term (100L)",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026 project list (search summary only); catalog current",
+   "participation_data": "",
+   "unresolved": "Global TIES site pages not fetchable; partner role in assessment/feedback not directly quoted; catalog page undated year (UCSD current catalog).",
+   "legacy_ref": "Global TIES",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalog.ucsd.edu/courses/ENG.html",
+     "title": "Engineering, Jacobs School of (course descriptions)",
+     "section": "ENG 100D, ENG 100L",
+     "pub_year": "current catalog (undated)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "ENG 100D: 'Includes a group project designing a solution for a local or global nonprofit organization.' 'ENG 100D is the gateway course for the Global TIES program, but it is open to all undergraduate students.' ENG 100L: 'Students work in teams to design, build, test, and deliver solutions to real-world problems'; 'Enrollment in this course is limited to students who have applied to and been accepted into the Global TIES program.' 'May be taken for credit six times.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://globalties.ucsd.edu/what/index.html",
+     "title": "Global TIES What We Do (search result summary)",
+     "section": "What we do / Projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: program partners interdisciplinary undergraduate teams with nonprofit NGOs; Spring 2026 projects include Schoolhouse Ghana, Diabeatit!, Cruz Roja. (Page returned 404 to WebFetch.)",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "i4X (The Basement, Office of Innovation and Commercialization)",
+   "english_name": "i4X multidisciplinary challenge program",
+   "module_code": "AIP 197 (optional credit)",
+   "description": "Two-quarter program in which multidisciplinary student teams work on real-world challenges provided by regional and national partners across industry, society and government tracks, with regular check-ins with the team, challenge partner and staff, ending in final presentations and a showcase.",
+   "academic_reach": "University-wide",
+   "admin_host": "The Basement / Office of Innovation and Commercialization (OIC)",
+   "eligible_faculties_programmes": "All current UC San Diego undergraduate and graduate students in good academic standing",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Good academic standing; application",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Mixed",
+   "credit_assessment": "AIP 197 credit available for undergraduates; Co-Curricular Record approved",
+   "duration": "Two quarters (Winter/Spring 2027: Jan-May 2027)",
+   "delivery_format": "Team challenge program",
+   "project_based": "Yes",
+   "project_evidence": "Teams work on 'real-world challenges'; final presentations and deliverables 11 May 2027, Demo Day 20 May 2027 [1].",
+   "group_working": "Yes",
+   "group_evidence": "'multidisciplinary teams of students' with 'Regular check-in meetings with the team, challenge partner, and Basement staff' [1]. Team size not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges 'provided by regional and national partners'; challenge partner attends regular check-ins [1]. Partners are non-university organisations (JLabs, Radicle Science, City of San Diego, San Diego Zoo) [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Provides challenge; attends regular check-ins with team",
+   "named_partners": "Past partners: JLabs, Radicle Science, City of San Diego, San Diego Zoo (page, undated)",
+   "deliverable": "Final presentation and deliverables; Demo Day showcase",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (Winter/Spring 2027 cohort, applications due 25 Oct 2026)",
+   "participation_data": "",
+   "unresolved": "Team size; whether partner assesses; number of participants.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://thebasement.ucsd.edu/programs/i4x.html",
+     "title": "i4X",
+     "section": "Program page",
+     "pub_year": "2026/27 cohort",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'an OIC-led program series designed to bring multidisciplinary student teams to collaborate on disruptive solutions'; 'real-world challenges provided by regional and national partners'; 'Open to all current UC San Diego undergraduate and graduate students in good academic standing'; 'AIP 197 credit is available for undergraduate students'; 'i4X is a two-quarter-long program'; 'Winter/Spring 2027 cohort runs from January 2027 - May 2027'; 'Regular check-in meetings with the team, challenge partner, and Basement staff'; past partners 'JLabs, Radicle Science, City of San Diego, and San Diego Zoo'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Rady Action Project (MBA capstone)",
+   "english_name": "Rady Action Project (RAP)",
+   "module_code": "",
+   "description": "MBA students work in teams of 4-6, guided by faculty, on a consulting project for a company or organisation, delivering a final presentation and executive summary.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Rady School of Management",
+   "eligible_faculties_programmes": "Rady MBA programmes (full-time/FlexEvening/Executive variants have hands-on pages)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "About 10 hours/week over 8 weeks (Jan-Mar or Mar-Jun)",
+   "delivery_format": "Team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Business cases/consulting project; 'Final presentation + Executive Summary' [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of 4-6 students, guided by faculty' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'work directly with companies'; past partners AAXIS, Amazon, Intel, Qualcomm, Sunrun, VA San Diego Healthcare System [2]; search summary says projects sourced from for-profit and non-profit organisations. Marked Yes because client companies are the stated norm on the fetched pages.",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client supplies problem; receives final presentation",
+   "named_partners": "AAXIS, Amazon, Intel, Qualcomm, Sunrun, VA San Diego Healthcare System (past partners, undated)",
+   "deliverable": "Final presentation + executive summary",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "No year on pages; whether RAP is required; credit.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://rady.ucsd.edu/partner-with-rady/",
+     "title": "Partner With Rady",
+     "section": "Rady Action Projects (MBA Capstone)",
+     "pub_year": "undated (footer copyright not seen)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Teams of 4-6 students, guided by faculty'; 'dedicate 10 hours/week over 8 weeks'; 'Final presentation + Executive Summary'; 'January-March or March-June'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://rady.ucsd.edu/programs/mba/academics/capstone.html",
+     "title": "MBA Capstone Project: Rady Action Project",
+     "section": "Page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'The Rady Action Project (RAP) provides a unique opportunity for MBA students to work directly with companies'; past partners include AAXIS, Amazon, Intel, Qualcomm, Sunrun, VA San Diego Healthcare System.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSBA Capstone Project (MS in Business Analytics)",
+   "english_name": "MSBA Capstone",
+   "module_code": "",
+   "description": "10-week applied engagement in which teams of typically 3-5 students solve real business problems for industry sponsors, with a faculty advisor and communication coaches, delivering analytics/AI solutions and an executive business case.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Rady School of Management",
+   "eligible_faculties_programmes": "MS in Business Analytics",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Typical capstone quarter 10 weeks, main window spring",
+   "delivery_format": "Team sponsor project",
+   "project_based": "Yes",
+   "project_evidence": "'teams solve real business problems for industry sponsors'; executive business case and technical outputs [1].",
+   "group_working": "Yes",
+   "group_evidence": "'The typical team size is 3-5 students' with faculty advisor [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry sponsors (Amazon, Mazda, Experian, HP, Qualcomm, Illumina, Thermo Fisher Scientific, Petco) supply projects; sponsors receive artifacts; 2025: 35 projects from 28 companies accepted [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsors propose projects (no fee), receive deliverables",
+   "named_partners": "Amazon, Mazda, Experian, HP, Qualcomm, Illumina, Thermo Fisher Scientific, Petco (page, undated list)",
+   "deliverable": "Executive-ready business case and analytics/AI solution",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 (cohort stats labelled 2025; page copyright 2026)",
+   "participation_data": "35 projects from 28 companies accepted in prior year (labelled 2025 feedback); 56 proposals",
+   "unresolved": "Whether capstone is required; credit.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://rady.ucsd.edu/programs/ms-business-analytics/academics/capstone.html",
+     "title": "MSBA Capstone Project",
+     "section": "Page",
+     "pub_year": "2025/2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "10-week applied-learning engagement 'teams solve real business problems for industry sponsors'; 'typical team size is 3-5 students'; sponsors Amazon, Mazda, Experian, HP, Qualcomm, Illumina, Thermo Fisher Scientific, Petco; accepted 35 proposals from 28 companies.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MAE 156B Mechanical Design II (sponsored senior design)",
+   "english_name": "MAE 156B sponsored design projects",
+   "module_code": "MAE 156B",
+   "description": "Mechanical engineering student teams solve real-world engineering problems for project sponsors, producing a working hardware prototype. Sponsors are a mix of external companies (e.g. ATA Engineering) and UCSD internal faculty/units.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Mechanical and Aerospace Engineering, Jacobs School",
+   "eligible_faculties_programmes": "Mechanical engineering seniors",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "10-week quarter",
+   "delivery_format": "Team prototype project",
+   "project_based": "Yes",
+   "project_evidence": "'All projects require development of a working hardware prototype' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'In MAE156B students teams solve real world engineer problems for project sponsors' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sponsors include external company ATA Engineering but several listed sponsors are UCSD faculty/units (Radiation Medicine, Animal Care Program, ECE education) per search summary [2]; mixed internal/external, external share not documented, so Unclear.",
+   "partner_type": "Mixed",
+   "partner_role": "Project sponsor (internal UCSD units and some companies)",
+   "named_partners": "ATA Engineering (external); internal UCSD sponsors per search summary",
+   "deliverable": "Working hardware prototype",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026 (project links sheet)",
+   "participation_data": "",
+   "unresolved": "Share of external vs internal sponsors; compulsory status. Similar sponsored capstones exist in ECE (ECE 191) and Bioengineering (BENG 187/188; sponsors from 'academia, government, or industry' with a UCSD faculty member) - further departmental instances likely.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://mae156b.eng.ucsd.edu/",
+     "title": "MAE156B",
+     "section": "Course overview",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'In MAE156B students teams solve real world engineer problems for project sponsors.' 'All projects require development of a working hardware prototype.' Projects page references '2026 Spring Project Links Sheet'.",
+     "supports": [
+      "project",
+      "group",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://mae156b.eng.ucsd.edu/projects",
+     "title": "MAE156B Projects",
+     "section": "Projects (search summary)",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary lists sponsors: RadiCal (UCSD Radiation Medicine and Applied Sciences), Kapitza's Pendulum (UCSD ECE), MIPS Test Table (ATA Engineering), Animal Care Processing (UCSD Animal Care Program), GPS Base Station (CHEI).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Senior Capstone Program (HDSI/Halicioglu data science industry-mentor capstone, DSC 180A/B)",
+   "english_name": "Data Science Senior Capstone with industry partners",
+   "module_code": "DSC 180A/180B",
+   "description": "Two-quarter senior data science capstone in which small groups solve real-world data science problems; industry partners (e.g. Prism Data, SDG&E) run capstone projects and mentor teams.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Halicioglu Data Science Institute / School of Data Science and Computing",
+   "eligible_faculties_programmes": "Data science undergraduate majors (inferred)",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "Two quarters (DSC 180A Fall 2026, 180B Winter 2027); Prism project 'six-month'",
+   "delivery_format": "Group capstone with industry mentors",
+   "project_based": "Yes",
+   "project_evidence": "Students solve a real-world data science problem over two quarters (search summary of course listing) [2].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work as part of a small group' (search summary) [2]; article refers to partner 'team' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Article (21 Oct 2025) says industry partners Prism Data and SDG&E mentor capstone teams, SDG&E brings students into its facilities [1]; but not every capstone project is industry-sponsored (domain 'of their choosing'), so external coverage is unclear.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry mentors; run capstone projects",
+   "named_partners": "Prism Data, San Diego Gas & Electric (article 21 Oct 2025)",
+   "deliverable": "Data science project outputs",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (DSC 180A Fall 2026 listing per search summary)",
+   "participation_data": "'70+ annual capstone projects in collaboration with industry' per search summary of HDSI industry page (not fetched)",
+   "unresolved": "Whether capstone is required, share of industry-sponsored projects, group size.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://today.ucsd.edu/story/hdsi-industry-mentor-capstone-fosters-benefits-for-students-and-employers",
+     "title": "HDSI Industry-Mentor Capstone Fosters Benefits for Students and Employers",
+     "section": "Article",
+     "pub_year": "2025-10-21",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Describes Senior Capstone Program; Prism Data and SDG&E mentors guided student cohorts/team; SDG&E 'immersive approach to mentorship'. Article does not state who proposes projects or group size.",
+     "supports": [
+      "employer",
+      "status",
+      "group"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://datascience.ucsd.edu/current-students/course-offerings/",
+     "title": "Course Offerings (search summary)",
+     "section": "DSC 180A/B",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: two-quarter sequence, small group, real-world data science problem; DSC-180A Fall 2026, 180B Winter 2027.",
+     "supports": [
+      "project",
+      "group",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Global TIES",
+   "legacy": true,
+   "category": "Other",
+   "reason": "Reassessed as scheme S1.",
+   "source_url": "https://catalog.ucsd.edu/courses/ENG.html",
+   "status_note": "see S1"
+  },
+  {
+   "name": "Teams in Engineering Service (TIES, Sixth College)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Catalog (via search summary) says multidisciplinary teams build projects for San Diego nonprofits; not opened or verified for current delivery.",
+   "source_url": "https://catalog.ucsd.edu/undergraduate/colleges/sixth-college/index.html",
+   "status_note": "lead"
+  },
+  {
+   "name": "GPS client courses (GPCO 463, GPCO 466, GPIM 473, GPGN 492)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Catalog descriptions mention client company teams (GPCO 466: 'work in small teams with clients') and start-ups, but no current-year, named-client or required-status evidence; GPGN 492 is independent. Catalog text only.",
+   "source_url": "https://catalog.ucsd.edu/courses/GPS.html",
+   "status_note": "lead; GPS students only"
+  },
+  {
+   "name": "Rady Independent Study / Executive & FlexEvening MBA hands-on pages",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Variants of RAP; same scheme, not separately verified.",
+   "source_url": "https://rady.ucsd.edu/programs/flex-evening-mba/academics/hands-on-experience.html",
+   "status_note": ""
+  },
+  {
+   "name": "Jacobs Team Internship Program (TIP)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Fetched CAP page gives only the name; no description of group project work.",
+   "source_url": "https://jacobsschool.ucsd.edu/cap/partners",
+   "status_note": ""
+  },
+  {
+   "name": "Community Pathways",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Volunteer programme, not a bounded project.",
+   "source_url": "https://getinvolved.ucsd.edu/service/community-pathways/index.html",
+   "status_note": ""
+  },
+  {
+   "name": "USP 128B / USP 163 community projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Catalog titles only; team structure and partner role not verified.",
+   "source_url": "https://catalog.ucsd.edu/courses/USP.html",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "UC San Diego has one university-wide, partner-set team route and several programme-level routes. **i4X** (The Basement) puts multidisciplinary graduate/undergraduate teams on challenges supplied by regional and national partners (JLabs, City of San Diego, San Diego Zoo) over two quarters, with partner check-ins; the Winter/Spring 2027 cohort is recruiting. **Global TIES** (ENG 100D open to all undergraduates, ENG 100L by application) has teams design solutions for nonprofits/NGOs; the legacy row is reassessed here, with partner role evidenced mainly by catalog wording. In business, the **Rady Action Project** (MBA teams of 4-6, about 8 weeks) and the **MSBA Capstone** (teams of 3-5, 10 weeks, 28 companies in the cited year) work with named companies; RAP's year and required status are not shown. Engineering (MAE 156B, Bioengineering BENG 187/188, ECE) and data science (DSC 180A/B) have sponsored team capstones, but sponsors include UCSD faculty and units, so external connection is only Unclear. GPS catalog courses mention client teams without current evidence. Nothing was verified for natural sciences, arts/humanities or health. Where clients are internal UCSD units (e.g. MAE 156B faculty sponsors) they do not satisfy the employer criterion.",
+ "gaps": "Global TIES site pages returned 404 to WebFetch (partner role evidenced via catalog and search summary). Rady RAP/MSBA pages undated for RAP; required status unknown for RAP, MSBA, MAE 156B, DSC 180. ECE 191 and BENG 187/188 not separately recorded; further departmental capstones likely. TIES (Sixth College), GPS client courses, USP community courses unverified. Natural sciences and health sciences not found/searched; HDSI industry page and 70+ projects figure only from search summary."
+}

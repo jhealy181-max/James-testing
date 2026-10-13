@@ -1,0 +1,577 @@
+{
+ "inst_id": "US19",
+ "institution": "Southern California",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "USC Dornsife Joint Educational Project student sign up",
+    "USC Career Center employer partnership student project teams real-world clients"
+   ],
+   "key_sources": [
+    "https://dornsife.usc.edu/joint-educational-project/service-learning-opportunities/",
+    "https://careers.usc.edu/employer-partnership-program/"
+   ],
+   "finding": "JEP is the legacy central route but evidence shows placements with no team project; Career Center offers employer sponsorship and Trojan Network short projects (2-8 weeks) with no team/project-cohort evidence."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "USC Marshall consulting live client student teams",
+    "USC Marshall Global Consulting / Experiential Learning Center BUAD",
+    "USC Marshall BUAD 114 Global Social Impact"
+   ],
+   "key_sources": [
+    "https://students.marshall.usc.edu/current-students/marshall-global-programs-and-partnerships/global-social-impact-gsi",
+    "https://www.marshall.usc.edu/why-marshall/real-world-learning"
+   ],
+   "finding": "BUAD 114 GSI (WBB only) qualifies on A/B/C; Marshall real-world-learning page shows no live-client team course; MCSC is a student club; BUAD 493 honors seminar (partners Gunugu Sewu etc., 2023) is a lead."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "USC Viterbi Capstone industry sponsored project teams",
+    "USC Viterbi senior design sponsor industry capstone 2025/2026",
+    "EE 459Lx inter-school programs"
+   ],
+   "key_sources": [
+    "https://viterbischool.usc.edu/news/2025/12/ambitious-seniors-design-and-build-solutions-to-the-toughest-engineering-problems/",
+    "https://viterbischool.usc.edu/division-of-engineering-education/inter-school-programs/"
+   ],
+   "finding": "AME senior design (Dec 2025) is team-based but article names no sponsors; EE 459Lx pairs engineering with marketing teams without external sponsors; no standard sponsored capstone verified."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "USC Dornsife natural sciences/biology/environmental studies capstone external partner student teams"
+   ],
+   "key_sources": [
+    "https://dornsife.usc.edu/teaching-in-dornsife/teaching-in-letters-arts-and-sciences/dornsife-capstone-courses/"
+   ],
+   "finding": "No external-partner team capstone verified in natural sciences; Earth Sciences GEOL 387a team research and HSGI GEOINT capstone are leads (HSGI group basis unclear)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "USC Annenberg Think Tank course industry partners",
+    "USC Price School capstone client MPA",
+    "USC Price MPP practicum"
+   ],
+   "key_sources": [
+    "https://priceschool.usc.edu/mpp/curriculum/practicum/",
+    "https://annenberg.usc.edu/about/think-tank-courses"
+   ],
+   "finding": "Price School MPP practicum and MPA capstone are the strongest routes (team client projects); Annenberg think tank courses are company-linked but team basis undocumented."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "USC Iovine and Young Academy capstone / Impact and Industry Labs",
+    "ACAD 376 Industry Practicum",
+    "Glorya Kaufman / Price capstone"
+   ],
+   "key_sources": [
+    "https://exscll.usc.edu/projects-library/gamifying-sustainability-with-replay-drop-off-level-up-fight-on/"
+   ],
+   "finding": "IYA industry practicum is team-oriented with partner-based model but dated example used internal USC units; law, medicine, social work (MSW field placements), architecture and cinema not queried individually."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Joint Educational Project (JEP) service-learning placements",
+   "module_code": "",
+   "admin_host": "Dornsife College of Letters, Arts and Sciences",
+   "faculty_areas": [
+    "central",
+    "arts_humanities_social_sciences"
+   ],
+   "year_of_study": "",
+   "eligibility_restrictions": "Online sign-up; TB test; LiveScan for work with minors; training each semester",
+   "credit_assessment": "Course-linked (credit via partner course) or non-credit volunteering",
+   "delivery_format": "Placement at school/non-profit",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "Fall 2026 (sign-up 24 Aug-4 Sep 2026)",
+   "participation_data": "",
+   "unresolved": "Which partner courses (if any) use a team consultancy-type project; per-route evidence needed.",
+   "legacy_ref": "Joint Educational Project (JEP)",
+   "local_id": "S1",
+   "official_name": "Joint Educational Project (JEP) service-learning placements",
+   "description": "Students in partner courses (or non-credit volunteers) are placed at local schools and non-profits for a semester of service-learning, with training, TB test and LiveScan for those working with minors. The JEP faculty page describes a 'project-based service-learning' model in which students 'typically work in teams' as consultants for a client, but this is one of six listed service-learning models and no specific team-based course or output is identified.",
+   "academic_reach": "Cross-faculty",
+   "eligible_faculties_programmes": "Students in courses that 'agreed to partner with JEP', or non-credit volunteers; schools represented beyond Dornsife not re-verified",
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "duration": "Semester",
+   "project_based": "Unclear",
+   "project_evidence": "Placement/service-learning; page does not describe a bounded project or output [1]. Faculty page lists project-based service-learning as one model without naming courses [2].",
+   "group_working": "Unclear",
+   "group_evidence": "Service-learning page does not say whether assignments are individual or group [1]; faculty page says 'typically working in teams' for the project-based model only [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Schools and non-profits host students [1]; role in setting briefs or receiving outputs not evidenced for any specific route.",
+   "partner_type": "Charity/community",
+   "partner_role": "Host placement site (schools, non-profits)",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://dornsife.usc.edu/joint-educational-project/service-learning-opportunities/",
+     "title": "Service Learning Opportunities - USC JEP",
+     "section": "Main",
+     "pub_year": "2026 footer",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; not verbatim full text)",
+     "extract": "Placements at 'schools and non-profits'; join via a course that has 'agreed to partner with JEP' or as a non-credit volunteer; no mention of group projects.",
+     "supports": [
+      "eligibility",
+      "participation",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://dornsife.usc.edu/joint-educational-project/faculty-resources/",
+     "title": "Faculty Resources - USC JEP",
+     "section": "Service-learning models",
+     "pub_year": "2026 footer",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; not verbatim full text)",
+     "extract": "'Project-Based Service-Learning' model: students, 'typically working in teams', engage with the community as 'consultants' for a client; limited contact with community partners noted; no courses named.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://dornsife.usc.edu/joint-educational-project/student-sign-up/",
+     "title": "Student Sign Up - USC JEP",
+     "section": "Sign-up",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Fall 2026 sign-up open 24 Aug 2026 8:30am to 4 Sep 2026 5pm.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "MPP Policy Analysis Practicum (Price MPP capstone)",
+   "module_code": "",
+   "admin_host": "USC Price School of Public Policy",
+   "faculty_areas": [
+    "other",
+    "arts_humanities_social_sciences"
+   ],
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not stated on page",
+   "delivery_format": "Team client project",
+   "named_partners": "Congressional Research Service; EPA; GAO; Los Angeles Mayor's Office; National Park Service; Deloitte; LG Corporation; Southern California Gas Company; United Nations; Urban Institute (undated 'recent clients' list)",
+   "deliverable": "Policy review/proposal and final report with brief for client",
+   "duration_band": ">1 term",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Page undated (footer year only); no 2025/26 or 2026/27 cohort source. Whether practicum is compulsory not stated on page. Credit not stated.",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "MPP Policy Analysis Practicum (Price MPP capstone)",
+   "description": "Two-semester MPP capstone in which students are assigned to small teams (by skills and interests) to research and identify policy opportunities on behalf of a client; deliverables include a review and proposal approved by the client, draft reports to instructors and client, and a final written report with brief and recommendations. Recent clients include federal, state, local government, UN, think-tank and some commercial organisations.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Master of Public Policy (MPP)",
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Two semesters",
+   "project_based": "Yes",
+   "project_evidence": "Review and proposal approved by client, draft and final written report with policy recommendations [1].",
+   "group_working": "Yes",
+   "group_evidence": "'small teams to conduct research... on behalf of a client'; groups assigned on skills and interests [1] (search-index text also: clients recruited by the program).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Named external clients (e.g. Congressional Research Service, EPA, GAO, LA Mayor's Office, National Park Service, Deloitte, LG Corporation, Southern California Gas Company, United Nations, The Urban Institute); client approves the proposal and receives draft and final reports [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: receives research, approves proposal, receives reports",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://priceschool.usc.edu/mpp/curriculum/practicum/",
+     "title": "MPP Policy Analysis Practicum",
+     "section": "Practicum page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; not verbatim full text)",
+     "extract": "Students work in 'small teams to conduct research and identify policy-based opportunities on behalf of a client'; groups assigned by skills/interests; deliverables include review and proposal 'to be approved by the client'; conducted over two semesters; lists recent clients incl. GAO, EPA, Deloitte, LG Corporation, United Nations.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "PPD 546 Capstone in Public Administration (MPA)",
+   "module_code": "PPD 546",
+   "admin_host": "USC Price School of Public Policy",
+   "faculty_areas": [
+    "other",
+    "arts_humanities_social_sciences"
+   ],
+   "year_of_study": "Final semester / last 12 units",
+   "eligibility_restrictions": "",
+   "credit_assessment": "4 units",
+   "delivery_format": "Team client project (on-campus and online variants)",
+   "named_partners": "Examples from search results: Colorado Institute of Music; Wilmington (DE) homeless services centre; Detroit housing nonprofit (dates not verified)",
+   "deliverable": "Project report + client communications briefing",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Group and external-client evidence comes from search-index text of USC Price Online pages (uscpriceonline.usc.edu could not be fetched from this environment); no dated 2025/26 cohort evidence.",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "PPD 546 Capstone in Public Administration (MPA)",
+   "description": "Compulsory 4-unit MPA capstone taken in the final semester: a policy or management analysis for an organizational client. Search-indexed Price pages describe teams of three or four producing a comprehensive project report and communications briefing for the client; clients range from local/state/federal government and nonprofits to private-sector firms. Online MPA has a Los Angeles capstone residency.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Master of Public Administration (on-campus and online)",
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Final semester",
+   "project_based": "Yes",
+   "project_evidence": "Policy or management analysis for an organizational client; project report and briefing [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Search-index extract of Price online MPA pages: groups of three or four work with outside clients [2]; fetched curriculum page does not state group size [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'organizational client' [1]; search extract: clients include local/state governments, nonprofits, criminal justice systems, federal agencies, private-sector firms [2]. Internal-client share not stated.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: receives project report and briefing",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://priceschool.usc.edu/academics/masters/master-of-public-administration-mpa/mpa-curriculum/",
+     "title": "MPA Curriculum - USC Price",
+     "section": "Capstone requirement",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; not verbatim full text)",
+     "extract": "PPD 546 Capstone in Public Administration is a 4-unit requirement, 'must be taken in the final semester or the last 12 units'; requires 'a policy or management analysis for an organizational client'.",
+     "supports": [
+      "project",
+      "employer",
+      "participation",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://uscpriceonline.usc.edu/public-administration/academics/capstone-residencies/",
+     "title": "Capstone and Residencies - USC Price Online",
+     "section": "Capstone",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Students in groups of three or four work with outside clients and produce a comprehensive project report and communications briefing; clients include local/state government, nonprofits, federal agencies, private-sector firms.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "BUAD 114 Global Social Impact (GSI)",
+   "module_code": "BUAD 114",
+   "admin_host": "USC Marshall School of Business (Global Programs and Partnerships)",
+   "faculty_areas": [
+    "business"
+   ],
+   "year_of_study": "Year 1",
+   "eligibility_restrictions": "Enrolment limited to World Bachelor in Business students",
+   "credit_assessment": "2 units",
+   "delivery_format": "Team consulting project with international/field trip",
+   "named_partners": "Not named for current cohort (older: Emzingo, 2018 syllabus)",
+   "deliverable": "Findings and recommendations presented to partner",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "undated (page undated)",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26-2026/27 cohort or schedule entry for BUAD 114 confirmed; compulsory status within WBB inferred from 'first-year WBB course', not from regulations; catalogue wording (NGO/social enterprise) differs from current page (company partner).",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "BUAD 114 Global Social Impact (GSI)",
+   "description": "2-unit course for first-year World Bachelor in Business students: student teams do a consulting project for a selected company partner during the semester, with a week-long immersion in Silicon Valley/San Francisco, then present findings and recommendations. Older versions used NGO/social-enterprise partners in Peru/Brazil.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "World Bachelor in Business (WBB), first year only",
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "One semester plus 8-10 day trip",
+   "project_based": "Yes",
+   "project_evidence": "Consulting project with findings and recommendations presented at end [1].",
+   "group_working": "Yes",
+   "group_evidence": "'student teams present their findings and recommendations' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams 'develop solutions to real business challenges for a company partner'; search summary of Marshall GPP page: meet partner on location and present recommendations [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: company partner supplies challenge, receives recommendations",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://students.marshall.usc.edu/current-students/marshall-global-programs-and-partnerships/global-social-impact-gsi",
+     "title": "Global Social Impact (GSI)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; not verbatim full text)",
+     "extract": "'Global Social Impact (GSI) is a course offered to first-year World Bachelor in Business (WBB) students'; two-credit; consulting project with selected companies; 'student teams present their findings and recommendations'; week in Silicon Valley/San Francisco.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://catalogue.usc.edu/preview_course_nopop.php?catoid=14&coid=221974",
+     "title": "BUAD 114 Global Social Impact - USC Catalogue",
+     "section": "Course description",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Team projects, international travel and presentations; 'Enrollment limited to students in the World Bachelor in Business degree program'.",
+     "supports": [
+      "group",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "ACAD 376 Industry Practicum I (Iovine and Young Academy)",
+   "module_code": "ACAD 376",
+   "admin_host": "USC Iovine and Young Academy",
+   "faculty_areas": [
+    "other",
+    "engineering_computing"
+   ],
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "4 units",
+   "delivery_format": "Practicum",
+   "named_partners": "Academy-level (undated, not route-specific): adidas, Samsung, Volkswagen/Audi, Cigna, Adobe, TOMS Shoes, American Heart Association",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "Fall 2026 schedule listing (per search result); Fall 2025 project",
+   "participation_data": "",
+   "unresolved": "Whether external partners are standard in ACAD 376; whether compulsory for the BS Business of Innovation; team basis. Fetch of schedule page returned no entries.",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "official_name": "ACAD 376 Industry Practicum I (Iovine and Young Academy)",
+   "description": "4-unit Industry Practicum 'Designing and Implementing Real-World Solutions' within IYA's Challenge-Based Reflective Learning model, in which teams work on challenges from industry and community partners. The one dated example found (Fall 2025) was a group sustainability project with USC Hospitality and the USC Office of Sustainability, which are internal university units.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "IYA majors (D-Clearance; non-majors may enquire)",
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Unclear",
+   "project_evidence": "Course title 'Designing and Implementing Real-World Solutions' (search-index); no brief or output evidenced for the standard route [1].",
+   "group_working": "Unclear",
+   "group_evidence": "One student example describes working 'with a group' in Fall 2025; IYA says 'diverse teams' generally [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Dated Fall 2025 example client is internal (USC Hospitality, Office of Sustainability) so does not satisfy C. IYA pages list external collaborators (adidas, Samsung, Cigna etc.) but not tied to ACAD 376 or to dates [1]. Compulsory status not verified.",
+   "partner_type": "Mixed",
+   "partner_role": "Internal USC units in the dated example; external companies claimed at Academy level",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://exscll.usc.edu/projects-library/gamifying-sustainability-with-replay-drop-off-level-up-fight-on/",
+     "title": "Gamifying Sustainability with RePlay",
+     "section": "Project page",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Student worked with a group on a sustainability project with USC Hospitality and the USC Office of Sustainability in Fall 2025 as part of ACAD 376 Industry Practicum (Prof. Yihyun Lim).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://classes.usc.edu/term/20263/school/ACAD/program/ACAD",
+     "title": "Arts, Technology and the Business of Innovation - Fall 2026",
+     "section": "Schedule of Classes",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "ACAD 376 listed for Fall 2026 (4 units); D-Clearance often limited to majors. (Direct fetch of the page returned no entries.)",
+     "supports": [
+      "status",
+      "eligibility",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Annenberg think tank courses",
+   "module_code": "",
+   "admin_host": "USC Annenberg School for Communication and Journalism",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "named_partners": "Acceleration Community of Companies (ACC); OffBall (undated; ACC course spring 2024 per search summary)",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "2024 (ACC cohort, per search summary)",
+   "participation_data": "",
+   "unresolved": "Team basis, deliverables, credit, whether further think tank courses currently run.",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "official_name": "Annenberg think tank courses",
+   "description": "Annenberg's 'think tank' course model places students (e.g. master's PR students in a directed research course for Acceleration Community of Companies; students working with the startup OffBall on a campus media product and national roll-out pitch) on real company problems. Team structure, standard availability and dates are not documented.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Annenberg students in specific courses",
+   "student_level": "Mixed",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "project_based": "Unclear",
+   "project_evidence": "OffBall: contributed to editorial decisions, developed a campus media product, pitched a roll-out strategy [1]; ACC course deliverables not listed.",
+   "group_working": "Unclear",
+   "group_evidence": "Page does not use the word 'teams'; search summary says about a dozen master's students presented results to ACC leadership.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Company partners (ACC, OffBall) are named as industry partners who benefit from the students' work [1]; limited to the two named courses.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partner/client",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://annenberg.usc.edu/about/think-tank-courses",
+     "title": "Think tank courses",
+     "section": "Main",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; not verbatim full text)",
+     "extract": "'USC Annenberg's think tank course model provides an experiential learning framework'; named partners ACC and OffBall; 'Industry partners, in turn, gain valuable insight'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Viterbi AME Senior Design (Dec 2025 showcase)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams of four, showcase 5 Dec 2025, but the article names no sponsors or client; only an adviser and USC Racing (student team). Earlier NASA-sponsored team mention (2024/2025 awards) is not tied to standard delivery.",
+   "source_url": "https://viterbischool.usc.edu/news/2025/12/ambitious-seniors-design-and-build-solutions-to-the-toughest-engineering-problems/",
+   "status_note": "Current delivery for team design; employer link unestablished"
+  },
+  {
+   "name": "EE 459Lx Embedded Systems Design Laboratory",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Interdisciplinary engineering/marketing teams build a prototype, but page names no external client or sponsor; marketing teams are internal students.",
+   "source_url": "https://viterbischool.usc.edu/division-of-engineering-education/inter-school-programs/",
+   "status_note": "Page updated March 2026"
+  },
+  {
+   "name": "Engineering in Society (WRIT 340 client projects: WIES, ACES, Weingart Center)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group reports for external/internal clients but evidence dated Spring 2017-Fall 2021; WIES is a USC institute (internal); not shown to be current.",
+   "source_url": "https://eis.usc.edu/projects/",
+   "status_note": "Historical delivery only evidenced"
+  },
+  {
+   "name": "MS Human Security and Geospatial Intelligence capstone (GEOINT partners)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Capstone with a GEOINT partner organisation, but individual vs team and partner names/terms not stated.",
+   "source_url": "https://dornsife.usc.edu/masters-professional-programs/",
+   "status_note": "Undated"
+  },
+  {
+   "name": "BUAD 493 Global Applied Honors Research Seminar",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Project-based course with partner organisations (Gunugu Sewu, Pan Brothers, OK OCE, Pearl Dairy) but evidence is an Oct 2023 article; team basis and current delivery not shown.",
+   "source_url": "https://global.usc.edu/usc-marshall-courses-real-world-global-experience/",
+   "status_note": "2023"
+  },
+  {
+   "name": "Trojan Network short-term student projects (Career Center)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Employers post 2-8 week projects for current students; no evidence of team basis or structured cohort.",
+   "source_url": "https://careers.usc.edu/",
+   "status_note": "Undated"
+  },
+  {
+   "name": "Center for Investment Studies student-managed funds; Marshall Consulting & Strategy Club",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Fund management has no external client; consulting clubs described as recruiting prep and case competitions.",
+   "source_url": "https://www.marshall.usc.edu/why-marshall/real-world-learning",
+   "status_note": ""
+  },
+  {
+   "name": "Viterbi Startup Garage Summer Smasher; USC Games Advanced Game Projects",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Startup/studio models; no evidence of external-client team projects.",
+   "source_url": "https://viterbischool.usc.edu/news/2024/03/the-usc-viterbi-startup-garage-fostering-the-next-wave-of-tech-innovators/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Research at USC (reduced depth, about 14 searches plus page fetches) found team-based client projects concentrated in particular schools rather than an institution-wide scheme. The Price School of Public Policy has the clearest routes: the two-semester MPP Policy Analysis Practicum (small teams working for named government, UN, think-tank and some commercial clients, with a client-approved proposal and reports) and the compulsory 4-unit MPA capstone PPD 546 (teams of three or four per search-indexed Price Online text, with an organizational client). Marshall's BUAD 114 Global Social Impact is a team consulting project for a company partner, but is limited to first-year World Bachelor in Business students. The Iovine and Young Academy Industry Practicum (ACAD 376) and Annenberg think tank courses involve company or community partners, but team basis and standard external-client coverage are not documented; the only dated ACAD 376 example used internal USC units as clients. The legacy Joint Educational Project (Dornsife) is service-learning placement at schools and non-profits and no bounded team project was evidenced. Engineering senior design (AME, EE 459Lx) is team-based but without documented external sponsors. None of the three routes meeting all criteria could be confirmed as current by a dated 2025/26 or 2026/27 source, so all are 'Current status unclear'. Participation numbers were not published in the sources found.",
+ "gaps": "No dated 2025/26-2026/27 evidence for S2, S3, S4 (pages undated; uscpriceonline.usc.edu and publicadmin.usc.edu did not resolve via WebFetch, so MPA group/client evidence is search-index only). Not researched: Viterbi CS/ISE capstones (e.g. CSCI 401, ISE), Gould Law clinics, Keck/health, Social Work field placements (individual placements likely), Roski, Cinematic Arts, Architecture, Kaufman, Dornsife departmental capstones (GEOL 387a, Anthropology), Lloyd Greif Center, Marshall MOR 462, BUAD 493. Further departmental instances likely."
+}

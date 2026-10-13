@@ -1,8 +1,8 @@
 {
  "inst_id": "US20",
  "institution": "Texas Austin",
- "review_status": "Partial",
- "partial_remaining": "Dedicated 'other' area query (law clinics, Dell Medical, architecture, design) not run; LIFT, Bridging Disciplines, Impact Lab partner roles and 2025/26 status of ECE/ME/McCombs+ unverified.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -64,10 +64,14 @@
   "other": {
    "status": "Searched",
    "queries": [
-    "covered by cross-area searches: LBJ (public affairs), McCombs/Brumley (law, pharmacy students eligible); no dedicated law, health, design or architecture query"
+    "UT Austin School of Law clinic OR Dell Medical School OR School of Architecture OR Design student teams client project course",
+    "Applied Cybersecurity Clinic Practicum UT Austin iSchool teams client organization"
    ],
-   "key_sources": [],
-   "finding": "No dedicated query for law, Dell Medical, architecture or design; recorded as a gap."
+   "key_sources": [
+    "https://ischool.utexas.edu/programs/class-schedules/i-320-topics-informatics-applied-cybersecurity-clinic-practicum-27455",
+    "https://law.utexas.edu/courses/?page=all"
+   ],
+   "finding": "iSchool cybersecurity clinic practicum is a team client route; law clinics are casework leads; nothing found for architecture, design or Dell Medical (one combined query only)."
   }
  },
  "schemes": [
@@ -517,6 +521,67 @@
      ]
     }
    ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "I 320",
+   "named_partners": "Ballot's Bowwow Box (past client, Spring 2025 Foundations syllabus)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "Applied Cybersecurity Clinic Practicum",
+   "local_id": "S8",
+   "official_name": "Applied Cybersecurity Clinic Practicum (I 320), Texas Cybersecurity Clinic",
+   "description": "Second semester of a two-semester sequence (Foundations then Practicum): supervised student teams provide pro bono cybersecurity assessment and an improvement project plan and final engagement report for a Central Texas small business, municipal government or nonprofit client.",
+   "academic_reach": "Unclear",
+   "admin_host": "School of Information with Strauss Center (Texas Cybersecurity Clinic)",
+   "eligible_faculties_programmes": "Upper-division students; application via Strauss Center; no prior cybersecurity experience required",
+   "faculty_areas": [
+    "engineering_computing",
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Upper-division",
+   "eligibility_restrictions": "Upper-division standing; small cohort committing to both semesters",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Biweekly check-ins 30% of grade; client, mentor and teammate surveys contribute",
+   "duration": "Two semesters (Practicum is second)",
+   "delivery_format": "Supervised team client engagement",
+   "project_based": "Yes",
+   "project_evidence": "Project plan agreed with client and final engagement report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students 'work within their assigned teams' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation reviews and agrees the project plan, receives the final report and contributes a survey to grading [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: agrees plan, receives report, feeds grading",
+   "deliverable": "Cybersecurity improvement plan and engagement report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024-25 (applications March 2025)",
+   "unresolved": "Source is a search-result paraphrase, page not opened; no 2025/26-2026/27 cohort evidence; school affiliation of eligible programmes not confirmed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://ischool.utexas.edu/programs/class-schedules/i-320-topics-informatics-applied-cybersecurity-clinic-practicum-27455",
+     "title": "I 320: Applied Cybersecurity Clinic Practicum",
+     "section": "Class schedule / syllabus",
+     "pub_year": "2024-25",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams take on a client organisation (Central Texas small business, municipal government or nonprofit) and produce an improvement plan; project plan reviewed and agreed by client; final engagement report to client.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
@@ -551,9 +616,17 @@
    "reason": "Leads from search summaries only; not opened (reduced-depth).",
    "source_url": "https://cockrell.utexas.edu/connect/industry-engagement/student-projects-and-programs/",
    "status_note": ""
+  },
+  {
+   "name": "Law School clinics (Entrepreneurship/Community Development Clinic, Environmental Clinic)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary shows student representation of external clients but this is casework; group working and team output not evidenced; not opened.",
+   "source_url": "https://law.utexas.edu/courses/?page=all",
+   "status_note": ""
   }
  ],
  "embeddedness": "Several distributed routes",
  "profile_md": "UT Austin has several employer-linked team routes, distributed by school rather than institution-wide. The strongest is the LBJ School Policy Research Project, a year-long second-year MPAff capstone in which teams work for a real client (agencies, school district, foundations) and deliver a report; a Spring 2026 section is listed. Cockrell ECE and ME require senior capstones with company-submitted projects (teams of 5-7 and 3-4; company technical mentors in ECE), but pages are undated. McCombs offers MBA micro-consulting (McCombs+ Projects, 8-10 weeks, extracurricular) and a campus-wide graduate Startup Consulting Practicum (applications open for Fall 2026 and Spring 2027, team structure unstated). Moody's The Lab runs agency-style campaigns for clients such as State Farm (Spring 2025), though some clients, e.g. Texas Athletics, are internal units. The legacy PUC service-learning sequence is open to engineering and social work undergraduates (applications to August 2026), but team structure and NGO roles are not evidenced. No university-wide scheme was verified.",
- "gaps": "Law, health, design and architecture not searched. Further departmental capstones likely (aerospace, biomedical, materials, CS). 2026/27 client rosters not found. Harkey Institute not researched."
+ "gaps": "Architecture, design and Dell Medical only covered by one combined query. Further departmental capstones likely (aerospace, biomedical, materials, CS). 2026/27 client rosters not found. Harkey Institute not researched."
 }

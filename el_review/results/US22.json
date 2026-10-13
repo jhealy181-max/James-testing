@@ -1,0 +1,424 @@
+{
+ "inst_id": "US22",
+ "institution": "Brown University",
+ "review_status": "Partial",
+ "partial_remaining": "arts_humanities_social_sciences area not yet queried.",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Brown University Swearer Center student teams community partner project course",
+    "WebFetch CBLR (college.brown.edu), Swearer CBLR page, CEDEC page"
+   ],
+   "key_sources": [
+    "https://college.brown.edu/design-your-education/explore-open-curriculum/course-selection/course-options/cblr",
+    "https://swearer.brown.edu/faculty-staff/data-and-evaluation-partnerships"
+   ],
+   "finding": "CBLR designation across departments and CEDEC (partner-scoped student teams); no institution-wide compulsory employer project."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Brown Executive Master in Healthcare Leadership OR IE Brown Executive MBA OR Brown entrepreneurship program student consulting client project"
+   ],
+   "key_sources": [
+    "https://professional.brown.edu/academics/masters/healthcare/curriculum"
+   ],
+   "finding": "Brown has no undergraduate business school; only executive/professional programmes found; healthcare leadership capstone is self-selected, not client-based."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Brown University engineering capstone design project industry sponsor ENGN 1930 team",
+    "CSCI 1951I CS for Social Change course project partner organizations teams semester"
+   ],
+   "key_sources": [
+    "https://cs.brown.edu/courses/cs1951i/",
+    "https://selfservice.brown.edu/ss/bwckctlg.p_disp_course_detail?cat_term_in=201820&subj_code_in=ENGN&crse_numb_in=1930L"
+   ],
+   "finding": "CS for Social Change meets A/B/C (Spring 2023 evidence); engineering capstones show no industry sponsors in indexed sources."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Brown University science course students team project external organization client biology OR geology OR physics OR chemistry community partner 2025",
+    "Brown Data Science Initiative capstone industry partner student team project"
+   ],
+   "key_sources": [
+    "https://dsi.brown.edu/engage-dsi/industry-partnerships",
+    "https://www.brown.edu/news/2025-03-05/community-engaged-collaborative"
+   ],
+   "finding": "Data Science master's practicum with external companies (mixed with internal units); no natural-science client-project course found."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Pending (only CBLR examples POLS 1820X, ENVS 1555 seen in search summaries)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Brown School of Public Health master's practicum OR capstone partner organization student team"
+   ],
+   "key_sources": [
+    "https://mph.sph.brown.edu/curriculum/mph-practicum"
+   ],
+   "finding": "MPH practicum is a placement; team-based capstone with partner health organisation indicated but unverified."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Community-Based Learning and Research (CBLR) course designation",
+   "english_name": "Community-Based Learning and Research (CBLR) courses",
+   "module_code": "Multiple courses (designation)",
+   "description": "Curricular designation for courses across departments that must involve collaboration with community partners on a social challenge, include in-depth community experience and reflection, and create products shared with the partner and/or public. Group work, project form and partner type vary by course; individual child courses are not enumerated here other than those assessed separately.",
+   "academic_reach": "University-wide",
+   "admin_host": "The College (College Curriculum Council) / Swearer Center",
+   "eligible_faculties_programmes": "Courses across many departments; eligibility is set by each course (prerequisites/enrolment caps may apply).",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Varies by course",
+   "eligibility_restrictions": "Per-course; Brown pages do not state a general student eligibility rule.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Regular course credit (per course); not stated on the pages fetched",
+   "duration": "Semester (per course)",
+   "delivery_format": "Varies by course",
+   "project_based": "Unclear",
+   "project_evidence": "Designation criterion: 'Create products or outcomes that are shared with the community partner and/or broader public' [1], but the form/scale of project differs per course and no single bounded project brief is evidenced for the designation as a whole.",
+   "group_working": "Unclear",
+   "group_evidence": "Designation criteria do not require teamwork; individual courses cited by search summary (CS 1951I teams, ENVS 1555 groups, POLS 1820X case studies) are group-based in places but not verified course-by-course [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Designation requires 'collaboration with one or more community partners to investigate an important social challenge or problem' and products shared with the partner [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Community partner collaborates on the problem and receives outputs; type of partner varies (nonprofits, public bodies).",
+   "named_partners": "USAID mentioned for POLS 1820X case studies (search summary, undated) [2]",
+   "deliverable": "Products/outcomes shared with community partner and/or public (varies)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026 (legacy row: Fall 2026 catalogue confirmed; not independently re-verified this session)",
+   "participation_data": "",
+   "unresolved": "Because group working is not shown for the designation as a whole, this is an umbrella; the legacy 'Fall 2026 catalogue' claim was not re-verified (Courses@Brown not fetched). Per-course group/partner evidence needed.",
+   "legacy_ref": "Community-Based Learning and Research (CBLR)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://college.brown.edu/design-your-education/explore-open-curriculum/course-selection/course-options/cblr",
+     "title": "Community-Based Learning and Research (The College)",
+     "section": "Course criteria",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model)",
+     "extract": "CBLR courses 'engage students with community partners to investigate important social issues'; criteria include 'Involve collaboration with one or more community partners to investigate an important social challenge or problem' and 'Create products or outcomes that are shared with the community partner and/or broader public.' No eligibility rules or term dates on page.",
+     "supports": [
+      "project",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://swearer.brown.edu/students/community-based-learning-and-research-courses",
+     "title": "Community-Based Learning and Research Courses",
+     "section": "Student page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: examples include CS 1951I (teams building tech products), POLS 1820X (case studies for USAID), ENVS 1555 (groups doing research, website content, interviews); courses searchable in Courses@Brown under Curricular Programs. WebFetch of the page returned only the one-line definition and no course list.",
+     "supports": [
+      "group",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CS for Social Change studio",
+   "english_name": "CS for Social Change (CSCI 1951I)",
+   "module_code": "CSCI 1951I",
+   "description": "Application-only studio course in which small teams of upper-level computer science undergraduates design, build and test technical projects (e.g. web portals, apps, browser extension) for and with non-profit/social-impact partner organisations, who supply project mentors.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "Undergraduates with CS 32/33/132 prerequisites (course page, Spring 2023); counts toward CS Engaged Scholars / Engaged Scholarship certificate",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Generally 3rd-4th year (search summary)",
+   "eligibility_restrictions": "Application only; enrolment cap; prerequisites CS 32, 33 or 132 (Spring 2023 page)",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course credit; weighting not retrieved",
+   "duration": "15-week semester (search summary)",
+   "delivery_format": "Studio, teams with partner mentors",
+   "project_based": "Yes",
+   "project_evidence": "'Students will work in a studio environment to iteratively design, build, and test technical projects' with social change organisations [1]; example outputs (web portal, Chrome extension, Smart Cart app) [2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3-4 students (search summary, tied to CS1951I course pages) [2]; fetched page says 'small teams' without a number [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams 'work directly with project mentors from non-profits and social impact ventures' [2]; Spring 2023 partners named on course page: The Peace Lab, Student Clinic for Immigrant Justice, Center for Health and Justice Transformation, iCareForYou [1]. Note: Student Clinic for Immigrant Justice is a student-run clinic, possibly university-affiliated; others external.",
+   "partner_type": "Charity/community",
+   "partner_role": "Provides project mentors and the problem; receives built product",
+   "named_partners": "The Peace Lab, Student Clinic for Immigrant Justice, Center for Health and Justice Transformation, iCareForYou (Spring 2023)",
+   "deliverable": "Working technical product (web/app) for partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Spring 2023",
+   "participation_data": "",
+   "unresolved": "No 2025/26 or 2026/27 evidence found (course page shows Spring 2023); whether the course is CBLR-designated not verified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://cs.brown.edu/courses/cs1951i/",
+     "title": "CS1951I",
+     "section": "Course page",
+     "pub_year": "Spring 2023",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model)",
+     "extract": "'Students will work in a studio environment to iteratively design, build, and test technical projects' with social change organizations; Spring '23 partners: The Peace Lab, Student Clinic for Immigrant Justice, Center for Health and Justice Transformation, iCareForYou; applications due January 20; limited enrolment; prerequisites CS 32, 33 or 132.",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://cs.brown.edu/courses/info/csci1951-i/",
+     "title": "Brown CS: CSCI1951-I",
+     "section": "Course info",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: teams of 3-4 students, generally 3rd-4th year, work directly with project mentors from non-profits and social impact ventures; 15-week course; application only; counts toward Engaged Scholarship certificate.",
+     "supports": [
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Master of Science in Data Science practicum / capstone (DATA 2050)",
+   "english_name": "MS Data Science capstone practicum",
+   "module_code": "DATA 2050",
+   "description": "Required semester-long team capstone in the Data Science master's: students work in small teams on a data science project sourced from Brown units (departments, labs, researchers) and from external entities (companies, nonprofits). DSI industry page states master's students complete a practicum project with an external company.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Data Science Institute",
+   "eligible_faculties_programmes": "MS/ScM Data Science students",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Semester",
+   "delivery_format": "Team project overseen by faculty from core departments",
+   "project_based": "Yes",
+   "project_evidence": "Course page: 'hands-on thesis project that entails an in-depth study of a current problem in data science'; DSI examples of partner projects (risk model for Citizens Bank etc.) [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Search summary says capstone teams usually have 3-4 members [3], but the fetched DATA 2050 page (Fall 2022) does not mention teams, and the DSI page does not state team size.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "DSI page: master's students must complete a practicum with an external company; named projects with Citizens Bank, Brown Health (internal), FLY Initiative, PerformaMatch [2]. But search summary says projects come from Brown entities as well as external ones [3], and the DATA 2050 page says collaboration with 'an additional faculty member, postdoc, or industry partner' is possible [1], so external coverage is not shown to be standard.",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies project/data; internal share undetermined",
+   "named_partners": "Citizens Bank, Brown Health (internal), Financial Youth Literacy (FLY) Initiative, PerformaMatch (DSI page, undated)",
+   "deliverable": "Capstone project/report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Fall 2022 (course page); DSI page mentions 2026 event but no dated cohort",
+   "participation_data": "",
+   "unresolved": "Team size, mandatory external share, and current-year delivery; page names conflict (DSI 'practicum with external company' vs course page 'may collaborate').",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://cs.brown.edu/courses/info/data2050/",
+     "title": "DATA2050",
+     "section": "Course info",
+     "pub_year": "Fall 2022",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model)",
+     "extract": "'The capstone experience is a hands-on thesis project that entails an in-depth study of a current problem in data science.' 'Students may collaborate with an additional faculty member, postdoc, or industry partner on projects.' Overseen by faculty from Applied Math, Biostatistics, CS or Maths. Fall 2022 listing.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://dsi.brown.edu/engage-dsi/industry-partnerships",
+     "title": "Industry Partnerships",
+     "section": "Capstone partners",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model)",
+     "extract": "Master's students must complete a practicum project with an external company; example partners: Citizens Bank (Returned Deposit Items risk model), Brown Health (MRI/glioblastoma), Financial Youth Literacy (FLY) Initiative, PerformaMatch (recommendation systems). No years given.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.brown.edu/initiatives/data-science/content/experiential-requirement",
+     "title": "Experiential Requirement (redirects to dsi.brown.edu)",
+     "section": "Search result",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: capstone teams usually 3-4 members; projects come from Brown entities and external entities (companies, nonprofits). Page itself redirected (301) when fetched.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Community-Engaged Data and Evaluation Collaborative (CEDEC)",
+   "english_name": "Community-Engaged Data and Evaluation Collaborative (CEDEC)",
+   "module_code": "",
+   "description": "Swearer Center-hosted initiative linking Rhode Island nonprofits and public agencies with Brown faculty/staff-supervised student teams on data and evaluation projects (data collection protocols, policy briefs, surveys, visualisations). Students engage via courses, practica, capstones, fellowships and sometimes UTRA-funded paid roles.",
+   "academic_reach": "University-wide",
+   "admin_host": "Swearer Center / community-engaged collaborative",
+   "eligible_faculties_programmes": "Undergraduate and graduate students from 30+ academic programs, via scoped courses/practica/capstones",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Access through specific faculty/staff-led courses or projects",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Not stated; courses/practica listed, paid roles also exist",
+   "duration": "Per project; spring-term projects reported",
+   "delivery_format": "Faculty/staff-supervised student teams on partner-scoped projects",
+   "project_based": "Yes",
+   "project_evidence": "Deliverables include 'Building out data collection protocols' and 'Developing a policy analysis or brief' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Faculty or staff support and supervise teams of undergraduate and/or graduate students' [1]; route mixes courses, practica and paid roles so not every route is team-based.",
+   "employer_connected": "Yes",
+   "employer_evidence": "70+ community partners, mostly Rhode Island nonprofits and public agencies, with projects scoped with CEDEC; partners receive outputs [1]. Some listed 'partners' are internal Brown units (Annenberg Institute, Library, DSI, SPH) and are not counted.",
+   "partner_type": "Mixed",
+   "partner_role": "Community/public partners bring data and evaluation needs and receive outputs",
+   "named_partners": "Not itemised; internal campus partners listed",
+   "deliverable": "Data protocols, policy briefs, analyses, visualisations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "S1",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (March 2025 launch news; spring projects per search summary)",
+   "participation_data": "70+ community partners, 190+ completed projects (cumulative); search summary: >50 projects, >100 students in a spring term (2025)",
+   "unresolved": "Overlaps CBLR courses and practica; no 2025/26 or 2026/27 dated cohort verified; which routes are credit-bearing.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://swearer.brown.edu/faculty-staff/data-and-evaluation-partnerships",
+     "title": "Data and Evaluation Partnerships",
+     "section": "Main page",
+     "pub_year": "undated (initiative dated March 2025)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model)",
+     "extract": "'Faculty or staff support and supervise teams of undergraduate and/or graduate students' on partner projects; 70+ community partners, 190+ completed projects; deliverables include data collection protocols and policy briefs; students from more than 30 academic programs.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.brown.edu/news/2025-03-05/community-engaged-collaborative",
+     "title": "New initiative addresses community needs through partnerships with Brown scholars, students",
+     "section": "News",
+     "pub_year": "2025-03-05",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: more than 50 projects underway this spring engaging over 100 students and 15 faculty/staff; courses include EEPS 1320 (GIS).",
+     "supports": [
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Community-Based Learning and Research (CBLR) [legacy row, reassessed as S1 umbrella]",
+   "legacy": true,
+   "category": "Other",
+   "reason": "Reassessed in schemes as S1.",
+   "source_url": "https://college.brown.edu/design-your-education/explore-open-curriculum/course-selection/course-options/cblr",
+   "status_note": ""
+  },
+  {
+   "name": "ENGN 1930L Biomedical Engineering Design and Innovation; ENGN 1930D; ENGN 1930M (with RISD)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Team capstones, but partner is a 'clinical advisor' (BME) or RISD (another university), and no external client/sponsor evidenced; ENGN 1930D describes open-ended design problem without named client. Search-summary only.",
+   "source_url": "https://selfservice.brown.edu/ss/bwckctlg.p_disp_course_detail?cat_term_in=201820&subj_code_in=ENGN&crse_numb_in=1930L",
+   "status_note": "2018 catalogue"
+  },
+  {
+   "name": "Executive Master of Healthcare Leadership capstone",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Capstone is a self-selected healthcare challenge, 'not a consulting engagement for an outside client'; individual (search summary).",
+   "source_url": "https://professional.brown.edu/academics/masters/healthcare/curriculum",
+   "status_note": ""
+  },
+  {
+   "name": "MPH practicum (145 hours)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Placement at approved organisation; interprofessional team mentioned but individual project/team basis unclear. Capstone option with team-based quality improvement project with partner health organisation noted in bulletin but not verified.",
+   "source_url": "https://mph.sph.brown.edu/curriculum/mph-practicum",
+   "status_note": "search summary only"
+  },
+  {
+   "name": "Engaged Scholarship Certificate",
+   "legacy": false,
+   "category": "Employability award",
+   "reason": "Certificate requiring a CBLR course; underlying activity covered by S1.",
+   "source_url": "https://swearer.brown.edu/students/engaged-scholarship-certificate",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Brown's open curriculum has no institution-wide compulsory employer project. Found: (1) the CBLR course designation, where designated courses must involve community partners and produce outputs shared with them (group work not required, so umbrella); (2) CS for Social Change (CSCI 1951I), an application-only studio in which teams of 3-4 build products with non-profit partners (evidence from Spring 2023); (3) the Data Science master's practicum, partly with external companies but mixed with internal Brown projects; (4) CEDEC, a Swearer-hosted programme matching supervised student teams to Rhode Island nonprofits/public bodies (2025 launch). Internal campus units appear as partners in CEDEC and the DSI capstone and are not counted as external. Current-year delivery is poorly evidenced beyond the legacy Fall 2026 CBLR claim.",
+ "gaps": "Current (2025/26+) delivery not verified for S2-S4; per-course CBLR group/partner evidence; arts/humanities/social science routes; further departmental capstones likely exist."
+}
