@@ -111,3 +111,5 @@ WARN | US15 | US15-S02 | employer-connected Yes but partner type Unclear
 WARN | US15 | US15-S04 | employer-connected Yes but partner type Unclear
 WARN | US15 | US15-S06 | employer-connected Yes but partner type Unclear
 WARN | US17 | US17-S02 | possible simulation marked employer-connected — check
+ERROR | EU01 | legacy row 125 | legacy 'PSL Weeks' not traced
+ERROR | EU01 | legacy row 126 | legacy 'ENAMOMA-PSL partner projects' not traced

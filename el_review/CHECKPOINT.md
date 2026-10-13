@@ -1,11 +1,13 @@
-# Checkpoint — updated 2026-10-13 23:10 UTC
+# Checkpoint — updated 2026-10-13 23:15 UTC
 
-- Complete: 80 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18
-- Partial: 0 — 
-- Not started: 44 — AU07, AU08, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
-- Scheme records: 701; currently qualifying: 207; exclusions: 744; sources: 1342
+- Complete: 92 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30
+- Partial: 2 — EU01, EU02
+- Not started: 30 — AU07, AU08, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
+- Scheme records: 777; currently qualifying: 223; exclusions: 810; sources: 1472
 
 ## Partial reviews: what remains
+- EU01 PSL: Dauphine M2 consulting projects and Mines MIG need verification; science/arts areas lightly searched
+- EU02 Paris-Saclay: Early save. Remaining: confirm central/other area queries, M2 communication consulting module details, Starthese legacy row disposition.
 
 ## Unresolved points on schemes (evidence incomplete)
 - RG01-S06 Masters Company Projects (Birmingham Business School): Individual vs group; current-year evidence; credits for MSc variants.
@@ -297,5 +299,36 @@
 - US17-S02 IEMS 394: IE Client Project Challenge: Team vs individual working; compulsory status; credit.
 - US17-S05 MLDS Practicum and Capstone: Deliverables, named sponsors, dated cohort; whether participation is formally required (page says students 'engage in' both).
 - US18-S03 Strategic Management of the Enterprise (MBA client consulting project): Group working and current-year delivery not evidenced on fetched page; credit unknown.
+- US19-S01 Joint Educational Project (JEP) service-learning placements: Which partner courses (if any) use a team consultancy-type project; per-route evidence needed.
+- US19-S05 ACAD 376 Industry Practicum I (Iovine and Young Academy): Whether external partners are standard in ACAD 376; whether compulsory for the BS Business of Innovation; team basis. Fetch of schedule page returned no entries.
+- US19-S06 Annenberg think tank courses: Team basis, deliverables, credit, whether further think tank courses currently run.
+- US20-S04 Startup Consulting Practicum (MAN385) / TVL Accelerator: Team structure; named startups; credit hours.
+- US20-S07 Projects with Underserved Communities (PUC): Team structure and partner role; service-learning so may fall under exclusion if role is beneficiary only.
+- US21-S05 MAE 156B Mechanical Design II (sponsored senior design): Share of external vs internal sponsors; compulsory status. Similar sponsored capstones exist in ECE (ECE 191) and Bioengineering (BENG 187/188; sponsors from 'academia, government, or industry' with a UCSD faculty member) - further departmental instances likely.
+- US21-S06 Senior Capstone Program (HDSI/Halicioglu data science industry-mentor capstone, DSC 180A/B): Whether capstone is required, share of industry-sponsored projects, group size.
+- US22-S01 Community-Based Learning and Research (CBLR) course designation: Because group working is not shown for the designation as a whole, this is an umbrella; the legacy 'Fall 2026 catalogue' claim was not re-verified (Courses@Brown not fetched). Per-course group/partner evidence needed.
+- US22-S03 Master of Science in Data Science practicum / capstone (DATA 2050): Team size, mandatory external share, and current-year delivery; page names conflict (DSI 'practicum with external company' vs course page 'may collaborate').
+- US23-S04 Senior Projects (CS 492/CS 494), Siebel School of Computing and Data Science: Course number appears as CS 492/4 on page; deliverable, credit and compulsory status not shown; no dated cohort found. Shares of corporate vs non-profit vs internal projects unknown.
+- US23-S05 Master of Urban Planning Client Capstone: Group vs individual route not separable; whether client capstone is required vs workshop option.
+- US23-S07 Master of Engineering Capstone Program project with industry partner: Individual and team routes not separable; deliverable and credit unspecified.
+- US23-S08 Food Science Senior Capstone (FSHN 466): Partner role not specified; no dated 2025/26 delivery (schedule site 403).
+- US24-S02 Capstone Design (Institute-wide course and Capstone Design Expo): No 2025/26 or 2026/27 dated source; which departments mandate sponsor projects; ECE Senior Design recorded here rather than separately.
+- US24-S06 Vertically Integrated Projects (VIP): Legacy evidence of all-college recruitment not re-verified; partners vary by team.
+- US24-S07 CS Junior Design / CS Capstone: Team size, requirement, split of internal/external clients.
+- US25-S04 Edwardson School of Industrial Engineering Senior Capstone Program: Team structure, compulsory status, dated 2025/26 cohort. Further departmental capstones (ME463, NE, BME, MDE, Polytechnic ET) likely exist.
+- US25-S06 CS 44100 Data Science Capstone: Catalog listing is not evidence of enrolment; sponsor share external vs internal; compulsory status.
+- US26-S06 UniverCity Year / UniverCity Alliance course partnerships: Programme-level umbrella: B Unclear because the opened page shows only the individual Scholars strand; underlying courses (e.g. CEE 578, Envir St 600) vary. Aggregate 2,400 students/325 projects figure is search-summary only.
+- US26-S08 MS Information capstone course: Mix of internal and external partners and an individual project; required status and course code not stated.
+- US27-S04 Informatics Capstone (Information School): Share of sponsored vs independent projects; group vs individual split; current-year dated evidence.
+- US27-S06 Livable City Year: Group working and per-course deliverables; which courses run in 2026-27.
+- US28-S01 Cross-College Challenge (XCC): Fall 2026 offerings not confirmed; proportion of external vs internal partners unpublished.
+- US28-S02 MetroBridge (Initiative on Cities): Which courses participate, team vs individual work, deliverables, current-year delivery.
+- US28-S03 Core Innovation Project (XP 298): Deliverable and client role; whether Required (page implies it); curriculum was being revised in 2025.
+- US28-S05 Senior Design Project (Mechanical Engineering with ECE/BME): Whether all teams have external sponsors; compulsory status; current-year dated evidence; other departments' capstones (BME, ECE) not separately tested.
+- US28-S06 Spark! Machine Learning X-Lab Practicum: Team structure; share of external partners.
+- US29-S02 Nittany Lion Consulting Group (NLCG) / Smeal capstone consulting projects: Current delivery (2025/26) not dated; the Smeal page could not be opened (HTTP 503) so route text is a search-index summary; credit and whether the capstone and NLCG are the same route.
+- US29-S03 IST 440W Information Sciences and Technology Integration and Problem Solving (capstone): Current 2025/26 delivery and whether external clients are standard at University Park; catalog page quoted only via search summary.
+- US30-S02 Multidisciplinary Engineering Capstone Design (ENGR 5901/5902): Share of external vs internal sponsors; other departmental capstones (ME, CBE, SIMCenter) likely distinct instances.
+- US30-S06 Second-year Transformational Experience Program (STEP): Framework umbrella; project route, team format and external organisation not established; university-wide eligibility not verified.
 
 Resume: research IDs under 'Not started'/'Partial' following RESEARCH_BRIEF.md, write results/<ID>.json, then run `python3 -I el_review/build.py`.
