@@ -1,41 +1,373 @@
 {
  "inst_id": "EU02",
  "institution": "Paris-Saclay",
- "review_status": "Partial",
- "partial_remaining": "Early save. Remaining: confirm central/other area queries, M2 communication consulting module details, Starthese legacy row disposition.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
-  "central": {"status": "Searched", "queries": ["Université Paris-Saclay projet étudiants entreprise équipe partenaire commanditaire"], "key_sources": ["https://www.universite-paris-saclay.fr/collaborations/entreprises"], "finding": "No single university-wide student-project scheme surfaced; offers are by component (Polytech, IUT, PEIPS entrepreneurship)."},
-  "business": {"status": "Searched", "queries": ["Paris-Saclay master projet en groupe client entreprise réel management IAE projet de conseil étudiants"], "key_sources": ["https://www.universite-paris-saclay.fr/en/education/masters-degree/communication-des-organisations/m2-management-et-communication-des-organisations"], "finding": "Master pages mention group projects with commissioning organisations but external client not established as standard."},
-  "engineering_computing": {"status": "Searched", "queries": ["CentraleSupélec projet industriel étudiants équipe entreprise partenaire", "IUT d'Orsay projet tutoré entreprise étudiants équipe"], "key_sources": ["https://www.centralesupelec.fr/cours/3CV2500"], "finding": "CentraleSupélec Projet SIC qualifies on its page; Polytech and IUT only invite companies to propose projects."},
-  "science": {"status": "Searched", "queries": ["Paris-Saclay Faculté des sciences master projet encadré entreprise équipe étudiants data science industriel partenaire"], "key_sources": [], "finding": "No dedicated industry-sponsored group project scheme surfaced."},
-  "arts_humanities_social_sciences": {"status": "Searched", "queries": ["Paris-Saclay sciences humaines sociales droit économie clinique juridique projet collectif commanditaire étudiants"], "key_sources": ["https://www.idep.universite-paris-saclay.fr/clinique-juridique"], "finding": "Legal clinic (CJPS) real cases, undated; no client-brief group project verified."},
-  "other": {"status": "Searched", "queries": ["same query as SHS (law/legal clinic)"], "key_sources": [], "finding": "Law clinic only; health/pharmacy not yet queried."}
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Université Paris-Saclay projet étudiants entreprise équipe partenaire commanditaire",
+    "Paris-Saclay Graduate School projet de fin d'études entreprise équipe étudiants commanditaire"
+   ],
+   "key_sources": [
+    "https://www.universite-paris-saclay.fr/collaborations/entreprises"
+   ],
+   "finding": "No single university-wide student-project scheme surfaced; offers are by component (Polytech, IUT, PEIPS entrepreneurship)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Paris-Saclay master projet en groupe client entreprise réel management IAE projet de conseil étudiants"
+   ],
+   "key_sources": [
+    "http://www.universite-paris-saclay.fr/en/education/masters-degree/communication-des-organisations/m2-management-et-communication-des-organisations",
+    "https://www.universite-paris-saclay.fr/en/education/masters-degree/strategic-management/m2-management-strategique-et-changement-msc"
+   ],
+   "finding": "Only M2 Management et communication des organisations (UE14 Mission de conseil, 3 days) found; described as simulating a consultancy mission, so C Unclear. Other M2 management pages are case-based or fictional committee."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "CentraleSupélec projet industriel étudiants équipe entreprise partenaire",
+    "IUT d'Orsay projet tutoré entreprise étudiants équipe",
+    "Paris-Saclay Projet Jean Muller CentraleSupélec projets clients équipes étudiants 2025"
+   ],
+   "key_sources": [
+    "https://www.centralesupelec.fr/cours/3CV2500",
+    "https://www.centralesupelec.fr/cours/2SL8100",
+    "http://www.polytech.universite-paris-saclay.fr/entreprises/devenez-partenaire",
+    "https://www.iut-orsay.universite-paris-saclay.fr/entreprises/liut-partenaire-des-entreprises"
+   ],
+   "finding": "CentraleSupélec Projet SIC qualifies on its page; Polytech and IUT only invite companies to propose projects."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Paris-Saclay Faculté des sciences master projet encadré entreprise équipe étudiants data science industriel partenaire"
+   ],
+   "key_sources": [
+    "https://www.sciences.universite-paris-saclay.fr/actualites/hackathon-genai26"
+   ],
+   "finding": "Faculté des sciences d'Orsay GenAI26 hackathon with industrial challenges qualifies (short format). No sponsored semester-long science group project surfaced."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Paris-Saclay sciences humaines sociales droit économie clinique juridique projet collectif commanditaire étudiants"
+   ],
+   "key_sources": [
+    "https://www.idep.universite-paris-saclay.fr/clinique-juridique"
+   ],
+   "finding": "Legal clinic (CJPS) real cases, undated; no client-brief group project verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Paris-Saclay pharmacie santé médecine projet étudiants équipe partenaire industriel défi innovation hackathon"
+   ],
+   "key_sources": [
+    "https://www.universite-paris-saclay.fr/actualites/hackin-pharma-2025-dix-facultes-de-pharmacie-en-competition-pour-la-2eme-edition-du-hackathon-national",
+    "https://www.idep.universite-paris-saclay.fr/clinique-juridique"
+   ],
+   "finding": "Pharmacy Hack'in Pharma hackathon (experts from companies advise) and law clinic found; neither verified as company-set brief with group output."
+  }
  },
  "schemes": [
   {
-   "local_id": "S1", "parent_local_id": null, "is_umbrella": false,
-   "official_name": "Projet SIC (3CV2500)", "english_name": "SIC Project (CentraleSupélec)", "module_code": "3CV2500",
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Projet SIC (3CV2500)",
+   "english_name": "SIC Project (CentraleSupélec)",
+   "module_code": "3CV2500",
    "description": "Team of 3-4 students tackle an open engineering problem with a research component in construction/urban fields, proposed by an industrial, institutional or associative partner (the client); interim report and deliverables sent to client, then defence.",
-   "academic_reach": "Programme/course", "admin_host": "CentraleSupélec (Paris-Saclay member institution)", "eligible_faculties_programmes": "Not stated; engineering course",
-   "faculty_areas": ["engineering_computing"], "student_level": "Unclear", "year_of_study": "Not stated", "eligibility_restrictions": "Prerequisites: none",
-   "participation_requirement": "Unclear", "curricular_status": "Curricular", "credit_assessment": "Credits not stated; 240 hours total, 144 on site", "duration": "Oct-April (periods SM10-SM11), 2025-2026", "delivery_format": "Team project with client",
-   "project_based": "Yes", "project_evidence": "Open engineering problem; milestones kickoff, interim report, final report and defence [1]",
-   "group_working": "Yes", "group_evidence": "'Une équipe projet est constituée de trois ou quatre étudiants' [1]",
-   "employer_connected": "Yes", "employer_evidence": "Proposed by an industrial, institutional or associative partner; client representative on team; interim report and deliverables addressed to client [1]",
-   "partner_type": "Mixed", "partner_role": "Proposes problem; client representative; receives deliverables", "named_partners": "",
+   "academic_reach": "Programme/course",
+   "admin_host": "CentraleSupélec (Paris-Saclay member institution)",
+   "eligible_faculties_programmes": "Not stated; engineering course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "Prerequisites: none",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credits not stated; 240 hours total, 144 on site",
+   "duration": "Oct-April (periods SM10-SM11), 2025-2026",
+   "delivery_format": "Team project with client",
+   "project_based": "Yes",
+   "project_evidence": "Open engineering problem; milestones kickoff, interim report, final report and defence [1]",
+   "group_working": "Yes",
+   "group_evidence": "'Une équipe projet est constituée de trois ou quatre étudiants' [1]",
+   "employer_connected": "Yes",
+   "employer_evidence": "Page defines the project as 'proposé par un partenaire industriel, institutionnel ou associatif - appelé client'; client representative sits on the team; interim report and deliverables addressed to client [1] (French original, translated).",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes problem; client representative; receives deliverables",
+   "named_partners": "",
    "deliverable": "Report, deliverables, defence",
-   "duration_band": "> 1 term", "external_partner_coverage": "Unclear", "likely_duplicate_of": "",
-   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2025/26", "participation_data": "",
-   "unresolved": "Whether every project has an external client or all are partner-proposed; compulsory status; CentraleSupélec course page source language French. Partner proposal wording 'proposé par un partenaire' read as standard but not proven; coverage left Unclear so C is Unclear-leaning.",
+   "duration_band": "> 1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Credits, level and whether compulsory not stated. CentraleSupélec is a Paris-Saclay member institution (not a faculty): confirm it is in scope for the University. Single course page (2025-2026); named clients not published.",
    "legacy_ref": "",
-   "sources": [{"n": 1, "url": "https://www.centralesupelec.fr/cours/3CV2500", "title": "Projet SIC", "section": "course page", "pub_year": "2025-2026", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary, French original)", "extract": "'proposé par un partenaire industriel, institutionnel ou associatif'; 'Une équipe projet est constituée de trois ou quatre étudiants'; 'Rapport et livrables intermédiaires adressés au client puis soutenance'; 240 h.", "supports": ["project", "group", "employer", "status", "duration"]}]
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.centralesupelec.fr/cours/3CV2500",
+     "title": "Projet SIC",
+     "section": "course page",
+     "pub_year": "2025-2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, French original)",
+     "extract": "'Il est proposé par un partenaire industriel, institutionnel ou associatif - appelé client' (cf. Projets Jean Muller); 'Une équipe projet est constituée de trois ou quatre étudiants' ; 'Rapport et livrables intermédiaires adressés au client puis soutenance'; 240 h, année 2025-2026. Original French; translated.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "GenAI26 Hackathon (Faculté des Sciences d'Orsay)",
+   "module_code": "",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "IBM, Mastercard, SNCF Réseau (2026)",
+   "local_id": "S2",
+   "official_name": "Hackathon GenAI26",
+   "description": "Seven-day technology marathon for about 150 students from six AI/data programmes (Paris-Saclay, Paris 8, UQAC). Teams build a working prototype on challenges set by industrial partners (IBM, Mastercard, SNCF Réseau) and present to partners; final at Cisco premises.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculté des Sciences d'Orsay",
+   "eligible_faculties_programmes": "Students of six AI and data training programmes across three universities",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "7 days, 13-27 March 2026 (kickoff 13 Mar, final 27 Mar)",
+   "delivery_format": "Team hackathon",
+   "project_based": "Yes",
+   "project_evidence": "Each team had to build a 'prototype fonctionnel' and a structured presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Students worked in teams'; winning team of four [1]. Fixed team size not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges set by industrial partners IBM, Mastercard, SNCF Réseau; students presented to partners in 10-minute sessions [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets challenge; receives presentations",
+   "deliverable": "Working prototype and presentation",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Annual repeat unknown; student level inferred (master programmes); credit not stated; short format, extracurricular status not stated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sciences.universite-paris-saclay.fr/actualites/hackathon-genai26",
+     "title": "Hackathon GenAI26",
+     "section": "news article",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, French original)",
+     "extract": "'Un marathon technologique de sept jours'; challenges from IBM, Mastercard, SNCF Réseau; teams had to build a 'prototype fonctionnel'; Speedster sessions to partners; about 150 students from six programmes. Translated from French.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "S8 Project (CentraleSupélec)",
+   "module_code": "2SL8100",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "local_id": "S3",
+   "official_name": "Projet S8 (2SL8100)",
+   "description": "Collective project in groups of 5 students on complex open problems producing a high-value deliverable 'à destination d'un client' with varied stakeholders; 200 h (108 on site).",
+   "academic_reach": "Programme/course",
+   "admin_host": "CentraleSupélec",
+   "eligible_faculties_programmes": "Not stated",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not listed",
+   "duration": "200 h, 2025-2026",
+   "delivery_format": "Team project",
+   "project_based": "Yes",
+   "project_evidence": "Open complex problem, deliverable [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Les projets sont menés par groupes de 5 étudiants' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page mentions a client and stakeholders but does not say the client is an external organisation [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "deliverable": "Deliverable for a client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Client identity and whether external; compulsory status; credits.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.centralesupelec.fr/cours/2SL8100",
+     "title": "Projet S8",
+     "section": "course page",
+     "pub_year": "2025-2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, French original)",
+     "extract": "'Les projets sont menés par groupes de 5 étudiants'; deliverable 'à destination d'un client'; 200 h. Translated.",
+     "supports": [
+      "project",
+      "group",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Consulting mission module, M2 Management and Communication of Organisations",
+   "module_code": "",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "local_id": "S4",
+   "official_name": "UE14 Mission de conseil (M2 Management et communication des organisations)",
+   "description": "Three-day team consulting mission with a client brief, rapid diagnosis, work with representatives of the organisation (CO option: non-profit; MCC option: cultural organisation), defence and transfer memo. Page says the module 'simule' a consultancy mission.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Université Paris-Saclay (master)",
+   "eligible_faculties_programmes": "M2 Management et communication des organisations",
+   "faculty_areas": [
+    "business",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "2 ECTS; 21 h",
+   "duration": "3 days",
+   "delivery_format": "Simulated/co-constructed consulting mission",
+   "project_based": "Yes",
+   "project_evidence": "Client brief, diagnosis, defence, transfer memo [1].",
+   "group_working": "Yes",
+   "group_evidence": "'simule une mission de consultance de 3 jours en équipes' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Co-construction with 'représentant·e·s de l'organisation' and defence to client, but module described as simulating a mission; unclear whether a real external organisation is involved each year [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "deliverable": "Defence and transfer memo",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Simulation vs live client; page undated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "http://www.universite-paris-saclay.fr/en/education/masters-degree/communication-des-organisations/m2-management-et-communication-des-organisations",
+     "title": "M2 Management et communication des organisations",
+     "section": "UE 14",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, French original)",
+     "extract": "'Le module simule une mission de consultance de 3 jours en équipes'; 'Après un brief client, les équipes conduisent un diagnostic rapide'; ECTS: 2. Translated.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "duration"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
-  {"name": "Starthèse Start'up Pitch-iD", "legacy": true, "category": "Entrepreneurship/incubator", "reason": "Doctoral venture-pitch competition; no external organisation sets a brief; not verified as group client project.", "source_url": "https://www.universite-paris-saclay.fr/actualites/starthese-startup-pitch-id-troisieme-edition-du-concours-entrepreneurial-pour-doctorantes", "status_note": "2026 edition per legacy; not re-fetched"}
+  {
+   "name": "Starthèse Start'up Pitch-iD",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Doctoral venture-pitch competition (legacy, 2026 edition per legacy sources, not re-fetched); no external organisation sets a brief; not verified as a group live-client project; legacy reach 'Not confirmed'.",
+   "source_url": "https://www.universite-paris-saclay.fr/actualites/starthese-startup-pitch-id-troisieme-edition-du-concours-entrepreneurial-pour-doctorantes",
+   "status_note": "2026 edition per legacy; not re-fetched"
+  },
+  {
+   "name": "Polytech Paris-Saclay company partnerships ('Conception de projets industriels', hackathons)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Page only lists options for companies; no description of student team, output or cohort.",
+   "source_url": "http://www.polytech.universite-paris-saclay.fr/entreprises/devenez-partenaire",
+   "status_note": "undated"
+  },
+  {
+   "name": "IUT d'Orsay SAÉ company projects (B.U.T.)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Page invites companies to propose projects within SAÉ; groups, outputs and actual partners not evidenced.",
+   "source_url": "https://www.iut-orsay.universite-paris-saclay.fr/entreprises/liut-partenaire-des-entreprises",
+   "status_note": "undated"
+  },
+  {
+   "name": "Hack'in Pharma",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Inter-faculty pharmacy hackathon, teams of six, company experts advise; not shown that companies set briefs or receive outputs.",
+   "source_url": "https://www.universite-paris-saclay.fr/actualites/hackin-pharma-2025-dix-facultes-de-pharmacie-en-competition-pour-la-2eme-edition-du-hackathon-national",
+   "status_note": "2025"
+  },
+  {
+   "name": "Clinique juridique Paris-Saclay (CJPS)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Supports doctoral projects; partners advise; no group client brief evidenced; undated.",
+   "source_url": "https://www.idep.universite-paris-saclay.fr/clinique-juridique",
+   "status_note": "undated"
+  },
+  {
+   "name": "M2 MSC HR transformation plan",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Groups of 3-4 present to a fictional executive committee.",
+   "source_url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/strategic-management/m2-management-strategique-et-changement-msc",
+   "status_note": "undated"
+  }
  ],
- "embeddedness": "Unclear",
- "profile_md": "Early save.",
- "gaps": "Early save."
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "Paris-Saclay pages do not show a university-wide student-project scheme; employer-linked work is distributed across components. The strongest verified routes are at CentraleSupélec (a member institution): Projet SIC (3CV2500, Jean Muller projects), where teams of 3-4 work on a problem proposed by an industrial, institutional or associative 'client' who receives interim and final deliverables (2025-2026, ~240 h), and Projet S8 (groups of 5, client unnamed, C unclear). In the Faculté des Sciences d'Orsay, the GenAI26 hackathon (March 2026, 7 days, ~150 students from six AI/data programmes) had teams building prototypes for challenges set by IBM, Mastercard and SNCF Réseau. A 3-day consulting module in an M2 management/communication master involves client briefs but is described as simulated. Polytech, IUT d'Orsay, pharmacy hackathon and the legal clinic are leads without verified group/client evidence. Source pages are French; extracts translated. Uncertain: compulsory status, credits, partner coverage, and whether CentraleSupélec counts within the University perimeter.",
+ "gaps": "Further departmental capstones (Polytech, IUT SAÉ, other master projets tutorés) likely exist; IAE Paris-Saclay/Faculté Jean Monnet, medicine and Polytech not researched in depth (reduced-depth mode). Starthèse legacy row not re-fetched. Retrieval via WebFetch summaries (small-model paraphrase of French pages), not direct verbatim page text."
 }

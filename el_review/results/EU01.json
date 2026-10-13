@@ -1,8 +1,8 @@
 {
  "inst_id": "EU01",
  "institution": "Université PSL (Paris)",
- "review_status": "Partial",
- "partial_remaining": "Dauphine M2 consulting projects and Mines MIG need verification; science/arts areas lightly searched",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -68,9 +68,317 @@
    "finding": "Design/fashion: ENAMOMA master's with four partner projects per year."
   }
  },
- "schemes": [],
- "exclusions": [],
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "ENAMOMA-PSL (co-run by Dauphine-PSL, École des arts décoratifs-PSL, Mines Paris-PSL)",
+   "eligible_faculties_programmes": "ENAMOMA institutional master's, M1 and M2 (about 10 M1 and 20 M2 places per year)",
+   "year_of_study": "M1/M2",
+   "eligibility_restrictions": "Students admitted to the ENAMOMA master's",
+   "credit_assessment": "'Each course, project, seminar, or workshop earns ECTS credits' (total not given)",
+   "participation_data": "",
+   "legacy_ref": "ENAMOMA-PSL partner projects",
+   "likely_duplicate_of": "",
+   "local_id": "S1",
+   "official_name": "Projets pédagogiques collaboratifs - Master ENAMOMA-PSL (École nationale de Mode et Matière)",
+   "english_name": "ENAMOMA-PSL collaborative partner projects (Fashion and Materials master)",
+   "description": "Each year four partners propose an exploration topic; an interdisciplinary student group (design, engineering, management) develops a professional-level proposal over 10 weeks (Block 3, Feb-April) with a pair of tutors and regular progress reviews with the partner, delivered in material, written and oral form. The page lists 2025 partners 91530 Le Marais, Adore Me, Fédération de la mode circulaire, MODA International x Clen.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "10 weeks (Feb-April, Block 3)",
+   "delivery_format": "Interdisciplinary group project with tutors and partner reviews",
+   "project_based": "Yes",
+   "project_evidence": "Professional-level proposal delivered in material, written and oral form on a partner-set topic [1].",
+   "group_working": "Yes",
+   "group_evidence": "'an interdisciplinary group of students (design, engineering, management)' per topic [1]; team size not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Four external partners per year each propose the topic and hold regular progress reviews with the students [1]; 2025 partners are companies (Adore Me, MODA International x Clen, 91530 Le Marais) and a sector federation (Fédération de la mode circulaire) - external, not internal university units. Page says 'Every year, four partners'.",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes exploration topic; progress reviews with students",
+   "named_partners": "2025: 91530 Le Marais ('Hemp & mobility'), Adore Me, Fédération de la mode circulaire, MODA International x Clen. Earlier: Agnès B, Repetto, Petit Bateau, Croix-Rouge, GHU Paris Psychiatrie & Neurosciences, PSL Université (internal) and others",
+   "deliverable": "Professional-level proposal in material, written and oral form",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (2024/25 projects page); a 25-26 cohort exists but its partner projects are not evidenced",
+   "unresolved": "Whether the partner projects ran in 2025/26 or are scheduled 2026/27; whether compulsory (page does not say); team size; total credits. Projects page dated 2025 only.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://psl.eu/en/education/enamoma-psl-students-projects",
+     "title": "ENAMOMA-PSL students' projects",
+     "section": "Collaborative projects (2025)",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted fragments) - original language: English",
+     "extract": "'Over a period of 10 weeks', 'an interdisciplinary group of students (design, engineering, management)', 'with the support of a pair of tutors and regular progress reviews with the partner'; 'The project is delivered in material, written and oral form'; 'Every year, four partners place their trust in us'; 2025 partner list.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://psl.eu/en/education/enamoma",
+     "title": "Ecole nationale de Mode et Matière - EnaMoMa by PSL",
+     "section": "Programme",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted fragments) - original language: English",
+     "extract": "Four partners propose an exploration topic for collaborative educational projects, 10 weeks, Block 3 Feb-April; 'Each course, project, seminar, or workshop earns ECTS credits'; about 10 M1 and 20 M2 places; co-constructed by Dauphine-PSL, EnsAD-PSL, Mines Paris-PSL.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "credit",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.ensad.fr/fr/exposition-des-projets-du-master-mode-matiere-enamoma-psl",
+     "title": "Exposition des projets du Master Mode & Matière ENAMOMA-PSL",
+     "section": "Search-index summary",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted fragments) - original language: French",
+     "extract": "Exhibition of 25-26 cohort work scheduled 17 September 2026 (search summary; does not identify partner projects).",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "PSL (valorisation/entrepreneurship)",
+   "eligible_faculties_programmes": "PSL master's students, PhD students, post-docs, any discipline",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application 1-31 Oct 2026",
+   "credit_assessment": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S2",
+   "official_name": "PSL-iTeams",
+   "english_name": "PSL-iTeams",
+   "description": "Six-month (Nov-April) programme where PSL master's students, PhD students and post-docs form multidisciplinary teams around innovation project ideas held by PSL researchers/doctoral students, attending weekly workshops; industry professionals and technology-transfer experts support teams and sit on mid-term and final juries (final jury 'acts as investors').",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "duration": "6 months (Nov-April)",
+   "delivery_format": "Weekly evening workshops plus team work",
+   "project_based": "Unclear",
+   "project_evidence": "Teams develop a valorisation strategy for a project idea; defined deliverable not stated [1].",
+   "group_working": "Yes",
+   "group_evidence": "'grouped into multidisciplinary teams' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Project holders are PSL researchers (internal). Industry professionals support and jury (mid-term and final, 'as investors') but no external organisation sets the brief or is named; no evidence an organisation receives outputs [1].",
+   "partner_type": "Other",
+   "partner_role": "Internal project holders; external professionals as mentors/jurors",
+   "named_partners": "",
+   "deliverable": "Valorisation strategy / pitch (not specified)",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2026/27 (applications Oct 2026)",
+   "unresolved": "Page also carries a 'Register for 2024/2025' link; credit status; deliverable; whether external organisations pose briefs.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://psl.eu/en/innovation/entrepreneurship-psl/psl-iteams",
+     "title": "PSL-iTeams",
+     "section": "Programme page",
+     "pub_year": "2026 (applications 1-31 October 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted fragments) - original language: English",
+     "extract": "Open to PSL master's students, PhD students and post-docs; multidisciplinary teams; project holders are PSL researchers; industry professionals on mid-term jury, final jury acts 'as investors'; six months Nov-April.",
+     "supports": [
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Dauphine-PSL",
+   "eligible_faculties_programmes": "M2 Marketing 102",
+   "year_of_study": "M2",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S3",
+   "official_name": "Projets tutorés / challenges de cabinets partenaires - Master 2 Marketing 102 Conseil, Data et Recherche (Dauphine-PSL)",
+   "english_name": "Tutored projects and consulting-firm challenges, M2 Marketing 102 Consulting, Data and Research",
+   "description": "Partner consulting firms run challenges or missions with student groups: Capgemini Invent (groups coached by a consultant, business case to a consultant jury), Deloitte (part-time consulting mission on statistical data analysis with regular Deloitte coaching per group and a referent professor), Velvet Consulting (challenge at the firm), DBO (consulting missions within the 'projets tutorés du 102').",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "duration": "Not stated",
+   "delivery_format": "Group missions/challenges",
+   "project_based": "Yes",
+   "project_evidence": "Consulting missions and business case for partner firms (French page 'Vie du Master') [1].",
+   "group_working": "Yes",
+   "group_evidence": "'travaillent en groupe' (Capgemini); 'chaque groupe' (Deloitte) [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Firms coach groups, set missions/challenges, jury [1]; but page does not say all students take part, nor which year; coverage Some projects.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Coaching, challenge/mission, jury",
+   "named_partners": "Capgemini Invent, Deloitte, Velvet Consulting, DBO (undated)",
+   "deliverable": "Business case / consulting mission output (not specified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Year, compulsory status, credits, which students participate.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://dauphine.psl.eu/formations/masters/marketing-et-strategie/m2-conseil-data-recherche/vie-du-master",
+     "title": "Master 2 Marketing 102 - Vie du Master",
+     "section": "Partner firms",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted fragments) - original language: French",
+     "extract": "'travaillent en groupe et sont « coachés » par un consultant Capgemini Invent'; Deloitte: 'Un « coaching » Deloitte régulier est assuré auprès de chaque groupe'; 'un professeur référant supervise le groupe'; DBO: 'missions de conseil dans le cadre des projets tutorés du 102'. (original language French, translated)",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Mines Paris-PSL",
+   "eligible_faculties_programmes": "Mines Paris engineering students (first year, per search summary)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S4",
+   "official_name": "Métiers de l'Ingénieur Généraliste (MIG) - Mines Paris-PSL",
+   "english_name": "Generalist Engineer Professions (MIG), Mines Paris-PSL",
+   "description": "First-year block of 3 weeks including a team-of-15 project carried out in a Mines research centre or in a company.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "duration": "3-week blocked period",
+   "delivery_format": "Team project",
+   "project_based": "Yes",
+   "project_evidence": "'la réalisation d'un projet' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'en équipe de 15' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Project is 'dans un centre de recherche Mines Paris et en entreprise' - research-centre (internal) and company hosts not separated; client role unevidenced [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Host (company or internal research centre)",
+   "named_partners": "",
+   "deliverable": "Project (unspecified)",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022-2023 (brochure links)",
+   "unresolved": "Compulsory status, share of company projects, year.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://mig.minesparis.psl.eu/",
+     "title": "MIG - Métiers de l'Ingénieur Généraliste",
+     "section": "Home",
+     "pub_year": "undated (links to MIG 2022 brochure)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted fragments) - original language: French",
+     "extract": "'en équipe de 15'; 'dans un centre de recherche Mines Paris et en entreprise'; 'une période bloquée de 3 semaines'. (original language French, translated)",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "PSL Weeks",
+   "legacy": true,
+   "category": "Breadth/interdisciplinary curriculum",
+   "reason": "Interdisciplinary immersion courses; only evidence of a company element is the 2018 PSL-Hack with EDF (5-day challenge); no current employer-linked group project evidenced.",
+   "source_url": "https://psl.eu/en/news/psl-weeks-students-move-along-there-everything-see-here",
+   "status_note": "2018 article"
+  },
+  {
+   "name": "Dauphine M2 Entrepreneuriat et projets innovants 264 - consulting mission for an entrepreneur",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary mentioned a 3-month team consulting mission, but the fetched programme pages only say students 'collaborate with an entrepreneur ... on a solution to a challenge' and 'missions concrètes auprès de porteurs de projets'; team and compulsory status not shown.",
+   "source_url": "https://dauphine.psl.eu/en/training/masters-degrees/management-and-organizations/masters-year-2-entrepreneurship-and-innovative-projects-264/program",
+   "status_note": "2026-27 programme"
+  },
+  {
+   "name": "Chimie ParisTech / ESPCI industry links",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Sponsorship, conferences, industrial chairs, internships only; no team project with a company evidenced.",
+   "source_url": "https://www.chimieparistech.psl.eu/entreprise-innovation/devenez-partenaire-de-chimie-paristech/",
+   "status_note": ""
+  },
+  {
+   "name": "Mines Paris second-year Projets d'ingénierie (Mécaero, Underwater)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group technical projects; no external client evidenced in search extract.",
+   "source_url": "https://admissibles.minesparis.psl.eu/index.php/structure-de-la-deuxieme-annee/",
+   "status_note": ""
+  },
+  {
+   "name": "Other Dauphine M2 (Design and Innovation 010; Audit 124 DIESE)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summaries mention real consulting missions; not opened; DIESE source dated ~2007.",
+   "source_url": "https://dauphine.psl.eu/en/training/masters-degrees/management-and-organizations/masters-year-2-design-and-innovation-in-management-010/program",
+   "status_note": "unverified"
+  }
+ ],
  "embeddedness": "Isolated departmental provision",
- "profile_md": "Interim.",
- "gaps": "interim"
+ "profile_md": "Searched in English and French across six areas. The strongest route is the ENAMOMA-PSL master's (Fashion and Materials; Dauphine, Arts Décoratifs and Mines Paris): each year four external partners (companies and a sector federation, e.g. Adore Me, Fédération de la mode circulaire in 2025) set a topic and review progress while interdisciplinary student groups produce a professional-level proposal over 10 weeks. It meets all three criteria on page evidence, but the projects page is dated 2025 and delivery in 2025/26 or 2026/27 is not confirmed, so status is unclear; compulsory status and team size are not stated. Other routes are incomplete: Dauphine M2 Marketing 102 has consulting-firm group missions (Capgemini Invent, Deloitte) with unknown coverage and year; Mines Paris MIG has team-of-15 projects in a research centre or company (internal/external split unknown); PSL-iTeams is a university-wide multidisciplinary team programme but project holders are internal researchers and industry only mentors/jurors. PSL Weeks are interdisciplinary courses without a current employer link. Provision looks concentrated in individual constituent schools and programmes rather than institution-wide. Pages are mostly undated; participation figures are not published.",
+ "gaps": "PSL is a federation: many constituent schools (ENS, ESPCI, Chimie ParisTech, Observatoire, Fémis, Conservatoire) were only lightly searched (1 query each area, about 8 searches total). Retrieval by WebFetch returns summarised text, so quotes are fragments. Current-year delivery unconfirmed for all routes. Further Dauphine M2 and Mines projects likely exist."
 }
