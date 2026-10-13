@@ -1,0 +1,568 @@
+{
+ "inst_id": "US06",
+ "institution": "Chicago",
+ "review_status": "Partial",
+ "partial_remaining": "Science area (natural sciences) and health/design not specifically queried",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UChicago Metcalf Sprints team project employer partner deliverable",
+    "WebFetch Metcalf Sprints and Internship Programs pages"
+   ],
+   "key_sources": [
+    "https://careeradvancement.uchicago.edu/student-opportunities/month-long-programs/metcalf-sprints/"
+   ],
+   "finding": "Metcalf Sprints are the central employer-project route (team deliverables for employer partners; extracurricular, grant-funded, 2-3 weeks)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Booth Applied Policy / Management Lab student teams consulting client project course"
+   ],
+   "key_sources": [
+    "https://www.chicagobooth.edu/research/davis/courses-for-mba-students",
+    "https://www.chicagobooth.edu/research/rustandy/what-we-do/social-impact-and-business/social-impact-consulting-projects"
+   ],
+   "finding": "Booth Consulting Lab (Kearney-sourced real clients) fits A/B/C but is undated; Marketing/Social Impact Labs and student-run consulting are leads."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Pritzker Molecular Engineering or Computer Science industry sponsored capstone project student teams"
+   ],
+   "key_sources": [
+    "https://pme.uchicago.edu/news/uchicagos-engineering-design-capstone-connects-students-industry-partners-kickstart-their"
+   ],
+   "finding": "PME senior Engineering Design capstone with industry sponsors verified (2023 source); no Computer Science equivalent found; Data Science Clinic recorded jointly."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "UChicago Data Science Institute ... capstone external partner team",
+    "UChicago Data Science Clinic undergraduate course industry partner project team"
+   ],
+   "key_sources": [
+    "https://datascience.uchicago.edu/education/data-science-clinic/",
+    "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/"
+   ],
+   "finding": "Data Science Clinic and MS-ADS capstone qualify; natural sciences departments not separately searched beyond these."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Harris Public Policy Policy Lab client organization student team capstone",
+    "UChicago College humanities arts students project community partner course team Chicago organization",
+    "WebFetch Harris undergraduate capstone projects"
+   ],
+   "key_sources": [
+    "https://harris.uchicago.edu/academics/design-your-path/applied-experience/harris-policy-lab",
+    "https://harris.uchicago.edu/sites/default/files/2026-04/PPHA%2060000_Policy%20Lab_Goerge_2026.pdf"
+   ],
+   "finding": "Harris Policy Labs are strong dated client-team provision; humanities/arts provision found only as community engagement/individual capstones (excluded)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "UChicago Law School clinic students client organization team; Crown Family School social work students project client"
+   ],
+   "key_sources": [
+    "https://www.law.uchicago.edu/clinics/innovation/student-work"
+   ],
+   "finding": "Law clinics are legal casework (excluded as near-miss); nothing found for Crown Family School; no medicine/design/architecture project route searched."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Not named on the sprints page; example project titles (search summary of employer-facing pages): sports apparel brand analytics dashboard; collegiate athletic department digital engagement strategy",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "Jeff Metcalf Internship Program / Metcalf Sprints",
+   "unresolved": "Partner sector: pages refer to 'employer partner' across industries (typed Business/commercial on examples; could include non-profits). Team size, credit and number of participants not published. Not clear whether open to graduate students ('UChicago students' vs undergraduates).",
+   "admin_host": "Career Advancement (Jeff Metcalf programs)",
+   "eligible_faculties_programmes": "UChicago undergraduates (College) across majors; page says 'UChicago students'",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "No credit evidenced; funded by grant",
+   "delivery_format": "Team project, employer partner",
+   "local_id": "S1",
+   "official_name": "Metcalf Sprints",
+   "description": "Co-op, project-based experiences in which teams of UChicago undergraduates work together on a deliverable for an employer partner, ending in a final presentation. Academic-year sprint is 3 weeks part-time ($1,000 Metcalf Grant); summer sprint is 2 weeks full-time ($2,000 grant). Students apply and are matched to projects by interest and skills.",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "3 weeks part-time (academic year); 2 weeks full-time (summer)",
+   "project_based": "Yes",
+   "project_evidence": "Teams produce a deliverable for an employer partner and give a final presentation [1]. Deliverable type not described.",
+   "group_working": "Yes",
+   "group_evidence": "'teams of undergraduates work together on a deliverable' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employer partner is the recipient of the team deliverable; projects based on 'the needs of each organization' [1][2]. Specific employer role (briefing, feedback) beyond receiving deliverable not detailed.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Employer partner defines project need; receives deliverable/presentation",
+   "deliverable": "Team deliverable + final presentation (format not specified)",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (Fall sprint 9 Nov-4 Dec 2026; further sprints to Aug 2027)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://careeradvancement.uchicago.edu/student-opportunities/month-long-programs/metcalf-sprints/",
+     "title": "Metcalf Sprints",
+     "section": "Programme page",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'co-op, project-based experiences for UChicago students'; 'teams of undergraduates work together on a deliverable for an employer partner'; 'Admitted students are matched to projects based on their interests, skills, and the needs of each organization'; academic-year sprint 3 weeks part-time; summer 2 weeks full-time; Fall sprint Nov 9-Dec 4, 2026, applications Sept 28-Oct 12, 2026; Winter sprint Feb 15-Mar 5, 2027; Spring May 3-21, 2027; Summer Aug 9-20, 2027 (WebFetch summary of page text).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://careeradvancement.uchicago.edu/student-opportunities/internships/internship-programs/",
+     "title": "Internship Programs",
+     "section": "Metcalf Sprints section",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Sprints described as 'co-op, project-based experiences for UChicago students' where 'teams of undergraduates work together on a deliverable for an employer partner'; '2026-27 metcalf' label applies to Metcalf internships, not sprints.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    }
+   ],
+   "english_name": "Metcalf Sprints"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Illinois Department of Employment Security (since 2020) and Mercy Corps per search summary (undated)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "unresolved": "Partner type mixed (public sector, nonprofit, UChicago partners); typed Public sector per Spring 2026 syllabus; some labs have internal UChicago clients. Participation numbers not found.",
+   "admin_host": "Harris School of Public Policy",
+   "eligible_faculties_programmes": "Harris MPP/MA students (second-year; one-year MA in Winter/Spring); second/third-year students from other professional schools with faculty consent",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "One letter grade, 100 units (one full course) per quarter; Spring 2026 grading: 20% participation, 20% process/milestone deliverables, 60% final memo/presentation; peer evaluation",
+   "delivery_format": "In-person practicum, weekly class with client meetings",
+   "local_id": "S2",
+   "official_name": "Harris Policy Labs (PPHA 60000)",
+   "description": "Elective practicum in which small student teams act as policy consultants to external clients (government agencies, nonprofits, multilateral institutions, UChicago partners) for one quarter, producing a policy memo, slide deck and client presentation. Spring 2026 Economics and the Social Safety Net Lab ran three projects with state/local policymakers as clients.",
+   "academic_reach": "Cross-faculty",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "One quarter (Fall, Winter, Spring)",
+   "project_based": "Yes",
+   "project_evidence": "'Students work in teams to develop and execute a project for their client'; final deliverables are policy memo, presentation and slides [2][3].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in teams'; team products with peer evaluation of teammates [2][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients are government agencies, nonprofits, multilateral institutions; students 'take direction from state and local policymakers'; client meetings attended; outputs 'client facing' and presented to client leadership [1][2]. Some labs have a UChicago internal client (Health Policy Lab, per search summary), but external clients are the documented norm [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Client: sets priority topic, data, attends meetings, receives memo/presentation",
+   "deliverable": "Policy memo, slide deck, client presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026 (syllabus created 7 Apr 2026); Winter 2026 labs",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://harris.uchicago.edu/academics/design-your-path/applied-experience/harris-policy-lab",
+     "title": "Harris Policy Labs",
+     "section": "Programme page",
+     "pub_year": "undated (site current)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'elective courses that put rigorous policy training into practice'; clients 'include government agencies, nonprofits, multilateral institutions, and University of Chicago partners'; teams produce 'evidence-informed, actionable recommendations' presented to client leadership; each quarter earns one letter grade and 100 units; launched 2016, runs Fall, Winter, Spring; second-year students encouraged, other professional-school students with consent (WebFetch summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://harris.uchicago.edu/sites/default/files/2026-04/PPHA%2060000_Policy%20Lab_Goerge_2026.pdf",
+     "title": "PPHA 60000-2 Spring 2026 Policy Lab Syllabus",
+     "section": "Syllabus p.1",
+     "pub_year": "Spring 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (PDF via pdftotext)",
+     "extract": "'This is practicum style course. Students work in teams to develop and execute a project for their client.' 'Students will take direction from state and local policymakers and administrators on priority topics'; grading includes policy memo, presentation, slide deck and peer evaluation of teammates; 'before products are client facing'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    }
+   ],
+   "english_name": "Harris Policy Labs (PPHA 60000)"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Spring 2026: Accountability Counsel; Cook County Justice Advisory Council; Metropolitan Water Reclamation District of Greater Chicago; Mothers Out Front; Promega Corporation; Occidental Arts & Ecology Center; Zero Foodprint; The Impact Project (and internal UChicago units) [2]",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "unresolved": "Some projects are for internal UChicago clients (library, institute, lab), so external share is a majority not all; credit units not stated. Partners limited to Industry Affiliates/research collaborators/government and nonprofits.",
+   "admin_host": "Data Science Institute",
+   "eligible_faculties_programmes": "Undergraduate juniors/seniors and master's students (data science, CS, public policy, statistics, economics)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Course credit not stated; 'Clinic partners provide a project appraisal that impacts finals grades'",
+   "delivery_format": "Team project with mentor, weekly client meetings",
+   "local_id": "S3",
+   "official_name": "Data Science Clinic",
+   "description": "Project-based course, capstone of the undergraduate Data Science major, in which teams of 2-5 undergraduate (junior/senior) or master's students work as data scientists for external clients from the Industry Affiliates Program, social-impact/civic organisations and research collaborators, over 1-2 quarters at 10-15 hours/week, delivering analysis, software, reports and client presentations.",
+   "academic_reach": "Cross-faculty",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "duration": "1-2 academic quarters (generally two); 10-15 hours/week",
+   "project_based": "Yes",
+   "project_evidence": "'producing deliverables such as data analysis, research, and software along with client presentations and reports' [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Each project is assigned a team of 2 to 5 students and a mentor' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners scope projects, supply the problem, and 'provide a project appraisal that impacts finals grades'; IP retained by partner [1]. Spring 2026 pitchbook lists clients incl. Promega Corporation, Metropolitan Water Reclamation District, Accountability Counsel, Cook County Justice Advisory Council, Mothers Out Front, plus some internal UChicago units (Library, Becker Friedman Institute, Karczmar Lab) [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: scopes project, supplies data, meets team, appraises work affecting grade",
+   "deliverable": "Data analysis, research, software, client presentation and report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://datascience.uchicago.edu/education/data-science-clinic/",
+     "title": "Data Science Clinic",
+     "section": "Programme page",
+     "pub_year": "undated (site current)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Each project is assigned a team of 2 to 5 students and a mentor.' 'Clinic partners provide a project appraisal that impacts finals grades.' Partners include 'industry, social impact, civic organizations and research groups'; juniors/seniors or master's students; projects run 1 or 2 quarters (WebFetch summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://clinic.ds.uchicago.edu/projects/pitchbooks/2026-spring-pitchbook.pdf",
+     "title": "Spring 2026 Data Science Clinic pitchbook",
+     "section": "Overview; project list",
+     "pub_year": "Spring 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (PDF via pdftotext)",
+     "extract": "'The Data Science Clinic is a project-based course where students work in teams as data scientists with real-world clients under the supervision of instructors.' 'Clinic projects are generally scoped to run for two full quarters. Each student works between 10 to 15 hours a week.' Spring 2026 project list incl. Accountability Counsel, Cook County Justice Advisory Council, Promega Corporation, Mothers Out Front, University of Chicago Library.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ],
+   "english_name": "Data Science Clinic"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Not named on capstone page; one winning team partnered with Data for the Common Good (UChicago initiative, internal) per search summary",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "unresolved": "Compulsory status inferred from 'culminating experience'/'required Capstone'; programme regulations not opened. Some sponsors may be internal (e.g. Data for the Common Good). Current-year cohort dated evidence limited to 2025 Sponsor Guide and 'accepts projects year-round' page (© 2026); treat as current but weakly dated.",
+   "admin_host": "Data Science Institute",
+   "eligible_faculties_programmes": "MS in Applied Data Science students",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Required Capstone over two quarters (credit units not retrieved)",
+   "delivery_format": "Team project with sponsor",
+   "local_id": "S4",
+   "official_name": "MS in Applied Data Science Capstone Project",
+   "description": "Culminating requirement of the Master's in Applied Data Science: teams of four students, guided by an instructor and subject-matter expert, develop a data science solution to a real problem proposed by a partner organisation using the partner's data, over two quarters; sponsors meet teams at least seven times and own the IP.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Two quarters; projects placed in Spring and Autumn quarters",
+   "project_based": "Yes",
+   "project_evidence": "'immerse yourself in a real business problem ... authentic data'; teams 'develop a data science solution to address organization problems' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams comprised of four students and guided by an instructor and subject matter expert' [1]; 'Capstone teams consist of three or four students' [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Partner organizations propose real-world problems, untested ideas or research queries'; sponsors supply a problem statement and data, meet teams a minimum of seven times, and own resulting IP [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client: proposes problem, supplies data, meets team, owns IP",
+   "deliverable": "Data science solution / capstone report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 sponsor guide; page current 2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/",
+     "title": "Capstone Projects (MS-ADS)",
+     "section": "Programme page",
+     "pub_year": "undated (© 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'The culminating experience in the Master's in Applied Data Science program is a Capstone Project.' 'Teams comprised of four students and guided by an instructor and subject matter expert'; 'Partner organizations propose real-world problems, untested ideas or research queries'; accepts projects year-round for Spring and Autumn quarters (WebFetch summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://datascience.uchicago.edu/wp-content/uploads/2024/10/MS-ADS-Capstone-Sponsor-Guide-2025.pdf",
+     "title": "MS-ADS Capstone Sponsor Guide 2025",
+     "section": "Sponsor guidance",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Capstone teams consist of three or four students; sponsors should meet with student groups a minimum of seven times; products remain sponsor IP; capstone completed over two quarters.",
+     "supports": [
+      "group",
+      "employer",
+      "duration",
+      "status"
+     ]
+    }
+   ],
+   "english_name": "MS in Applied Data Science Capstone Project"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MENG 21800/21900",
+   "named_partners": "Argonne National Laboratory, Cyclopure, DSM Biomedical, Excelitas Technologies, Hollister, UChicago Medicine (article dated 3 Feb 2023)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "unresolved": "Compulsory status not confirmed from regulations (capstone for the major, inferred); no 2025/26 or 2026/27 dated evidence retrieved; partners include national lab and UChicago Medicine (mixed internal/external).",
+   "admin_host": "Pritzker School of Molecular Engineering",
+   "eligible_faculties_programmes": "Undergraduate seniors majoring in molecular engineering",
+   "year_of_study": "Year 4",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Two-course sequence (units not retrieved)",
+   "delivery_format": "Team design project with industry mentors",
+   "local_id": "S5",
+   "official_name": "Engineering Design capstone (MENG 21800-21900), Pritzker School of Molecular Engineering",
+   "description": "Two-quarter senior capstone in which teams of molecular engineering undergraduates are paired with industry partners and national-laboratory mentors to develop technologies or processes; teams present findings to the project sponsors and PME faculty. A graduate analogue (MENG 31800-31900) exists.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Two quarters",
+   "project_based": "Yes",
+   "project_evidence": "Teams 'develop new technologies or processes' and present findings to sponsors [1]; example projects include ultrasound techniques, antimicrobial glass coatings, bioreactors, flow batteries.",
+   "group_working": "Yes",
+   "group_evidence": "'student teams are paired with industry partners'; small teams with industry mentors [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Engineers from industry and national labs propose/mentor projects; 'students present their findings to the project sponsors and PME faculty' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor/mentor; receives final presentation",
+   "deliverable": "Prototype/solution and final presentation to sponsors",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023 (article); catalog undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://pme.uchicago.edu/news/uchicagos-engineering-design-capstone-connects-students-industry-partners-kickstart-their",
+     "title": "UChicago's Engineering Design capstone connects students with industry partners",
+     "section": "News article",
+     "pub_year": "2023-02-03",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'the two-quarter capstone'; 'student teams are paired with industry partners'; named partners Argonne National Laboratory, Cyclopure, DSM Biomedical, Excelitas Technologies, Hollister, UChicago Medicine; 'students present their findings to the project sponsors and PME faculty' (WebFetch summary). Search summary: engineers from industry and national laboratories propose real-world projects and serve as mentors (College catalog).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "english_name": "Engineering Design capstone (MENG 21800-21900), Pritzker School of Molecular Engineering"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Previous clients per page (undated): 3M, Campbell Soup, Georgia Pacific, Nike, Walgreens, Feeding America (and others)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "unresolved": "No 2025/26-2026/27 evidence found; credit, term and assessment not stated. Booth also runs Marketing Labs (Kilts Center; company-as-client, applied) and Social Impact Lab (nonprofit/government clients; page 'limited opportunities each year') - not separately evidenced with dates; BSI Consulting (extracurricular) listed in exclusions.",
+   "admin_host": "Harry L. Davis Center for Leadership, Chicago Booth",
+   "eligible_faculties_programmes": "Chicago Booth MBA students",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "Team consulting with consultant coaches",
+   "local_id": "S6",
+   "official_name": "Booth Consulting Lab",
+   "description": "Experiential MBA lab course in which several teams formed from up to 42 students work on real strategic problems for client companies; projects are sourced from real clients by A.T. Kearney consultants, who also coach the teams; teams develop actionable, data-driven recommendations.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "Unclear (quarter-length lab, not stated)",
+   "project_based": "Yes",
+   "project_evidence": "'develop actionable, data-driven recommendations' for clients' strategic business problems [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Several teams will be created from up to 42 students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Projects are sourced from real clients by A.T. Kearney consultants, who also serve as coaches for student teams' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client; consultant coaches",
+   "deliverable": "Recommendations to client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated; course listing seen for 2021",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.chicagobooth.edu/research/davis/courses-for-mba-students",
+     "title": "Leadership MBA Courses - Harry L. Davis Center",
+     "section": "Consulting Lab",
+     "pub_year": "undated (site © 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'experiential lab course designed to give students the experience of engaging with real clients'; 'Several teams will be created from up to 42 students.' 'Projects are sourced from real clients by A.T. Kearney consultants, who also serve as coaches for student teams.' Previous clients: 3M, Campbell Soup, Georgia Pacific, Nike, Walgreens, Feeding America (WebFetch summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ],
+   "english_name": "Booth Consulting Lab"
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Jeff Metcalf Internship Program (internships)",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "Individual paid internships; no group project component evidenced. Sprints reassessed as S1.",
+   "source_url": "https://careeradvancement.uchicago.edu/student-opportunities/internships/internship-programs/",
+   "status_note": "2026-27 label confirmed"
+  },
+  {
+   "name": "Harris Public Policy BA Capstone Project (PBPL 29500)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Each student writes own policy essay/project; no external client mentioned.",
+   "source_url": "https://harris.uchicago.edu/academics/undergraduate/capstone-projects",
+   "status_note": ""
+  },
+  {
+   "name": "Booth Social Impact (BSI) Consulting / campusCATALYST / Polsky Small Business Growth Program",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Extracurricular student-team pro bono consulting for nonprofits/small businesses (campusCATALYST: 25 undergraduates + 5 MBA mentors, 9 weeks, 5 nonprofits per quarter per Rustandy page; BSI teams of 4-5 with alumni coach per search summary). Likely meet A/B/C but dated current-year and detail evidence not obtained in reduced-depth mode.",
+   "source_url": "https://www.chicagobooth.edu/research/rustandy/what-we-do/social-impact-and-business/social-impact-consulting-projects",
+   "status_note": "Fall 2026 nonprofit client applications reported open in search summary"
+  },
+  {
+   "name": "Booth Marketing Labs (Kilts Center) and Social Impact Lab",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Booth pages indicate students work in groups with a company/nonprofit as client; no dated 2025/26+ course evidence retrieved.",
+   "source_url": "https://www.chicagobooth.edu/why-booth/stories/m-lab",
+   "status_note": ""
+  },
+  {
+   "name": "Law School clinics (Innovation Clinic, Kirkland & Ellis Corporate Lab, Housing Initiative etc.)",
+   "legacy": false,
+   "category": "Near-miss: not project",
+   "reason": "Client legal representation/casework in pairs or teams for startups, VCs and nonprofits; bounded deliverable-type project not established and clinics are casework. Innovation Clinic: 'typically working in pairs or teams' with startup/VC clients.",
+   "source_url": "https://www.law.uchicago.edu/clinics/innovation/student-work",
+   "status_note": "Undated; would need A and course-level evidence"
+  },
+  {
+   "name": "Chicago Studies certificate capstone / Civic Engagement / University Community Service Center",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Community engagement hours and individual capstone; no team project for external organisation evidenced.",
+   "source_url": "http://collegecatalog.uchicago.edu/thecollege/chicagostudies/",
+   "status_note": ""
+  },
+  {
+   "name": "Graham School Data Analytics Capstone",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Surfaced in search; not opened (continuing-education analytics master's capstone).",
+   "source_url": "https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics/capstone",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "University of Chicago provision is distributed across schools rather than institution-wide, with one central route. **Central:** Metcalf Sprints (Career Advancement) put teams of undergraduates on a 2-3 week deliverable for an employer partner; extracurricular, application-based, with sprints scheduled through August 2027. **Social sciences/policy:** Harris Policy Labs are elective, credit-bearing quarter-long practicums where student teams produce a policy memo and presentation for government, nonprofit or multilateral clients (Spring 2026 syllabus verified); open mainly to Harris students with other professional-school access by consent. **Data science/computing:** the Data Science Clinic (teams of 2-5 undergraduates/master's students, 1-2 quarters, partners appraise work affecting grades; Spring 2026 project list with named external organisations) and the compulsory MS in Applied Data Science capstone (teams of four, partner-proposed problems, two quarters). **Engineering:** the PME senior capstone with industry sponsors (evidence from 2023). **Business:** the Booth Consulting Lab with Kearney-sourced real clients (undated); student-run consulting is a lead. No university-wide curricular requirement or route was verified. Uncertain: current-year evidence for PME and Booth, internal vs external partner share in Clinic and Harris labs, participation numbers (none published in sources found).",
+ "gaps": "Not researched in reduced-depth mode: Booth Marketing Labs, Social Impact Lab, BSI/campusCATALYST dated evidence; Crown Family School field projects; Computer Science and natural-science departmental capstones; Pritzker Law/other clinics beyond Innovation Clinic; Polsky Center programmes; Graham School capstone; humanities/arts team projects with external partners. Further departmental instances likely."
+}

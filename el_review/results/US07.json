@@ -1,0 +1,75 @@
+{
+ "inst_id": "US07",
+ "institution": "Pennsylvania",
+ "review_status": "Partial",
+ "partial_remaining": "Science, arts/humanities (beyond Fels/ABCS) and other (law/design/health) areas still to be queried; Fels team basis and WISC-type status to confirm.",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Netter Center ABCS Spring 2026 courses (WebFetch)"
+   ],
+   "key_sources": [
+    "https://www.nettercenter.upenn.edu/what-we-do/abcs-courses/spring-2026-abcs-courses"
+   ],
+   "finding": "ABCS Spring 2026 lists 33 courses; several have small groups working with school/community partners but mostly teaching/service, not client-set projects."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Wharton Field Application Project Lauder VIP client team",
+    "Wharton Global Consulting Practicum",
+    "Wharton WISC consulting",
+    "Wharton Field Application Project MBA"
+   ],
+   "key_sources": [
+    "https://impact.wharton.upenn.edu/students/wharton-impact-and-sustainability-consulting-wisc/",
+    "https://www.wharton.upenn.edu/story/wharton-launches-social-impact-practicum-for-emba-students/"
+   ],
+   "finding": "WISC (co-curricular client consulting teams, Fall 2026 confirmed), EMBA Social Impact Consulting Practicum (2025 article), MBA Field Application Projects (recruiter page only)."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Penn Engineering Senior Design industry sponsored project team sponsor"
+   ],
+   "key_sources": [
+    "https://academics.engineering.upenn.edu/ugrad/senior-design/"
+   ],
+   "finding": "Official Senior Design page describes only the Alumni Society competition; no evidence of external sponsors as standard (C unclear)."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": ""
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Penn Arts Sciences data science/CS capstone real client",
+    "Fels capstones"
+   ],
+   "key_sources": [
+    "https://www.fels.upenn.edu/student-experience/capstones"
+   ],
+   "finding": "Fels capstone with nonprofit/government partners."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Weitzman design studio community partner"
+   ],
+   "key_sources": [
+    "https://www.design.upenn.edu/community-partners"
+   ],
+   "finding": "Partners listed but no course-level mechanism evidenced yet."
+  }
+ },
+ "schemes": [],
+ "exclusions": [],
+ "embeddedness": "Unclear",
+ "profile_md": "Partial work in progress.",
+ "gaps": "in progress"
+}

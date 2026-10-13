@@ -1,0 +1,578 @@
+{
+ "inst_id": "US03",
+ "institution": "Stanford",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Stanford Haas Center Cardinal Quarter community partner team project course; Stanford Impact Labs student teams",
+    "Design for Extreme Affordability pages (legacy)"
+   ],
+   "key_sources": [
+    "https://extreme.stanford.edu/event/extreme-2026-application-cycle-open/",
+    "https://cardinalservice.stanford.edu/opportunities/cardinal-quarter",
+    "https://undergrad.stanford.edu/programs/community-engaged-learning-cardinal-courses"
+   ],
+   "finding": "Extreme is the strongest university-wide route (all-school graduate eligibility). Cardinal Quarter is individual placements; Cardinal Courses/Capstones are leads without verified team plus external-org evidence."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Stanford GSB Global Study Trips / Social Innovation / Startup Garage client team project",
+    "Stanford GSB MBA course teams consult real client organization"
+   ],
+   "key_sources": [
+    "https://www.gsb.stanford.edu/experience/learning/entrepreneurship/courses/startup-garage",
+    "https://www.gsb.stanford.edu/organizations/leverage-gsb/act-nonprofits/services"
+   ],
+   "finding": "Startup Garage is team-based but no external organisation evidenced; ACT consulting uses alumni volunteers not students. GSB co-offers Extreme (S1)."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Stanford ME310 global design innovation corporate partner team project",
+    "Stanford CS 194 software project industry partner client",
+    "Stanford CS 210 partner companies 2025-26"
+   ],
+   "key_sources": [
+    "https://me.stanford.edu/project-opportunity-me310abc",
+    "https://cs210.stanford.edu/",
+    "https://msande.stanford.edu/research-impact/mse-student-research/mse-senior-projects"
+   ],
+   "finding": "ME310 (sponsor-funded, 2026-27) and MS&E senior projects (2026 sponsors) qualify; CS210B partner-seeded but current partners unverified; CS194 has no external client."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Stanford Earth OR Biology OR Chemistry OR Physics students team project external partner capstone sponsor course"
+   ],
+   "key_sources": [
+    "https://earthsystems.stanford.edu/academics-admissions/undergraduate-program/earth-systems-major/senior-capstone-project",
+    "https://eiper.stanford.edu/academics-admissions/joint-and-dual-ms-degree/capstone-project",
+    "https://biology.stanford.edu/academics/undergraduate-program/capstone-requirement"
+   ],
+   "finding": "Biology and Physics capstones are individual; Earth Systems capstone and E-IPER client option (ENVRES 290) are leads but unverified for team plus client."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Stanford Public Policy Policy Practicum client organization student team report",
+    "Stanford humanities OR social sciences OR communication OR education course teams community partner client project 2025-26"
+   ],
+   "key_sources": [
+    "https://publicpolicy.stanford.edu/undergraduate/practicum",
+    "https://publicpolicy.stanford.edu/graduate/graduate-program"
+   ],
+   "finding": "Public Policy Practicum (UG and MPP) is a compulsory team client capstone; no dated current-year evidence retrieved. No other humanities team-client course verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Stanford Law School clinic students team client; Stanford Biodesign OR Haas Center community partner team course",
+    "Law & Policy Lab"
+   ],
+   "key_sources": [
+    "https://law.stanford.edu/education/only-at-sls/law-policy-lab/",
+    "https://law.stanford.edu/entrepreneurship-clinic/"
+   ],
+   "finding": "Law & Policy Lab practicums have public-sector clients (2026-27 listed) but team basis unclear; clinics are casework. Biodesign/medicine not located in results."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Design for Extreme Affordability (Extreme)",
+   "english_name": "Design for Extreme Affordability",
+   "module_code": "OIT 333-334 / ME 206A/B",
+   "description": "Two-quarter (winter, spring) interdisciplinary graduate course co-offered by the GSB and School of Engineering; student teams take a question posed by a community partner, build prototypes, with a spring-break field trip to Costa Rica; aimed at implementation.",
+   "academic_reach": "University-wide",
+   "admin_host": "d.school; Graduate School of Business; School of Engineering",
+   "eligible_faculties_programmes": "Graduate students across all Stanford schools and programs",
+   "faculty_areas": [
+    "central",
+    "business",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Limited enrolment by application; must take both OIT333 (winter) and OIT334 (spring)",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "4 units, letter grade, cross-listed OIT 333-334 / ME 206A/B [2]",
+   "duration": "Winter and spring quarters",
+   "delivery_format": "Team project course with field trip",
+   "project_based": "Yes",
+   "project_evidence": "Team-based challenges, prototypes, culminating in implementation [1][2]; no explicit final deliverable list on page.",
+   "group_working": "Yes",
+   "group_evidence": "'work on team-based challenges with community partners'; 'multidisciplinary team, fast paced, project based experience' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Each project in Extreme begins with a question posed by a community partner on the ground'; 'Students work directly with course partners, and the communities they serve' [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Poses project question; students work directly with partner and communities",
+   "named_partners": "",
+   "deliverable": "Prototype/product or service (implementation intended)",
+   "duration_band": "> 1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (application cycle Oct-Nov 2025 for 2026 cohort)",
+   "participation_data": "",
+   "unresolved": "Partner sector mix (NGOs/social enterprises/companies) not itemised on pages fetched; no named partners.",
+   "legacy_ref": "Design for Extreme Affordability",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://extreme.stanford.edu/event/extreme-2026-application-cycle-open/",
+     "title": "Extreme 2026 application cycle open",
+     "section": "Event page",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Open to graduate students across all Stanford schools and programs'; 'a two-quarter interdisciplinary course co-offered by the Graduate School of Business and the School of Engineering'; 'Each project in Extreme begins with a question posed by a community partner on the ground'; application window Oct 1-Nov 26, 2025.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://dschool.stanford.edu/study/elective-courses/design-for-extreme-affordability-2",
+     "title": "Design for Extreme Affordability (d.school)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'multidisciplinary team, fast paced, project based experience'; 'Students work directly with course partners, and the communities they serve, on real world problems'; 4 units letter grade, OIT 333-334 / ME 206A/B; 'LIMITED ENROLLMENT BY APPLICATION'; must sign up for both quarters.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "ME310 Global Design Innovation (ME310ABC)",
+   "english_name": "ME310 Global Design Innovation",
+   "module_code": "ME310A/B/C",
+   "description": "Year-long (Sept-June) company-sponsored engineering design course: Stanford team of 3-4 graduate students paired with a team at a partner university works on a corporate sponsor's problem statement, producing a functional prototype and presenting at Stanford Design EXPErience in June.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Mechanical Engineering (Design Group)",
+   "eligible_faculties_programmes": "Master's-level engineering and design students (30-40 Stanford students per year)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not itemised on page fetched",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not evidenced",
+   "duration": "Autumn to mid-June (9 months)",
+   "delivery_format": "Team design project with international partner team",
+   "project_based": "Yes",
+   "project_evidence": "Broad problem statements refined into 'fully functional reference model prototypes in June' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'two teams of three to four graduate students each' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry collaborators sponsor the project; 'Corporate involvement provides the reality checks'; project fee for 2026-27 [1]; past sponsors per search extract: Clariant, IKEA Industry, Hamilton Company [2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsors problem statement and fee; interacts with teams; liaison throughout year",
+   "named_partners": "Clariant (2012-13), IKEA Industry (undated), Hamilton Company (more recent, per search summary) - not verified for 2026-27",
+   "deliverable": "Functional reference-model prototype, showcased at EXPE",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026-27 (sponsor fee listed for academic year 2026-27)",
+   "participation_data": "About 100 masters students per year across Stanford and partner universities (30-40 Stanford) [1]",
+   "unresolved": "Credit/units and Stanford eligibility not confirmed; page is a sponsor solicitation, so 2026-27 sponsors not named.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://me.stanford.edu/project-opportunity-me310abc",
+     "title": "Project Opportunity: ME310ABC",
+     "section": "Sponsor page",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'ME310-Global Industry collaborators work with two teams of three to four graduate students each'; prototypes in June; 'academic year 2026-27' fee; 'Autumn (late September through mid-Dec) = Laying the framework'; 'Winter & Spring (Jan - mid-June) = international team-work, system realization'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://stacks.stanford.edu/file/druid:mk991cw1850/Clariant_FINAL_Documentation.pdf",
+     "title": "ME310 2012-2013 Clariant final documentation",
+     "section": "PDF",
+     "pub_year": "2012-13",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Search-result title/snippet only: ME310 team documentation for Clariant (historical example).",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Public Policy Practicum (PUBLPOL 200A/B/C undergraduate senior practicum; PUBLPOL 309 MPP Practicum)",
+   "english_name": "Public Policy Program Practicum",
+   "module_code": "PUBLPOL 200A/B/C; PUBLPOL 309",
+   "description": "Capstone in which small student teams analyse a real policy problem for a government or nonprofit client, ending in a final report and formal presentation to the client. Required for Public Policy BA seniors (5 units) and MPP students (10 units, Autumn and Winter).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Public Policy Program",
+   "eligible_faculties_programmes": "Public Policy majors (senior year) and MPP students",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Senior year (UG); MPP year 2 (inferred, not stated)",
+   "eligibility_restrictions": "Public Policy majors / MPP",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "PUBLPOL 200A/B/C 5 units; PUBLPOL 309 10 units",
+   "duration": "1-2 quarters (UG one quarter; MPP Autumn+Winter)",
+   "delivery_format": "Team client project",
+   "project_based": "Yes",
+   "project_evidence": "'a final report and formal presentation to the client' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students work in small teams' [1]; 'interdisciplinary student teams analyze real world policy issues for outside clients' [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisations (government and nonprofit) sponsor projects, meet teams at start, middle and end (search extract) and receive the report and presentation [1][2]; 'over 50 client organizations' since 2007 [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: poses project, guides team, receives report and presentation",
+   "named_partners": "Not named on pages fetched",
+   "deliverable": "Client report and presentation",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "Over 200 students, over 50 client organisations since 2007 (cumulative) [1]",
+   "unresolved": "No dated 2025/26 or 2026/27 evidence retrieved; need current-year practicum client list.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://publicpolicy.stanford.edu/undergraduate/practicum",
+     "title": "Practicum - Public Policy Program",
+     "section": "Undergraduate practicum",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Students must enroll in Public Policy 200a, 200b, or 200c for 5 units in their senior year'; 'students work in small teams'; 'a final report and formal presentation to the client'; 'over 50 client organizations'; clients include 'government and nonprofit organizations'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://publicpolicy.stanford.edu/graduate/graduate-program",
+     "title": "Graduate Program - Public Policy",
+     "section": "Policies",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "MPP students must complete 'PUBLPOL 309 Practicum' (10 units, Autumn and Winter quarters); 'interdisciplinary student teams analyze real world policy issues for outside clients'.",
+     "supports": [
+      "group",
+      "employer",
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MS&E Senior Project (sponsor-based team projects)",
+   "english_name": "Management Science & Engineering senior project course",
+   "module_code": "",
+   "description": "Senior project course of the MS&E major in which teams of 3-4 act as consultants to sponsor organisations on real problems over a 10-week quarter (2026 sponsors included IBM, New Enterprise Associates, Sanas, Ajax Health), delivering final presentations and written summaries, models or AI tools.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Management Science and Engineering",
+   "eligible_faculties_programmes": "MS&E majors (seniors)",
+   "faculty_areas": [
+    "engineering_computing",
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated; course number not named on page",
+   "duration": "10-week quarter (per search extract)",
+   "delivery_format": "Team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Deliverables included final presentations, written summaries, financial models, go-to-market strategies, custom AI agents [1].",
+   "group_working": "Yes",
+   "group_evidence": "'In teams of three to four' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams define and solve a problem with a sponsor organisation; page lists 2026 sponsors, with some videos shared only where sponsors allowed [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor: problem, feedback; receives deliverables",
+   "named_partners": "2026: IBM (three teams), New Enterprise Associates, Sanas, Ajax Health, SURF Stanford Medicine, Nest, PINTAR and others [1]",
+   "deliverable": "Final presentation and written summary/model/tool",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Winter/Spring quarter 2026)",
+   "participation_data": "About 15 named sponsors/projects listed for 2026 [1]",
+   "unresolved": "Course number and whether compulsory for MS&E majors; whether 'External Partner Coverage' is standard for all teams (some sponsor 'Anonymous' ; SURF Stanford Medicine is internal-affiliated).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://msande.stanford.edu/research-impact/mse-student-research/mse-senior-projects",
+     "title": "MS&E Senior Projects",
+     "section": "2026 senior projects",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'In teams of three to four'; 2026 senior projects with sponsors incl. IBM (three teams), New Enterprise Associates, Sanas, Ajax Health, Rashal Energies; deliverables incl. final presentations, financial models, go-to-market strategies, custom AI agents.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CS 210B Software Entrepreneurship Project (Software Development for Startups / Software Fair)",
+   "english_name": "CS210 corporate-partner software project",
+   "module_code": "CS 210B",
+   "description": "Two-quarter (Winter/Spring) course where teams operate as startups on loosely defined R&D challenges seeded by corporate partners, travelling to partner HQ where practical; showcased at the Software Fair (10 June 2026).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Computer Science",
+   "eligible_faculties_programmes": "Not established",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not retrieved",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Winter and Spring quarters (CS210B spring 2026 lecture 30 Mar-3 Jun 2026)",
+   "delivery_format": "Team software project",
+   "project_based": "Yes",
+   "project_evidence": "Teams build software solutions to partner-seeded challenges; Software Fair showcase (search extract) [1].",
+   "group_working": "Yes",
+   "group_evidence": "Student teams treated as start-up companies (search extract) [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Corporate partners seed projects; partner names retrieved were older (Facebook, Yahoo, Microsoft, BMW) and 2025-26 partners were not found [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Seeds project challenges; liaison on advisory board",
+   "named_partners": "Historical only (older page); not verified for 2025/26",
+   "deliverable": "Software product, Software Fair demo",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026 (Explore Courses listing; Software Fair 10 June 2026)",
+   "participation_data": "",
+   "unresolved": "Search extract only (cs210.stanford.edu not opened); current partners and current-year C evidence not verified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://cs210.stanford.edu/",
+     "title": "CS210",
+     "section": "Course site",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search-result summary: corporate partners seed projects with loosely defined challenges from R&D labs; student teams treated as start-ups; CS 210B Spring 2026 listed; Software Fair 10 June 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Law and Policy Lab practicums",
+   "english_name": "Law and Policy Lab practicums",
+   "module_code": "e.g. LAW 810B",
+   "description": "Stanford Law School practicums in which students, under faculty guidance, advise real public-sector or nonprofit clients and produce client-needs-driven reports (e.g. California Civil Rights Division dispute-resolution project, 2025-26).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Stanford Law School",
+   "eligible_faculties_programmes": "Stanford Law students (enrolment criteria not stated)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not stated",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Autumn/Winter quarter practicums",
+   "delivery_format": "Client practicum",
+   "project_based": "Yes",
+   "project_evidence": "'The resulting deliverables reflect the needs of the client'; completed reports cited [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page says students counsel clients under faculty advisers; team structure not stated in fetched text [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'The clients may be local, state, or federal public agencies or officials' and private nonprofits [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Client",
+   "named_partners": "California Civil Rights Division (LAW 810B Autumn 2025/Winter 2026, per search summary)",
+   "deliverable": "Client report",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026-27 (page lists Practicums 2026-2027, five Autumn 2026)",
+   "participation_data": "",
+   "unresolved": "Group working and enrolment not stated; other law clinics are casework (excluded).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://law.stanford.edu/education/only-at-sls/law-policy-lab/",
+     "title": "Law & Policy Lab",
+     "section": "Overview",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Under the guidance of seasoned faculty advisers, Law and Policy Lab students counsel real-world clients.' 'The clients may be local, state, or federal public agencies or officials'; 'The resulting deliverables reflect the needs of the client'; 'Practicums 2026-2027'.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Startup Garage (STRAMGT 356 etc.)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team project to build a startup with prototype and plan, but no external organisation sets the brief or receives output; teams are their own ventures.",
+   "source_url": "https://www.gsb.stanford.edu/experience/learning/entrepreneurship/courses/startup-garage",
+   "status_note": "Enrolled Stanford students only"
+  },
+  {
+   "name": "CS 194 / 194W Software Project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team software project; demo audience includes local tech companies but no client relationship evidenced.",
+   "source_url": "https://cs194.stanford.edu/",
+   "status_note": ""
+  },
+  {
+   "name": "Alumni Consulting Team (GSB ACT)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Consultants are GSB alumni volunteers, not current students.",
+   "source_url": "https://www.gsb.stanford.edu/organizations/leverage-gsb/act-nonprofits/services",
+   "status_note": ""
+  },
+  {
+   "name": "Cardinal Quarter (Haas Center)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual public-service placements.",
+   "source_url": "https://cardinalservice.stanford.edu/opportunities/cardinal-quarter",
+   "status_note": ""
+  },
+  {
+   "name": "Cardinal Courses / Cardinal Capstones / Community-Based Research Fellowships",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Over 150 community-engaged courses; individual or group, but no specific team plus external-org route examined. Lead only.",
+   "source_url": "https://undergrad.stanford.edu/programs/community-engaged-learning-cardinal-courses",
+   "status_note": ""
+  },
+  {
+   "name": "Earth Systems senior capstone; E-IPER ENVRES 290 client option",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Mentions community partners / off-campus client; team basis and current delivery not verified.",
+   "source_url": "https://eiper.stanford.edu/academics-admissions/joint-and-dual-ms-degree/capstone-project",
+   "status_note": ""
+  },
+  {
+   "name": "Biology and Physics capstones",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual research capstones.",
+   "source_url": "https://biology.stanford.edu/academics/undergraduate-program/capstone-requirement",
+   "status_note": ""
+  },
+  {
+   "name": "Stanford Law clinics (Community Law, Entrepreneurship, Supreme Court)",
+   "legacy": false,
+   "category": "Near-miss: not project",
+   "reason": "Casework for clients; not a bounded team project output.",
+   "source_url": "https://law.stanford.edu/entrepreneurship-clinic/",
+   "status_note": ""
+  },
+  {
+   "name": "GSB Global Study Trips / Global Experience",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Trips with possible service consulting project; no evidence retrieved on teams and client brief.",
+   "source_url": "https://www.gsb.stanford.edu/experience/news-history/study-trips-add-perspective-mba-students",
+   "status_note": ""
+  },
+  {
+   "name": "Stanford Biodesign",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Not located in the searches run.",
+   "source_url": "",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Stanford has several verified, distributed team-plus-external-client routes, mostly graduate or programme-embedded. The only university-wide route is Design for Extreme Affordability (OIT 333-334 / ME 206A/B): an application-only two-quarter, 4-unit course open to graduate students from all schools, in which multidisciplinary teams take questions posed by community partners and build prototypes; the 2026 cohort cycle is confirmed. In engineering, ME310 pairs a Stanford team of 3-4 graduates with a partner-university team on a corporate sponsor's problem from September to June (sponsor fee listed for 2026-27), and MS&E senior-project teams of 3-4 consulted for named 2026 sponsors (IBM, NEA, Sanas and others). CS 210B uses corporate-partner-seeded team projects (spring 2026 offering) but current partners were not verified. The Public Policy Practicum is a compulsory senior (BA) and MPP team capstone for government and nonprofit clients, with over 50 clients since 2007, but no dated current-year evidence was retrieved. Law & Policy Lab practicums serve public-sector clients (2026-27 listed) with team basis unclear.\n\nProvision is distributed across schools, with one cross-school graduate route. Participation is mostly optional or selective, compulsory only within Public Policy. Uncertainty: current-year partners, credit and eligibility for ME310, CS210B; humanities and sciences and community-engaged courses were only lightly searched under reduced depth.",
+ "gaps": "Reduced-depth review (about 9 searches plus WebFetch). Further departmental capstones likely (Earth Systems, E-IPER, Biodesign, Cardinal Courses, GSB study trips, Medicine). CS210 current partners, ME310 credit/eligibility, and Public Policy practicum current-year clients unverified. CS industry-collaborator page returned a login wall. Law and Policy Lab group basis unclear."
+}
