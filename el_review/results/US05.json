@@ -1,8 +1,8 @@
 {
  "inst_id": "US05",
  "institution": "University of California, Berkeley",
- "review_status": "Partial",
- "partial_remaining": "Session search limit hit after about 12 searches/fetches. Not run: a humanities/social-science undergraduate query and an EECS/Data Science undergraduate industry-project query; also Fung Fellowship, Deep Tech Innovation Lab, MSSE capstone and Haas IBD need opening; current-year (2025/26-2026/27) evidence for S1, S2, S4-S6 still needed.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -32,13 +32,15 @@
    "status": "Searched",
    "queries": [
     "Berkeley Engineering capstone industry sponsored project team Fung Institute Master of Engineering",
-    "Berkeley data science capstone external client"
+    "Berkeley data science capstone external client",
+    "Berkeley Engineering Fung Fellowship undergraduate team industry project 2026"
    ],
    "key_sources": [
     "https://funginstitute.berkeley.edu/programs-centers/full-time-program/capstone-experience/",
-    "https://funginstitute.berkeley.edu/partners/"
+    "https://funginstitute.berkeley.edu/partners/",
+    "https://funginstitute.berkeley.edu/ff-showcase-2026/"
    ],
-   "finding": "MEng capstone with industry sponsors; undergraduate EECS/Data Science capstones not found (one follow-up search was refused by session limit)."
+   "finding": "MEng capstone with industry sponsors; undergraduate EECS/Data Science capstones not found (one follow-up search was refused by session limit). Fung Fellowship (S7) is an undergraduate partner-project route. MIDS client-based DATASCI 210 option exists (search summary), not assessed."
   },
   "science": {
    "status": "Searched",
@@ -53,13 +55,14 @@
   "arts_humanities_social_sciences": {
    "status": "Searched",
    "queries": [
-    "Berkeley Goldman School of Public Policy client organization team"
+    "Berkeley Goldman School of Public Policy client organization team",
+    "Berkeley undergraduate course student teams client project external organization capstone (sociology/public policy/data science/EECS)"
    ],
    "key_sources": [
     "https://gspp.berkeley.edu/career-services/client-based-projects/introduction-to-policy-analysis-ipa",
     "https://gspp.berkeley.edu/career-services/client-based-projects/capstone-projects"
    ],
-   "finding": "GSPP IPA (team, public-sector clients) qualifies; Capstone is individual. A humanities/social-science undergraduate query was refused by the session limit and not run."
+   "finding": "GSPP IPA (team, public-sector clients) qualifies; Capstone is individual. A humanities/social-science undergraduate query was refused by the session limit and not run. Follow-up search found no undergraduate humanities/social-science client-team course."
   },
   "other": {
    "status": "Searched",
@@ -233,19 +236,19 @@
    "local_id": "S3",
    "official_name": "Data Science Discovery Program (Data Discovery course)",
    "description": "CDSS programme in which student teams of one to five work about 12 weeks (six hours per week) on a mentor-supplied dataset and goal, presenting a poster and symposium talk. Mentors may come from academia, companies, nonprofits or government.",
-   "academic_reach": "Unclear",
+   "academic_reach": "University-wide",
    "admin_host": "Division of Computing, Data Science, and Society (CDSS)",
-   "eligible_faculties_programmes": "Berkeley students applying to Data Discovery (eligibility not retrieved)",
+   "eligible_faculties_programmes": "Undergraduates actively enrolled in any UC Berkeley program (MIDS/MEng generally not eligible) [search summary]",
    "faculty_areas": [
     "science",
     "central"
    ],
-   "student_level": "Unclear",
+   "student_level": "Undergraduate",
    "year_of_study": "",
-   "eligibility_restrictions": "Not retrieved",
+   "eligibility_restrictions": "Not for MIDS/MEng students; enrolment in DATA 198 (consent of instructor, P/NP)",
    "participation_requirement": "Optional/elective",
    "curricular_status": "Curricular",
-   "credit_assessment": "'Data Discovery is part of students' curriculum'; mentor feedback considered in grades; units not stated",
+   "credit_assessment": "Search summary: three-unit course (Fall 2026) meeting Tuesdays 5-6pm; older pages 1 unit per 3 hrs/week via DATA 198 (1-4 units, P/NP). Mentor feedback considered in grades [1].",
    "duration": "About 12 six-hour weeks per semester; symposium early December or May",
    "delivery_format": "Mentor-hosted team research project plus course meetings",
    "project_based": "Yes",
@@ -260,7 +263,7 @@
    "external_partner_coverage": "Some projects",
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "Fall 2026 (project work begins 1 Sept 2026)",
-   "unresolved": "Share of external versus academic mentors; team sizes per project; student eligibility and units.",
+   "unresolved": "Share of external versus academic mentors; team sizes per project (1-5, individual possible); eligibility/credit taken from search summaries of cdss.berkeley.edu pages, not page text.",
    "sources": [
     {
      "n": 1,
@@ -278,6 +281,20 @@
       "status",
       "credit",
       "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://undergraduate.catalog.berkeley.edu/courses/1587661",
+     "title": "DATA198 Course",
+     "section": "Catalog",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "DATA 198 Directed Group Studies for Advanced Undergraduates, max 4 units, P/NP.",
+     "supports": [
+      "credit",
+      "eligibility"
      ]
     }
    ]
@@ -459,6 +476,99 @@
      ]
     }
    ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Fung Fellowship (Health + Innovation and Sustainability + Innovation tracks)",
+   "english_name": "Fung Fellowship",
+   "module_code": "",
+   "description": "Fung Institute one-semester (~12 week) programme in which undergraduate student teams, drawn from engineering and non-engineering majors, work on open-ended design challenges posed by industry, public-sector and community partners (2026 showcase: Kaiser Permanente, UCSF, California Department of Fish and Wildlife, California Department of Health Care Services, ReFED and others); two 2026 projects were independent with no outside partner.",
+   "academic_reach": "University-wide",
+   "admin_host": "Fung Institute for Engineering Leadership, College of Engineering",
+   "eligible_faculties_programmes": "Engineering and non-engineering undergraduates from across campus",
+   "faculty_areas": [
+    "engineering_computing",
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application required",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "~12 weeks, one semester, Fall and Spring",
+   "delivery_format": "Team design project with partner",
+   "project_based": "Yes",
+   "project_evidence": "Open-ended design challenge with outputs such as web application, clinical screening toolkit, methane-sensing device, chatbot [1][2][3].",
+   "group_working": "Yes",
+   "group_evidence": "Showcase page: teams of 3-5 (Health) and 3-6 (Sustainability) [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners submit project proposals and work closely with student teams; projects sourced from industry and community partners [1][3]. Two 2026 projects had no outside partner, so coverage is most but not all.",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes project; collaborates with team",
+   "named_partners": "2026 showcase: Kaiser Permanente, UCSF, California Dept of Fish and Wildlife, California Dept of Health Care Services, Climate Action California, ReFED [2]",
+   "deliverable": "Prototype/tool/design presented at end-of-year showcase",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Spring 2026 showcase; Spring 2027 recruiting)",
+   "participation_data": "15 projects at 2026 showcase (10 Health, 5 Sustainability) [2].",
+   "unresolved": "Credit; precise partner share (two independent projects); exact Spring 2027 dates; team size stated differently across pages.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://funginstitute.berkeley.edu/fung-fellows/",
+     "title": "The UC Berkeley Fung Fellowship",
+     "section": "Main page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; fetch-model answer)",
+     "extract": "Brings together 'engineering and non-engineering undergraduates'; about 12 weeks, one semester, Fall and Spring; fellows work in student teams with partner organizations on public health or sustainability challenges.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "duration",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://funginstitute.berkeley.edu/ff-showcase-2026/",
+     "title": "Fung Fellowship End of Year Showcase 2026",
+     "section": "Showcase",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; fetch-model answer)",
+     "extract": "Health + Innovation 10 projects, teams of 3-5; Sustainability + Innovation 5 projects, teams of 3-6; partners Kaiser Permanente, UCSF, CA Dept of Fish and Wildlife, CA Dept of Health Care Services, ReFED; INSO and Navigating Care independent with no outside partner.",
+     "supports": [
+      "group",
+      "employer",
+      "status",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://funginstitute.berkeley.edu/fung-fellows/partner-with-us/partners/",
+     "title": "Fung Fellowship Partners",
+     "section": "Partners page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; fetch-model answer)",
+     "extract": "Partners submit a project proposal and can 'Connect with students in the classroom'; spotlights include a web application, clinical screening toolkit, AR/VR learning app.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
@@ -503,14 +613,6 @@
    "status_note": "Not opened"
   },
   {
-   "name": "Haas International Business Development (IBD) and Fung Fellowship (12-week undergraduate)",
-   "legacy": false,
-   "category": "Evidence gap",
-   "reason": "IBD described by search as team-based client consulting; fetched Haas page gave no team/client detail. Fung Fellowship team size and partners not stated.",
-   "source_url": "https://mba.haas.berkeley.edu/academics/experiential-learning",
-   "status_note": "Not researched further"
-  },
-  {
    "name": "MIDS Data Science capstone (School of Information, DATASCI 210A)",
    "legacy": false,
    "category": "Near-miss: no external org",
@@ -525,9 +627,17 @@
    "reason": "Funded student-led projects with community partners, not a course-structured employer brief.",
    "source_url": "https://publichealth.berkeley.edu/articles/news/social-impact/student-innovators-awarded-impact-funding",
    "status_note": ""
+  },
+  {
+   "name": "Haas International Business Development (IBD)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search-described team client consulting; no team/client detail found on fetched page.",
+   "source_url": "https://mba.haas.berkeley.edu/academics/experiential-learning",
+   "status_note": "Not researched further"
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "Berkeley's documented employer-linked group project routes are distributed across graduate schools rather than institution-wide. The Goldman School's Introduction to Policy Analysis (S1) places teams of four to six first-year MPP students with public-sector agencies and NGOs, producing a report and presentation (Spring 2027 call open). Engineering's MEng Capstone (S2) runs nine-month teams of three to five on industry-proposed projects, but the page also describes faculty-involved projects, so external sponsorship across all teams is unproven. Data Science Discovery (S3) offers mentor-set projects with teams of 1-5, partly academic mentors, so group and employer criteria are unclear. Haas offers Social Sector Solutions (nonprofit client teams of 5-7), Haas@Work (firm challenges) and Startup Lab, all MBA or graduate-led with weak current-year evidence. The legacy Berkeley Discovery framework is a platform, not a scheme. No undergraduate curricular route meeting all three criteria was verified; participation is optional or programme-specific, with no institution-wide route found. No participation numbers were located.",
- "gaps": "Undergraduate humanities/social science and EECS/Data Science routes not searched (limit). Current-year evidence absent for most Haas routes. Compulsory status of IPA and MEng capstone unconfirmed. Further departmental capstones likely exist."
+ "profile_md": "Berkeley's documented employer-linked group project routes are distributed across graduate schools rather than institution-wide. The Goldman School's Introduction to Policy Analysis (S1) places teams of four to six first-year MPP students with public-sector agencies and NGOs, producing a report and presentation (Spring 2027 call open). Engineering's MEng Capstone (S2) runs nine-month teams of three to five on industry-proposed projects, but the page also describes faculty-involved projects, so external sponsorship across all teams is unproven. Data Science Discovery (S3) offers mentor-set projects with teams of 1-5, partly academic mentors, so group and employer criteria are unclear. Haas offers Social Sector Solutions (nonprofit client teams of 5-7), Haas@Work (firm challenges) and Startup Lab, all MBA or graduate-led with weak current-year evidence. The legacy Berkeley Discovery framework is a platform, not a scheme. No undergraduate curricular route meeting all three criteria was verified; participation is optional or programme-specific, with no institution-wide route found. No participation numbers were located.\n\nUpdate: the Fung Fellowship (S7) is the strongest undergraduate route found: campus-open, selective, ~12-week semester teams of 3-6 working on proposals from partners such as Kaiser Permanente, UCSF and California state agencies (Spring 2026 showcase; Spring 2027 recruiting), though two 2026 projects had no outside partner and credit is not stated. Data Discovery (S3) is open to enrolled undergraduates (3 units, Fall 2026 per search summary) but team size 1-5 and mentor mix leave B and C unclear.",
+ "gaps": "Credit for Fung Fellowship not found; IPA and MEng compulsory status unconfirmed; MIDS client-based capstone, Deep Tech Innovation Lab, MSSE, Haas IBD not assessed; Haas routes lack current-year evidence; no undergraduate humanities/social-science route found; further departmental capstones likely."
 }
