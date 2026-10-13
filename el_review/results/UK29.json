@@ -1,0 +1,465 @@
+{
+ "inst_id": "UK29",
+ "institution": "Manchester Metropolitan",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Manchester Metropolitan University live client project students team module",
+    "Manchester Met Rise award students team project employer",
+    "Manchester Met Rise project challenges problems posed by city advocates teams"
+   ],
+   "key_sources": [
+    "https://www.mmu.ac.uk/business-services/talent-recruitment-development/student-projects-consultancy",
+    "https://www.mmu.ac.uk/study/why-manchester-met/study-experience"
+   ],
+   "finding": "Central routes (student projects service; Rise project challenges) involve external organisations but team structure is undocumented."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Manchester Met Business School Business Challenge Project live client consultancy final year"
+   ],
+   "key_sources": [
+    "https://www.mmu.ac.uk/study/postgraduate/course/mba-master-of-business-administration"
+   ],
+   "finding": "Only generic live-case/consultancy statements; no specific group module verified."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Manchester Met computing engineering industry project external client group project unit",
+    "Department of Engineering collaborative projects live project options industrial partners"
+   ],
+   "key_sources": [
+    "https://www.mmu.ac.uk/study/undergraduate/course/beng-mechanical-engineering",
+    "https://www.mmu.ac.uk/study/undergraduate/course/bsc-computer-science"
+   ],
+   "finding": "Engineering Year 2 Group Project and employer-set live projects advertised but link unconfirmed; CS Team Project has no client evidence."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Manchester Met Science and Engineering student project industry partner team",
+    "Manchester Met Faculty of Science and Engineering biology chemistry environmental science students project external organisation client group"
+   ],
+   "key_sources": [
+    "https://www.mmu.ac.uk/study/undergraduate/subject/biology-and-conservation"
+   ],
+   "finding": "No formal group client project scheme found for biological/chemical/environmental sciences."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Manchester Met Arts and Humanities students live brief client project group unit",
+    "Engaging the Humanities unit live project briefs groups DEFRA National Archives Manchester Histories"
+   ],
+   "key_sources": [
+    "https://manchester-met-innovate.mmu.ac.uk/2025/10/10/project-based-learning/"
+   ],
+   "finding": "Engaging the Humanities is a compulsory-in-programmes group unit with live briefs; partner coverage and current-year delivery unclear."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Manchester Met Law School OR Health OR Art Design students live client brief teams external organisation"
+   ],
+   "key_sources": [
+    "https://www.mmu.ac.uk/about-us/faculties/health-and-education/partnerships/work-integrated-learning"
+   ],
+   "finding": "Health and Education WIL live projects (individual or small group) found; nothing specific for Law or Art & Design."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "DEFRA, National Archives, Manchester Histories (per Oct 2025 write-up; years 2022-2024)",
+   "participation_data": "164 students enrolled, 2024 [1]",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S1",
+   "official_name": "Engaging the Humanities",
+   "english_name": "Engaging the Humanities",
+   "description": "15-credit Level 5 unit, compulsory since 2023/24 for History, Politics, International Relations and Philosophy students (optional for English). Over 11 weeks in Spring Semester students work in interdisciplinary groups on live project briefs co-developed with outside organisations; representatives attend to pitch projects and give formative feedback; students create a digital-media asset (e.g. podcast, short film).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Arts and Humanities (History, Politics, IR, Philosophy)",
+   "eligible_faculties_programmes": "BA History, Politics, International Relations, Philosophy (compulsory); English (optional)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2 (Level 5)",
+   "eligibility_restrictions": "Programme-specific",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits, Level 5",
+   "duration": "11 weeks (Spring Semester)",
+   "delivery_format": "In-class interdisciplinary group projects with partner pitches and feedback",
+   "project_based": "Yes",
+   "project_evidence": "Live project briefs with digital-media output (podcast/short film) [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in interdisciplinary groups; group sizes pairs/threes up to five or six [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Briefs co-developed with outside organisations (DEFRA, National Archives, Manchester Histories); representatives pitch and give formative feedback; DEFRA projects on River Medlock in 2023 and 2024 [1]. But collaborators also include internal Careers, Library and Technical Services, and the proportion of briefs set by external bodies per cohort is not stated, so standard external coverage is not established.",
+   "partner_type": "Mixed",
+   "partner_role": "Co-develop briefs, pitch projects, give formative feedback",
+   "deliverable": "Group digital-media asset / project output for partner brief",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024 (164 students)",
+   "unresolved": "2025/26 delivery and partner list not evidenced; page could not be opened (WebFetch 403; curl 403, not bypassed), so evidence is search-index extract. Summary refers to the output as digital-media asset; assessment detail not seen.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://manchester-met-innovate.mmu.ac.uk/2025/10/10/project-based-learning/",
+     "title": "Immersive project-based learning within History, Politics, IR and Philosophy",
+     "section": "Blog",
+     "pub_year": "2025 (Oct)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted) - page fetch returned 403",
+     "extract": "15-credit Level 5 unit made compulsory in 2023/24 for History, Politics, IR and Philosophy; 11 weeks, Spring Semester, 164 students in 2024; interdisciplinary groups; live briefs co-developed with DEFRA, National Archives, Manchester Histories and internal teams; representatives pitch and give formative feedback.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "participation",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "Rise",
+   "likely_duplicate_of": "",
+   "local_id": "S2",
+   "official_name": "Rise project challenges",
+   "english_name": "Rise (co-curricular programme) - project challenges",
+   "description": "Rise is the university-wide co-curricular programme; one of its opportunity types is 'project challenges' in which students respond to problems posed by advocates from the city. Group size, outputs, assessment and the organisations involved are not documented in sources found.",
+   "academic_reach": "University-wide",
+   "admin_host": "Central Rise team",
+   "eligible_faculties_programmes": "Every Manchester Met student",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "None stated",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Rise points; page says students 'could even gain extra credits that improve your degree classification'",
+   "duration": "Unclear",
+   "delivery_format": "Co-curricular challenges",
+   "project_based": "Unclear",
+   "project_evidence": "Described only as responding to problems posed by city advocates [1]; no brief or output detail.",
+   "group_working": "Unclear",
+   "group_evidence": "Not stated.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Advocates from the city' pose the problems [1]; organisation type and role in receiving outputs not stated.",
+   "partner_type": "Unclear",
+   "partner_role": "Pose problems (unspecified further)",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Need specific project-challenge listings on rise.mmu.ac.uk with dates, team structure and partners. Umbrella framework itself is excluded; only the project-challenge strand is a lead.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mmu.ac.uk/study/why-manchester-met/study-experience",
+     "title": "Study experience",
+     "section": "Rise section",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Rise is 'an opportunity for every student to add bespoke experiences and expertise to their degree'; project challenges: 'respond to problems posed by advocates from the city'; students 'could even gain extra credits that improve your degree classification'.",
+     "supports": [
+      "project",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://rise.mmu.ac.uk/",
+     "title": "Rise home",
+     "section": "Home",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Listed in search results as Rise home; Rise activities led by students, staff, external partners and employers.",
+     "supports": [
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S3",
+   "official_name": "Student projects and consultancy (Business Services / talent recruitment)",
+   "english_name": "Student projects and consultancy for organisations",
+   "description": "Central employer-facing service: organisations of all sizes can work with Manchester Met students on a project supervised by an expert staff member; scale set by the organisation; no charge; deliverable a written report, presentation or both.",
+   "academic_reach": "Unclear",
+   "admin_host": "Business Services (talent, recruitment and development)",
+   "eligible_faculties_programmes": "Not specified",
+   "faculty_areas": [
+    "central",
+    "business"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "Not stated",
+   "delivery_format": "Staff-supervised projects",
+   "project_based": "Yes",
+   "project_evidence": "Written report and/or presentation 'depending on the brief' [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page does not say whether projects are done by teams or individuals [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisations commission the project, set scale and receive the report/presentation [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: commissions and receives report/presentation",
+   "deliverable": "Report and/or presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Team vs individual; which programmes/modules; credit; dates.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mmu.ac.uk/business-services/talent-recruitment-development/student-projects-consultancy",
+     "title": "Student projects and consultancy",
+     "section": "Main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'work with our students on a project, supervised by an expert member of staff from Manchester Met'; 'set the scale of the project'; 'a written report, a presentation, or both, depending on the brief'; no team/individual statement, no dates.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S4",
+   "official_name": "Work-integrated learning live projects (Faculty of Health and Education)",
+   "english_name": "WIL live project briefs",
+   "description": "Within the Faculty of Health and Education WIL offer, students can complete authentic live project briefs supplied in advance by organisations, individually or in small groups, as an alternative to placement formats (e.g. MSc Mental Health and Wellbeing in Practice lists a 40-hour WIL placement or live project).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Health and Education WIL team",
+   "eligible_faculties_programmes": "Faculty of Health and Education programmes (live-project eligibility not named)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Not stated",
+   "delivery_format": "On-site, hybrid or remote",
+   "project_based": "Yes",
+   "project_evidence": "'authentic live project briefs' with organisation-provided brief [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'individually or in small groups' - routes not separable [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'organisations are required to provide a project brief in advance' [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Supply live brief",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Group vs individual split; credit; programme coverage; date.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mmu.ac.uk/about-us/faculties/health-and-education/partnerships/work-integrated-learning",
+     "title": "Work-integrated learning",
+     "section": "Live projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Students 'can work individually or in small groups on authentic live project briefs'; 'organisations are required to provide a project brief in advance'; 'WIL is a core element of all programmes within the Faculty of Health and Education'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S5",
+   "official_name": "Engineering live projects and Group Project (BEng Mechanical / Electrical)",
+   "english_name": "Engineering group and live projects",
+   "description": "BEng courses list a core Year 2 Group Project (and Year 1 Design Project, Year 3 Individual Project) and state the university invites businesses and academic colleagues to set live projects. Link between the Group Project unit and employer-set briefs is not documented.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Engineering, Faculty of Science and Engineering",
+   "eligible_faculties_programmes": "BEng Mechanical Engineering; BEng Electrical and Electronic Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Unclear",
+   "delivery_format": "Group project units",
+   "project_based": "Yes",
+   "project_evidence": "Core 'Group Project' unit listed; no description [1].",
+   "group_working": "Yes",
+   "group_evidence": "Unit titled Group Project; course page cites 'group work activities' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page: university invites 'businesses and academic colleagues to set live projects' [1]; not tied to the Group Project unit and may include internal academic clients.",
+   "partner_type": "Mixed",
+   "partner_role": "Set live projects (unit link unconfirmed)",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Course page for September 2027 entry (undated unit content)",
+   "unresolved": "Unit specification needed to confirm external clients for the Group Project; department collaborative projects page could not be retrieved (301/404).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/beng-mechanical-engineering",
+     "title": "BEng (Hons) Mechanical Engineering",
+     "section": "Course content",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'invite businesses and academic colleagues to set live projects'; core module Group Project in Year 2 (no description); 'collaborative projects, practical assessments, group work activities'.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Rise (framework as a whole)",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Co-curricular award/points framework; not itself a project. Only the 'project challenges' strand is assessed (S2), and its A/B remain Unclear.",
+   "source_url": "https://rise.mmu.ac.uk/",
+   "status_note": "Legacy row 87"
+  },
+  {
+   "name": "Team Project (BSc Computer Science / Software Engineering, Year 1)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Core group project but course page says nothing about external clients; page text states only 'working as part of a professional team ... via group projects'.",
+   "source_url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-computer-science",
+   "status_note": "No client evidence"
+  },
+  {
+   "name": "MBA / MSc Management live cases and client projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search extracts say 'live cases, consultancy-style projects' (MBA) and 'real clients' (MSc Management) but no module, team structure or client role found; pages not opened.",
+   "source_url": "https://www.mmu.ac.uk/study/postgraduate/course/mba-master-of-business-administration",
+   "status_note": "Lead"
+  },
+  {
+   "name": "Business School live client brief in management courses",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Generic statement of responding to a brief set by an industry partner; no named unit or group structure.",
+   "source_url": "https://www.mmu.ac.uk/business-school/business/",
+   "status_note": "Lead"
+  },
+  {
+   "name": "Formula Student / Engineering for People Design Challenge",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Extracurricular team build/competition; no external client commissioning evidenced.",
+   "source_url": "https://www.mmu.ac.uk/study/undergraduate/subject/engineering",
+   "status_note": "Lead"
+  },
+  {
+   "name": "Knowledge Transfer Partnerships (Engineering)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Graduate/staff-led company research partnerships, not student team projects.",
+   "source_url": "https://mmu.ac.uk/engineering/research/knowledge-transfer-partnerships",
+   "status_note": ""
+  },
+  {
+   "name": "Manchester School of Art live briefs",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search extract mentions 'live projects'/'live briefs' generically; no unit, team or client detail.",
+   "source_url": "https://www.mmu.ac.uk/about-us/faculties/arts-humanities/schools/school-of-art",
+   "status_note": "Lead"
+  },
+  {
+   "name": "Biology and Conservation partner projects (NHS, RSPB, Chester Zoo)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Described as projects or work experience with partners; no group project evidenced.",
+   "source_url": "https://www.mmu.ac.uk/study/undergraduate/subject/biology-and-conservation",
+   "status_note": ""
+  },
+  {
+   "name": "Dissertations for Good; Freelance Exchange",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual research / freelance work; not group.",
+   "source_url": "https://www.mmu.ac.uk/careers/graduates/enterprise",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Reduced-depth review (about 11 searches plus page fetches). Manchester Met advertises live-project learning in several places, but no route could be verified as meeting group, project and external-client criteria together with current delivery.\n\nThe strongest lead is **Engaging the Humanities**, a 15-credit Level 5 unit compulsory since 2023/24 for History, Politics, IR and Philosophy students, in which interdisciplinary groups work on live briefs co-developed with DEFRA, the National Archives and Manchester Histories (164 students in 2024). External coverage per cohort is unclear because internal teams also co-develop briefs, and 2025/26 delivery is undated.\n\nCentral routes: the **Student projects and consultancy** service (organisations commission staff-supervised student projects, reported as report/presentation) and Rise **project challenges** (problems posed by city advocates) involve external bodies, but team structure is not stated. Rise itself is a co-curricular points framework and is not counted. The Faculty of Health and Education WIL offer allows live briefs individually or in small groups (not separable). Engineering lists a core Year 2 Group Project and employer-set live projects but does not link them. Business-school live cases and Art live briefs are only generic statements.\n\nProvision looks distributed and mostly undocumented at unit level; the main uncertainty is whether any group module is standardly client-set.",
+ "gaps": "Unit specifications for Engineering Group Project, MSc Management/MBA live client projects, Art and Design live briefs, Law clinics not retrieved. The Innovate blog and department collaborative-projects page were not openable (403/404); Engaging the Humanities evidence is search extract only. Rise project-challenge listings, team structure and dates not obtained. Further departmental instances likely."
+}

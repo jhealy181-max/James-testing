@@ -1237,39 +1237,179 @@ Other provision is weaker. The central micro-placement module (CASC002H5) is an 
 
 ### Royal Holloway (UK22, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Isolated departmental provision · **Current qualifying schemes:** 0
+
+No scheme fully meeting all three criteria was verified through the documented search. The strongest lead is **CS4825 MSci Team Project**, a mandatory 60-credit final-year module on the Software Engineering MSci in which teams operate as a company on projects 'for real clients' (2025/26 programme specification). Group and project criteria are met, but sources do not say whether clients are external organisations or the department's in-house company CodeGroovers, and the programme outcome says 'realistic client', so employer connection is Unclear.
+
+In the School of Business and Management, **MN5802 Consultancy in the Digital Era** (mandatory, MSc Digital Business, 15 credits) is described in a search extract as team consultancy for a client, and **MN5621 Digital Marketing Consultancy** has a client-prescribed project with findings presented to the client; for both, client type, group basis (MN5621) and current delivery are unconfirmed. Other consulting capstones (AI for Business, Business Analytics) are individual.
+
+No central, university-wide employer-project route was found; the Careers Service offers placements and events, and the Volunteer Awards (legacy row) recognise individual volunteering. Provision appears distributed in a few postgraduate and computing programmes. Science, arts/humanities and other areas yielded no qualifying scheme from single broad queries.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK22-S01 | CS4825 MSci Team Project (CS4825) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2025/26 (programme specification, year of entry 2025/26) |
+| UK22-S02 | Consultancy in the Digital Era (MSc Digital Business) (MN5802) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2024/25 (spec); programme page lists 2027 entry |
+| UK22-S03 | Digital Marketing Consultancy (MSc Digital Marketing) (MN5621) | Programme/course | Unclear | Yes/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2024/25 (Moodle listing seen in search result); programme page lists 2027 entry |
+
+**Uncertain / unresolved:** Client identity for CS4825 and for MN5802/MN5621; MN5621 group basis; current delivery for the two business modules; CS2815 and Year 3 Geography/CIMA/Dragon's Den activities; Law, Psychology, Media, Health not exhaustively searched (reduced-depth mode, 11 searches); several PDFs read via local text extraction; search results note many Royal Holloway pages are several years old.
 
 ### City St George’s (UK23, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+
+City St George's has no single institution-wide route in the documented search. Several employer-linked group routes were found, mostly in final-year or master's modules.
+
+**Central route.** Industry Led Projects is a credit-bearing third-year undergraduate module family, run through the Corporate Relations & Employability Unit, for Bayes, City Law School, Policy & Global Affairs and Communication & Creativity. Degree pages describe small multi-disciplinary groups choosing one of five sector streams and working on briefs set by employers, who pay nothing. The central page also allows individual work, and no dated 2025/26 or 2026/27 evidence was found.
+
+**Other routes.** The 15-credit Hewlett Packard Enterprise: Technology Consulting module (computing and data science MSci, Year 3) has groups solving an assigned SME's technical challenge with HPE mentors. It is listed on 2026/27 course pages. The Sustainability and Climate Change module, launched in 2025 and first offered to law students, has teams on external-partner challenges, with 2026 award news. In Bayes, the MSc Consulting Challenge (teams of five, May-August) and the MBA Strategy Project involve live clients but rest on undated pages.
+
+**Uncertain.** Compulsory versus optional status, credits, named employers and cohort numbers are mostly unpublished in the sources found. The legacy CitySpark entrepreneurship competition was excluded. Pages could not be opened directly, so all evidence is search-summary paraphrase.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK23-S01 | Industry Led Projects (Industry Projects module) (PO3100 (Economics programme spec; code not confirmed for other degrees)) | Cross-faculty | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2024/25 (Industry Projects Showcase referenced on a Feb 2025 Festival of the Professions page) |
+| UK23-S02 | Hewlett Packard Enterprise: Technology Consulting | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026/27 (course structure listing) |
+| UK23-S03 | Sustainability and Climate Change (interdisciplinary module) | Programme/course | Unclear | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2026 (Graduate Futures Awards 2026 highly commended news) |
+| UK23-S04 | MSc Consulting Challenge / Consulting Skills and Practice (Bayes) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear  |
+| UK23-S05 | Full-time MBA Strategy Project | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear  |
+| UK23-S06 | BSc Management student consultancy (final-year live case) | Programme/course | Unclear | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear  |
+
+**Uncertain / unresolved:** Pages were not opened: WebFetch returned 403 and curl met a Cloudflare challenge on citystgeorges.ac.uk, so all sources are search-summary paraphrase and no verbatim quotes were obtained. Needed next: dated 2025/26 or 2026/27 evidence for Industry Led Projects and Bayes consulting routes; module specs (BM3003 Applied Industry Business Project, PO3100); compulsory vs optional status; named partners; St George's legacy health programmes (nursing, midwifery, physician associate, radiography) and School of Health & Medical Sciences were not probed beyond one query; further departmental instances likely.
 
 ### Oxford Brookes (UK24, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Isolated departmental provision · **Current qualifying schemes:** 1
+
+Oxford Brookes has no university-wide employer project scheme found in this reduced-depth review; qualifying provision sits mainly in Oxford Brookes Business School.
+
+**Qualifying routes.** Business Challenge Week (also named Impact Challenge Week) is an intensive week in which teams of master's students tackle problems set by external organisations of any size, brief and receive feedback from the partners, and pitch to business judges; the partner page gives 8-12 June 2026 and a 2024 edition reportedly involved 45 students. The Summer Student Consultancy Scheme places teams of 2-3 business/accounting/marketing undergraduates with an organisation brief for four weeks (40-80 hours), with a client supervisor, university mentor, final report and showcase; the page evidences the 2027 round. Both appear extracurricular or co-curricular with no credit stated.
+
+**Embedded routes with incomplete evidence.** The Global MBA compulsory Client Project and the optional MSc Management Group Consultancy Project put cross-cultural teams on a real problem in a client organisation, but outputs, credit and client role are undocumented. The compulsory Year 2 Live Client Strategic Project on BA Business and Management lacks group and client detail. The School of Architecture OB1 LIVE projects serve real community and local-authority clients, but group working and current delivery are not explicit.
+
+Engineering/computing and science yielded no verified employer-linked group project. Further departmental instances are likely.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK24-S01 | Business Challenge Week (also called Impact Challenge Week) | Faculty/school | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 (8-12 June 2026 partner-call page; 2024 edition reported delivered with 45 students) |
+| UK24-S02 | Summer Student Consultancy Scheme | Faculty/school | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Announced/forthcoming Summer 2027 (call page); summer 2026 edition mentioned in search summary only |
+| UK24-S03 | Client Project (Transformative Learning Journey module, Global MBA) | Programme/course | Compulsory within specified programmes | Unclear/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 intake (start dates Sept 2026 / March 2027) |
+| UK24-S04 | Group Consultancy Project (MSc Management) | Programme/course | Optional/elective | Unclear/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 intake (starts Sept 2026 / Sept 2027) |
+| UK24-S05 | Live Client Strategic Project (BA Business and Management) | Programme/course | Compulsory within specified programmes | Unclear/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 intake (start Sept 2026 / Jan 2027) |
+| UK24-S06 | OB1 LIVE (School of Architecture live projects) | Faculty/school | Unclear | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current status unclear undated (OB1 LIVE 22 most recent listed) |
+
+**Uncertain / unresolved:** Module handbooks not accessed (credits, group size, client roles for MBA Client Project, MSc Management Group Consultancy Project, BA Live Client Strategic Project). Business Challenge Week 2024 news page returned 404 so 2024 figures rest on a search summary; 2026 edition outcome unverified. Summer scheme 2026 round unverified (2027 page only). Health (nursing, allied health), design, planning, and further departmental capstones were not individually researched; further instances likely. Retrieval for page text was WebFetch with a fetch-model summary, not raw HTML.
 
 ### Northumbria (UK25, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 3
+
+Northumbria runs employer-linked group projects through faculty-hosted routes rather than one institution-wide scheme. The strongest is the Newcastle Business School **Business Clinic**: NX9626 (final-year UG, self-selected groups of typically four working 'on behalf of an external organisation') and NX0479/NX0477 (PG Advanced Practice group consultancy for a host organisation). A July 2026 release documents a four-student team advising a parish church; the Clinic reports over 950 projects and 3,820+ students since 2013, mostly pro bono for SMEs, charities and larger firms. The Faculty of Engineering and Environment **Live Projects Hub** procures 12-week industry projects (around 100 businesses) which Advanced Practice Masters students deliver in small teams in the 60-credit Advanced Practice Semester (e.g. KB7056, 2026 listing). Computing offers KV5037 Computing Consultancy Project and 12-week undergraduate live projects, but group basis and compulsory status are unclear. The central experiential-learning page claims about 700 students per year complete a live project or clinic module (2021/22 audit) and the Projects page lists Film Live Briefs, Sport Outreach, Student Law Office and Building Advice Centre, but these lack module-level evidence of team working. No compulsory university-wide scheme found. Uncertain: whether the consultancy modules are core on each programme, and reach in sciences, social sciences and design.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK25-S01 | NX9626 Undergraduate Consultancy Project (Business Clinic) (NX9626) | Faculty/school | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 module page; client project reported 22 July 2026 |
+| UK25-S02 | NX0479 Business Clinic PG Group Consultancy Project (also NX0477 NBS Masters Consultancy Project) (NX0479 (NX0477 on MSc International Finance and Investment)) | Faculty/school | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 module listing |
+| UK25-S03 | Advanced Practice Semester via Engineering and Environment Live Projects Hub (KB7056 (Mechanical Eng.), KA7057 (Construction PM with BIM) and equivalents) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026/27 module listing |
+| UK25-S04 | KV5037 Computing Consultancy Project (Computing Live Projects) (KV5037) | Faculty/school | Unclear | Yes/Unclear/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear 2027 module listing (listing year only) |
+
+**Uncertain / unresolved:** Compulsory/optional status for NX9626, KV5037 and Advanced Practice Semester modules; Live Projects Hub page last reviewed 2023; NX0477 and London campus clinic only from search summaries; Film Live Briefs, Sport Event Management, design live-brief modules and the Computing school's 'every undergraduate' live-project claim not verified at module level; no module-level evidence found for Applied Sciences, Geography/Environmental Sciences or Social Sciences; further departmental instances likely. Reduced-depth mode: 10 searches, 9 page fetches.
 
 ### Portsmouth (UK26, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+Portsmouth has a clear, long-established flagship route in the Business School: the 20-credit Business Consultancy Project, where final-year undergraduate teams of 3-4 spend about ten weeks on a live challenge for a local SME or public/third-sector organisation, producing a consultancy report and a presentation with Q&A to the client. Past clients named on the course page include Santander, Inovolt and Express FM, and the client page says applications for 2026 projects had closed, which supports current delivery. A separate Global MBA route runs 10-week team projects (June-September) for local SMEs, but its cohort dates and module are not evidenced.
+
+In computing, Computer Science lists a core 30-credit Industrial Team Project with an external client and an optional 20-credit Complex Problem Solving module using an industry partner's brief, though the pages are for September 2027 entry and give no duration, assessment or named partners. Law in Action has teams presenting to community organisations but the client role is unclear. Leads for the Architecture Project Office (extracurricular), Accounting Clinic, Marketing Consultancy Project and Creative Computing live briefs were not verified. No university-wide employer project scheme was found; the legacy Student Startup row is enterprise support and is excluded. Provision is distributed across schools, mainly business and computing, and mostly optional except in specified degrees. Sciences showed only individual projects.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK26-S01 | Business Consultancy Project (BCP) | Faculty/school | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 |
+| UK26-S02 | MBA Consultancy Projects | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2026 (page footer only) |
+| UK26-S03 | Industrial Team Project (Computer Science) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear Sept 2027 entry course page |
+| UK26-S04 | Complex Problem Solving (Computer Science option) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear Sept 2027 entry course page |
+| UK26-S05 | Law in Action | Programme/course | Optional/elective | Unclear/Yes/Unclear | Charity/community | Potentially relevant; evidence incomplete | Current status unclear Sept 2027 entry course page |
+
+**Uncertain / unresolved:** Business Consultancy Project module code, courses offering it and enrolment numbers not found. MBA route and the two Computer Science modules lack dated 2025/26-2026/27 corroboration (course pages show September 2027 entry). Architecture Project Office, Accounting Clinic, Marketing Consultancy Project and Creative Computing live-brief modules unverified. Health faculties (nursing, dentistry etc.) not searched in reduced-depth mode. Further departmental instances likely.
 
 ### Coventry (UK27, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Isolated departmental provision · **Current qualifying schemes:** 1
+
+Reduced-depth review (about 12 searches plus page fetches). The strongest verified provision is in engineering: 60-credit Industrial Group Projects in MEng/BEng Computer Systems Engineering (compulsory in the MEng additional year; projects from industry collaborators or research groups, presented to academic staff and industry professionals) and Mechanical Engineering (groups define and solve a problem with industry collaborators and present to an industry client). Neither page states that every project has an external client, and the Computer Systems page mixes in internal research-group projects, so employer connection is rated Unclear for that route; the Mechanical page's course listing is for 2026-27 entry. In business, the Postgraduate Consultancy Project gives genuine company-set briefs but is individual (excluded); the Group Consulting Project at Coventry University London is a team format but an undated employer-facing offer with no credit or cohort evidence. Media, design and business-degree pages refer to real clients or live briefs, but group basis, client role and standard-ness are unevidenced. No university-wide or central route qualifies: Global Opportunities and Global Leaders are mobility/award schemes. Provision appears isolated within programmes. Uncertain: current delivery dates, partner coverage and participation numbers.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK27-S01 | Industrial Group Project (MEng/BEng Computer Systems Engineering) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current status unclear Undated module listing |
+| UK27-S02 | Industrial Group Project (MEng/BEng Mechanical Engineering) | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026/27 entry course structure listing |
+| UK27-S03 | Group Consulting Project (Coventry University London) | Unclear | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+
+**Uncertain / unresolved:** Not researched in depth: Manufacturing Engineering IGP Initiation/Execution (search summary only); Interactive Media Integrative Project; MA Product Design Innovation live briefs; Business Analytics and Marketing consultancy options; health and nursing; Coventry Law School beyond clinic; module specifications/handbooks (not fetched); Computer Science/Software Engineering group projects (no client evidence). Further departmental instances likely. WebFetch returned model-summarised extracts, not raw page text. Search results show 'Coventry Business School' and 'College of Business and Law' naming variants.
 
 ### Nottingham Trent (UK28, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+
+**Nottingham Trent University** has distributed employer-linked group provision, strongest in Nottingham Business School (NBS).
+
+- **Business:** NBS postgraduate consultancy projects put MSc/MBA teams with external clients (businesses, a primary school, charities), with client meetings, a final presentation with Q&A and, for MSc, a 3,000-4,000 word report (current: Nov 2025 case news). #NBSBright pairs final-year undergraduates with business challenges over about seven weeks, with 2026 dates (21 Sept-mid Nov 2026); team working is not stated in the extract. A core undergraduate module text describes teams addressing a live brief set by a real organisation (undated).
+- **Central:** Community Engaged Learning assigns student groups (a team of five in Sociology) to community partners on course-linked projects, with a 2026/27 timetable. Grads4Nottm is an extracurricular two-week employer-hosted group challenge; latest evidence is 2024.
+- **Design:** Product Design BA live group briefs with named industry clients; Co Lab cross-disciplinary projects set by charities or industry partners (both undated).
+- **Engineering:** Year 1 Design Challenge 'set by industry' in groups; external involvement unclear.
+
+Compulsory status, credits and partner coverage were mostly not retrievable. NTU pages could not be opened directly (WebFetch 403; curl hit a Cloudflare challenge, not bypassed), so all evidence is search-index extract.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK28-S01 | Grads4Nottm | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2024 |
+| UK28-S02 | #NBSBright projects module | Faculty/school | Unclear | Yes/Unclear/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 (starts 21 Sept 2026) |
+| UK28-S03 | Postgraduate Consultancy Projects (Consultancy Experience Project) | Faculty/school | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025/26 (news Nov 2025) |
+| UK28-S04 | Developing Professional Impact (core final-year NBS module) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear undated |
+| UK28-S05 | Community Engaged Learning (CEL) | Cross-faculty | Compulsory within specified programmes | Yes/Yes/Yes | Charity/community | Meets all three | Current delivery confirmed 2026/27 |
+| UK28-S06 | Product Design BA live industry briefs | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear c.2025 (undated page) |
+| UK28-S07 | Co Lab (Nottingham School of Art & Design) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| UK28-S08 | Mechanical Engineering Year 1 industry Design Challenge / Grand Challenge | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear undated |
+
+**Uncertain / unresolved:** Direct page access blocked (403 / Cloudflare challenge), so no 'page text' retrieval. Science, Law, health, Computing and humanities live-brief modules not evidenced; further departmental instances likely. Credits, module codes and compulsory status mostly unresolved. Grads4Nottm has no 2025/26 evidence.
 
 ### Manchester Metropolitan (UK29, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 0
+
+Reduced-depth review (about 11 searches plus page fetches). Manchester Met advertises live-project learning in several places, but no route could be verified as meeting group, project and external-client criteria together with current delivery.
+
+The strongest lead is **Engaging the Humanities**, a 15-credit Level 5 unit compulsory since 2023/24 for History, Politics, IR and Philosophy students, in which interdisciplinary groups work on live briefs co-developed with DEFRA, the National Archives and Manchester Histories (164 students in 2024). External coverage per cohort is unclear because internal teams also co-develop briefs, and 2025/26 delivery is undated.
+
+Central routes: the **Student projects and consultancy** service (organisations commission staff-supervised student projects, reported as report/presentation) and Rise **project challenges** (problems posed by city advocates) involve external bodies, but team structure is not stated. Rise itself is a co-curricular points framework and is not counted. The Faculty of Health and Education WIL offer allows live briefs individually or in small groups (not separable). Engineering lists a core Year 2 Group Project and employer-set live projects but does not link them. Business-school live cases and Art live briefs are only generic statements.
+
+Provision looks distributed and mostly undocumented at unit level; the main uncertainty is whether any group module is standardly client-set.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK29-S01 | Engaging the Humanities | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current status unclear 2024 (164 students) |
+| UK29-S02 | Rise project challenges | University-wide | Optional/elective | Unclear/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear undated |
+| UK29-S03 | Student projects and consultancy (Business Services / talent recruitment) | Unclear | Unclear | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current status unclear undated |
+| UK29-S04 | Work-integrated learning live projects (Faculty of Health and Education) | Faculty/school | Unclear | Yes/Unclear/Yes | Unclear | Potentially relevant; evidence incomplete | Current status unclear undated |
+| UK29-S05 | Engineering live projects and Group Project (BEng Mechanical / Electrical) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current status unclear Course page for September 2027 entry (undated unit content) |
+
+**Uncertain / unresolved:** Unit specifications for Engineering Group Project, MSc Management/MBA live client projects, Art and Design live briefs, Law clinics not retrieved. The Innovate blog and department collaborative-projects page were not openable (403/404); Engaging the Humanities evidence is search extract only. Rise project-challenge listings, team structure and dates not obtained. Further departmental instances likely.
 
 ### Plymouth (UK30, UK)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 0
+
+Plymouth shows distributed, programme-level provision rather than an institution-wide scheme. The clearest route is the core 30-credit MBA module Leading Change, People and Projects: teams spend 10-14 weeks on a real organisational brief and present to the client organisation. Architecture runs live design-build projects for external clients (Dartington Hall Trust; a primary school) with student groups, though the page is undated. Photography (Year 1 core MEDI423) has teams tackle a live brief from a creative-industry client, and Creative Media has core external-partner modules, but deliverables are unspecified. Inspiring Futures, the Faculty of Arts, Humanities and Business knowledge-exchange scheme, hosts named businesses and charities, but group versus individual routes cannot be separated. Business Management with Foundation Year BUSM3004 (team, real business or community project) and MEng PROJ500 (team prototype, problems from industry, commerce or research) lack evidence of an external organisation's role. Careers-run BOOST and Challenge Connect events could not be confirmed. Delivery years are mostly undated, so current status is unclear for most routes. No science, social science or health route was verified.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| UK30-S01 | Leading Change, People and Projects (MBA) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| UK30-S02 | BA Architecture live projects (Big Tent, Eco-pod, outdoor classroom) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2020 (award reference) |
+| UK30-S03 | Creative Industry Collaboration (BA Photography Year 1) (MEDI423) | Programme/course | Compulsory within specified programmes | Unclear/Yes/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear undated |
+| UK30-S04 | Business Project (Business Management with Foundation Year) (BUSM3004) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 (course page fee table lists 2026-27 and 2027-28 starts) |
+| UK30-S05 | MEng Group Project (Electrical and Electronic Engineering) (PROJ500) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear undated |
+| UK30-S06 | Inspiring Futures (Faculty of Arts, Humanities and Business) | Faculty/school | Unclear | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current status unclear undated |
+
+**Uncertain / unresolved:** Most pages undated (only BUSM3004 corroborated by 2026-27 fee tables); module handbooks and assessment details not opened; BOOST/Challenge Connect, Year 2 Business Challenge, STO6005, STO312 (partner-delivered) unverified; further departmental instances likely (design, media, engineering, nursing/health); reduced-depth mode with about 10 searches plus page fetches.
 
 ## Australia
 
@@ -1490,11 +1630,36 @@ Only Impact Academy 1 has current-delivery corroboration (degree intakes and 202
 
 ### Massachusetts Institute of Technology (US01, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+MIT's employer-linked group project provision is concentrated in graduate professional programmes, with no institute-wide scheme verified. The clearest route is MIT Sloan Action Learning: four-person teams with a faculty mentor tackle a host organisation's real problem and deliver options and recommendations; hosts name an executive sponsor and contact and fund travel, and Sloan reports work with over 2,700 organisations. Further Sloan routes are the MBA-core OP Team Project (teams of six, live company case, all first-year MBAs) and the Master of Business Analytics capstone (38 external sponsors in 2025, mostly student pairs, sponsors provide a staff mentor and data). Engineering-side master's routes are the Supply Chain Management capstone (10-month sponsor-defined projects) and the SDM spring project (industry, government and non-profit partners), and D-Lab and DUSP offer partner/client semester projects. Undergraduate options are thin: NEET is team- and project-based with industry sponsorship but no employer-set group project was evidenced, and UROP is individual research. Most records rest on undated pages, so current delivery is confirmed only for Action Learning (Work Lab, spring 2026) and the MBAn capstone (2027 call). Access is programme-specific, mostly postgraduate taught.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US01-S01 | MIT Sloan Action Learning Labs (Multiple labs (e.g. Asia/ASEAN Lab, GO-Lab, Finance Lab, Sustainable Business Lab, Work Lab 15.679)) | Faculty/school | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 (Work Lab first offered spring 2026) |
+| US01-S02 | OP Team Project (MIT Sloan Action Learning) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear undated |
+| US01-S03 | Master of Business Analytics Capstone | Programme/course | Unclear | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2025 cohort; 2027 project call closes 1 Nov 2026 |
+| US01-S04 | Supply Chain Management Capstone (CTL sponsored projects) | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+| US01-S05 | System Design and Management spring project | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2025/26 (call for 2026 spring pitches open until 1 Dec 2025) |
+| US01-S06 | D-Lab: Design (2.722J / MAD.720 / EC.720) (2.722J / MAD.720 / EC.720) | Unclear | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| US01-S07 | DUSP planning practicum (e.g. 11.S938 Resilience by Design) (e.g. 11.S938) | Programme/course | Compulsory within specified programmes | Yes/Unclear/Unclear | Mixed | Potentially relevant; evidence incomplete | Current status unclear undated |
+
+**Uncertain / unresolved:** Session limit stopped further fetches: SCM page not opened by WebFetch (summary only); undergraduate departmental capstones (1.013, 16.82, 6.UAP etc.), Gordon Engineering Leadership, UPOP, MISTI, Media Lab and Architecture not researched; science area had only one query; further departmental instances likely. Credit, compulsory status and dated delivery missing for S2-S7. WebFetch summaries (small model) rather than verbatim quotes.
 
 ### Harvard (US02, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+
+Harvard's verified employer-linked group provision sits in separate professional-school and programme routes rather than a central scheme. The strongest is the HBS FIELD Global Capstone: a required first-year MBA course in which teams of six work with a partner company abroad to design a new product or service for local consumers (immersion 11-18 May 2026). The SEAS/IACS Computational Science and Engineering Capstone (APCOMP 297R) puts groups of 3-4 on real-world projects for partner organizations, with a Fall 2026 section listed and named past partners such as Biogen, Spotify and Unspace; whether it is compulsory is unknown. The Harvard Law School Dispute Systems Design Clinic fits all three criteria (teams of 2-3, weekly client meetings, final report) but is undated, so current delivery is unclear. The Kennedy School Policy Analysis Exercise is a compulsory MPP capstone for public or nonprofit clients, but sources conflict on whether students work alone or in small groups. The legacy lead, the Mindich Program in Engaged Scholarship, offers about 60 community-engaged undergraduate courses a year, but its pages do not show group projects with partner organizations, so it is recorded as an evidence gap. Nothing was found in the sciences. No undergraduate College route with live external group projects was verified. Reach is programme-level throughout, with no institution-wide mechanism evidenced.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US02-S01 | FIELD Global Capstone (CAP), formerly FIELD Global Immersion (CAP) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026 (immersion 11-18 May 2026) |
+| US02-S02 | Computational Science and Engineering Capstone Project (APCOMP 297R) (APCOMP 297R) | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed Fall 2026 |
+| US02-S03 | Harvard Dispute Systems Design Clinic | Faculty/school | Optional/elective | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear  |
+| US02-S04 | Policy Analysis Exercise (PAE), Master in Public Policy | Programme/course | Compulsory within specified programmes | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (PAE showcase) |
+
+**Uncertain / unresolved:** Reduced-depth review (about 14 searches plus page fetches). Several Harvard pages returned 403/404 to WebFetch (iacs.seas capstone, designfair, HBS handbook), so some evidence is search-index text. Not covered: Mindich course-level projects (GOV 1022 etc.), Harvard Innovation Labs, HGSE, HSPH, Harvard Medical School, GSD studios, Harvard Law SPOs/other clinics, Harvard Extension, further SEAS and FAS undergraduate courses; further departmental instances likely.
 
 ### Stanford (US03, US)
 
@@ -1506,7 +1671,20 @@ _Not yet reviewed in this pass._
 
 ### California Berkeley (US05, US)
 
-_Not yet reviewed in this pass._
+**Review:** Partial — remaining: Session search limit hit after about 12 searches/fetches. Not run: a humanities/social-science undergraduate query and an EECS/Data Science undergraduate industry-project query; also Fung Fellowship, Deep Tech Innovation Lab, MSSE capstone and Haas IBD need opening; current-year (2025/26-2026/27) evidence for S1, S2, S4-S6 still needed. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 0
+
+Berkeley's documented employer-linked group project routes are distributed across graduate schools rather than institution-wide. The Goldman School's Introduction to Policy Analysis (S1) places teams of four to six first-year MPP students with public-sector agencies and NGOs, producing a report and presentation (Spring 2027 call open). Engineering's MEng Capstone (S2) runs nine-month teams of three to five on industry-proposed projects, but the page also describes faculty-involved projects, so external sponsorship across all teams is unproven. Data Science Discovery (S3) offers mentor-set projects with teams of 1-5, partly academic mentors, so group and employer criteria are unclear. Haas offers Social Sector Solutions (nonprofit client teams of 5-7), Haas@Work (firm challenges) and Startup Lab, all MBA or graduate-led with weak current-year evidence. The legacy Berkeley Discovery framework is a platform, not a scheme. No undergraduate curricular route meeting all three criteria was verified; participation is optional or programme-specific, with no institution-wide route found. No participation numbers were located.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US05-S01 | Introduction to Policy Analysis (IPA) Team Consulting Projects | Programme/course | Unclear | Yes/Yes/Yes | Public sector | Meets all three | Announced/forthcoming Spring 2027 (call for proposals); Spring 2026 call also referenced in search summary |
+| US05-S02 | MEng Capstone (partner-led), Fung Institute for Engineering Leadership | Faculty/school | Unclear | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Announced/forthcoming 2026-27 (proposals sought); 2024 showcase page in search results |
+| US05-S03 | Data Science Discovery Program (Data Discovery course) | Unclear | Optional/elective | Yes/Unclear/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed Fall 2026 (project work begins 1 Sept 2026) |
+| US05-S04 | Social Sector Solutions (Center for Social Sector Leadership) | Cross-faculty | Selective/competitive | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear 2026 (heading '2026 Partner Organizations' only) |
+| US05-S05 | Haas@Work (Haas MBA experiential course) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+| US05-S06 | Startup Lab (MBA 295T) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear 2020 (syllabus); no 2025/26 evidence found |
+
+**Uncertain / unresolved:** Undergraduate humanities/social science and EECS/Data Science routes not searched (limit). Current-year evidence absent for most Haas routes. Compulsory status of IPA and MEng capstone unconfirmed. Further departmental capstones likely exist.
 
 ### Chicago (US06, US)
 

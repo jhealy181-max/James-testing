@@ -1,11 +1,12 @@
-# Checkpoint — updated 2026-10-13 11:46 UTC
+# Checkpoint — updated 2026-10-13 23:03 UTC
 
-- Complete: 53 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21
-- Partial: 0 — 
-- Not started: 71 — AU07, AU08, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
-- Scheme records: 541; currently qualifying: 162; exclusions: 538; sources: 1085
+- Complete: 64 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02
+- Partial: 1 — US05
+- Not started: 59 — AU07, AU08, US03, US04, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
+- Scheme records: 604; currently qualifying: 175; exclusions: 633; sources: 1182
 
 ## Partial reviews: what remains
+- US05 California Berkeley: Session search limit hit after about 12 searches/fetches. Not run: a humanities/social-science undergraduate query and an EECS/Data Science undergraduate industry-project query; also Fung Fellowship, Deep Tech Innovation Lab, MSSE capstone and Haas IBD need opening; current-year (2025/26-2026/27) evidence for S1, S2, S4-S6 still needed.
 
 ## Unresolved points on schemes (evidence incomplete)
 - RG01-S06 Masters Company Projects (Birmingham Business School): Individual vs group; current-year evidence; credits for MSc variants.
@@ -238,5 +239,33 @@
 - UK20-S03 International Development Placement (virtual group placement with partner organisations): Whether teams produce a defined project output for the partner (placement vs project); current-year delivery; assessment.  Partner type 'Charity/community' is inferred from development NGO examples only; mark Mixed/Unclear if challenged.
 - UK20-S04 Student Consultancy Project (SOAS Careers, employer-set): Employer-facing page only: no evidence on student cohorts, team structure, eligibility, dates or whether it has run.
 - UK21-S02 PG Cert Applied Data Science Project: Whether project is group-based; role of industry partner; current delivery.
+- UK22-S01 CS4825 MSci Team Project: Whether clients are external organisations or internal/CodeGroovers; wording 'real' vs 'realistic' differs between sources.
+- UK22-S02 Consultancy in the Digital Era (MSc Digital Business): Whether clients are real external organisations; group wording only from a test-cms search extract; module not corroborated for 2025/26-2026/27.
+- UK22-S03 Digital Marketing Consultancy (MSc Digital Marketing): Group vs individual; external vs hypothetical clients; whether compulsory; current-year delivery.
+- UK23-S06 BSc Management student consultancy (final-year live case): Probably the Bayes instance of Industry Projects/Applied Industry Business Project (a BM3003 module spec was seen in results but not examined); undated; employer wording is 'can supply'.
+- UK24-S03 Client Project (Transformative Learning Journey module, Global MBA): Module code, credits, assessment of the client project, how clients participate.
+- UK24-S04 Group Consultancy Project (MSc Management): Credits, assessment, whether all projects have external clients.
+- UK24-S05 Live Client Strategic Project (BA Business and Management): Module handbook needed: client identity, group/individual, assessment.
+- UK24-S06 OB1 LIVE (School of Architecture live projects): Group working explicit statement; dated 2025/26 delivery; credit and compulsory status.
+- UK25-S04 KV5037 Computing Consultancy Project (Computing Live Projects): Whether groups are the norm; core/optional; year of study; delivery evidence for 2025/26-2026/27 beyond module listing.
+- UK26-S05 Law in Action: Whether organisations commission/shape the work; duration; assessment; dated delivery.
+- UK27-S01 Industrial Group Project (MEng/BEng Computer Systems Engineering): No year shown on fetched page; whether all projects have external industry clients; group size.
+- UK28-S02 #NBSBright projects module: Team structure; credit; compulsory or optional.
+- UK28-S08 Mechanical Engineering Year 1 industry Design Challenge / Grand Challenge: Who sets the brief; external organisation involvement; dates.
+- UK29-S01 Engaging the Humanities: 2025/26 delivery and partner list not evidenced; page could not be opened (WebFetch 403; curl 403, not bypassed), so evidence is search-index extract. Summary refers to the output as digital-media asset; assessment detail not seen.
+- UK29-S02 Rise project challenges: Need specific project-challenge listings on rise.mmu.ac.uk with dates, team structure and partners. Umbrella framework itself is excluded; only the project-challenge strand is a lead.
+- UK29-S03 Student projects and consultancy (Business Services / talent recruitment): Team vs individual; which programmes/modules; credit; dates.
+- UK29-S04 Work-integrated learning live projects (Faculty of Health and Education): Group vs individual split; credit; programme coverage; date.
+- UK29-S05 Engineering live projects and Group Project (BEng Mechanical / Electrical): Unit specification needed to confirm external clients for the Group Project; department collaborative projects page could not be retrieved (301/404).
+- UK30-S03 Creative Industry Collaboration (BA Photography Year 1): Deliverable, credits, duration, named clients, delivery year.
+- UK30-S04 Business Project (Business Management with Foundation Year): Whether projects are externally commissioned or student-initiated; credits.
+- UK30-S05 MEng Group Project (Electrical and Electronic Engineering): Whether external organisations set/supervise projects; delivery year.
+- UK30-S06 Inspiring Futures (Faculty of Arts, Humanities and Business): Which modules use it; group/individual split; delivery year; intake.
+- US01-S02 OP Team Project (MIT Sloan Action Learning): Company role, deliverable, term, and dated delivery.
+- US01-S03 Master of Business Analytics Capstone: Whether capstone is compulsory; duration; individual vs pair split.
+- US01-S07 DUSP planning practicum (e.g. 11.S938 Resilience by Design): Group structure, year, internal-vs-external share of clients.
+- US02-S04 Policy Analysis Exercise (PAE), Master in Public Policy: Share of PAEs done in groups; status confirmed through a search-summary mention of a 2026 showcase plus an annual client call (proposals from August).
+- US05-S02 MEng Capstone (partner-led), Fung Institute for Engineering Leadership: Share of capstones that are partner-led; compulsory status; whether 2025/26 or 2026/27 cohort delivery is confirmed; partner fee conflict ($20k vs $25k) irrelevant to criteria. Separate Fung Fellowship 12-week undergraduate track not assessed.
+- US05-S03 Data Science Discovery Program (Data Discovery course): Share of external versus academic mentors; team sizes per project; student eligibility and units.
 
 Resume: research IDs under 'Not started'/'Partial' following RESEARCH_BRIEF.md, write results/<ID>.json, then run `python3 -I el_review/build.py`.

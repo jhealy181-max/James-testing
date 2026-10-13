@@ -1,0 +1,274 @@
+{
+ "inst_id": "US02",
+ "institution": "Harvard",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Mindich Program in Engaged Scholarship (WebFetch about page)",
+    "Harvard FAS course students work in teams with community partner project engaged scholarship 2025-2026",
+    "Mindich academics page (WebFetch)"
+   ],
+   "key_sources": [
+    "https://engagedscholarship.fas.harvard.edu/about/",
+    "https://engagedscholarship.fas.harvard.edu/student-resources/academics/"
+   ],
+   "finding": "Mindich supports about 60 community/civically engaged undergraduate courses a year, but its pages say nothing on community-partner briefs, group work or assessment, so the umbrella cannot be shown to meet B or C. Individual courses (e.g. GOV 1022 Community-Based Survey Research Practicum) were not tested."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "HBS FIELD Global Immersion client company team project",
+    "HBS MBA handbook Field Global Capstone CAP required curriculum team of six Global Partner company (extended)"
+   ],
+   "key_sources": [
+    "https://www.hbs.edu/mba/handbook/academic-information-and-policies/field-global-capstone",
+    "https://www.hbs.edu/mba/academic-experience/the-field-method/field-global-capstone",
+    "https://www.hbs.edu/mba/academic-experience/the-field-method"
+   ],
+   "finding": "FIELD Global Capstone (required first-year MBA course) puts teams of six with partner companies abroad; qualifies. HBS pages could not be opened directly (WebFetch returned 404 or a different page), so evidence is search-index text. IFC January courses are elective and only 'could include' company team projects."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Harvard SEAS capstone project industry sponsor team ES 100 design project",
+    "IACS capstone Master's CSE industry partner project team (extended)",
+    "Harvard Engineering Design Projects ES 100 sponsored capstone external client team seniors 2025"
+   ],
+   "key_sources": [
+    "https://seas.harvard.edu/applied-computation/courses",
+    "https://iacs.seas.harvard.edu/capstone",
+    "https://designfair.seas.harvard.edu/2021/cse-capstone-project-apcomp-297r",
+    "https://designfair.seas.harvard.edu/2020/engineering-sciences/engineering-design-projects-es100"
+   ],
+   "finding": "APCOMP 297R CSE Capstone (teams of 3-4, partner organizations) qualifies. ES 100 senior capstone is mostly individual with no general external-client model evidenced."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Harvard Department of Statistics OR Physics OR Chemistry OR Life Sciences course industry partner project students teams real-world client"
+   ],
+   "key_sources": [
+    "https://extension.harvard.edu/blog/harvard-extension-school-data-science-capstone-experience/"
+   ],
+   "finding": "No natural-science or statistics department course with an external partner group project found. The only data-science hit is the Harvard Extension School capstone (non-degree-college route; search summary only)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Harvard Kennedy School Policy Analysis Exercise client organization team",
+    "HKS PAE page, client page, Spring Exercise page and Past PAEs page (WebFetch)",
+    "Mindich Fall 2026 / Spring 2027 course lists (WebFetch)"
+   ],
+   "key_sources": [
+    "https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/policy-analysis-exercise",
+    "https://www.hks.harvard.edu/more/employers/become-pae-client",
+    "https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/curriculum/spring-exercise"
+   ],
+   "finding": "HKS PAE has a public/nonprofit client, but the source pages conflict on whether it is individual or small-team, so group working is Unclear. FAS social-science engaged courses not tested at course level."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Harvard Law School clinic students team client organization report",
+    "Harvard GSD studio client community partner / HGSE client-based practicum",
+    "HLS Dispute Systems Design Clinic page (WebFetch)"
+   ],
+   "key_sources": [
+    "https://hls.harvard.edu/clinics/in-house-clinics/harvard-dispute-systems-design-clinic/",
+    "https://clinics.law.harvard.edu/hlep/",
+    "https://www.gsd.harvard.edu/urban-planning-design/programs/master-in-urban-planning/community-outreach/"
+   ],
+   "finding": "HLS Dispute Systems Design Clinic: teams of 2-3 with a client organization/community and a final report; qualifies on A/B/C but term of current delivery is undated. GSD core planning studio with real clients and HLEP are leads (evidence gaps). HGSE returned nothing."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "FIELD Global Capstone (CAP), formerly FIELD Global Immersion",
+   "english_name": "FIELD Global Capstone (CAP)",
+   "module_code": "CAP",
+   "description": "Semester-long Required Curriculum course in the MBA first year. HBS matches each Global Partner company with a diverse team of six students who design something new for the company's local end-user consumers, then spend a one-week immersion at the partner's location (11-18 May 2026) meeting the partner and local consumers.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Harvard Business School, MBA Program",
+   "eligible_faculties_programmes": "HBS MBA first-year (Required Curriculum) students; Boston-based section for those who cannot travel",
+   "faculty_areas": ["business"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MBA Year 1",
+   "eligibility_restrictions": "MBA RC students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "One semester with one-week immersion",
+   "delivery_format": "Team project with partner company; on-campus sessions plus immersion abroad",
+   "project_based": "Yes",
+   "project_evidence": "Teams design a new product, service or customer experience concept for the partner's local consumers [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Each company is matched with a team of six students [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner companies are selected by HBS, each names a Project Manager, signs a project agreement with HBS, hosts the team and receives the proposal [1][2]. Pages state learning, not consulting, is the main goal.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Hosts team; names project manager; sets consumer-focused project area; receives proposal",
+   "named_partners": "",
+   "deliverable": "Proposal for new product/service/customer experience presented to the partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (immersion 11-18 May 2026)",
+   "participation_data": "",
+   "unresolved": "Credit/assessment weight; number of partners in current year (pages cite 13 and 16 cities); what the partner formally receives; HBS handbook and course pages could not be opened by WebFetch (404 / wrong page), so quotes are from search-index text.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.hbs.edu/mba/handbook/academic-information-and-policies/field-global-capstone", "title": "2.16 Field Global Capstone (CAP)", "section": "Handbook", "pub_year": "undated (2026 dates)", "accessed": "2026-10-13", "retrieval": "search-index extract", "extract": "Semester-long course in the Required Curriculum year culminating in a one-week immersion at the company's location where students meet their Global Partner and local consumers; a Global Partner must select one employee as Project Manager; partner signs a project agreement with HBS.", "supports": ["project", "employer", "participation", "status"]},
+    {"n": 2, "url": "https://www.hbs.edu/mba/academic-experience/the-field-method/field-global-capstone", "title": "FIELD Global Capstone", "section": "Programme page", "pub_year": "undated (2026 dates)", "accessed": "2026-10-13", "retrieval": "search-index extract", "extract": "Companies are matched with a team of six students; projects must focus on designing something new for the company's local end-user consumers; immersion Monday 11 May to Monday 18 May 2026.", "supports": ["project", "group", "employer", "status"]}
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Computational Science and Engineering Capstone Project (APCOMP 297R)",
+   "english_name": "Computational Science and Engineering Capstone Project",
+   "module_code": "APCOMP 297R",
+   "description": "Semester-long capstone in which students work in groups of 3-4 on a real-world project for a partner/client organization, with progress communicated to course staff and the partner. Past partner examples: Biogen, Fluxedo, Spotify (c. 2017); Unspace rail-incident drone vision project (2024-25).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Institute for Applied Computational Science (IACS), SEAS",
+   "eligible_faculties_programmes": "Master's in Computational Science and Engineering / Data Science (inferred; page does not state who must take it)",
+   "faculty_areas": ["engineering_computing"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not stated on pages retrieved",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "One semester (Fall 2026 and Spring 2027 sections listed)",
+   "delivery_format": "Weekly class (Wed 12:45-3:30pm) with team projects",
+   "project_based": "Yes",
+   "project_evidence": "Teams of 3-4 on a real-world project with messy real datasets; examples with defined models/systems built [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'in groups of 3-4 on a real-world project' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Course listing refers to progress communicated to a 'partner organization'; search result for a SEAS page says semester-long projects with 'client' organizations; examples of industry partners [1][2]. Whether external partners are the norm for every team is not stated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Provides real-world project and data; receives progress updates",
+   "named_partners": "Biogen, Fluxedo, Spotify (c. 2017); Unspace (2024-25, from search summary)",
+   "deliverable": "Team project output (model/system) reported to partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026",
+   "participation_data": "",
+   "unresolved": "Whether compulsory for the CSE/Data Science master's; credit; current partner list; iacs.seas.harvard.edu/capstone and designfair pages returned 403 so were not read; partner-coverage wording is from the course listing and search summaries.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://seas.harvard.edu/applied-computation/courses", "title": "Courses (Applied Computation)", "section": "APCOMP 297R", "pub_year": "Fall 2026 / Spring 2027 listing", "accessed": "2026-10-13", "retrieval": "page text", "extract": "Students work 'in groups of 3-4 on a real-world project'; progress is communicated to staff and to a partner organization; Fall 2026 (Thorpe, Duong-Tran) and Spring 2027 (Duong-Tran) sections.", "supports": ["project", "group", "employer", "status"]},
+    {"n": 2, "url": "https://iacs.seas.harvard.edu/capstone", "title": "Master's in Computational Science and Engineering (CSE) capstone", "section": "Capstone", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase", "extract": "Semester-long research projects grouping students with 'client' organizations; past partner examples named in SEAS news items (Biogen, Spotify, Fluxedo; Unspace 2024-25). Page itself returned 403 to WebFetch.", "supports": ["employer", "project"]}
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Harvard Dispute Systems Design Clinic",
+   "english_name": "Harvard Dispute Systems Design Clinic",
+   "module_code": "",
+   "description": "Students work in a team of 2-3 (themselves plus 1-2 others) with a Clinical Instructor on a challenge facing an organization or community, meet the client weekly, gather information (interviews, focus groups, surveys), and present findings and recommendations to the client and a final report. Co-required seminar 'Designing Dispute Systems for Justice' (2 classroom credits).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Harvard Law School, in-house clinics",
+   "eligible_faculties_programmes": "Harvard Law School students (as stated by clinic page context)",
+   "faculty_areas": ["other"],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Clinical credits plus 2-credit co-required seminar",
+   "duration": "One semester (Fall and Spring)",
+   "delivery_format": "Team client project plus seminar",
+   "project_based": "Yes",
+   "project_evidence": "Research and consulting project ending in findings, recommendations and final report [1].",
+   "group_working": "Yes",
+   "group_evidence": "'usually work in a team of 1-2 other students with a Clinical Instructor' [1]. Pair or trio counts as a team.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Each team works on a challenge facing an organization or community, meets the client weekly and shares recommendations with the client [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Client: poses challenge, meets team weekly, receives recommendations",
+   "named_partners": "",
+   "deliverable": "Final report and recommendations to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Page is undated; no dated 2025/26-2026/27 corroboration; client sector mix; student level.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://hls.harvard.edu/clinics/in-house-clinics/harvard-dispute-systems-design-clinic/", "title": "Harvard Dispute Systems Design Clinic", "section": "Clinic page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text", "extract": "Students usually work in a team of 1-2 other students with a Clinical Instructor; teams meet weekly with the client; recommendations shared with the client and a final report prepared; offered in Fall and Spring.", "supports": ["project", "group", "employer", "credit"]}
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Policy Analysis Exercise (PAE), Master in Public Policy",
+   "english_name": "Policy Analysis Exercise",
+   "module_code": "",
+   "description": "Second-year MPP capstone (September to March) on a public or nonprofit policy or management issue presented by a client organization; students define the problem with the client, research, and make actionable recommendations in a c. 40-page / 10,000-word analysis under a faculty advisor. Clients meet students regularly and review drafts.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Harvard Kennedy School",
+   "eligible_faculties_programmes": "Master in Public Policy second-year students",
+   "faculty_areas": ["arts_humanities_social_sciences"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MPP Year 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Capstone; must be passed to graduate (per Spring Exercise page); weighting not retrieved",
+   "duration": "September to March, c. 8-10 hours a week",
+   "delivery_format": "Client project with faculty advisor",
+   "project_based": "Yes",
+   "project_evidence": "Defined client problem, research, and a 10,000-word analysis with recommendations [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Client page: 'Students may work alone or in a small group'; another HKS page describes it as individual; search results mention a 2026 four-person team project. Individual and group routes cannot be separated [2][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organization presents the problem, meets the student regularly, reviews drafts and supplies information; client may not control conclusions [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: poses problem, supervises informally, receives analysis",
+   "named_partners": "AFL-CIO State and Local Advocacy Hub (2026 team project, from search summary)",
+   "deliverable": "Policy analysis report with recommendations to client",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (PAE showcase)",
+   "participation_data": "",
+   "unresolved": "Share of PAEs done in groups; status confirmed through a search-summary mention of a 2026 showcase plus an annual client call (proposals from August).",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/policy-analysis-exercise", "title": "Policy Analysis Exercise", "section": "Programme page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'for a public or nonprofit sector policy or management issue presented by a client organization'; students and clients 'work together to define specific issues, design research strategies, gather data, formulate and evaluate options, and, finally, make actionable recommendations.' Analysis 'usually around 40 pages or 10,000 words'. Page shows both single presenters and groups of two to four.", "supports": ["project", "employer", "group"]},
+    {"n": 2, "url": "https://www.hks.harvard.edu/more/employers/become-pae-client", "title": "Become a PAE Client", "section": "Client page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text", "extract": "Students may work alone or in a small group with a client organization; proposals from August, topics finalised early October, work September to March, final product due end of March; client meets student regularly and reviews drafts.", "supports": ["group", "employer", "status"]},
+    {"n": 3, "url": "https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/curriculum/spring-exercise", "title": "Spring Exercise", "section": "Curriculum", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text", "extract": "Describes PAE as the capstone of the MPP experience, an individual project with a faculty advisor; must be passed to graduate (summary of page; conflicts with client page).", "supports": ["participation", "group"]}
+   ]
+  }
+ ],
+ "exclusions": [
+  {"name": "Mindich Program in Engaged Scholarship", "legacy": true, "category": "Evidence gap", "reason": "About 60 community/civically engaged undergraduate courses a year across divisions (reach is university-wide for College undergraduates) but pages give no description of community-partner briefs, group projects or outputs; course-level testing (e.g. GOV 1022 Community-Based Survey Research Practicum, Fall 2026) was not done in reduced-depth mode. A curricular framework is not itself a qualifying scheme.", "source_url": "https://engagedscholarship.fas.harvard.edu/student-resources/academics/", "status_note": "2026/27 courses listed (Fall 2026, Spring 2027)"},
+  {"name": "HKS Spring Exercise", "legacy": false, "category": "Simulation/virtual", "reason": "Required first-year two-week five-person team exercise described as a simulation of a policy issue; no external client named.", "source_url": "https://www.hks.harvard.edu/educational-programs/masters-programs/master-public-policy/curriculum/spring-exercise", "status_note": ""},
+  {"name": "ES 100 Engineering Design Projects (SEAS senior capstone)", "legacy": false, "category": "Near-miss: not group", "reason": "Year-long senior capstone reported as individual projects (one three-student team among 2025 award winners); no general external client or sponsor model evidenced, though SEAS invites sponsors.", "source_url": "https://designfair.seas.harvard.edu/2020/engineering-sciences/engineering-design-projects-es100", "status_note": "65 students completed in 2024-25 (search summary)"},
+  {"name": "GSD Core Urban Planning Studio / Community Design and Learning Initiative", "legacy": false, "category": "Evidence gap", "reason": "Search summary says second-semester planning studio works with a real client in a real place and CDLI matches applied projects with community partners; team structure, requirement and current year not verified.", "source_url": "https://www.gsd.harvard.edu/urban-planning-design/programs/master-in-urban-planning/community-outreach/", "status_note": ""},
+  {"name": "Harvard Law Entrepreneurship Project (HLEP)", "legacy": false, "category": "Evidence gap", "reason": "Teams of 4-5 law students with attorneys serve entrepreneurs over 6-10 weeks producing a written report (search summary), but a student practice organisation with legal-advice character; curricular status and currency not verified.", "source_url": "https://clinics.law.harvard.edu/hlep/", "status_note": ""},
+  {"name": "HBS Immersive Field Courses (January term)", "legacy": false, "category": "Evidence gap", "reason": "Elective second-year courses that 'could include' team projects with companies; individual courses not identified.", "source_url": "https://www.hbs.edu/mba/academic-experience/the-field-method", "status_note": ""},
+  {"name": "Harvard Extension School Data Science Capstone", "legacy": false, "category": "Evidence gap", "reason": "Blog says teams pick topics with industry partners (NASA, NVIDIA, IBM); Extension School is a separate non-degree-college route and the page was only seen as a search summary.", "source_url": "https://extension.harvard.edu/blog/harvard-extension-school-data-science-capstone-experience/", "status_note": ""}
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Harvard's verified employer-linked group provision sits in separate professional-school and programme routes rather than a central scheme. The strongest is the HBS FIELD Global Capstone: a required first-year MBA course in which teams of six work with a partner company abroad to design a new product or service for local consumers (immersion 11-18 May 2026). The SEAS/IACS Computational Science and Engineering Capstone (APCOMP 297R) puts groups of 3-4 on real-world projects for partner organizations, with a Fall 2026 section listed and named past partners such as Biogen, Spotify and Unspace; whether it is compulsory is unknown. The Harvard Law School Dispute Systems Design Clinic fits all three criteria (teams of 2-3, weekly client meetings, final report) but is undated, so current delivery is unclear. The Kennedy School Policy Analysis Exercise is a compulsory MPP capstone for public or nonprofit clients, but sources conflict on whether students work alone or in small groups. The legacy lead, the Mindich Program in Engaged Scholarship, offers about 60 community-engaged undergraduate courses a year, but its pages do not show group projects with partner organizations, so it is recorded as an evidence gap. Nothing was found in the sciences. No undergraduate College route with live external group projects was verified. Reach is programme-level throughout, with no institution-wide mechanism evidenced.",
+ "gaps": "Reduced-depth review (about 14 searches plus page fetches). Several Harvard pages returned 403/404 to WebFetch (iacs.seas capstone, designfair, HBS handbook), so some evidence is search-index text. Not covered: Mindich course-level projects (GOV 1022 etc.), Harvard Innovation Labs, HGSE, HSPH, Harvard Medical School, GSD studios, Harvard Law SPOs/other clinics, Harvard Extension, further SEAS and FAS undergraduate courses; further departmental instances likely."
+}

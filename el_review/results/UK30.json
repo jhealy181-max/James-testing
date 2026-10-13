@@ -1,0 +1,538 @@
+{
+ "inst_id": "UK30",
+ "institution": "Plymouth",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Plymouth employer-set challenge students teams real-world project careers enterprise",
+    "Challenge Connect Plymouth students employers business challenge"
+   ],
+   "key_sources": [
+    "https://www.plymouth.ac.uk/about-us/teaching-and-learning/employability-in-the-curriculum-and-beyond/working-with-employers",
+    "https://www.plymouth.ac.uk/services/careers/boost-skills-development-challenge"
+   ],
+   "finding": "No central, verified university-wide employer project scheme; BOOST/Challenge Connect indicated but unconfirmed on fetched pages. Employability page endorses consultancy-team student projects generally."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Plymouth Business School consultancy project module student teams client organisation",
+    "University of Plymouth live client project students teams external organisations module"
+   ],
+   "key_sources": [
+    "https://www.plymouth.ac.uk/courses/postgraduate/mba-master-of-business-administration",
+    "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-foundation-year",
+    "https://www.plymouth.ac.uk/schools/plymouth-business-school/inspiring-futures"
+   ],
+   "finding": "MBA core client project meets A/B/C; Inspiring Futures umbrella; BUSM3004 team project with unclear external partner."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Plymouth engineering computing final year group project industry client sponsor",
+    "Plymouth COMP2003 Computing Group Project external client software team"
+   ],
+   "key_sources": [
+    "https://www.plymouth.ac.uk/courses/undergraduate/meng-electrical-and-electronic-engineering"
+   ],
+   "finding": "MEng PROJ500 team prototype; industry links but partner role unclear; COMP2003 no client evidence."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Plymouth School of Biological and Marine Sciences OR Geography OR Psychology student group project external organisation client"
+   ],
+   "key_sources": [
+    "https://www.plymouth.ac.uk/courses/undergraduate/bsc-geography-with-gis-and-data-science"
+   ],
+   "finding": "No qualifying science route found; Geography Sustainable Futures lacks client evidence."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Plymouth social sciences humanities module live brief community partner group project students"
+   ],
+   "key_sources": [
+    "https://www.plymouth.ac.uk/courses/undergraduate/ba-photography",
+    "https://www.plymouth.ac.uk/courses/undergraduate/ba-creative-media-with-foundation",
+    "https://www.plymouth.ac.uk/courses/undergraduate/ba-architecture/live-projects"
+   ],
+   "finding": "Creative/design programmes use live briefs (Photography MEDI423, Creative Media, Architecture); no social science route verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Plymouth health professions OR law OR medicine students interprofessional team project community organisation"
+   ],
+   "key_sources": [
+    "https://www.plymouth.ac.uk/courses/undergraduate/llb-law/medical-law-and-ethics"
+   ],
+   "finding": "Health/law: internal interprofessional projects only; none with external organisations found."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Plymouth Business School",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "30 credits; assessment weighting not stated",
+   "duration": "10-14 weeks",
+   "delivery_format": "Team client project",
+   "named_partners": "",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "english_name": "Leading Change, People and Projects (MBA)",
+   "local_id": "S1",
+   "official_name": "Leading Change, People and Projects (MBA)",
+   "description": "30-credit core MBA module: students are placed in diverse teams and over 10-14 weeks work on a real organisational brief, analysing challenges and developing evidence-based recommendations, ending in a presentation to the client organisation.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "MBA Master of Business Administration",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Real organisational brief; practical evidence-based recommendations; client presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'you will be placed in a diverse team' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Team engages with a real organisation's brief and presents to the client organisation [1]. The page lists Plymouth Argyle Community Trust, St Luke's Hospice, TimeBank South West and Arterne CIC as example local organisations but does not say this module uses them.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: supplies brief, receives presentation",
+   "deliverable": "Recommendations and professional client presentation",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "No academic year shown; listed as core module on live course page; partner types are charity/community/hospice per examples but unconfirmed for this module.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.plymouth.ac.uk/courses/postgraduate/mba-master-of-business-administration",
+     "title": "MBA Master of Business Administration - University of Plymouth",
+     "section": "Core modules / Leading Change, People and Projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, quoted)",
+     "extract": "'Over 10-14 weeks, you will engage with a real organisational brief.' 'The module culminates in you delivering a professional presentation to your client organisation.' 30 credits; listed under Core modules.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "School of Art, Design and Architecture",
+   "year_of_study": "Years 1-3 (examples)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "Big Tent design response 5 days; others unstated",
+   "delivery_format": "Team live design-build projects",
+   "named_partners": "Dartington Hall Trust; Riverside Primary School (undated; outdoor classroom shortlisted 2020 RIBA MacEwan Award)",
+   "duration_band": "1-4 weeks",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "english_name": "BA Architecture live projects (Big Tent, Eco-pod, outdoor classroom)",
+   "local_id": "S2",
+   "official_name": "BA Architecture live projects (Big Tent, Eco-pod, outdoor classroom)",
+   "description": "Architecture students work on live briefs with clients and partner organisations; e.g. Big Tent: 14 student groups designed a temporary timber shelter in 5 days for Dartington Hall Trust (client wrote the brief); the design was built by students. Year 1 outdoor classroom: student teams proposed concept designs and the client (Riverside Primary School) chose the winner.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "BA (Hons) Architecture; BA (Hons) Architecture Technology and the Environment",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Design proposals, costing, construction manual, built structures [1].",
+   "group_working": "Yes",
+   "group_evidence": "14 groups (Big Tent); student teams each proposed a concept (outdoor classroom) [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Dartington Hall Trust wrote the competition brief; Riverside Primary School selected the winning design [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: sets brief, selects winning design",
+   "deliverable": "Design proposals and built structure",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2020 (award reference)",
+   "unresolved": "No module names/codes; no dated 2025/26 delivery; whether compulsory.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/ba-architecture/live-projects",
+     "title": "Architecture students' live projects - University of Plymouth",
+     "section": "Live projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, quoted)",
+     "extract": "Live briefs with 'industry professionals, clients and partner organisations'; Big Tent: Dartington Hall Trust brief, 14 groups, 5 days, built by students; outdoor classroom: teams proposed concepts and the client chose the winner.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MEDI423",
+   "admin_host": "School of Art, Design and Architecture",
+   "year_of_study": "Year 1",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "english_name": "Creative Industry Collaboration (BA Photography Year 1)",
+   "local_id": "S3",
+   "official_name": "Creative Industry Collaboration (BA Photography Year 1)",
+   "description": "Core Year 1 module in which students work in teams to tackle a live brief set by a creative industry client or partner.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "BA (Hons) Photography (module code also appears on Creative Media course page)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Unclear",
+   "project_evidence": "'live brief' but defined output not stated on page [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Work in teams to tackle a live brief' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Brief set by a creative industry client or partner [1]; extent of client involvement in assessment not stated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets live brief",
+   "deliverable": "Not stated",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Deliverable, credits, duration, named clients, delivery year.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/ba-photography",
+     "title": "BA (Hons) Photography - University of Plymouth",
+     "section": "Year 1 core modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, quoted)",
+     "extract": "MEDI423 Creative Industry Collaboration (Year 1, core): 'Work in teams to tackle a live brief set by a creative industry client or partner.'",
+     "supports": [
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/ba-creative-media-with-foundation",
+     "title": "BA (Hons) Creative Media with Foundation",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, quoted)",
+     "extract": "Same module MEDI423 core Year 1; Year 3 core MEDI614 Collaborative Media Lab: 'Work with external partners to create a collaborative media project.'",
+     "supports": [
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "BUSM3004",
+   "admin_host": "Plymouth Business School",
+   "year_of_study": "Foundation year (Year 0)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "english_name": "Business Project (Business Management with Foundation Year)",
+   "local_id": "S4",
+   "official_name": "Business Project (Business Management with Foundation Year)",
+   "description": "Core foundation-year module: students work in a team to plan, deliver and evaluate a real business or community project.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "BSc (Hons) Business Management with Foundation Year",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Plan, deliver and evaluate a real business or community project [1].",
+   "group_working": "Yes",
+   "group_evidence": "'You'll work in a team to plan, deliver, and evaluate...' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page says 'real business or community project' but names no external organisation and does not say who sets the brief or receives output [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (course page fee table lists 2026-27 and 2027-28 starts)",
+   "unresolved": "Whether projects are externally commissioned or student-initiated; credits.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-foundation-year",
+     "title": "BSc (Hons) Business Management with Foundation Year",
+     "section": "Core modules, Foundation year",
+     "pub_year": "2026-27 fees shown",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, quoted)",
+     "extract": "'You'll work in a team to plan, deliver, and evaluate a real business or community project' while developing an entrepreneurial mindset.",
+     "supports": [
+      "project",
+      "group",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "PROJ500",
+   "admin_host": "School of Engineering, Computing and Mathematics",
+   "year_of_study": "Year 4 (final)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "60 credits",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "english_name": "MEng Group Project (Electrical and Electronic Engineering)",
+   "local_id": "S5",
+   "official_name": "MEng Group Project (Electrical and Electronic Engineering)",
+   "description": "Core 60-credit final-year MEng group project on a complex real-world problem 'drawn from industry, commerce, or research'; teams design and build a prototype.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "MEng (Hons) Electrical and Electronic Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Real-world problem; prototype demonstrating claims in project execution plan [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams are expected to design and build a prototype' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Problems may be drawn from industry, commerce or research (so research groups possible, which are internal); no named partner or partner role stated on the page [1]. Search summary of other pages mentions industry-sponsored prizes and examples, not retrieved directly.",
+   "partner_type": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "deliverable": "Prototype and report",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Whether external organisations set/supervise projects; delivery year.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/meng-electrical-and-electronic-engineering",
+     "title": "MEng (Hons) Electrical and Electronic Engineering",
+     "section": "Final year core modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, quoted)",
+     "extract": "PROJ500 60 credits: 'complex, real-world problem drawn from industry, commerce, or research'; 'teams are expected to design and build a prototype'.",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Plymouth Business School / Faculty of Arts, Humanities and Business",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "Ramer Sponges Ltd; Enterprise Rent-A-Car; Memory Matters South West CIC; Devon Disability Collective; Devon & Cornwall Food Action; Clever Student Lets; RSA (undated)",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "Inspiring Futures",
+   "english_name": "Inspiring Futures (Faculty of Arts, Humanities and Business)",
+   "local_id": "S6",
+   "official_name": "Inspiring Futures (Faculty of Arts, Humanities and Business)",
+   "description": "Knowledge-exchange scheme embedding consultancy projects in curricula: Business School students on marketing and funding strategies for local businesses and charities; design/film/media students producing explainer videos, design and web work for local charities and social enterprises; no cost to organisations.",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "Participating programmes in the Faculty of Arts, Humanities and Business",
+   "faculty_areas": [
+    "business",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Marketing strategies, funding strategies, explainer videos, design work [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page describes both group projects and individual student case studies; routes not separable [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisations (e.g. Ramer Sponges Ltd, Enterprise Rent-A-Car, Memory Matters South West CIC, Devon Disability Collective, Devon & Cornwall Food Action, RSA brief) hosted projects [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Clients setting briefs",
+   "deliverable": "Strategies, videos, design work",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Which modules use it; group/individual split; delivery year; intake.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.plymouth.ac.uk/schools/plymouth-business-school/inspiring-futures",
+     "title": "Inspiring Futures - University of Plymouth",
+     "section": "Main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, quoted)",
+     "extract": "Students 'engage in knowledge exchange activities' such as consultancy projects as part of their course; named partners and outputs listed; page does not give a start year.",
+     "supports": [
+      "project",
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "The Cube: student enterprise support",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Advice/funding for student ventures; no employer-set group project evidenced; not examined further.",
+   "source_url": "https://www.plymouth.ac.uk/about-us/university-structure/service-areas/research-and-innovation/the-cube",
+   "status_note": "Undated"
+  },
+  {
+   "name": "BOOST skills development challenge / Challenge Connect (Careers)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary describes employer-set small-group tasks (Babcock) and half-day challenge events; fetched pages did not confirm details, eligibility, output or dates.",
+   "source_url": "https://www.plymouth.ac.uk/services/careers/boost-skills-development-challenge",
+   "status_note": ""
+  },
+  {
+   "name": "BSc Business Management Year 2 Business Challenge",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary: students solve real challenges set by 3 local businesses with Careers; not opened; module, duration and output unknown.",
+   "source_url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management",
+   "status_note": ""
+  },
+  {
+   "name": "BSc Business Management Professional Project BUSM6000",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Consultancy/start-up/regeneration project; page does not say group or individual.",
+   "source_url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management",
+   "status_note": ""
+  },
+  {
+   "name": "COMP2003 Computing Group Project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team software project; no client or external partner found in results.",
+   "source_url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-computer-science",
+   "status_note": ""
+  },
+  {
+   "name": "BA Business STO312 live consultancy group project; Computing and Software Development partnership courses",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Academic-partnership (partner college) course pages; not opened; may be delivered by partner institutions.",
+   "source_url": "https://www.plymouth.ac.uk/business-partners/partnerships/academic-partnerships/ba-hons-business",
+   "status_note": ""
+  },
+  {
+   "name": "MSc International Business Business Consultancy STO6005",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Optional 20-credit client consultancy module per search summary; group basis and delivery not verified.",
+   "source_url": "https://www.plymouth.ac.uk/courses/postgraduate/msc-international-business",
+   "status_note": ""
+  },
+  {
+   "name": "Universities Business Challenge; FLUX; Enactus",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Simulated companies or older/extracurricular events; not verified as live-client group projects.",
+   "source_url": "https://www.plymouth.ac.uk/student-life/your-studies/academic-services/careers-and-employability/student-competitions",
+   "status_note": ""
+  },
+  {
+   "name": "Medlaw Project (Law/Medicine)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Interdisciplinary student project with Peninsula School of Medicine; internal.",
+   "source_url": "https://www.plymouth.ac.uk/courses/undergraduate/llb-law/medical-law-and-ethics",
+   "status_note": ""
+  },
+  {
+   "name": "Geography Sustainable Futures (Year 1)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Sector experts speak; group research project with no evidence experts act as clients.",
+   "source_url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-geography-with-gis-and-data-science",
+   "status_note": ""
+  },
+  {
+   "name": "Careers Insight micro-internships",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "100-hour individual projects with host organisations; not group.",
+   "source_url": "https://www.plymouth.ac.uk/careers-and-employment/employer-opportunities",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Plymouth shows distributed, programme-level provision rather than an institution-wide scheme. The clearest route is the core 30-credit MBA module Leading Change, People and Projects: teams spend 10-14 weeks on a real organisational brief and present to the client organisation. Architecture runs live design-build projects for external clients (Dartington Hall Trust; a primary school) with student groups, though the page is undated. Photography (Year 1 core MEDI423) has teams tackle a live brief from a creative-industry client, and Creative Media has core external-partner modules, but deliverables are unspecified. Inspiring Futures, the Faculty of Arts, Humanities and Business knowledge-exchange scheme, hosts named businesses and charities, but group versus individual routes cannot be separated. Business Management with Foundation Year BUSM3004 (team, real business or community project) and MEng PROJ500 (team prototype, problems from industry, commerce or research) lack evidence of an external organisation's role. Careers-run BOOST and Challenge Connect events could not be confirmed. Delivery years are mostly undated, so current status is unclear for most routes. No science, social science or health route was verified.",
+ "gaps": "Most pages undated (only BUSM3004 corroborated by 2026-27 fee tables); module handbooks and assessment details not opened; BOOST/Challenge Connect, Year 2 Business Challenge, STO6005, STO312 (partner-delivered) unverified; further departmental instances likely (design, media, engineering, nursing/health); reduced-depth mode with about 10 searches plus page fetches."
+}

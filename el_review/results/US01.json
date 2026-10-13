@@ -1,0 +1,225 @@
+{
+ "inst_id": "US01",
+ "institution": "Massachusetts Institute of Technology",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "MIT central undergraduate team project external organization program UPOP OR MIT Public Service Center OR MISTI OR IDEAS OR Priscilla King Gray OR Sandbox",
+    "MIT NEET thread industry partner project team ... company sponsor",
+    "WebFetch neet.mit.edu"
+   ],
+   "key_sources": ["https://neet.mit.edu/", "https://neet.mit.edu/sponsor", "https://news.mit.edu/2019/neet-welcomes-sponsor-and-industry-collaborator-boeing-0423"],
+   "finding": "No institute-wide employer-project scheme found. NEET (four cross-departmental threads) is project- and team-based and has industry sponsors, but no thread-specific employer-set group project was evidenced; UROP is individual faculty research. Central route not verified at qualifying level."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "MIT Sloan Action Learning lab course teams host organization final report 2026",
+    "MIT Sloan MBA action learning requirement",
+    "WebFetch mitsloan.mit.edu/action-learning, /action-learning/info-hosts-1, /action-learning/op-team-project, MBAn propose-a-project and 2025-capstone-projects"
+   ],
+   "key_sources": ["https://mitsloan.mit.edu/action-learning", "https://mitsloan.mit.edu/action-learning/info-hosts-1", "https://mitsloan.mit.edu/action-learning/op-team-project", "https://mitsloan.mit.edu/programs/master-business-analytics/2025-capstone-projects"],
+   "finding": "Strong provision at Sloan: Action Learning labs (four-person teams, host-set problem, >2,700 organisations), the OP Team Project in the MBA core, and the Master of Business Analytics capstone (38 external sponsors in 2025, mostly pairs)."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "MIT engineering capstone industry sponsor team senior design project 2025-2026",
+    "MIT Beaver Works Capstone OR SDM capstone OR Gordon Engineering Leadership team projects industry partner",
+    "MIT 2.009 product engineering processes team project corporate sponsor",
+    "WebFetch ctl.mit.edu/capstone-sponsorship; sdm.mit.edu sponsor page"
+   ],
+   "key_sources": ["https://ctl.mit.edu/capstone-sponsorship", "https://sdm.mit.edu/industry-employers/sponsor-employees-research-projects/", "https://meche.mit.edu/featured-classes/product-engineering-process"],
+   "finding": "Master's capstones with external sponsors verified for Supply Chain Management (CTL) and System Design and Management (spring project). 2.009 (large-team product design) shows no named external sponsors. Beaver Works capstones are Lincoln Laboratory-originated (MIT-affiliated). Undergraduate departmental capstones (1.013, 16.82 etc.) not evidenced."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "MIT physics OR chemistry OR biology OR EAPS students team project external company client course"
+   ],
+   "key_sources": ["https://eaps.mit.edu/education/undergraduate-program/major-programs/"],
+   "finding": "Only individual off-campus experience subjects (EAPS 12.080, 12.44) surfaced; no team-based employer project in the sciences found with one query."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "MIT humanities arts social sciences OR architecture OR Media Lab students team client organization project course nonprofit city partner"
+   ],
+   "key_sources": ["https://shass.mit.edu/human-insight-collaborative/shass-education-innovation-fund-projects/"],
+   "finding": "SHASS funding pages describe community-partner courses (e.g. 21A.406[J], Resilient Urbanism, SP.256) but mostly as planned 2025 awards; none verified as employer-linked group projects with current delivery."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "MIT DUSP planning practicum client community organization student team",
+    "MIT D-Lab class students teams partner organization project",
+    "WebFetch dusp.mit.edu/subjects; d-lab.mit.edu/academics/classes/d-lab-design"
+   ],
+   "key_sources": ["https://dusp.mit.edu/subjects", "https://d-lab.mit.edu/academics/classes/d-lab-design"],
+   "finding": "Urban planning (DUSP practica, required for MCP) and D-Lab (cross-listed design classes with community partners) both client/partner-based; group basis explicit only for D-Lab."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "MIT Sloan Action Learning Labs", "english_name": "MIT Sloan Action Learning Labs", "module_code": "Multiple labs (e.g. Asia/ASEAN Lab, GO-Lab, Finance Lab, Sustainable Business Lab, Work Lab 15.679)",
+   "description": "Sloan action-learning labs in which teams of four students work on a real business challenge for a host organisation (corporate, startup, nonprofit, government, healthcare), supervised by a Sloan faculty mentor, often including travel to the host; they give the host options and recommendations backed by research and analysis.",
+   "academic_reach": "Faculty/school", "admin_host": "MIT Sloan Action Learning", "eligible_faculties_programmes": "Sloan graduate programmes (MBA and others); some labs open to students across MIT by selective admission (e.g. Analytics Lab)",
+   "faculty_areas": ["business"], "student_level": "Postgraduate taught", "year_of_study": "", "eligibility_restrictions": "Lab-specific application/selection; MBA-focused (Asia Lab page mentions MBA students only)",
+   "participation_requirement": "Optional/elective", "curricular_status": "Curricular", "credit_assessment": "Course credit varies by lab (not captured)", "duration": "Varies by lab: January month (Finance Lab), February-mid-May (ASEAN Lab), c. four months (GO-Lab)", "delivery_format": "Team project with host organisation, often with in-country field work",
+   "project_based": "Yes", "project_evidence": "Teams give 'options and recommendations for the host organization's problem' backed by research and analysis [2].",
+   "group_working": "Yes", "group_evidence": "'four-person teams' each with a Sloan faculty mentor [2].",
+   "employer_connected": "Yes", "employer_evidence": "Hosts provide the problem, an executive sponsor and a day-to-day contact, fund team travel and receive recommendations [2]; students and faculty have worked with 'over 2,700 organizations' including nonprofits, government and multinationals [1].",
+   "partner_type": "Mixed", "partner_role": "Host/client: sets problem, executive sponsor, funds travel, receives recommendations", "named_partners": "",
+   "deliverable": "Options and recommendations (report/presentation) for host", "duration_band": "~1 term/semester", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2026 (Work Lab first offered spring 2026)",
+   "participation_data": "Over 2,700 host organisations cumulative (undated) [1].",
+   "unresolved": "Team-size and credit of other labs; whether any lab is required; Info For Hosts page described the Asia Lab only.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://mitsloan.mit.edu/action-learning", "title": "Action Learning", "section": "Overview", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "Students apply classroom learning to a real business challenge; partners include community foundations, financial services firms, government bodies, healthcare organisations, nonprofits, multinationals and startups; worked with 'over 2,700 organizations'.", "supports": ["project", "employer"]},
+    {"n": 2, "url": "https://mitsloan.mit.edu/action-learning/info-hosts-1", "title": "Info For Hosts", "section": "Hosts", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'four-person teams' with an MIT Sloan faculty mentor; hosts cover airfare and lodging and assign an executive sponsor and primary contact; teams provide 'options and recommendations for the host organization's problem'.", "supports": ["project", "group", "employer"]},
+    {"n": 3, "url": "https://mitsloan.mit.edu/centers-initiatives/institute-work-and-employment-research/new-mit-sloan-action-learning-course-offering-work-lab-building-better-jobs", "title": "New MIT Sloan Action Learning Course Offering: Work Lab", "section": "News", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase", "extract": "15.679 Work Lab: Building Better Jobs, half-semester Action Learning course first offered spring 2026, students work with employers and workforce development organisations.", "supports": ["status", "employer"]}
+   ]
+  },
+  {
+   "local_id": "S2", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "OP Team Project (MIT Sloan Action Learning)", "english_name": "OP Team Project", "module_code": "",
+   "description": "Core MBA course in which each team of six first-year students analyses a live case study of a real company's strategic change initiative (structure, politics, culture) and crafts implementation plans.",
+   "academic_reach": "Programme/course", "admin_host": "MIT Sloan Action Learning", "eligible_faculties_programmes": "First-year Sloan MBA",
+   "faculty_areas": ["business"], "student_level": "Postgraduate taught", "year_of_study": "Year 1 MBA", "eligibility_restrictions": "First-year MBA students",
+   "participation_requirement": "Compulsory within specified programmes", "curricular_status": "Curricular", "credit_assessment": "", "duration": "'Over the semester'", "delivery_format": "Team project with company",
+   "project_based": "Yes", "project_evidence": "Teams analyse a live company change effort and craft implementation plans [1].",
+   "group_working": "Yes", "group_evidence": "'each team of six' students [1].",
+   "employer_connected": "Unclear", "employer_evidence": "'live case study with a real company' [1]; how the company supplies the brief, receives outputs or assesses is not stated.",
+   "partner_type": "Business/commercial", "partner_role": "Subject company of live case; role unspecified", "named_partners": "",
+   "deliverable": "Implementation plans (form unspecified)", "duration_band": "~1 term/semester", "external_partner_coverage": "Unclear", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "undated",
+   "participation_data": "Core course for 'all 450+ first-year MIT Sloan MBA students' (undated) [1].",
+   "unresolved": "Company role, deliverable, term, and dated delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://mitsloan.mit.edu/action-learning/op-team-project", "title": "OP Team Project: Welcome", "section": "Welcome", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'each team of six high-performing students'; 'analyzing a live case study with a real company'; 'a core course for all 450+ first-year MIT Sloan MBA students'.", "supports": ["project", "group", "employer", "participation", "eligibility"]}
+   ]
+  },
+  {
+   "local_id": "S3", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Master of Business Analytics Capstone", "english_name": "Master of Business Analytics Capstone", "module_code": "",
+   "description": "Sponsor-proposed analytics projects for the 12-month MBAn: external organisations (38 in 2025, e.g. BMW, City of Boston, UNICEF, Pfizer) submit projects, provide a staff mentor under an NDA and Statement of Work and data; students with a faculty advisor produce a project and poster.",
+   "academic_reach": "Programme/course", "admin_host": "MIT Sloan, Master of Business Analytics", "eligible_faculties_programmes": "Master of Business Analytics",
+   "faculty_areas": ["business"], "student_level": "Postgraduate taught", "year_of_study": "", "eligibility_restrictions": "",
+   "participation_requirement": "Unclear", "curricular_status": "Curricular", "credit_assessment": "", "duration": "About 7 months (search summary)", "delivery_format": "Sponsored capstone project",
+   "project_based": "Yes", "project_evidence": "41 listed 2025 projects each with a poster PDF [2].",
+   "group_working": "Unclear", "group_evidence": "'Most projects have two students and one faculty advisor' but CoreWeave and Lincoln Laboratory list one student [2]; pair projects count as group but mix not separable.",
+   "employer_connected": "Yes", "employer_evidence": "Sponsors must provide a staff mentor, sign NDA and Statement of Work and share de-identified data; 38 unique sponsors in 2025 [1][2].",
+   "partner_type": "Mixed", "partner_role": "Sponsor: proposes project, provides data and staff mentor", "named_partners": "Accenture, BMW, City of Boston, Comcast, McKinsey, Microsoft, Pfizer, UNICEF (2025 list) [2]",
+   "deliverable": "Project and poster", "duration_band": "~1 term/semester", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2025 cohort; 2027 project call closes 1 Nov 2026",
+   "participation_data": "41 projects, 38 sponsors (2025).",
+   "unresolved": "Whether capstone is compulsory; duration; individual vs pair split.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://mitsloan.mit.edu/programs/master-business-analytics/propose-a-project", "title": "Propose a Project", "section": "Propose a project", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "Sponsoring a Capstone project 'requires a financial commitment, staff mentor'; NDA and Statement of Work; 'The Deadline for Project Submission for 2027 Capstone Projects is Nov 1, 2026.'", "supports": ["employer", "status"]},
+    {"n": 2, "url": "https://mitsloan.mit.edu/programs/master-business-analytics/2025-capstone-projects", "title": "2025 Capstone Projects", "section": "Project list", "pub_year": "2025", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "41 projects, 38 unique sponsors; most projects list two students and one faculty advisor, two list one student; each links to a poster PDF.", "supports": ["project", "group", "employer", "status"]}
+   ]
+  },
+  {
+   "local_id": "S4", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Supply Chain Management Capstone (CTL sponsored projects)", "english_name": "Supply Chain Management Capstone", "module_code": "",
+   "description": "Ten-month capstone in which teams of MIT SCM master's students work on a problem identified by a sponsoring industry organisation, delivering a written report, models or prototypes and an executive presentation.",
+   "academic_reach": "Programme/course", "admin_host": "MIT Center for Transportation and Logistics (SCM programme)", "eligible_faculties_programmes": "MIT SCM master's students",
+   "faculty_areas": ["engineering_computing", "business"], "student_level": "Postgraduate taught", "year_of_study": "", "eligibility_restrictions": "",
+   "participation_requirement": "Unclear", "curricular_status": "Curricular", "credit_assessment": "", "duration": "10 months", "delivery_format": "Sponsored team project",
+   "project_based": "Yes", "project_evidence": "Report, analytical models/prototypes, executive final presentation [1].",
+   "group_working": "Yes", "group_evidence": "'Teams of students work closely with the sponsoring organization' [1]. Search summary says c.80 students and c.45 projects a year, so teams may be small (not verified).",
+   "employer_connected": "Yes", "employer_evidence": "'Each project is designed around a problem identified by an industry organization'; sponsors propose the challenge and teams work closely with them [1].",
+   "partner_type": "Business/commercial", "partner_role": "Sponsor: proposes problem, works with team", "named_partners": "",
+   "deliverable": "Written report, models/prototypes, executive presentation", "duration_band": ">1 term", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Team size; whether thesis option is individual; dated delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://ctl.mit.edu/capstone-sponsorship", "title": "Capstone Sponsorship", "section": "Capstone Sponsorship", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'Each project is designed around a problem identified by an industry organization'; over a '10-month engagement'; deliverables written report, models or prototypes, executive final presentation.", "supports": ["project", "group", "employer"]},
+    {"n": 2, "url": "https://scm.mit.edu/thesis-and-capstone-research-projects/", "title": "Thesis and capstone projects - SCM", "section": "Overview", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase", "extract": "Approximately 80 students complete about 45 one-year projects each year (search summary only; page not opened).", "supports": ["participation"]}
+   ]
+  },
+  {
+   "local_id": "S5", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "System Design and Management spring project", "english_name": "SDM spring project (Core Integrated Team Projects)", "module_code": "",
+   "description": "In the spring semester SDM students work in teams on challenges proposed by industry, governmental and non-profit partners; the partner gives real-world context, reviews progress and advises on the team's approach.",
+   "academic_reach": "Programme/course", "admin_host": "MIT SDM (Engineering and Sloan)", "eligible_faculties_programmes": "SDM students",
+   "faculty_areas": ["engineering_computing", "business"], "student_level": "Postgraduate taught", "year_of_study": "", "eligibility_restrictions": "",
+   "participation_requirement": "Unclear", "curricular_status": "Curricular", "credit_assessment": "", "duration": "Spring semester", "delivery_format": "Team project with partner",
+   "project_based": "Yes", "project_evidence": "Students 'spend the spring semester working on challenges proposed by' partners [1]; deliverables not listed.",
+   "group_working": "Yes", "group_evidence": "'Each team works closely with their project partner' [1]; team size not stated.",
+   "employer_connected": "Yes", "employer_evidence": "Partner 'provides real-world context', 'reviews progress throughout the semester' and advises [1].",
+   "partner_type": "Mixed", "partner_role": "Proposes challenge, reviews progress, advises", "named_partners": "",
+   "deliverable": "Not specified", "duration_band": "~1 term/semester", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "2025/26 (call for 2026 spring pitches open until 1 Dec 2025)",
+   "participation_data": "",
+   "unresolved": "Evidence is a pitch call, not delivery; team size, credit, compulsory status, deliverable.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://sdm.mit.edu/industry-employers/sponsor-employees-research-projects/", "title": "Industry & Employers: SDM", "section": "Spring project", "pub_year": "2025", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'Our students spend the spring semester working on challenges proposed by industry, governmental, and non-profit partners.' 'The call for 2026 spring pitches will be open until December 1, 2025.'", "supports": ["project", "group", "employer", "status"]}
+   ]
+  },
+  {
+   "local_id": "S6", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "D-Lab: Design (2.722J / MAD.720 / EC.720)", "english_name": "D-Lab: Design", "module_code": "2.722J / MAD.720 / EC.720",
+   "description": "Spring subject (5-0-7) in which multidisciplinary student teams carry out semester-long design and prototyping projects with international community partners (start-ups, nonprofits) on health, agriculture, sanitation and climate challenges. Other D-Lab classes follow a similar partner-project model.",
+   "academic_reach": "Unclear", "admin_host": "MIT D-Lab", "eligible_faculties_programmes": "Cross-listed (U) subject; eligibility not stated",
+   "faculty_areas": ["engineering_computing", "other"], "student_level": "Undergraduate", "year_of_study": "", "eligibility_restrictions": "Not stated on page",
+   "participation_requirement": "Optional/elective", "curricular_status": "Curricular", "credit_assessment": "5-0-7 units", "duration": "Spring semester", "delivery_format": "Team design projects, optional IAP trips in related classes",
+   "project_based": "Yes", "project_evidence": "'semester-long projects' with design and prototyping [1].",
+   "group_working": "Yes", "group_evidence": "'Multidisciplinary student teams work on semester-long projects' [1].",
+   "employer_connected": "Yes", "employer_evidence": "Projects 'in collaboration with international community partners'; teams connect with 'innovative global start-ups and nonprofits' [1]; students present to peers and partners (search summary).",
+   "partner_type": "Mixed", "partner_role": "Community partner frames the project and collaborates", "named_partners": "",
+   "deliverable": "Prototype/design (presented to partners)", "duration_band": "~1 term/semester", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Dated 2025/26 or 2026/27 offering; partner involvement in assessment; named partners.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://d-lab.mit.edu/academics/classes/d-lab-design", "title": "D-Lab: Design", "section": "Class page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'Multidisciplinary student teams work on semester-long projects in collaboration with international community partners.' Subject 2.722J (U) / MAD.720 (U) / EC.720 (U), 5-0-7, Spring.", "supports": ["project", "group", "employer", "credit"]}
+   ]
+  },
+  {
+   "local_id": "S7", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "DUSP planning practicum (e.g. 11.S938 Resilience by Design)", "english_name": "DUSP client-based practicum", "module_code": "e.g. 11.S938",
+   "description": "MCP students must complete a departmental practicum that develops planning proposals in field situations, judged partly on being client-based. Example 11.S938 (graduate, Fall) works with MIT CoLab, GROUND3D, Brooklyn Level Up and Central Brooklyn EDC; students support community partners in answering a central question.",
+   "academic_reach": "Programme/course", "admin_host": "Department of Urban Studies and Planning", "eligible_faculties_programmes": "MCP students (practicum requirement)",
+   "faculty_areas": ["other"], "student_level": "Postgraduate taught", "year_of_study": "", "eligibility_restrictions": "Application per semester; limited enrolment",
+   "participation_requirement": "Compulsory within specified programmes", "curricular_status": "Curricular", "credit_assessment": "", "duration": "One semester", "delivery_format": "Client-based practicum",
+   "project_based": "Yes", "project_evidence": "Practica 'answer' to a real client and develop planning proposals [2].",
+   "group_working": "Unclear", "group_evidence": "Team basis not stated in extracts.",
+   "employer_connected": "Unclear", "employer_evidence": "11.S938 partners include community organisations and an EDC but also MIT CoLab (internal); no client-assessment detail [1].",
+   "partner_type": "Mixed", "partner_role": "Community/client partners", "named_partners": "Brooklyn Level Up, CBEDC, GROUND3D (11.S938, year not shown) [1]",
+   "deliverable": "Planning proposals/reports", "duration_band": "~1 term/semester", "external_partner_coverage": "Some projects", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Group structure, year, internal-vs-external share of clients.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://dusp.mit.edu/subjects", "title": "DUSP Subjects", "section": "11.S938", "pub_year": "undated (Fall, year not shown)", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'This practicum brings together MIT CoLab, GROUND3D, Brooklyn Level Up (BKLVLUP)' and CBEDC; 'Students will support community partners in answering a central question'.", "supports": ["project", "employer"]},
+    {"n": 2, "url": "https://web.mit.edu/dusp/dusp_extension_unsec/handbook/dusp_handbook.pdf", "title": "DUSP Handbook", "section": "Practicum requirement", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase", "extract": "Completion of a departmental approved Practicum subject involving planning proposals in field situations is an MCP requirement; practica judged partly on being client-based.", "supports": ["project", "participation"]}
+   ]
+  }
+ ],
+ "exclusions": [
+  {"name": "Undergraduate Research Opportunities Program (UROP)", "legacy": true, "category": "Dissertation/research", "reason": "Faculty-supervised individual research; no external organisation or group project evidenced.", "source_url": "https://urop.mit.edu/", "status_note": "Legacy row 90; 2026/27 deadlines confirmed in legacy file, not rechecked"},
+  {"name": "NEET threads (Autonomous Machines, Climate + Sustainability Systems, Digital Cities, Living Machines)", "legacy": false, "category": "Evidence gap", "reason": "Project- and team-based with industry sponsors (Boeing sponsored Autonomous Machines, 2019) but no thread-specific employer-set group project, eligibility or credit evidenced.", "source_url": "https://neet.mit.edu/", "status_note": ""},
+  {"name": "2.009 Product Engineering Processes", "legacy": false, "category": "Near-miss: no external org", "reason": "Large-team capstone producing prototypes around a broad theme; no external client or sponsor found.", "source_url": "https://meche.mit.edu/featured-classes/product-engineering-process", "status_note": ""},
+  {"name": "Beaver Works Capstone", "legacy": false, "category": "Near-miss: no external org", "reason": "Two-semester team capstones, but projects come from Lincoln Laboratory (MIT-affiliated); treated as internal.", "source_url": "https://beaverworks.ll.mit.edu/", "status_note": ""},
+  {"name": "EAPS 12.080 / 12.44 experiential subjects", "legacy": false, "category": "Placement/internship", "reason": "Individual off-campus experience; no group project.", "source_url": "https://eaps.mit.edu/education/undergraduate-program/major-programs/", "status_note": ""},
+  {"name": "SHASS community-partner courses (21A.406[J], Resilient Urbanism, SP.256)", "legacy": false, "category": "Evidence gap", "reason": "Known only from funding announcements; group structure, client role and current delivery not verified.", "source_url": "https://shass.mit.edu/human-insight-collaborative/shass-education-innovation-fund-projects/", "status_note": ""},
+  {"name": "Other D-Lab classes (Development, Gender & Development, Design for Scale, energy classes)", "legacy": false, "category": "Evidence gap", "reason": "Similar partner-project model per search summary; not separately evidenced.", "source_url": "https://d-lab.mit.edu/academics/student-projects-presentations", "status_note": ""}
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "MIT's employer-linked group project provision is concentrated in graduate professional programmes, with no institute-wide scheme verified. The clearest route is MIT Sloan Action Learning: four-person teams with a faculty mentor tackle a host organisation's real problem and deliver options and recommendations; hosts name an executive sponsor and contact and fund travel, and Sloan reports work with over 2,700 organisations. Further Sloan routes are the MBA-core OP Team Project (teams of six, live company case, all first-year MBAs) and the Master of Business Analytics capstone (38 external sponsors in 2025, mostly student pairs, sponsors provide a staff mentor and data). Engineering-side master's routes are the Supply Chain Management capstone (10-month sponsor-defined projects) and the SDM spring project (industry, government and non-profit partners), and D-Lab and DUSP offer partner/client semester projects. Undergraduate options are thin: NEET is team- and project-based with industry sponsorship but no employer-set group project was evidenced, and UROP is individual research. Most records rest on undated pages, so current delivery is confirmed only for Action Learning (Work Lab, spring 2026) and the MBAn capstone (2027 call). Access is programme-specific, mostly postgraduate taught.",
+ "gaps": "Session limit stopped further fetches: SCM page not opened by WebFetch (summary only); undergraduate departmental capstones (1.013, 16.82, 6.UAP etc.), Gordon Engineering Leadership, UPOP, MISTI, Media Lab and Architecture not researched; science area had only one query; further departmental instances likely. Credit, compulsory status and dated delivery missing for S2-S7. WebFetch summaries (small model) rather than verbatim quotes."
+}

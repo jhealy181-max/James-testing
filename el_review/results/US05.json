@@ -1,0 +1,533 @@
+{
+ "inst_id": "US05",
+ "institution": "University of California, Berkeley",
+ "review_status": "Partial",
+ "partial_remaining": "Session search limit hit after about 12 searches/fetches. Not run: a humanities/social-science undergraduate query and an EECS/Data Science undergraduate industry-project query; also Fung Fellowship, Deep Tech Innovation Lab, MSSE capstone and Haas IBD need opening; current-year (2025/26-2026/27) evidence for S1, S2, S4-S6 still needed.",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Berkeley Discovery Partners industry project students teams external organization"
+   ],
+   "key_sources": [
+    "https://discovery.berkeley.edu/students/overview",
+    "https://cdss.berkeley.edu/discovery/partner"
+   ],
+   "finding": "Berkeley Discovery is a platform/framework with no scheme detail; Data Science Discovery (S2) is the concrete route found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Berkeley Haas client consulting project students team",
+    "Haas Startup Lab MBA 295T"
+   ],
+   "key_sources": [
+    "https://haas.berkeley.edu/cssl/programs-events/social-sector-solutions/",
+    "https://mba.haas.berkeley.edu/academics/experiential-learning"
+   ],
+   "finding": "Several Haas MBA team client courses (Social Sector Solutions, Haas@Work, Startup Lab); all graduate; currency weakly evidenced."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Berkeley Engineering capstone industry sponsored project team Fung Institute Master of Engineering",
+    "Berkeley data science capstone external client"
+   ],
+   "key_sources": [
+    "https://funginstitute.berkeley.edu/programs-centers/full-time-program/capstone-experience/",
+    "https://funginstitute.berkeley.edu/partners/"
+   ],
+   "finding": "MEng capstone with industry sponsors; undergraduate EECS/Data Science capstones not found (one follow-up search was refused by session limit)."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Berkeley natural resources/chemistry/biology/physics client project external partner"
+   ],
+   "key_sources": [
+    "https://msse.berkeley.edu/partner-with-us/"
+   ],
+   "finding": "Nothing undergraduate found; MSSE capstone is a lead only; Data Discovery (S2) spans data science."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Berkeley Goldman School of Public Policy client organization team"
+   ],
+   "key_sources": [
+    "https://gspp.berkeley.edu/career-services/client-based-projects/introduction-to-policy-analysis-ipa",
+    "https://gspp.berkeley.edu/career-services/client-based-projects/capstone-projects"
+   ],
+   "finding": "GSPP IPA (team, public-sector clients) qualifies; Capstone is individual. A humanities/social-science undergraduate query was refused by the session limit and not run."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Berkeley public health/architecture/law clinic student teams community partner client project"
+   ],
+   "key_sources": [
+    "https://www.law.berkeley.edu/experiential/clinics/environmental-law-clinic/about-the-clinic/"
+   ],
+   "finding": "Law clinics are client casework (excluded as evidence gap); public health items are funded student ventures; no architecture result."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Introduction to Policy Analysis (IPA) team projects",
+   "module_code": "",
+   "named_partners": "",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S1",
+   "official_name": "Introduction to Policy Analysis (IPA) Team Consulting Projects",
+   "description": "Goldman School of Public Policy first-year MPP workshop in which student teams provide pro-bono policy consulting to public-sector agencies and NGOs, producing an analytical report and oral presentation for the client under faculty coaches; clients meet the team early and roughly fortnightly.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Goldman School of Public Policy (Career Services, client-based projects)",
+   "eligible_faculties_programmes": "First-year MPP students (page title: Team Consulting Projects for 1st Year MPP Students)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 1 (MPP)",
+   "eligibility_restrictions": "Whether IPA is required for all MPP first-years not stated on the page fetched.",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course credit not stated on page; faculty coaches assess (not verified).",
+   "duration": "Spring semester, January to mid-May (draft report mid-April, final mid-May); roughly 200-300 student hours per project",
+   "delivery_format": "Team consulting project with faculty coaching",
+   "project_based": "Yes",
+   "project_evidence": "Client-defined policy problem; deliverable 'an analytical report accompanied by an oral presentation' [1].",
+   "group_working": "Yes",
+   "group_evidence": "Projects done 'by a team of four to six people' [1] (search summary said three to five; page text used).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients are public-sector agencies and NGOs that submit proposals, meet the team early and about every two weeks, and receive the final report [1][2].",
+   "partner_type": "Public sector",
+   "partner_role": "Client: proposes problem, meets team, receives report and presentation",
+   "deliverable": "Analytical report plus oral presentation to client",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "Spring 2027 (call for proposals); Spring 2026 call also referenced in search summary",
+   "unresolved": "Compulsory or elective status; credit; named clients; participation numbers; no dated evidence of a completed 2025/26 cohort seen. Team-size discrepancy (3-5 in search summary vs 4-6 on page).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://gspp.berkeley.edu/career-services/client-based-projects/introduction-to-policy-analysis-ipa",
+     "title": "Introduction to Policy Analysis (IPA) Team Projects",
+     "section": "Main page",
+     "pub_year": "Spring 2027",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; answered by fetch model, extracts are its quoted passages)",
+     "extract": "'by a team of four to six people'; 'pro-bono policy consulting services to public sector agencies and non-governmental organizations'; 'an analytical report accompanied by an oral presentation'; 'We are now accepting proposals for the Spring 2027 IPA course.' Draft mid-April, final mid-May.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://gspp.berkeley.edu/career-services/client-based-projects",
+     "title": "Client-Based Projects",
+     "section": "Search summary",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams work under faculty coaches; clients asked to meet team early in semester and about every two weeks.",
+     "supports": [
+      "employer",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Master of Engineering Capstone",
+   "module_code": "",
+   "named_partners": "Sample capstone and recruiting partners listed (undated): Lyft, Microsoft, Siemens, LinkedIn, NASA, General Motors, John Deere, Sandia National Laboratories, Tesla, Apple, UCSF and others [2]",
+   "duration_band": ">1 term",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "MEng Capstone (partner-led), Fung Institute for Engineering Leadership",
+   "description": "Nine-month capstone integrated into the Master of Engineering: teams of three to five students from seven engineering departments work on projects proposed by industry sponsors (startups to enterprises and nonprofits) from September to May, ending in a showcase. Some projects are faculty or research-team led, so partner-led coverage is not established.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Fung Institute, College of Engineering",
+   "eligible_faculties_programmes": "MEng students in Bioengineering, Civil & Environmental, EECS, IEOR, Materials Science, Mechanical, Nuclear Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MEng year",
+   "eligibility_restrictions": "Whether capstone is compulsory not stated on page fetched.",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Nine months, early September to May (December interim assessment; showcase late April/early May)",
+   "delivery_format": "Team capstone with industry advisors and Berkeley faculty",
+   "project_based": "Yes",
+   "project_evidence": "Nine-month project with milestones, projects due and showcase [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Team size ranges from three to five students' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'In a partner-led capstone, industry advisors take the lead in driving project direction'; sponsors pitch projects; page also says projects involve a Berkeley faculty member or research team, so external sponsorship may not apply to every project [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor proposes project and directs it in partner-led capstones",
+   "deliverable": "Capstone project and showcase presentation",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2026-27 (proposals sought); 2024 showcase page in search results",
+   "unresolved": "Share of capstones that are partner-led; compulsory status; whether 2025/26 or 2026/27 cohort delivery is confirmed; partner fee conflict ($20k vs $25k) irrelevant to criteria. Separate Fung Fellowship 12-week undergraduate track not assessed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://funginstitute.berkeley.edu/programs-centers/full-time-program/capstone-experience/",
+     "title": "Capstone Experience",
+     "section": "Main page",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; answered by fetch model, extracts are its quoted passages)",
+     "extract": "'Team size ranges from three to five students'; 'a nine-month experiential course integrated into the Master of Engineering (MEng) degree program'; 'In a partner-led capstone, industry advisors take the lead in driving project direction.'; 'Teams will start work on the projects in early September through the following May.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://funginstitute.berkeley.edu/partners/",
+     "title": "Capstone Project Industry Engagement",
+     "section": "Partners page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; answered by fetch model, extracts are its quoted passages)",
+     "extract": "MEng partners range 'from nimble startups to established enterprises and mission-driven nonprofits'; sample partner list; team of 3-5 graduate engineers over an academic year.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Data Science Discovery Program",
+   "module_code": "",
+   "named_partners": "",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "Data Science Discovery Program (Data Discovery course)",
+   "description": "CDSS programme in which student teams of one to five work about 12 weeks (six hours per week) on a mentor-supplied dataset and goal, presenting a poster and symposium talk. Mentors may come from academia, companies, nonprofits or government.",
+   "academic_reach": "Unclear",
+   "admin_host": "Division of Computing, Data Science, and Society (CDSS)",
+   "eligible_faculties_programmes": "Berkeley students applying to Data Discovery (eligibility not retrieved)",
+   "faculty_areas": [
+    "science",
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not retrieved",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "'Data Discovery is part of students' curriculum'; mentor feedback considered in grades; units not stated",
+   "duration": "About 12 six-hour weeks per semester; symposium early December or May",
+   "delivery_format": "Mentor-hosted team research project plus course meetings",
+   "project_based": "Yes",
+   "project_evidence": "Dataset and goal supplied; poster and symposium presentation [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Teams of '1-5 students', so individual projects possible [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Mentors from 'any academic institution, private company, nonprofit or government agency' supply dataset and goal and give feedback; academic mentors are internal/other research groups and external share is not stated [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Mentor supplies data and goal, meets team weekly, evaluates",
+   "deliverable": "Poster and symposium presentation",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026 (project work begins 1 Sept 2026)",
+   "unresolved": "Share of external versus academic mentors; team sizes per project; student eligibility and units.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://cdss.berkeley.edu/discovery/partner",
+     "title": "Research Mentors",
+     "section": "Partner page",
+     "pub_year": "Fall 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; answered by fetch model, extracts are its quoted passages)",
+     "extract": "'We accept proposals hosted by any academic institution, private company, nonprofit or government agency.'; 'to form your team of 1-5 students'; 'about 12 six-hour weeks'; 'presenting a poster at the end of the term'; project work begins Sept. 1, 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Social Sector Solutions nonprofit consulting",
+   "module_code": "",
+   "named_partners": "",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Social Sector Solutions (Center for Social Sector Leadership)",
+   "description": "15-week strategy consultation for select nonprofits delivered by multidisciplinary teams of 5-7 MBAs, Berkeley graduate students and select undergraduate business students, coached by a McKinsey consultant and modeled on management-consulting frameworks.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Haas Center for Social Sector Leadership",
+   "eligible_faculties_programmes": "MBA, Berkeley graduate students, select undergraduate business students",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application criteria not retrieved",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not retrieved",
+   "duration": "15 weeks",
+   "delivery_format": "Team consulting coached by consultant",
+   "project_based": "Yes",
+   "project_evidence": "'a key strategic question' for the client; deliverables not listed on page [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Multidisciplinary teams of 5-7' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Teams work with a nonprofit client to tackle a key strategic question for the organization.' [1]",
+   "partner_type": "Charity/community",
+   "partner_role": "Client posing strategic question",
+   "deliverable": "Not stated (consulting deliverables)",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (heading '2026 Partner Organizations' only)",
+   "unresolved": "Dates of current cohort, credit, deliverable form, named partners.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://haas.berkeley.edu/cssl/programs-events/social-sector-solutions/",
+     "title": "Social Sector Solutions",
+     "section": "Main page",
+     "pub_year": "2026 heading only",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; answered by fetch model, extracts are its quoted passages)",
+     "extract": "'Multidisciplinary teams of 5-7 MBAs, Berkeley graduate students, and select undergraduate business students'; 'Teams work with a nonprofit client to tackle a key strategic question for the organization.'; 'A 15 week strategy consultation'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Haas@Work",
+   "module_code": "",
+   "named_partners": "Visa, Cisco (undated page)",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "official_name": "Haas@Work (Haas MBA experiential course)",
+   "description": "MBA team course in which a firm poses a competitive challenge, student teams research and develop solutions, and the firm's executives choose the best ideas for implementation (examples Visa, Cisco).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Haas School of Business (MBA)",
+   "eligible_faculties_programmes": "Berkeley MBA students",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved; page states MBAs take at least one of nearly 20 experiential courses",
+   "duration": "Not stated",
+   "delivery_format": "Team challenge for corporate client",
+   "project_based": "Yes",
+   "project_evidence": "Firm-posed competitive challenge with solutions developed [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams of Berkeley MBA students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Firm poses the challenge and its executives select best ideas [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Poses challenge; selects ideas",
+   "deliverable": "Proposed solutions/ideas",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Current offering year, duration, credit, deliverable. Same page lists IBD, Design Sprint (Shell), Startup Lab-type courses not assessed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://mba.haas.berkeley.edu/academics/experiential-learning",
+     "title": "Experiential Learning",
+     "section": "Haas@Work",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; answered by fetch model, extracts are its quoted passages)",
+     "extract": "Students work in 'teams of Berkeley MBA students' with firms' executives; the firm selects 'the best ideas' for implementation; 'You will take at least one of nearly 20 Experiential Learning courses.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Startup Lab",
+   "module_code": "",
+   "named_partners": "",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "official_name": "Startup Lab (MBA 295T)",
+   "description": "Semester-long, 2-unit project-based consulting course in which self-formed Haas student teams (3-5) carry out a scoped consulting project for early-stage Silicon Valley startups, working with a founder or executive; presented in demo-day format.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Haas School of Business",
+   "eligible_faculties_programmes": "Haas MBA students",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "2 units; client feedback 10% of grade (2020 syllabus)",
+   "duration": "One semester",
+   "delivery_format": "Team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Scoped consulting project; mid and final presentations [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams typically 3 to 5 students, self-formed [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Startups' founders or executives supply the project and give client feedback [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client",
+   "deliverable": "Final project presentation",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2020 (syllabus); no 2025/26 evidence found",
+   "unresolved": "No current-year evidence; course numbers vary by term.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA295T-3_Spring20.htm",
+     "title": "MBA 295T course description",
+     "section": "Syllabus",
+     "pub_year": "2020 (also 2016, 2018 listings)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (search-summary paraphrase)",
+     "extract": "Search summary: semester-long project-based consulting course; teams 3-5; startups' founder or executive team; client feedback 10% of grade.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Berkeley Discovery",
+   "legacy": true,
+   "category": "WIL framework",
+   "reason": "Campus-wide initiative and opportunities platform; page fetched (discovery.berkeley.edu/students/overview) gives no specific project, team or employer detail. Underlying projects tested separately (S2 etc.).",
+   "source_url": "https://discovery.berkeley.edu/students/overview",
+   "status_note": "Platform live; no scheme-level evidence"
+  },
+  {
+   "name": "GSPP Capstone Projects (MPP/MPA/MDP)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "One graduating student per project; clients public, private or nonprofit; graduation requirement; Spring 2027. Fails B.",
+   "source_url": "https://gspp.berkeley.edu/career-services/client-based-projects/capstone-projects",
+   "status_note": "Spring 2027 call"
+  },
+  {
+   "name": "UC Berkeley Law clinics (Environmental Law Clinic, Policy Advocacy Clinic)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Real-world clients and team work ('typically done in teams'; 2-4 students) but legal casework/campaign work; project output and bounded brief not evidenced; permission/credit enrolment.",
+   "source_url": "https://www.law.berkeley.edu/experiential/clinics/environmental-law-clinic/about-the-clinic/",
+   "status_note": "2026 page copyright only"
+  },
+  {
+   "name": "Deep Tech Innovation Lab",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search extract: interdisciplinary graduate teams matched to partner projects, slide deck presented to partner; not opened, status/eligibility unknown.",
+   "source_url": "https://deeptech.berkeley.edu/partners/",
+   "status_note": "Not opened"
+  },
+  {
+   "name": "MSSE capstone (Master of Molecular Science and Software Engineering)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search extract only: outside partners and final report to stakeholders; team structure and dates not checked.",
+   "source_url": "https://msse.berkeley.edu/partner-with-us/",
+   "status_note": "Not opened"
+  },
+  {
+   "name": "Haas International Business Development (IBD) and Fung Fellowship (12-week undergraduate)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "IBD described by search as team-based client consulting; fetched Haas page gave no team/client detail. Fung Fellowship team size and partners not stated.",
+   "source_url": "https://mba.haas.berkeley.edu/academics/experiential-learning",
+   "status_note": "Not researched further"
+  },
+  {
+   "name": "MIDS Data Science capstone (School of Information, DATASCI 210A)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group capstone (3-4) on open secondary data; no external client evidenced.",
+   "source_url": "https://www.ischool.berkeley.edu/courses/datasci/210a",
+   "status_note": "Search extract only"
+  },
+  {
+   "name": "Public Health student impact grants",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Funded student-led projects with community partners, not a course-structured employer brief.",
+   "source_url": "https://publichealth.berkeley.edu/articles/news/social-impact/student-innovators-awarded-impact-funding",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Berkeley's documented employer-linked group project routes are distributed across graduate schools rather than institution-wide. The Goldman School's Introduction to Policy Analysis (S1) places teams of four to six first-year MPP students with public-sector agencies and NGOs, producing a report and presentation (Spring 2027 call open). Engineering's MEng Capstone (S2) runs nine-month teams of three to five on industry-proposed projects, but the page also describes faculty-involved projects, so external sponsorship across all teams is unproven. Data Science Discovery (S3) offers mentor-set projects with teams of 1-5, partly academic mentors, so group and employer criteria are unclear. Haas offers Social Sector Solutions (nonprofit client teams of 5-7), Haas@Work (firm challenges) and Startup Lab, all MBA or graduate-led with weak current-year evidence. The legacy Berkeley Discovery framework is a platform, not a scheme. No undergraduate curricular route meeting all three criteria was verified; participation is optional or programme-specific, with no institution-wide route found. No participation numbers were located.",
+ "gaps": "Undergraduate humanities/social science and EECS/Data Science routes not searched (limit). Current-year evidence absent for most Haas routes. Compulsory status of IPA and MEng capstone unconfirmed. Further departmental capstones likely exist."
+}
