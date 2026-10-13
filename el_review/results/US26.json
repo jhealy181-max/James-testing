@@ -1,0 +1,76 @@
+{
+ "inst_id": "US26",
+ "institution": "University of Wisconsin-Madison",
+ "review_status": "Partial",
+ "partial_remaining": "science and other (law/education/design/health) areas not yet searched; current-term evidence for several routes pending",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UniverCity Year course partnership local government students projects",
+    "UniverCity Year 2025-26 partner community courses faculty students projects"
+   ],
+   "key_sources": [
+    "https://news.wisc.edu/univercity-year-builds-partnerships-mutual-trust-across-wisconsin/",
+    "https://univercity.wisc.edu/2024/09/03/univercity-alliance-scholars-partner-with-wisconsin-communities-to-work-on-local-priorities/"
+   ],
+   "finding": "UniverCity Year/Alliance matches local-government projects to existing courses (clients are public-sector, external); Scholars strand is individual. Participation is course-by-course, so no single route verified as group + current."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Wisconsin School of Business Consulting Practicum OR Business Project live client team"
+   ],
+   "key_sources": [
+    "https://business.wisc.edu/graduate/masters/business-analytics/applied-consulting-capstone/",
+    "https://business.wisc.edu/graduate/consulting/"
+   ],
+   "finding": "MS Business Analytics Applied Consulting Capstone: faculty-supervised student teams answer a corporate sponsor's question."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Engineering capstone design industry sponsored project team Madison",
+    "Computer Sciences industry partner capstone OR Data Science capstone client team",
+    "CEE 578 senior capstone design clients course teams",
+    "Computer Sciences Capstone course fall 2025 industry partners projects students"
+   ],
+   "key_sources": [
+    "https://cdis.wisc.edu/fields-capstone-course-a-win-win-for-students-and-industry-partners/",
+    "https://www.cs.wisc.edu/cs-capstone-projects-archive/",
+    "https://engineering.wisc.edu/news/get-real-isye-students-dive-industry-senior-design-projects/"
+   ],
+   "finding": "CS Capstone (company-pitched projects, student teams, weekly partner mentors), ISyE 450 (client teams) and CEE 578 (client teams, required for CEE) all found."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Pending."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Nelson Institute OR Life Sciences Communication OR Environmental Studies capstone community partner",
+    "La Follette School workshop client policy project PA 860"
+   ],
+   "key_sources": [
+    "https://lafollette.wisc.edu/outreach-public-service/workshops-in-public-affairs",
+    "https://nelson.wisc.edu/undergraduate/environmental-studies-major/capstone-courses/"
+   ],
+   "finding": "La Follette PA 869/860 master's capstone team workshops for external clients; Envir St 600 capstone partner sections but team working not evidenced."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Pending."
+  }
+ },
+ "schemes": [],
+ "exclusions": [],
+ "embeddedness": "Unclear",
+ "profile_md": "Work in progress.",
+ "gaps": "Partial."
+}
