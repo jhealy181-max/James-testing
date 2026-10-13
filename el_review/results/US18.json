@@ -1,0 +1,552 @@
+{
+ "inst_id": "US18",
+ "institution": "Carnegie Mellon",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Carnegie Mellon university-wide student project employer partners experiential learning",
+    "IDeATe how to enroll (fetched)"
+   ],
+   "key_sources": [
+    "https://www.cmu.edu/career/employers/index.html",
+    "https://ideate.cmu.edu/about/how-to-enroll-in-ideate.html"
+   ],
+   "finding": "No single university-wide sponsored-project scheme found; sponsored projects are run by colleges. IDeATe is all-major but no external-client component stated."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Tepper consulting project client team MBA",
+    "Tepper capstones page (fetched)"
+   ],
+   "key_sources": [
+    "https://www.cmu.edu/tepper/programs/mba/curriculum/capstones/index.html"
+   ],
+   "finding": "MBA Strategic Management of the Enterprise client projects with Kearney and companies; group basis and currency not evidenced. Global Capstones, Management Game and undergrad Tepper/SCS practicum are further leads."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "MSE practicum industry sponsor team",
+    "Mechanical Engineering capstone industry sponsored",
+    "Heinz Systems Synthesis capstone"
+   ],
+   "key_sources": [
+    "https://mse.s3d.cmu.edu/companies/sponsorship.html",
+    "https://www.heinz.cmu.edu/employers-partners/propose-project"
+   ],
+   "finding": "MSE studio/practicum with company sponsors; INI practicum and ECE/MechE capstones are further leads; MechE sponsorship not verified."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "biological sciences/chemistry/physics/statistics capstone external partner"
+   ],
+   "key_sources": [
+    "https://www.cmu.edu/mcs/news-events/2022/0627_ms-das-capstone.html",
+    "https://www.cmu.edu/dietrich/statistics-datascience/engagement/corporate/capstone/index.html"
+   ],
+   "finding": "MS-DAS industry capstone (2022 evidence) and Statistics corporate capstone; no undergraduate natural-science capstone found."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Dietrich capstone fetched",
+    "Heinz capstone (policy/IS)"
+   ],
+   "key_sources": [
+    "https://www.cmu.edu/dietrich/partners/projects.html"
+   ],
+   "finding": "Dietrich capstones (3-5 students, one semester, faculty-led, external sponsors) and Heinz capstones; no humanities-specific route verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "School of Design/Architecture/Drama studio client partner project"
+   ],
+   "key_sources": [
+    "https://engineering.cmu.edu/news-events/news/2026/07/29-engineering-entertainment.html"
+   ],
+   "finding": "Entertainment Engineering with TAIT recorded; Design sponsored-project programme, Environments Studio III (UPMC Magee) and Architecture CORE studio are leads only from search summaries."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "90-739 / 94-739 (per MSPPM 2026-27 handbook addendum, as reported by search extract)",
+   "named_partners": "Hershey's, BBC Worldwide, Uber, Disney, PwC, Deloitte, IBM, Sony Music, J&J, Capital One, PayPal (MISM page, undated)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Credit not stated on fetched pages; MSPPM handbook says eligible students are auto-enrolled in the capstone courses.",
+   "deliverable": "Project output for sponsor (proof of concept, dashboards, models); not formally specified",
+   "admin_host": "Heinz College of Information Systems and Public Policy",
+   "local_id": "S1",
+   "official_name": "Heinz College Capstone / Systems Synthesis (client projects)",
+   "english_name": "Heinz College Capstone / Systems Synthesis",
+   "description": "Semester-long (15 weeks) team capstones in which a team of 4-6 Heinz master's students plus one faculty advisor works on a challenge brought by an external sponsor (government, nonprofit and corporate), at no cost to the sponsor. MISM page: students 'complete a team-based Capstone project' with a real-world client.",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "Heinz master's programmes (e.g. MISM, MSPPM, MSHCA); programme pages list sponsors per programme",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Semester (15 weeks)",
+   "delivery_format": "Team client project with faculty advisor",
+   "project_based": "Yes",
+   "project_evidence": "Sponsor brings a challenge; examples include data pipeline prototype, dashboards, predictive models [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'a team of 4-6 talented master's students' [1]; 'team-based Capstone project' [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External sponsors submit proposals (deadlines 1 Jun/1 Oct/1 Mar) and bring the problem; MISM page: 'working with a real-world client'; recent clients include Hershey's, Uber, Disney, PwC, Deloitte, IBM [1][2]. Search extract adds public bodies (US Dept of Education, HUD, City of Pittsburgh). Sponsors are external organisations; not internal units.",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client: proposes challenge, works with team; faculty advisor supervises",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (MSPPM handbook addendum title; recycling project linked to March 2026 article)",
+   "unresolved": "Handbook PDF text not extractable by WebFetch; course numbers/compulsion per programme taken from search extract (search-summary paraphrase). Credit not verified.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.heinz.cmu.edu/employers-partners/propose-project",
+     "title": "Capstone: Your Problems, Our Solutions",
+     "section": "Sponsor page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'a team of 4-6 talented master's students' guided by one faculty expert; 'a semester (15 weeks)'; no cost to sponsor; proposal deadlines June 1 (fall), October 1 (spring), March 1 (summer).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.heinz.cmu.edu/programs/information-systems-management-master/experiential-learning",
+     "title": "Experiential Learning in Information Systems Management",
+     "section": "Capstone",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "Students 'complete a team-based Capstone project that bridges technology and business' with a real-world client; clients incl. Hershey's, BBC Worldwide, Uber, Disney, PwC, Deloitte, IBM, Sony Music, Johnson & Johnson, Capital One, PayPal.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.heinz.cmu.edu/heinz-shared/_files/img/student-handbooks/msppm-dc-student-handbook.pdf",
+     "title": "MSPPM 2026-2027 Handbook Addendum",
+     "section": "Systems Synthesis / Capstone",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search extract: handbook refers to 90-739 and 94-739 for Systems Synthesis and Capstone; eligible students enrolled automatically. (WebFetch could not extract PDF text; only title '2026-2027 Handbook Addendum' read.)",
+     "supports": [
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Boeing, Bosch, Cisco, Charles Schwab (search extract, undated); Aspinity (2022)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "deliverable": "Software product / final presentation",
+   "admin_host": "Software and Societal Systems Department (SCS)",
+   "local_id": "S2",
+   "official_name": "Master of Software Engineering Studio Project / Practicum",
+   "english_name": "MSE Studio Project (year-long) and one-semester Practicum",
+   "description": "MSE students work in teams (capped at six) on a software product for an external company sponsor with two faculty mentors; sponsor provides a technical point of contact (1-3 h/week) and attends August kick-off and December final presentations.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Master of Software Engineering (flagship studio; MSE-SS/MSE-ES practicum)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "16 weeks per sponsor page (studio is year-long per search extract); 2300-2800 project hours",
+   "delivery_format": "Team software project",
+   "project_based": "Yes",
+   "project_evidence": "'Students design and develop a product' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Avg team size: 4-5' [1]; teams capped at six (search extract) [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisation designates a technical point-of-contact, meets team 1-3 h/week, attends kick-off and final presentations [1]; search extract lists past clients Boeing, Bosch, Cisco, Charles Schwab and 2022 Aspinity [2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor/client with weekly contact; receives final presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022 (dated news); sponsorship page undated",
+   "unresolved": "No 2025/26 or 2026/27 dated corroboration; compulsion within MSE not verified from regulations; sponsor page '16 weeks' vs year-long studio.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://mse.s3d.cmu.edu/companies/sponsorship.html",
+     "title": "Project Sponsorships - MSE",
+     "section": "Sponsor expectations",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'Avg team size: 4-5'; 'Project Length: 16 weeks'; one designated technical point-of-contact, ~1-3 hrs per week; sponsors attend August kick-off in Pittsburgh and December final presentations; 'Students design and develop a product'.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://mse.s3d.cmu.edu/applicants/mse-as/studio.html",
+     "title": "Studio Project - MSE",
+     "section": "Studio",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search extract: studio teams capped at six, two faculty mentors; students present to faculty and sponsors; sponsors include Boeing, Bosch, Cisco, Charles Schwab.",
+     "supports": [
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "70-447 (per search extract)",
+   "named_partners": "Alcoa, Costco, Johnson & Johnson, P&G, Siemens, Walmart (capstones page, undated)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "deliverable": "",
+   "admin_host": "Tepper School of Business",
+   "local_id": "S3",
+   "official_name": "Strategic Management of the Enterprise (MBA client consulting project)",
+   "english_name": "Tepper MBA Client Consulting Project: Strategic Management of the Enterprise",
+   "description": "MBA capstone option offered with Kearney and select sponsoring companies in which students solve business problems faced by client companies.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Tepper MBA (on-campus students)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "15-week course (per Tepper sponsorship page, search extract)",
+   "delivery_format": "Client consulting project",
+   "project_based": "Yes",
+   "project_evidence": "'students work to solve business problems faced by client companies' [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Fetched page does not state teams for this course; search extract says teams; sponsorship page says groups of two to five (search extract) [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Offered with Kearney and select sponsoring companies; past clients incl. Alcoa, Costco, J&J, P&G, Siemens, Walmart [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client company sets business problem",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Group working and current-year delivery not evidenced on fetched page; credit unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cmu.edu/tepper/programs/mba/curriculum/capstones/index.html",
+     "title": "Capstones - Tepper MBA",
+     "section": "Client consulting projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'Offered in partnership with Kearney and select sponsoring companies'; 'students work to solve business problems faced by client companies'; options include working alongside corporations or a strategic management exercise.",
+     "supports": [
+      "project",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cmu.edu/tepper/recruiting-and-partnerships/partner-with-the-tepper-school/student-projects",
+     "title": "Student Project Sponsorship",
+     "section": "Sponsor page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search extract: 15-week course; group of two to five students; license to student work product.",
+     "supports": [
+      "group",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "36-497 (per search extract)",
+   "named_partners": "C.H. Robinson, Black & Veatch, Giant Eagle, ThermoFisher Scientific, Dexcom (search extract, undated)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "deliverable": "",
+   "admin_host": "Department of Statistics & Data Science, Dietrich College",
+   "local_id": "S4",
+   "official_name": "Corporate Capstone Project (Statistics & Data Science)",
+   "english_name": "Statistics & Data Science Corporate Capstone",
+   "description": "Sponsor companies/nonprofits pose business questions; teams of 2-4 students with a faculty supervisor run a data-science project over a fall or spring semester with regular progress reports to the sponsor.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Statistics & Data Science students (undergraduate course per search extract)",
+   "faculty_areas": [
+    "science",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Semester (late Aug-mid Dec or mid Jan-mid May)",
+   "delivery_format": "Team project for external sponsor",
+   "project_based": "Yes",
+   "project_evidence": "Sponsor business questions; regular progress reports [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Projects are supported by a team of 2 to 4 students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies connect to discuss business questions and receive progress reports; search extract: partners with commercial and non-profit groups under educational project agreements (C.H. Robinson, Giant Eagle, ThermoFisher, Dexcom) [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor poses business question; receives progress reports",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Course number, level, whether compulsory, and year of delivery not verified on fetched page; 36-490 (research collaborator projects) is a separate lead.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cmu.edu/dietrich/statistics-datascience/engagement/corporate/capstone/index.html",
+     "title": "Sponsor a Capstone - Statistics & Data Science",
+     "section": "Sponsor page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'Projects are supported by a team of 2 to 4 students'; Fall (Late August to mid-December) or Spring (Mid-January to mid-May); regular progress reports to companies.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cmu.edu/dietrich/partners/projects.html",
+     "title": "Propose A Capstone Project - Dietrich College",
+     "section": "Page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'Teams of 3-5 talented students'; one semester; led by faculty member with domain expertise; examples Principal Financial Group, SESCO Enterprises.",
+     "supports": [
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Bristol Myers Squibb (2022)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "deliverable": "Predictive model",
+   "admin_host": "Mellon College of Science",
+   "local_id": "S5",
+   "official_name": "MS in Data Analytics for Science capstone",
+   "english_name": "MS-DAS Industry Capstone",
+   "description": "Mellon College of Science MS-DAS semester capstone in which small student teams solve a data science problem for an industry partner; 2022 example: Bristol Myers Squibb mentored a two-student team building a model to predict degradation-product chemical structures.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "MS in Data Analytics for Science",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Semester (per search extract)",
+   "delivery_format": "Team industry project",
+   "project_based": "Yes",
+   "project_evidence": "Team created a predictive model for BMS [1].",
+   "group_working": "Yes",
+   "group_evidence": "Pair: 'a team of two students' [1]; teams of students per search extract.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Bristol Myers Squibb provided the problem and mentored the team [1]; standard industry partnering per programme curriculum page is search-summary only.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Provides problem, mentors",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Historical delivery only",
+   "latest_evidenced_year": "2022",
+   "unresolved": "No 2025/26+ evidence; whether all students do industry capstones unconfirmed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cmu.edu/mcs/news-events/2022/0627_ms-das-capstone.html",
+     "title": "Data Science Capstone Connects Students with Industry",
+     "section": "News",
+     "pub_year": "2022",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "Capstone 'a team of two students'; Bristol Myers Squibb provided opportunity and mentored; asked to 'create a model to predict chemical structures of degradation products'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "54-600",
+   "named_partners": "TAIT",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "deliverable": "Prototype / customised tool",
+   "admin_host": "College of Engineering / School of Drama",
+   "local_id": "S6",
+   "official_name": "Entertainment Engineering (54-600)",
+   "english_name": "Entertainment Engineering",
+   "description": "Cross-disciplinary course in which teams of equal numbers of engineering and drama students solved a challenge set by TAIT, presented prototypes at TAIT's Lititz headquarters, producing a customised tool for adjusting staging legs.",
+   "academic_reach": "Cross-faculty",
+   "eligible_faculties_programmes": "Mechanical engineering and drama students",
+   "faculty_areas": [
+    "engineering_computing",
+    "other"
+   ],
+   "student_level": "Unclear",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "One semester (first offering)",
+   "delivery_format": "Team prototype project with sponsor",
+   "project_based": "Yes",
+   "project_evidence": "Teams developed concepts and prototypes; final customised tool [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams made up equally of engineering and drama students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "TAIT sponsored the challenge, introduced it in week one, heard final presentations at its HQ and manufactured pieces [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor: sets challenge, hears presentations, fabricates parts",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (URL date inferred; page prints no date)",
+   "unresolved": "Page has no printed date; only first offering evidenced; whether TAIT-style sponsor is standard unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://engineering.cmu.edu/news-events/news/2026/07/29-engineering-entertainment.html",
+     "title": "Engineers and theater students tackle stage design in partnership with TAIT",
+     "section": "News",
+     "pub_year": "2026 (URL)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "Teams 'made up equally of engineering and drama students'; TAIT sponsored the challenge, heard final presentations at Lititz HQ, manufactured pieces; result 'a customized tool to adjust the staging legs'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Integrative Design, Arts, and Technology (IDeATe)",
+   "legacy": true,
+   "category": "Breadth/interdisciplinary curriculum",
+   "reason": "Open to undergraduates from any major (official eligibility page) but the page states no industry/external client component; legacy description of project-based collaborative labs does not evidence employer involvement (C Unclear/No).",
+   "source_url": "https://ideate.cmu.edu/about/how-to-enroll-in-ideate.html",
+   "status_note": "Eligibility fetched 2026-10-13"
+  },
+  {
+   "name": "Tepper Global Capstones (Brazil etc.)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary: MBA students partnered with six companies in Brazil (Spring 2024); not opened or verified.",
+   "source_url": "https://www.cmu.edu/tepper/programs/mba/curriculum/global-study",
+   "status_note": ""
+  },
+  {
+   "name": "INI Practicum / CMU-Africa practicum",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Sponsored semester practicum under Educational Project Agreements per search summary; not fetched.",
+   "source_url": "https://www.cmu.edu/ini/recruiters-companies/practicum/index.html",
+   "status_note": ""
+  },
+  {
+   "name": "Design Environments Studio III / sponsored projects; Architecture CORE 6 studio",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search-summary leads (UPMC Magee partnership; clients in CORE studio); not fetched.",
+   "source_url": "https://design.cmu.edu/faculty-expertise/partnerships",
+   "status_note": ""
+  },
+  {
+   "name": "Design Collaboration Project (54-117)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams design a hypothetical production of a given play (search summary); no external client.",
+   "source_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdrama/courses/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Carnegie Mellon has no single university-wide sponsored-project scheme found in this reduced-depth review; sponsored team projects are run by colleges and departments. The best-evidenced route is Heinz College's semester capstone/Systems Synthesis (teams of 4-6 master's students plus a faculty advisor working free for external government, nonprofit and corporate sponsors; clients listed include Uber, Disney, PwC, Deloitte; 2026-27 handbook addendum corroborates currency). The Master of Software Engineering studio/practicum (teams of 4-6, company technical contact 1-3 hours a week, final presentations to sponsors) is strongly evidenced for design but undated. Further routes: Tepper MBA Strategic Management of the Enterprise (client companies; group basis unconfirmed), Statistics & Data Science corporate capstone (teams of 2-4, fall/spring), the MS-DAS industry capstone (2022 only), and the Entertainment Engineering course with TAIT (2026 news, cross-disciplinary teams). The legacy IDeATe row is all-major but shows no external client. All recorded routes are at programme or school level; most are postgraduate taught. Several pages are undated, and PDFs could not be text-extracted.",
+ "gaps": "Undated sponsor pages (MSE, Tepper, Statistics); Heinz handbook PDF not text-extractable (course numbers from search summary); further instances likely: Tepper Global Capstones, INI practicum, MHCI/MSLE/MRSD capstones, ECE/MechE/MSE(materials) capstones, Design sponsored projects, Architecture studios, undergraduate Tepper/SCS practicum. Participation numbers not published in sources found. Search count approx 8 searches + 13 fetches."
+}

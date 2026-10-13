@@ -1,0 +1,474 @@
+{
+ "inst_id": "US16",
+ "institution": "New York University",
+ "review_status": "Partial",
+ "partial_remaining": "Wagner 2026/27 evidence; Stern NYC Consulting Capstone 2025/26 corroboration; law clinics, CGA practicums, Steinhardt Ed Tech UX Studio, Stern Consulting Corps/Signature Projects not yet assessed as routes.",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "NYU undergraduate course student teams real client project (cross-school)",
+    "NYU Summer Launchpad (legacy; not re-searched)"
+   ],
+   "key_sources": [
+    "https://www.sps.nyu.edu/experience/how-youll-learn/real-world.html"
+   ],
+   "finding": "SPS Real World courses are the only NYU-wide employer-challenge team route found; Summer Launchpad is an accelerator (excluded)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "NYU Stern Solutions student teams client project course credit"
+   ],
+   "key_sources": [
+    "https://www.stern.nyu.edu/business-partnerships/solve-business-challenge",
+    "https://www.stern.nyu.edu/experience-stern/news-events/change-experience-it-nyu-stern-undergraduate-college-seniors-get-hands-experience-nyc-consulting"
+   ],
+   "finding": "Stern: NYC Consulting Capstone (all BS seniors), Stern Solutions, Consulting Corps, Signature Projects, Tech Solutions, FinTech; only first two recorded."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "NYU Tandon senior design capstone industry sponsor team project"
+   ],
+   "key_sources": [
+    "https://engineering.nyu.edu/research/centers/cusp/engagement/capstone-projects-sponsor-guide"
+   ],
+   "finding": "CUSP sponsor capstone qualifies; Tandon undergraduate senior design has no documented external sponsors."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "NYU Center for Data Science capstone project industry partner master's data science"
+   ],
+   "key_sources": [
+    "https://cds.nyu.edu/masters-in-data-science-capstone/"
+   ],
+   "finding": "CDS MS capstone with industry partner/NYU lab proposals; internal/external mix unquantified."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "NYU Wagner capstone consulting client organization graduate student teams",
+    "NYU SPS Center for Global Affairs consulting practicums"
+   ],
+   "key_sources": [
+    "https://wagner.nyu.edu/portal/employers/capstone/faq",
+    "https://www.sps.nyu.edu/about/academic-divisions-and-departments/center-for-global-affairs/consulting-practicums.html"
+   ],
+   "finding": "Wagner Capstone is a strong compulsory team-client route; CGA practicums noted as lead."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "NYU Law clinic students teams client organization NGO report"
+   ],
+   "key_sources": [
+    "https://www.law.nyu.edu/academics/clinics"
+   ],
+   "finding": "Law clinics (35+) work in teams for clients, but casework/legal-client nature and per-clinic differences not assessed in depth."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Capstone: Advanced Projects (NYU Wagner Capstone, CAP-GP)",
+   "english_name": "NYU Wagner Capstone",
+   "module_code": "CAP-GP (multiple sections)",
+   "description": "Wagner School MPA/MUP capstone: teams of 3-5 graduate students in their final two semesters work for a client organisation (nonprofit, governmental, health, planning, international agencies) or on a social question, producing e.g. literature review, environmental scan, operational framework, financial model or policy recommendations, with a final report and presentation. Clients apply via a spring RFP; faculty select projects; clients typically own the work product.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "NYU Wagner Graduate School of Public Service",
+   "eligible_faculties_programmes": "MPA and MUP students in final two semesters (further Wagner programme variants e.g. Global Policy Leaders, Health listed as separate course sections)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final two semesters (full academic year)",
+   "eligibility_restrictions": "Wagner MPA/MUP students only",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credit-bearing capstone course (CAP-GP); credit value not captured",
+   "duration": "Full academic year (two semesters)",
+   "delivery_format": "Team client project with faculty oversight",
+   "project_based": "Yes",
+   "project_evidence": "Teams work on a client challenge or research question; deliverables incl. final report and presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Capstone teams comprise three to five NYU Wagner graduate students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External client organisations submit proposals via spring RFP, are vetted, and the final work product is typically owned by the client; client FAQ states min. 3 years operating / 3 FTE and a suggested $5,000 engagement fee [1]. Search-index extract only; direct fetch of Wagner pages returned HTTP 403 (CloudFront), not bypassed.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: proposes project, engages with team, receives final report/presentation and owns work product",
+   "named_partners": "",
+   "deliverable": "Final report and presentation (literature review, environmental scan, operational framework, financial model or policy recommendations)",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (client FAQ timeline covers 2025-26 cycle)",
+   "participation_data": "Search extract: since 1995 more than 7,300 students and 1,828 projects for 1,000+ organisations (cumulative; undated page).",
+   "unresolved": "2026/27 call not seen; credit value; whether clients include internal NYU units (not indicated). Pages not opened directly (403).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://wagner.nyu.edu/portal/employers/capstone/faq",
+     "title": "Capstone Client FAQ - NYU Wagner",
+     "section": "FAQ",
+     "pub_year": "2025-26 timeline",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (search summary paraphrase, page 403 on direct fetch)",
+     "extract": "Teams of three to five Wagner graduate students completing last two semesters of MPA/MUP; clients respond to spring RFP; proposals vetted by Wagner and offered to Capstone faculty; final work product typically owned by client; since 1995 7,300+ students, 1,828 projects, 1,000+ organisations.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://wagner.nyu.edu/portal/students/academics/capstone",
+     "title": "Capstone: Learning In Action",
+     "section": "Student page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Teams work with faculty oversight to identify opportunities for a client organization or research a pressing social question.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CUSP Capstone Projects (Urban Science Intensive I and II)",
+   "english_name": "CUSP Capstone Projects",
+   "module_code": "Urban Science Intensive I/II",
+   "description": "Second-year M.S. Urban Data Science students (NYU Tandon, Center for Urban Science and Progress) work in teams of 3-5 with a faculty advisor on a sponsor-proposed project over two semesters (Sept 2026-May 2027), with deliverables tailored to the project (analytic reports, interactive visualisations, digital tools, technical reports, policy solutions); sponsors sign a data-sharing agreement, meet teams regularly and attend December and May presentations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "NYU Tandon School of Engineering - CUSP",
+   "eligible_faculties_programmes": "Second-year MS Urban Data Science",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "MS Urban Data Science second-year students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Tied to two courses (Urban Science Intensive I and II); credit not stated on sponsor page",
+   "duration": "Two semesters (Sept 2026 - May 2027)",
+   "delivery_format": "Team project with sponsor and faculty advisor",
+   "project_based": "Yes",
+   "project_evidence": "Defined sponsor project; deliverables tailored per project, final deliverables May 2027, Urban Data Science Showcase April 2027 [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a team of 3-5 graduate students and a faculty advisor' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsors (government, private companies, nonprofits/think tanks, and academic institutions incl. NYU researchers) propose projects, supply data, give feedback in regular meetings (1-2 hrs fortnightly) and attend Dec and May presentations [1]. Past sponsors include NYC agencies, Google, ConEd, Lockheed Martin, Brooklyn Defender Services. Sponsor mix includes some internal NYU/academic sponsors, but external organisations are the documented majority.",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client: proposes problem, provides data, gives feedback, attends presentations",
+   "named_partners": "Past sponsors incl. NYC Dept. of Transportation, NYPD, Port Authority, Google, ConEd, Lockheed Martin, TransitCenter (sponsor guide, 2026-27 page lists past sponsors)",
+   "deliverable": "Project-specific: analytic report, interactive visualisation, digital tool, technical report or policy solution",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (proposal deadline 24 July 2026; teams announced 23 Sept 2026)",
+   "participation_data": "",
+   "unresolved": "Credit value; share of internal NYU/academic sponsors; the page names the programme 'M.S. in Urban Data Science'.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://engineering.nyu.edu/research/centers/cusp/engagement/capstone-projects-sponsor-guide",
+     "title": "Capstone Projects: Sponsor Guide",
+     "section": "Sponsor guide",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'a team of 3-5 graduate students and a faculty advisor'; 'a two-semester project'; 2026-2027 cycle Sept 2026 to May 2027; sponsors: government agencies, private sector companies including startups, academic institutions and research centers, think tanks and nonprofits; 'Deliverables are tailored to each project'; sponsors attend presentations in December and May; 1-2 hours every two weeks for meetings and feedback.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Master's in Data Science: Capstone Project (DS-GA 1006)",
+   "english_name": "NYU Center for Data Science MS Capstone",
+   "module_code": "DS-GA 1006",
+   "description": "Final-year MS Data Science capstone in which students solve real-world problems proposed by industry partners or NYU research labs, typically in groups of 2-4 over one semester; best-poster examples include S&P Global Ratings (Fall 2024) and UNDP (Fall 2025).",
+   "academic_reach": "Programme/course",
+   "admin_host": "NYU Center for Data Science (Faculty of Arts and Science)",
+   "eligible_faculties_programmes": "MS Data Science",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "MS Data Science students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Search extract: required 3-credit course DS-GA 1006 (not verified on page text)",
+   "duration": "One semester",
+   "delivery_format": "Group project with partner or NYU lab",
+   "project_based": "Yes",
+   "project_evidence": "Organisations 'propose a project that our graduate students will work on' for a semester; projects have posters/outputs [1].",
+   "group_working": "Yes",
+   "group_evidence": "'projects are typically run across groups of 2 to 4 people' [1] (pairs count as group).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Proposers are industry partners or NYU research labs (internal) [1]; the page does not say what share are external or whether partners assess/receive outputs beyond proposing; named external examples (S&P Global Ratings, UNDP) show external participation in some projects. Mixed internal/external, coverage not documented.",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes project; some are internal NYU research labs",
+   "named_partners": "S&P Global Ratings (Fall 2024), UNDP (Fall 2025)",
+   "deliverable": "Project output and poster",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026 (proposal deadline 16 Aug 2026)",
+   "participation_data": "",
+   "unresolved": "Share of external versus internal NYU lab sponsors; credit/required status verified only via search summary.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://cds.nyu.edu/masters-in-data-science-capstone/",
+     "title": "Master's in Data Science: Capstone Project",
+     "section": "Capstone page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'solve real-world problems through the capstone course in the final year'; 'projects are typically run across groups of 2 to 4 people'; 'The Capstone Project offers organizations the chance to propose a project that our graduate students will work on'; Fall 2026 proposals due August 16, 2026; best poster: S&P Global Ratings (Fall 2024), UNDP (Fall 2025).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "NYC Consulting Capstone (MULT-UB 303)",
+   "english_name": "Stern NYC Consulting Capstone",
+   "module_code": "MULT-UB 303",
+   "description": "Semester-long final-year capstone for all Stern BS in Business students: faculty-led student teams are paired with a corporate partner (each section a different industry) on a real challenge, pitching to the firm mid-semester and at the end (e.g. Microsoft Garage, fall 2024: whether to build an AI tool with aesthetic and ethics judgment).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "NYU Stern Undergraduate College",
+   "eligible_faculties_programmes": "Stern BS in Business seniors",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Stern BS in Business students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Semester course; search extract of a syllabus: midterm presentation 30%, draft deliverable 10%, final deliverable 40%",
+   "duration": "One semester",
+   "delivery_format": "Faculty-led team client project",
+   "project_based": "Yes",
+   "project_evidence": "Teams explore a partner challenge and deliver recommendations/presentations [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Faculty-led student teams are paired with corporate partners' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Corporate partner supplies the challenge and receives pitches mid-semester and at the end [1]; each section has its own corporate partner.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Corporate partner sets challenge, receives pitches",
+   "named_partners": "Microsoft Garage (fall 2024)",
+   "deliverable": "Pitch and final deliverable to the corporate partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Fall 2024 (news); syllabus file labelled F2026 but content could not be read",
+   "participation_data": "",
+   "unresolved": "Dated 2025/26 or 2026/27 corroboration: syllabus PDF (title 'Fall 2025', filename F2026) could not be text-extracted via WebFetch; so 'current' not confirmed. Student-team size not stated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.stern.nyu.edu/experience-stern/news-events/change-experience-it-nyu-stern-undergraduate-college-seniors-get-hands-experience-nyc-consulting",
+     "title": "Stern Undergraduate College seniors get hands-on experience in NYC Consulting Capstone",
+     "section": "News article",
+     "pub_year": "11 Dec 2024",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Course 'taken by all BS in Business students in their final year'; 'Faculty-led student teams are paired with corporate partners across various industries'; 'We delivered a pitch to the firm halfway through the semester and will do so again at the end.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "SPS Real World courses",
+   "english_name": "NYU SPS Real World courses",
+   "module_code": "Various (2-3 credit courses)",
+   "description": "Elective 2-3 credit courses in which multidisciplinary student teams drawn from different NYU degree programmes start with a real business challenge from an industry partner, develop competing pitches and present them to a panel of the partner's executives on the final day.",
+   "academic_reach": "University-wide",
+   "admin_host": "NYU School of Professional Studies",
+   "eligible_faculties_programmes": "NYU undergraduates (3.0 GPA, 36 credits) and graduates (3.0 GPA, 6 credits); page also says open to all NYU students; limit of two applications",
+   "faculty_areas": [
+    "central",
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any (juniors/seniors preferred for Steinhardt)",
+   "eligibility_restrictions": "GPA 3.0; credit minimums; application required; special/visiting students excluded",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "2 or 3 credits; generally electives",
+   "duration": "One term course (Fall 2026 applications to 14 Sept 2026)",
+   "delivery_format": "Multidisciplinary team challenge course",
+   "project_based": "Yes",
+   "project_evidence": "Real business challenge; teams research, prepare and present solutions [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students are divided into multidisciplinary teams comprised of students from different degree programs'; teams develop competing pitches [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Students start with a real business challenge from an industry partner organization'; pitches presented to a panel of executives from the partner; students meet senior executives [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partner sets challenge, executive panel judges pitches",
+   "named_partners": "Nike, Ernst & Young, Hugo Boss (page lists more; undated)",
+   "deliverable": "Competing team pitches presented to partner executives",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026 (applications open 1 April 2026, close 14 Sept 2026)",
+   "participation_data": "",
+   "unresolved": "Page contradicts itself on eligibility (stated criteria vs 'open to all NYU students'); reach set University-wide on the FAQ statement.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sps.nyu.edu/experience/how-youll-learn/real-world.html",
+     "title": "Real World",
+     "section": "Course page",
+     "pub_year": "Fall 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Students start with a real business challenge from an industry partner organization'; 'students are divided into multidisciplinary teams comprised of students from different degree programs'; 'create competing pitches to be presented to a panel of executives from the partner organization'; courses offer 2 or 3 credits; Fall 2026 applications close September 14, 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Stern Solutions",
+   "english_name": "Stern Solutions",
+   "module_code": "",
+   "description": "Stern graduate student teams with a faculty adviser work on client strategic questions over a semester or year as for-credit projects (avg. ~480 hours/project); companies and non-profits sponsor 100+ projects (Amazon, Estee Lauder, BMW sponsored last year). Related Stern routes: Stern Consulting Corps, Signature Projects, Tech Solutions, FinTech experiential learning.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "NYU Stern School of Business",
+   "eligible_faculties_programmes": "Stern graduate (MBA) students; varies by course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Course/programme eligibility varies",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "For-credit semester or year-long project",
+   "duration": "Semester or year",
+   "delivery_format": "Faculty-advised team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Clients bring strategic questions (new product opportunities, untapped segments) worked on for ~480 hours [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a group of Stern graduate students with a faculty adviser on a team' [1]; search summary says 3-5 students (not on fetched page).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisations 'from finance to fashion to CPG to non-profits work with Stern Solutions'; brands such as Amazon, Estee Lauder and BMW sponsored projects last year [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client posing the project",
+   "named_partners": "Amazon, Estee Lauder, BMW (undated 'last year')",
+   "deliverable": "Not specified on page",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "100+ projects (undated 'last year'); avg 480 hours",
+   "unresolved": "Page undated; no 2025/26-2026/27 corroboration. Stern Consulting Corps page says 'may not be offered each semester'.",
+   "legacy_ref": "Stern Solutions",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.stern.nyu.edu/business-partnerships/solve-business-challenge",
+     "title": "Solve a Business Challenge - Stern Solutions",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'a group of Stern graduate students with a faculty adviser on a team'; 'semester or year-long for-credit project'; average 480 hours; 'Organizations from finance to fashion to CPG to non-profits work with Stern Solutions'; 'Brands such as Amazon, Estee Lauder and BMW sponsored projects last year.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Summer Launchpad",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Founder accelerator for student/recent-graduate teams developing their own ventures; no external organisation sets a brief or receives output (fails C); not researched further in reduced-depth mode.",
+   "source_url": "https://entrepreneur.nyu.edu/for-students/",
+   "status_note": "2026 cohort confirmed (legacy)"
+  },
+  {
+   "name": "NYU Tandon undergraduate senior design / Capstone Competition",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search found no page documenting external sponsors for undergraduate senior design; industry professionals judge a showcase competition only; ECE teams 1-3 students.",
+   "source_url": "https://engineering.nyu.edu/news/future-was-display-tandons-2025-capstone-competition",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Interim profile: see final.",
+ "gaps": "Interim."
+}
