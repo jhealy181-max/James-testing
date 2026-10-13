@@ -1,0 +1,161 @@
+{
+ "inst_id": "AU10",
+ "institution": "RMIT",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {"status": "Searched", "queries": ["RMIT industry projects students teams real client brief course", "RMIT Activator OR Industry Capstone OR Industry Studio students teams industry partner challenge university-wide", "WebFetch what-is-wil"], "key_sources": ["https://www.rmit.edu.au/study-with-us/study-options/what-is-wil", "https://www.rmit.edu.au/partner/hubs/activator/partnerships/cloud-innovation-centre/for-students"], "finding": "RMIT WIL page describes industry-sponsored projects 'often in teams' but states requirements vary by course; no single university-wide project scheme found. Activator-run Cyber Ready CIC challenge is a lead only."},
+  "business": {"status": "Searched", "queries": ["RMIT Business Industry Project course industry partner client team", "WebFetch Bachelor of Business (Professional Practice) page", "WebFetch College of Business and Law industry engagement page"], "key_sources": ["https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bachelor-of-business-professional-practice-bp344", "https://www.rmit.edu.au/about/schools-colleges/college-of-business-and-law/industry"], "finding": "Impact Academy 1 (core in BBus Professional Practice) has teams on a live industry partner's client challenge; IPBP in Bachelor of Business has group Medibank/Red Cross challenges (2023 page)."},
+  "engineering_computing": {"status": "Searched", "queries": ["RMIT engineering capstone industry sponsored project teams industry partner 2026", "RMIT computer science software engineering Capstone Computing Project industry client teams", "WebFetch engineering capstone projects page", "WebFetch software engineering teaching area page"], "key_sources": ["https://www.rmit.edu.au/about/schools-colleges/engineering/industry/engineering-capstone-projects", "https://www.rmit.edu.au/students/student-life/events/2026/oct/engenius-engineering-capstone-showcase", "https://www.rmit.edu.au/about/schools-colleges/computing-technologies/our-teaching-areas/software-engineering"], "finding": "Industry-proposed year-long engineering capstones with WIL agreement and EnGenius showcase on 22 Oct 2026 (team size not stated); software engineering project with industry partner as client, performed in teams (undated)."},
+  "science": {"status": "Searched", "queries": ["RMIT School of Science students industry project team client applied science capstone placement", "WebFetch Bachelor of Science bp350"], "key_sources": ["https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp350", "http://titan.csit.rmit.edu.au/~e23005/capstone/capstone-client.pdf"], "finding": "BSc capstone (WIL) page mentions industry challenges and capstone projects but gives no team/client detail in the portion read; COSC2408 client guide is 2018 and hosted on a student server."},
+  "arts_humanities_social_sciences": {"status": "Searched", "queries": ["RMIT Master of Communication or Social Sciences or Global Studies industry project client team capstone community organisation", "RMIT public relations campaigns capstone commissioned by industry government community organisation partners", "WebFetch Partnered projects (Media and Communication)", "WebFetch Bachelor of Professional Communication"], "key_sources": ["https://www.rmit.edu.au/about/schools-colleges/media-and-communication/industry/partnered-projects", "http://www1.rmit.edu.au/courses/050367", "https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bachelor-of-professional-communication-bp354"], "finding": "PR Campaigns/Capstone: teams deliver a campaign for a real client, capstones commissioned by industry/government/community partners (search extracts). Media partnered-projects page is generic with no teams/courses specified."},
+  "other": {"status": "Searched", "queries": ["RMIT design architecture OR law OR health students team live client studio project community partner", "WebFetch interdisciplinary-industry-project news (Associate Degree in Business)"], "key_sources": ["https://www.rmit.edu.au/about/schools-colleges/design/industry/partnered-projects", "https://www.rmit.edu.au/news/next-in-teaching/2023/aug/interdisciplinary-industry-project"], "finding": "Design/architecture/interior design live-client studios exist per search summaries but were not opened; law shows simulations only; no current health studio found. Vocational Associate Degree Buyer Behaviour cross-cluster client project (2023) recorded."}
+ },
+ "schemes": [
+  {
+   "local_id": "S1", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Engineering Capstone Project (Part A and Part B), School of Engineering", "english_name": "Engineering Capstone Project", "module_code": "Unclear (course pages 052676 / 048881 appeared in search; not opened)",
+   "description": "Final-year engineering students undertake a year-long capstone with industry: industry proposes a project, a supervisor agrees and advertises it, students apply by expression of interest, a WIL Agreement is signed by industry partner, RMIT and students, and a tangible outcome (preferably a physical product) is expected.",
+   "academic_reach": "Faculty/school", "admin_host": "School of Engineering", "eligible_faculties_programmes": "Engineering programmes within the School of Engineering",
+   "faculty_areas": ["engineering_computing"], "student_level": "Undergraduate", "year_of_study": "Final year", "eligibility_restrictions": "Final-year engineering students; project allocation by expression of interest",
+   "participation_requirement": "Compulsory within specified programmes", "curricular_status": "Curricular", "credit_assessment": "Not evidenced in pages read; EnGenius agenda lists 'Project Showcase and Assessment'", "duration": "Academic year (start of Semester 1, end Feb, to end of Semester 2, end Oct)", "delivery_format": "Supervised project with weekly academic supervisor meetings; industry partner meets students about monthly",
+   "project_based": "Yes", "project_evidence": "Source 1: 'Delivery of a tangible outcome is expected, preferably a physical product.'",
+   "group_working": "Unclear", "group_evidence": "Source 1 does not specify team sizes; it mentions industry partners may attend 'team meetings' but individual vs team projects are not separated.",
+   "employer_connected": "Unclear", "employer_evidence": "Source 1: industry proposes the project, signs a WIL Agreement and meets students at milestones. But source 2 says students 'may be able' to do an industry-sponsored project, so external sponsorship may not be standard for every student (Some projects).",
+   "partner_type": "Business/commercial", "partner_role": "Proposes project, signs WIL agreement, attends milestone meetings, owns IP (except where students assessed on it)", "named_partners": "Bosch Australia (undated news item on keyless car access capstone)",
+   "deliverable": "Tangible outcome, preferably a physical product",
+   "duration_band": ">1 term", "external_partner_coverage": "Some projects", "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2026",
+   "participation_data": "",
+   "unresolved": "Team structure; share of capstones that are industry-sponsored vs internal; engineering capstone page itself is undated (current status corroborated only by EnGenius showcase 22 Oct 2026 featuring undergraduate engineering capstones).",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.rmit.edu.au/about/schools-colleges/engineering/industry/engineering-capstone-projects", "title": "Engineering Capstone Projects", "section": "main", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'Final year engineering students undertake a Capstone Project with industry'; 'Capstone Projects run for an academic year'; 'A Work Integrated Learning (WIL) Agreement must be signed by the industry partner'; 'Delivery of a tangible outcome is expected, preferably a physical product.'", "supports": ["project", "employer", "duration", "eligibility"]},
+    {"n": 2, "url": "https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bachelor-of-engineering-electronic-and-computer-systems-engineering-honours-bh073", "title": "BEng (Electronic and Computer Systems) (Honours)", "section": "search summary", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase", "extract": "Summary says students may be able to undertake an industry-sponsored design project in final year as part of Engineering Capstone Project Part A and Part B.", "supports": ["employer", "participation"]},
+    {"n": 3, "url": "https://www.rmit.edu.au/students/student-life/events/2026/oct/engenius-engineering-capstone-showcase", "title": "EnGenius: Engineering Capstone Project Showcase", "section": "event", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'EnGenius showcases undergraduate engineering capstone projects'; 'Thursday 22 October 2026'; '9am - 1pm: Project Showcase and Assessment'.", "supports": ["status"]}
+   ]
+  },
+  {
+   "local_id": "S2", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Impact Academy 1 (Bachelor of Business (Professional Practice) core subject)", "english_name": "Impact Academy 1", "module_code": "Unclear",
+   "description": "First-year core subject in which teams prepare a professional response to a real challenge set by a live industry partner's client, using design thinking and problem-based learning.",
+   "academic_reach": "Programme/course", "admin_host": "College of Business and Law", "eligible_faculties_programmes": "Bachelor of Business (Professional Practice) (BP344)",
+   "faculty_areas": ["business"], "student_level": "Undergraduate", "year_of_study": "Year 1 (listed among Professional Practice core subjects; exact year not confirmed)", "eligibility_restrictions": "Enrolled in the BP344 degree",
+   "participation_requirement": "Compulsory within specified programmes", "curricular_status": "Curricular", "credit_assessment": "Not evidenced", "duration": "Unclear", "delivery_format": "Subject; students act as consultants (search summary)",
+   "project_based": "Yes", "project_evidence": "Source 1: 'a real challenge set by a live industry partner's client'; students 'prepare a professional response'.",
+   "group_working": "Yes", "group_evidence": "Source 1: 'prepare a professional response in teams'.",
+   "employer_connected": "Yes", "employer_evidence": "Source 1: challenge is set by a live industry partner's client (the subject's standard design). Programme partners listed: Medibank, Adobe, Good Shepherd, EY, Microsoft, Mainfreight (logos; not tied to this subject).",
+   "partner_type": "Business/commercial", "partner_role": "Live industry partner's client sets the challenge", "named_partners": "Meals With Impact (social enterprise, Impact Academy project with RMIT Activator; undated/2023 context, source 2)",
+   "deliverable": "Professional response to the client challenge",
+   "duration_band": "Unclear", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2027",
+   "participation_data": "",
+   "unresolved": "Course page undated; current delivery inferred from listed Feb/July intakes and a 2027 fee, not a subject-level timetable. Impact Academy 2 details not read (page truncated); subject year and credit not confirmed.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bachelor-of-business-professional-practice-bp344", "title": "Bachelor of Business Professional Practice", "section": "Professional Practice core subjects", "pub_year": "undated (2027 fee shown)", "accessed": "2026-10-13", "retrieval": "page text", "extract": "Impact Academy 1 'uses the principles of design thinking and problem-based learning pedagogy'; teams 'prepare a professional response in teams'; 'a real challenge set by a live industry partner's client'. Next intakes 'February, July'.", "supports": ["project", "group", "employer", "participation", "status"]},
+    {"n": 2, "url": "https://www.rmit.edu.au/about/schools-colleges/college-of-business-and-law/industry", "title": "Industry Engagement (College of Business and Law)", "section": "Meals With Impact", "pub_year": "2023 reference", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'A subject run with RMIT Activator in the Bachelor of Business (Professional Practice)... worked with Meals With Impact, a social enterprise.'", "supports": ["employer"]}
+   ]
+  },
+  {
+   "local_id": "S3", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Integrated Perspectives on Business Problems (IPBP), Bachelor of Business", "english_name": "Integrated Perspectives on Business Problems", "module_code": "Unclear",
+   "description": "Course in which student groups present solutions to real-industry challenges, e.g. Medibank (customer value of health cover under cost of living) and Australian Red Cross (engaging students as research volunteers).",
+   "academic_reach": "Programme/course", "admin_host": "College of Business and Law", "eligible_faculties_programmes": "Bachelor of Business",
+   "faculty_areas": ["business"], "student_level": "Undergraduate", "year_of_study": "Unclear", "eligibility_restrictions": "Unclear",
+   "participation_requirement": "Unclear", "curricular_status": "Curricular", "credit_assessment": "Unclear", "duration": "Unclear", "delivery_format": "Course-embedded industry challenge",
+   "project_based": "Yes", "project_evidence": "Source 1: groups presented solutions to a 'real-industry challenge posed by Medibank'.",
+   "group_working": "Yes", "group_evidence": "Source 1: 'Five groups' presented solutions.",
+   "employer_connected": "Unclear", "employer_evidence": "Medibank posed the challenge and Red Cross reported implementing some solutions (source 1), but the page presents named cases, not evidence that external clients are standard for the course.",
+   "partner_type": "Mixed", "partner_role": "Poses challenge; receives presentations (Medibank); Red Cross used some solutions", "named_partners": "Medibank; Australian Red Cross (Humanitech), undated/2023 page",
+   "deliverable": "Group solution presentation",
+   "duration_band": "Unclear", "external_partner_coverage": "Unclear", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "2023",
+   "participation_data": "",
+   "unresolved": "Whether external clients are standard each offering; current offering; whether Red Cross project was in IPBP or another Bachelor of Business subject.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.rmit.edu.au/about/schools-colleges/college-of-business-and-law/industry", "title": "Industry Engagement (College of Business and Law)", "section": "Medibank / Red Cross", "pub_year": "2023 reference", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'Five groups' presented solutions to a 'real-industry challenge posed by Medibank' (IPBP, Bachelor of Business); Red Cross challenge on engaging students as research volunteers, with some solutions since implemented.", "supports": ["project", "group", "employer"]}
+   ]
+  },
+  {
+   "local_id": "S4", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Software engineering project with industry partner as client (Computer Science / Software Engineering)", "english_name": "Software engineering industry-client project", "module_code": "Unclear",
+   "description": "Full-semester supervised software engineering project with an industry partner as 'client'; projects are described as invariably performed in teams with roles in design, development, testing, requirements and project management.",
+   "academic_reach": "Programme/course", "admin_host": "School of Computing Technologies", "eligible_faculties_programmes": "Software engineering strand (professional computing degrees)",
+   "faculty_areas": ["engineering_computing"], "student_level": "Undergraduate", "year_of_study": "Final year (inferred; not stated)", "eligibility_restrictions": "Unclear",
+   "participation_requirement": "Unclear", "curricular_status": "Curricular", "credit_assessment": "Unclear", "duration": "One semester", "delivery_format": "Supervised team project",
+   "project_based": "Yes", "project_evidence": "Source 1: 'a further full-semester supervised SE project with an industry partner as client'.",
+   "group_working": "Yes", "group_evidence": "Source 1: SE projects are 'invariably performed in teams'.",
+   "employer_connected": "Yes", "employer_evidence": "Source 1: industry partner acts as 'client' for the SE project.",
+   "partner_type": "Business/commercial", "partner_role": "Client for the project", "named_partners": "",
+   "deliverable": "Software solution (inferred; not stated)",
+   "duration_band": "~1 term/semester", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Page is undated and no 2025/26-26/27 corroboration; exact course code and which degrees; whether 'invariably in teams' refers specifically to this project.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.rmit.edu.au/about/schools-colleges/computing-technologies/our-teaching-areas/software-engineering", "title": "Software engineering", "section": "teaching area", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'a one-year internship and a further full-semester supervised SE project with an industry partner as “client”'; SE projects 'invariably performed in teams'.", "supports": ["project", "group", "employer", "duration"]}
+   ]
+  },
+  {
+   "local_id": "S5", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Public Relations Campaigns / Public Relations Capstone Project (Bachelor of Professional Communication)", "english_name": "PR Campaigns capstone", "module_code": "COMM2691 (BP223 handbook) or COMM2924 (PR major guide); discrepancy unresolved",
+   "description": "Year 3 capstone commissioned by an industry, government or community organisation partner; students plan and deliver a full PR campaign for a real client, in teams mirroring a consultancy, with timelines and budgets.",
+   "academic_reach": "Programme/course", "admin_host": "School of Media and Communication", "eligible_faculties_programmes": "Bachelor of Professional Communication (PR major)",
+   "faculty_areas": ["arts_humanities_social_sciences"], "student_level": "Undergraduate", "year_of_study": "Year 3", "eligibility_restrictions": "PR major",
+   "participation_requirement": "Compulsory within specified programmes", "curricular_status": "Curricular", "credit_assessment": "Unclear", "duration": "Unclear", "delivery_format": "Capstone; designated WIL course with industry/community feedback",
+   "project_based": "Yes", "project_evidence": "Source 1 (search summary): students 'plan and deliver a comprehensive PR campaign for a real client'.",
+   "group_working": "Yes", "group_evidence": "Source 2 (search summary): students respond to a client brief 'in teams that mirror a consultancy'.",
+   "employer_connected": "Yes", "employer_evidence": "Source 1 (search summary): capstones 'commissioned by one of our industry, government or community organisation partners'; source 2: designated WIL course with industry/community feedback.",
+   "partner_type": "Mixed", "partner_role": "Commissions the project; provides feedback", "named_partners": "PRIA Pitch This! competition entry (undated, about 4 years old); school-wide partner list not tied to this course",
+   "deliverable": "PR campaign",
+   "duration_band": "Unclear", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Evidence is search-summary only (page text for Year 3 section was truncated in WebFetch); course code discrepancy; no dated current-year evidence.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bachelor-of-professional-communication-bp354", "title": "Bachelor of Professional Communication", "section": "Year 3 capstone", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase", "extract": "Capstone 'commissioned by one of our industry, government or community organisation partners'; PR campaign for a real client. (WebFetch of the page confirmed teamwork and 'respond to real client challenges' but did not reach the capstone text.)", "supports": ["project", "employer", "participation"]},
+    {"n": 2, "url": "http://www1.rmit.edu.au/courses/050367", "title": "Public Relations Campaigns", "section": "course page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase", "extract": "Client brief in teams that mirror a consultancy; designated work-integrated learning course with industry/community feedback.", "supports": ["group", "employer"]}
+   ]
+  },
+  {
+   "local_id": "S6", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Buyer Behaviour cross-cluster industry project (Associate Degree in Business)", "english_name": "Buyer Behaviour industry project", "module_code": "Unclear",
+   "description": "Business Enterprise students research and strategise for a real client, then Creative Industries students (e.g. graphic design) execute graphics, animation or video; clients receive pitches.",
+   "academic_reach": "Programme/course", "admin_host": "College of Vocational Education", "eligible_faculties_programmes": "Associate Degree in Business; Creative Industries cluster students",
+   "faculty_areas": ["business", "other"], "student_level": "Undergraduate", "year_of_study": "Unclear", "eligibility_restrictions": "Enrolled in the course",
+   "participation_requirement": "Unclear", "curricular_status": "Curricular", "credit_assessment": "Three assessments (Semester 1, 2023 Pattysmiths example)", "duration": "One semester", "delivery_format": "Cross-cluster team project with client pitches",
+   "project_based": "Yes", "project_evidence": "Source 1: marketing strategies and creative proposals; client pitches.",
+   "group_working": "Yes", "group_evidence": "Source 1: students work in groups across two clusters; groups formed from stated academic goals.",
+   "employer_connected": "Yes", "employer_evidence": "Source 1: partner acts as client and receives pitches; Quit Victoria, Cancer Council, City of Boroondara, TAC, Carl's Jr, Pattysmiths.",
+   "partner_type": "Mixed", "partner_role": "Client; receives pitches", "named_partners": "Pattysmiths (Semester 1, 2023); Quit Victoria, Cancer Council, City of Boroondara, TAC, Carl's Jr (various years)",
+   "deliverable": "Marketing strategy, creative proposals, client pitch",
+   "duration_band": "~1 term/semester", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "2023",
+   "participation_data": "",
+   "unresolved": "Article from August 2023; no 2025/26 evidence the project still runs; vocational-college associate degree.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.rmit.edu.au/news/next-in-teaching/2023/aug/interdisciplinary-industry-project", "title": "Encouraging interdisciplinary experiences through a unique industry project", "section": "article", "pub_year": "2023", "accessed": "2026-10-13", "retrieval": "page text", "extract": "Cross-cluster industry project with a 'real-world client' brief in Buyer Behaviour, Associate Degree in Business; the partner acts as the client and receives pitches; Pattysmiths in Semester 1, 2023.", "supports": ["project", "group", "employer", "status"]}
+   ]
+  }
+ ],
+ "exclusions": [
+  {"name": "Work-Integrated Learning (RMIT WIL framework)", "legacy": true, "category": "WIL framework", "reason": "Umbrella description: 'structured projects where students work on real problems set by industry or community partners, often in teams' but 'WIL requirements vary by course' and may be placements, creative practice or simulations; tested via the specific courses recorded as schemes S1-S6.", "source_url": "https://www.rmit.edu.au/study-with-us/study-options/what-is-wil", "status_note": "Undated page"},
+  {"name": "COSC2408 Programming Project / School of Science capstone (client guide)", "legacy": false, "category": "Evidence gap", "reason": "Client guide describes groups of up to 5 with external clients (12 credit points, one semester) but is dated 2018 and hosted on a student server; current delivery unverified.", "source_url": "http://titan.csit.rmit.edu.au/~e23005/capstone/capstone-client.pdf", "status_note": "2018"},
+  {"name": "Bachelor of Science capstone (WIL)", "legacy": false, "category": "Evidence gap", "reason": "Page mentions industry challenges and capstone projects but no team or client detail was read (page truncated).", "source_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/bachelor-degrees/bp350", "status_note": "Undated"},
+  {"name": "Master of Business Information Technology project", "legacy": false, "category": "Evidence gap", "reason": "Search summary says project teams build a system for an industry client; page not opened.", "source_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-business-information-technology-mc200", "status_note": "Undated"},
+  {"name": "Master of Interior Design live-client studio / School of Design partnered studios", "legacy": false, "category": "Evidence gap", "reason": "Search summaries indicate industry-partnered 12-week studios with changing partners; pages not opened, team structure unverified.", "source_url": "https://www.rmit.edu.au/about/schools-colleges/design/industry/partnered-projects", "status_note": "Undated"},
+  {"name": "School of Media and Communication partnered projects", "legacy": false, "category": "Evidence gap", "reason": "Generic page naming partners and areas; no course, team or date specified.", "source_url": "https://www.rmit.edu.au/about/schools-colleges/media-and-communication/industry/partnered-projects", "status_note": "Undated"},
+  {"name": "Cyber Ready CIC Innovation Challenges (RMIT Activator)", "legacy": false, "category": "Evidence gap", "reason": "Search summary: customer-led design challenge with student teams and industry sponsors at checkpoints; page not opened, status unverified.", "source_url": "https://www.rmit.edu.au/partner/hubs/activator/partnerships/cloud-innovation-centre/for-students", "status_note": "Undated"},
+  {"name": "Master of Communication Professional Research Project", "legacy": false, "category": "Near-miss: not group", "reason": "Capstone is an individually negotiated research project (search summary); the live-project element sits in Strategic Communication Management, not verified.", "source_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-communication-mc248", "status_note": "Undated"},
+  {"name": "Juris Doctor simulations; 2008 architecture health studio", "legacy": false, "category": "Simulation/virtual", "reason": "Law shows simulated negotiations/moots only; the architecture live-client studio is from 2008.", "source_url": "https://www.rmit.edu.au/study-with-us/law", "status_note": ""}
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "RMIT has no single university-wide employer project scheme. Its WIL page describes industry-sponsored projects 'often in teams' but says requirements vary by course. Qualifying routes sit in programmes.\n\nThe strongest is Impact Academy 1, a core subject of the Bachelor of Business (Professional Practice), where teams answer a real challenge set by a live industry partner's client. Other client-facing group routes are a software engineering project with an industry partner as client (teams, one semester), a Year 3 PR capstone commissioned by industry, government or community partners, and a cross-faculty Buyer Behaviour client project in the Associate Degree in Business (2023 evidence).\n\nEngineering runs a year-long capstone with industry-proposed projects, a three-party WIL agreement and a 22 October 2026 showcase. Team structure and the share of industry-sponsored projects are not stated, so group and employer criteria are Unclear. Medibank and Red Cross group challenges in the Bachelor of Business (IPBP) are named from a 2023-era page and not shown to be standard.\n\nOnly Impact Academy 1 has current-delivery corroboration (degree intakes and 2027 fee) and meets all three criteria. Several other routes met the criteria on the evidence but are undated. Science and design leads rest on old or summary-only sources.",
+ "gaps": "Subject-level handbook pages (credit, year, current offering) not opened for any scheme; Impact Academy 2 details not read (WebFetch truncated); PR capstone and Bachelor of Science capstone text not reached (pages >100k characters, only first 100k read); engineering team structure and proportion of industry-sponsored capstones; Science (COSC2408) current status; design/architecture/interior design live studios, Cyber Ready CIC, MBIT project and other departmental instances likely exist and were not researched in reduced-depth mode; law/health not found. Retrieval: WebFetch worked directly (page text) for most pages; no curl fallback needed."
+}

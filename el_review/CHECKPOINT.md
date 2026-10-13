@@ -1,9 +1,9 @@
-# Checkpoint — updated 2026-10-13 11:44 UTC
+# Checkpoint — updated 2026-10-13 11:46 UTC
 
-- Complete: 45 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU06, AU09, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK14, UK15, UK17
+- Complete: 53 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21
 - Partial: 0 — 
-- Not started: 79 — AU05, AU07, AU08, AU10, UK13, UK16, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
-- Scheme records: 505; currently qualifying: 157; exclusions: 487; sources: 1026
+- Not started: 71 — AU07, AU08, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
+- Scheme records: 541; currently qualifying: 162; exclusions: 538; sources: 1085
 
 ## Partial reviews: what remains
 
@@ -145,9 +145,14 @@
 - AU04-S04 Group Project (Master of Engineering): Who the clients are, whether external, team size, compulsory status, 2025/26 delivery.
 - AU04-S05 SoCIETIE Initiative: Whether projects are team-based and whether partners are external; legacy row classed this as a curriculum framework.
 - AU04-S06 Applied Policy Project: Current delivery, team share. Direct page fetch failed (404); evidence is a search extract of the 2021 handbook page.
+- AU05-S02 Monash Innovation Guarantee - Postgraduate (MIG-P): Need the postgraduate page text to confirm team and partner role. Possible duplicate of S1 in concept.
+- AU05-S04 Industry Innovation Program (IIP) - Final Year Project: Team versus individual assessment; dated 2025/26 or 2026/27 cohort; 2023 info session described IIP as a pilot.
+- AU05-S05 Industry Experience Studio Project (FIT5120): Current-year handbook and unit guide not seen; compulsoriness inferred from capstone status; client share unknown.
 - AU06-S01 Ventures Industry Challenge: Whether external partners set the problem statements and sit on the judging panel; 2026 partner is internal UQ SEXtember; prize amounts for 2026 not published.
 - AU06-S09 Health Sciences Research Project: Service Development through Action Learning: Stakeholder identity and whether external; compulsory status inferred; detail from 2024 profile.
 - AU09-S05 Strategic Communication capstone (client brief): Subject code, group format and dated delivery not found.
+- AU10-S01 Engineering Capstone Project (Part A and Part B), School of Engineering: Team structure; share of capstones that are industry-sponsored vs internal; engineering capstone page itself is undated (current status corroborated only by EnGenius showcase 22 Oct 2026 featuring undergraduate engineering capstones).
+- AU10-S03 Integrated Perspectives on Business Problems (IPBP), Bachelor of Business: Whether external clients are standard each offering; current offering; whether Red Cross project was in IPBP or another Bachelor of Business subject.
 - UK01-S01 Vertically Integrated Projects (VIP): Which, if any, VIP teams have a named external partner; credit status by department.
 - UK01-S02 Group Design and Business Project (MEng Mechanical; MEng Electronic & Electrical): Compulsory status, credit, proportion of teams with external companies, and dated 2025/26 delivery not verified (unit catalogue 2024/25 lists 'Group business & design project' units per search result only).
 - UK01-S05 Big Team Challenge (employer-set first-week challenge): No page text obtained; 2026 cohort not found; whether defined output qualifies as a project.
@@ -203,6 +208,9 @@
 - UK12-S10 i-Teams (Norwich Research Park innovation teams): Current-year runs and dates; share of external-organisation (vs internal innovation) projects.
 - UK12-S11 NBS MSc industry-sponsored / industry-focused project options (MSc Business Management; MSc Finance and Management): Everything beyond existence of the option.
 - UK12-S12 MSc Sustainability and Society: partner-organisation practical work in core modules: Whether current in 2025/26-2026/27; project/group status; partners.
+- UK13-S04 Marketing Research Project: Proportion of external vs internal clients; compulsory status; undated page.
+- UK13-S05 MSc employer live projects (Employer Team offer): Which MSc programmes/modules; whether delivered currently; employer-facing marketing text, no cohort evidence. School of Business page says 'Many of our postgraduate students have spent short periods working with local companies on real-life projects' (undated).
+- UK13-S06 Research Through Design: Partner type and involvement; programmes; delivery year.
 - UK14-S02 Civil Engineering BEng Level 6 design project: Group working not established; module mapping uncertain.
 - UK14-S03 Business Consultancy Project (BSc Economics and Business): Group working, module code, credits and current delivery are unknown. The module table on the page did not list the module, so it may be optional. It may be shared with the School of Management's consultancy modules (see S4). Re-fetched: page mentions the project only once; no group/individual, code
 - UK14-S04 Marketing consultancy project (BSc Marketing final-year pathway): Client involvement, group format and current status are not evidenced. This may be the same consultancy module as S3.
@@ -212,6 +220,8 @@
 - UK15-S03 Marketing Management consultancy project (BSc Marketing Management and related degrees): Module code and handbook assessment spec not seen; group vs individual; external client involvement; 2025/26 delivery.
 - UK15-S04 Work-based learning live employer projects (Industry and Placements team): Identify the actual WBL project modules (module codes), whether team-based, partner types and 2025/26 delivery. Second search (2026-10-13) found Biomedical Science module pages listing 'Practice and Employability' but no team-based client module.
 - UK15-S06 Human Rights Centre Clinic (module-based projects, HU902): Partner role, deliverables, credit.
+- UK16-S03 The Business Analytics Challenge: Whether organisations are external clients and how they take part; group vs individual output; compulsory vs placement alternative.
+- UK16-S04 Strategic Project Management Challenge (MSc Strategic Project Management): Live vs case-based; year; credits; assessment.
 - UK17-S01 BBS Co-Innovate Collaborative Student Projects: Page undated; fetched page does not mention funding or credits (ERDF reference from earlier search summary not confirmed). Team vs individual not separable; no dated 2025/26 source, so current delivery unverified.
 - UK17-S02 BSc Business Management with Entrepreneurship: Issues and Controversies in Business and Management Project / Co-Innovate business project: Optional vs core status differs between BME and Business & Management pages; whether every student gets an SME client unclear; no dated 2025/26 evidence retrieved.
 - UK17-S03 MSc Project Management: Project Consultancy and Risk Management: Need module page: client identity, team structure, current-year delivery.
@@ -219,5 +229,14 @@
 - UK17-S05 Global Challenges BASc: Enterprise Project: Need module page: choice between placement and group project, whether external body sets brief, current delivery. Course page fetch returned no module text on 2026-10-13.
 - UK17-S06 Enterprise Mobility Challenge: Operating status set from Feb 2025 launch event only (before 2025/26 academic year start may be 2024/25); team format, output and eligibility unknown. Treat as evidence incomplete.
 - UK17-S07 MSc Integrated Product Design / Sustainability, Entrepreneurship and Design: studio projects with industry partners: Need module page for team structure and share of live projects.
+- UK18-S01 Aston Global Advantage (postgraduate taught): Legacy row said 'compulsory for every PGT programme' and 'university-wide'; the fetched page says it is part of PGT programmes but excludes MBA and MRes and tells students to check their course page, so reach downgraded to Cross-faculty and compulsory scoped to programmes that include it. Umbrella f
+- UK18-S03 Interdisciplinary Collaborative Project (Aston Global Advantage module, Aston London): Level (UG/PG), credits, duration, deliverable and compulsory status not stated (page says 'shared module' per course; compulsory inferred); undated; partner sector unknown. Likely an Aston Global Advantage London variant.
+- UK18-S04 Start-Up Sprint / Consultancy Project 1 and Growth Challenge / Consultancy Project 2 (BSc Business Enterprise and Innovation): Course page undated (the fetched page showed no intake year); live vs simulated; named clients.
+- UK19-S03 Management Student Consultancy Projects (summer elective on Masters programmes): Group vs individual split; elective places competitive; no dated delivery evidence; undergraduate involvement stated only on employer page.
+- UK19-S04 MANP005 Business Consulting: Assessment, group format, client sourcing and host programmes.
+- UK20-S02 Practical Industry Project (Practera Virtual Industry Experience), MSc Finance / MSc International Business: Direct page fetch returned HTTP 403 (also via curl with proxy); evidence is search-index extract only. Client identity, current-year delivery, duration and assessment weighting unverified. Optional alternative to dissertation.
+- UK20-S03 International Development Placement (virtual group placement with partner organisations): Whether teams produce a defined project output for the partner (placement vs project); current-year delivery; assessment.  Partner type 'Charity/community' is inferred from development NGO examples only; mark Mixed/Unclear if challenged.
+- UK20-S04 Student Consultancy Project (SOAS Careers, employer-set): Employer-facing page only: no evidence on student cohorts, team structure, eligibility, dates or whether it has run.
+- UK21-S02 PG Cert Applied Data Science Project: Whether project is group-based; role of industry partner; current delivery.
 
 Resume: research IDs under 'Not started'/'Partial' following RESEARCH_BRIEF.md, write results/<ID>.json, then run `python3 -I el_review/build.py`.
