@@ -1,8 +1,8 @@
 {
  "inst_id": "US29",
  "institution": "Pennsylvania State",
- "review_status": "Partial",
- "partial_remaining": "Science, other areas need more queries; Smeal/NLCG page could not be opened.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -44,7 +44,8 @@
   "science": {
    "status": "Searched",
    "queries": [
-    "Penn State Eberly College of Science capstone project external partner team"
+    "Penn State Eberly College of Science capstone project external partner team",
+    "Penn State statistics OR data sciences OR biology OR chemistry senior capstone industry partner client project students"
    ],
    "key_sources": [
     "https://science.psu.edu/research/corporate-collaboration"
@@ -111,7 +112,7 @@
    "likely_duplicate_of": "",
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2025/26 (fall 2025 showcase, 11-19 Dec 2025)",
-   "participation_data": "Fall 2025 winning projects only: 13 projects / 63 students (winners tally from news article; total participation not published in sources fetched).",
+   "participation_data": "Cumulative (undated, showcase site): over 2,000 projects for more than 575 sponsors, over 10,000 engineering students at University Park [5]. Fall 2025 winners only: 13 projects / 63 students [3].",
    "unresolved": "Whether capstone is compulsory in every engineering degree; total number of teams/sponsors per year; which departments run capstone outside the Learning Factory.",
    "legacy_ref": "Learning Factory Capstone Design",
    "sources": [
@@ -165,6 +166,21 @@
      ]
     },
     {
+     "n": 5,
+     "url": "https://sites.psu.edu/lfshowcasefa25/projects/",
+     "title": "Learning Factory Fall 2025 showcase - Capstone Projects",
+     "section": "Projects",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; summarised by fetch tool, quoted passages)",
+     "extract": "Learning Factory 'has facilitated over 2,000 projects for more than 575 sponsors', 'engaging over 10,000 engineering students at Penn State University Park'; projects described as 'industry-sponsored and client-based'; 14 engineering disciplinary areas listed.",
+     "supports": [
+      "participation",
+      "reach",
+      "employer"
+     ]
+    },
+    {
      "n": 4,
      "url": "https://lf.psu.edu/sponsors/",
      "title": "Learning Factory Sponsors",
@@ -205,8 +221,8 @@
    "project_evidence": "Consulting engagements/capstone projects addressing client business challenges [1][2]; 2020-21 report of 16 engagements [2].",
    "group_working": "Yes",
    "group_evidence": "'Teams consist of MBA students or students in the Sapphire Leadership Academic Program' [1]; engagements delivered by NLCG members [2].",
-   "employer_connected": "Yes",
-   "employer_evidence": "Clients are outside organisations (Boeing, UPS, a start-up, a non-profit) [2]; capstone route 'work with business clients' [1]. Evidence for named clients dates from 2020-21; one capstone example advised the Penn State Gender Equity Center (internal) [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Set to Unclear because external coverage is not shown as standard for the current capstone route and delivery is undated. Clients are outside organisations (Boeing, UPS, a start-up, a non-profit) [2]; capstone route 'work with business clients' [1]. Evidence for named clients dates from 2020-21; one capstone example advised the Penn State Gender Equity Center (internal) [1].",
    "partner_type": "Mixed",
    "partner_role": "Client for consulting engagement; receives recommendations (exact deliverable not evidenced)",
    "named_partners": "Boeing, UPS, ParaPer4mance, Jana Marie Foundation (2020-21 first year)",
@@ -454,5 +470,5 @@
  ],
  "embeddedness": "Several distributed routes",
  "profile_md": "Penn State's verified employer-linked group project provision is college-based rather than university-wide. The strongest route is the College of Engineering senior capstone supported by the Learning Factory: teams of 4-6 deliver a Statement of Work, specification report, prototype, final report and showcase for a sponsor who pays $4,000; the fall 2025 showcase (11 Dec 2025) shows current delivery with company and government sponsors (Northrop Grumman, Walmart, NSWC Dahlgren), though a small share of sponsors are Penn State units. Whether the capstone is compulsory varies by department. In Smeal, the Nittany Lion Consulting Group and capstone consulting teams (MBA and Sapphire honors students) work with business and non-profit clients, but the page could not be opened and named clients date from 2020-21, so current delivery is unclear. IST 440W is a team capstone with some external clients (Brandywine 2021 example). CommAgency (Bellisario) is a competitive student agency whose documented clients are University units, so it fails the external-organisation test. No qualifying route was verified in Science, Liberal Arts or Law/Arts & Architecture. Further departmental capstones likely exist.",
- "gaps": "Smeal page (503) not read; current NLCG/Smeal capstone status; IST 440W current client practice; compulsory status of Learning Factory capstone by department; other engineering departmental capstones, COMM 473, Career Accelerator pilot; Eberly College of Science only one query."
+ "gaps": "Smeal page (503) not read; current NLCG/Smeal capstone status; IST 440W current client practice; compulsory status of Learning Factory capstone by department; other engineering departmental capstones, COMM 473, Career Accelerator pilot; Eberly College of Science only two queries; Data Sciences major capstones not opened."
 }

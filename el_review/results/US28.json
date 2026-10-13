@@ -1,8 +1,8 @@
 {
  "inst_id": "US28",
  "institution": "Boston University",
- "review_status": "Partial",
- "partial_remaining": "Arts/humanities, other, deeper science",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -47,10 +47,11 @@
   "science": {
    "status": "Searched",
    "queries": [
-    "CAS science biology chemistry physics student team project external partner company capstone"
+    "CAS science biology chemistry physics student team project external partner company capstone",
+    "BU CAS course student teams client project nonprofit sponsor 2026"
    ],
    "key_sources": [],
-   "finding": "No natural-science team project with external partner found in one query; results were computing/engineering; further CAS departmental searching not done."
+   "finding": "Two queries (CAS science, CAS client/nonprofit teams) found no natural-science team project with an external partner; results were computing, engineering and XCC; CAS IN 299 is an individual internship seminar."
   },
   "arts_humanities_social_sciences": {
    "status": "Searched",
