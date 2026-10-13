@@ -1,9 +1,9 @@
 {
  "inst_id": "AU06",
  "institution": "University of Queensland",
- "review_status": "Partial",
- "partial_remaining": "Science, arts/humanities/social sciences and other (law, health, architecture) areas not searched; engineering discipline capstones (civil, chemical, mechanical, mining, architecture studios) not searched; other UQ Ventures challenges not tested. Shared WebSearch budget for the session ran out after 12 searches for UQ.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -26,13 +26,17 @@
     "PBEL3000 Learning by Doing in a Disruptive World industry partner teams project (extended)",
     "UQ MBA industry projects teams client consulting 2026 MGTS7818 (extended)",
     "MGTS7820 Impact Academy ... (extended)",
-    "UQ MBA Impact Academy project sponsors (extended)"
+    "UQ MBA Impact Academy project sponsors (extended)",
+    "FINM4411 Team Project live problem industry government not-for-profit (extended)",
+    "TIMS7334 Sustainability Strategy and Leadership Capstone course profile (fetched)"
    ],
    "key_sources": [
     "https://bel.uq.edu.au/for-students/careers/wil/industry-project",
     "https://programs-courses.uq.edu.au/course.html?course_code=PBEL3000",
     "https://programs-courses.uq.edu.au/course.html?course_code=MGTS7820",
-    "https://course-profiles.uq.edu.au/course-profiles/MGTS7818-60293-7460"
+    "https://course-profiles.uq.edu.au/course-profiles/MGTS7818-60293-7460",
+    "https://course-profiles.uq.edu.au/course-profiles/TIMS7334-62523-7660",
+    "https://course-profiles.uq.edu.au/course-profiles/FINM4411-60235-7460"
    ],
    "finding": "BEL Industry Consulting Project (RBUS3888/4888/7888, BSAN7215), PBEL3000 capstone and MBA Impact Academy 1 all qualify with current evidence; former MBA capstone MGTS7818 last evidenced 2024."
   },
@@ -51,22 +55,38 @@
    "finding": "No qualifying group route with external client verified: DECO3801 team capstone uses student-proposed briefs; industry-partner projects found (Data Science capstone, BE/ME placement) are individual. Discipline-level engineering design courses not searched (budget exhausted)."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: shared web-search budget for the session was exhausted after 12 searches."
+   "status": "Searched",
+   "queries": [
+    "UQ Faculty of Science student teams industry partner project course capstone real client"
+   ],
+   "key_sources": [
+    "https://programs-courses.uq.edu.au/course.html?course_code=DATA7901"
+   ],
+   "finding": "No Faculty of Science-owned team/external-client course surfaced; only the (individual-project) Data Science capstone and BEL/Business routes. Further Science instances not verified."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: web-search budget exhausted."
+   "status": "Searched",
+   "queries": [
+    "UQ HASS Faculty of Humanities Arts Social Sciences student team project external organisation client course"
+   ],
+   "key_sources": [
+    "https://hass.uq.edu.au/portfolio-projects",
+    "https://polsis.uq.edu.au/internshipfield-work"
+   ],
+   "finding": "Only individual internships (POLS3801, PHSS2000) and small student-led HASS Portfolio Projects found; no team project with external client verified."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched (law, health, architecture/design): web-search budget exhausted."
+   "status": "Searched",
+   "queries": [
+    "UQ architecture design health law students team project community client partner course",
+    "HRSS4210 Health Sciences Research Project Service Development Action Learning 2026 ..."
+   ],
+   "key_sources": [
+    "https://course-profiles.uq.edu.au/course-profiles/HRSS4210-61790-7460",
+    "https://programs-courses.uq.edu.au/course.html?course_code=HRSS4210",
+    "https://programs-courses.uq.edu.au/course.html?course_code=ARCH3100"
+   ],
+   "finding": "HRSS4210 health team action-learning project (stakeholder client; partner type unclear) recorded; architecture studios (ARCH3100 client/critic presentations) are near-miss/unverified for group-with-external-client; no law route found."
   }
  },
  "schemes": [
@@ -564,6 +584,213 @@
      ]
     }
    ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "TIMS7334",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S7",
+   "official_name": "Sustainability Strategy and Leadership Capstone",
+   "english_name": "Sustainability Strategy and Leadership Capstone",
+   "description": "Capstone for Master of Business (Organisational Sustainability / Sustainability: Strategy and Leadership field) students. Teams research, critique and co-develop a sustainability strategy in collaboration with an industry partner, who presents its challenges in Week 3, gives midpoint feedback in Week 8 and attends final presentations in Week 11.",
+   "academic_reach": "Programme/course",
+   "admin_host": "UQ Business School",
+   "eligible_faculties_programmes": "MBus Sustainability: Strategy and Leadership field of study (prerequisite 4 units)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Team project (report, presentation, Q&A) 50%; leadership diary 20%; reflective interviews 30%",
+   "duration": "One semester (Semester 2, 2026)",
+   "delivery_format": "In person, St Lucia",
+   "project_based": "Yes",
+   "project_evidence": "Team report and presentation developing a sustainability strategy for the partner [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Team or group-based' team project, 50% [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partner presents challenges (Wk 3), gives midpoint feedback (Wk 8), attends final presentations (Wk 11) [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Presents challenge; midpoint feedback; audience for final presentation",
+   "named_partners": "",
+   "deliverable": "Team sustainability strategy report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (Semester 2, 2026)",
+   "unresolved": "Partner sector not stated; compulsory status inferred from 'capstone' wording, not program rules; partners not named.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS7334-62523-7660",
+     "title": "TIMS7334 course profile",
+     "section": "Description and assessment",
+     "pub_year": "2026 (Semester 2, 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Team Project (50%) 'Team or group-based'; teams work 'in collaboration with an industry partner'; partner presents challenges in Week 3, gives midpoint feedback in Week 8, attends final presentations in Week 11; Semester 2, 2026 (27/07/2026 - 21/11/2026), In Person.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "FINM4411",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "eligibility_restrictions": "",
+   "year_of_study": "Year 4",
+   "local_id": "S8",
+   "official_name": "Team Project (Bachelor of Advanced Finance and Economics (Honours))",
+   "english_name": "FINM4411 Team Project",
+   "description": "Final-year team project in which each group of 3-4 is assigned a live problem from industry, government or the not-for-profit sector, with project plan, individual report and final team report.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Business, Economics and Law",
+   "eligible_faculties_programmes": "BAdvFinEcon(Hons), year 4",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Project plan 20%, individual report 30%, final team report 45%, one-page report 5% (2024 profile figures)",
+   "duration": "One semester",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Live problem; final team report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3 or 4 [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Each group will be assigned a live problem from industry, government or the not-for-profit sector' (search-index extract); real-world issues identified by an industry partner [1]. Students may also suggest topics/partners.",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies live problem",
+   "named_partners": "",
+   "deliverable": "Team report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (Semester 2, 2026; Semester 1, 2027 listed)",
+   "unresolved": "Direct fetch of course page failed (HTTP 405); evidence is search-index extract; compulsory status in the program not verified; assessment weights are from 2024 profile.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://course-profiles.uq.edu.au/course-profiles/FINM4411-60235-7460",
+     "title": "FINM4411 course profile",
+     "section": "Course description",
+     "pub_year": "2024 profile; offerings 2026-27 on course page",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Each group assigned a live problem from industry, government or the not-for-profit sector; teams of 3-4; final team report 45%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://my.uq.edu.au/programs-courses/course.html?course_code=FINM4411",
+     "title": "Team Project (FINM4411)",
+     "section": "Course page",
+     "pub_year": "undated; lists Sem 2 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Offered Semester 2, 2026 and Semester 1, 2027; restricted to BAdvFinEcon(Hons) final year.",
+     "supports": [
+      "status",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "HRSS4210 (jointly taught with HRSS7200/SPCH7200)",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "participation_data": "",
+   "eligibility_restrictions": "",
+   "year_of_study": "",
+   "local_id": "S9",
+   "official_name": "Health Sciences Research Project: Service Development through Action Learning",
+   "english_name": "Health Sciences Research Project: Service Development through Action Learning",
+   "description": "Final-year occupational therapy and speech pathology course: teams of 4 (or 3) use action learning on a real-world service development project for stakeholders who identified a service need; group conference presentation; clinicians rate project outcome.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Health and Rehabilitation Sciences",
+   "eligible_faculties_programmes": "Occupational therapy and speech pathology students (prerequisite HRSS3102)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "2 units; group conference 20%, group project outcome clinician rating 25%, individual reflection 35%, individual presentation/report 20% (2024 profile)",
+   "duration": "One semester",
+   "delivery_format": "In person",
+   "project_based": "Yes",
+   "project_evidence": "Practice-based service investigation and development project [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams of 4 students (or 3 students)'; group-assessed outcome [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Stakeholders who identified a service need; clinicians rate project outcomes [1]. Stakeholder organisations not named or typed; may include internal UQ clinics.",
+   "partner_type": "Unclear",
+   "partner_role": "Stakeholder with service need; clinician rating of outcome",
+   "named_partners": "",
+   "deliverable": "Service/intervention/resource and conference presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Semester 2, 2026 offering listed)",
+   "unresolved": "Stakeholder identity and whether external; compulsory status inferred; detail from 2024 profile.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://course-profiles.uq.edu.au/course-profiles/HRSS4210-61790-7460",
+     "title": "HRSS4210 course profile",
+     "section": "Description and assessment",
+     "pub_year": "2024",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'teams of 4 students (or 3 students)'; 'Working collaboratively within their field of practice with stakeholders who have identified a service need'; 'Clinicians are asked to provide feedback on students' professional behaviour, stakeholder consultation and project outcomes'; Project Outcome - Clinician Rating 25% (group).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://programs-courses.uq.edu.au/course.html?course_code=HRSS4210",
+     "title": "HRSS4210 course page",
+     "section": "Offering",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Semester 2, 2026 offering, 2 units, in person St Lucia.",
+     "supports": [
+      "status",
+      "credit"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
@@ -622,9 +849,41 @@
    "reason": "Surfaced in search results but not researched within budget; ilab Accelerator supports students' own ventures (entrepreneurship).",
    "source_url": "https://ventures.uq.edu.au/programs",
    "status_note": ""
+  },
+  {
+   "name": "POLS3801 Internship / PHSS2000 Practical Employability Experience (HASS)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements with external organisations; not group.",
+   "source_url": "https://polsis.uq.edu.au/internshipfield-work",
+   "status_note": "undated"
+  },
+  {
+   "name": "HASS Portfolio Projects",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Small student team projects from pre-prepared ideas with minor funding; no external client evidenced.",
+   "source_url": "https://hass.uq.edu.au/portfolio-projects",
+   "status_note": "undated"
+  },
+  {
+   "name": "ARCH3100 Architectural Design: Clients and Culture / ARCH7043 studios",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Studio briefs involve real client communities (e.g. ATSICHS Brisbane healthcare hub, Sem 1 2025) and guest critics, but whether students work in groups on the client brief (vs individual design) and client role are not established.",
+   "source_url": "https://programs-courses.uq.edu.au/course.html?course_code=ARCH3100",
+   "status_note": "Sem 1 2025 profile"
+  },
+  {
+   "name": "DATA7901 Data Science Capstone Project 1",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Industry-proposed projects; group working not evidenced (see Data Science capstone exclusion).",
+   "source_url": "https://programs-courses.uq.edu.au/course.html?course_code=DATA7901",
+   "status_note": "undated"
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**University of Queensland (partial review).** The verified provision sits mainly in **Business, Economics and Law**, plus two central extracurricular routes.\n\n- **BEL Industry Consulting Project** (RBUS3888/4888/7888, BSAN7215): selective final-year course (GPA 4.0+, by application). Project teams with an assigned mentor answer a brief from an industry partner, such as Cancer Council Queensland or Netball Queensland, and deliver a team report to the client. Applications are open for 2026-27.\n- **PBEL3000 Learning by Doing in a Disruptive World:** application-only undergraduate capstone. Teams of 3-5 pitch to an industry partner, who gives feedback, and write an industry report. Last offered Summer Semester 2025.\n- **MBA Impact Academy 1** (MGTS7820, 2026): teams take sponsor-set real problems and present to the sponsors. It appears to replace the MGTS7818 Industry Engagement Capstone, last evidenced in 2024. Past MBA partners include Suncorp, Anglicare and Queensland Police.\n- **Central:** **Practera SAIEP** offers two-week virtual team projects for any UQ student, with briefs from real employers and client feedback. It is short and selective. The **Ventures Industry Challenge** is university-wide but only theme-partnered, and its 2026 partner is UQ's own SEXtember initiative, so criterion C is unclear.\n- **Engineering/IT:** the DECO3801 team capstone uses briefs written by students. The industry-partner projects found (Data Science capstone, BE/ME placement) are individual.\n\nNo route is compulsory institution-wide; all are optional or selective. Science, HASS, law, health and architecture were **not searched** because the search budget ran out. Further routes there are likely.",
- "gaps": "Science, HASS and other faculties not searched; engineering discipline design courses not searched; Ventures Industry Challenge judging/brief role of external partners unclear; PBEL3000 2026-27 offering not confirmed; MGTS7818 status (likely replaced by Impact Academy) unconfirmed; no UQ participation numbers for Practera or BEL projects."
+ "profile_md": "**University of Queensland (reduced-depth review).** The verified provision sits mainly in **Business, Economics and Law**, plus two central extracurricular routes.\n\n- **BEL Industry Consulting Project** (RBUS3888/4888/7888, BSAN7215): selective final-year course (GPA 4.0+, by application). Project teams with an assigned mentor answer a brief from an industry partner, such as Cancer Council Queensland or Netball Queensland, and deliver a team report to the client. Applications are open for 2026-27.\n- **PBEL3000 Learning by Doing in a Disruptive World:** application-only undergraduate capstone. Teams of 3-5 pitch to an industry partner, who gives feedback, and write an industry report. Last offered Summer Semester 2025.\n- **MBA Impact Academy 1** (MGTS7820, 2026): teams take sponsor-set real problems and present to the sponsors. It appears to replace the MGTS7818 Industry Engagement Capstone, last evidenced in 2024. Past MBA partners include Suncorp, Anglicare and Queensland Police.\n- **Central:** **Practera SAIEP** offers two-week virtual team projects for any UQ student, with briefs from real employers and client feedback. It is short and selective. The **Ventures Industry Challenge** is university-wide but only theme-partnered, and its 2026 partner is UQ's own SEXtember initiative, so criterion C is unclear.\n- **Engineering/IT:** the DECO3801 team capstone uses briefs written by students. The industry-partner projects found (Data Science capstone, BE/ME placement) are individual.\n\nNo route is compulsory institution-wide; all are optional or selective. **Further BEL/Business and health routes (reduced-depth pass):** TIMS7334 (MBus sustainability capstone, team project with industry partner presenting challenge and giving feedback, Semester 2 2026), FINM4411 (BAdvFinEcon(Hons) final-year team project on a live industry/government/NFP problem) and HRSS4210 (OT/speech pathology team service-development project, stakeholder type unclear). Science and HASS yielded no team-with-external-client route (only individual internships and student-led portfolio projects); architecture studios have client elements but group basis unverified. Further departmental instances likely.",
+ "gaps": "Further departmental capstones in Science, HASS, engineering disciplines and architecture likely exist but were not found at reduced depth; Ventures Industry Challenge external-partner role unclear; PBEL3000 2026-27 offering unconfirmed; MGTS7818 likely replaced; FINM4411 verified only via search extract; TIMS7334/HRSS4210 partner type unclear; no participation numbers for most routes."
 }

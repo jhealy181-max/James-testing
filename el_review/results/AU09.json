@@ -1,9 +1,9 @@
 {
  "inst_id": "AU09",
  "institution": "University of Technology Sydney",
- "review_status": "Partial",
- "partial_remaining": "The search budget ran out after 7 searches. Still to do: (1) faculty-level searches for business (consulting or capstone subjects), engineering and IT (capstones, software studios), science, arts and social sciences (communication, education), and other areas (design, architecture and building, law, health); (2) checking the TD Electives group/team format and assessment in the 2026 handbook subject pages (only search-summary paraphrases were obtained); (3) the Shopfront participating-subject list and a quoted team-format extract; (4) the participation mode of the BCII Industry Innovation Project.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -28,34 +28,60 @@
    "finding": "There are two central routes. The TD School runs Transdisciplinary Electives, a suite of 8 undergraduate electives, each built around a challenge co-designed with a named partner over three years. UTS Shopfront brokers community-organisation projects into coursework, where student teams act as consultants. The TD School also runs the Industry Innovation Project, a final-year partner project in the Bachelor of Creative Intelligence and Innovation (BCII)."
   },
   "business": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+   "status": "Searched",
+   "queries": [
+    "UTS Business School capstone subject client organisation student teams consulting project"
+   ],
+   "key_sources": [
+    "https://handbook.uts.edu.au/subjects/details/21698.html",
+    "https://www.uts.edu.au/about/faculties/business/partner-us/solve-your-business-challenges/experiential-learning-programs/strategic-design-studio"
+   ],
+   "finding": "Several Business School capstones surfaced (Managing for Social Impact 21698, Business Project: Marketing 24790, Applied Project in Marketing 24100, Business Analysis capstone 22319, Strategic Design Studio for EMBA), but only titles or search paraphrase were obtained; the 21698 handbook page fetched showed only 6cp. Not verifiable as current, so listed as evidence gaps."
   },
   "engineering_computing": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+   "status": "Searched",
+   "queries": [
+    "UTS engineering IT capstone project industry client team subject handbook 2026",
+    "UTS design architecture law health students teams live client project studio (Software Development Studio result)"
+   ],
+   "key_sources": [
+    "https://www.uts.edu.au/current-students/current-students-information-faculty-engineering-and-it/undergraduate/industry-studio/software-development-studio",
+    "https://www.uts.edu.au/globalassets/sites/default/files/Student_guide_to_capstone_project.pdf"
+   ],
+   "finding": "Software Development Studio (page fetched) qualifies on A/B/C. FEIT engineering capstone 41030 allows industry projects but these are optional, supervisor-led and individual/group not separable; IT group capstones (e.g. 31280, 41004) found only as list entries."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+   "status": "Searched",
+   "queries": [
+    "UTS Faculty of Science industry project subject students teams external partner"
+   ],
+   "key_sources": [
+    "https://uts.edu.au/about/faculty-science/our-industry-engagement/partnerships-and-collaborations/our-partners"
+   ],
+   "finding": "No current Faculty of Science team project subject with an external client found. A first-year Physical Modelling subject with CHOICE as external agent appeared only in a 2017 article (historical)."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+   "status": "Searched",
+   "queries": [
+    "UTS communication social sciences education students team project real client organisation subject",
+    "UTS Strategic Communication capstone subject real client group"
+   ],
+   "key_sources": [
+    "https://www.uts.edu.au/for-students/communication-and-social-sciences/strategic-communication",
+    "https://handbook.uts.edu.au/subjects/details/52677.html"
+   ],
+   "finding": "Strategic Communication capstone (page fetched) has real clients for a full semester but team format is not stated on the current page. SPS Professional Placement 52677 is an external-organisation project (80-100 hours) but placement-type with group format unevidenced. Education not surfaced."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run (200 calls per turn across all agents) ran out after 7 UTS searches. A follow-up run should cover this area."
+   "status": "Searched",
+   "queries": [
+    "UTS design architecture law health students teams live client project studio"
+   ],
+   "key_sources": [
+    "https://www.uts.edu.au/for-students/current-students/managing-your-course/current-students-information-engineering-and-information-technology/undergraduate/industry-studio/mechanical-and-mechatronic-design",
+    "https://handbook.uts.edu.au/subjects/11376.html"
+   ],
+   "finding": "Design/architecture: Live Project 1 (11376) and Design Innovation Research Centre client projects found as snippets only. Mechanical and Mechatronic Design industry studio (teams of 4-6 with clients) found as a snippet. No law or health live-client team subject surfaced."
   }
  },
  "schemes": [
@@ -84,7 +110,7 @@
    "project_based": "Yes",
    "project_evidence": "Each subject centres on a real-world challenge presented by an industry partner, and students develop projects and ideas in response [1][2][3]. Outputs in past offerings were proposals pitched to the partner (Red Cross, 2024) and presentation/poster/Miro board deliverables (95009, pre-2025) [4].",
    "group_working": "Yes",
-   "group_evidence": "Search summaries tied to the student-facing TD Electives page state that students from across all faculties collaborate in teams on the subject's challenge [1]. This is a search-summary paraphrase, not a quoted extract, and the team format in the 2026 handbook assessment was not verified. Downgrade to Unclear if the handbook shows individual assessment only.",
+   "group_evidence": "Student page (fetched): \"Collaborate in teams with students from all faculties across UTS\"; \"all about teamwork and real-world projects\" [6]. Team assessment format in the 2026 handbook not verified.",
    "employer_connected": "Yes",
    "employer_evidence": "Partner organisations co-design the challenge/learning question for three years, contribute pre-recorded learning modules, and take part in live engagements: Q&As, mentoring, and feedback on student ideas [2][3]. Every subject has a named partner (one 2026 listing showed TBC) [3].",
    "partner_type": "Mixed",
@@ -97,7 +123,7 @@
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2026",
    "participation_data": "",
-   "unresolved": "Group format rests on search-summary paraphrase. 2026 subject assessment details were not retrieved. The phrase 'eight electives embedded in every undergraduate degree' probably means availability of the suite, not compulsion, so the scheme is recorded as optional. Current delivery rests on the dated 2026 brochure and the 2026 handbook entry for 95010.",
+   "unresolved": "Whether assessment is a group output was not verified in 2026 handbook; the student page states teams. Page says \"eight electives are embedded in every undergraduate degree\" (availability, treated as optional elective). Delivery rests on dated 2026 brochure and 2026 handbook entry.",
    "legacy_ref": "Transdisciplinary electives",
    "sources": [
     {
@@ -107,7 +133,7 @@
      "section": "Student page",
      "pub_year": "undated",
      "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
+     "retrieval": "page text (re-fetched 2026-10-13; see source 6)",
      "extract": "Each TD elective subject involves a real-world challenge presented by an industry partner organisation; students from across all faculties collaborate in teams; BCII students choose a different elective.",
      "supports": [
       "project",
@@ -172,6 +198,23 @@
      "supports": [
       "status",
       "credit"
+     ]
+    },
+    {
+     "n": 6,
+     "url": "https://www.uts.edu.au/for-students/transdisciplinary-innovation/transdisciplinary-electives",
+     "title": "Transdisciplinary Electives at UTS",
+     "section": "Student page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"In each TD elective subject, you'll work on a real-world challenge presented by an industry partner organisation.\" \"Collaborate in teams with students from all faculties across UTS.\" \"Excludes students concurrently enrolled in the Bachelor of Creative Intelligence and Innovation.\"",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility"
      ]
     }
    ]
@@ -337,10 +380,198 @@
      ]
     }
    ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Software Development Studio (FEIT Industry Studio)",
+   "english_name": "Software Development Studio",
+   "module_code": "41113 / 41114 (6cp each), or alternate assessment in 48024, 31271, 48433, 31251",
+   "description": "Multi-year teams of 4-6 students (Bachelor of Engineering and IT students) deliver prototype/proof-of-concept solutions to problems posed by industry partners over one 12-week brief, using Agile cycles, with weekly face-to-face industry mentors and faculty coaches.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Engineering and IT (Industry Studios)",
+   "eligible_faculties_programmes": "Bachelor of Engineering, Bachelor of IT, BSc Games Development, BSc IT (Enterprise Systems Development); exceptions possible",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Multi-year teams; described as senior-level elective",
+   "eligibility_restrictions": "Listed FEIT degrees; study plan must permit",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6cp subjects 41113/41114, or alternate assessment item in four listed subjects",
+   "duration": "12 weeks, one brief",
+   "delivery_format": "Industry-brief team studio, in person, weekly mentor sessions",
+   "project_based": "Yes",
+   "project_evidence": "Teams \"deliver solutions for problems posed by industry\"; partners receive prototype proof-of-concept [1].",
+   "group_working": "Yes",
+   "group_evidence": "\"One brief, 12 weeks, teams of 4-6 students\"; teams of four or five members from different years [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partners provide the brief; industry mentors spend 1-2 hours weekly face to face; partners receive prototypes [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Supplies brief, mentors weekly, receives prototype",
+   "named_partners": "",
+   "deliverable": "Prototype / proof-of-concept software solution",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (page copyright only)",
+   "participation_data": "",
+   "unresolved": "Page gives no dated intake; only copyright 2026, so current delivery not confirmed. Partner sector not stated. Team size stated as both 4-5 and 4-6.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.uts.edu.au/current-students/current-students-information-faculty-engineering-and-it/undergraduate/industry-studio/software-development-studio",
+     "title": "Software Development Studio",
+     "section": "Industry Studio page",
+     "pub_year": "undated (copyright 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"One brief, 12 weeks, teams of 4-6 students\"; teams \"deliver solutions for problems posed by industry\"; \"half-a-dozen industry mentors who spend one to two hours weekly, face-to-face\".",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Strategic Communication capstone (client brief)",
+   "english_name": "Strategic Communication capstone",
+   "module_code": "not identified",
+   "description": "Capstone in UTS Strategic Communication degrees in which students spend a full semester on a brief from a real client (past clients include NSW Multicultural Health, Dropbox, Isentia, City of Sydney, The Hunger Project).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Communication, FASS",
+   "eligible_faculties_programmes": "Strategic Communication degrees",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "One semester",
+   "delivery_format": "Client brief",
+   "project_based": "Yes",
+   "project_evidence": "Semester-long brief from a real client [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Current page does not state team format; an older (about 8 years) news item reported teams of 4-6 pitching to one of five clients (search summary) [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real clients set the brief; named past clients [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client supplying brief",
+   "named_partners": "NSW Multicultural Health, Dropbox, Isentia, City of Sydney, The Hunger Project (past clients, undated)",
+   "deliverable": "Campaign/strategy for client (older source: pitch to client)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Subject code, group format and dated delivery not found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.uts.edu.au/for-students/communication-and-social-sciences/strategic-communication",
+     "title": "Strategic Communication degrees",
+     "section": "Capstone",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"In the capstone subject, you'll spend an entire semester working on a brief from a real client.\" \"Past clients include NSW Multicultural Health, Dropbox, Isentia, City of Sydney and The Hunger Project, to name a few.\"",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.uts.edu.au/about/faculty-arts-and-social-sciences/news/public-communication-students-pitch-industry",
+     "title": "Public Communication students pitch to industry",
+     "section": "News",
+     "pub_year": "undated (older)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Capstone teams of 4-6 developed an integrated communication campaign for one of five clients and pitched to the client.",
+     "supports": [
+      "group"
+     ]
+    }
+   ]
   }
  ],
- "exclusions": [],
+ "exclusions": [
+  {
+   "name": "Business School capstones (21698 Managing for Social Impact; 24790 Business Project: Marketing; 24100 Applied Project in Marketing; 22319 Business Analysis)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summaries suggest industry-engaged team work (21698 'small teams'), but handbook pages gave no description, client role or year.",
+   "source_url": "https://handbook.uts.edu.au/subjects/details/21698.html",
+   "status_note": "Further departmental instances likely"
+  },
+  {
+   "name": "Strategic Design Studio (EMBA)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Teams of 4-5 with start-ups/corporates/NFPs per search summary, but page undated and EMBA-only; not opened.",
+   "source_url": "https://www.uts.edu.au/about/faculties/business/partner-us/solve-your-business-challenges/experiential-learning-programs/strategic-design-studio",
+   "status_note": "undated"
+  },
+  {
+   "name": "Engineering Capstone 41030 / IT capstones (31280, 41004, 37500, 36127)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Industry projects are optional with third-party partner; group/individual not separable; IT group capstones seen only as list entries, 2021/2024 guides.",
+   "source_url": "https://www.uts.edu.au/globalassets/sites/default/files/Student_guide_to_capstone_project.pdf",
+   "status_note": "2026 handbook entries exist"
+  },
+  {
+   "name": "Mechanical and Mechatronic Design industry studio",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Snippet: teams of 4-6 with clients, final-year; page not opened or dated.",
+   "source_url": "https://www.uts.edu.au/for-students/current-students/managing-your-course/current-students-information-engineering-and-information-technology/undergraduate/industry-studio/mechanical-and-mechatronic-design",
+   "status_note": "undated"
+  },
+  {
+   "name": "SPS Professional Placement (52677)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "External-organisation research project co-designed with organisation, 80-100 hours, but placement-type; group format not evidenced.",
+   "source_url": "https://handbook.uts.edu.au/subjects/details/52677.html",
+   "status_note": "undated"
+  },
+  {
+   "name": "Physical Modelling (Science, CHOICE)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "2017 article only; current status unknown.",
+   "source_url": "https://futures.uts.edu.au/blog/2017/10/30/key-technology-partnership-teaching-excellence/",
+   "status_note": "historical"
+  },
+  {
+   "name": "Design Innovation Research Centre client projects; Master of Architecture Live Project 1 (11376)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Research centre acts through university staff (internal); Live Project 1 individual or studio, no external client evidenced.",
+   "source_url": "https://handbook.uts.edu.au/subjects/11376.html",
+   "status_note": ""
+  }
+ ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**UTS (partial review; the search budget ran out after the central searches).** Two central routes were verified.\n\n**Transdisciplinary (TD) Electives** are 8 TD School subjects (6 or 8 cp) open to undergraduates across UTS, except BCII students. Each subject is paired with a partner on a three-year cycle; 2026 partners are UNICEF Australia, City of Sydney, Microsoft, Miro, Lane Cove Council and ServiceRocket. Partners co-design the challenge, record learning content, and mentor and give feedback in live sessions. Students from across faculties work in teams on proposals. The team format comes from search summaries, not quoted handbook text. The route is optional and elective, and 2026 delivery is confirmed.\n\n**UTS Shopfront** brokers projects from not-for-profits and social enterprises into coursework subjects. Students, usually final-year or postgraduate, work in teams as consultants for credit. It reports more than 1,698 cumulative projects (May 2026). The participating subjects were not identified.\n\nThe **Industry Innovation Project** is a 13-week final-year BCII subject. Teams of 5–7 work with an industry mentor and present prototypes and a report to the partner (2026).\n\nNo faculty-level searches were run (business, engineering/IT, science, design, law, health). Further departmental capstones and studios are very likely and remain unassessed.",
- "gaps": "Faculty-level provision was not searched at all because the search budget ran out. Also unresolved: group format of the TD Electives in the 2026 handbook; Shopfront host subjects; whether the Industry Innovation Project is core to BCII. Further departmental instances likely (e.g. engineering/IT capstones, business consulting subjects, design studios)."
+ "profile_md": "**UTS (reduced-depth, all six areas queried).** Qualifying or near-qualifying routes were found centrally and in one faculty.\n\n**TD Electives** (TD School, 8 subjects, 6-8cp): the student page states each elective has \"a real-world challenge presented by an industry partner organisation\" and \"Collaborate in teams with students from all faculties\"; partners (UNICEF Australia, City of Sydney, Microsoft, Miro, Lane Cove Council, ServiceRocket in 2026) co-design the challenge, mentor and give feedback. Optional, open to undergraduates except BCII students.\n\n**Industry Innovation Project** (BCII final year): 13-week teams of 5-7 with partner mentors. **UTS Shopfront** brokers charity/community projects into coursework as team consultancies, but host subjects are unidentified.\n\n**Software Development Studio** (FEIT): teams of 4-6 deliver prototypes for industry-posed briefs over 12 weeks with weekly industry mentors; optional, listed FEIT degrees; page undated (copyright 2026) so current delivery unconfirmed.\n\n**Strategic Communication capstone**: semester-long real-client brief; team format not stated.\n\nBusiness, engineering capstone, design and science instances were seen only as titles or snippets. Provision is distributed across several routes; no compulsory institution-wide route found.",
+ "gaps": "Business School capstones, engineering/IT capstones, Mechanical and Mechatronic Design studio, Strategic Design Studio: not verified beyond snippets; further departmental instances likely. Shopfront host subjects and Industry Innovation Project core status unresolved. SDS and Strategic Communication lack dated delivery evidence. Law and health: no live-client team subject surfaced (one combined search only). 2026 handbook assessment for TD Electives not retrieved."
 }

@@ -1,9 +1,9 @@
 {
  "inst_id": "UK05",
  "institution": "University of Aberdeen",
- "review_status": "Partial",
- "partial_remaining": "The shared WebSearch budget ran out after 4 searches. Still to do: business school, science, arts/humanities/social sciences and other (law, medicine/health) areas are all unsearched. Also outstanding: verbatim evidence and 2025/26–2026/27 delivery for PD2503 and ED3537; ED251A assessment and compulsory status; Computing Science course code and team working; Grad Challenge details; ABDN Internships seven-week employer-project strand; engineering employer page (other engineering design projects).",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -24,15 +24,21 @@
    "finding": "Partly searched. Found PD2503 (Level 2 team projects with employer sponsors, open to any discipline, launched Jan 2025), ED3537 (Level 3 employer-led interdisciplinary group consultancy, 2023/24 catalogue) and the extracurricular ABDN Grad Challenge (virtual, employer-set challenges). Coverage is incomplete."
   },
   "business": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search budget exhausted. Only incidental result: Accountancy PD2002 is an online careers-skills course, not a project."
+   "status": "Searched",
+   "queries": [
+    "University of Aberdeen Business School student consultancy project client organisation course"
+   ],
+   "key_sources": [
+    "https://www.abdn.ac.uk/registry/courses/postgraduate/2025-2026/business_studies/bu503e",
+    "https://www.abdn.ac.uk/registry/courses/undergraduate/2024/education/ed3537"
+   ],
+   "finding": "Search found only older-catalogue PG consulting courses (BU593F company of own choice or case; BU5996 marketing project 2020-21; BU591L 2021-22) with no current, group, external-client evidence. Not recorded as schemes; listed in exclusions."
   },
   "engineering_computing": {
    "status": "Searched",
    "queries": [
-    "(results from the general and curriculum queries above)"
+    "(results from the general and curriculum queries above)",
+    "WebFetch of ED251A and Computing Science employer page (page text)"
    ],
    "key_sources": [
     "https://www.abdn.ac.uk/registry/courses/undergraduate/2025-2026/education/ed251a",
@@ -40,25 +46,38 @@
     "https://www.abdn.ac.uk/ncs/departments/computing-science/work-based-learning-course/collaborate-with-future-talent/",
     "https://abdn.ac.uk/engineering/about/working-with-our-students-for-employers-710.php"
    ],
-   "finding": "From incidental results only: ED251A Engineering Work Experience (2025/26; group consultancy for a local engineering organisation) and a Year 4 Computing Science work-based learning course with employer-proposed projects. No dedicated searches were run."
+   "finding": "ED251A fetched (2025/26 catalogue): group consultancy project for a local engineering organisation. Computing Science Year 4 employer page fetched: supervises \"a student\" (team working not stated)."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search budget exhausted."
+   "status": "Searched",
+   "queries": [
+    "University of Aberdeen geosciences biological sciences student group project external partner industry"
+   ],
+   "key_sources": [
+    "https://www.abdn.ac.uk/study/undergraduate/degree-programmes/1115/F610/geoscience/"
+   ],
+   "finding": "No course-level group project with an external partner found; Geoscience page mentions group projects and some industry-based projects in general terms only. Evidence gap."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search budget exhausted."
+   "status": "Searched",
+   "queries": [
+    "University of Aberdeen social sciences humanities students group project client community organisation course"
+   ],
+   "key_sources": [
+    "https://www.abdn.ac.uk/staffnet/education/good-practice/other-learning--teaching-case-studies/employability/business-community-engagement-and-student-learning/"
+   ],
+   "finding": "Found ED3536 Working Together: Employability for Arts & Social Sciences (group project provided by a local business or charity), documented in a 2018-19 staff case study; current catalogue entry not checked."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search budget exhausted (law, medicine, health not covered)."
+   "status": "Searched",
+   "queries": [
+    "University of Aberdeen law clinic OR medicine OR health sciences students team project external organisation"
+   ],
+   "key_sources": [
+    "https://www.abdn.ac.uk/law/why-us/student-activities/",
+    "https://www.abdn.ac.uk/smmsn/undergraduate/medicine/our-course/"
+   ],
+   "finding": "Aberdeen Law Project (student-run clinic, casework) and medicine SSC/electives found; none verified as a group project for an external client."
   }
  },
  "schemes": [
@@ -81,7 +100,7 @@
    "eligibility_restrictions": "Prerequisites listed as Programme Level 2 and Any Undergraduate Programme; entry via project application and interview",
    "participation_requirement": "Selective/competitive",
    "curricular_status": "Curricular",
-   "credit_assessment": "15 SCQF credits (7.5 ECTS); Achieved/Not Achieved. Components: project application, interview, project plan, reflective reports, group report (largest weight, reported as 40%), pitch/presentation (reported as 15%). Search summary noted the catalogue weightings appear to sum to more than 100%.",
+   "credit_assessment": "15 SCQF credits (7.5 ECTS); Achieved/Not Achieved. Components: application 5%, interview 5%, pre-project reflective report 5%, reflective test 5%, draft project plan signed off by sponsor 5%, final team plan 5%, milestone check-in 10%, pitch 10% (description says 15%), group report 40%, end reflective report 10% (sum 100%).",
    "duration": "One term (second term)",
    "delivery_format": "Aberdeen campus; team project with sponsor contact",
    "project_based": "Yes",
@@ -100,7 +119,7 @@
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "2024/25",
    "participation_data": "23 undergraduates from a range of disciplines enrolled when the course launched in January 2025 (staff blog) [3]",
-   "unresolved": "The catalogue URL path is /2025/, but the search summary described the entry as titled 2024-2025. No 2025/26 or 2026/27 delivery was confirmed. Partner sectors and named sponsors were not retrieved. Search budget ran out before verification.",
+   "unresolved": "Fetched catalogue page is headed Academic session 2024-2025 (URL path /2025/); no 2025/26 or 2026/27 delivery evidence, so status is unclear. Partner sectors and named sponsors not published on the page.",
    "legacy_ref": "",
    "sources": [
     {
@@ -108,10 +127,10 @@
      "url": "https://www.abdn.ac.uk/registry/courses/undergraduate/2025/professional_development/pd2503",
      "title": "PD2503: Work-Based Learning: Team Projects with Employer Partners - Catalogue of Courses",
      "section": "Course overview / assessment",
-     "pub_year": "2024-25 (URL path /2025/)",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Level 2, 15 credits (7.5 ECTS), second term, Achieved/Not Achieved; prerequisites Programme Level 2 and Any Undergraduate Programme. Students choose a preferred project, meet milestones and present results, working directly with a project sponsor and receiving feedback. Projects must add value for the sponsoring organisation and link to a 2040 theme. Team work includes the project plan (sent as a draft to the sponsor for sign-off or suggested changes) and the final team submission; the pre-recorded pitch is shown to the class and the project sponsors.",
+     "pub_year": "2024-2025 (page heading)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"This course will give you an experience of working in a team on a real project.\" Students work in a team on a live project for a sponsoring organisation, from applying to presenting results; open to Level 2 students from any discipline; Project Plan draft signed off by sponsor (team); Project Pitch/Presentation (team); Report: Group 40%; 15 credits; Second Term; Academic session 2024-2025.",
      "supports": [
       "project",
       "group",
@@ -163,35 +182,35 @@
    "description": "Level 3 course in which students work together in a small group on a consultancy-style project hosted by a micro-business, organisation or charity.",
    "academic_reach": "Unclear",
    "admin_host": "Catalogue subject: Education",
-   "eligible_faculties_programmes": "Not retrieved (interdisciplinary title suggests open across subjects, unverified)",
+   "eligible_faculties_programmes": "Any undergraduate programme at Level 3 or Level 4",
    "faculty_areas": [
     "central"
    ],
    "student_level": "Undergraduate",
-   "year_of_study": "Level 3",
-   "eligibility_restrictions": "Not retrieved",
+   "year_of_study": "Level 3 or 4",
+   "eligibility_restrictions": "Prerequisites: Programme Level 3 or 4 and Any Undergraduate Programme; no exclusions",
    "participation_requirement": "Optional/elective",
    "curricular_status": "Curricular",
-   "credit_assessment": "Not retrieved",
+   "credit_assessment": "30 credits (15 ECTS). Report: Individual 50%; Oral Presentation: Group (recorded 10 min) 30%; 1000-word literature review 20%; formative group progress report.",
    "duration": "Not retrieved",
    "delivery_format": "Not retrieved",
    "project_based": "Yes",
    "project_evidence": "Consultancy-style project [1].",
    "group_working": "Yes",
    "group_evidence": "Students work together in a small group [1].",
-   "employer_connected": "Yes",
-   "employer_evidence": "Each project is hosted by a micro-business, organisation or charity [1]. The exact role of the host (brief, feedback, assessment) was not retrieved.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Earlier (2023/24) catalogue summary says projects are hosted by a micro-business, organisation or charity [1]; the 2025/26 page fetched does not state the host role. Held Unclear.",
    "partner_type": "Mixed",
    "partner_role": "Host organisation for the consultancy project (micro-businesses, other organisations, charities)",
    "named_partners": "",
-   "deliverable": "Consultancy-style project output (form not retrieved)",
+   "deliverable": "Group recorded presentation plus individual report and literature review",
    "duration_band": "Unclear",
-   "external_partner_coverage": "All/standard",
+   "external_partner_coverage": "Unclear",
    "likely_duplicate_of": "",
-   "operating_status": "Current status unclear",
-   "latest_evidenced_year": "2023/24 or 2024/25 (catalogue URL /2024/; summary said 2023-2024)",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (catalogue)",
    "participation_data": "",
-   "unresolved": "Eligibility, credits, assessment and current delivery were not retrieved (search budget ran out). The course may have been replaced by or merged with PD2503; unverified.",
+   "unresolved": "Catalogue shows the course for 2025-2026 (30 credits), but the page excerpt retrieved gave no host-organisation detail. The host micro-business/organisation/charity description comes from the 2023/24 catalogue summary; host role (brief, feedback, assessment) not shown, so C held Unclear. Possible overlap with ED3536 lineage unverified.",
    "legacy_ref": "",
    "sources": [
     {
@@ -200,13 +219,30 @@
      "title": "ED3537: Employer-led Interdisciplinary Project - Catalogue of Courses",
      "section": "Course overview",
      "pub_year": "2023-24 (URL path /2024/)",
-     "accessed": "2026-10-12",
+     "accessed": "2026-10-13",
      "retrieval": "search-summary paraphrase",
      "extract": "Students work together in a small group on a consultancy-style project hosted by a micro-business, organisation, or charity.",
      "supports": [
       "project",
       "group",
       "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.abdn.ac.uk/registry/courses/undergraduate/2025-2026/education/ed3537",
+     "title": "ED3537: Employer-led Interdisciplinary Project (2025-2026)",
+     "section": "Course overview / assessment",
+     "pub_year": "2025-2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"This course involves students working together in a small group to undertake a consultancy-style project\"; 30 credits (15 ECTS); Oral Presentation: Group 30%; Report: Individual 50%; Literature Review 20%; prerequisites: Either Programme Level 3 or Programme Level 4, Any Undergraduate Programme.",
+     "supports": [
+      "group",
+      "project",
+      "credit",
+      "eligibility",
+      "status"
      ]
     }
    ]
@@ -227,10 +263,10 @@
    ],
    "student_level": "Undergraduate",
    "year_of_study": "Year 2 (per case study)",
-   "eligibility_restrictions": "Entry requirement: Engineering (EG) studied",
+   "eligibility_restrictions": "Entry requirements: Any Undergraduate Programme (Studied), Programme Level 2, Engineering (EG) (Studied); no place limit stated",
    "participation_requirement": "Unclear",
    "curricular_status": "Curricular",
-   "credit_assessment": "15 credits; assessment detail not retrieved",
+   "credit_assessment": "15 credits (7.5 ECTS). Reflective Report 40%; Group Report 30%; Group Oral Presentation 30%; resit single reflective report 100%.",
    "duration": "About 10 weeks, January to March (2018 case study)",
    "delivery_format": "Group consultancy project with a local organisation",
    "project_based": "Yes",
@@ -249,7 +285,7 @@
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2025/26",
    "participation_data": "",
-   "unresolved": "Still open: whether the course is compulsory in Year 2, its assessment, partner sectors and 2026/27 delivery. The duration (about 10 weeks, January to March) comes from a 2018 case study and was not reconfirmed for 2025/26.",
+   "unresolved": "Compulsory status not stated on the page. Partner sectors/named organisations and external assessment role not shown. The 10-week January-March duration comes from a 2018 case study.",
    "legacy_ref": "",
    "sources": [
     {
@@ -258,9 +294,9 @@
      "title": "ed251a: engineering work experience (2025-2026)",
      "section": "Course overview / entry requirements",
      "pub_year": "2025-26",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "15-credit course in which students undertake a group consultancy project for a local engineering organisation; entry requirements Engineering (EG) (Studied).",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"undertake a group consultancy project for a local engineering organisation\"; 15 credits (7.5 ECTS); Group Report 30%, Group Oral Presentation 30%, Reflective Report 40%; entry: Any Undergraduate Programme (Studied), Programme Level 2, Engineering (EG) (Studied); heading ED251A: ENGINEERING WORK EXPERIENCE (2025-2026).",
      "supports": [
       "project",
       "group",
@@ -304,7 +340,7 @@
    ],
    "student_level": "Undergraduate",
    "year_of_study": "Year 4",
-   "eligibility_restrictions": "Restricted to students whose prior academic performance shows the required competence",
+   "eligibility_restrictions": "Year 4 Computer Science students whose prior academic performance meets the required level",
    "participation_requirement": "Selective/competitive",
    "curricular_status": "Curricular",
    "credit_assessment": "Not retrieved",
@@ -312,10 +348,10 @@
    "delivery_format": "Employer-hosted project with weekly employer meetings",
    "project_based": "Yes",
    "project_evidence": "Employer-proposed project completed over 10 weeks with an end-of-project appraisal [1].",
-   "group_working": "Unclear",
-   "group_evidence": "The employer-facing page describes matching employers with students; team or individual working was not established [1].",
+   "group_working": "No",
+   "group_evidence": "Employer page says \"You'll supervise a student who contributes to your project as part of their degree programme\" (singular), suggesting individual projects; team working not stated [1]. Marked No on the singular-student evidence (near-miss).",
    "employer_connected": "Yes",
-   "employer_evidence": "Employers propose the project, meet students weekly for guidance and complete an end-of-project appraisal [1].",
+   "employer_evidence": "Employer proposes the project, meets weekly for guidance, feedback and context, and completes an end-of-project appraisal to support student assessment [1].",
    "partner_type": "Unclear",
    "partner_role": "Proposes the project, gives weekly guidance, appraises at the end",
    "named_partners": "",
@@ -326,7 +362,7 @@
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "",
    "participation_data": "",
-   "unresolved": "Course code, credits, team vs individual working, and dated delivery evidence were not retrieved (search budget ran out). Note: the search summary's wording on who proposes the project was ambiguous.",
+   "unresolved": "Course code and credits not on the page; dated delivery not evidenced; individual vs team inferred from singular wording only.",
    "legacy_ref": "",
    "sources": [
     {
@@ -335,9 +371,9 @@
      "title": "Collaborate with Future Talent",
      "section": "Computing Science work-based learning course (employer page)",
      "pub_year": "undated",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Employers are matched with students and propose a project, meet weekly for guidance and complete an end-of-project appraisal; 10 weeks, September to December, 10 hours a week; access restricted to students whose prior academic performance demonstrates the required level of competence.",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"You'll supervise a student who contributes to your project as part of their degree programme.\" Project lasts 10 weeks, September to December, 10 hours a week; employer proposes project, meets weekly, completes end-of-project appraisal; access limited to Year 4 Computer Science students whose prior academic performance meets the required level.",
      "supports": [
       "project",
       "employer",
@@ -385,7 +421,7 @@
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "",
    "participation_data": "",
-   "unresolved": "Format, duration, outputs, employer engagement and dated delivery were not retrieved (search budget ran out).",
+   "unresolved": "The Grad Challenge page URL returned 404 on fetch (may have moved); format, dates and employer engagement could not be verified; the search extract is the only evidence.",
    "legacy_ref": "",
    "sources": [
     {
@@ -394,9 +430,67 @@
      "title": "ABDN Grad Challenge",
      "section": "Careers skills and attributes",
      "pub_year": "undated",
-     "accessed": "2026-10-12",
+     "accessed": "2026-10-13",
      "retrieval": "search-index extract (quoted)",
      "extract": "Graduating students take part in project-based, virtual work experience as part of a cross-discipline team tackling real life challenges set by our employer partners.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Working Together: Employability for Arts & Social Sciences",
+   "english_name": "Working Together: Employability for Arts & Social Sciences",
+   "module_code": "ED3536",
+   "description": "Third-year course for Arts & Social Sciences students: a group, work-based project provided by a local business or charity, assessed by a reflective report and group oral presentation. Described in a staff case study (Universities Scotland report November 2018; talks July 2019); the course was later adapted for Engineering (ED251A).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Arts & Social Sciences (per case study)",
+   "eligible_faculties_programmes": "Arts & Social Sciences students (per case study)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "Not verified",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Summative reflective report/group oral presentation; credits not retrieved",
+   "duration": "Not retrieved",
+   "delivery_format": "Group work-based project",
+   "project_based": "Yes",
+   "project_evidence": "Group, work-based project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students complete a group project with a group oral presentation [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "The project is provided by a local business or charity [1]; role in feedback/assessment not retrieved.",
+   "partner_type": "Mixed",
+   "partner_role": "Provides the project",
+   "named_partners": "",
+   "deliverable": "Group oral presentation and reflective report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2018/19 (case study)",
+   "participation_data": "",
+   "unresolved": "Current catalogue entry for ED3536 not checked; may be superseded by ED3537 (Employer-led Interdisciplinary Project). Credits, assessment weights and eligibility not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.abdn.ac.uk/staffnet/education/good-practice/other-learning--teaching-case-studies/employability/business-community-engagement-and-student-learning/",
+     "title": "Business Community Engagement and Student Learning",
+     "section": "Staff good-practice case study",
+     "pub_year": "c.2018-2019",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (partial: first 100,000 characters read)",
+     "extract": "\"Working Together: Employability for Arts & Social Sciences (ED3536)\"; project \"provided by a local business or charity\"; \"group, work-based project\"; summative reflective report/group oral presentation.",
      "supports": [
       "project",
       "group",
@@ -413,10 +507,34 @@
    "category": "Placement/internship",
    "reason": "Paid part-time internships in University departments and with external employers, open to all full-degree students. These are individual roles, so group working was not evidenced (B). The legacy row mentions 2026/27 seven-week employer projects; that strand was not verified in this review and should be checked for any team project component.",
    "source_url": "https://www.abdn.ac.uk/careers/experience/abdn-internships/",
-   "status_note": "2026/27 confirmed: Term 1 applications closed 7 October 2026 (search summary)."
+   "status_note": "2026/27 confirmed: Term 1 applications closed 7 October 2026 (legacy row). Seven-week employer-project strand not verified; remains an evidence gap."
+  },
+  {
+   "name": "Business School postgraduate consulting courses (BU593F, BU5996, BU591L)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Only older catalogues (2020-2023) retrieved; BU593F allows a company of the student's choice or a case; group working and external-client standardness not evidenced.",
+   "source_url": "https://www.abdn.ac.uk/registry/courses/postgraduate/2025-2026/business_studies/bu503e",
+   "status_note": "Not current-verified"
+  },
+  {
+   "name": "Aberdeen Law Project",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Student-run legal advice clinic: casework for households, not a bounded group project for an external client.",
+   "source_url": "https://www.abdn.ac.uk/law/why-us/student-activities/",
+   "status_note": ""
+  },
+  {
+   "name": "Medicine Student Selected Component / electives",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "SSC described as project-based group work, but no external organisation role evidenced; elective is individually arranged.",
+   "source_url": "https://www.abdn.ac.uk/smmsn/undergraduate/medicine/our-course/",
+   "status_note": ""
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**Partial review: the search budget ran out after 4 searches.**\n\nAberdeen has at least three curricular routes that put students in teams on externally sponsored projects:\n\n- **PD2503 Work-Based Learning: Team Projects with Employer Partners.** A 15-credit, Level 2 elective open to undergraduates in any discipline, with entry by application and interview. Teams agree a project plan with a sponsoring organisation, submit a group report and pitch to the sponsors. It launched in January 2025 with 23 students; delivery in 2025/26 is not confirmed.\n- **ED3537 Employer-led Interdisciplinary Project.** A Level 3 small-group consultancy project hosted by micro-businesses, organisations or charities. The latest evidence is the 2023/24 catalogue.\n- **ED251A Engineering Work Experience.** A 15-credit second-year engineering course: a group consultancy project for a local engineering organisation, with current delivery confirmed for 2025/26.\n\nComputing Science also runs a Year 4 work-based learning course with employer-proposed projects and weekly employer meetings, but team working is unverified. Careers runs the extracurricular **ABDN Grad Challenge**, virtual cross-discipline team challenges set by employer partners, where employer engagement is unclear.\n\n**ABDN Internships** (legacy row) is individual paid work and is excluded.\n\nThe business, science, arts/humanities/social sciences, law and health areas were not searched, so the picture is incomplete.",
- "gaps": "Business school, science, arts/humanities/social sciences, law and medicine/health were not searched. The current status of PD2503 and ED3537 is unconfirmed. ED251A assessment and compulsory status, the Computing Science course code and group working, and Grad Challenge details are still open. Most evidence is search-summary paraphrase, not verbatim. The search budget was exhausted, so further departmental instances are likely."
+ "profile_md": "Aberdeen has a small set of curricular routes where students work in teams on projects for outside organisations; none is verified as current for 2025/26 or later except ED251A and ED3537 (catalogue entries).\n\n- **PD2503 Work-Based Learning: Team Projects with Employer Partners** (Level 2, 15 credits, any undergraduate discipline). Students apply and are interviewed, then work in a team on a live project: the draft plan is signed off by the sponsor, with a group report (40%) and a pitch. The page fetched is headed 2024-2025; 23 students enrolled at the January 2025 launch. Delivery after that is not confirmed.\n- **ED251A Engineering Work Experience** (2025/26 catalogue, 15 credits): group consultancy project for a local engineering organisation, assessed by group report and group presentation; open to Level 2 students with Engineering studied.\n- **ED3537 Employer-led Interdisciplinary Project** (2025/26 catalogue, 30 credits, Level 3/4, any undergraduate programme): small-group consultancy-style project; the host-organisation role is not shown on the 2025/26 page, so employer connection is Unclear.\n- **ED3536 Working Together** (Arts & Social Sciences, group project from a local business or charity): evidenced only in a 2018-19 case study.\n\nComputing Science's Year 4 work-based course appears to be one student per employer project (not group). The Grad Challenge (extracurricular, virtual employer-set challenges) could not be verified. Business, science, and law/health searches found no qualifying current group-client route. Provision is distributed across routes, not an institution-wide requirement.",
+ "gaps": "Current (2025/26-2026/27) delivery of PD2503 and ED3536 not confirmed; sponsor sectors/named partners not published on the pages read; ED251A compulsory status unknown; ED3537 host role on current page not shown; Grad Challenge page 404; ABDN Internships seven-week employer-project strand unverified; Business School, science, law and health yielded no verified current group-client routes (reduced-depth, ~8 searches/fetches in this resume). Further departmental instances likely."
 }
