@@ -1,9 +1,9 @@
 {
  "inst_id": "UK02",
  "institution": "University of St Andrews",
- "review_status": "Partial",
- "partial_remaining": "Science, arts/humanities/social sciences and other (Medicine, Divinity) areas not searched; Business School consultancy-project module not identified; VIP project list not checked for external partners; Playfair not researched. Stopped after 8 searches because the shared per-turn WebSearch limit (200 calls) was exhausted.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -11,7 +11,8 @@
     "St Andrews Vertically Integrated Projects VIP external partner team credits 2026",
     "St Andrews student consultancy project live client team",
     "VIP projects external partner organisation company charity students team",
-    "Summer Team Enterprise Programme STEP St Andrews consulting project 2026"
+    "Summer Team Enterprise Programme STEP St Andrews consulting project 2026",
+    "WebFetch VIP projects page; St Andrews Playfair pro bono consultancy students clients charities"
    ],
    "key_sources": [
     "https://www.st-andrews.ac.uk/education/vip/students/",
@@ -25,13 +26,14 @@
    "status": "Searched",
    "queries": [
     "School of Management St Andrews consultancy project organisation students group MSc module",
-    "Management MSc St Andrews \"consultancy projects\" local organisations"
+    "Management MSc St Andrews \"consultancy projects\" local organisations",
+    "WebFetch Management MSc page; St Andrews School of Management module consultancy project client organisation team MN"
    ],
    "key_sources": [
     "https://www.st-andrews.ac.uk/subjects/management/management-msc/",
     "https://archive.st-andrews.ac.uk/courses/2025-2026/pg/management-mlitt/"
    ],
-   "finding": "Management MSc/MLitt pages advertise consultancy projects with local organisations but the underlying module, team structure and client role were not identified before the search budget ran out."
+   "finding": "Management MSc/MLitt pages advertise consultancy projects with local organisations but the underlying module, team structure and client role were not identified before the search budget ran out. Fetching the Management MSc page (2026-10-13) shows six compulsory modules and 15 options, none a named consultancy module, and no mention of group work."
   },
   "engineering_computing": {
    "status": "Searched",
@@ -47,22 +49,35 @@
    "finding": "CS3099 third-year software engineering team project (current 2026/27) has documented involvement of Experian and Skyscanner, but their role is not specified (C Unclear). St Andrews has no engineering school; computing only."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared per-turn web search limit was reached after 8 searches."
+   "status": "Searched",
+   "queries": [
+    "St Andrews School of Biology OR Geography OR Physics OR Chemistry module group project external partner client"
+   ],
+   "key_sources": [
+    "https://www.st-andrews.ac.uk/subjects/biology/biology-mbiol/",
+    "https://www.st-andrews.ac.uk/subjects/chemistry/chemistry-mchem/"
+   ],
+   "finding": "No science module with a group project for an external client surfaced. Final-year projects are individual and run in research groups; Physics 1B has a group element with no outside partner; Biology MBiol placements may be external but are individual. VIP is the only team route."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared per-turn web search limit was reached (VIP covers some arts-faculty participation but no AHSS-specific routes were searched)."
+   "status": "Searched",
+   "queries": [
+    "St Andrews Economics OR International Relations OR Psychology OR English group project external organisation client module"
+   ],
+   "key_sources": [
+    "https://www.st-andrews.ac.uk/subjects/international-relations/international-relations-ma/"
+   ],
+   "finding": "International Relations lists group projects as an assessment type but no external client is mentioned. No external-client module found in Economics, Psychology or English."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched (Medicine, Divinity): the shared per-turn web search limit was reached."
+   "status": "Searched",
+   "queries": [
+    "St Andrews Medicine OR Divinity OR Law student project community partner team module"
+   ],
+   "key_sources": [
+    "https://www.st-andrews.ac.uk/subjects/medicine/scotgem-mbchb/"
+   ],
+   "finding": "ScotGEM MBChB has Agents of Change projects (voluntary sector placement, healthcare improvement); group structure and organisation role not described. Nothing found for Law or Divinity."
   }
  },
  "schemes": [
@@ -93,7 +108,7 @@
    "group_working": "Yes",
    "group_evidence": "'A VIP brings together a student team formed from different disciplines and levels of study' [3]; the team addresses research questions jointly [2].",
    "employer_connected": "Unclear",
-   "employer_evidence": "Projects are academic research projects led by a supervisor [3]. No VIP-wide evidence of external organisations setting briefs or receiving outputs. The St Andrews Forest VIP involves 'practitioners and our neighbours', but its report is commissioned by the University's Environmental Sustainability Board (internal) [4]. No list of VIPs naming external companies or charities was found.",
+   "employer_evidence": "Projects are academic research projects led by a supervisor [3]. No VIP-wide evidence of external organisations setting briefs or receiving outputs. The St Andrews Forest VIP involves 'practitioners and our neighbours', but its report is commissioned by the University's Environmental Sustainability Board (internal) [4]. No list of VIPs naming external companies or charities was found. WebFetch of the VIP projects page (2026-10-13): 19-21 projects listed (e.g. Mutual Aid Clinic, Beauty and the Biz, PeaceHub, Biodiversity Literacy) and 'None of the projects names an external partner organisation, company, or charity'; the page states no faculty eligibility.",
    "partner_type": "Unclear",
    "partner_role": "Mostly internal academic research; occasional external practitioners/community participants in individual projects",
    "named_partners": "",
@@ -104,7 +119,7 @@
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2026/27",
    "participation_data": "",
-   "unresolved": "Which of the current VIP projects (projects page) involve external organisations as brief-setters or recipients; faculty eligibility (legacy: Arts and Science) not re-verified because the search budget was exhausted.",
+   "unresolved": "Faculty eligibility not stated on projects page (legacy row says Arts and Science); the page does not name external partners, so C stays Unclear.",
    "legacy_ref": "Vertically Integrated Projects (VIP)",
    "sources": [
     {
@@ -174,6 +189,20 @@
      "retrieval": "search-summary paraphrase",
      "extract": "Projects accept applications on a rolling basis and may close once desired numbers are reached.",
      "supports": [
+      "eligibility"
+     ]
+    },
+    {
+     "n": 6,
+     "url": "https://www.st-andrews.ac.uk/education/vip/projects/",
+     "title": "VIP projects list",
+     "section": "Projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary)",
+     "extract": "Lists 17 closed and 2 forthcoming projects; no external partner organisation named in any project description; no faculty eligibility stated.",
+     "supports": [
+      "employer",
       "eligibility"
      ]
     }
@@ -358,7 +387,7 @@
    "student_level": "Postgraduate taught",
    "year_of_study": "One-year MSc",
    "eligibility_restrictions": "Management MSc students",
-   "participation_requirement": "Unclear",
+   "participation_requirement": "Optional/elective",
    "curricular_status": "Unclear",
    "credit_assessment": "Not identified",
    "duration": "Not identified",
@@ -366,7 +395,7 @@
    "project_based": "Unclear",
    "project_evidence": "'Consultancy projects' named [1], but no brief, output or module description found.",
    "group_working": "Unclear",
-   "group_evidence": "No team evidence for the consultancy projects; MLitt archive page mentions 'consultancy projects, and team activities' separately [2].",
+   "group_evidence": "Page (fetched 2026-10-13) does not mention group work; teaching is lectures, tutorials, workshops and seminars. The six compulsory modules and 15 options listed include no named consultancy module, so the consultancy opportunity is not shown to be a core assessed route.",
    "employer_connected": "Unclear",
    "employer_evidence": "Projects are 'with local organisations' [1]; worded as an 'opportunity', role of organisations not described.",
    "partner_type": "Unclear",
@@ -389,7 +418,7 @@
      "section": "Course overview (2027 entry)",
      "pub_year": "2027 entry",
      "accessed": "2026-10-12",
-     "retrieval": "search-index extract (quoted)",
+     "retrieval": "page text (WebFetch summary)",
      "extract": "Includes practical elements where students apply theory to real organisations, and 'the opportunity to work on consultancy projects with local organisations'.",
      "supports": [
       "project",
@@ -410,17 +439,81 @@
      ]
     }
    ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "St Andrews Playfair Consultancy Group",
+   "english_name": "St Andrews Playfair Consultancy Group (student-run pro bono consultancy society)",
+   "module_code": "",
+   "description": "Student-run society providing pro bono consulting to local, national and international organisations. Per its listings, teams of about 5-6 student consultants are assigned to each project; two cycles of about 10 weeks per year; services include market entry strategy, competitive analysis and organisational restructuring. Recent clients named include Kidscape and Streetbox. Student-run, not a University scheme.",
+   "academic_reach": "Unclear",
+   "admin_host": "Student society",
+   "eligible_faculties_programmes": "Not established (selection criteria not retrieved)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not established",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "About 10 weeks per cycle, two cycles a year",
+   "delivery_format": "Student consulting teams",
+   "project_based": "Yes",
+   "project_evidence": "Consulting projects (market entry, competitive analysis, restructuring) for client organisations [1].",
+   "group_working": "Yes",
+   "group_evidence": "Dedicated student-led teams of about 5-6 consultants per project [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External clients (charities to tech companies; Kidscape, Streetbox named) commission the projects [1]. Evidence is a search-summary of Playfair/Gradcracker listings and a University graduation citation; WebFetch of the Gradcracker page returned 403.",
+   "partner_type": "Mixed",
+   "partner_role": "Client commissioning consulting project",
+   "named_partners": "Kidscape, Streetbox (undated listing)",
+   "deliverable": "Consulting recommendations/report (form not retrieved)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated (2023 graduation citation mentions ten completed projects in that year)",
+   "participation_data": "Ten projects completed in one year per a graduation citation (c.2023)",
+   "unresolved": "Current activity, University recognition and who may join; evidence is secondary and undated. Student-led so not a University-provided structure.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.gradcracker.com/student-societies/4370/st-andrews-playfair-consultancy-group",
+     "title": "St Andrews Playfair Consultancy Group",
+     "section": "Society profile",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Student-run consulting firm providing pro-bono services to local, national and international organisations; teams of approximately 5 to 6 consultants; two project cycles a year of about 10 weeks; recent clients include Kidscape and Streetbox.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.st-andrews.ac.uk/graduation/archive/2023/principals-medal-isabelle-molinari/",
+     "title": "Principal's Medal Isabelle Molinari",
+     "section": "Citation",
+     "pub_year": "2023",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Society rebuilt after the pandemic and completed ten projects over the year.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
-  {
-   "name": "Playfair (student-led pro bono consultancy)",
-   "legacy": false,
-   "category": "Evidence gap",
-   "reason": "Mentioned on Careers page as a student-led pro bono consultancy firm; student-run rather than University-run and no evidence on client briefs, teams or current activity was retrieved (search budget exhausted).",
-   "source_url": "https://www.st-andrews.ac.uk/careers/career-options/sectors/business/",
-   "status_note": "Undated careers page"
-  },
   {
    "name": "St Andrews Innovation consultancy services",
    "legacy": false,
@@ -436,9 +529,17 @@
    "reason": "Replaces the dissertation with taking 'a real business idea from concept to action plan'; no external client brief evidenced.",
    "source_url": "https://www.st-andrews.ac.uk/subjects/management/entrepreneurship-msc/",
    "status_note": "Current course page"
+  },
+  {
+   "name": "ScotGEM MBChB Agents of Change projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Voluntary sector placement and healthcare improvement projects in years 1, 3, 4; page does not describe group work, outputs or the external organisation's role.",
+   "source_url": "https://www.st-andrews.ac.uk/subjects/medicine/scotgem-mbchb/",
+   "status_note": "Current course page"
   }
  ],
- "embeddedness": "Unclear",
- "profile_md": "**St Andrews** (partial review, 8 searches): **no qualifying scheme verified through the documented search so far**. Several group project routes were found, but none has evidence that an external organisation is the standard client.\n\n- **Vertically Integrated Projects (VIP):** credit-bearing modules (10-30 SCOTCAT per semester; 5 for returners) in which a supervisor leads a mixed-discipline, mixed-level student team working on an ongoing research project. Applications for 2026/27 opened in April 2026. Projects are academic-led. External practitioners appear only in individual projects (e.g. St Andrews Forest), and that project's report goes to an internal University board, so C is Unclear.\n- **STEP (Summer Team Enterprise Programme):** an online 7-week programme for teams of 6-7 undergraduates, running in 2026 and recorded on the HEAR. The consulting projects are designed by University staff for University Schools and service units, so they are internal clients (C = No).\n- **CS3099 Software Engineering Team Project:** a year-3 group software build (30 credits, running in 2026/27). A 2025 blog reports Experian and Skyscanner involvement, but their role is not described.\n- **Management MSc:** the course page advertises 'consultancy projects with local organisations', but the module was not identified.\n\nScience, AHSS, Medicine and Divinity were not searched because the search budget was exhausted.",
- "gaps": "Review incomplete: science, AHSS and other areas not searched; Business School consultancy module (MSc/MLitt) not identified; VIP project-level external partners not enumerated; VIP faculty eligibility (legacy: Arts and Science) not re-verified; CS3099 partner role and compulsory status unknown; Playfair pro bono consultancy (student-led) not examined; 2026 STEP project list not retrieved."
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "**St Andrews** (reduced-depth review, six areas queried): no scheme was verified that meets all three criteria with a documented external client and current delivery.\n\n- **VIP:** credit-bearing mixed-discipline research teams (applications for 2026/27 confirmed). Fetching the projects page shows 19 projects, none naming an external partner, so C is Unclear. Faculty eligibility is not stated (legacy row says Arts and Science).\n- **STEP:** online 7-week team consulting projects in 2026, but the clients are University Schools and units (internal, C = No).\n- **CS3099:** year-3 team software project with Experian and Skyscanner involvement reported in 2025, role unspecified.\n- **Management MSc:** advertises consultancy projects with local organisations, but no corresponding compulsory module or group structure was found.\n- **Playfair:** student-run pro bono consultancy with teams of 5-6 and external clients, but evidence is secondary and undated and it is not a University scheme.\n\nScience, humanities/social science, Medicine, Divinity and Law yielded no external-client team routes. Provision is isolated and mostly internal or research-led.",
+ "gaps": "Further departmental instances may exist but were not found in reduced-depth search. Open items: VIP faculty eligibility and external partners per project; CS3099 partner role and whether compulsory; the Management MSc module behind 'consultancy projects'; Playfair current status and eligibility; ScotGEM Agents of Change group/partner role; Law and Divinity only lightly searched (one combined query); one query per area only."
 }
