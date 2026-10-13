@@ -1,15 +1,20 @@
 {
  "inst_id": "RG08",
  "institution": "University of Glasgow",
- "review_status": "Partial",
- "partial_remaining": "(1) central: verify the Embedding Employability 'Experiential Learning Guide: Consultancy' (gla.ac.uk, MyGlasgow learning & teaching / employability pages) and search central routes (Careers Service employer projects, any university-wide interdisciplinary employer challenge, College of Social Sciences/Arts work-related projects); reassess legacy COIL row against A/B/C (gla.ac.uk/explore/internationalisation/coil/) - currently a provisional exclusion. (2) business: confirm whether the UG 'Small Business Consultancy Project' course card (gla.ac.uk/undergraduate/degrees/businessmanagement/courses/smallbusinessconsultancyproject) is the same course as MGT4091 or a separate course, and get its description; get group/team and dated-cohort evidence for the Adam Smith Consultancy Experience (S1) and whether it is the partner-facing umbrella for S2/S4 and other PGT consultancy routes; verify MSc Environment & Sustainable Development 'consultancy experience' in place of dissertation (gla.ac.uk/postgraduate/taught/environmentsustainabledevelopment/); verify MGT5475P group/external-org evidence; check MBA participation requirement for BUS5052. (3) engineering_computing, science, arts_humanities_social_sciences, other: not searched (e.g. Computing Science team projects with external clients, Engineering design projects with industry, Science/Geography consultancy, School of Education challenge-based dissertations, Law/Medicine/Vet).",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search limit. The one query for the Embedding Employability 'Experiential Learning Guide: Consultancy' was refused (session limit). The Adam Smith Consultancy Experience was searched under 'business' (it is hosted by the Business School's External Engagement team)."
+   "status": "Searched",
+   "queries": [
+    "University of Glasgow Experiential Learning Guide Consultancy employability client project students"
+   ],
+   "key_sources": [
+    "https://www.gla.ac.uk/myglasgow/learningandteaching/studentskills/enhance/guides/experientiallearningguideconsultancy/",
+    "https://www.gla.ac.uk/colleges/socialsciences/students/employability/forstaff/work-relatedlearning/"
+   ],
+   "finding": "Embedding Employability 'Experiential Learning Guide: Consultancy' is a staff framework guide (lecturer identifies a client; individual or team-based), not a scheme; College of Social Sciences work-related learning page describes consultation projects generically. No university-wide employer-project scheme verified."
   },
   "business": {
    "status": "Searched",
@@ -23,7 +28,8 @@
     "Business and Management Honours consultancy project course MGT4 client organisation group report presentation",
     "MGT4091 Integrating Business and Management in Practice assessment live organisation client",
     "Glasgow Business & Management course \"Small Business Consultancy\" SME client students recommendations (no results)",
-    "MGT5181 International Management Solutions client organisations team consultancy 2026-27"
+    "MGT5181 International Management Solutions client organisations team consultancy 2026-27",
+    "Experiential Learning in Management case study (fetched)"
    ],
    "key_sources": [
     "https://www.gla.ac.uk/schools/business/connections/",
@@ -32,31 +38,49 @@
     "https://www.gla.ac.uk/coursecatalogue/course/?code=MGT5181",
     "https://www.gla.ac.uk/postgraduate/taught/internationalbusiness/"
    ],
-   "finding": "Adam Smith Business School has several live-client group consultancy courses: MBA Group Consultancy Project BUS5052 (2-week, 2026-27), UG Honours capstone MGT4091 (live client, group presentation to client, 2025-26) and MSc International Business MGT5181 (team consultancy for internationalising firms, 2026-27), plus a partner-facing Adam Smith Consultancy Experience inviting organisations' briefs for 2027. Partial: the UG 'Small Business Consultancy Project' course card could not be read and its link to MGT4091 is unconfirmed."
+   "finding": "Adam Smith Business School has several live-client group consultancy courses: MBA Group Consultancy Project BUS5052 (2-week, 2026-27), UG Honours capstone MGT4091 (live client, group presentation to client, 2025-26) and MSc International Business MGT5181 (team consultancy for internationalising firms, 2026-27), plus a partner-facing Adam Smith Consultancy Experience inviting organisations' briefs for 2027. Partial: the UG 'Small Business Consultancy Project' course card could not be read and its link to MGT4091 is unconfirmed. Resumed 2026-10-13: Adam Smith Consultancy Experience page re-fetched; MGT4019 case study found."
   },
   "engineering_computing": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search limit reached (session WebSearch cap hit on the 10th search)."
+   "status": "Searched",
+   "queries": [
+    "University of Glasgow computing science team project external client industry partner course",
+    "University of Glasgow engineering team design project industry client James Watt School"
+   ],
+   "key_sources": [
+    "https://www.gla.ac.uk/schools/computing/industry/softwareteamproject/",
+    "https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI3004"
+   ],
+   "finding": "Computing Science year-3 Team Project with real customers found (S5). Engineering: group design projects exist but no external-client evidence found."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search limit reached (session WebSearch cap hit on the 10th search)."
+   "status": "Searched",
+   "queries": [
+    "University of Glasgow School of Geographical earth sciences consultancy group project external organisation course"
+   ],
+   "key_sources": [
+    "https://www.gla.ac.uk/schools/ges/"
+   ],
+   "finding": "No Geography/Earth Science course with group external-client project verified."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search limit reached (session WebSearch cap hit on the 10th search)."
+   "status": "Searched",
+   "queries": [
+    "University of Glasgow social sciences arts students group project real client organisation course catalogue"
+   ],
+   "key_sources": [
+    "https://www.gla.ac.uk/colleges/socialsciences/students/employability/forstaff/work-relatedlearning/"
+   ],
+   "finding": "Only generic College of Social Sciences work-related learning/consultation project description; no named group client course verified."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search limit reached (session WebSearch cap hit on the 10th search)."
+   "status": "Searched",
+   "queries": [
+    "University of Glasgow law clinic OR veterinary OR medicine students project external organisation group"
+   ],
+   "key_sources": [
+    "https://www.gla.ac.uk/schools/law/gojustice/gojustice-getinvolved/"
+   ],
+   "finding": "Law clinics (referral-based casework) and LLM collaborative dissertations (individual); no qualifying group project verified."
   }
  },
  "schemes": [
@@ -94,11 +118,11 @@
    "deliverable": "Consultancy research, analysis and recommendations (format not evidenced)",
    "duration_band": "Unclear",
    "external_partner_coverage": "All/standard",
-   "likely_duplicate_of": "",
+   "likely_duplicate_of": "S2",
    "operating_status": "Announced/forthcoming",
    "latest_evidenced_year": "2027 (brief call)",
    "participation_data": "",
-   "unresolved": "Probably the partner-facing umbrella for the School's PGT/UG consultancy courses (e.g. S2, S4, MSc Environment & Sustainable Development consultancy experience); if so it should be marked umbrella/likely duplicate. Team working and a dated delivered cohort are not evidenced. Page metadata suggested last update roughly late 2025.",
+   "unresolved": "Page (fetched 2026-10-13) does not state teams, courses, duration or dates; names only one testimonial partner (The Resolutionists). Probably the partner-facing intake for School consultancy courses (S2-S4, S6) so flagged as likely duplicate; not counted separately.",
    "legacy_ref": "",
    "sources": [
     {
@@ -108,8 +132,8 @@
      "section": "Adam Smith Consultancy Experience - submit a brief",
      "pub_year": "2027 round",
      "accessed": "2026-10-12",
-     "retrieval": "search-index extract (quoted)",
-     "extract": "'submit your project brief below for the 2027 Adam Smith Consultancy Experience'; benefits: 'free consultancy, fresh perspectives, global insights, and in-depth research and analysis'; 'Students bring innovative thinking and evidence-based recommendations to real business challenges.' Contact: External Engagement team.",
+     "retrieval": "page text",
+     "extract": "'submit your project brief below for the 2027 Adam Smith Consultancy Experience'; benefits: 'free consultancy, fresh perspectives, global insights, and in-depth research and analysis'; 'Students bring innovative thinking and evidence-based recommendations to real business challenges.' Contact: External Engagement team. Fetched page does not specify teams, courses, duration or dates.",
      "supports": [
       "project",
       "employer",
@@ -245,7 +269,7 @@
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2025/26 (course entry); listed in 2026-27 Management course list",
    "participation_data": "",
-   "unresolved": "Whether MGT4091 is the UG 'Small Business Consultancy Project' course card on the 2027 Business & Management page (gla.ac.uk/undergraduate/degrees/businessmanagement/courses/smallbusinessconsultancyproject) or a separate course; whether it is the compulsory Honours 'integrative experiential learning course' [2]; assessment weightings; client types. Duration band reflects the single timetabled week; preparation outside Week 11 not evidenced.",
+   "unresolved": "Whether MGT4091 is the UG 'Small Business Consultancy Project' course card on the 2027 Business & Management page (gla.ac.uk/undergraduate/degrees/businessmanagement/courses/smallbusinessconsultancyproject) or a separate course; whether it is the compulsory Honours 'integrative experiential learning course' [2]; assessment weightings; client types. Duration band reflects the single timetabled week; preparation outside Week 11 not evidenced. Business & Management 2027 page (fetched) confirms an Honours core 'integrative experiential learning course' (no code given); the 'Small Business Consultancy Project' course card page content could not be obtained, so the link to MGT4091 remains unconfirmed.",
    "legacy_ref": "",
    "sources": [
     {
@@ -354,16 +378,153 @@
      ]
     }
    ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Team Project 3 (Software Team Project)",
+   "english_name": "Team Project 3 (Software Team Project)",
+   "module_code": "COMPSCI3004",
+   "description": "Year-long third-year team software project for Computer Science and Software Engineering students with real customers: customers submit projects, students bid, the customer selects a team; teams work one day a week, meet the customer regularly on requirements and progress, and deliver a software product. Senior students mentor teams.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing Science",
+   "eligible_faculties_programmes": "Third-year Computer Science and Software Engineering students",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "Entry requirements and co-requisite (Professional Software Development (H)) per catalogue",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits; four 25% components: progress demonstrations/requirements reviews, software engineering practice, final software product, case-study dissertation on team experience",
+   "duration": "Year-long (one day per week)",
+   "delivery_format": "In person team lab-based, flipped classroom",
+   "project_based": "Yes",
+   "project_evidence": "Final software product for a customer's project [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'substantial team based software project'; customer selects a team [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Customers submit projects, select a team, and meet students regularly on requirements and progress [1]; students work with a customer to elaborate and refine requirements [2].",
+   "partner_type": "Unclear",
+   "partner_role": "Customer supplies project, selects team, meets regularly",
+   "named_partners": "",
+   "deliverable": "Working software product plus case-study dissertation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "",
+   "unresolved": "Customers described as 'real customers'; sector/internal-vs-external mix not stated (some may be university staff). Compulsory status not stated. Software Team Project page undated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.gla.ac.uk/schools/computing/industry/softwareteamproject/",
+     "title": "Software Team Project",
+     "section": "Industry & Innovation",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'year long Team Project with real customers' in third year; customers submit projects, students bid, each customer selects a team; regular customer meetings; teams have one day a week.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI3004",
+     "title": "Team Project 3 COMPSCI3004",
+     "section": "Course catalogue",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "30 credits; 'substantial team based software project'; 'Work with a customer in a problem domain to elaborate, specify and refine requirements'; four 25% components.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Entrepreneurial Ventures Management & Growth",
+   "english_name": "Entrepreneurial Ventures Management & Growth",
+   "module_code": "MGT4019",
+   "description": "UG Business course in which randomised teams of 4-5 each solve a real consultancy issue for a single client organisation (charities, social enterprises), with a practising consultant mentor per team; teams present to the teaching team then to their client and submit a report.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Adam Smith Business School",
+   "eligible_faculties_programmes": "Third- and fourth-year undergraduates",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 3-4",
+   "eligibility_restrictions": "Not obtained",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not obtained (presentation, written report, individual reflection)",
+   "duration": "Weeks 5-10 of a term (per case study)",
+   "delivery_format": "Teams with consultant mentors; client presentation week 9-10",
+   "project_based": "Yes",
+   "project_evidence": "Each group solves a real consultancy issue; report and presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Randomised teams of four or five [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Single real client organisation per group (charities/social enterprises); groups present to clients [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client with real issue; receives presentation",
+   "named_partners": "",
+   "deliverable": "Report, client presentation, individual reflection",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2023 (case study references)",
+   "participation_data": "50 students in the class (undated case study)",
+   "unresolved": "Case study undated and references 2023 and pandemic online delivery; course catalogue entry not checked, so current delivery unconfirmed; optional status inferred, not stated. Partner type 'charities and social enterprises' may not be exhaustive.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.gla.ac.uk/myglasgow/learningandteaching/activelearning/casestudies/experiential-learning-in-management/",
+     "title": "Experiential Learning in Management",
+     "section": "Case study",
+     "pub_year": "undated (refs 2023)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Class of 50 split into randomised teams of four or five, each 'assigned to solve a real consultancy issue for a single client organisation'; present to clients in week nine or ten.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
   {
    "name": "Collaborative Online International Learning (COIL)",
    "legacy": true,
-   "category": "Evidence gap",
-   "reason": "Provisional: not reassessed (search limit). Legacy row describes virtual collaboration with international partner institutions within participating courses; no evidence obtained of an external employer/organisation setting a brief or receiving outputs (C), and group project format depends on the course. To be reassessed on resume.",
+   "category": "Other",
+   "reason": "Reassessed: COIL is a virtual collaboration framework between partner universities; no external employer/organisation setting briefs or receiving outputs evidenced (C not met); not a project scheme in itself.",
    "source_url": "https://www.gla.ac.uk/explore/internationalisation/coil/",
-   "status_note": "Undated page (legacy)"
+   "status_note": "Undated page; not fetched"
   },
   {
    "name": "Dissertation (MBA) MGT5019P",
@@ -388,9 +549,49 @@
    "reason": "Group evidence gathering with group video presentation and individual reports; no evidence obtained of an external organisation setting the brief or receiving outputs.",
    "source_url": "https://www.gla.ac.uk/coursecatalogue/course/?code=MGT5475P",
    "status_note": ""
+  },
+  {
+   "name": "Experiential Learning Guide: Consultancy (Embedding Employability Framework)",
+   "legacy": false,
+   "category": "WIL framework",
+   "reason": "Staff guidance on designing consultancy projects (individual or team-based; client may be organisation, charity, entrepreneur); not itself a scheme.",
+   "source_url": "https://www.gla.ac.uk/myglasgow/learningandteaching/studentskills/enhance/guides/experientiallearningguideconsultancy/",
+   "status_note": ""
+  },
+  {
+   "name": "College of Social Sciences work-related learning consultation projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Generic description that organisations can propose projects; no named course, group working or delivery evidence.",
+   "source_url": "https://www.gla.ac.uk/colleges/socialsciences/students/employability/forstaff/work-relatedlearning/",
+   "status_note": ""
+  },
+  {
+   "name": "School of Law GO Justice clinics / LLM collaborative dissertations",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Referral-based clinic casework and individual student-partner dissertations; group project not evidenced.",
+   "source_url": "https://www.gla.ac.uk/schools/law/gojustice/gojustice-getinvolved/",
+   "status_note": ""
+  },
+  {
+   "name": "James Watt School of Engineering design projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Group design and final-year industrial project mentioned on programme page; no external-client evidence obtained.",
+   "source_url": "https://www.gla.ac.uk/undergraduate/degrees/mechanicaldesignengineering/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Environment & Sustainable Development consultancy experience",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Lead from earlier run; not verified in reduced-depth mode.",
+   "source_url": "https://www.gla.ac.uk/postgraduate/taught/environmentsustainabledevelopment/",
+   "status_note": ""
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**Partial review (search limit reached after 10 searches; only the Business School was searched).**\n\nThe Adam Smith Business School runs several live-client group consultancy courses:\n- **MBA Group Consultancy Project (BUS5052)**: 10 credits, 2026-27 catalogue. MBA groups take on a client brief, engage with and manage the client, and spend about 70 hours over two weeks producing a group executive-summary report (65%) and a 30-minute group presentation (35%).\n- **Integrating Business and Management in Practice (MGT4091)**: a 15-credit Level 4 capstone (2025-26). Groups meet a real 'live' client in an intensive Week 11, then present strategic recommendations to the client in a 30-minute group presentation. It is probably the Honours 'integrative experiential learning course', and possibly the UG 'Small Business Consultancy Project' course card. Neither link is confirmed.\n- **International Management Solutions (MGT5181)**: 20 credits, 2026-27. MSc International Business teams carry out a live consultancy for organisations seeking to internationalise, with a client introduction meeting and a group report and presentation.\n\nThe partner-facing **Adam Smith Consultancy Experience** asks organisations to submit project briefs for 2027 in return for free student consultancy. It probably channels clients into these courses. Team working and a dated cohort are not yet evidenced for it.\n\nAll verified routes are programme-embedded PGT/UG business courses. None is university-wide. Client sectors and names were not evidenced.\n\nNot yet searched: central provision (including the Embedding Employability 'Experiential Learning Guide: Consultancy' and the legacy COIL row), engineering/computing, science, arts/humanities/social sciences, and law/health. Embeddedness is therefore provisional.",
- "gaps": "Central, engineering_computing, science, AHSS and other areas not searched (search limit). Embedding Employability 'Experiential Learning Guide: Consultancy' unverified. UG 'Small Business Consultancy Project' content and its relation to MGT4091 unverified. Adam Smith Consultancy Experience: team working, programme linkage and delivered cohorts unverified. MSc Environment & Sustainable Development 'consultancy experience' in place of dissertation is an unverified lead. Participation requirement (compulsory vs optional) unknown for S2-S4. No client names/sectors evidenced. Further departmental consultancy instances in the Business School are likely."
+ "profile_md": "Glasgow's qualifying provision is programme-embedded, concentrated in the Adam Smith Business School with one computing route; nothing university-wide was verified.\n\n- **MBA Group Consultancy Project (BUS5052, 2026-27):** MBA groups manage a client and respond to a client brief over ~70 hours in two weeks; group report (65%) and 30-minute presentation (35%).\n- **International Management Solutions (MGT5181, 2026-27):** MSc International Business teams run a live consultancy for firms seeking to internationalise; group report and presentation; client introduction meeting.\n- **Integrating Business and Management in Practice (MGT4091, 2025-26):** Honours capstone in one intensive week; groups meet a live client and present recommendations to them. Probably the Honours core 'integrative experiential learning course', but not confirmed.\n- **Team Project 3 (COMPSCI3004, 2026-27):** 30-credit, year-long third-year team software project for real customers who submit projects and select teams. Customer sector and internal/external mix are not stated.\n- **Entrepreneurial Ventures Management & Growth (MGT4019):** teams of 4-5 consult for real charity/social-enterprise clients with consultant mentors; current delivery is not confirmed (undated case study).\n\nThe Adam Smith Consultancy Experience is a partner-facing call for briefs (2027); the page names no courses or teams, so it is treated as a likely duplicate of the courses above. The Embedding Employability consultancy guide is staff guidance, not a scheme. Compulsory status and client names are not evidenced for any route. Engineering, science, arts/social science and law/health searches found no verified group external-client project.",
+ "gaps": "Compulsory vs optional status unknown for S2-S5. Client names/sectors not evidenced (S5 customer type unclear). MGT4091 link to the UG 'Small Business Consultancy Project' course card unconfirmed. MGT4019 current delivery unconfirmed. Engineering design/industrial projects, MSc Environment & Sustainable Development consultancy, College of Social Sciences consultation projects not verified (reduced-depth). Further departmental instances likely."
 }

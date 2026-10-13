@@ -7,7 +7,7 @@ Companion to `University_experiential_learning_detailed_review.xlsx` (scheme IDs
 
 ### Birmingham (RG01, UK)
 
-**Review:** Partial — remaining: Shared WebSearch budget exhausted after 14 searches. Remaining: science (Biosciences, Geography/Earth & Environmental Sciences, Mathematics, Psychology); social sciences (INLOGOV/public policy consultancy, Government & Society, Education, Social Policy); arts & humanities (Professional Skills Module current format, cultural-sector projects); other (Law pro bono/clinics, Medicine/Health, Dentistry); computing (MSc/Year 2 team projects with industry); engineering module-level evidence for industry-set group design projects; current-year corroboration for S5/S6; MBA Grow Movement detail. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 4
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 4
 
 **Birmingham** has several distributed live-project routes. Most are **short, extracurricular and centrally run**, with smaller programme-embedded provision in the Business School.
 
@@ -21,7 +21,9 @@ Companion to `University_experiential_learning_detailed_review.xlsx` (scheme IDs
   - **Masters/MBA Company Projects** tackle live business challenges, but it is unclear whether they are done in groups.
 - **Engineering:** MEng group design projects are only described as "industry-linked". The **Chemical Engineering** design project is recorded as Unclear.
 
-**Limits:** the review is **Partial**. The shared search limit was reached after 14 searches. Science beyond Physics, most social sciences and humanities, Law, Health and Education remain largely unsearched, so further departmental routes are likely.
+**Other areas (reduced depth):** a Law Pro Bono/FLAG clinic (student pairs advising real clients under solicitor supervision) is recorded but its external-organisation status is Unclear; a compulsory Year 2 Mathematics industry-problem module is a lead only. Social science, Biosciences, Geography and Health searches found no client-based group modules.
+
+**Limits:** reduced-depth review; further departmental routes likely.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
@@ -32,8 +34,10 @@ Companion to `University_experiential_learning_detailed_review.xlsx` (scheme IDs
 | RG01-S05 | MSc Strategic Marketing and Consulting: Consultancy Skills and Practice (group consultancy project) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear  |
 | RG01-S06 | Masters Company Projects (Birmingham Business School) | Faculty/school | Optional/elective | Yes/Unclear/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear  |
 | RG01-S07 | Chemical / Energy Engineering final-year industry-linked design project | Programme/course | Unclear | Yes/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear  |
+| RG01-S08 | Mathematical Challenge: Problem Solving and Programming in Business and Industry | Programme/course | Compulsory within specified programmes | Unclear/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear  |
+| RG01-S09 | Law Pro Bono Group: Birmingham Free Legal Advice Group (FLAG) and clinics | Faculty/school | Optional/elective | Yes/Yes/Unclear | Other | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 |
 
-**Uncertain / unresolved:** Science, social sciences, humanities, law and health largely unsearched (search limit). Engineering group design projects lack evidence of industry-set briefs. Current-year evidence missing for the SMC MSc and Company Projects. Birmingham Project partner count conflicts (7 vs 8 for 2026). Capgemini Community Challenge eligibility conflicts between pages. Further departmental instances likely.
+**Uncertain / unresolved:** Further departmental instances likely. Engineering group design projects lack evidence of industry-set briefs. Current-year evidence missing for SMC MSc and Company Projects. Maths Mathematical Challenge module partner/team format unverified. Education, Psychology and Biosciences only lightly searched. Birmingham Project partner count conflict (7 vs 8). Capgemini eligibility conflict.
 
 ### Bristol (RG02, UK)
 
@@ -99,7 +103,7 @@ Participation is mostly optional or within named programmes; only a few routes a
 
 ### Cardiff (RG04, UK)
 
-**Review:** Partial — remaining: Search budget exhausted (shared per-turn WebSearch limit reached after 24 searches). Not yet searched: health/medical schools (Medicine, Dentistry, Healthcare Sciences, Nursing, Pharmacy, Optometry, Psychology), JOMEC Journalism, History/Archaeology, Social Sciences, Music. Not verified: Student Enterprise programmes and annual report, FinTech Wales Skills Challenge, Public Value Hackathon, Business School Opportunities Zone 'live business projects'. Also needed: dated 2025/26 corroboration for S2-S5, and group-structure evidence for S4, S7 and S10. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
 
 **Cardiff** has employer-linked group project provision concentrated in **computing** and the **Business School** (mostly postgraduate). No university-wide route was verified.
 
@@ -131,11 +135,11 @@ Participation is mostly optional or within named programmes; only a few routes a
 | RG04-S10 | Welsh School of Architecture live projects (MArch 'Design in Practice'; Grangetown/Community Gateway) | Faculty/school | Unclear | Yes/Unclear/Unclear | Charity/community | Potentially relevant; evidence incomplete | Current status unclear 2020 |
 | RG04-S11 | Bremen-Cardiff Initiative on Sustainability and Entrepreneurship | Unclear | Selective/competitive | Unclear/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2024/25 |
 
-**Uncertain / unresolved:** Review is Partial (see partial_remaining). Key gaps: health schools not searched; science covered by one search only; group structure for MBA live project, MSc SPD Live Project and architecture live projects; whether MSc Business Management Consultancy Challenge always has an external client; dated 2025/26 evidence for Business School routes; whether engineering MSc group projects routinely have company partners and on which programmes; Bremen-Cardiff eligibility and any external problem owner; Student Enterprise annual report content; FinTech Wales Skills Challenge and Public Value Hackathon format. Further departmental instances are likely (e.g. NSA MSc Software Engineering, Computer Science MSc, Journalism).
+**Uncertain / unresolved:** Review is Partial (see partial_remaining). Key gaps: health schools not searched; science covered by one search only; group structure for MBA live project, MSc SPD Live Project and architecture live projects; whether MSc Business Management Consultancy Challenge always has an external client; dated 2025/26 evidence for Business School routes; whether engineering MSc group projects routinely have company partners and on which programmes; Bremen-Cardiff eligibility and any external problem owner; Student Enterprise annual report content; FinTech Wales Skills Challenge and Public Value Hackathon format. Further departmental instances are likely (e.g. NSA MSc Software Engineering, Computer Science MSc, Journalism). Reduced-depth round: WebFetch returned 403 for cardiff.ac.uk so no page text was obtained; health schools and Journalism remain unverified after one search.
 
 ### Durham (RG05, UK)
 
-**Review:** Partial — remaining: Search limit reached (200/turn). Remaining: (1) student-facing eligibility, selection, dates and current-cohort evidence for the central Mini Consultancy Competition; (2) whether MSc Business Analytics projects are team or individual and current-year availability; (3) SOCI43715 Participatory Action Research community-partner role and Sociology/Anthropology/SGIA/Education/Psychology applied-project modules; (4) Medicine/health, Education, Theology and Law clinic-type provision; (5) dated confirmation and external share for PHYS3581 clients and for Engineering Design industry client role; (6) whether Industrial Problem Solving still runs. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
 
 Durham's verified employer-linked group project provision is **distributed across departments rather than institution-wide**, with a small central employer-facing offer. The clearest current routes are two curricular modules: **COMP2281 Software Engineering** (compulsory Year 2 Computer Science teams build a substantial software project in partnership with an external organisation; listed available 2025/26) and **GEOL4091 Earth Sciences into Industry** (optional Level 4 group project in which a client, typically an external organisation, sets the problem and deliverables and receives the groups' presented solution; 60% group report, listed 2025/26).
 
@@ -153,7 +157,7 @@ No university-wide or compulsory-for-all route was found. Remaining uncertainty:
 | RG05-S06 | Industrial Problem Solving (IPS) | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Historical delivery only 2019 |
 | RG05-S07 | Engineering Design (year-long team project, Years 2-3) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear  |
 
-**Uncertain / unresolved:** Search limit reached before checking Participatory Action Research (SOCI43715) and further arts/social science, education, health and law clinic provision. Further departmental instances likely (Engineering design/capstone with Industrial Partnership Committee partners, Biosciences, Psychology, Education). Central Mini Consultancy Competition lacks student-side eligibility, date and cohort evidence. Many sources are undated module/course pages or search-summary paraphrases of them; page contents were not opened directly.
+**Uncertain / unresolved:** Search limit reached before checking Participatory Action Research (SOCI43715) and further arts/social science, education, health and law clinic provision. Further departmental instances likely (Engineering design/capstone with Industrial Partnership Committee partners, Biosciences, Psychology, Education). Central Mini Consultancy Competition lacks student-side eligibility, date and cohort evidence. Many sources are undated module/course pages or search-summary paraphrases of them; page contents were not opened directly. Resume pass (2026-10-13, 3 searches): Mini Consultancy student-side selection/team details still not found (employer-side page only: 3 teams, 3 weeks); MSc Business Analytics team vs individual still unconfirmed; PHYS3581 external share not stated.
 
 ### Edinburgh (RG06, UK)
 
@@ -190,7 +194,7 @@ Mostly postgraduate and programme-bound; undergraduate access is limited to the 
 
 ### Exeter (RG07, UK)
 
-**Review:** Partial — remaining: Search budget exhausted after 24 searches. Remaining: 'other' area (Law clinics, Medicine/Health, Psychology, Sport) unsearched; AHSS only one discovery search (Liberal Arts/Sociology external research-challenge modules, Politics/Q-Step, History/heritage, English/Film); ECMM427 customer identity; MSc Marketing and Business Analytics consulting project format; dated 2025/26-2026/27 evidence for Future17 and BEMM149; One Planet MBA team challenges (LCIC/GSC). · **Embeddedness:** Unclear · **Current qualifying schemes:** 0
+**Review:** Complete · **Embeddedness:** Unclear · **Current qualifying schemes:** 1
 
 **Exeter** has two university-wide extracurricular routes. Embedded programme provision is mainly in the Business School. Review incomplete (search budget exhausted).
 
@@ -210,7 +214,7 @@ Mostly postgraduate and programme-bound; undergraduate access is limited to the 
 | RG07-S01 | Grand Challenges | University-wide | Optional/elective | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (June 2026 challenges, 2025/26) |
 | RG07-S02 | Grand Challenges - Education Innovation: Industry-led Enquiry Group with Amazon Web Services | University-wide | Optional/elective | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 |
 | RG07-S03 | Future17 (BEP3172 (credit route via APEL)) | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2024/25 |
-| RG07-S04 | Business Project (MSc Management) (BEMM149) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear  |
+| RG07-S04 | Business Project (MSc Management) (BEMM149) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2025/26 |
 | RG07-S05 | Research and Consultancy Project (BEMM771) | Programme/course | Unclear | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Historical delivery only 2018/19 |
 | RG07-S06 | Practice-Based Consultancy Management (BEP3020) | Programme/course | Unclear | Yes/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2024/25 |
 | RG07-S07 | Consulting project (MSc Marketing and Business Analytics) | Programme/course | Optional/elective | Yes/Unclear/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear  |
@@ -221,24 +225,21 @@ Mostly postgraduate and programme-bound; undergraduate access is limited to the 
 | RG07-S12 | MSci Data Science group module (software for a customer) (ECMM427) | Programme/course | Unclear | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear  |
 | RG07-S13 | Environmental Humanities research projects with the National Trust | Programme/course | Unclear | Yes/Unclear/Yes | Charity/community | Potentially relevant; evidence incomplete | Current status unclear  |
 
-**Uncertain / unresolved:** Other area unsearched; AHSS barely searched; dated current evidence missing for Future17 and BEMM149; AWS role in Grand Challenges; ECMM427 customer; group format for BEP3020, MSc MBA consulting option, Sports Consultancy Project; One Planet MBA team challenges; further departmental instances likely (engineering, business MSc programmes).
+**Uncertain / unresolved:** Other area unsearched; AHSS barely searched; dated current evidence missing for Future17 and BEMM149; AWS role in Grand Challenges; ECMM427 customer; group format for BEP3020, MSc MBA consulting option, Sports Consultancy Project; One Planet MBA team challenges; further departmental instances likely (engineering, business MSc programmes). Medicine/Health, Psychology, Sport not separately searched; reduced-depth mode.
 
 ### Glasgow (RG08, UK)
 
-**Review:** Partial — remaining: (1) central: verify the Embedding Employability 'Experiential Learning Guide: Consultancy' (gla.ac.uk, MyGlasgow learning & teaching / employability pages) and search central routes (Careers Service employer projects, any university-wide interdisciplinary employer challenge, College of Social Sciences/Arts work-related projects); reassess legacy COIL row against A/B/C (gla.ac.uk/explore/internationalisation/coil/) - currently a provisional exclusion. (2) business: confirm whether the UG 'Small Business Consultancy Project' course card (gla.ac.uk/undergraduate/degrees/businessmanagement/courses/smallbusinessconsultancyproject) is the same course as MGT4091 or a separate course, and get its description; get group/team and dated-cohort evidence for the Adam Smith Consultancy Experience (S1) and whether it is the partner-facing umbrella for S2/S4 and other PGT consultancy routes; verify MSc Environment & Sustainable Development 'consultancy experience' in place of dissertation (gla.ac.uk/postgraduate/taught/environmentsustainabledevelopment/); verify MGT5475P group/external-org evidence; check MBA participation requirement for BUS5052. (3) engineering_computing, science, arts_humanities_social_sciences, other: not searched (e.g. Computing Science team projects with external clients, Engineering design projects with industry, Science/Geography consultancy, School of Education challenge-based dissertations, Law/Medicine/Vet). · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 3
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 4
 
-**Partial review (search limit reached after 10 searches; only the Business School was searched).**
+Glasgow's qualifying provision is programme-embedded, concentrated in the Adam Smith Business School with one computing route; nothing university-wide was verified.
 
-The Adam Smith Business School runs several live-client group consultancy courses:
-- **MBA Group Consultancy Project (BUS5052)**: 10 credits, 2026-27 catalogue. MBA groups take on a client brief, engage with and manage the client, and spend about 70 hours over two weeks producing a group executive-summary report (65%) and a 30-minute group presentation (35%).
-- **Integrating Business and Management in Practice (MGT4091)**: a 15-credit Level 4 capstone (2025-26). Groups meet a real 'live' client in an intensive Week 11, then present strategic recommendations to the client in a 30-minute group presentation. It is probably the Honours 'integrative experiential learning course', and possibly the UG 'Small Business Consultancy Project' course card. Neither link is confirmed.
-- **International Management Solutions (MGT5181)**: 20 credits, 2026-27. MSc International Business teams carry out a live consultancy for organisations seeking to internationalise, with a client introduction meeting and a group report and presentation.
+- **MBA Group Consultancy Project (BUS5052, 2026-27):** MBA groups manage a client and respond to a client brief over ~70 hours in two weeks; group report (65%) and 30-minute presentation (35%).
+- **International Management Solutions (MGT5181, 2026-27):** MSc International Business teams run a live consultancy for firms seeking to internationalise; group report and presentation; client introduction meeting.
+- **Integrating Business and Management in Practice (MGT4091, 2025-26):** Honours capstone in one intensive week; groups meet a live client and present recommendations to them. Probably the Honours core 'integrative experiential learning course', but not confirmed.
+- **Team Project 3 (COMPSCI3004, 2026-27):** 30-credit, year-long third-year team software project for real customers who submit projects and select teams. Customer sector and internal/external mix are not stated.
+- **Entrepreneurial Ventures Management & Growth (MGT4019):** teams of 4-5 consult for real charity/social-enterprise clients with consultant mentors; current delivery is not confirmed (undated case study).
 
-The partner-facing **Adam Smith Consultancy Experience** asks organisations to submit project briefs for 2027 in return for free student consultancy. It probably channels clients into these courses. Team working and a dated cohort are not yet evidenced for it.
-
-All verified routes are programme-embedded PGT/UG business courses. None is university-wide. Client sectors and names were not evidenced.
-
-Not yet searched: central provision (including the Embedding Employability 'Experiential Learning Guide: Consultancy' and the legacy COIL row), engineering/computing, science, arts/humanities/social sciences, and law/health. Embeddedness is therefore provisional.
+The Adam Smith Consultancy Experience is a partner-facing call for briefs (2027); the page names no courses or teams, so it is treated as a likely duplicate of the courses above. The Embedding Employability consultancy guide is staff guidance, not a scheme. Compulsory status and client names are not evidenced for any route. Engineering, science, arts/social science and law/health searches found no verified group external-client project.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
@@ -246,8 +247,10 @@ Not yet searched: central provision (including the Embedding Employability 'Expe
 | RG08-S02 | MBA Group Consultancy Project (BUS5052) | Programme/course | Unclear | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2026/27 |
 | RG08-S03 | Integrating Business and Management in Practice (MGT4091) | Programme/course | Unclear | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2025/26 (course entry); listed in 2026-27 Management course list |
 | RG08-S04 | International Management Solutions (MGT5181) | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026/27 |
+| RG08-S05 | Team Project 3 (Software Team Project) (COMPSCI3004) | Programme/course | Unclear | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2026/27 |
+| RG08-S06 | Entrepreneurial Ventures Management & Growth (MGT4019) | Programme/course | Optional/elective | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear 2023 (case study references) |
 
-**Uncertain / unresolved:** Central, engineering_computing, science, AHSS and other areas not searched (search limit). Embedding Employability 'Experiential Learning Guide: Consultancy' unverified. UG 'Small Business Consultancy Project' content and its relation to MGT4091 unverified. Adam Smith Consultancy Experience: team working, programme linkage and delivered cohorts unverified. MSc Environment & Sustainable Development 'consultancy experience' in place of dissertation is an unverified lead. Participation requirement (compulsory vs optional) unknown for S2-S4. No client names/sectors evidenced. Further departmental consultancy instances in the Business School are likely.
+**Uncertain / unresolved:** Compulsory vs optional status unknown for S2-S5. Client names/sectors not evidenced (S5 customer type unclear). MGT4091 link to the UG 'Small Business Consultancy Project' course card unconfirmed. MGT4019 current delivery unconfirmed. Engineering design/industrial projects, MSc Environment & Sustainable Development consultancy, College of Social Sciences consultation projects not verified (reduced-depth). Further departmental instances likely.
 
 ### Imperial College London (RG09, UK)
 
@@ -273,7 +276,7 @@ Imperial's strongest employer-linked group provision sits in the Business School
 
 ### King’s College London (RG10, UK)
 
-**Review:** Partial — remaining: Search budget exhausted after 14 searches (shared per-turn web-search limit). Not searched: science (Chemistry, Physics, Maths, Biosciences, Data Science MSc); arts, humanities & social sciences (SSPP charity projects, Policy Institute/Policy Lab, Geography, War Studies, service-learning modules); other (Law clinic, health faculties). Also outstanding: King's Experience / Entrepreneurship Institute challenge programmes; other KBS MSc consultancy capstones; group-working evidence for PPM Consultancy, IM Business Consulting Project and KEPs; current-year evidence for Insights, ASE and Civic Challenge. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
 
 **King's College London** (partial review) has live-client project provision spread across the Business School, Informatics and central civic and careers units. Some routes are confirmed to involve group working; for others it is unverified.
 
@@ -284,6 +287,8 @@ Imperial's strongest employer-linked group provision sits in the Business School
 - **No external client evidenced:** Team projects without an evidenced external client include the second-year Software Engineering Group Project and the Engineering MEng group project.
 
 **Not yet searched:** science, arts and humanities, social sciences, law and health, so further departmental routes are likely.
+
+Update (reduced-depth completion): central AHSS routes added: **Policy Lab** (6-week, all-student team policy briefing for peers; Jun 2026; external client unclear) and **Community Impact Lab** (one-day charity challenge teams; undated). Science and Law/health searches found no qualifying team-with-client route; the Legal Clinic is individual casework.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
@@ -301,8 +306,10 @@ Imperial's strongest employer-linked group provision sits in the Business School
 | RG10-S12 | CLA Kickstarter - Community challenge | Unclear | Selective/competitive | Unclear/Yes/Yes | Charity/community | Potentially relevant; evidence incomplete | Current delivery confirmed 2025/26 |
 | RG10-S13 | CLA project-based internship with a community organisation | Unclear | Selective/competitive | Yes/Unclear/Yes | Charity/community | Potentially relevant; evidence incomplete | Current delivery confirmed 2025/26 |
 | RG10-S14 | King's Civic Challenge | Unclear | Selective/competitive | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear  |
+| RG10-S15 | KPRI Parliamentary Internship Scheme: Policy Lab | University-wide | Optional/elective | Yes/Yes/Unclear | Public sector | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 |
+| RG10-S16 | Community Impact Lab | University-wide | Optional/elective | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear  |
 
-**Uncertain / unresolved:** Science, AHSS and other areas unsearched (budget). Group-working evidence missing for KEPs, PPM Consultancy, IM Business Consulting Project and the GHRM Benifex project. Dated current-year evidence missing for Insights, MSc ASE partner project and Civic Challenge. Whether Insights and CLA are open to all students or targeted at under-represented groups. KBS Consultancy timing inconsistency (summer 2026 vs w/c 30 November). Further departmental instances likely (e.g. KBS MSc capstones, SSPP charity projects, Policy Institute).
+**Uncertain / unresolved:** Science, AHSS and other searched lightly (1-2 queries each); further departmental instances likely. Group-working evidence missing for KEPs, PPM Consultancy, IM Business Consulting Project and the GHRM Benifex project. Dated current-year evidence missing for Insights, MSc ASE partner project and Civic Challenge. Whether Insights and CLA are open to all students or targeted at under-represented groups. KBS Consultancy timing inconsistency (summer 2026 vs w/c 30 November). Further departmental instances likely (e.g. KBS MSc capstones, SSPP charity projects, Policy Institute).
 
 ### Leeds (RG11, UK)
 
@@ -404,9 +411,9 @@ Several candidates are historical (Peel Ports 2022, Life Sciences 2021) or weak 
 
 ### Manchester (RG14, UK)
 
-**Review:** Partial — remaining: Search budget exhausted (shared WebSearch per-turn limit hit). Remaining: arts_humanities_social_sciences and other (law, architecture, health) areas unsearched; Careers Service programmes; science departments beyond BIOL60760; group-format and dated-status checks for S6, S7, S9, S10, S11. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 4
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 5
 
-**Manchester** has substantial live-client group project provision. It is concentrated in **Alliance Manchester Business School (AMBS)** and selected engineering degrees, with two cross-institutional routes. This review is **partial** because the shared web-search budget ran out.
+**Manchester** has substantial live-client group project provision. It is concentrated in **Alliance Manchester Business School (AMBS)** and selected engineering degrees, with two cross-institutional routes. This reduced-depth review is complete across the six areas.
 
 - **AMBS:**
   - The **Full-time MBA** builds in several group consultancy projects for real clients. These include the **Social Impact Project** for third-sector clients and the **International Business Project**, where teams of 5-6 bid for client briefs and deliver consultancy.
@@ -419,6 +426,8 @@ Several candidates are historical (Peel Ports 2022, Life Sciences 2021) or weak 
 - **Cross-institutional:**
   - The **Manchester Enterprise Challenge** pairs a UCIL enterprise unit, open across the university, with group projects for local charities and social enterprises. Project hosts judge the pitches.
   - SEED's **University Living Lab** links assessment to more than 150 projects set by about 50 external stakeholders. Whether this work is done in groups was not verified.
+- **Architecture:** **MSA LIVE** puts mixed-year student groups on Feb-May live projects for community groups and charities (about 400 students, 34 projects in 2026); cohort split between Manchester and MMU is unclear.
+- **AMBS undergraduate:** BSc IT Management for Business has compulsory team projects supported by Lloyds Bank and P&G; whether they set briefs is unstated.
 - **Science:** **BIOL60760** includes a group project with an external company.
 
 **Overall picture:** several distributed, mainly programme-embedded routes. There is no university-wide compulsory scheme.
@@ -426,7 +435,7 @@ Several candidates are historical (Peel Ports 2022, Life Sciences 2021) or weak 
 **Uncertain:**
 - Current status of the Enterprise Challenge, Living Lab and COMP23311 mentoring, which rest on undated pages.
 - Group format for the BSc Management consultancy and the Living Lab.
-- Humanities, law, architecture and health, which were not searched.
+- Humanities and health, where only light searching found nothing.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
@@ -442,8 +451,10 @@ Several candidates are historical (Peel Ports 2022, Life Sciences 2021) or weak 
 | RG14-S10 | Commercialisation in the Life Sciences (BIOL60760) | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear Undated |
 | RG14-S11 | University Living Lab | Cross-faculty | Unclear | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current status unclear 2027 entry (engineering foundation year page mentions Living Lab) |
 | RG14-S12 | Final-year engineering team project (Electrical & Electronic / Mechatronic Engineering) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 (2026-entry course page) |
+| RG14-S13 | MSA LIVE (Manchester School of Architecture live projects) | Faculty/school | Unclear | Yes/Yes/Yes | Charity/community | Meets all three | Current delivery confirmed 2026 |
+| RG14-S14 | Integrative Team Project 1 and 2 (BSc Information Technology Management for Business) (BMAN10690 / BMAN24650) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current delivery confirmed 2027 entry (course page) |
 
-**Uncertain / unresolved:** Search budget exhausted after 14 completed searches (shared per-turn WebSearch limit), so the review is Partial. Not searched: Humanities faculty departments (Politics, Sociology, Arts, Languages, Social Statistics), Law, Manchester School of Architecture, Faculty of Biology, Medicine and Health, Careers Service programmes (e.g. any student consultancy or employer challenge), Chemistry/Physics/Maths/Earth Sciences, Aerospace/Mechanical/Chemical Engineering client links, MSc programmes outside AMBS. Unverified: group format of BSc Management consultancy and Living Lab projects; dated 2025/26 evidence for Enterprise Challenge, Living Lab, COMP23311 mentoring, BIOL60760; whether MBA M&A and Strategic Innovation projects have external clients (Commercial Business Project S4 may be superseded). Current-status calls for S1-S3, S5, S6, S8, S12 rest on dated 2025-2027 entry course-structure pages, not cohort reports. Further departmental instances likely.
+**Uncertain / unresolved:** Reduced-depth review: humanities/social science and health searched lightly with no qualifying unit found; further departmental instances likely. Unverified: group format of S6 and S11; dated 2025/26 evidence for S7, S9, S10, S11; MSA LIVE Manchester vs MMU cohort and compulsory status; whether Lloyds/P&G set briefs in S14; Chemistry/Physics/Maths/Earth Sciences and Aerospace/Mechanical/Chemical client links; Biotechnology group enterprise projects.
 
 ### Newcastle (RG15, UK)
 
@@ -508,7 +519,7 @@ Provision is distributed, with no institution-wide route. Uncertain: current-yea
 
 ### Oxford (RG17, UK)
 
-**Review:** Partial — remaining: Search budget exhausted after 13 searches (shared per-turn WebSearch limit). Remaining: arts/humanities/social sciences (Blavatnik MPP, OII, ODID, Humanities, Continuing Education), other (Law, Medical Sciences, Education), remaining science departments and Smith School, Saïd Executive MBA/MSc programmes, confirmation of Careers Service programme status for 2026/27. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 3
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 3
 
 **Oxford** (partial review) shows qualifying provision in three places, but no institution-wide curricular route.
 
@@ -523,6 +534,8 @@ Provision is distributed, with no institution-wide route. Uncertain: current-yea
   - The legacy **Micro-Internship Programme** is an individual placement.
 - **Uncertain:** humanities and social sciences, law and medicine were not searched because the search budget ran out, and it is not confirmed whether the Careers programmes will resume.
 
+Update (Oct 2026): added Oxford Pro Bono Publico volunteer research teams (Law, extracurricular, status undated). Blavatnik MPP Policy Report is externally hosted but individual. Careers Service consultancy pages are headed 'Programme Paused', so their current status stays unclear.
+
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
 | RG17-S01 | The Oxford Strategy Challenge (TOSCA) | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2025/26 (testimonials referencing Michaelmas 2025 cohort) |
@@ -533,8 +546,9 @@ Provision is distributed, with no institution-wide route. Uncertain: current-yea
 | RG17-S06 | Group Design Practical (Second Year Group Design Practicals) (GDP (Part A practical)) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2025/26 (GDP listed in Hilary Term 2026; Hilary 2027 also listed) |
 | RG17-S07 | Third Year Group Design Project (3YP), Engineering Science (3YP) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2024/25 (FHS handbook) |
 | RG17-S08 | MSc in Energy Systems whole-cohort consultancy exercise | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2025/26 (course handbook) |
+| RG17-S09 | Oxford Pro Bono Publico (OPBP) project work | Faculty/school | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
 
-**Uncertain / unresolved:** Arts/humanities/social sciences and 'other' areas not searched (budget). Careers Service programme status for 2026/27 (paused vs running) unresolved. GDP 2025/26 sponsor list; 3YP sponsored share; MBA SCP team counts; MaDe team structure and eligibility; TSC/Agency eligibility. Further departmental instances likely (e.g. Smith School MSc SEE, Blavatnik MPP, OII, Continuing Education).
+**Uncertain / unresolved:** Reduced-depth: Medical Sciences, Education, remaining sciences (Chemistry, Biology, Earth Sciences, Physics), Smith School, Executive MBA, Continuing Education not searched; further departmental instances likely. Careers Service programmes (TOSCA, MaDe, TSC, Agency) show 'Programme Paused' headings so 2026/27 status unresolved. GDP sponsor list, 3YP sponsored share, MBA SCP team counts unverified.
 
 ### Queen Mary University of London (RG18, UK)
 
