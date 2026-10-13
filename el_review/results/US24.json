@@ -278,10 +278,10 @@
    "duration_band": ">1 term",
    "external_partner_coverage": "All/standard",
    "likely_duplicate_of": "",
-   "operating_status": "Current status unclear",
-   "latest_evidenced_year": "undated curriculum page",
-   "participation_data": "",
-   "unresolved": "No dated 2025/26-2026/27 corroboration yet.",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (Fall 2026 PUBP 4010 syllabus, posted 2026-04, includes 'Sprint 2: External Client Project'; per search summary)",
+   "participation_data": "School seeks five projects of six students each year (search summary of School page)",
+   "unresolved": "2026-27 client names not found; Enterprise Innovation Institute is a GT unit (internal).",
    "legacy_ref": "",
    "sources": [
     {
@@ -298,6 +298,20 @@
       "group",
       "employer",
       "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://syllabus.gatech.edu/sites/default/files/2026-04/PUPB%204010%20Policy%20Taskforce%20Syllabus.Fall%202026.pdf",
+     "title": "PUBP 4010 Policy Taskforce Syllabus Fall 2026",
+     "section": "Syllabus",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search result: Fall 2026 syllabus includes 'Sprint 2: External Client Project' worth 15 points. PDF not opened.",
+     "supports": [
+      "status",
+      "employer"
      ]
     }
    ]
@@ -332,15 +346,15 @@
    "employer_evidence": "Not-for-profit clients (e.g. Habitat for Humanity Atlanta, Frazer Center, Slow Food Atlanta) define the problem, work with teams and receive findings [1].",
    "partner_type": "Charity/community",
    "partner_role": "Client: sets problem and scope, receives presentations",
-   "named_partners": "Habitat for Humanity in Atlanta, Frazer Center, Slow Food Atlanta, The Restoration Storehouse Center (undated list)",
+   "named_partners": "2025: Ready Set Push, Community Foundation of West Georgia, Restoration Storehouse, Maison Mogul, Pro Bono Partnership of Atlanta (search summary); GT Food and Beverage Accelerator was also listed (a GT unit, internal); older list: Habitat for Humanity Atlanta, Frazer Center, Slow Food Atlanta",
    "deliverable": "Findings/recommendations presentation",
    "duration_band": "~1 term/semester",
    "external_partner_coverage": "All/standard",
    "likely_duplicate_of": "",
-   "operating_status": "Current status unclear",
-   "latest_evidenced_year": "undated",
-   "participation_data": "",
-   "unresolved": "Credit/course status and any 2025/26 cohort evidence.",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 (Summer and Fall 2025 cohorts per Scheller ILSI news, search summary)",
+   "participation_data": "Five nonprofit partners in Summer 2025 (search summary)",
+   "unresolved": "Credit/course status; 2026 cohort not found.",
    "legacy_ref": "",
    "sources": [
     {
@@ -358,6 +372,20 @@
       "employer",
       "eligibility",
       "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.scheller.gatech.edu/news/ilsi/2025/partnering-for-impact-mba-students-work-with-ready-set-push.html",
+     "title": "Partnering for Impact: MBA Students Work with Ready, Set, Push",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: Summer 2025 five nonprofit partners incl. Ready Set Push, Community Foundation of West Georgia, Restoration Storehouse; Fall 2025 team with Pro Bono Partnership of Atlanta. Page not opened.",
+     "supports": [
+      "status",
+      "employer"
      ]
     }
    ]

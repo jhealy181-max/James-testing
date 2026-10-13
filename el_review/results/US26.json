@@ -1,8 +1,8 @@
 {
  "inst_id": "US26",
  "institution": "University of Wisconsin-Madison",
- "review_status": "Partial",
- "partial_remaining": "science and other (law/education/design/health) areas not yet searched; current-term evidence for several routes pending",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -39,15 +39,22 @@
    "key_sources": [
     "https://cdis.wisc.edu/fields-capstone-course-a-win-win-for-students-and-industry-partners/",
     "https://www.cs.wisc.edu/cs-capstone-projects-archive/",
-    "https://engineering.wisc.edu/news/get-real-isye-students-dive-industry-senior-design-projects/"
+    "https://engineering.wisc.edu/news/get-real-isye-students-dive-industry-senior-design-projects/",
+    "https://engineering.wisc.edu/blog/senior-capstone-design-course-for-civil-engineers-wins-6th-ncees-award/",
+    "https://ischool.wisc.edu/2026/05/26/ms-information-capstone-students-solve-real-problems-for-wisconsin-based-partners/"
    ],
    "finding": "CS Capstone (company-pitched projects, student teams, weekly partner mentors), ISyE 450 (client teams) and CEE 578 (client teams, required for CEE) all found."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Pending."
+   "status": "Searched",
+   "queries": [
+    "Statistics OR Biology OR Geoscience OR Physics OR Chemistry capstone industry partner team project students"
+   ],
+   "key_sources": [
+    "https://datascience.psych.wisc.edu/capstone-projects/",
+    "https://eap.wisc.edu/current-and-past-projects/"
+   ],
+   "finding": "No natural-science department route verified. Nearest: Psychology-hosted Data Science capstone (page returned 503 on fetch; search snippet only) and the interdisciplinary Energy Analysis and Policy capstone (recorded under other)."
   },
   "arts_humanities_social_sciences": {
    "status": "Searched",
@@ -62,15 +69,567 @@
    "finding": "La Follette PA 869/860 master's capstone team workshops for external clients; Envir St 600 capstone partner sections but team working not evidenced."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Pending."
+   "status": "Searched",
+   "queries": [
+    "Law School OR School of Education OR School of Human Ecology OR Pharmacy student team client project course community organization",
+    "Energy Analysis and Policy capstone clients"
+   ],
+   "key_sources": [
+    "https://eap.wisc.edu/current-and-past-projects/",
+    "https://humanities.wisc.edu/public-humanities/exchange/"
+   ],
+   "finding": "EAP capstone (interdisciplinary, real clients, latest listed 2022). Law, pharmacy, human ecology: nothing group+client verified; no design/architecture route searched in depth."
   }
  },
- "schemes": [],
- "exclusions": [],
- "embeddedness": "Unclear",
- "profile_md": "Work in progress.",
- "gaps": "Partial."
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Computer Sciences Capstone Course",
+   "english_name": "Computer Sciences Capstone Course",
+   "module_code": "",
+   "description": "Course for CS juniors/seniors: each fall companies develop and pitch projects; students form their own teams and join a project; company mentors meet the team weekly. Archive lists 2024-25 projects for Epic, Google Maps, Oshkosh, Schneider.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Computer Sciences / School of Computer, Data & Information Sciences",
+   "eligible_faculties_programmes": "CS major, juniors and seniors",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "not stated",
+   "duration": "One fall semester",
+   "delivery_format": "Team company projects with weekly mentors",
+   "project_based": "Yes",
+   "project_evidence": "Companies pitch real projects; 'Each fall, Field works with companies to develop projects and pitch them to students' [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'students who form their own teams and hop on their chosen project' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'The industry partners provide mentors that meet with the students once a week'; partners named Epic, Capital One, etc. [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Pitches project, weekly mentor",
+   "named_partners": "Epic, Capital One, Associated Bank, Last Lock, MCANTA (fall 2022 article [1]); Epic, Google Maps APIs, Schneider, Oshkosh Corp. (2024-25 archive [2])",
+   "deliverable": "Working software/application for the company",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024-25",
+   "participation_data": "93 students, 6 partners (fall 2022)",
+   "unresolved": "Course number, credits and whether compulsory not stated; current-year (2025/26) dated page not retrieved; search summary mentions fall 2025 expansion to 18 partners but that page not opened. Some archive projects (Land Survey Explorer, DataCeva) lack a clear external partner.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://cdis.wisc.edu/fields-capstone-course-a-win-win-for-students-and-industry-partners/",
+     "title": "Field's Capstone Course a Win-Win",
+     "section": "Article",
+     "pub_year": "2023-01-12",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Each fall, Field works with companies to develop projects and pitch them to students who form their own teams and hop on their chosen project. The industry partners provide mentors that meet with the students once a week. Six partners and 93 students in fall 2022.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.cs.wisc.edu/cs-capstone-projects-archive/",
+     "title": "CS Capstone projects archive",
+     "section": "'More 2024-25 projects'",
+     "pub_year": "2024-25",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Partners listed: Epic, Google (Maps APIs), Schneider, Oshkosh Corp., Wisconsin State Cartographer's Office.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "ISyE 450 Senior Design Project",
+   "english_name": "ISyE 450 Senior Design Project",
+   "module_code": "ISyE 450",
+   "description": "Industrial and systems engineering capstone: student teams (e.g. five members) tackle problems for outside clients (trucking, hospital, manufacturing) and recommend process changes.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Industrial & Systems Engineering, College of Engineering",
+   "eligible_faculties_programmes": "ISyE undergraduates",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "not stated",
+   "duration": "One semester",
+   "delivery_format": "Team client projects",
+   "project_based": "Yes",
+   "project_evidence": "'They work in teams to tackle significant problems'; recommendations to improve business processes [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams, e.g. five-member BCP group [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects 'for local manufacturing companies, healthcare organizations, service businesses'; clients BCP Transportation, UnityPoint Health-Meriter, Hoffman Manufacturing [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client supplies problem; receives recommendations",
+   "named_partners": "BCP Transportation, UnityPoint Health-Meriter, Hoffman Manufacturing (fall 2018)",
+   "deliverable": "Recommendations/analysis for client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2018 (article Feb 2019)",
+   "participation_data": "",
+   "unresolved": "Required status and recent cohort not evidenced; search summary mentions a Ratner Award; page not opened.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://engineering.wisc.edu/news/get-real-isye-students-dive-industry-senior-design-projects/",
+     "title": "Get real: ISyE students dive into industry",
+     "section": "Article",
+     "pub_year": "2019-02-19",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "ISyE 450, Senior Design Project, the department's capstone undergraduate course. They work in teams to tackle significant problems... for local manufacturing companies, healthcare organizations, service businesses such as insurance providers.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Senior Capstone Design (Civil, Environmental and Geological Engineering)",
+   "english_name": "Senior Capstone Design (Civil, Environmental and Geological Engineering)",
+   "module_code": "CEE 578 (code from search results, not on opened page)",
+   "description": "Required capstone for graduating CEE students: teams of about four to five students deliver designs for real clients (cities, community groups, schools) with professional mentors.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Civil & Environmental Engineering",
+   "eligible_faculties_programmes": "Graduating civil, environmental and geological engineering students",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "not stated",
+   "duration": "Semester(s), senior year",
+   "delivery_format": "Team design projects with professional mentors",
+   "project_based": "Yes",
+   "project_evidence": "Projects 'first proposed by real-world clients'; design reports [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "San Damiano Park team of four; Lakefront Park and Manure Treatment teams of five [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client City of Monona issued an RFP; other clients (Village of Stockholm, Juda School) [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes project; receives design",
+   "named_partners": "City of Monona (fall 2021); Village of Stockholm (2021); Juda School (2019)",
+   "deliverable": "Engineering design/report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024 (Nov 2024 luncheon)",
+   "participation_data": "",
+   "unresolved": "Required for all graduating students of the programmes per article [1]; course code CEE 578 appears only in search results. 2025/26 delivery not evidenced.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://engineering.wisc.edu/blog/senior-capstone-design-course-for-civil-engineers-wins-6th-ncees-award/",
+     "title": "Senior Capstone Design wins 6th NCEES Award",
+     "section": "Article",
+     "pub_year": "2022",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Senior Capstone Design is a required course for all graduating students; projects first proposed by real-world clients; City of Monona issued a Request for Proposal; four-student team.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://engineering.wisc.edu/blog/from-classroom-to-community-collaboration-guides-success-of-award-winning-capstone-course/",
+     "title": "From classroom to community",
+     "section": "Article",
+     "pub_year": "2024-11 (modified 2026-07)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Senior capstone course; two 5-student teams each with professional mentors, Engineers' Day luncheon Nov 2024.",
+     "supports": [
+      "group",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MS Business Analytics Applied Consulting Capstone",
+   "english_name": "MS Business Analytics Applied Consulting Capstone",
+   "module_code": "",
+   "description": "Second-semester capstone: teams under faculty supervision scope, analyze and report findings on a corporate sponsor's business question.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Wisconsin School of Business",
+   "eligible_faculties_programmes": "MS Business Analytics",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "not stated",
+   "duration": "Second semester",
+   "delivery_format": "Team sponsor project",
+   "project_based": "Yes",
+   "project_evidence": "'scope, analyze, and report findings' on a sponsor's business question [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work on a student team under faculty supervision' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Corporate sponsors; past sponsors include several Fortune 100 companies (unnamed on this page) [1]; sponsor page describes semester-long capstone where partners identify a need [2 search extract].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor supplies business question",
+   "named_partners": "",
+   "deliverable": "Findings report to sponsor",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (page footer only)",
+   "participation_data": "",
+   "unresolved": "No cohort or dated delivery evidence; compulsory status and credits not stated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://business.wisc.edu/graduate/masters/business-analytics/applied-consulting-capstone/",
+     "title": "Applied Consulting Capstone",
+     "section": "Programme page",
+     "pub_year": "undated (footer 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "work on a student team under faculty supervision; scope, analyze, and report findings on a sponsor's business question; past sponsors include several Fortune 100 companies.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Workshop in Public Affairs (PA 869) / Workshop in International Public Affairs (PA 860)",
+   "english_name": "Workshop in Public Affairs (PA 869) / Workshop in International Public Affairs (PA 860)",
+   "module_code": "PA 869; PA 860",
+   "description": "Master's capstone workshops at La Follette School: student teams produce research-based analytical and prescriptive reports for clients in public, non-governmental and private sectors.",
+   "academic_reach": "Programme/course",
+   "admin_host": "La Follette School of Public Affairs",
+   "eligible_faculties_programmes": "Master's students in public affairs/international public affairs",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "not stated",
+   "duration": "Semester-long",
+   "delivery_format": "Team client reports",
+   "project_based": "Yes",
+   "project_evidence": "'research-based, analytical, evaluative, and prescriptive reports' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Working in teams, students produce...' reports [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients 'in the public, non-governmental, and private sectors' ranging 'from municipal government offices to international development organizations' [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client supplies project; receives report",
+   "named_partners": "",
+   "deliverable": "Client report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (reports posted Apr-May 2026)",
+   "participation_data": "",
+   "unresolved": "Page does not state workshops are required nor explicitly tie the listed 2026 reports to PA 869/860 (a search snippet from the PA 860 course page does); client names not retrieved; any internal-university clients not excluded.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://lafollette.wisc.edu/outreach-public-service/workshops-in-public-affairs",
+     "title": "Workshop Reports",
+     "section": "Page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "The Workshop in Public Affairs (PA 869) and the Workshop in International Public Affairs (PA 860) are the capstone courses for our master's degree programs. Working in teams, students produce research-based, analytical, evaluative, and prescriptive reports for clients in the public, non-governmental, and private sectors. Reports listed May 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "UniverCity Year / UniverCity Alliance course partnerships",
+   "english_name": "UniverCity Year / UniverCity Alliance course partnerships",
+   "module_code": "",
+   "description": "Three-year partnerships in which Wisconsin local governments set projects and UW-Madison faculty embed them in existing courses; students deliver recommendations. Examples: Vernon County flood prototypes in Interdisciplinary Engineering 170; Rocky Knoll curriculum in an Educational Policy Studies course (search-summary details). Scholars strand is individual.",
+   "academic_reach": "Unclear",
+   "admin_host": "UniverCity Alliance",
+   "eligible_faculties_programmes": "Participating courses only; departmental eligibility varies",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "course-specific",
+   "duration": "~1 semester per course",
+   "delivery_format": "Course-embedded community projects",
+   "project_based": "Yes",
+   "project_evidence": "Students 'research those issues and questions and deliver implementable recommendations to local governments' (search summary of news.wisc.edu).",
+   "group_working": "Unclear",
+   "group_evidence": "Group working not shown at programme level; Scholars projects are individual [1]; individual course teams unevidenced.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local governments identify projects and receive recommendations.",
+   "partner_type": "Public sector",
+   "partner_role": "Community identifies project; receives recommendations",
+   "named_partners": "Town of Irving, City of Beaver Dam, Village of DeForest, Sheboygan County (Scholars, fall 2025, search summary)",
+   "deliverable": "Recommendations/designs",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Programme-level umbrella: B Unclear because the opened page shows only the individual Scholars strand; underlying courses (e.g. CEE 578, Envir St 600) vary. Aggregate 2,400 students/325 projects figure is search-summary only.",
+   "legacy_ref": "UniverCity Year",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://univercity.wisc.edu/2024/09/03/univercity-alliance-scholars-partner-with-wisconsin-communities-to-work-on-local-priorities/",
+     "title": "UniverCity Alliance Scholars partner with Wisconsin communities",
+     "section": "Article",
+     "pub_year": "2024-09-03",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "During the Fall 2024 semester, the scholars will work on an individual project for one of UCY's partner communities; matched with five communities.",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Energy Analysis and Policy Capstone",
+   "english_name": "Energy Analysis and Policy Capstone",
+   "module_code": "EAP Capstone",
+   "description": "Interdisciplinary certificate capstone: each spring students work in small teams on issues supplied by real-world clients (Fortune 500 firms, state agencies, laboratories).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Energy Analysis and Policy programme",
+   "eligible_faculties_programmes": "EAP certificate/programme students",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "not stated",
+   "duration": "Spring semester",
+   "delivery_format": "Team client projects",
+   "project_based": "Yes",
+   "project_evidence": "'EAP Capstone projects apply students' interdisciplinary learning to an issue of real-world significance' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Each spring, students work in small teams on issues supplied by real-world clients' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients include Ziegler Capital Management, Westinghouse, Berkeley Labs, MN Commerce Department, Office of Energy Innovation (2022) [1]; some campus facilities clients are internal.",
+   "partner_type": "Mixed",
+   "partner_role": "Supplies issue; receives analysis",
+   "named_partners": "Ziegler Capital Management, Westinghouse, Berkeley Labs, MN Commerce Dept, Office of Energy Innovation (2022)",
+   "deliverable": "Project report/analysis",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022",
+   "participation_data": "",
+   "unresolved": "Latest listed year 2022; campus facilities among client types.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://eap.wisc.edu/current-and-past-projects/",
+     "title": "Current and Past Projects",
+     "section": "Page",
+     "pub_year": "2022 latest",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Each spring, students work in small teams on issues supplied by real-world clients.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MS Information capstone course",
+   "english_name": "MS Information capstone course",
+   "module_code": "",
+   "description": "One-semester capstone: student groups tackle partner challenges (DNR datasets from 1,300 PDFs; ABC Supply image-analysis pipeline; Recollection Wisconsin UX; Rec Well dashboard) and give final presentations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computer, Data & Information Sciences (iSchool)",
+   "eligible_faculties_programmes": "MS Information",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "not stated",
+   "duration": "Spring 2026 semester",
+   "delivery_format": "Group partner projects",
+   "project_based": "Yes",
+   "project_evidence": "Deliverables per partner, e.g. analysis-ready datasets, dashboard, pipeline [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students worked in groups; one student worked alone with Recollection Wisconsin [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Partners: Wisconsin DNR, ABC Supply, Recollection Wisconsin; Rec Well appears to be a university unit (internal).",
+   "partner_type": "Mixed",
+   "partner_role": "Poses challenge; final presentation",
+   "named_partners": "Wisconsin DNR, ABC Supply, Recollection Wisconsin (spring 2026)",
+   "deliverable": "Datasets/dashboards/pipeline/UX recommendations",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "",
+   "unresolved": "Mix of internal and external partners and an individual project; required status and course code not stated.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://ischool.wisc.edu/2026/05/26/ms-information-capstone-students-solve-real-problems-for-wisconsin-based-partners/",
+     "title": "MS Information capstone students solve real problems",
+     "section": "News",
+     "pub_year": "2026-05-26",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Semester-long projects for Wisconsin DNR, ABC Supply, Recollection Wisconsin and Rec Well; final presentations April 28, 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Environmental Studies capstone (Envir St 600)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Required for the major and some Fall 2026 sections work with local/national organisations (Madison urban agriculture), but the page does not mention team working; only selected sections have partners.",
+   "source_url": "https://nelson.wisc.edu/undergraduate/environmental-studies-major/capstone-courses/",
+   "status_note": "Fall 2026 sections listed"
+  },
+  {
+   "name": "Data Science capstone (Psychology-hosted)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search snippet says sponsors (industry/government/research) meet teams; page returned 503 so not verified.",
+   "source_url": "https://datascience.psych.wisc.edu/capstone-projects/",
+   "status_note": ""
+  },
+  {
+   "name": "ECE capstone (ECE 453/455/554), MSE 470/471, BME 400, xDI",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Spring 2026 open house with industry judges, but client-set briefs not verified; judged showcase alone insufficient.",
+   "source_url": "https://engineering.wisc.edu/blog/showcasing-innovation-at-the-spring-2026-ece-capstone-design-open-house/",
+   "status_note": ""
+  },
+  {
+   "name": "UniverCity Alliance Scholars",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual student projects for partner communities.",
+   "source_url": "https://univercity.wisc.edu/2024/09/03/univercity-alliance-scholars-partner-with-wisconsin-communities-to-work-on-local-priorities/",
+   "status_note": "Fall 2025 cohort of 8 scholars (search summary)"
+  },
+  {
+   "name": "Consulting Practicum (Wisconsin School of Business)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search extract describes 12-week live consulting practicum with sponsors (Lands' End, Kimberly-Clark etc.) but page not opened and programme/eligibility unverified.",
+   "source_url": "https://business.wisc.edu/graduate/consulting/",
+   "status_note": ""
+  },
+  {
+   "name": "Public Humanities Exchange (HEX-U)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Funds student-initiated community-organisation projects; team/brief structure not verified.",
+   "source_url": "https://humanities.wisc.edu/public-humanities/exchange/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "UW-Madison has many employer or client-linked team capstones distributed across schools, not one institution-wide scheme. Found: the Computer Sciences Capstone (companies pitch projects, students self-form teams, weekly company mentors; 2024-25 archive), ISyE 450 and the required Civil/Environmental Senior Capstone Design (client-proposed designs, teams of 4-5, professional mentors), the MS Business Analytics Applied Consulting Capstone (sponsor questions, faculty-supervised teams), La Follette School's PA 869/860 master's workshops (team reports for public, non-profit and private clients; reports posted April-May 2026), the interdisciplinary Energy Analysis and Policy capstone, and the 2026 MS Information capstone (groups with DNR, ABC Supply, Recollection Wisconsin, plus an apparently internal Rec Well unit).\n\nUniverCity Year/Alliance is a cross-campus brokering framework: local governments (public-sector, external) set projects that faculty embed in existing courses. It is not itself a course; group working and reach depend on the host course, and its Scholars strand is individual.\n\nParticipation is mostly compulsory or core within named programmes; no university-wide route verified. Current-year (2025/26) delivery is clearly dated only for La Follette and the MS Information capstone; other routes rest on older pages. Not verified: natural-science routes, law, design, health. Internal university clients appear in some routes (Rec Well, campus facilities).",
+ "gaps": "Further departmental capstones likely (ECE, MSE, BME, Psychology data science, Consulting Practicum, Nelson). Current-year evidence missing for CS capstone, ISyE 450, CEE capstone, MSBA capstone, EAP. Course codes and compulsory status often not stated. Natural sciences, law, education, design/health not verified. Reduced-depth mode: ~14 searches, 12 page fetches."
 }
