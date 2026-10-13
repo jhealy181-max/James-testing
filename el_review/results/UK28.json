@@ -1,0 +1,640 @@
+{
+ "inst_id": "UK28",
+ "institution": "Nottingham Trent University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Nottingham Trent University Grads4Nottm 2026 employer brief student teams",
+    "Grads4Nottm 10th year students groups employers two weeks challenge 27 employers",
+    "NTU Community Engaged Learning students work in groups on community partner project module"
+   ],
+   "key_sources": [
+    "https://www.ntu.ac.uk/about-us/news/news-articles/2024/06/nottingham-trent-university-students-celebrate-10th-year-of-solving-business-challenges-through-grads4nottm-initiative",
+    "https://www.ntu.ac.uk/about-us/the-centre-for-student-and-community-engagement/community-organisations/what-is-community-engaged-learning"
+   ],
+   "finding": "Grads4Nottm (extracurricular, 2024 latest) and Community Engaged Learning (curricular group projects with community partners, 2026/27 timetable)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "NTU Nottingham Business School live client project module consultancy student teams",
+    "NTU Postgraduate Consultancy Projects ... clients final presentation report",
+    "#NBSBright final-year undergraduate students consultants",
+    "NTU Developing Professional Impact module team brief client presentation"
+   ],
+   "key_sources": [
+    "https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/supporting-your-business/consultancy-and-support",
+    "https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/supporting-your-business/nbs-bright"
+   ],
+   "finding": "Strongest area: PG consultancy projects, #NBSBright (2026 dates), and a core UG live-consultancy module."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "NTU computer science engineering industry project module group client external organisation",
+    "NTU Mechanical Engineering Integrated Group Design Project design challenge set by industry groups",
+    "NTU engineering students group design project industry client live brief Product Design Mechanical"
+   ],
+   "key_sources": [
+    "https://www.ntu.ac.uk/course/science-and-technology/ug/beng-hons-mechanical-engineering"
+   ],
+   "finding": "Engineering group design challenges 'set by industry' but external involvement unclear; no computing group client module verified."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "NTU School of Science and Technology students team project external organisation environmental biosciences psychology client"
+   ],
+   "key_sources": [],
+   "finding": "Nothing specific found for natural/life sciences; further instances may exist."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "NTU Community Engaged Learning ... (Sociology, Education, TESOL, Communications)",
+    "NTU Co Lab module students from different disciplines live briefs community projects"
+   ],
+   "key_sources": [
+    "https://www.ntu.ac.uk/about-us/the-centre-for-student-and-community-engagement/community-organisations/what-is-community-engaged-learning/year-two-sociology"
+   ],
+   "finding": "CEL covers sociology, education, TESOL, animation, communications; humanities collaborative live-brief modules mentioned but not verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "NTU School of Art and Design live brief students collaborative project client; Social Sciences Nottingham Law School clinic",
+    "NTU engineering students group design project industry client live brief Product Design"
+   ],
+   "key_sources": [
+    "https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/ug/ba-hons-product-design",
+    "https://www.ntu.ac.uk/study-and-courses/academic-schools/art-and-design/colab"
+   ],
+   "finding": "Art & Design (Co Lab, live briefs) and Product Design group live briefs found; Nottingham Law School clinic query returned nothing; health not queried separately."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "Grads4Nottm",
+   "likely_duplicate_of": "",
+   "unresolved": "No 2025 or 2026 edition found; deliverable format; whether any credit; group size in 2024.",
+   "local_id": "S1",
+   "official_name": "Grads4Nottm",
+   "english_name": "Grads4Nottm",
+   "description": "Two-week summer work-experience programme in which NTU students and graduates from a range of courses are matched to anonymised challenges submitted by local employers and work in groups (up to 5 in 2023) hosted by the employer, ending in a showcase event.",
+   "academic_reach": "University-wide",
+   "admin_host": "NTU Employability",
+   "eligible_faculties_programmes": "NTU students and graduates from a range of courses",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "NTU-exclusive (students and graduates)",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced",
+   "duration": "Two weeks (2023: 5-15 June, showcase 16 June)",
+   "delivery_format": "Employer-hosted group challenge + launch and showcase events",
+   "project_based": "Yes",
+   "project_evidence": "27 local employers 'submitted projects for students to solve'; a student team interviewed over 60 people for consumer research [1][2]. Defined output format not stated beyond showcase.",
+   "group_working": "Yes",
+   "group_evidence": "'work in groups (of up to 5) to solve real-life challenges' (2023 announcement) [2]; 2024 article gives no group size.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employers set the challenge and 'host their group for the duration of the project' [2]; 27 employers in 2024 [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets challenge, hosts group, attends showcase",
+   "deliverable": "Project outcome presented at showcase (format unspecified)",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ntu.ac.uk/about-us/news/news-articles/2024/06/nottingham-trent-university-students-celebrate-10th-year-of-solving-business-challenges-through-grads4nottm-initiative",
+     "title": "Students celebrate 10th year of solving business challenges through Grads4Nottm",
+     "section": "News",
+     "pub_year": "2024",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "'a two-week work experience programme'; '27 local employers, from a variety of sectors, submitted projects for students to solve'; challenges advertised anonymously and participants matched; a team interviewed over 60 people.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ntu.ac.uk/about-us/news/news-articles/2023/02/the-project-promoting-nottingham-as-a-destination-for-graduate-employment-grads4nottm-is-back",
+     "title": "Grads4Nottm is back!",
+     "section": "News",
+     "pub_year": "2023",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "Students and graduates work in groups (of up to 5) on real-life challenges; employers host their group; Challenge weeks Mon 5 - Thu 15 June 2023; Showcase Fri 16 June 2023.",
+     "supports": [
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "'up to 50 businesses' and 1,800 students per year (page, undated)",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "unresolved": "Team structure; credit; compulsory or optional.",
+   "local_id": "S2",
+   "official_name": "#NBSBright projects module",
+   "english_name": "#NBSBright (Nottingham Business School final-year business challenges)",
+   "description": "Final-year Nottingham Business School undergraduates act as consultants on a challenge submitted by a business over about seven weeks, ending in a final presentation (and report per older announcements).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Nottingham Business School",
+   "eligible_faculties_programmes": "Final-year NBS undergraduates",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "NBS final-year courses",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Described as a 'projects Module'; credit not retrieved",
+   "duration": "c. 7 weeks (w/c 21 Sept - w/c 16 Nov 2026)",
+   "delivery_format": "Consultancy challenge, students work from the University",
+   "project_based": "Yes",
+   "project_evidence": "Businesses submit a challenge; students act as consultants, final presentation [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Search summary says 'student teams' and scale is 1,800 students for up to 50 businesses, but the quoted extract does not state team working; not inferred.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Businesses submit the challenge and receive the consultancy output/presentation [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets challenge; receives presentation",
+   "deliverable": "Final presentation (older announcements also mention report)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (starts 21 Sept 2026)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/supporting-your-business/nbs-bright",
+     "title": "#NBSBright",
+     "section": "Business page",
+     "pub_year": "2026 dates on undated page",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "'The students will work from the University, acting as consultants for you over the course of about seven weeks, leading to a final presentation in mid-November'; '#NBSBright projects Module will start the w/c 21st September 2026'; 'up to 50 businesses ... 1,800 students'.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Travis Perkins, Emmanuel House Support Centre, Discovery Trust MAT, Hallam Agency, a local primary school (case-study pages, years not confirmed; primary school news Nov 2025)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "unresolved": "Compulsory vs optional per programme; credit; which MSc programmes embed it.",
+   "local_id": "S3",
+   "official_name": "Postgraduate Consultancy Projects (Consultancy Experience Project)",
+   "english_name": "Nottingham Business School postgraduate consultancy projects",
+   "description": "MSc and MBA student teams carry out real consultancy projects for external organisations (businesses, a primary school, a charity), presenting verbally with client Q&A and, for MSc, a 3,000-4,000 word client report.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Nottingham Business School",
+   "eligible_faculties_programmes": "Several NBS MSc programmes (e.g. Project Management, Digital Marketing, Economics Banking and Finance) and MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Varies; MBA example 4 working days + presentation on day 5",
+   "delivery_format": "Client consultancy teams",
+   "project_based": "Yes",
+   "project_evidence": "Real-life consultancy projects; verbal report and Q&A; MSc written report 3,000-4,000 words [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'working in professional consultancy teams' (Project Management MSc page, as summarised); four MSc students formed the Welbeck Primary team [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients get at least two meetings with students, attend final presentation and question the team; 88% of past clients said they would take forward ideas (self-reported) [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: brief, meetings, receives report and presentation",
+   "deliverable": "Verbal report + 3,000-4,000 word client report (MSc)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (news Nov 2025)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/supporting-your-business/consultancy-and-support",
+     "title": "Postgraduate Consultancy Projects",
+     "section": "Page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "Teams deliver a verbal report at the end with client Q&A; MSc students prepare a 3,000-4,000 word report; clients have at least two meetings and attend the final presentation; 88% of past clients would take forward ideas.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ntu.ac.uk/about-us/news/news-articles/2025/11/nottingham-business-school-students-support-local-primary-school-with-ambitious-expansion-plans",
+     "title": "NBS students support local primary school with ambitious expansion plans",
+     "section": "News",
+     "pub_year": "2025-11",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "Four MSc Economics and Finance students provided socio-economic research and strategic analysis; professional report helped shape the school's business case.",
+     "supports": [
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "unresolved": "Undated course pages; module code, credits, whether the course pages are current-year; partner sector; relationship to #NBSBright (possible overlap).",
+   "local_id": "S4",
+   "official_name": "Developing Professional Impact (core final-year NBS module)",
+   "english_name": "Developing Professional Impact",
+   "description": "Core undergraduate module in which students apply degree skills in a live consultancy project: a real organisation sets the brief, teams address it and present findings and recommendations to the client and tutors.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Nottingham Business School",
+   "eligible_faculties_programmes": "Business BA, Accounting and Finance BSc and other NBS UG courses carrying the same text",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year (not confirmed)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved; assessment types include group poster presentations, work with external companies, business reports",
+   "duration": "Unclear",
+   "delivery_format": "Live consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Live consultancy project with brief and presentation of findings/recommendations [1].",
+   "group_working": "Yes",
+   "group_evidence": "'working in a team with other students to address a brief' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'A real organisation sets the project brief'; students present to the client [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Sets brief; receives presentation",
+   "deliverable": "Findings and recommendations presented to client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-accounting-and-finance",
+     "title": "Accounting and Finance BSc (Hons)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "Module text: apply skills 'in a live consultancy project'; 'A real organisation sets the project brief'; students 'work in a team ... and present findings and recommendations to the client and tutors'. Same text on Business BA page.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "unresolved": "Compulsory status per module; module codes; whether all listed courses run annually; service-learning boundary (project output is defined so recorded).",
+   "local_id": "S5",
+   "official_name": "Community Engaged Learning (CEL)",
+   "english_name": "Community Engaged Learning",
+   "description": "Course-linked projects run by the Centre for Student and Community Engagement: groups (a team of five in the Sociology example) are assigned to a community partner and respond to an identified need through research, consultation, data analysis or campaigns, then present findings and a written report.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Centre for Student and Community Engagement (CenSCE)",
+   "eligible_faculties_programmes": "Named courses incl. BA Sociology Y2, MA TESOL, Education Studies, Animation, Communications",
+   "faculty_areas": [
+    "central",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Varies by course",
+   "eligibility_restrictions": "Students on participating modules",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved; course-based",
+   "duration": "Sociology example: activity January 2027, feedback April-May 2027",
+   "delivery_format": "Group projects with community organisations",
+   "project_based": "Yes",
+   "project_evidence": "Focused research, community profiles, data analysis, campaigns; present findings and written report [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Groups of students will be assigned to partner organisations'; partner works with a team of five (Sociology) [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner identifies the need, signs a partner agreement, attends touchpoint meetings and a final feedback event; not expected to assess [1][2].",
+   "partner_type": "Charity/community",
+   "partner_role": "Identifies need, touchpoint meetings, receives findings",
+   "deliverable": "Findings presentation + written report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ntu.ac.uk/about-us/the-centre-for-student-and-community-engagement/community-organisations/what-is-community-engaged-learning",
+     "title": "Community Engaged Learning",
+     "section": "Page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "'Groups of students will be assigned to partner organisations and will be tasked with responding to a particular need that has been identified'; focused research, community consultations, analysis of organisation data, awareness campaigns; touchpoint meetings; partner agreement.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ntu.ac.uk/about-us/the-centre-for-student-and-community-engagement/community-organisations/what-is-community-engaged-learning/year-two-sociology",
+     "title": "Year Two BA (Hons) Sociology",
+     "section": "CEL subpage",
+     "pub_year": "2026-27 timetable",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "Partner works with a team of five students; activity phase January 2027; final feedback event April-May 2027 where students present findings and a written report.",
+     "supports": [
+      "group",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Matter, Nestle, PepsiCo, W'innovate, Herman Miller, Speedo (course page, undated)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "unresolved": "Whether group live briefs are compulsory modules; dates; partner role beyond brief; the BSc Product Design Commercial Project (live partners) not tested for group working.",
+   "local_id": "S6",
+   "official_name": "Product Design BA live industry briefs",
+   "english_name": "Product Design BA (Hons) live industry group projects",
+   "description": "Product Design students work in groups on live briefs from industry; a recent project was set by design consultancy Matter (design three smart devices for 2025).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Architecture, Design and the Built Environment",
+   "eligible_faculties_programmes": "Product Design BA (Hons)",
+   "faculty_areas": [
+    "other",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Unclear",
+   "delivery_format": "Live briefs",
+   "project_based": "Yes",
+   "project_evidence": "Design briefs with design outputs [1].",
+   "group_working": "Yes",
+   "group_evidence": "'In groups, we were challenged with designing three separate smart devices' (course page student account) [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Live project briefs with real industry clients (Nestle, PepsiCo, Herman Miller, Speedo named); Matter set one brief [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets brief",
+   "deliverable": "Product concepts/design proposals",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "c.2025 (undated page)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/ug/ba-hons-product-design",
+     "title": "Product Design BA (Hons)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "Students work on live project briefs with real industry clients incl. Nestle, PepsiCo, W'innovate, Herman Miller, Speedo; Matter project: 'In groups, we were challenged with designing three separate smart devices for the year 2025.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "unresolved": "Deliverables, partner involvement, whether every project has an external partner ('or with students from other universities'), dates.",
+   "local_id": "S7",
+   "official_name": "Co Lab (Nottingham School of Art & Design)",
+   "english_name": "Co Lab",
+   "description": "Collaboration model in which students from different specialisms (or other universities) work together on projects set by charities or industry partners; in Year 2 an assessed 20-credit module across four themes.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Nottingham School of Art & Design",
+   "eligible_faculties_programmes": "Art & Design courses incl. Textile Design, Fashion Marketing and Branding",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (Year 2)",
+   "duration": "Unclear",
+   "delivery_format": "Cross-disciplinary projects",
+   "project_based": "Yes",
+   "project_evidence": "Projects set by charities or industry partners [1].",
+   "group_working": "Yes",
+   "group_evidence": "'come together and collaborate with other students from different subject specialisms' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'projects set by charities or industry partners' [1]; per-project involvement not detailed.",
+   "partner_type": "Mixed",
+   "partner_role": "Sets project",
+   "deliverable": "Not specified",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ntu.ac.uk/study-and-courses/academic-schools/art-and-design/colab",
+     "title": "Co Lab",
+     "section": "Page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "'an opportunity for you to come together and collaborate with other students from different subject specialisms, or with students from other universities on projects set by charities or industry partners'; Year 2 is an assessed 20 credit module.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "unresolved": "Who sets the brief; external organisation involvement; dates.",
+   "local_id": "S8",
+   "official_name": "Mechanical Engineering Year 1 industry Design Challenge / Grand Challenge",
+   "english_name": "Mechanical Engineering group design challenges",
+   "description": "BEng Mechanical Engineering: after CAD training, groups tackle a Design Challenge 'set by industry'; MEng has a three-week Grand Challenge group project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Science and Technology",
+   "eligible_faculties_programmes": "Mechanical Engineering BEng/MEng (similar text for Aerospace)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 1 (design challenge)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "Design Challenge after 3-day CAD course; Grand Challenge 3 weeks",
+   "delivery_format": "Group design challenge",
+   "project_based": "Yes",
+   "project_evidence": "Design challenge to a brief [1].",
+   "group_working": "Yes",
+   "group_evidence": "'You will work in groups ... to meet the brief set by industry' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Brief described as 'set by industry' but no named company or evidence of participation in supervision/feedback/receiving outputs [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "deliverable": "Design concept",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ntu.ac.uk/course/science-and-technology/ug/beng-hons-mechanical-engineering",
+     "title": "Mechanical Engineering BEng (Hons)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (extended-mode search summary; direct page access blocked: WebFetch 403, curl met Cloudflare challenge and was not bypassed)",
+     "extract": "'A three-day CAD training course on Autodesk Fusion ... followed by a Design Challenge set by industry. You will work in groups, applying the CAD skills you gained, to meet the brief set by industry.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Grads4Nottm (legacy row)",
+   "legacy": true,
+   "category": "Other",
+   "reason": "Reassessed as S1 (A/B/C Yes, current status unclear: latest evidence 2024).",
+   "source_url": "",
+   "status_note": "see S1"
+  },
+  {
+   "name": "Graphic Design, Animation, Media Production, Fashion Communication live briefs",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Course pages mention live client briefs (agencies, NHS, Nottingham Playhouse, Andrew Logan 2024) but group vs individual working and per-brief client role not evidenced; further departmental instances likely.",
+   "source_url": "https://www.ntu.ac.uk/about-us/news/news-articles/2024/07/live-client-brief-2024-with-artist-andrew-logan-x-ntu-fcp!",
+   "status_note": ""
+  },
+  {
+   "name": "Design Matter research group / NTU consultancy and KTPs",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Staff/research consultancy for commercial clients; no student group project evidenced.",
+   "source_url": "https://www.ntu.ac.uk/research/groups-and-centres/groups/design-matter",
+   "status_note": ""
+  },
+  {
+   "name": "Computer Science / Computing final-year Project and 'live industry briefs'",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Course page mentions live industry briefs but no module with group working and external client evidenced; BSc Computing Project is individual-investigation wording.",
+   "source_url": "https://www.ntu.ac.uk/course/computer-science",
+   "status_note": ""
+  },
+  {
+   "name": "NTU Alumni and Industry Fellowship Programme",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Listed in results; not tested (mentoring/fellowship, not shown to be a student group project).",
+   "source_url": "https://www.ntu.ac.uk/alumni/get-involved/alumni-and-industry-fellowship-programme/celebrating-10-years",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Nottingham Trent University** has distributed employer-linked group provision, strongest in Nottingham Business School (NBS).\n\n- **Business:** NBS postgraduate consultancy projects put MSc/MBA teams with external clients (businesses, a primary school, charities), with client meetings, a final presentation with Q&A and, for MSc, a 3,000-4,000 word report (current: Nov 2025 case news). #NBSBright pairs final-year undergraduates with business challenges over about seven weeks, with 2026 dates (21 Sept-mid Nov 2026); team working is not stated in the extract. A core undergraduate module text describes teams addressing a live brief set by a real organisation (undated).\n- **Central:** Community Engaged Learning assigns student groups (a team of five in Sociology) to community partners on course-linked projects, with a 2026/27 timetable. Grads4Nottm is an extracurricular two-week employer-hosted group challenge; latest evidence is 2024.\n- **Design:** Product Design BA live group briefs with named industry clients; Co Lab cross-disciplinary projects set by charities or industry partners (both undated).\n- **Engineering:** Year 1 Design Challenge 'set by industry' in groups; external involvement unclear.\n\nCompulsory status, credits and partner coverage were mostly not retrievable. NTU pages could not be opened directly (WebFetch 403; curl hit a Cloudflare challenge, not bypassed), so all evidence is search-index extract.",
+ "gaps": "Direct page access blocked (403 / Cloudflare challenge), so no 'page text' retrieval. Science, Law, health, Computing and humanities live-brief modules not evidenced; further departmental instances likely. Credits, module codes and compulsory status mostly unresolved. Grads4Nottm has no 2025/26 evidence."
+}
