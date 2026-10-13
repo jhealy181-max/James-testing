@@ -1,9 +1,9 @@
 {
  "inst_id": "RG01",
  "institution": "University of Birmingham",
- "review_status": "Partial",
- "partial_remaining": "Shared WebSearch budget exhausted after 14 searches. Remaining: science (Biosciences, Geography/Earth & Environmental Sciences, Mathematics, Psychology); social sciences (INLOGOV/public policy consultancy, Government & Society, Education, Social Policy); arts & humanities (Professional Skills Module current format, cultural-sector projects); other (Law pro bono/clinics, Medicine/Health, Dentistry); computing (MSc/Year 2 team projects with industry); engineering module-level evidence for industry-set group design projects; current-year corroboration for S5/S6; MBA Grow Movement detail.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -43,39 +43,47 @@
     "Group Industrial Projects engineering students industry partner team project",
     "engineering final year group design project set by industry sponsor company MEng",
     "Chemical Engineering final year design project groups industry linked",
-    "Computer Science team project external client industry software group module"
+    "Computer Science team project external client industry software group module",
+    "Birmingham Computer Science team project industry client Year 2 MSc"
    ],
    "key_sources": [
     "https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-industrial-beng",
     "https://www.birmingham.ac.uk/study/undergraduate/subjects/aerospace-engineering-courses/aerospace-engineering-meng"
    ],
-   "finding": "Group design projects exist across MEng programmes but course pages describe them only as industry-linked/relevant; no external client evidenced. Chemical Engineering design project recorded as Unclear. No CS external-client team project found."
+   "finding": "Group design projects exist across MEng programmes but course pages describe them only as industry-linked/relevant; no external client evidenced. Chemical Engineering design project recorded as Unclear. No CS external-client team project found. Re-checked 2026-10-13: CS MSc projects individual; no Year 2 client team project."
   },
   "science": {
    "status": "Searched",
    "queries": [
-    "physics third year group industrial project company students small groups"
+    "physics third year group industrial project company students small groups",
+    "Birmingham Geography Earth Environmental Sciences Biosciences team consultancy external organisation",
+    "Birmingham Mathematics Psychology Biosciences teams industry partner module",
+    "Mathematical Challenge module industry partners"
    ],
    "key_sources": [
     "https://www.birmingham.ac.uk/Documents/college-eps/college/stem/group-industrial-projects.pdf"
    ],
-   "finding": "Only Physics searched: group project is academic-led. Biosciences, Geography/Environmental Sciences, Mathematics, Psychology not searched (search limit reached)."
+   "finding": "Only Maths 'Mathematical Challenge' lead (S8, Unclear); GEES/Biosciences/Psychology show placements or supervisor-led projects, no team client module."
   },
   "arts_humanities_social_sciences": {
    "status": "Searched",
    "queries": [
-    "module students work in groups consultancy project for external organisation charity council report social sciences"
+    "module students work in groups consultancy project for external organisation charity council report social sciences",
+    "INLOGOV Government and Society group project client organisation"
    ],
    "key_sources": [
     "https://www.birmingham.ac.uk/documents/college-artslaw/studentexperience/2022-psm-example-projects-web-version.pdf"
    ],
-   "finding": "One broad search only: Arts and Law Professional Skills Module is placement-based; no social-science group client module found. INLOGOV/public policy, Government and Society, Education not searched individually."
+   "finding": "No client-based group module found for INLOGOV/Government and Society; Education not specifically searched."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
+   "status": "Searched",
+   "queries": [
+    "Birmingham Law School pro bono clinic",
+    "Birmingham Medicine Dentistry Education group project community partner"
+   ],
    "key_sources": [],
-   "finding": "Law (Pro Bono/clinics), Medicine and Health, Education not searched: shared web-search budget exhausted after 14 searches."
+   "finding": "Law Pro Bono/FLAG recorded (S9, C Unclear); Medicine/Dentistry show clinical placements only."
   }
  },
  "schemes": [
@@ -659,6 +667,123 @@
      ]
     }
    ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "named_partners": "",
+   "module_code": "",
+   "english_name": "",
+   "legacy_ref": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "local_id": "S8",
+   "official_name": "Mathematical Challenge: Problem Solving and Programming in Business and Industry",
+   "description": "Compulsory 20-credit Year 2 core module on the Mathematics BSc (also International Year variant) on applying mathematics to real-world problems; search summary states students model real problems with industry partners.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Mathematics",
+   "eligible_faculties_programmes": "Mathematics / Mathematical Sciences BSc variants",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Named programmes",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits",
+   "duration": "Not stated",
+   "delivery_format": "In person",
+   "project_based": "Unclear",
+   "project_evidence": "Module title/summary only; no defined project brief evidenced [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Not stated [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Summary mentions industry partners but no named partner or role confirmed [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "deliverable": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Team format, partner role, current delivery (course page shows future-entry module list).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-bsc",
+     "title": "Mathematics BSc",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Compulsory Year 2 20-credit module 'Mathematical Challenge: Problem Solving and Programming in Business and Industry' applying maths to real-world problems.",
+     "supports": [
+      "project",
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "named_partners": "",
+   "module_code": "",
+   "english_name": "",
+   "legacy_ref": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "local_id": "S9",
+   "official_name": "Law Pro Bono Group: Birmingham Free Legal Advice Group (FLAG) and clinics",
+   "description": "Student volunteers in pairs interview real members of the public, research for about two weeks and draft a letter of advice, supervised by qualified lawyers; other clinics (Fraud Clinic with Tenet Law solicitors, Freedom Law Clinic) also supervised by external solicitors.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "CEPLER / Birmingham Law School",
+   "eligible_faculties_programmes": "Law students (eligibility not verified)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "Not verified",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "About 2 weeks per matter",
+   "delivery_format": "Clinic/remote",
+   "project_based": "Yes",
+   "project_evidence": "Client matter with advice letter as output [1].",
+   "group_working": "Yes",
+   "group_evidence": "'In pairs' student volunteers interview the client (pair) [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Clients are individual members of the public (not organisations); supervising solicitors include external firm Tenet Law (Fraud Clinic) - no external organisation sets a brief for a standard route [1].",
+   "partner_type": "Other",
+   "partner_role": "Individual clients; external supervising solicitors in some clinics",
+   "deliverable": "Letter of advice to client",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Whether individual clients/supervising solicitors count as external organisation; eligibility; credit; extracurricular.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/birmingham-law-school/birmingham-free-legal-advice-group",
+     "title": "Birmingham Free Legal Advice Group",
+     "section": "FLAG",
+     "pub_year": "undated (2026 student testimonial elsewhere)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Students in pairs interview clients and spend two weeks researching and drafting a letter of advice; supervised by qualified lawyers; Fraud Clinic supervised by Tenet Law solicitors (2025 announcement).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
@@ -703,14 +828,6 @@
    "status_note": "course pages show future-intake module tables"
   },
   {
-   "name": "Computer Science team projects / MSc Computer Science projects",
-   "legacy": false,
-   "category": "Evidence gap",
-   "reason": "Software Engineering for Global Challenges (Y2, 20 credits) is a team project on a 'real-life problem' (Dubai page) with no external client evidenced; MSc projects 'proposed by academic staff or industrial collaborators' are individual.",
-   "source_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-msc",
-   "status_note": ""
-  },
-  {
    "name": "College of Arts and Law Professional Skills Module",
    "legacy": false,
    "category": "Placement/internship",
@@ -725,9 +842,17 @@
    "reason": "Individual research project supervised one-to-one.",
    "source_url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/ba-social-sciences",
    "status_note": ""
+  },
+  {
+   "name": "Computer Science team projects / MSc Computer Science projects",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "MSc project individual (topics from staff or industrial collaborators); no Year 2 client team project found.",
+   "source_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-msc",
+   "status_note": ""
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**Birmingham** has several distributed live-project routes. Most are **short, extracurricular and centrally run**, with smaller programme-embedded provision in the Business School.\n\n- **Central (Careers Network):**\n  - **The Birmingham Project** is open to all first-year undergraduates on the Edgbaston campus. It is optional, non-credit and recorded as pass/fail on the transcript. Interdisciplinary teams spend one full-time week in June on challenges set by 7–8 employer partners in 2026 (e.g. HSBC, Siemens, Transport for West Midlands, West Midlands Combined Authority). Each challenge has an industry professional, and teams finish with a group video presentation to industry and academics. More than 2,000 students have taken part since 2013.\n  - The **Masters Consultancy Challenge** is selective and open to taught postgraduates. Interdisciplinary groups work for 3 weeks on a Turner & Townsend challenge and present to an industry and University panel.\n  - The **Impact Challenge** is a paid, week-long programme for widening-participation finalists and penultimate-year students. Teams work on employer-set projects, mostly for charities and social enterprises.\n- **Business School:**\n  - The **Capgemini Community Challenge** is a week at Capgemini Telford in which undergraduate teams consult for charity clients.\n  - The **MSc Strategic Marketing and Consulting** includes a group consultancy project for real organisations, but its current-year delivery is unconfirmed.\n  - **Masters/MBA Company Projects** tackle live business challenges, but it is unclear whether they are done in groups.\n- **Engineering:** MEng group design projects are only described as \"industry-linked\". The **Chemical Engineering** design project is recorded as Unclear.\n\n**Limits:** the review is **Partial**. The shared search limit was reached after 14 searches. Science beyond Physics, most social sciences and humanities, Law, Health and Education remain largely unsearched, so further departmental routes are likely.",
- "gaps": "Science, social sciences, humanities, law and health largely unsearched (search limit). Engineering group design projects lack evidence of industry-set briefs. Current-year evidence missing for the SMC MSc and Company Projects. Birmingham Project partner count conflicts (7 vs 8 for 2026). Capgemini Community Challenge eligibility conflicts between pages. Further departmental instances likely."
+ "profile_md": "**Birmingham** has several distributed live-project routes. Most are **short, extracurricular and centrally run**, with smaller programme-embedded provision in the Business School.\n\n- **Central (Careers Network):**\n  - **The Birmingham Project** is open to all first-year undergraduates on the Edgbaston campus. It is optional, non-credit and recorded as pass/fail on the transcript. Interdisciplinary teams spend one full-time week in June on challenges set by 7–8 employer partners in 2026 (e.g. HSBC, Siemens, Transport for West Midlands, West Midlands Combined Authority). Each challenge has an industry professional, and teams finish with a group video presentation to industry and academics. More than 2,000 students have taken part since 2013.\n  - The **Masters Consultancy Challenge** is selective and open to taught postgraduates. Interdisciplinary groups work for 3 weeks on a Turner & Townsend challenge and present to an industry and University panel.\n  - The **Impact Challenge** is a paid, week-long programme for widening-participation finalists and penultimate-year students. Teams work on employer-set projects, mostly for charities and social enterprises.\n- **Business School:**\n  - The **Capgemini Community Challenge** is a week at Capgemini Telford in which undergraduate teams consult for charity clients.\n  - The **MSc Strategic Marketing and Consulting** includes a group consultancy project for real organisations, but its current-year delivery is unconfirmed.\n  - **Masters/MBA Company Projects** tackle live business challenges, but it is unclear whether they are done in groups.\n- **Engineering:** MEng group design projects are only described as \"industry-linked\". The **Chemical Engineering** design project is recorded as Unclear.\n\n**Other areas (reduced depth):** a Law Pro Bono/FLAG clinic (student pairs advising real clients under solicitor supervision) is recorded but its external-organisation status is Unclear; a compulsory Year 2 Mathematics industry-problem module is a lead only. Social science, Biosciences, Geography and Health searches found no client-based group modules.\n\n**Limits:** reduced-depth review; further departmental routes likely.",
+ "gaps": "Further departmental instances likely. Engineering group design projects lack evidence of industry-set briefs. Current-year evidence missing for SMC MSc and Company Projects. Maths Mathematical Challenge module partner/team format unverified. Education, Psychology and Biosciences only lightly searched. Birmingham Project partner count conflict (7 vs 8). Capgemini eligibility conflict."
 }

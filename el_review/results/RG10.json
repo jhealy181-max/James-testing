@@ -1,9 +1,9 @@
 {
  "inst_id": "RG10",
  "institution": "King's College London",
- "review_status": "Partial",
- "partial_remaining": "Search budget exhausted after 14 searches (shared per-turn web-search limit). Not searched: science (Chemistry, Physics, Maths, Biosciences, Data Science MSc); arts, humanities & social sciences (SSPP charity projects, Policy Institute/Policy Lab, Geography, War Studies, service-learning modules); other (Law clinic, health faculties). Also outstanding: King's Experience / Entrepreneurship Institute challenge programmes; other KBS MSc consultancy capstones; group-working evidence for PPM Consultancy, IM Business Consulting Project and KEPs; current-year evidence for Insights, ASE and Civic Challenge.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -58,25 +58,38 @@
    "finding": "Informatics: Knowledge Exchange Projects (partner briefs, 2025/26 confirmed, up to five students per brief; team working unclear) and the MSc ASE external-partner team project, which meets A/B/C but is undated. UG 5CCS2SEG and the Engineering MEng group project are team projects with no evidenced external client."
   },
   "science": {
-   "status": "Not searched",
+   "status": "Searched",
    "queries": [
-    "King's College London chemistry physics biosciences module group project with external company client students (refused: shared web-search budget exhausted)",
-    "King's College London Data Science MSc group project industry partner sponsor team mathematics (refused: budget exhausted)"
+    "King's College London science group project external company client students team mathematics data science chemistry"
    ],
-   "key_sources": [],
-   "finding": "Not searched: the shared per-turn web-search limit was reached before the natural sciences, mathematics and data science searches could run."
+   "key_sources": [
+    "https://www.kcl.ac.uk/employers/recruit/internships",
+    "https://www.kcl.ac.uk/study/postgraduate-taught/courses/biotechnology-computational-biology-msc-mres"
+   ],
+   "finding": "One query: no science group project with an external client found; Biotechnology & Computational Biology MSc mentions industrial partners generically only."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched (budget exhausted). Leads seen only in result titles: 'SSPP Students helping local charities overcome challenges' (kcl.ac.uk/news) and 'Arts & Humanities students win King's Civic Challenge funding'. Also unexplored: King's Policy Institute/KPRI Policy Lab, War Studies, Geography and service-learning modules."
+   "status": "Searched",
+   "queries": [
+    "SSPP students helping local charities module group project charity",
+    "Policy Institute Policy Lab students team client policy brief module"
+   ],
+   "key_sources": [
+    "https://edge.kcl.ac.uk/events/kpri-parliamentary-internship-scheme-policy-lab",
+    "https://www.kcl.ac.uk/news/sspp-students-helping-local-charities-overcome-challenges-3",
+    "https://www.kcl.ac.uk/news/kings-volunteering-fairs-help-students-build-skills-and-community-connections-copy"
+   ],
+   "finding": "Policy Lab (S13) and Community Impact Lab (S14) found; SSPP charity item is the Civic Challenge; Undisciplined Spaces is co-curricular community research (not tested)."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched (budget exhausted): Dickson Poon School of Law (King's Legal Clinic), health faculties (Nursing, Life Sciences & Medicine, IoPPN) and Dentistry."
+   "status": "Searched",
+   "queries": [
+    "King's Legal Clinic students pro bono; health students interprofessional project community partner"
+   ],
+   "key_sources": [
+    "https://www.kcl.ac.uk/law/law-in-practice"
+   ],
+   "finding": "Legal Clinic is client-advice pro bono (individual casework), not a group project brief; no health project route found."
   }
  },
  "schemes": [
@@ -1084,6 +1097,127 @@
      ]
     }
    ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "faculty_areas": [
+    "central"
+   ],
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "participation_data": "",
+   "local_id": "S13",
+   "official_name": "KPRI Parliamentary Internship Scheme: Policy Lab",
+   "english_name": "Policy Lab",
+   "description": "Six-week King's Edge activity: a small cross-disciplinary team of King's students responds to a live policy question tied to House of Lords business, supported by King's Parliamentary Researchers, and produces a co-authored policy briefing for interested peers.",
+   "academic_reach": "University-wide",
+   "admin_host": "King's Edge / KPRI",
+   "eligible_faculties_programmes": "All King's students",
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Open to all King's students; page says activity now full",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "140 K Points; no academic credit",
+   "duration": "6 weeks, 28 May-2 July 2026, ~5 hrs/week",
+   "delivery_format": "Team project with weekly check-ins",
+   "project_based": "Yes",
+   "project_evidence": "Live policy question; co-authored policy briefing [1].",
+   "group_working": "Yes",
+   "group_evidence": "'small, cross-disciplinary team' producing a co-authored briefing [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Briefing goes to interested peers (individual parliamentarians) via King's network; no external organisation is shown setting the brief; themes shaped around the King's Speech, and who chooses the question is not stated [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Recipients are peers; not a client organisation",
+   "deliverable": "Co-authored policy briefing",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "unresolved": "Whether peers/House of Lords act as commissioner; the supporting researchers are King's staff.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://edge.kcl.ac.uk/events/kpri-parliamentary-internship-scheme-policy-lab",
+     "title": "KPRI Parliamentary Internship Scheme: Policy Lab",
+     "section": "Event page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Open to all King's students; six weeks 28 May-2 July 2026; small cross-disciplinary team; co-authored policy briefing submitted to interested peers; supported by King's Parliamentary Researchers.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "faculty_areas": [
+    "central"
+   ],
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "named_partners": "Serve On, Refugee Education UK, Screen Share UK, Carers UK, Volunteer Centre Kensington and Chelsea (first event, year not shown)",
+   "participation_data": "",
+   "local_id": "S14",
+   "official_name": "Community Impact Lab",
+   "english_name": "Community Impact Lab",
+   "description": "Two one-day events a year run by King's Volunteering and the Entrepreneurship Institute. Charities bring a live problem; student teams analyse it, generate ideas and present practical recommendations to the organisation at the end of the day. First event: 70+ students from different faculties, five charity partners (Serve On, Refugee Education UK, Screen Share UK, Carers UK, Volunteer Centre Kensington and Chelsea).",
+   "academic_reach": "University-wide",
+   "admin_host": "King's Volunteering with Entrepreneurship Institute",
+   "eligible_faculties_programmes": "Students from different faculties (eligibility rules not seen)",
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not stated in extract",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "One day per event",
+   "delivery_format": "Workshop-style challenge day",
+   "project_based": "Yes",
+   "project_evidence": "Teams develop recommendations for a charity's live challenge and present them [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams analyse the challenge' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Charity partners bring the live problem and receive the end-of-day presentation [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Sets challenge, receives recommendations",
+   "deliverable": "Presented recommendations",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Date of events; eligibility; depth of a one-day output.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.kcl.ac.uk/news/kings-volunteering-fairs-help-students-build-skills-and-community-connections-copy",
+     "title": "Students use entrepreneurial skills to address real-world social challenges",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Two one-day events each year; charities bring a live problem; teams develop practical recommendations presented to the organisation; first event over 70 students, five charity partners.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
@@ -1126,9 +1260,25 @@
    "reason": "Student-run society doing consulting for non-profits and social enterprises. It is not university-run provision, and no university-level evidence was obtained.",
    "source_url": "https://www.kcl.ac.uk/business/undergraduate/student-experience/student-societies",
    "status_note": ""
+  },
+  {
+   "name": "King's Legal Clinic",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Students advise individual clients under supervising lawyers; casework/service, no team project brief evidenced. Refugee Family Reunion clinic pairs law and biomedical students but its brief/output was not tested.",
+   "source_url": "https://www.kcl.ac.uk/law/law-in-practice",
+   "status_note": "Active 2024-25"
+  },
+  {
+   "name": "Undisciplined Spaces",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Co-curricular programme pairing SSPP/Arts & Humanities undergraduates with community researchers; team, output and organisation role not tested.",
+   "source_url": "https://www.kcl.ac.uk/news/kings-students-community-based-projects-address-marginalisation-in-six-countries",
+   "status_note": "Undated"
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**King's College London** (partial review) has live-client project provision spread across the Business School, Informatics and central civic and careers units. Some routes are confirmed to involve group working; for others it is unverified.\n\n- **Fully qualifying, current:** The **King's Business School Consultancy** places teams of 3-4 final-year economics, business and management undergraduates with up to 15 local enterprises. Teams deliver a presentation and written recommendations, and a summer 2026 call is open.\n- **Qualifying but undated:** On the **MSc Advanced Software Engineering**, teams build software for external partners, including public-sector challenges with AWS mentors (Richmond and Wandsworth Councils). The **Careers Insights Programme** runs 2-week group virtual micro-internships on employer-proposed briefs for final-year undergraduates across all nine faculties.\n- **Live clients, group working unclear:** Informatics' **Knowledge Exchange Projects** (over 90 since 2022; partners set the brief, join supervision and receive the software; up to five students per brief; 2025/26 confirmed). **PPM Consultancy** (NHS trusts, Hackney, charities; Jan-Apr 2026). The MSc International Management **Business Consulting Project** (competitive, 45 credits).\n- **Civic routes:** The **Civic Leadership Academy** (charity partners; 2025-26 Kickstarter challenge with student groups and a 6-week project internship) and the **King's Civic Challenge** (student-staff-charity teams pitching for up to £5,000; no current round found).\n- **No external client evidenced:** Team projects without an evidenced external client include the second-year Software Engineering Group Project and the Engineering MEng group project.\n\n**Not yet searched:** science, arts and humanities, social sciences, law and health, so further departmental routes are likely.",
- "gaps": "Science, AHSS and other areas unsearched (budget). Group-working evidence missing for KEPs, PPM Consultancy, IM Business Consulting Project and the GHRM Benifex project. Dated current-year evidence missing for Insights, MSc ASE partner project and Civic Challenge. Whether Insights and CLA are open to all students or targeted at under-represented groups. KBS Consultancy timing inconsistency (summer 2026 vs w/c 30 November). Further departmental instances likely (e.g. KBS MSc capstones, SSPP charity projects, Policy Institute)."
+ "profile_md": "**King's College London** (partial review) has live-client project provision spread across the Business School, Informatics and central civic and careers units. Some routes are confirmed to involve group working; for others it is unverified.\n\n- **Fully qualifying, current:** The **King's Business School Consultancy** places teams of 3-4 final-year economics, business and management undergraduates with up to 15 local enterprises. Teams deliver a presentation and written recommendations, and a summer 2026 call is open.\n- **Qualifying but undated:** On the **MSc Advanced Software Engineering**, teams build software for external partners, including public-sector challenges with AWS mentors (Richmond and Wandsworth Councils). The **Careers Insights Programme** runs 2-week group virtual micro-internships on employer-proposed briefs for final-year undergraduates across all nine faculties.\n- **Live clients, group working unclear:** Informatics' **Knowledge Exchange Projects** (over 90 since 2022; partners set the brief, join supervision and receive the software; up to five students per brief; 2025/26 confirmed). **PPM Consultancy** (NHS trusts, Hackney, charities; Jan-Apr 2026). The MSc International Management **Business Consulting Project** (competitive, 45 credits).\n- **Civic routes:** The **Civic Leadership Academy** (charity partners; 2025-26 Kickstarter challenge with student groups and a 6-week project internship) and the **King's Civic Challenge** (student-staff-charity teams pitching for up to £5,000; no current round found).\n- **No external client evidenced:** Team projects without an evidenced external client include the second-year Software Engineering Group Project and the Engineering MEng group project.\n\n**Not yet searched:** science, arts and humanities, social sciences, law and health, so further departmental routes are likely.\n\nUpdate (reduced-depth completion): central AHSS routes added: **Policy Lab** (6-week, all-student team policy briefing for peers; Jun 2026; external client unclear) and **Community Impact Lab** (one-day charity challenge teams; undated). Science and Law/health searches found no qualifying team-with-client route; the Legal Clinic is individual casework.",
+ "gaps": "Science, AHSS and other searched lightly (1-2 queries each); further departmental instances likely. Group-working evidence missing for KEPs, PPM Consultancy, IM Business Consulting Project and the GHRM Benifex project. Dated current-year evidence missing for Insights, MSc ASE partner project and Civic Challenge. Whether Insights and CLA are open to all students or targeted at under-represented groups. KBS Consultancy timing inconsistency (summer 2026 vs w/c 30 November). Further departmental instances likely (e.g. KBS MSc capstones, SSPP charity projects, Policy Institute)."
 }

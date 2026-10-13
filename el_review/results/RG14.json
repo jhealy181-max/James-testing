@@ -1,9 +1,9 @@
 {
  "inst_id": "RG14",
  "institution": "University of Manchester",
- "review_status": "Partial",
- "partial_remaining": "Search budget exhausted (shared WebSearch per-turn limit hit). Remaining: arts_humanities_social_sciences and other (law, architecture, health) areas unsearched; Careers Service programmes; science departments beyond BIOL60760; group-format and dated-status checks for S6, S7, S9, S10, S11.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -12,7 +12,8 @@
     "UCIL unit students work in groups external partner organisation live project brief",
     "Masood Enterprise Centre Enterprise Challenge UCIL community-based enterprise project teams organisation",
     "\"Manchester Enterprise Challenge\" students charity social enterprise pitch 2025",
-    "University Living Lab Manchester students work with external partners (x2; second failed: search budget exhausted)"
+    "University Living Lab Manchester students work with external partners (x2; second failed: search budget exhausted)",
+    "University of Manchester Careers Service student consultancy employer project team"
    ],
    "key_sources": [
     "https://www.ucil.manchester.ac.uk/info-for-students/enterprise-challenge/",
@@ -20,7 +21,7 @@
     "https://www.ucil.manchester.ac.uk/info-for-students/why-study-ucil-unit/",
     "https://www.seed.manchester.ac.uk/connect/social-responsibility/"
    ],
-   "finding": "UCIL is an elective interdisciplinary framework; its qualifying underlying activity is the Enterprise Challenge (UCIL enterprise unit + group project for a local charity/social enterprise). The University Living Lab connects assessment to projects set by ~50 external stakeholders (group format unverified). Careers-service project programmes not searched (budget)."
+   "finding": "UCIL is an elective interdisciplinary framework; its qualifying underlying activity is the Enterprise Challenge (UCIL enterprise unit + group project for a local charity/social enterprise). The University Living Lab connects assessment to projects set by ~50 external stakeholders (group format unverified). Careers-service project programmes not searched (budget). Careers Service search found no student project programme (employer engagement only). Enterprise Challenge page re-fetched (page text): group of ~20 hours each; no year or dates given."
   },
   "business": {
    "status": "Searched",
@@ -66,18 +67,29 @@
    "finding": "One query only: BIOL60760 Commercialisation in the Life Sciences (group project with an external company) found; Biotechnology group enterprise projects need checking. Chemistry, Physics, Maths, Earth/Environmental Sciences not searched individually."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [
-    "https://www.seed.manchester.ac.uk/connect/social-responsibility/"
+   "status": "Searched",
+   "queries": [
+    "University of Manchester social sciences students group project real client organisation unit consultancy",
+    "Manchester Law School Legal Advice Centre ... Politics Sociology placement project external organisation unit"
    ],
-   "finding": "Not searched directly: the shared web-search budget was exhausted. Only incidental evidence: SEED's University Living Lab (S11). Humanities consultancy units (e.g. Politics, Sociology, Arts Methods, Social Statistics/Q-Step, MA programmes) remain unchecked."
+   "key_sources": [
+    "https://www.socialsciences.manchester.ac.uk/law/study/careers-and-employability/legal-advice-centre/"
+   ],
+   "finding": "No humanities/social-science group client unit surfaced in two reduced-depth queries; Legal Advice Centre is individual supervised client advice (near-miss)."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search budget exhausted. Law (e.g. Legal Advice Centre), Architecture (Manchester School of Architecture live projects), Faculty of Biology, Medicine and Health remain unchecked."
+   "status": "Searched",
+   "queries": [
+    "Manchester School of Architecture live project students client community group",
+    "MSA Collaborative Practice unit students groups MSA Live external collaborator brief 2025/26",
+    "Law clinic query (above)"
+   ],
+   "key_sources": [
+    "https://www.msa.ac.uk/2025/",
+    "https://msa.ac.uk/2026/msalive/",
+    "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06246/bsc-information-technology-management-for-business/all-content/"
+   ],
+   "finding": "MSA Live (joint Manchester/MMU architecture school) found; also BSc ITMB Integrative Team Projects with Lloyds/P&G."
   }
  },
  "schemes": [
@@ -619,7 +631,7 @@
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "Undated (7 May showcase; year not stated)",
    "participation_data": "",
-   "unresolved": "News item undated in extract (7 May showcase consistent with 2025 but not confirmed); no dated 2025/26-2026/27 corroboration retrieved; credit for project component unclear; whether team composition is cross-disciplinary not confirmed.",
+   "unresolved": "News item undated in extract (7 May showcase consistent with 2025 but not confirmed); no dated 2025/26-2026/27 corroboration retrieved; credit for project component unclear; whether team composition is cross-disciplinary not confirmed. Re-fetched 2026-10-13: page gives no year or dates.",
    "legacy_ref": "University College for Interdisciplinary Learning (UCIL)",
    "sources": [
     {
@@ -1045,6 +1057,154 @@
      ]
     }
    ]
+  },
+  {
+   "local_id": "S13",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSA LIVE (Manchester School of Architecture live projects)",
+   "english_name": "MSA LIVE",
+   "module_code": "",
+   "description": "Annual Feb-May programme in which mixed-year student groups (Foundation, BA1, MLA1, MArch1, MA+AR) work with external community groups, charities and councils to develop a brief and a project with community benefit; about 400 students on 34 projects with over 50 external collaborators in 2026. MSA is a joint school of the University of Manchester and Manchester Metropolitan University, so cohort split is not established.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Manchester School of Architecture (joint UoM/MMU)",
+   "eligible_faculties_programmes": "Architecture and landscape students across several cohorts",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Foundation, BA1, MLA1, MArch1, MA+AR",
+   "eligibility_restrictions": "Architecture school students; not evidenced which are University of Manchester",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not retrieved",
+   "duration": "February to May",
+   "delivery_format": "Group live projects with external collaborators",
+   "project_based": "Yes",
+   "project_evidence": "Live projects with brief and outcome developed with partner [2][3].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in groups with peers from other cohorts; group contracts and per-group blogs [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External partners develop the brief and outcome and meet groups; clients include community groups, charities, councils [1][3].",
+   "partner_type": "Charity/community",
+   "partner_role": "Collaborators co-develop brief and receive outcome",
+   "named_partners": "Stockport Council (Merseyway, 2024, from search summary)",
+   "deliverable": "Design proposals/live project outcomes",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "About 400 students, 34 projects, over 50 collaborators (MSA LIVE 26)",
+   "unresolved": "Which students are University of Manchester vs MMU; compulsory status; credits; 2025 page says over 40 community groups, 2026 over 50 collaborators.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.msa.ac.uk/2025/",
+     "title": "MSA 2025",
+     "section": "MSA LIVE",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "MSA LIVE 'supports over 40 community groups and charities with live projects'.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.msa.ac.uk/live/",
+     "title": "MSA LIVE",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Live project: educational organisation and external partner develop a brief, timescale and outcome for mutual benefit.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://msa.ac.uk/2026/msalive/",
+     "title": "MSA LIVE 26",
+     "section": "Overview",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "About 400 students across 5 cohorts, 34 projects, 50+ external collaborators, February to May; groups from multiple cohorts.",
+     "supports": [
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S14",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Integrative Team Project 1 and 2 (BSc Information Technology Management for Business)",
+   "english_name": "Integrative Team Project",
+   "module_code": "BMAN10690 / BMAN24650",
+   "description": "Year 1 team project developing an application for a real business problem (supported by Lloyds Bank) and Year 2 year-long team consultancy project (supported by Procter & Gamble); results shown to employers at showcases.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Alliance Manchester Business School",
+   "eligible_faculties_programmes": "BSc IT Management for Business (and Industrial Experience variant)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 1 and 2",
+   "eligibility_restrictions": "Programme students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits each, mandatory",
+   "duration": "Year-long",
+   "delivery_format": "Team project with employer showcases",
+   "project_based": "Yes",
+   "project_evidence": "App for a real business problem; consultancy project [1].",
+   "group_working": "Yes",
+   "group_evidence": "'team project' / 'team consultancy project' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Lloyds Bank and P&G 'support' the units and employers see outputs at showcases [1]; whether they set briefs is not stated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supporting companies; employers view showcases",
+   "named_partners": "Lloyds Bank; Procter & Gamble (2027-entry page)",
+   "deliverable": "Application / consultancy output",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2027 entry (course page)",
+   "participation_data": "",
+   "unresolved": "Whether partners set briefs or assess; team size.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06246/bsc-information-technology-management-for-business/all-content/",
+     "title": "BSc ITMB full details (2027 entry)",
+     "section": "Course content",
+     "pub_year": "2027 entry",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Year 1 BMAN10690 (20 credits, mandatory) supported by Lloyds Bank, 'developing an application to solve a real business problem'; Year 2 BMAN24650 (20 credits) year-long team consultancy project supported by Procter & Gamble; displayed to employers at showcases.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation",
+      "status"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
@@ -1103,9 +1263,17 @@
    "reason": "Group design projects (Chem Eng year 3; Mech Eng year 4) found, but no evidence of external organisation involvement retrieved.",
    "source_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03848/meng-chemical-engineering/course-details/",
    "status_note": "2027 entry page"
+  },
+  {
+   "name": "Legal Advice Centre (Manchester Law)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Students advise individual members of the public under solicitor supervision; clinic casework, not a team project for an organisational client.",
+   "source_url": "https://www.socialsciences.manchester.ac.uk/law/study/careers-and-employability/legal-advice-centre/",
+   "status_note": ""
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**Manchester** has substantial live-client group project provision. It is concentrated in **Alliance Manchester Business School (AMBS)** and selected engineering degrees, with two cross-institutional routes. This review is **partial** because the shared web-search budget ran out.\n\n- **AMBS:**\n  - The **Full-time MBA** builds in several group consultancy projects for real clients. These include the **Social Impact Project** for third-sector clients and the **International Business Project**, where teams of 5-6 bid for client briefs and deliver consultancy.\n  - The **MSc Business Analysis and Strategic Management** offers a 60-credit May-September client consultancy option, assessed by a group report.\n  - **BSc Management** final-year students can choose a live consultancy project with a client company. Whether this is done in groups is unverified.\n- **Engineering and computing:**\n  - The MEng Civil degrees have a compulsory 30-credit **industry-supervised Civil Group Design Project (CIVL41530)**.\n  - **COMP23311** puts about 200 second-year computer scientists in teams of six, each mentored by an industry software engineer. The brief is academic, and the industry role is mentoring only.\n  - The final-year team projects in Electrical and Electronic Engineering and Mechatronics are only sometimes industry-funded.\n- **Cross-institutional:**\n  - The **Manchester Enterprise Challenge** pairs a UCIL enterprise unit, open across the university, with group projects for local charities and social enterprises. Project hosts judge the pitches.\n  - SEED's **University Living Lab** links assessment to more than 150 projects set by about 50 external stakeholders. Whether this work is done in groups was not verified.\n- **Science:** **BIOL60760** includes a group project with an external company.\n\n**Overall picture:** several distributed, mainly programme-embedded routes. There is no university-wide compulsory scheme.\n\n**Uncertain:**\n- Current status of the Enterprise Challenge, Living Lab and COMP23311 mentoring, which rest on undated pages.\n- Group format for the BSc Management consultancy and the Living Lab.\n- Humanities, law, architecture and health, which were not searched.",
- "gaps": "Search budget exhausted after 14 completed searches (shared per-turn WebSearch limit), so the review is Partial. Not searched: Humanities faculty departments (Politics, Sociology, Arts, Languages, Social Statistics), Law, Manchester School of Architecture, Faculty of Biology, Medicine and Health, Careers Service programmes (e.g. any student consultancy or employer challenge), Chemistry/Physics/Maths/Earth Sciences, Aerospace/Mechanical/Chemical Engineering client links, MSc programmes outside AMBS. Unverified: group format of BSc Management consultancy and Living Lab projects; dated 2025/26 evidence for Enterprise Challenge, Living Lab, COMP23311 mentoring, BIOL60760; whether MBA M&A and Strategic Innovation projects have external clients (Commercial Business Project S4 may be superseded). Current-status calls for S1-S3, S5, S6, S8, S12 rest on dated 2025-2027 entry course-structure pages, not cohort reports. Further departmental instances likely."
+ "profile_md": "**Manchester** has substantial live-client group project provision. It is concentrated in **Alliance Manchester Business School (AMBS)** and selected engineering degrees, with two cross-institutional routes. This reduced-depth review is complete across the six areas.\n\n- **AMBS:**\n  - The **Full-time MBA** builds in several group consultancy projects for real clients. These include the **Social Impact Project** for third-sector clients and the **International Business Project**, where teams of 5-6 bid for client briefs and deliver consultancy.\n  - The **MSc Business Analysis and Strategic Management** offers a 60-credit May-September client consultancy option, assessed by a group report.\n  - **BSc Management** final-year students can choose a live consultancy project with a client company. Whether this is done in groups is unverified.\n- **Engineering and computing:**\n  - The MEng Civil degrees have a compulsory 30-credit **industry-supervised Civil Group Design Project (CIVL41530)**.\n  - **COMP23311** puts about 200 second-year computer scientists in teams of six, each mentored by an industry software engineer. The brief is academic, and the industry role is mentoring only.\n  - The final-year team projects in Electrical and Electronic Engineering and Mechatronics are only sometimes industry-funded.\n- **Cross-institutional:**\n  - The **Manchester Enterprise Challenge** pairs a UCIL enterprise unit, open across the university, with group projects for local charities and social enterprises. Project hosts judge the pitches.\n  - SEED's **University Living Lab** links assessment to more than 150 projects set by about 50 external stakeholders. Whether this work is done in groups was not verified.\n- **Architecture:** **MSA LIVE** puts mixed-year student groups on Feb-May live projects for community groups and charities (about 400 students, 34 projects in 2026); cohort split between Manchester and MMU is unclear.\n- **AMBS undergraduate:** BSc IT Management for Business has compulsory team projects supported by Lloyds Bank and P&G; whether they set briefs is unstated.\n- **Science:** **BIOL60760** includes a group project with an external company.\n\n**Overall picture:** several distributed, mainly programme-embedded routes. There is no university-wide compulsory scheme.\n\n**Uncertain:**\n- Current status of the Enterprise Challenge, Living Lab and COMP23311 mentoring, which rest on undated pages.\n- Group format for the BSc Management consultancy and the Living Lab.\n- Humanities and health, where only light searching found nothing.",
+ "gaps": "Reduced-depth review: humanities/social science and health searched lightly with no qualifying unit found; further departmental instances likely. Unverified: group format of S6 and S11; dated 2025/26 evidence for S7, S9, S10, S11; MSA LIVE Manchester vs MMU cohort and compulsory status; whether Lloyds/P&G set briefs in S14; Chemistry/Physics/Maths/Earth Sciences and Aerospace/Mechanical/Chemical client links; Biotechnology group enterprise projects."
 }
