@@ -1,8 +1,8 @@
 {
  "inst_id": "UK12",
  "institution": "East Anglia",
- "review_status": "Partial",
- "partial_remaining": "Search limit reached at about 33 searches. Remaining: (1) 'other' area: Norwich Medical School/health sciences, Education, Social Work, Pharmacy, Law (only the Law Clinic was found; the combined health/education query was refused for the limit). (2) Science: Biological Sciences/Chemistry/Mathematics/Physics only searched with one general query; a school-level query for team external-partner projects is outstanding. (3) Economics consulting project and MA Media live project need module-level evidence on group vs individual working. (4) MSc Sustainability and Society, NBS MSc industry-sponsored project and UEA placement-year industry projects need project/format evidence. (5) NBS undergraduate module names for live briefs (Adnams/EAZS) and current-year run dates. (6) i-Teams current-year run.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-12",
  "search_log": {
   "central": {
@@ -91,12 +91,15 @@
   "other": {
    "status": "Searched",
    "queries": [
-    "UEA Law Clinic OR social work OR Education OR Medicine students group project external organisation community partner"
+    "UEA Law Clinic OR social work OR Education OR Medicine students group project external organisation community partner",
+    "Direct page fetch (curl) of MBBS Medicine, BA Social Work, MPharm Pharmacy, LLB Law course pages"
    ],
    "key_sources": [
-    "https://lawclinic.uea.ac.uk/what-our-students-do/"
+    "https://lawclinic.uea.ac.uk/what-our-students-do/",
+    "https://www.uea.ac.uk/course/undergraduate/mpharm-pharmacy",
+    "https://www.uea.ac.uk/course/undergraduate/mbbs-medicine"
    ],
-   "finding": "Only the voluntary Law Clinic was found (excluded). A follow-up health sciences/education/social work query was refused by the search limit; those schools remain unsearched."
+   "finding": "Law Clinic is voluntary (excluded). MPharm has extended group projects but no external organisation evidenced; Medicine, Social Work, Law course pages show no qualifying employer group project. Education not queried."
   }
  },
  "schemes": [
@@ -176,7 +179,7 @@
    "participation_data": "",
    "likely_duplicate_of": "",
    "legacy_ref": "",
-   "unresolved": "Module(s) in which live briefs run, group vs individual, assessment, whether current each year. Course-page marketing text only.",
+   "unresolved": "Module(s) in which live briefs run, group vs individual, assessment, whether current each year. Course-page marketing text only. Page text re-fetched 2026-10-13 (BA Business Management, start Sept 2027 page): no 'live marketing brief'/Adnams wording found in the fetched text, so the earlier search-summary claim could not be confirmed on page text; treat as unverified.",
    "local_id": "S2",
    "description": "Undergraduate Business Management course page states students tackle 'live marketing briefs for companies like Adnams Brewery and the East Anglian Zoological Society'. Related Marketing and Management page says students have worked with Adnams on past projects and Adnams sponsors an employability prize. No module code, team structure, assessment or cohort year for the live briefs is evidenced in the search results (an older page also mentions a live business problem for a real company, Aviva named as past partner).",
    "academic_reach": "Programme/course",
@@ -191,7 +194,7 @@
    "group_working": "Unclear",
    "group_evidence": "No evidence whether briefs are tackled in teams or individually [2].",
    "employer_connected": "Unclear",
-   "employer_evidence": "Adnams Brewery and East Anglian Zoological Society named as sources of live briefs [2]; not shown how organisations participate or whether it is standard across the cohort.",
+   "employer_evidence": "Adnams Brewery and East Anglian Zoological Society named as sources of live briefs [2]; not shown how organisations participate or whether it is standard across the cohort. On 2026-10-13 direct page fetch the wording was not found.",
    "partner_type": "Mixed",
    "partner_role": "Provide live marketing briefs (as described on course page)",
    "deliverable": "Not evidenced",
@@ -228,13 +231,13 @@
    "year_of_study": "",
    "eligibility_restrictions": "",
    "credit_assessment": "Module credit not evidenced; written report and presentation",
-   "duration": "About three months (2026/27 page)",
+   "duration": "First group consultancy project about one month (incl. a week in Europe); second extended project about three months",
    "delivery_format": "Part-time executive programme with overseas element",
    "named_partners": "",
    "participation_data": "",
    "likely_duplicate_of": "",
    "legacy_ref": "",
-   "unresolved": "Client sector/names not given; module code and credit not retrieved; extract is a search summary of the course page.",
+   "unresolved": "Client sector/names not given; module credit not retrieved. Page text: first project is a group project with an external client (~1 month incl. European week); second project is ~3 months and the student may act 'as an internal consultant for your employer', so the longer project may be employer-based/individual; group + external-client evidence applies to the first project. Page start-date listing includes 2026 entry.",
    "local_id": "S3",
    "description": "Group-based consultancy module in the part-time Executive MBA: teams work with an external client organisation to deliver a substantive written report and presentation on a topic of strategic importance chosen by the client, an extended research-based project of about three months under the theme 'What can I change around here?' (part delivered overseas on the 2026/27 page). An archived 2023/24 page describes a shorter (one month, incl. a European week) version.",
    "academic_reach": "Programme/course",
@@ -253,7 +256,7 @@
    "partner_type": "Unclear",
    "partner_role": "External client sets topic; receives report and presentation",
    "deliverable": "Group written consultancy report + presentation to client",
-   "duration_band": "~1 term/semester",
+   "duration_band": "1–4 weeks",
    "external_partner_coverage": "All/standard",
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2026/27",
@@ -264,9 +267,9 @@
      "title": "MBA Master of Business Administration (Executive Part Time) 2026/27",
      "section": "Course description/modules",
      "pub_year": "2026/27",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Search summary: group-based consultancy module where students work with an external client organisation to deliver a substantive written report and presentation on a topic of strategic importance chosen by the client; about three months; theme 'What can I change around here?'.",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'You'll take part in a group-based consultancy project where you'll work with an external client organisation to deliver a substantive written report and presentation addressing a topic of strategic importance chosen by the client. This project is over the course of a month and includes a week in a European location.' ... 'This is an extended research-based project of around three months again, concluding with a report and presentation around the theme of \"What can I change around here?\"' Compulsory module: MANAGEMENT CONSULTANCY PROJECTS. NB the part-time page also describes acting as an internal consultant for the student's own employer for the second project.",
      "supports": [
       "project",
       "group",
@@ -394,9 +397,9 @@
      "title": "MEng Mechanical Engineering 2026/27",
      "section": "Final year / group project",
      "pub_year": "2026/27",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Search summary: the final-year engineering group project 'will typically be based on a real brief from an industry client, presented to you at the beginning of the year'; teams review the brief, visit the site and develop proposals for presentation; previous students have been offered employment based on project work.",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'bring together all your training in a major multidisciplinary design project. This team-based project will encourage you to apply the breadth of your learning to a real industrial context. The project will typically be based on a real brief from an industry client, presented to you at the beginning of the year. You'll work with your team to review the brief, visit the site and develop proposals for presentation.'",
      "supports": [
       "project",
       "group",
@@ -512,7 +515,7 @@
    "project_based": "Yes",
    "project_evidence": "Consulting project applying analysis to a real-world problem with recommendations [9].",
    "group_working": "Unclear",
-   "group_evidence": "No source says whether the consulting project is team-based or individual [9].",
+   "group_evidence": "Page text frames the consulting project as an alternative within the dissertation module and 'demonstrating independent research' [9]; no team wording, so likely individual. Left Unclear (not confirmed).",
    "employer_connected": "Yes",
    "employer_evidence": "Project is 'in collaboration with an external organisation'; students build a client relationship [9]; sector and extent of client input not stated.",
    "partner_type": "Unclear",
@@ -529,9 +532,9 @@
      "title": "BSc Economics 2026/27 (also Economics and Finance 2026/27; Business Economics 2026/27)",
      "section": "Final year options",
      "pub_year": "2026/27",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Search summary: option to write a dissertation or undertake a consulting project in collaboration with an external organisation; students learn to build a client relationship and identify business needs.",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'A key feature of your final year is the opportunity to undertake an independent research dissertation or a consulting project in collaboration with an external organisation. This allows you to apply economic theory and data analysis to a substantial real-world problem' ; also 'option to undertake a dissertation or consulting project demonstrating independent research' and 'complete a final year consulting project as part of your dissertation module'.",
      "supports": [
       "project",
       "employer",
@@ -558,7 +561,7 @@
    "participation_data": "",
    "likely_duplicate_of": "",
    "legacy_ref": "",
-   "unresolved": "Group vs individual; deliverable; credits; whether the module is compulsory for all MA students on the programme.",
+   "unresolved": "Group vs individual; deliverable; credits. Module listed as compulsory on the course page text; partner role (brief-setting vs hosting) not detailed.",
    "local_id": "S8",
    "description": "Specialist module (Media and Development in Practice, MADIP) in the MA: students work on a real-world 'media and development' project with a business, charity or media organisation, reflecting critically on project design, development and delivery; recent partners listed include Action Aid, Amref Africa, Anti-Slavery International, British Red Cross, BBC Radio Norfolk, Girl Effect, Public Media Alliance, Save the Children International, WaterAid. Alternative to the summer dissertation/work placement route on the 2025/26 page.",
    "academic_reach": "Programme/course",
@@ -588,9 +591,9 @@
      "title": "MA Media, Communication and Global Development 2026/27",
      "section": "Course description",
      "pub_year": "2026/27",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Search summary: students work on a real-world 'media and development' project with a leading business, charity, or media organisation; recent partners include Action Aid, Amref Africa, Anti-Slavery International, BBC Radio Norfolk, Girl Effect, Public Media Alliance, Save the Children International, WaterAid.",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Later, you'll have the opportunity to gain practical experience by working on a live project that uses media to promote positive social change. You'll also critically reflect on the issues and processes involved in project design, development, and delivery. Recent project partners have included Action Aid, Amref Africa, Anti-Slavery International, BBC Radio Norfolk, Girl Effect, the Public Media Alliance, Save the Children and WaterAid.' MEDIA AND DEVELOPMENT IN PRACTICE is listed under Compulsory Modules.",
      "supports": [
       "project",
       "employer",
@@ -858,9 +861,9 @@
      "title": "MSc Sustainability and Society 2027/28",
      "section": "Course description",
      "pub_year": "2027/28",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Search summary: core modules include practical sessions where students work with partner organisations on real-world problems and initiatives, collaborating with external organisations on sustainability solutions.",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Core modules will introduce you to the key ideas and skills... These modules will include practical experiences where you'll work alongside partner organisations to apply the skills you've learnt to real-world problems and initiatives.'",
      "supports": [
       "employer",
       "status"
@@ -941,9 +944,25 @@
    "reason": "2015 page about 8-week charity projects by teams across six UK universities; no evidence that UEA took part or that it runs now.",
    "source_url": "https://mycareercentral.uea.ac.uk/students/news/detail/78/tcs-tech-challenge",
    "status_note": "2015, historical"
+  },
+  {
+   "name": "MPharm Pharmacy extended group projects",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Page text: 'you'll complete extended group projects to improve population health by developing new services and health campaigns. Placements will provide opportunities to enhance real healthcare services.' Group and project yes, but no external organisation documented as setting the brief or receiving outputs.",
+   "source_url": "https://www.uea.ac.uk/course/undergraduate/mpharm-pharmacy",
+   "status_note": "Course page, Sept 2027 start (2025/2026 starts also listed)"
+  },
+  {
+   "name": "Medicine (MBBS), BA Social Work, LLB Law course pages",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Course page text fetched 2026-10-13 contained no group project with external organisation wording (placements and clinical/practice learning are individual or non-project). Education school not queried.",
+   "source_url": "https://www.uea.ac.uk/course/undergraduate/mbbs-medicine",
+   "status_note": ""
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "UEA's documented provision is distributed across schools rather than set by a central framework. CareerCentral invites employers to set 'live briefs' for group projects inside course modules, but names no modules or cohorts, so it is an umbrella only.\n\nThe firmest routes are programme-embedded. The Executive MBA runs a group-based consultancy project of about three months in which an external client chooses the topic and receives a report and presentation (2026/27 page). The MEng engineering degrees (Mechanical, Energy, Electrical and Electronic) end with a team project that is typically based on a real industry-client brief, with a site visit and a presentation to professional engineers. These are compulsory within those programmes, not institution-wide.\n\nWeaker or incomplete routes: MComp Computing group projects (industry problem or internal research group); an Economics consulting project option with an external organisation (team format unknown); MA Media, Communication and Global Development live projects with named charities and media bodies (group working not shown); Business Management live marketing briefs for Adnams and the East Anglian Zoological Society (course-page wording only); and i-Teams, an extracurricular postgraduate team programme mixing Norwich Research Park innovations with regional organisations. A newly announced Master's placement-year route guarantees three small-group industry projects with UK organisations, but first delivery is not yet evidenced.\n\nUncertain: group versus individual working in several routes, module codes and credits, and health, education and social-science schools, which are not fully searched (Partial review).",
- "gaps": "Search limit reached. Health sciences/Medicine/Education/Social Work/Pharmacy not searched; science schools only generally searched. Module-level evidence (codes, credits, team format, client names) missing for most routes; all extracts are search-index summaries of course pages rather than handbook text. Further departmental instances likely (e.g. other MEng/MComp variants, NBS postgraduate programmes)."
+ "profile_md": "UEA's documented provision is distributed across schools rather than set by a central framework. CareerCentral invites employers to set 'live briefs' for group projects inside course modules, but names no modules or cohorts, so it is an umbrella only.\n\nThe firmest routes are programme-embedded. The Executive MBA runs a group-based consultancy project of about three months in which an external client chooses the topic and receives a report and presentation (2026/27 page). The MEng engineering degrees (Mechanical, Energy, Electrical and Electronic) end with a team project that is typically based on a real industry-client brief, with a site visit and a presentation to professional engineers. These are compulsory within those programmes, not institution-wide.\n\nWeaker or incomplete routes: MComp Computing group projects (industry problem or internal research group); an Economics consulting project option with an external organisation (team format unknown); MA Media, Communication and Global Development live projects with named charities and media bodies (group working not shown); Business Management live marketing briefs for Adnams and the East Anglian Zoological Society (course-page wording only); and i-Teams, an extracurricular postgraduate team programme mixing Norwich Research Park innovations with regional organisations. A newly announced Master's placement-year route guarantees three small-group industry projects with UK organisations, but first delivery is not yet evidenced.\n\nUncertain: group versus individual working in several routes, module codes and credits, and the School of Education and several science schools, which were only lightly queried.",
+ "gaps": "WebFetch returned HTTP 405 for all uea.ac.uk pages; page text was instead retrieved by direct HTTPS download (curl) on 2026-10-13 and quoted for S2, S3, S5, S7, S8, S12 and the 'other' pages. Remaining sources (S1, S4, S6, S9, S10, S11) are still search summaries. Module codes/credits, team format (Economics, MA Media, NBS MSc options), and client names missing for most routes. School of Education and Natural Sciences schools (biology, chemistry, maths) only generally queried. Further departmental instances likely."
 }
