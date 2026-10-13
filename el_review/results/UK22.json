@@ -1,0 +1,354 @@
+{
+ "inst_id": "UK22",
+ "institution": "Royal Holloway, University of London",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Royal Holloway student consultancy live client project employer team",
+    "Royal Holloway Careers and Employability employer challenge project students teams Enterprise Hub live brief"
+   ],
+   "key_sources": [
+    "https://www.royalholloway.ac.uk/research-and-education/education/embedding-employability/",
+    "https://www.royalholloway.ac.uk/about-us/recruiting-our-students/careers-service-statement-of-service/"
+   ],
+   "finding": "No central student consultancy or university-wide employer-project scheme found. Careers Service offers fairs, placements and a Summer Skills Placement Programme (individual). 'Embedding employability' page cites departmental employer-linked activities (undated, no group/project detail). Legacy Volunteer Awards is recognition of volunteering, not a project scheme."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Royal Holloway School of Business and Management consultancy project module client organisation",
+    "Royal Holloway Digital Marketing Consultancy MN5621 client brief",
+    "Royal Holloway Digital Business MSc working in teams digital consultancy client",
+    "Royal Holloway Business and Management Impact Project OR Management Consulting undergraduate module client external organisation group"
+   ],
+   "key_sources": [
+    "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-school/digital-marketing-msc/",
+    "https://www.royalholloway.ac.uk/media/26720/digital-business-msc-3749.pdf",
+    "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/ai-for-business-msc/"
+   ],
+   "finding": "Client-consultancy modules exist on MSc Digital Marketing (MN5621) and MSc Digital Business (MN5802, mandatory, team-based per search extract), but whether clients are external organisations, and for MN5621 whether work is in teams, is not documented. AI for Business MSc consulting project is individual. UG Impact Projects (MN3007/8) lack evidence of external clients or groups."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Royal Holloway Computer Science final year group project industry client",
+    "Royal Holloway MSci Team Project CS4825 real clients software company 2025/26"
+   ],
+   "key_sources": [
+    "https://www.royalholloway.ac.uk/studying-here/undergraduate/computer-science/computer-science-software-engineering-msci/",
+    "https://www.royalholloway.ac.uk/media/dmfhzdkk/computer-science-software-engineering-msci-g461.pdf",
+    "https://www.royalholloway.ac.uk/research-and-education/subjects/computer-science/working-with-companies/"
+   ],
+   "finding": "CS4825 MSci Team Project (60 credits, mandatory, Software Engineering MSci) is a team project 'for real clients' run as a company; client identity (external vs in-house CodeGroovers) not documented. Final-year individual projects can be company-proposed (individual, excluded). No separate engineering faculty found."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Royal Holloway Geography OR Biological Sciences OR Mathematics OR Physics external partner group project module"
+   ],
+   "key_sources": [
+    "https://www.royalholloway.ac.uk/studying-here/undergraduate/geography/physical-geography/",
+    "https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/schools/school-of-engineering-physical-and-mathematical-sciences/partnerships/"
+   ],
+   "finding": "Physical Geography has an Independent Placement-Linked Dissertation (individual); Physics 'Advanced Skills in Physics' has a group project with no external partner evidenced. Nothing qualifying verified in sciences (single broad query only)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Royal Holloway Politics OR Media OR Drama OR Music OR History students project with external organisation client module"
+   ],
+   "key_sources": [
+    "https://www.royalholloway.ac.uk/research-and-education/education/embedding-employability/"
+   ],
+   "finding": "No live-client group module found in Politics, Music, Drama, History, English. Geography 'urban promotion plans for real cities' presented to industry assessors (employability page) is undated and its group basis unknown."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Royal Holloway Law OR Psychology OR Health OR Creative project external partner module students teams client"
+   ],
+   "key_sources": [],
+   "finding": "Search returned only irrelevant IT pages; no law clinic, health or design client-project evidence found. Not exhaustively tested."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CS4825 MSci Team Project",
+   "english_name": "MSci Team Project",
+   "module_code": "CS4825",
+   "description": "Final-year (Year 4) core module on the Software Engineering MSci: teams of students work 'in the context of a company where they have specific responsibilities' on projects 'for real clients', engaging clients, building and presenting software.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science",
+   "eligible_faculties_programmes": "Computer Science (Software Engineering) MSci (G461) and possibly related MSci routes",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 4",
+   "eligibility_restrictions": "MSci Software Engineering students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60 credits, Level 7, mandatory condonable (programme spec 2025/26)",
+   "duration": "Full final year (60 credits)",
+   "delivery_format": "Team project run as a company",
+   "project_based": "Yes",
+   "project_evidence": "Software built, tested and presented for real clients; 60-credit module [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of students will: work in the context of a company' [1]; programme outcome 'work as part of a professional team to deliver a large-scale product for a realistic client' [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page says 'projects for real clients' [1] but programme spec says 'realistic client' [2], and the department has an in-house software company (CodeGroovers); no source states that clients are external organisations or names any.",
+   "partner_type": "Unclear",
+   "partner_role": "Client (identity unspecified)",
+   "named_partners": "",
+   "deliverable": "Software product delivered/presented to client",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (programme specification, year of entry 2025/26)",
+   "participation_data": "",
+   "unresolved": "Whether clients are external organisations or internal/CodeGroovers; wording 'real' vs 'realistic' differs between sources.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/computer-science/computer-science-software-engineering-msci/",
+     "title": "Computer Science (Software Engineering) MSci",
+     "section": "MSci Team Project (Year 4)",
+     "pub_year": "2026/2027 entry",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'The main aim of the Team Project is to give extensive experience to students in working in projects for real clients'; 'Teams of students will: work in the context of a company where they have specific responsibilities'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.royalholloway.ac.uk/media/dmfhzdkk/computer-science-software-engineering-msci-g461.pdf",
+     "title": "Computer Science (Software Engineering) MSci (G461) programme specification",
+     "section": "Mandatory modules; learning outcomes",
+     "pub_year": "2025/26 entry (spec updated April 2024)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch PDF, text extracted locally)",
+     "extract": "Year 4: 'CS4825 MSci Team Project 60 7 MC'; outcome 9.5.1 'Be able to work as part of a professional team to deliver a large-scale product for a realistic client.'",
+     "supports": [
+      "credit",
+      "participation",
+      "status",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Consultancy in the Digital Era (MSc Digital Business)",
+   "english_name": "Consultancy in the Digital Era",
+   "module_code": "MN5802",
+   "description": "Mandatory module on MSc Digital Business in which, per the programme page text returned by search, students working in teams provide digital consultancy for a client needing a digital solution (strategy, vision, data analysis, project management).",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Business and Management",
+   "eligible_faculties_programmes": "MSc Digital Business (course code 3749)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 1 of 1-year MSc",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits, Level 7, mandatory condonable (2024/25 spec); assessment not seen",
+   "duration": "Unclear",
+   "delivery_format": "Team consultancy for a client",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy covering digital strategy, vision, data analysis and project management for a client [2].",
+   "group_working": "Yes",
+   "group_evidence": "'Working in teams, you will provide digital consultancy for a client' (search-index extract of programme page, test-cms host) [2]; the official-host page fetched did not repeat this wording.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'a client' not identified as an external organisation; no named partners or role evidenced.",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "named_partners": "",
+   "deliverable": "Digital consultancy output (form unspecified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (spec); programme page lists 2027 entry",
+   "participation_data": "",
+   "unresolved": "Whether clients are real external organisations; group wording only from a test-cms search extract; module not corroborated for 2025/26-2026/27.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.royalholloway.ac.uk/media/26720/digital-business-msc-3749.pdf",
+     "title": "Digital Business MSc programme specification (3749)",
+     "section": "Mandatory modules",
+     "pub_year": "2024/25 entry (updated Nov 2023)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch PDF, text extracted locally)",
+     "extract": "'MN5802 Consultancy in the Digital Era 15 7 MC'; mandatory modules are compulsory for all students.",
+     "supports": [
+      "participation",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://test-cms.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/digital-business-msc/",
+     "title": "Digital Business MSc",
+     "section": "Course description",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted; direct fetch returned 403)",
+     "extract": "'Working in teams, you will provide digital consultancy for a client that requires a contemporary digital solution, encompassing digital strategy, vision, data analysis, and project management.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Digital Marketing Consultancy (MSc Digital Marketing)",
+   "english_name": "Digital Marketing Consultancy",
+   "module_code": "MN5621",
+   "description": "MSc Digital Marketing module using action learning: a project carried out as prescribed by a client, with findings presented back to the client; assignment form depends on client requirements.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Business and Management",
+   "eligible_faculties_programmes": "MSc Digital Marketing",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits (MSc programme PDF per search result)",
+   "duration": "Unclear",
+   "delivery_format": "Client project, action learning",
+   "project_based": "Yes",
+   "project_evidence": "'carry out work required to achieve a particular outcome as prescribed by a client'; findings presented to client [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Module lists 'teamwork' among skills; page mentions group projects among course assessment methods generally, but not that this client project is done in groups [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "A 'client' prescribes the work and receives the presentation [1], but the page does not say clients are external organisations or how many projects use them.",
+   "partner_type": "Unclear",
+   "partner_role": "Client prescribes outcome; receives findings",
+   "named_partners": "",
+   "deliverable": "Consultancy assignment (diagnosis/solution/recommendations/implementation support) presented to client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (Moodle listing seen in search result); programme page lists 2027 entry",
+   "participation_data": "",
+   "unresolved": "Group vs individual; external vs hypothetical clients; whether compulsory; current-year delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-school/digital-marketing-msc/",
+     "title": "Digital Marketing MSc",
+     "section": "Digital Marketing Consultancy module",
+     "pub_year": "undated (page shows 2027 entry)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'The module will include a project where you will be required to carry out work required to achieve a particular outcome as prescribed by a client'; 'The consultancy assignment itself will take one of many forms in accordance with the client's requirements'; 'authentic projects'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Royal Holloway Volunteer Awards",
+   "legacy": true,
+   "category": "Volunteering/service-learning",
+   "reason": "Recognition of hours of individual community volunteering (30/50/100 hours) with 100+ partners; no bounded group project (A, B not met).",
+   "source_url": "https://intranet.royalholloway.ac.uk/students/campus-life/volunteering/the-royal-holloway-volunteer-awards-2026.aspx",
+   "status_note": "2025/26 awards per legacy row; not re-fetched"
+  },
+  {
+   "name": "Computer Science individual final-year projects proposed by companies",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Companies may propose projects but each student completes an individual project supervised by an academic.",
+   "source_url": "https://www.royalholloway.ac.uk/research-and-education/subjects/computer-science/working-with-companies/",
+   "status_note": ""
+  },
+  {
+   "name": "Consulting Project, MSc AI for Business / Business Analytics (MN5821)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Consulting project is 'work individually, guided by an academic supervisor' with access to industry professionals.",
+   "source_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/ai-for-business-msc/",
+   "status_note": ""
+  },
+  {
+   "name": "Business and Management Impact Project I/II (MN3007/MN3008)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Described as real-world business challenges but not always tied to an external client; no group or client evidence.",
+   "source_url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/business-school/business-and-management/",
+   "status_note": ""
+  },
+  {
+   "name": "Geography urban promotion plans for real cities / CIMA business game / Dragon's Den",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Mentioned on Embedding employability page (undated): industry assessors, CIMA-set challenges; no module, group basis or duration evidenced.",
+   "source_url": "https://www.royalholloway.ac.uk/research-and-education/education/embedding-employability/",
+   "status_note": ""
+  },
+  {
+   "name": "Independent Placement-Linked Dissertation (Physical Geography, Year 3)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual dissertation linked to a placement organisation; not group.",
+   "source_url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/geography/physical-geography/",
+   "status_note": ""
+  },
+  {
+   "name": "Royal Hackaway",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "24-hour student hackathon; no employer-set brief evidenced in the search extract.",
+   "source_url": "https://www.royalholloway.ac.uk/research-and-education/subjects/computer-science/news/royal-hackaway-showcases-students-talent-and-teamwork/",
+   "status_note": ""
+  },
+  {
+   "name": "CS2815 Small enterprise team project (Year 2)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Mandatory team module seen in programme spec listing; external client involvement not evidenced; not researched under reduced depth.",
+   "source_url": "https://www.royalholloway.ac.uk/media/dmfhzdkk/computer-science-software-engineering-msci-g461.pdf",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "No scheme fully meeting all three criteria was verified through the documented search. The strongest lead is **CS4825 MSci Team Project**, a mandatory 60-credit final-year module on the Software Engineering MSci in which teams operate as a company on projects 'for real clients' (2025/26 programme specification). Group and project criteria are met, but sources do not say whether clients are external organisations or the department's in-house company CodeGroovers, and the programme outcome says 'realistic client', so employer connection is Unclear.\n\nIn the School of Business and Management, **MN5802 Consultancy in the Digital Era** (mandatory, MSc Digital Business, 15 credits) is described in a search extract as team consultancy for a client, and **MN5621 Digital Marketing Consultancy** has a client-prescribed project with findings presented to the client; for both, client type, group basis (MN5621) and current delivery are unconfirmed. Other consulting capstones (AI for Business, Business Analytics) are individual.\n\nNo central, university-wide employer-project route was found; the Careers Service offers placements and events, and the Volunteer Awards (legacy row) recognise individual volunteering. Provision appears distributed in a few postgraduate and computing programmes. Science, arts/humanities and other areas yielded no qualifying scheme from single broad queries.",
+ "gaps": "Client identity for CS4825 and for MN5802/MN5621; MN5621 group basis; current delivery for the two business modules; CS2815 and Year 3 Geography/CIMA/Dragon's Den activities; Law, Psychology, Media, Health not exhaustively searched (reduced-depth mode, 11 searches); several PDFs read via local text extraction; search results note many Royal Holloway pages are several years old."
+}

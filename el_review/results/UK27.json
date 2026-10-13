@@ -1,0 +1,329 @@
+{
+ "inst_id": "UK27",
+ "institution": "Coventry",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Coventry University students live client project employer group module",
+    "Coventry University employer challenge students teams solve real business problem hackathon Talent Hub central employability"
+   ],
+   "key_sources": [
+    "https://www.coventry.ac.uk/study-at-coventry/student-support/enhance-your-employability/global-opportunities/go-abroad/",
+    "https://www.coventry.ac.uk/study-at-coventry/active-and-applied-learning/"
+   ],
+   "finding": "No central project scheme found; Global Opportunities is mobility/placement with no project element (legacy excluded). Active-learning page is generic."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Coventry Business School consultancy project live client students team module",
+    "Coventry University Group Consulting Project business school students placement employer brief 2025"
+   ],
+   "key_sources": [
+    "https://www.coventry.ac.uk/study-at-coventry/faculties-and-schools/coventry-business-school/employability/postgraduate-consultancy-projects/",
+    "https://www.coventry.ac.uk/london/business/internships/"
+   ],
+   "finding": "PG Consultancy Project is individual; Group Consulting Project (London) is group but undated employer-facing offer."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Coventry University engineering computing group project industry client capstone",
+    "Coventry University Mechanical Engineering Industrial Group Project present findings to industry client"
+   ],
+   "key_sources": [
+    "https://www.coventry.ac.uk/course-structure/ug/eec/computer-systems-engineering-mengbeng/",
+    "https://www.coventry.ac.uk/course-structure/ug/eec/mechanical-engineering-mengbeng-hons/"
+   ],
+   "finding": "60-credit Industrial Group Projects in MEng Computer Systems and Mechanical Engineering; Manufacturing Engineering has split IGP modules (search summary only)."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Coventry University science biosciences psychology student project external partner team module"
+   ],
+   "key_sources": [
+    "https://www.coventry.ac.uk/course-structure/ug/hls/human-biosciences-bsc/"
+   ],
+   "finding": "Only individual final-year research projects found."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Coventry University design media live brief students real client group project module"
+   ],
+   "key_sources": [
+    "https://www.coventry.ac.uk/course-structure/ug/fah/media-production-ba-hons/"
+   ],
+   "finding": "Media/design pages mention real client or live briefs but group basis and client role not evidenced; recorded as leads."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Coventry University Legal Clinic students real clients pro bono team"
+   ],
+   "key_sources": [
+    "https://www.coventry.ac.uk/study-at-coventry/colleges-and-schools/business-and-law/coventry-law-school/legal-clinic/"
+   ],
+   "finding": "Legal Clinic is client casework (excluded). Health not separately searched beyond one search-result mention; no health project route found."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Industrial Group Project",
+   "module_code": "",
+   "admin_host": "College of Engineering, Environment and Science (Computer Systems Engineering)",
+   "student_level": "Undergraduate",
+   "eligibility_restrictions": "",
+   "curricular_status": "Curricular",
+   "delivery_format": "Group project",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S1",
+   "official_name": "Industrial Group Project (MEng/BEng Computer Systems Engineering)",
+   "description": "60-credit compulsory module in the MEng additional year: student groups undertake a project drawn from industry collaborators or Coventry research groups, managing client expectations, ending in a written report and oral presentation to academic staff and industry professionals.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "MEng Computer Systems Engineering (additional MEng year)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "year_of_study": "MEng additional year",
+   "participation_requirement": "Compulsory within specified programmes",
+   "credit_assessment": "60 credits; written report + oral presentation",
+   "duration": "Not stated (60-credit module)",
+   "project_based": "Yes",
+   "project_evidence": "Defined project with written report and oral presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Module is an 'Industrial Group Project' [1]; group composition not detailed.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects come from 'industry collaborators or our research groups' (mixed internal/external); students gain experience managing client expectations; presentation to academic staff and industry professionals [1]. External share not stated, so C Unclear per mixed-client ruling.",
+   "partner_type": "Mixed",
+   "partner_role": "Project source (industry collaborators or research groups); industry professionals attend presentation",
+   "named_partners": "Search summary of course overview mentions ARM and Bosch as past partners (not verified on fetched page; undated)",
+   "deliverable": "Written report and oral presentation",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated module listing",
+   "unresolved": "No year shown on fetched page; whether all projects have external industry clients; group size.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.coventry.ac.uk/course-structure/ug/eec/computer-systems-engineering-mengbeng/",
+     "title": "MEng/BEng (Hons) Computer Systems Engineering",
+     "section": "Modules: Industrial Group Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised extract)",
+     "extract": "Industrial Group Project 60 credits, Compulsory; 'projects drawn from either our industry collaborators or our research groups'; 'managing client expectations'; 'The module culminates in a detailed written report and an oral presentation to academic staff and industry professionals.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Industrial Group Project",
+   "module_code": "",
+   "admin_host": "College of Engineering, Environment and Science (Mechanical Engineering)",
+   "student_level": "Undergraduate",
+   "eligibility_restrictions": "",
+   "curricular_status": "Curricular",
+   "delivery_format": "Team project",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "Industrial Group Project (MEng/BEng Mechanical Engineering)",
+   "description": "60-credit group module: students work in groups to define a problem, research, develop and test solutions in collaboration with industry collaborators, and present findings to an industry client.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "MEng/BEng Mechanical Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "year_of_study": "Final stage (year not stated on page)",
+   "participation_requirement": "Unclear",
+   "credit_assessment": "60 credits",
+   "duration": "Not stated",
+   "project_based": "Yes",
+   "project_evidence": "Define problem, research, develop and test solutions, present findings [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Working in groups, define the problem, conduct research, develop and test solutions' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'in collaboration with industry collaborators'; students 'present your findings to an industry client' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry client receives findings; collaborates on the problem",
+   "deliverable": "Findings presentation to industry client",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 entry course structure listing",
+   "unresolved": "Page does not label module compulsory or optional; whether every group has an external client; module delivery year not shown (course structure for 2026-27/2027-28 entry); partner type inferred from 'industry'.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.coventry.ac.uk/course-structure/ug/eec/mechanical-engineering-mengbeng-hons/",
+     "title": "MEng/BEng (Hons) Mechanical Engineering",
+     "section": "Modules",
+     "pub_year": "2026-27 / 2027-28 entry",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised extract)",
+     "extract": "Industrial Group Project - 60 credits; 'Working in groups, define the problem, conduct research, develop and test solutions'; 'present your findings to an industry client'; 'in collaboration with industry collaborators'. Year of entry 2026-27, 2027-28.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Group Consulting Project",
+   "module_code": "",
+   "admin_host": "Coventry University London",
+   "student_level": "Postgraduate taught",
+   "eligibility_restrictions": "",
+   "curricular_status": "Unclear",
+   "delivery_format": "Team project",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "Group Consulting Project (Coventry University London)",
+   "description": "Employer-facing offer: a group of students works offsite at the London city campus as an external management consulting team on a brief supplied by the employer, supported by a Placement Manager and academic expert.",
+   "academic_reach": "Unclear",
+   "eligible_faculties_programmes": "Not stated (a separate London page refers to MBA-level students)",
+   "faculty_areas": [
+    "business"
+   ],
+   "participation_requirement": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "Not stated",
+   "project_based": "Yes",
+   "project_evidence": "Team completes the employer's business project [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a group of students' work 'as an external management consulting team' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employer provides the project brief and the team completes the business project [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies brief; receives project outcome",
+   "deliverable": "Business project outcome (search result also mentions management report and presentation, from a different London page not fetched)",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Undated; presented as a placement/internship model for employers; no module, credit, cohort numbers or evidence it has run; partner type not explicit.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.coventry.ac.uk/london/business/internships/",
+     "title": "Internships and work experience",
+     "section": "Group Consulting Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised extract)",
+     "extract": "'a group of students'; 'work exclusively as an external management consulting team'; 'working offsite at our city based campus'; employer provides brief; supported by Placement Manager and academic expert.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Postgraduate Consultancy Project (Coventry Business School/College of Business and Law)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Page describes a single student 'undertaking a business project' for a company-derived real issue (8-12 weeks, management report, replaces dissertation); no team element.",
+   "source_url": "https://www.coventry.ac.uk/study-at-coventry/faculties-and-schools/coventry-business-school/employability/postgraduate-consultancy-projects/",
+   "status_note": "Intakes Sept/Jan/May; examples undated"
+  },
+  {
+   "name": "Global Opportunities: work and short international experiences",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "Fetched page: all registered students and recent graduates may study abroad, do work placements or volunteer; no project, team or employer-brief element named.",
+   "source_url": "https://www.coventry.ac.uk/study-at-coventry/student-support/enhance-your-employability/global-opportunities/go-abroad/",
+   "status_note": "Undated"
+  },
+  {
+   "name": "Global Leaders Programme",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Only a 2021 student blog evidence; no project/group/employer evidence; not re-searched in reduced-depth mode.",
+   "source_url": "https://www.coventry.ac.uk/blog/five-ways-i-got-more-than-a-degree-from-coventry-university/",
+   "status_note": "Historical evidence only"
+  },
+  {
+   "name": "BA Media Production, Content Creation (30 credits, Year 2 compulsory)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Page says 'creating branded content for a real client'; group/individual not stated and client role not described.",
+   "source_url": "https://www.coventry.ac.uk/course-structure/ug/fah/media-production-ba-hons/",
+   "status_note": "2026-27 entry listing"
+  },
+  {
+   "name": "MA Product Design Innovation / MA Film and Media Production / BSc Interactive Media and Web Technologies Integrative Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summaries only (not fetched): live briefs 'where possible', live brief possibly with external collaborators, team-based 'client-led' project; some pages 2021-23 versions. Optional/occasional external clients.",
+   "source_url": "https://www.coventry.ac.uk/course-structure/pg/cas/product-design-innovation-ma/",
+   "status_note": "Search-index paraphrase"
+  },
+  {
+   "name": "Coventry Law School Legal Clinic",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Casework with real clients alongside solicitors at a law centre (search summary, not fetched); individual client casework, 12-15 students recruited; not a group project brief.",
+   "source_url": "https://www.coventry.ac.uk/study-at-coventry/colleges-and-schools/business-and-law/coventry-law-school/legal-clinic/",
+   "status_note": "Search summary"
+  },
+  {
+   "name": "University Business Challenge / Business Simulation Suite; CIMA Business Games; Synergy Business Challenge",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Simulation or case-based competitions; no live client evidenced.",
+   "source_url": "https://www.coventry.ac.uk/study-at-coventry/colleges-and-schools/business-and-law/facilities/business-simulation-suite/",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Business Analytics external consultancy projects; MSc International Marketing Management consultancy option; BA Business Management Applied Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summaries only: optional consultancy-style routes within choice of dissertation/business plan/simulation; group basis and external client standard-ness unverified.",
+   "source_url": "https://www.coventry.ac.uk/course-structure/pg/cbl/business-analytics-msc/?term=2025-26",
+   "status_note": ""
+  },
+  {
+   "name": "BSc Human Biosciences / Applied Biosciences / Psychology final projects",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Individual research projects; no external-partner team project found.",
+   "source_url": "https://www.coventry.ac.uk/course-structure/ug/hls/human-biosciences-bsc/",
+   "status_note": "Search summary"
+  }
+ ],
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "Reduced-depth review (about 12 searches plus page fetches). The strongest verified provision is in engineering: 60-credit Industrial Group Projects in MEng/BEng Computer Systems Engineering (compulsory in the MEng additional year; projects from industry collaborators or research groups, presented to academic staff and industry professionals) and Mechanical Engineering (groups define and solve a problem with industry collaborators and present to an industry client). Neither page states that every project has an external client, and the Computer Systems page mixes in internal research-group projects, so employer connection is rated Unclear for that route; the Mechanical page's course listing is for 2026-27 entry. In business, the Postgraduate Consultancy Project gives genuine company-set briefs but is individual (excluded); the Group Consulting Project at Coventry University London is a team format but an undated employer-facing offer with no credit or cohort evidence. Media, design and business-degree pages refer to real clients or live briefs, but group basis, client role and standard-ness are unevidenced. No university-wide or central route qualifies: Global Opportunities and Global Leaders are mobility/award schemes. Provision appears isolated within programmes. Uncertain: current delivery dates, partner coverage and participation numbers.",
+ "gaps": "Not researched in depth: Manufacturing Engineering IGP Initiation/Execution (search summary only); Interactive Media Integrative Project; MA Product Design Innovation live briefs; Business Analytics and Marketing consultancy options; health and nursing; Coventry Law School beyond clinic; module specifications/handbooks (not fetched); Computer Science/Software Engineering group projects (no client evidence). Further departmental instances likely. WebFetch returned model-summarised extracts, not raw page text. Search results show 'Coventry Business School' and 'College of Business and Law' naming variants."
+}
