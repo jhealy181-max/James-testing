@@ -1,8 +1,8 @@
 {
  "inst_id": "US07",
  "institution": "Pennsylvania",
- "review_status": "Partial",
- "partial_remaining": "Science, arts/humanities (beyond Fels/ABCS) and other (law/design/health) areas still to be queried; Fels team basis and WISC-type status to confirm.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -40,16 +40,21 @@
    "finding": "Official Senior Design page describes only the Alumni Society competition; no evidence of external sponsors as standard (C unclear)."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": ""
+   "status": "Searched",
+   "queries": [
+    "Penn SAS physics chemistry biology environmental studies capstone team external partner client"
+   ],
+   "key_sources": [
+    "https://www.lps.upenn.edu/degree-programs/mcs/research-partners-and-opportunities"
+   ],
+   "finding": "No team-based client project found in natural sciences; MCS capstones are individual."
   },
   "arts_humanities_social_sciences": {
    "status": "Searched",
    "queries": [
     "Penn Arts Sciences data science/CS capstone real client",
-    "Fels capstones"
+    "Fels capstones",
+    "Fels MPA capstone team client"
    ],
    "key_sources": [
     "https://www.fels.upenn.edu/student-experience/capstones"
@@ -59,17 +64,503 @@
   "other": {
    "status": "Searched",
    "queries": [
-    "Weitzman design studio community partner"
+    "Weitzman design studio community partner",
+    "Penn Carey Law clinic / Dental / Nursing / Vet community partner team"
    ],
    "key_sources": [
-    "https://www.design.upenn.edu/community-partners"
+    "https://www.design.upenn.edu/community-partners",
+    "https://www.dental.upenn.edu/news-events/2024/09/20/9990069/"
    ],
-   "finding": "Partners listed but no course-level mechanism evidenced yet."
+   "finding": "Weitzman studios and health-professions programmes have community partners but no course-level qualifying route verified; Carey Law clinics returned no result."
   }
  },
- "schemes": [],
- "exclusions": [],
- "embeddedness": "Unclear",
- "profile_md": "Partial work in progress.",
- "gaps": "in progress"
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Academically Based Community Service (ABCS) courses",
+   "module_code": "",
+   "admin_host": "Netter Center for Community Partnerships",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "For-credit courses (per course)",
+   "delivery_format": "Course-based community partnership",
+   "named_partners": "KCAP; Energy Coordinating Agency of Philadelphia; Paul Robeson, Sayre High Schools; School District of Philadelphia (Spring 2026)",
+   "duration_band": "",
+   "likely_duplicate_of": "",
+   "participation_data": "33 courses listed Spring 2026; legacy source states 80+ courses annually (not re-verified).",
+   "unresolved": "Course-level test needed: which individual ABCS courses have a partner-set project done in teams. Many seem service/teaching.",
+   "legacy_ref": "Academically Based Community Service (ABCS)",
+   "local_id": "S1",
+   "official_name": "Academically Based Community Service (ABCS) courses",
+   "description": "Network of for-credit courses across Penn schools in which students work with West Philadelphia school and community partners. Spring 2026 page lists 33 courses (18 UG, 11 UG/grad, 4 grad). Typical activities: small groups co-teach health lessons (CHEM 0150, IMUN 5900), graduate students develop campaigns with youth partners (COMM 6200), group-based projects with Karen Community Association (ANTH 3075), student films with high school students (ANTH 5467). Mostly teaching/service/co-production with partners, not an organisation-set client brief.",
+   "academic_reach": "University-wide",
+   "eligible_faculties_programmes": "Eligible UG and graduate courses across Penn (individual courses have own prerequisites)",
+   "faculty_areas": [
+    "central",
+    "arts_humanities_social_sciences",
+    "science"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "Semester courses",
+   "project_based": "Unclear",
+   "project_evidence": "Some courses have defined outputs (films, campaigns, proposals) but many are lesson delivery/tutoring; varies by course [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Several courses use small groups (CHEM 0150, IMUN 5900, ANTH 3075) but others are one-to-one tutoring (EDUC 5912) [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Named community partners (KCAP, Energy Coordinating Agency, Sayre/Robeson High Schools, School District of Philadelphia) are hosts/co-participants; whether they set a brief or receive outputs is not shown at scheme level [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Hosts/co-participants (schools, community organisations); role in setting briefs unclear",
+   "deliverable": "Varies by course (lessons, films, campaigns, proposals)",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.nettercenter.upenn.edu/what-we-do/abcs-courses/spring-2026-abcs-courses",
+     "title": "Spring 2026 ABCS Courses",
+     "section": "Course list",
+     "pub_year": "Spring 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "33 courses (18 undergraduate, 11 UG/graduate, 4 graduate); CHEM 0150: 'working in small groups as co-teachers of dementia prevention lessons in a Philadelphia senior center'; ANTH 3075 group-based projects with KCAP; ANTH 5467 students produce short ethnographic films with Philadelphia high school students.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Wharton Impact & Sustainability Consulting (WISC)",
+   "module_code": "",
+   "admin_host": "Impact, Value, and Sustainable Business Initiative, Wharton",
+   "year_of_study": "",
+   "eligibility_restrictions": "On-campus Penn/Wharton student; 6-8 hours/week; not concurrently in WIVA or Penn Medicine-Wharton Fund for Health; application required",
+   "credit_assessment": "Co-curricular; no credit mentioned; Team Leaders receive a financial award",
+   "delivery_format": "Virtual client meetings, team consulting",
+   "named_partners": "Accelerator for America, Connect Humanity, MSFCP, PCX, Tropic (Fall 2026)",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Participation numbers; not for credit; Wharton Impact is internal host but clients are external.",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "Wharton Impact & Sustainability Consulting (WISC)",
+   "description": "Teams of about five undergraduate and graduate students consult for a client company/organisation on a social impact or sustainability project over 12 weeks in one semester; weekly one-hour virtual client meetings; a Team Leader liaises with client; final presentation to client and Wharton Impact leadership. Fall 2026 clients listed: Accelerator for America, Connect Humanity, MSFCP, PCX, Tropic and others.",
+   "academic_reach": "University-wide",
+   "eligible_faculties_programmes": "On-campus undergraduate, MBA or graduate students at Penn or Wharton",
+   "faculty_areas": [
+    "business",
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "duration": "12 weeks per semester (Fall 2026: 14 Sep-4 Dec; Spring 2027: 25 Jan-23 Apr)",
+   "project_based": "Yes",
+   "project_evidence": "Client project on social impact/sustainability with final presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'approximately 5 undergraduate and graduate students' per team with a Team Leader [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients (companies and organisations) supply the project, meet team weekly and receive final presentation [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: sets project, weekly meetings, receives final presentation",
+   "deliverable": "Final presentation to client and Wharton Impact leadership",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026; Spring 2027 applications Nov 2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://impact.wharton.upenn.edu/students/wharton-impact-and-sustainability-consulting-wisc/",
+     "title": "Wharton Impact & Sustainability Consulting (WISC)",
+     "section": "Program page",
+     "pub_year": "2026 (Fall 2026/Spring 2027 dates)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Teams of approximately 5 undergraduate and graduate students work closely with their client over 12 weeks during one semester; Fall 2026 clients listed; final presentation to client and Wharton Impact senior leadership; Spring 2027 applications open 6 Nov 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "participation",
+      "status",
+      "credit",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Social Impact Consulting Practicum (Wharton EMBA)",
+   "module_code": "",
+   "admin_host": "Wharton School (Executive MBA)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Course code, credit, required/elective, duration, and 2025/26-2026/27 delivery not evidenced.",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "Social Impact Consulting Practicum (Wharton EMBA)",
+   "description": "EMBA course in which student teams drawn from the East, West and Global cohorts provide free consulting to nonprofits on live projects (e.g. a Philadelphia school exploring event-space rental revenue, youth soccer club after-school expansion, a fundraising assessment).",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Wharton EMBA students",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Teams work on a live consulting project for a nonprofit [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in teams' across three EMBA cohorts [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Nonprofit clients receive free consulting on live problems [1]; extent of client briefing/receipt of outputs described only generally.",
+   "partner_type": "Charity/community",
+   "partner_role": "Client receiving pro bono consulting",
+   "deliverable": "Not specified in source",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "March 2025 (article)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.wharton.upenn.edu/story/wharton-launches-social-impact-practicum-for-emba-students/",
+     "title": "Wharton Launches Social Impact Practicum for EMBA Students",
+     "section": "Article",
+     "pub_year": "2025-03-03",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Students work in teams drawn from the three EMBA cohorts; nonprofits receive free consulting; examples include a Philadelphia school, a youth soccer club and a West Coast nonprofit.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Field Application Projects (Wharton MBA; e.g. HCMG 6530)",
+   "module_code": "HCMG 6530",
+   "admin_host": "Wharton MBA Program / Health Care Management",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Not opened directly: evidence from search-result paraphrase of undated pages; FAP delivery in 2025/26-2026/27, general MBA team size, and credit not confirmed.",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Field Application Projects (Wharton MBA; e.g. HCMG 6530)",
+   "description": "MBA field projects matching Wharton MBA students with industry partners on cross-functional business challenges. Health Care Management version (HCMG 6530, second semester of first year): five or six person teams consult to a health-related firm on a current management problem.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Wharton MBA (HCMG major evidenced for HCMG 6530)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Consulting project on a current management problem [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Five or six person teams' for HCMG 6530 [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partners/health-related firms supply the management problem [1][2]; no further detail on outputs.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client firm",
+   "deliverable": "Not specified",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://recruiters-corp.wharton.upenn.edu/admissions/",
+     "title": "Degree Programs & Courses (Wharton recruiters)",
+     "section": "MBA",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Field Application Projects match Wharton MBA students with industry partners on specialized projects addressing cross-functional business challenges.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://hcmg.wharton.upenn.edu/programs/mba/curriculum/",
+     "title": "MBA Program Curriculum - Wharton Health Care Management",
+     "section": "Curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "HCMG 6530 FAP, second semester of first year; 'Five or six person teams are assigned to consult to a health-related firm on a current management problem.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Penn Engineering Senior Design (departmental capstones)",
+   "module_code": "",
+   "admin_host": "Penn Engineering departments (BE, CBE, CIS, ESE, MSE, MEAM)",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "named_partners": "Tidal Metals (startup, 2026)",
+   "duration_band": ">1 term",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Departmental sponsor mechanisms (e.g. CIS, ESE) not opened; compulsory status per major not verified from regulations; further departmental instances likely.",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "official_name": "Penn Engineering Senior Design (departmental capstones)",
+   "description": "Two-semester team capstone in each engineering major, culminating in Senior Design Day and the Engineering Alumni Society competition. 2026 MEAM teams of 3-6 students with faculty advisors; project page says many projects arise from real-world needs or collaboration with industry partners but names only one (Tidal Metals, startup).",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "Penn Engineering seniors",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Two semesters",
+   "project_based": "Yes",
+   "project_evidence": "Design projects with defined deliverables presented at Senior Design Day 2026 [1].",
+   "group_working": "Yes",
+   "group_evidence": "Team sizes 3-6 listed for 10 MEAM projects [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Many projects ... in collaboration with industry partners' but only Tidal Metals named; judges (Boeing, DesignThink) are not sponsors [1]. Sponsor role not standard/documented.",
+   "partner_type": "Unclear",
+   "partner_role": "Occasional industry sponsor; unclear",
+   "deliverable": "Prototype/design and Senior Design Day presentation",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://blog.me.upenn.edu/senior-design-day-2026/",
+     "title": "Senior Design Day 2026",
+     "section": "Blog",
+     "pub_year": "2026-04",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "LoAdsorb 'developed for the startup Tidal Metals'; many projects developed in response to real-world needs or with industry partners; teams of 3-6 with advisors; two-semester capstone.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://academics.engineering.upenn.edu/ugrad/senior-design/",
+     "title": "Senior Design (competition)",
+     "section": "Page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Annual competition sponsored by Penn Engineering Alumni Society assembling winning senior design teams from each engineering major; teams present to 'real-world' judges.",
+     "supports": [
+      "group",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Fels Lab Capstone (Master of Public Administration)",
+   "module_code": "GAFL 7980",
+   "admin_host": "Fels Institute of Government",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Credit-bearing capstone course (Capstone I reported as non-credit in search result)",
+   "delivery_format": "",
+   "named_partners": "League of Women Voters of Pennsylvania; Episcopal Community Services (2024); City of Chattanooga (2024); Pennsylvania Army National Guard (2024)",
+   "duration_band": ">1 term",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Team vs individual basis; year-by-year list inferred from file paths.",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "official_name": "Fels Lab Capstone (Master of Public Administration)",
+   "description": "MPA students complete a two-part capstone (GAFL 7980 Capstone I spring, Capstone II summer) for a government agency or nonprofit selected from Fels Lab proposals, acting as pro bono consultants with a capstone advisor; deliverables are reports/plans (strategic plans, policy analyses, program evaluations). Projects appear scoped for an individual student; group basis not stated.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Fels MPA students",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "c. 6 months (spring + summer)",
+   "project_based": "Yes",
+   "project_evidence": "Reports/plans for partner [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Fetched page does not say; search result indicates scoping for one student at ~5 hours/week, suggesting individual projects [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Government agencies and nonprofits submit projects to Fels Lab; students matched with a partner organisation [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Client: submits project; student pro bono consultant",
+   "deliverable": "Written report/plan and presentation",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 (listing 2020-2025)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.fels.upenn.edu/student-experience/capstones",
+     "title": "Capstone Projects",
+     "section": "Page",
+     "pub_year": "2020-2025 listing",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Projects 'submitted by government agencies and nonprofit organizations to Fels Lab'; students matched with a partner organisation and advisor; capstone 'serves the real-world needs' of the partner.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.fels.upenn.edu/programs/mpa",
+     "title": "Master of Public Administration",
+     "section": "Programme",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Two required capstone courses; students work as pro bono consultants; projects scoped for single student about 5 hours/week.",
+     "supports": [
+      "group",
+      "participation"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Wharton Global Consulting Practicum",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Discontinued; Wharton notice says no longer offered as of 31 Oct 2017.",
+   "source_url": "https://www.wharton.upenn.edu/gcp-annoucement/",
+   "status_note": "Paused/discontinued"
+  },
+  {
+   "name": "Venture Initiation Program (Venture Lab)",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Student venture incubator-accelerator; no external client brief.",
+   "source_url": "https://www.wharton.upenn.edu/topic/vip/",
+   "status_note": ""
+  },
+  {
+   "name": "Weitzman Studio+/PennPraxis studios",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Community partners (West Philadelphia schools, Lex Street Garden) evidenced but course codes, team basis and 2025/26 delivery not established.",
+   "source_url": "https://www.design.upenn.edu/post/new-all-school-interdisciplinary-studio-aims-reframe-public-schools-equity-infrastructure",
+   "status_note": ""
+  },
+  {
+   "name": "Bridging the Gaps (interprofessional summer service program)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Seven-week community service internship in interprofessional teams; service placement, project output not evidenced.",
+   "source_url": "https://www.dental.upenn.edu/news-events/2024/09/20/9990069/",
+   "status_note": ""
+  },
+  {
+   "name": "Nursing course with student teams and community/innovation partners (catalog)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Surfaced only in a search summary; course code not identified; catalogue fetch returned empty.",
+   "source_url": "https://catalog.upenn.edu/courses/nurs/",
+   "status_note": ""
+  },
+  {
+   "name": "Wharton student consulting clubs (SIC, GRC, DISC, PIIC)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Student-run pro bono consulting clubs; client/team structure not evidenced; student-run not university scheme.",
+   "source_url": "https://groups.wharton.upenn.edu/whcouncil/clubs/",
+   "status_note": ""
+  },
+  {
+   "name": "Wharton AI & Analytics Accelerator",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "8-week multidisciplinary team project for a company champion, run as paid Student Research Partnership; participation and 2025/26 delivery not verified.",
+   "source_url": "https://ai-analytics.wharton.upenn.edu/for-industry/ai-analytics-accelerator/",
+   "status_note": ""
+  },
+  {
+   "name": "Master of Chemical Sciences capstone with outside partners",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual research project at partner organisation.",
+   "source_url": "https://www.lps.upenn.edu/degree-programs/mcs/research-partners-and-opportunities",
+   "status_note": ""
+  },
+  {
+   "name": "MSE Data Science capstone DATS 5980",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Described as individual with a self-selected mentor.",
+   "source_url": "https://dats.seas.upenn.edu/program/",
+   "status_note": ""
+  },
+  {
+   "name": "Academically Based Community Service (ABCS)",
+   "legacy": true,
+   "category": "Other",
+   "reason": "Legacy row reassessed as scheme S1 (Unclear).",
+   "source_url": "https://www.nettercenter.upenn.edu/what-we-do/abcs-courses/spring-2026-abcs-courses",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Penn's verified provision is distributed rather than institution-wide. The clearest route meeting all three criteria with current delivery is **Wharton Impact & Sustainability Consulting (WISC)**: selective, co-curricular teams of about five undergraduate/graduate students consult for external clients over 12 weeks, with weekly client meetings and a final client presentation (Fall 2026 clients listed; open to any Penn/Wharton student). Programme-embedded client consulting also exists in Wharton (EMBA Social Impact Consulting Practicum, 2025 article; MBA Field Application Projects, e.g. HCMG 6530 teams of 5-6 consulting for a health firm) but their current delivery is not dated. Penn Engineering Senior Design is a compulsory-style team capstone, yet external sponsorship is only 'many projects ... in collaboration with industry partners' with one named startup (C unclear). The Fels MPA capstone has government and nonprofit clients but appears individual. The Netter Center's ABCS network (33 courses in Spring 2026) is university-wide and partner-based, but mostly teaching/service with school and community hosts, so project/group/client status needs course-level testing. Nothing qualifying was found in natural sciences, law or design beyond leads. Uncertain: Weitzman studios, Nursing/health teams, student consulting clubs, departmental engineering sponsors.",
+ "gaps": "Reduced-depth (~15 searches). Not verified: Weitzman studio course-level client briefs; Penn Carey Law clinics; Nursing/health team courses; Wharton FAP/EMBA practicum current delivery and credit; engineering departmental sponsor schemes (CIS 4010 etc.); individual ABCS courses with partner-set group projects; Wharton student clubs. Further departmental instances likely. WebFetch summaries are tool-generated, not verbatim."
 }

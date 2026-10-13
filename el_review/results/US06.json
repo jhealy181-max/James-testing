@@ -1,8 +1,8 @@
 {
  "inst_id": "US06",
  "institution": "Chicago",
- "review_status": "Partial",
- "partial_remaining": "Science area (natural sciences) and health/design not specifically queried",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -41,13 +41,14 @@
    "status": "Searched",
    "queries": [
     "UChicago Data Science Institute ... capstone external partner team",
-    "UChicago Data Science Clinic undergraduate course industry partner project team"
+    "UChicago Data Science Clinic undergraduate course industry partner project team",
+    "UChicago physical sciences biological sciences undergraduate team project industry partner course sponsor"
    ],
    "key_sources": [
     "https://datascience.uchicago.edu/education/data-science-clinic/",
     "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/"
    ],
-   "finding": "Data Science Clinic and MS-ADS capstone qualify; natural sciences departments not separately searched beyond these."
+   "finding": "Data Science Clinic and MS-ADS capstone qualify; a natural-science search (physics/biology) found only instrument-building groups and faculty-sponsored research, no external-organisation team project (search extract only)."
   },
   "arts_humanities_social_sciences": {
    "status": "Searched",

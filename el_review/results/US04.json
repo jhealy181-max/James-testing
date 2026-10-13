@@ -1,0 +1,414 @@
+{
+ "inst_id": "US04",
+ "institution": "California Institute of Technology",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Caltech Student-Faculty Programs Industry Partnership Program project sponsor student team",
+    "Caltech CALE experiential learning students teams employer project"
+   ],
+   "key_sources": [
+    "https://career.caltech.edu/employers/employers-partnerships",
+    "https://www.catalog.caltech.edu/current/general-information/careers-advising-and-experiential-learning-cael/",
+    "https://sfp.caltech.edu/undergraduate-research/programs/surf/eligibility_requirements"
+   ],
+   "finding": "No central team-project scheme with external organisations found. CALE is a careers service; SURF is individual research."
+  },
+  "business": {
+   "status": "Not applicable",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Caltech has no business or management school."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Caltech ME 72 engineering design project sponsor",
+    "Caltech course industry-sponsored team project company client design capstone",
+    "Caltech Space Challenge student teams JPL mentors",
+    "Caltech Hackathon/consulting student team nonprofit client project"
+   ],
+   "key_sources": [
+    "https://www.caltech.edu/about/news/climbing-to-the-top-inside-caltechs-41st-annual-me-72-student-engineering-competition",
+    "https://www.caltech.edu/about/news/caltechs-2026-space-challenge-visits-a-comet-and-venus",
+    "https://www.cms.caltech.edu/academics/courses"
+   ],
+   "finding": "Team capstones exist (ME 72, CS/IDS 163, Space Challenge) but external-organisation role is absent or unspecified."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Caltech computing mathematical sciences OR geology OR astronomy course industry partner project students teams sponsor data"
+   ],
+   "key_sources": [
+    "https://www.cms.caltech.edu/academics/courses"
+   ],
+   "finding": "No physical/life/earth-science course with external client found; only CMS courses (S1) with unspecified advisors."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Caltech humanities social sciences OR biology OR chemistry course student teams real-world client community partner project"
+   ],
+   "key_sources": [
+    "https://www.hss.caltech.edu/undergraduate-studies/beyond-the-classroom"
+   ],
+   "finding": "HSS offers faculty-advised individual theses; no external-client team project found."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Caltech medical engineering design course clinical partner team project"
+   ],
+   "key_sources": [
+    "https://mede.caltech.edu/academics/courses",
+    "https://catalog.caltech.edu/current/2025-26/department/MedE/"
+   ],
+   "finding": "Medical engineering has a Rancho Los Amigos partnered design course but it is not offered 2025-26 or 2026-27. No law, health or architecture schools."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "CS/IDS 163",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "participation_data": "",
+   "local_id": "S1",
+   "official_name": "CS/IDS 163 Projects in Machine Learning",
+   "english_name": "Projects in Machine Learning",
+   "description": "Project-based machine learning course in which students work in groups; each group is given a project topic and domain expert advisors. Nature of the advisors (internal faculty vs external organisation) and the output are not stated in the catalogue entry.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Computing + Mathematical Sciences",
+   "eligible_faculties_programmes": "Students with CS/CNS/EE/IDS 155 or EE/CMS/CNS/CS/IDS 181 prerequisite",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Prerequisite CS/CNS/EE/IDS 155 or EE/CMS/CNS/CS/IDS 181",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "9 units (0-9-0)",
+   "duration": "First term",
+   "delivery_format": "Group projects",
+   "project_based": "Yes",
+   "project_evidence": "'project-based course ... gain practical experience in machine learning'; each group given a project topic [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Students will work in groups.' [1]",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'domain expert advisors' not identified as external organisations; no sponsor or client named [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unspecified domain expert advisors",
+   "deliverable": "Not stated",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026-27 catalogue listing (no 'not offered' note)",
+   "unresolved": "Who the domain experts are; whether any are external organisations; deliverable.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.cms.caltech.edu/academics/courses",
+     "title": "Courses - Computing + Mathematical Sciences",
+     "section": "CS/IDS 163",
+     "pub_year": "2026-27 listing",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes verbatim where marked)",
+     "extract": "'This is a project-based course ... Students will work in groups. Each group will be provided a project topic to work on, along with domain expert advisors.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ME 72 ab",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "participation_data": "",
+   "local_id": "S2",
+   "official_name": "ME 72 ab Engineering Design Laboratory (annual ME 72 design competition)",
+   "english_name": "Engineering Design Laboratory",
+   "description": "Two-term project-based design capstone for third/fourth-year mechanical and civil engineering undergraduates: teams of 5-7 design, build and test two robots over about 15 weeks and compete in an end-of-course contest (10 March 2026). Competition is between student teams; no external organisation sets the brief.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Mechanical and Civil Engineering",
+   "eligible_faculties_programmes": "Mechanical and civil engineering undergraduates (prerequisite ME 14; limited enrolment)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 3-4",
+   "eligibility_restrictions": "Prerequisite ME 14; enrolment limited",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "12 units first term; 15 units second term; design reviews",
+   "duration": "Two terms (~15 weeks build)",
+   "delivery_format": "Team design-build-compete",
+   "project_based": "Yes",
+   "project_evidence": "Teams design, test, analyse and fabricate a robotic device [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Six teams of five to seven students [2].",
+   "employer_connected": "No",
+   "employer_evidence": "Catalogue describes an internal student-team competition with no external sponsor [1]; the fetched news page names no sponsor. A search snippet attributes event sponsorship to Northrop Grumman (not verified on a fetched page); sponsor funding is not a live brief or client.",
+   "partner_type": "None",
+   "partner_role": "None evidenced (possible funding sponsor only)",
+   "deliverable": "Two competition robots; contest performance",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (competition 10 March 2026)",
+   "unresolved": "Whether any external company role beyond funding exists; ME 72 stated as the engineering design capstone requirement (for ME).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalog.caltech.edu/current/2026-27/department/ME/",
+     "title": "ME courses 2026-27",
+     "section": "ME 72 ab",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes verbatim where marked)",
+     "extract": "'A project-based course in which teams of students are challenged to design, test, analyze, and fabricate a robotic device to compete against devices designed by other student teams.'",
+     "supports": [
+      "project",
+      "group",
+      "credit",
+      "status",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.caltech.edu/about/news/climbing-to-the-top-inside-caltechs-41st-annual-me-72-student-engineering-competition",
+     "title": "Climbing to the Top: 41st ME 72",
+     "section": "News",
+     "pub_year": "2026-03-16",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes verbatim where marked)",
+     "extract": "'Six teams, made up of five to seven students, each built two robots over the course of about 15 weeks.' 'The ME 72 project is the engineering design capstone requirement at Caltech.'",
+     "supports": [
+      "group",
+      "project",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "participation_data": "",
+   "local_id": "S3",
+   "official_name": "Caltech Space Challenge",
+   "english_name": "Caltech Space Challenge",
+   "description": "Five-day student mission-design event (23-27 March 2026): 32 graduate students from >500 applicants split into two teams, each producing a spacecraft mission concept presented to a judging panel; mentored by experts from campus, JPL and others.",
+   "academic_reach": "Unclear",
+   "admin_host": "Student-organised, Caltech/KISS-supported",
+   "eligible_faculties_programmes": "Graduate students worldwide by application",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Competitive application (>500 applicants in 2026)",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "5 days",
+   "delivery_format": "On-campus intensive team design challenge",
+   "project_based": "Yes",
+   "project_evidence": "Teams produce a mission concept/proposal presented to judges [1].",
+   "group_working": "Yes",
+   "group_evidence": "Two teams of 16 (Voyager, Explorer) [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "JPL (managed by Caltech for NASA) experts mentor and judge and JPL hosted a visit; JPL is Caltech-affiliated, and the task is a self-set design problem, not a client brief; article names no industry mentors or sponsors [1].",
+   "partner_type": "Other",
+   "partner_role": "JPL/Caltech mentors and judges; one external judge (former astronaut)",
+   "deliverable": "Mission concept presentation",
+   "duration_band": "1 week or less (5 days)",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (March)",
+   "unresolved": "Whether any external organisation sets the brief or receives outputs; 2026 was first edition after a four-year hiatus; recurrence unknown.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.caltech.edu/about/news/caltechs-2026-space-challenge-visits-a-comet-and-venus",
+     "title": "Caltech's 2026 Space Challenge Visits a Comet and Venus",
+     "section": "News",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes verbatim where marked)",
+     "extract": "'split evenly into two teams'; mentors 'experts from campus and JPL, which Caltech manages for NASA'; judges include Mike Watkins, Fred Hadaegh, Carol Raymond (JPL), Garrett Reisman; article names no industry mentors or sponsors.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "E/ME/MedE 106 ab",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "participation_data": "",
+   "local_id": "S4",
+   "official_name": "E/ME/MedE 106 ab Design for Freedom from Disability",
+   "english_name": "Design for Freedom from Disability",
+   "description": "Product design class run in collaboration with Rancho Los Amigos National Rehabilitation Center; students visit the Center to define products from stated and observed needs and design/test with Rancho staff. Team structure and outputs not stated in fetched text.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Mechanical/Medical Engineering",
+   "eligible_faculties_programmes": "E, ME, MedE listings",
+   "faculty_areas": [
+    "engineering_computing",
+    "other"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "Terms to be arranged",
+   "delivery_format": "Product design with clinical partner",
+   "project_based": "Unclear",
+   "project_evidence": "'Product Design class' defining products from observed needs [1][2]; deliverable not stated.",
+   "group_working": "Unclear",
+   "group_evidence": "Team working not stated in the fetched text.",
+   "employer_connected": "Yes",
+   "employer_evidence": "'done in collaboration with Rancho Los Amigos National Rehabilitation Center'; students visit the Center and work with its staff on design and testing [1][2].",
+   "partner_type": "Public sector",
+   "partner_role": "Collaborating rehabilitation centre supplying needs and staff input (public-sector status assumed from name; not verified)",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Paused/discontinued",
+   "latest_evidenced_year": "Not offered 2025-26 or 2026-27",
+   "unresolved": "Whether teams and a defined product output are used; when last taught (also marked not offered in 2020-21 and 2021-22 per search summary).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalog.caltech.edu/current/2026-27/department/ME/",
+     "title": "ME courses 2026-27",
+     "section": "ME/CE/AM 106",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes verbatim where marked)",
+     "extract": "'This Product Design class focuses on people with Disabilities and is done in collaboration with Rancho Los Amigos National Rehabilitation Center.' Not offered 2026-27.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://mede.caltech.edu/academics/courses",
+     "title": "Courses - Medical Engineering",
+     "section": "E/ME/MedE 106 ab",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes verbatim where marked)",
+     "extract": "'done in collaboration with Rancho Los Amigos National Rehabilitation Center'; Not offered 2026-27.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Summer Undergraduate Research Fellowships (SURF)",
+   "legacy": true,
+   "category": "Near-miss: not group",
+   "reason": "Mentored individual research fellowship; eligibility page says nothing of teams or external organisations (fellows devote full effort, mentor approves reports). Reach university-wide (continuing undergraduates, GPA 2.0) but fails B and C on the evidence.",
+   "source_url": "https://sfp.caltech.edu/undergraduate-research/programs/surf/eligibility_requirements",
+   "status_note": "Eligibility page copyright 2026; JPL placements limited to US citizens/permanent residents"
+  },
+  {
+   "name": "Hacktech (36-hour hackathon)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Teams of 1-4, 24-26 April 2026; page lists sponsors and prizes and sponsor judges but not company-set challenges; 1-2 day format.",
+   "source_url": "https://hack.caltech.edu/",
+   "status_note": "2026 edition"
+  },
+  {
+   "name": "TechReach (student club)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Club pilot: team of three built a database/web app for nonprofit Miracle Messages (client), but evidence is a Fall 2019 magazine story; current activity not verified and it is an extracurricular club.",
+   "source_url": "https://magazine.caltech.edu/post/connecting-the-homeless",
+   "status_note": "Historical (2019)"
+  },
+  {
+   "name": "CS 141 Hack Society: Projects from the Public Sector",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Catalogue describes technology projects for public-sector gaps but names no partners and no group/client structure; offered status not confirmed.",
+   "source_url": "https://www.cms.caltech.edu/academics/courses",
+   "status_note": ""
+  },
+  {
+   "name": "CMS-EE Partners Program",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Corporate membership/sponsorship network (events, clubs, hackathons); per search summary, not a student project scheme. Not opened.",
+   "source_url": "https://cms.caltech.edu/outreach/partners_program",
+   "status_note": ""
+  },
+  {
+   "name": "CALE (Career Achievement, Leadership, and Exploration)",
+   "legacy": false,
+   "category": "Careers service",
+   "reason": "Employer relations, job/internship platform, career fairs, coaching; no team project provision found in search results.",
+   "source_url": "https://www.catalog.caltech.edu/current/general-information/careers-advising-and-experiential-learning-cael/",
+   "status_note": ""
+  },
+  {
+   "name": "ChE/BE/MedE 112 Technical Creativity ... for Global Health",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Student teams tackle global-health challenges; no external organisation evidenced in the fetched snippet.",
+   "source_url": "https://mede.caltech.edu/academics/courses",
+   "status_note": ""
+  },
+  {
+   "name": "Integrated Core / HSS senior thesis",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Integrated Core is a team-taught curriculum with no outside partner; HSS thesis is individual faculty-advised work.",
+   "source_url": "https://www.hss.caltech.edu/undergraduate-studies/beyond-the-classroom",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "No qualifying scheme verified",
+ "profile_md": "No qualifying scheme verified through the documented search. Caltech has no business school and the strongest team-project provision is engineering and computing based. ME 72 (compulsory design capstone for mechanical/civil engineering, teams of 5-7, two terms, robot competition 10 March 2026) meets project and group criteria but is an internal competition with no client. CS/IDS 163 Projects in Machine Learning is a group project course with 'domain expert advisors', whose affiliation is not stated. The 2026 Caltech Space Challenge is a selective five-day graduate team mission-design event with JPL (Caltech-managed) mentors and judges and no live client. E/ME/MedE 106 Design for Freedom from Disability is the only course with a named external partner (Rancho Los Amigos National Rehabilitation Center) but is not offered in 2025-26 or 2026-27 and team structure is not shown. The legacy SURF fellowship is mentored individual research, so it fails group working. Provision looks isolated and departmental; CALE offers careers services rather than team projects. Remaining uncertainty: unpublished sponsor roles in ME 72 and CS 163, and other departmental project courses not individually checked.",
+ "gaps": "Reduced-depth review (about 12 searches). Not checked: whether ME 72 sponsors (Northrop Grumman per a search snippet) set briefs; CS/IDS 163 advisor identity; CS 141 partners; JPL-linked courses; engineering EE/CMS project courses (e.g. CS/EE 145); Applied Physics/Materials design courses; further departmental instances likely."
+}
