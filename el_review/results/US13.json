@@ -1,0 +1,262 @@
+{
+ "inst_id": "US13",
+ "institution": "University of Michigan, Ann Arbor",
+ "review_status": "Partial",
+ "partial_remaining": "arts/humanities/social sciences, other, central re-check, SEAS and ME450 records",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "MDP about/start-here"
+   ],
+   "key_sources": [
+    "https://mdp.engin.umich.edu/about-mdp/"
+   ],
+   "finding": "MDP is university-wide in eligibility."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Ross MAP"
+   ],
+   "key_sources": [
+    "https://michiganross.umich.edu/courses/capstone-map-10484"
+   ],
+   "finding": "MAP found."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "ME 450 capstone"
+   ],
+   "key_sources": [
+    "https://me.engin.umich.edu/academics/undergrad/me450/"
+   ],
+   "finding": "pending"
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "SEAS master's project"
+   ],
+   "key_sources": [
+    "https://seas.umich.edu/research-impact/student-research/masters-projects"
+   ],
+   "finding": "pending"
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "pending"
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "pending"
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Multidisciplinary Design Program (MDP) - Industry Sponsored Projects",
+   "english_name": "Multidisciplinary Design Program - Industry Sponsored Projects",
+   "module_code": "ENGR 355/455 (UG, inferred not quoted); ENGR 555 (graduate, from Winter 2026)",
+   "description": "Year-long (January-December, both semesters required) credit-bearing teams of about 5-7 students from across the university work on projects proposed by sponsoring organisations (companies, nonprofits, government), jointly mentored by a U-M faculty member and a sponsor member; teams hand over final work to the sponsor in the last week of classes and present at the Design Expo. The MDP page also describes 'internal University clients' among sponsors.",
+   "academic_reach": "University-wide",
+   "admin_host": "College of Engineering (MDP)",
+   "eligible_faculties_programmes": "Undergraduate and master's students from all majors; Master of Engineering students cannot count MDP towards degree requirements; some projects restrict to US citizens/permanent residents (e.g. Fincantieri 26, Constellation-25)",
+   "faculty_areas": [
+    "central",
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "No GPA requirement; all majors welcome; two-semester commitment; Ann Arbor campus; project-specific citizenship limits; application each autumn (mid-October deadline).",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Undergraduates 7-8 credits over two semesters; graduate students 4 credits total (ENGR 555 from Winter 2026); grading 40% individual / 60% team.",
+   "duration": "January-December (two semesters)",
+   "delivery_format": "In-person multidisciplinary teams with faculty and sponsor mentors",
+   "project_based": "Yes",
+   "project_evidence": "Real-world sponsored projects with final work handed to sponsor and presented at Design Expo [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Small teams of 5-7 students; 60% of grade is team grade [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsor proposes the project, a sponsor member co-mentors the team weekly, and teams hand over final work to the sponsor [2][3]. Sponsor pages (Walbridge 26, UM Health 26, Fincantieri 26, Constellation-25) show company clients. Caveat: MDP counts 'internal University clients' among its 30-40 sponsors per year; UM Health is a university-affiliated body.",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes project, co-mentors weekly, receives final handover",
+   "external_partner_coverage": "Some projects",
+   "named_partners": "Walbridge (2024-2026), Constellation (2025), Fincantieri (2026), UM Health (2026, internal/affiliated), Subaru, Qualcomm, JPMorgan Chase (tagged '27') - sponsor team pages",
+   "deliverable": "Design/engineering project output handed over and presented to sponsor; Design Expo",
+   "duration_band": ">1 term",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (sponsor teams '26'; projects tagged '27' also listed)",
+   "participation_data": "30-40 sponsors per year (MDP page, undated)",
+   "unresolved": "Share of internal vs external clients not published; whether every sponsored project has an external organisation (stated sponsors include internal University clients), so external coverage marked 'Some projects' but sponsored-project track is described as company/nonprofit/government clients. Course numbers not quoted from page. Sponsor-teams listing scope means C is Yes for named industry projects but coverage not quantified. Direct page fetch of mdp.engin.umich.edu returned 403 (Cloudflare 'Just a moment' challenge; not bypassed), so evidence is from search-index extracts.",
+   "legacy_ref": "Multidisciplinary Design Program (MDP)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://mdp.engin.umich.edu/start-here/",
+     "title": "Start Here!",
+     "section": "Eligibility/credit",
+     "pub_year": "undated (2025-26 cycle)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Projects run January to December, recruitment each fall with mid-October deadline; undergraduates earn 7-8 credits split across two semesters, graduate students 4 credits (search extract).",
+     "supports": [
+      "eligibility",
+      "credit",
+      "status",
+      "reach"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://mdp.engin.umich.edu/about-mdp/",
+     "title": "About MDP",
+     "section": "Program",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Small teams of 5-7 students guided weekly by faculty and sponsor mentors; jointly mentored by a U-M faculty member and a member of the sponsoring organization; teams present and hand over final work to sponsors in the last week of classes; 30-40 corporations, nonprofits, government entities and internal University clients each year; 40% individual / 60% team grades (search summary of MDP pages).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://mdp.engin.umich.edu/sponsor_teams/walbridge-26/",
+     "title": "Walbridge 26",
+     "section": "Sponsor team page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Open to all students (F-1 students must declare part-time CPT); lists course substitutions such as ChE Elective and CS Capstone.",
+     "supports": [
+      "employer",
+      "status",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://mdp.engin.umich.edu/earn-academic-credit/",
+     "title": "Earn Academic Credit",
+     "section": "Credit",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "From Winter 2026 graduate students earn credit under ENGR 555 (replacing ENGR 599); Master of Engineering students cannot count MDP toward degree requirements.",
+     "supports": [
+      "credit",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Multidisciplinary Action Projects (MAP) - Ross School of Business",
+   "english_name": "Multidisciplinary Action Projects (MAP) / Capstone MAP",
+   "module_code": "BA 453 Capstone MAP (W26); MAP for MBA programmes",
+   "description": "Team-based consulting field study in which sponsoring organisations bring real business problems to student teams. MBA MAP: teams of 4-6 for seven weeks with sponsor liaisons, data, interviews and a minimum two weeks on site; teams write a report and present to faculty and company representatives. Capstone MAP (BBA/Master of Management): teams do original research and deliver strategic recommendations to company executives.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Michigan Ross (Action-Based Learning)",
+   "eligible_faculties_programmes": "Ross full-time/Global/Online/Executive/Weekend MBA; Capstone MAP: BBA and Master of Management (prerequisite STRATEGY 390 or Ross Minor)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "MBA first year (full-time MBA); BBA senior (Capstone)",
+   "eligibility_restrictions": "Ross programmes only; Capstone MAP elective with prerequisite.",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Capstone MAP: 3-credit elective (BA 453). MBA MAP credit not captured.",
+   "duration": "MBA MAP seven weeks; Capstone MAP one term (W26)",
+   "delivery_format": "Team consulting with sponsor site visits",
+   "project_based": "Yes",
+   "project_evidence": "Real business problem; detailed report and recommendations presented to faculty and company [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of four to six Ross MBAs [2]; Capstone MAP project teams [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsors supply two liaisons, executive sponsor, data, interviews, site access and cover expenses; students present to sponsor representatives [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: sets problem, supplies data/liaisons, receives report and presentation",
+   "external_partner_coverage": "All/standard",
+   "named_partners": "Big Brothers Big Sisters of Southeast Michigan (2026 BBA Capstone listing); Amazon, Caterpillar, Ford, Uber named as general MAP sponsors (not specific to Capstone MAP)",
+   "deliverable": "Written report and presentation of recommendations",
+   "duration_band": "~1 term/semester (MBA MAP 1-4 weeks block of seven weeks)",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (W26 Capstone MAP; Ross 2026 news: 175 projects a year)",
+   "participation_data": "175 projects a year (Ross 2026 news, via search summary); 79 BBA + 17 MM students on 20 Capstone MAP projects in one undated term",
+   "unresolved": "Whether MAP is compulsory for all MBA streams not directly quoted; Capstone MAP is elective.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://michiganross.umich.edu/courses/multidisciplinary-action-projects-map-4501",
+     "title": "Multidisciplinary Action Projects - MAP",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of first-year MBA students analyse a real, complex business problem with a participating company; write a detailed report and present recommendations to faculty and company representatives.",
+     "supports": [
+      "project",
+      "employer",
+      "group"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://michiganross.umich.edu/sites/default/files/uploads/Programs/MAP/pdfs/map_brochure.pdf",
+     "title": "MAP brochure",
+     "section": "Sponsor commitments",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Seven weeks, team of four to six MBAs; sponsors provide two project liaisons and an executive sponsor, supply data, arrange interviews, cover expenses, and arrange minimum two weeks on site.",
+     "supports": [
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://michiganross.umich.edu/courses/capstone-map-10484",
+     "title": "Capstone MAP",
+     "section": "Course page",
+     "pub_year": "W26",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Capstone MAP (BA 453), 3-credit elective offered W26; prerequisites STRATEGY 390 or Ross Minor; teams work with companies, startups, nonprofits on original research and present to executives.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [],
+ "embeddedness": "Unclear",
+ "profile_md": "Interim.",
+ "gaps": "Interim."
+}

@@ -1,0 +1,640 @@
+{
+ "inst_id": "US12",
+ "institution": "Johns Hopkins University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Whiting School Design Day capstone sponsor",
+    "SOURCE/Center for Social Concern community partner project team",
+    "Krieger/CLE consulting project external organization"
+   ],
+   "key_sources": [
+    "https://engineering.jhu.edu/partner-with-us/",
+    "https://source.jhu.edu/"
+   ],
+   "finding": "No university-wide employer project route found; central offices (SOURCE, Engineering Design Center, CLE) host school-level schemes."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Carey capstone consulting project client team",
+    "Carey Innovation Field Project sponsor"
+   ],
+   "key_sources": [
+    "https://carey.jhu.edu/student-life/experiential-learning/experiential-courses/innovation-field-project"
+   ],
+   "finding": "Carey MBA Innovation Field Project (sponsor consulting teams) and Health Care Strategy Practicum; undated."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "ME Senior Design sponsors",
+    "CS/CE/Applied Math capstone industry sponsor",
+    "BME Undergraduate Design Team",
+    "MSEM project partnerships"
+   ],
+   "key_sources": [
+    "https://me.jhu.edu/education/undergraduate-studies/senior-design/",
+    "https://www.bme.jhu.edu/academics/bme-design/undergraduate-design-team/",
+    "https://msem.engineering.jhu.edu/projects/"
+   ],
+   "finding": "Strong sponsored team capstones in ME, BME, civil/systems and MSEM; no undergraduate CS capstone with external clients found."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "CS/Applied Math Statistics capstone industry sponsor (shared query)"
+   ],
+   "key_sources": [],
+   "finding": "No Krieger natural-science/statistics team project with external clients surfaced; thinly searched (one shared query)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "SAIS practicum capstone client",
+    "Krieger consulting project external organization"
+   ],
+   "key_sources": [
+    "https://sais.jhu.edu/academics/master-degrees/master-arts-international-relations-mair"
+   ],
+   "finding": "SAIS practicums with outside clients; no Krieger AHSS qualifying course located."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Bloomberg MPH practicum team community partner",
+    "Nursing/Peabody/Medicine team project"
+   ],
+   "key_sources": [
+    "https://publichealth.jhu.edu/offices-and-services/office-of-public-health-practice-and-training/the-mph-practicum",
+    "https://source.jhu.edu/"
+   ],
+   "finding": "Public health practicum largely individual; SOURCE Connection Community Consultants qualifies. Nursing, Peabody, Medicine not evidenced."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "EN.530.403/404 (alt EN.660.345/346)",
+   "english_name": "Mechanical Engineering Senior Design (EN.530.403/404)",
+   "admin_host": "Department of Mechanical Engineering",
+   "eligible_faculties_programmes": "BS Mechanical Engineering seniors",
+   "year_of_study": "Senior year",
+   "eligibility_restrictions": "",
+   "credit_assessment": "4 credits per semester, 8 credits total (catalogue)",
+   "duration": "Two semesters",
+   "delivery_format": "Team design-build project",
+   "named_partners": "Army Research Lab, BOSCH Security Systems, Blind Industries & Services of Maryland (2020 brochure); JHU APL, Stanley Black & Decker (Design Day 2026)",
+   "deliverable": "Functioning prototype + specifications presented to sponsor",
+   "duration_band": ">1 term",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "2025/26 (Design Day April 2026)",
+   "participation_data": "",
+   "unresolved": "Catalogue year of credit table unconfirmed; compulsory status inferred from catalogue capstone requirement; some sponsors are JHU internal units.",
+   "legacy_ref": "",
+   "local_id": "S1",
+   "official_name": "Mechanical Engineering Senior Design (EN.530.403/404)",
+   "description": "Two-semester senior capstone: small student teams take on a real project sponsored by local industry, government or non-profit organisations; each team conceives, designs, builds and tests a prototype in dedicated labs and presents the product and specifications to the sponsor. Sponsors provide funds, resources and technical contacts.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Teams design, build and test a prototype for a sponsor's problem [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'small teams' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsors (industry, government, academia, non-profit) set the problem, fund materials, supply technical contacts and receive the functioning prototype and specifications [1][2]. Design Day 2026 sponsor list includes JHU APL, Stanley Black & Decker and the JHU School of Medicine (some internal) [3].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client: supplies problem, funding, technical contacts; receives prototype",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://me.jhu.edu/education/undergraduate-studies/senior-design/",
+     "title": "Senior Design - Department of Mechanical Engineering",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Sponsors provide student teams with funds for materials, access to resources and technical contacts; students provide sponsors with functioning prototypes; sponsors from industry, government, academia and nonprofit.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/mechanical-engineering/",
+     "title": "Mechanical Engineering (catalogue)",
+     "section": "Capstone design",
+     "pub_year": "catalogue",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "EN.530.403 and 404 Senior Design Project I/II, 4 credits each; teams design, construct and test a prototype and present to the sponsor.",
+     "supports": [
+      "project",
+      "credit",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://me.jhu.edu/news/design-day-26-teams-gear-up-for-presentations-thursday/",
+     "title": "Design Day '26 teams gear up for presentations",
+     "section": "News",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "2026 team list with sponsors incl. Johns Hopkins APL, Stanley Black & Decker, JHU School of Medicine; presentations 30 April (event page says 28 April).",
+     "supports": [
+      "status",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Civil and Systems Engineering senior capstone (community-centered design)",
+   "admin_host": "Engineering Design Center / Civil and Systems Engineering",
+   "eligible_faculties_programmes": "Civil and Systems Engineering seniors",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "2025/26 (article 21 Apr 2026)",
+   "participation_data": "",
+   "unresolved": "Course codes, credits, how many teams have external clients, compulsory status not evidenced; only the search snippet was seen.",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "Civil and Systems Engineering senior capstone (community-centered design)",
+   "description": "Civil and systems engineering seniors work in teams with community clients, e.g. a nonprofit and a community land trust on a Baltimore rowhome preservation project.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Capstone design projects for community clients [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams' work with designated clients [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams work with designated clients (nonprofit, community land trust) [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://engineering.jhu.edu/designcenter/2026/04/21/civil-and-systems-engineering-seniors-design-community-centered-solutions-for-their-capstone-course/",
+     "title": "Civil and systems engineering seniors design community-centered solutions for their capstone course",
+     "section": "News",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Teams work with designated clients to improve life for Baltimore City residents; one civil team works with a nonprofit and community land trust on rowhome preservation.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "BME Undergraduate Design Team",
+   "admin_host": "Biomedical Engineering",
+   "eligible_faculties_programmes": "BME undergraduates",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": ">1 term",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "2025/26 (Design Day; Winter 2026 E-Team news)",
+   "participation_data": "About 20 teams per year (page undated; older page says ~15)",
+   "unresolved": "Share of external (non-JHU) sponsors; credit; exact current-cycle call.",
+   "legacy_ref": "BME Undergraduate Design Team",
+   "local_id": "S3",
+   "official_name": "BME Undergraduate Design Team",
+   "description": "Teams of 5-8 BME undergraduates work for about a year (18-month process) on clinician/researcher/industry-submitted design challenges, with clinical sponsors, faculty mentors and designers; prototype and test devices.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Design teams prototype and test devices for submitted clinical needs [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 5-8 undergraduates [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Clinicians, researchers and industry professionals submit challenges and sponsors are expected to engage about one hour per week [1]; many sponsors are JHU/Hopkins Hospital clinicians (internal), industry share not evidenced.",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor submits challenge, advises",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bme.jhu.edu/academics/bme-design/undergraduate-design-team/",
+     "title": "Undergraduate Design Team",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Teams of 5-8 undergraduates plus faculty work on selected projects for a year; sponsors engage ~1 hr/week; supports ~20 teams/year; Winter 2026 E-Team news.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Innovation Field Project (Carey Business School)",
+   "admin_host": "Carey Business School, Office of Experiential Learning",
+   "eligible_faculties_programmes": "Full-time/Accelerated MBA",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "8 weeks",
+   "delivery_format": "",
+   "named_partners": "Siemens, AstraZeneca, Constellation, Kaiser Permanente, Fidelity (undated)",
+   "deliverable": "Final presentation / recommendations to sponsor",
+   "duration_band": "~1 term",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Compulsory status stated only for Accelerated MBA required-course list; a Full-Time MBA page says 3 weeks (conflict); no dated 2025/26-26/27 cohort seen.",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Innovation Field Project (Carey Business School)",
+   "description": "MBA signature experiential course: 8-week intensive in which student teams consult for a corporate sponsor on a business challenge, with a 3-5 day on-site visit within the US, faculty advisor, and a final presentation to the business.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Consulting engagement on a sponsor business challenge ending in final presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Working in teams' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Corporate sponsor pairs students with the engagement, hosts on-site visit and receives final presentation; sponsors named include Siemens, AstraZeneca, Constellation, Kaiser Permanente, Fidelity [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor/client",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://carey.jhu.edu/student-life/experiential-learning/experiential-courses/innovation-field-project",
+     "title": "Innovation Field Project",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Eight-week intensive; teams meet sponsor, 3-5 days on-site, analysis, final presentation to the business; faculty advisor.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Health Care Strategy Consulting Practicum (Carey)",
+   "admin_host": "Carey Business School",
+   "eligible_faculties_programmes": "Part-time MS Health Care Management and healthcare-pathway MBA",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "16 weeks",
+   "delivery_format": "",
+   "named_partners": "Helping UP Mission, Protenus, Johns Hopkins Community Health (undated)",
+   "deliverable": "",
+   "duration_band": "~1 term",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "No dated cohort; elective status inferred.",
+   "legacy_ref": "",
+   "local_id": "S5",
+   "official_name": "Health Care Strategy Consulting Practicum (Carey)",
+   "description": "16-week online course: second half is client work in which groups of 3-5 students take on a challenge sourced by the Office of Experiential Learning from businesses and nonprofits.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Client challenge with actionable solutions [1].",
+   "group_working": "Yes",
+   "group_evidence": "Groups of three to five peers [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges from businesses and nonprofits, e.g. Helping UP Mission, JH Community Health (internal), Protenus [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://carey.jhu.edu/student-life/experiential-learning/experiential-courses/health-care-strategy-consulting-practicum",
+     "title": "Health Care Strategy Consulting Practicum",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Groups of 3-5 paired with a challenge sourced by Office of Experiential Learning; past partners Helping UP Mission, JH Community Health, Protenus.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "SAIS practicums (MAIR, MATP, ERE, Women Lead, Canadian Studies)",
+   "admin_host": "Johns Hopkins SAIS",
+   "eligible_faculties_programmes": "SAIS master's students (MAIR, MATP, ERE etc.)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "AECOM (ERE practicum)",
+   "deliverable": "Client report/policy recommendations",
+   "duration_band": "~1 term",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Each practicum is a separate course; compulsory status (MATP ends with practicum; Canadian practicum fulfils MAIR capstone) and dated cohorts not confirmed; umbrella of several courses.",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "official_name": "SAIS practicums (MAIR, MATP, ERE, Women Lead, Canadian Studies)",
+   "description": "Consulting courses in which teams (usually four) of SAIS master's students deliver a report or policy recommendations to an outside client organisation (e.g. AECOM report on resilient infrastructure; Canadian government client; government agency, IO, NGO or company sponsors in MATP).",
+   "academic_reach": "Faculty/school",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Consulting project with terms of reference and report [1].",
+   "group_working": "Yes",
+   "group_evidence": "'usually work in teams of four' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Outside client organisations set research questions/terms of reference and receive reports; AECOM report published [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sais.jhu.edu/academics/master-degrees/master-arts-international-relations-mair",
+     "title": "MAIR",
+     "section": "Practicums",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Practicums: consulting project for an outside client organization; students usually work in teams of four.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sais.jhu.edu/news-press/johns-hopkins-sais-students-launch-final-report-aecom-cities-and-resilient-infrastructure",
+     "title": "SAIS students launch final report with AECOM",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Student practicum team report with AECOM on cities and resilient infrastructure.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "MSEM Immersion Program and Industry Partner Strategy / Healthcare Systems Innovation projects",
+   "admin_host": "Whiting School / Center for Leadership Education (MSEM)",
+   "eligible_faculties_programmes": "MS Engineering Management",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "Siemens, Danfoss, Dynata, Intralox, Bloomberg Associates, NATO (undated)",
+   "deliverable": "Report with recommendations",
+   "duration_band": "1–4 weeks",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Which components are compulsory; dated cohorts; Immersion is intersession (short).",
+   "legacy_ref": "",
+   "local_id": "S7",
+   "official_name": "MSEM Immersion Program and Industry Partner Strategy / Healthcare Systems Innovation projects",
+   "description": "Master of Science in Engineering Management: small student teams complete consulting projects for partner organisations (Immersion intersession projects with companies/startups incl. Siemens, Danfoss; 7-week Healthcare Systems Innovation Project with 4-5 students per group for JHH clinicians; capstone with an industry partner in Strategies for Innovation and Growth).",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing",
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Consulting projects ending in report/presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'small teams'; 4-5 per group [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners (Siemens, Danfoss, Dynata, Intralox, Bloomberg Associates) propose projects and receive findings; JHH projects are internal to JHU health system [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://msem.engineering.jhu.edu/projects/",
+     "title": "Projects - MSEM",
+     "section": "Projects",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Immersion consulting with project partners in small teams; Healthcare Systems Innovation Project 7 weeks, 4-5 students, 114 projects since 2016; capstone with industry partner in Strategies for Innovation and Growth.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Connection Community Consultants Program (SOURCE)",
+   "admin_host": "SOURCE (Bloomberg School of Public Health-hosted community engagement centre)",
+   "eligible_faculties_programmes": "Students in the JHU health professional schools",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "None evidenced",
+   "duration": "Up to 8 weeks",
+   "delivery_format": "",
+   "named_partners": "",
+   "deliverable": "Project deliverable to CBO",
+   "duration_band": "1–4 weeks",
+   "likely_duplicate_of": "",
+   "latest_evidenced_year": "2026/27 (sign-ups advertised)",
+   "participation_data": "",
+   "unresolved": "Duration band 8 weeks max (recorded as 1-4 weeks/~1 term boundary: up to 8 weeks); participation numbers not current.",
+   "legacy_ref": "",
+   "local_id": "S8",
+   "official_name": "Connection Community Consultants Program (SOURCE)",
+   "description": "Student volunteers in teams of 3-5 complete short projects (up to 8 weeks) for Baltimore community-based organisations, e.g. literature review for Banner Neighborhoods, Instagram campaign for SPARC; CBOs pay nothing and name a contact; requests Fall and Spring.",
+   "academic_reach": "Cross-faculty",
+   "faculty_areas": [
+    "other",
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "project_based": "Yes",
+   "project_evidence": "Defined CBO projects (consulting, grants, evaluation, communications) [1].",
+   "group_working": "Yes",
+   "group_evidence": "'small teams (3-5 students)' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "CBOs request projects, name a contact and receive deliverables [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://source.jhu.edu/who-we-serve/information-for-baltimore-community-based-organizations/source-opportunities-guide/one-time-and-short-term-projects/connection-community-consultants",
+     "title": "Connection Community Consultants",
+     "section": "Programme page",
+     "pub_year": "undated; 2026-27 sign-ups advertised",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (summary paraphrase; WebFetch and curl returned 403 for jhu.edu hosts, not bypassed)",
+     "extract": "Teams of 3-5 students, up to 8 weeks, for partnering CBOs; any student in JHU health professional schools can apply; requests Fall and Spring.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Pava Center: Spark / Fuel accelerators",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Student venture teams develop their own ventures; no external organisation sets a brief (C not met); incubator not counted automatically.",
+   "source_url": "https://pavacenter.jhu.edu/programs/student-programs/fuel/",
+   "status_note": "Legacy row; not re-researched"
+  },
+  {
+   "name": "MPH Practicum / Baltimore Community Practicum",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual practicum with a preceptor at an organisation (team-based only if each student has distinct contributions; SOURCE community practicum is one student per project).",
+   "source_url": "https://publichealth.jhu.edu/offices-and-services/office-of-public-health-practice-and-training/the-mph-practicum",
+   "status_note": ""
+  },
+  {
+   "name": "Center for Leadership Education strategy consulting course (EN.660.663 area)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Catalogue text: students form teams, work with an outside sponsor and present to the client, but course number, enrolment/eligibility and delivery dates not confirmed.",
+   "source_url": "https://e-catalogue.jhu.edu/course-descriptions/center_for_leadership_education/",
+   "status_note": ""
+  },
+  {
+   "name": "Carey CityLab (place-based project sponsored by local business/community organisation)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Listed as two-term practicum series; details not retrieved.",
+   "source_url": "https://carey.jhu.edu/student-life/experiential-learning/experiential-courses/citylab",
+   "status_note": ""
+  },
+  {
+   "name": "EP CS Capstone 605.795; Information Security Institute capstone",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Groups choose topic from published list with faculty mentor; no employer client evidenced.",
+   "source_url": "https://ep.jhu.edu/courses/605795-capstone-project-in-computer-science/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Johns Hopkins has several distributed, school-level routes where student teams work for external sponsors, but no university-wide scheme was verified. The clearest is Mechanical Engineering Senior Design: a two-semester, 8-credit senior capstone in which teams build prototypes for industry, government and non-profit sponsors who fund and receive the work (2026 Design Day). Civil and Systems Engineering seniors work with community clients, and the BME Undergraduate Design Team (teams of 5-8 over about a year) takes challenges from clinicians and industry, though the external share is unclear. In business, Carey's Innovation Field Project (8-week MBA team consulting for corporate sponsors) and the Health Care Strategy Practicum are described on undated pages. SAIS practicums put teams of about four to work for outside clients (e.g. AECOM). MSEM projects and SOURCE's Connection Community Consultants (teams of 3-5, up to 8 weeks, for Baltimore community organisations; 2026-27 recruiting) add further routes. Most are programme-specific; only SOURCE is cross-school and extracurricular. Pava Center accelerators are venture-building, not client projects. Uncertain: current-year evidence for Carey and SAIS, compulsory status of capstones, and the science and Krieger arts and humanities areas, which were thinly searched. All sources are search-index extracts because jhu.edu pages returned 403 to WebFetch and curl.",
+ "gaps": "Direct page text unavailable (403 from jhu.edu hosts via WebFetch and curl; not bypassed). Science and Krieger AHSS thinly searched; Nursing, Peabody, Medicine unsearched in depth; CLE consulting course, CityLab and further departmental capstones (ECE, CS, Chem/Biomolecular, Civil) likely exist; dated current-year evidence missing for Carey, SAIS, MSEM."
+}
