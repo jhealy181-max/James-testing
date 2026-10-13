@@ -1,0 +1,145 @@
+{
+ "inst_id": "US14",
+ "institution": "California Los Angeles (UCLA)",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {"status": "Searched", "queries": ["UCLA Center for Community Engagement community engagement social change minor capstone community partner project", "UCLA Undergraduate Research Center OR Career Center OR Innovation student teams real-world challenge employer partner project"], "key_sources": ["https://communityengagement.ucla.edu/programs/community-engagement-and-social-change-minor/", "https://alumni.ucla.edu/ucla-epicenter-connects-students/"], "finding": "Central route found: CESC minor capstone (community-partner research, University-wide minor). Epicenter Innovation Challenge (industry partners, 10 weeks) is only evidenced by an undated/2023 alumni article, so recorded as an evidence gap."},
+  "business": {"status": "Searched", "queries": ["UCLA Anderson Applied Management Research Program student teams client companies"], "key_sources": ["https://www.anderson.ucla.edu/for-companies/engage-a-student-team", "https://www.anderson.ucla.edu/degrees/full-time-mba/academics/capstone-projects", "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics/for-companies/capstone-applied-analytics-project"], "finding": "Strong provision: AIR capstone (teams of 5 MBA students consulting for external organisations) and MSBA Applied Analytics Project (team client project serving as comprehensive exam). Other Anderson options (ASG, GSIC, BCC, FEiSty, TTC) listed as leads only."},
+  "engineering_computing": {"status": "Searched", "queries": ["UCLA Samueli Engineering capstone design industry sponsored project teams", "UCLA Computer Science 130 capstone industry sponsor team project"], "key_sources": ["https://www.meng.ucla.edu/program-overview/", "https://capstones.ucla.edu/capstones/professional-schools/henry-samueli-school-of-engineering-and-applied-science/"], "finding": "MEng ENGR 299 is a compulsory team capstone but industry sponsors are optional (C Unclear). Undergraduate engineering capstones are listed as Team Project with Product Design; no evidence of external sponsors found (CS 130 sponsorship not evidenced)."},
+  "science": {"status": "Searched", "queries": ["UCLA life sciences OR physical sciences undergraduate team research project external partner company course"], "key_sources": ["https://sciences.ugresearch.ucla.edu/"], "finding": "Only faculty-mentored individual research programmes (SRP-99, URFP) found; no team projects with external organisations verified."},
+  "arts_humanities_social_sciences": {"status": "Searched", "queries": ["UCLA humanities social sciences course student teams client community organization project capstone", "UCLA Luskin School capstone applied policy project client organization"], "key_sources": ["https://luskin.ucla.edu/urban-planning/student-projects/applied-planning-research-projects/", "https://luskin.ucla.edu/urban-planning/student-projects/", "https://communityengagement.ucla.edu/programs/community-engagement-and-social-change-minor/"], "finding": "Luskin MURP Client Project / APRP (real clients, 2026 projects) but appears individual; MPP Applied Policy Project evidenced only by 2017-18 handbook. Social Enterprise Academy and client-based evaluation course are leads only. No Sociology/Geography/ISG client projects found."},
+  "other": {"status": "Searched", "queries": ["UCLA Arts and Architecture OR School of Law OR Public Health student team project external client studio capstone"], "key_sources": ["https://capstones.ucla.edu/the-initiative/criteria-options/"], "finding": "Nothing verified for Arts and Architecture, Law or Public Health; Healthcare Management case competition (real SoCal health-system challenge) noted as a lead only."}
+ },
+ "schemes": [
+  {
+   "local_id": "S1", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Applied Integrated Research (AIR) capstone", "english_name": "Applied Integrated Research (AIR) capstone (formerly Applied Management Research)", "module_code": "",
+   "description": "MBA capstone option in which a team of 5 MBA students consults for an external client organisation (company, government agency or non-profit), doing strategic analysis and market research and delivering executive-level recommendations over about 2.5 months. The client engages without a participation fee.",
+   "academic_reach": "Programme/course", "admin_host": "UCLA Anderson School of Management",
+   "eligible_faculties_programmes": "Full-Time MBA, Fully Employed MBA and Executive MBA (separate timelines)",
+   "faculty_areas": ["business"], "student_level": "Postgraduate taught", "year_of_study": "Second year (FT MBA, March timeline)",
+   "eligibility_restrictions": "MBA students; capstone presented as a choice among options (AIR, ATMC, BCC, AMR)",
+   "participation_requirement": "Optional/elective", "curricular_status": "Curricular",
+   "credit_assessment": "Capstone credit not extracted", "duration": "About 2.5 months client engagement (earlier materials: 20 weeks)", "delivery_format": "Team consulting project with external client",
+   "project_based": "Yes", "project_evidence": "Strategic analysis, market research and executive-level recommendations for a client problem [1][2].",
+   "group_working": "Yes", "group_evidence": "'Teams of 5 MBA students work as consultants to an external organization' [1].",
+   "employer_connected": "Yes", "employer_evidence": "'pairs a team of students ... with a client organization'; client types company, government agency, non-profit [1][2].",
+   "partner_type": "Mixed", "partner_role": "Client: supplies the problem, engages with team, receives recommendations",
+   "named_partners": "",
+   "deliverable": "Executive-level recommendations / report to client",
+   "duration_band": "~1 term/semester", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2025/26 (FT MBA Class of 2026 cohort)",
+   "participation_data": "'One out of four students in the Full-Time MBA Class of 2026 chose AIR' (percentage, not a count) [2].",
+   "unresolved": "Currency inferred from Class of 2026 cohort statements; the pages give no explicit academic year. Credit value not retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.anderson.ucla.edu/for-companies/engage-a-student-team", "title": "Engage a Student Team", "section": "AIR", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch)", "extract": "'Teams of 5 MBA students work as consultants to an external organization (company, government agency, non-profit).' 'Engagement between student team and the client organization lasts about 2.5 months.' Timelines: FT MBA March, FEMBA December, EMBA June (no years).", "supports": ["project", "group", "employer", "reach"]},
+    {"n": 2, "url": "https://www.anderson.ucla.edu/degrees/full-time-mba/academics/capstone-projects", "title": "Capstone Project (Full-Time MBA)", "section": "Which Capstone Is Right for Me", "pub_year": "undated (Class of 2026 cohort)", "accessed": "2026-10-13", "retrieval": "page text (WebFetch)", "extract": "AIR 'pairs a team of students from a variety of professional backgrounds with a client organization'; 'One out of four students in the Full-Time MBA Class of 2026 chose AIR.'", "supports": ["project", "group", "employer", "participation", "status"]}
+   ]
+  },
+  {
+   "local_id": "S2", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Applied Analytics Project (MSBA capstone)", "english_name": "Applied Analytics Project", "module_code": "",
+   "description": "10-week client analytics project serving as the MSBA students' comprehensive exam: teams work with a company that supplies quantitative data and two client contacts, hold regular progress calls Oct-Dec, and deliver a midpoint report (early November) and a final report and presentation (early December).",
+   "academic_reach": "Programme/course", "admin_host": "UCLA Anderson, Master of Science in Business Analytics",
+   "eligible_faculties_programmes": "MSBA", "faculty_areas": ["business"], "student_level": "Postgraduate taught", "year_of_study": "",
+   "eligibility_restrictions": "", "participation_requirement": "Compulsory within specified programmes", "curricular_status": "Curricular",
+   "credit_assessment": "Serves as comprehensive exam", "duration": "10 weeks (Oct-Dec)", "delivery_format": "Team client project",
+   "project_based": "Yes", "project_evidence": "Defined data-based client problem; outputs such as process optimization models and new KPIs; midpoint and final report [1].",
+   "group_working": "Yes", "group_evidence": "'create team(s) of four to five MSBA students'; elsewhere 'groups of up to four' (page inconsistent on size, both are teams) [1].",
+   "employer_connected": "Yes", "employer_evidence": "Client supplies data, two named client contacts, regular progress calls; NDA signed by all parties [1].",
+   "partner_type": "Business/commercial", "partner_role": "Client: provides data and contacts, receives report",
+   "named_partners": "", "deliverable": "Midpoint report, final report and presentation",
+   "duration_band": "~1 term/semester", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Page undated (no year); 'comprehensive exam' wording inferred as compulsory; page is a company-facing recruiting page so required status for all MSBA students not confirmed from regulations.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics/for-companies/capstone-applied-analytics-project", "title": "Capstone: Applied Analytics Project", "section": "Program structure / requirements", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch)", "extract": "'The AAP is a 10-week project serving as the students' comprehensive exam.' 'Two client contacts who will serve as primary and secondary project contacts'; 'All parties sign standard UCLA Anderson nondisclosure agreement'; final report early December.", "supports": ["project", "group", "employer", "credit"]}
+   ]
+  },
+  {
+   "local_id": "S3", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Master of Engineering Capstone Project (ENGR 299)", "english_name": "MEng Capstone Project", "module_code": "ENGR 299",
+   "description": "Compulsory 4-unit MEng capstone: teams of 3-4 students do analysis, design, fabrication and testing led by a faculty adviser, ending with a project report and group presentation to the faculty capstone committee and class. Industry sponsors are an option, not a documented norm.",
+   "academic_reach": "Programme/course", "admin_host": "UCLA Samueli School of Engineering, Master of Engineering",
+   "eligible_faculties_programmes": "Master of Engineering", "faculty_areas": ["engineering_computing"], "student_level": "Postgraduate taught", "year_of_study": "",
+   "eligibility_restrictions": "", "participation_requirement": "Compulsory within specified programmes", "curricular_status": "Curricular",
+   "credit_assessment": "4 units", "duration": "Unclear", "delivery_format": "Team capstone",
+   "project_based": "Yes", "project_evidence": "Hands-on analysis, design, fabrication and testing with project report [1].",
+   "group_working": "Yes", "group_evidence": "'Teams of 3-4 students will work together in groups' [1].",
+   "employer_connected": "Unclear", "employer_evidence": "'led by a faculty adviser and may include industry sponsors' [1]; sponsorship optional, so not evidenced as standard.",
+   "partner_type": "Unclear", "partner_role": "Optional industry sponsor", "named_partners": "",
+   "deliverable": "Project report and group presentation",
+   "duration_band": "Unclear", "external_partner_coverage": "Some projects", "likely_duplicate_of": "",
+   "operating_status": "Current status unclear", "latest_evidenced_year": "2026 (site copyright only)",
+   "participation_data": "", "unresolved": "Proportion of sponsored projects; named sponsors; duration; dated cohort.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.meng.ucla.edu/program-overview/", "title": "MEng Program Overview", "section": "ENGR 299 Capstone Project", "pub_year": "undated (footer 2026)", "accessed": "2026-10-13", "retrieval": "page text (WebFetch)", "extract": "'All students must enroll and complete a capstone project (ENGR 299).' 'The capstone project is led by a faculty adviser and may include industry sponsors.' 'Teams of 3-4 students will work together in groups.'", "supports": ["project", "group", "employer", "participation", "credit"]}
+   ]
+  },
+  {
+   "local_id": "S4", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Community Engagement and Social Change minor capstone (CESC 191AX/191BX)", "english_name": "CESC minor capstone research course", "module_code": "CESC 191AX / 191BX",
+   "description": "Two-quarter (winter, spring) capstone of the CESC minor: students conduct research developed and conducted in collaboration with a community partner whose interests the project must serve, presented as research posters (2026 posters published). Page refers to a team of student researchers in one example, but does not state whether projects are individual or group.",
+   "academic_reach": "University-wide", "admin_host": "Center for Community Engagement",
+   "eligible_faculties_programmes": "Undergraduates in any major",
+   "faculty_areas": ["central", "arts_humanities_social_sciences"], "student_level": "Undergraduate", "year_of_study": "Typically upper-division",
+   "eligibility_restrictions": "Core courses completed plus at least one other community-engaged course; B or better in 191AX/BX; GPA 2.0+ for minor",
+   "participation_requirement": "Optional/elective", "curricular_status": "Curricular",
+   "credit_assessment": "Credit-bearing courses in the minor; grade B or better required", "duration": "Two successive quarters (winter + spring)", "delivery_format": "Community-partnered research project course",
+   "project_based": "Yes", "project_evidence": "Research project with defined question and poster output, developed with partner [1].",
+   "group_working": "Unclear", "group_evidence": "Page gives 'a team of student researchers explored a question' as an example but states no group-versus-individual policy [1].",
+   "employer_connected": "Yes", "employer_evidence": "'The research is developed and conducted in collaboration with a community partner'; partner shapes question; past partners include LA Reentry, SoCal Crossroads, Legal Aid Foundation of Los Angeles [1].",
+   "partner_type": "Charity/community", "partner_role": "Collaborates on research question and methods",
+   "named_partners": "LA Reentry, SoCal Crossroads, Legal Aid Foundation of Los Angeles (as listed on the minor page, per search summary)",
+   "deliverable": "Capstone research poster/report",
+   "duration_band": ">1 term", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2026",
+   "participation_data": "", "unresolved": "Whether capstone projects are done in teams or individually (B Unclear); students may find their own partner.",
+   "legacy_ref": "Community Engagement and Social Change minor",
+   "sources": [
+    {"n": 1, "url": "https://communityengagement.ucla.edu/programs/community-engagement-and-social-change-minor/", "title": "Community Engagement and Social Change minor", "section": "Capstone", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "page text (WebFetch)", "extract": "'CESC 191AX (only offered in winter quarter) and CESC 191BX (only offered in spring quarter).' 'The research is developed and conducted in collaboration with a community partner.' '2026 Capstone Research Posters'; info sessions 10-11 August 2026.", "supports": ["project", "employer", "reach", "eligibility", "status", "credit"]}
+   ]
+  },
+  {
+   "local_id": "S5", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Client Project / Applied Planning Research Project (MURP capstone)", "english_name": "Luskin MURP Client Project (APRP)", "module_code": "",
+   "description": "Second-year MURP capstone: applied planning research on a real-world problem for nonprofit organisations, public agencies or planning practitioners; nearly 30 students in 2026; results presented as posters at an annual event. Student-by-student attribution on the page suggests individual projects.",
+   "academic_reach": "Programme/course", "admin_host": "UCLA Luskin School of Public Affairs, Urban Planning",
+   "eligible_faculties_programmes": "Master of Urban and Regional Planning", "faculty_areas": ["arts_humanities_social_sciences"], "student_level": "Postgraduate taught", "year_of_study": "Year 2",
+   "eligibility_restrictions": "", "participation_requirement": "Compulsory within specified programmes", "curricular_status": "Curricular",
+   "credit_assessment": "Capstone requirement for the degree", "duration": "Unclear", "delivery_format": "Client-based applied research",
+   "project_based": "Yes", "project_evidence": "'applied planning research on a real-world problem'; 'Each pin represents a client-based capstone project' [1][2].",
+   "group_working": "Unclear", "group_evidence": "Project outputs credited to individual students; page does not say whether projects are team-based [1]. (Separate larger Comprehensive projects are multi-student but were not assessed.)",
+   "employer_connected": "Yes", "employer_evidence": "Students 'collaborated with nonprofit organizations, public agencies, and planning practitioners' in 2026 [1]; earlier client agreement document requires client approval letter.",
+   "partner_type": "Mixed", "partner_role": "Client: poses problem, approves final report",
+   "named_partners": "",
+   "deliverable": "Report and poster",
+   "duration_band": "Unclear", "external_partner_coverage": "All/standard", "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2026",
+   "participation_data": "'nearly 30 students' collaborated with organisations in 2026 [1].",
+   "unresolved": "Group vs individual; compulsory status inferred from capstone-requirement wording; separate MPP Applied Policy Project (evidenced only by a 2017-18 handbook, clients may be agencies, nonprofits or corporations) not assessed.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://luskin.ucla.edu/urban-planning/student-projects/applied-planning-research-projects/", "title": "Applied Planning Research Projects", "section": "Projects", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "page text (WebFetch)", "extract": "'Each pin represents a client-based capstone project'; 'In 2026, nearly 30 students collaborated with nonprofit organizations, public agencies, and planning practitioners.'", "supports": ["project", "employer", "status", "participation"]},
+    {"n": 2, "url": "https://luskin.ucla.edu/urban-planning/student-projects/", "title": "Urban Planning Student Projects", "section": "Client Project", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "page text (WebFetch)", "extract": "'applied planning research on a real-world problem ... conducted by MURP students in their 2nd year in order to satisfy the capstone requirement for the degree.'", "supports": ["project", "participation", "credit"]}
+   ]
+  }
+ ],
+ "exclusions": [
+  {"name": "Community Engagement and Social Change minor (as a whole)", "legacy": true, "category": "Other", "reason": "Minor itself is an elective credential; the underlying capstone is reassessed as S4 (legacy_ref).", "source_url": "https://communityengagement.ucla.edu/programs/community-engagement-and-social-change-minor/", "status_note": "Reassessed in S4"},
+  {"name": "Epicenter Innovation Challenge (UCLA Epicenter for Action Research)", "legacy": false, "category": "Evidence gap", "reason": "10-week project-based programme with industry partners (AWS, Slalom, Harman, LA28) but evidenced only by an alumni article citing Spring 2023; eligibility, team structure, current delivery not established.", "source_url": "https://alumni.ucla.edu/ucla-epicenter-connects-students/", "status_note": "Lead only"},
+  {"name": "Anderson Strategy Group; Global Nonprofit Capstone (GSIC); FEiSty; Technology Transfer/Commercialization; Business Creation Capstone", "legacy": false, "category": "Evidence gap", "reason": "Listed on the Anderson capstone page as external-client or venture options; not individually fetched.", "source_url": "https://www.anderson.ucla.edu/degrees/full-time-mba/academics/capstone-projects", "status_note": "Lead only"},
+  {"name": "UCLA Healthcare Management case competition; Easton Innovation Challenge", "legacy": false, "category": "Event/competition without live client", "reason": "Competitions; real health-system challenge and expert judging mentioned in search summary but not verified by page text.", "source_url": "https://www.healthcaremanagement.ph.ucla.edu/casecompetition", "status_note": "Lead only"},
+  {"name": "Undergraduate Samueli capstones (team project with product design); CS 130 Software Engineering", "legacy": false, "category": "Evidence gap", "reason": "Team capstones listed but no evidence of external sponsors.", "source_url": "https://capstones.ucla.edu/capstones/professional-schools/henry-samueli-school-of-engineering-and-applied-science/", "status_note": "Lead only"},
+  {"name": "SRP-99 / URFP undergraduate research", "legacy": false, "category": "Dissertation/research", "reason": "Individual faculty-mentored research with no external organisation.", "source_url": "https://sciences.ugresearch.ucla.edu/", "status_note": ""}
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "UCLA's verified provision sits mostly in professional schools plus one university-wide route. In UCLA Anderson, the Applied Integrated Research (AIR) capstone puts teams of 5 MBA students to work as consultants for an external company, agency or non-profit for about 2.5 months, and the MSBA Applied Analytics Project (a 10-week team project that serves as the comprehensive exam) uses client-supplied data and named client contacts. AIR is one of several MBA capstone options, so it is elective within the programme; the MSBA project appears compulsory but its page is undated. The Center for Community Engagement runs the Community Engagement and Social Change minor, open to undergraduates in any major, whose two-quarter capstone research is conducted in collaboration with a community partner (2026 posters published), but whether it is done in teams is not stated. Luskin's MURP Client Project is a compulsory second-year capstone with nonprofit and public-agency clients (about 30 students in 2026), though it appears individual. The Master of Engineering ENGR 299 capstone is a compulsory team project, but industry sponsors only 'may' be included. Nothing qualifying was verified in sciences, arts or law. Provision is distributed rather than institution-wide, and the evidence is largely undated for engineering and the MSBA project.",
+ "gaps": "Further Anderson options (ASG, GSIC, FEiSty, TTC, BCC) and Epicenter Innovation Challenge need page-level checks; MPP Applied Policy Project only evidenced by 2017-18 handbook; undergraduate engineering and CS capstones have no sponsor evidence; no results for sciences, humanities departments, arts, law, public health; participation counts largely unpublished. AIR and MSBA pages were read only to 100,000 characters."
+}
