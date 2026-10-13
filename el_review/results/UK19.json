@@ -1,0 +1,390 @@
+{
+ "inst_id": "UK19",
+ "institution": "Stirling",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Stirling student consultancy live client project employer",
+    "Stirling University-wide interdisciplinary challenge students teams external partners employability module",
+    "Careers Student projects index (fetched)"
+   ],
+   "key_sources": [
+    "https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/",
+    "https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/business-projects/"
+   ],
+   "finding": "Careers hosts 21 employer-facing student project/placement schemes but the index gives no group/credit detail; no university-wide group employer project found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Stirling Management School module live client project student teams organisation",
+    "Business Consulting MANP005 client team",
+    "Consultancy Project module marketing MSc 2026/7 client group",
+    "MSc Marketing consultancy project clients 2025"
+   ],
+   "key_sources": [
+    "https://www.stir.ac.uk/courses/pg-taught/marketing/",
+    "https://www.stir.ac.uk/courses/pg-taught/digital-marketing-brand-management/",
+    "https://www.stir.ac.uk/about/faculties/stirling-business-school/your-future-career/consultancy-projects/",
+    "https://www.stir.ac.uk/courses/module/?code=MANP005&session=2026/7&semester=SPR"
+   ],
+   "finding": "Strongest provision: MSc Marketing and MSc Digital Marketing group client projects, plus summer Masters consultancy elective and MANP005."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Stirling Computing Science Mathematics team project industry client module"
+   ],
+   "key_sources": [
+    "https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/computing-science-placements/"
+   ],
+   "finding": "Only individual industrial placements found; team-based software modules not shown to involve external clients."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Stirling Biological and Environmental Sciences group project external organisation placement module"
+   ],
+   "key_sources": [
+    "https://www.stir.ac.uk/courses/ug/biology/"
+   ],
+   "finding": "Optional individual placements (Natural England, RSPB etc. per snippet) and MSc Environmental Management agency-linked research project; no group client project verified."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Stirling Arts and Humanities Social Sciences group project community partner client brief module"
+   ],
+   "key_sources": [
+    "https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/arts-and-humanities-placements/"
+   ],
+   "finding": "Second-year placement-style real projects for external bodies; group working not generally evidenced."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Stirling health sciences sport nursing education group project external organisation client"
+   ],
+   "key_sources": [
+    "https://www.stir.ac.uk/about/faculties/health-sciences-sport/"
+   ],
+   "finding": "Nursing placements and a funder-led pilot only; law placements (30 hours) are placements; no qualifying group client project found."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage (summer, after two semesters)",
+   "eligibility_restrictions": "",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated on fetched page",
+   "academic_reach": "Programme/course",
+   "admin_host": "Stirling Management School (Stirling Business School)",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Past clients listed on programme page (undated): National Wallace Monument, Waterski Scotland, Strathearn Strategic Consulting, Stirling Albion FC, Scottish Biomedical, Snowsports Scotland, EASA Training Ltd, Stirling Art",
+   "local_id": "S1",
+   "official_name": "MSc Marketing: Consultancy Project",
+   "english_name": "MSc Marketing Consultancy Project",
+   "description": "Core summer project of the MSc Marketing: student groups each work for an external client organisation that sets a real-world task, investigate it and present findings/solutions back to the client.",
+   "eligible_faculties_programmes": "MSc Marketing",
+   "participation_requirement": "Compulsory within specified programmes",
+   "duration": "Summer, after the two taught semesters",
+   "delivery_format": "Group client project",
+   "project_based": "Yes",
+   "project_evidence": "Client-set real-world task investigated and presented back [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Each group has a client organisation that sets a real-world task' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External clients set the task; students work on 'consultancy projects with external clients over the summer'; findings presented to client [1]. Search summary of same page says clients span private, public and third sector.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: sets task, receives presentation",
+   "deliverable": "Group consultancy findings/solutions presented to client (report/presentation form not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated (page called 'core Consultancy Project module for over twenty years')",
+   "unresolved": "No dated 2025/26 or 2026/27 corroboration of the client list or delivery; module code, credits and assessment not found; duration is inferred from 'over the summer'.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.stir.ac.uk/courses/pg-taught/marketing/",
+     "title": "MSc Marketing",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "WebFetch page-text (summarised by fetch tool)",
+     "extract": "'Students work on consultancy projects with external clients over the summer.' 'Each group has a client organisation that sets a real-world task.' Described as 'our core Consultancy Project module for over twenty years.' Page lists past clients.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage (summer, after two semesters)",
+   "eligibility_restrictions": "",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated on fetched page",
+   "academic_reach": "Programme/course",
+   "admin_host": "Stirling Management School (Stirling Business School)",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Recent clients per page (undated): Strathearn Strategic Consulting, Stirling Albion FC, EASA Training Ltd, Snowsports Scotland",
+   "local_id": "S2",
+   "official_name": "MSc Digital Marketing and Brand Management: Consultancy Project",
+   "english_name": "MSc Digital Marketing and Brand Management live client project",
+   "description": "Summer consultancy project in which student groups each take a live marketing topic from a client organisation, explore it within the client's management boundaries and budget, and present solutions.",
+   "eligible_faculties_programmes": "MSc Digital Marketing and Brand Management",
+   "participation_requirement": "Unclear",
+   "duration": "Summer, after the two taught semesters",
+   "delivery_format": "Group client project",
+   "project_based": "Yes",
+   "project_evidence": "Live marketing topic explored and solutions presented to the client [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Each group has a client organisation that sets a real-world task' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation sets a 'live' marketing topic; students recently worked with named organisations [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: sets live task, receives solutions",
+   "deliverable": "Presented solutions to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "unresolved": "Possible near-duplicate pattern of S1 (different programme, distinct page); compulsory vs optional is ambiguous on the page; no dated delivery evidence; partner type includes a football club and a ski body (not purely business).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.stir.ac.uk/courses/pg-taught/digital-marketing-brand-management/",
+     "title": "MSc Digital Marketing and Brand Management",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "WebFetch page-text (summarised by fetch tool)",
+     "extract": "'Each group has a client organisation that sets a real-world task'; 'live' marketing topic; 'Students have recently worked on projects with: Strathearn Strategic Consulting, Stirling Albion Football Club, EASA Training Ltd, Snowsports Scotland'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated on fetched page",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Stirling Management School (Stirling Business School)",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "Case studies on employer page: Labels4Kids, Mobalpa UK Ltd (undated)",
+   "local_id": "S3",
+   "official_name": "Management Student Consultancy Projects (summer elective on Masters programmes)",
+   "english_name": "Business School summer consultancy projects",
+   "description": "Summer consultancy projects in which Masters (and, per the employer page, undergraduate) Business School students are matched with a host business to solve a problem or review strategy, with a university supervisor and an organisation mentor.",
+   "eligible_faculties_programmes": "Elective on MBA, MSc Business Analytics, Business and Management, Data Science for Business, International Business, Behavioural Science for Management, Marketing Analytics",
+   "participation_requirement": "Optional/elective",
+   "duration": "June to September; proposals by end of February",
+   "delivery_format": "Individual or group client project (not separable)",
+   "project_based": "Yes",
+   "project_evidence": "'integrate the knowledge and skills from your Masters degree to solve a real business challenge' [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Employer page: 'either an individual or group of University of Stirling Business School students'; routes not separable [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host businesses/charities/social enterprises/government propose projects, provide an organisation mentor; projects count as coursework [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Host: proposes problem, mentors, receives solution",
+   "deliverable": "Consultancy solution to host (form not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "unresolved": "Group vs individual split; elective places competitive; no dated delivery evidence; undergraduate involvement stated only on employer page.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.stir.ac.uk/about/faculties/stirling-business-school/your-future-career/consultancy-projects/",
+     "title": "Management Student Consultancy projects",
+     "section": "Student page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "WebFetch page-text (summarised by fetch tool)",
+     "extract": "Each student 'matched with a business that is looking for a solution to a problem or a new perspective on a strategy'; summer project June to September; elective on listed MSc programmes.",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/business-projects/",
+     "title": "Business projects (Careers employer page)",
+     "section": "Employer page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "WebFetch page-text (summarised by fetch tool)",
+     "extract": "'a consultancy project with either an individual or group'; proposals from micro-businesses, charities, social enterprises to multinationals and government; client provides organisation mentor; university supervisor; coursework so no employment costs; proposals by end of February.",
+     "supports": [
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MANP005",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 SCQF credits (10 ECTS); assessment details not shown",
+   "academic_reach": "Programme/course",
+   "admin_host": "Stirling Management School (Stirling Business School)",
+   "legacy_ref": "",
+   "participation_data": "",
+   "named_partners": "",
+   "local_id": "S4",
+   "official_name": "MANP005 Business Consulting",
+   "english_name": "Business Consulting",
+   "description": "20-credit SCQF level 11 module whose aims include applying programme knowledge to solve a business challenge for an external client organisation and building project, client-relationship and team-working skills.",
+   "eligible_faculties_programmes": "Not stated on module page",
+   "participation_requirement": "Unclear",
+   "duration": "Spring semester (2026/7 listing)",
+   "delivery_format": "Unclear",
+   "project_based": "Unclear",
+   "project_evidence": "Aim to 'solve a business challenge relevant to an external client organisation'; deliverable not shown [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Aims mention 'enhancing their team working skills' only; no group assessment described [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "External client organisation named in aims; no client names, sourcing or role described [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "deliverable": "Not stated",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (module page session 2026/7, Spring)",
+   "unresolved": "Assessment, group format, client sourcing and host programmes.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.stir.ac.uk/courses/module/?code=MANP005&session=2026/7&semester=SPR",
+     "title": "Business Consulting (MANP005)",
+     "section": "Module page",
+     "pub_year": "2026/7",
+     "accessed": "2026-10-13",
+     "retrieval": "WebFetch page-text (summarised by fetch tool)",
+     "extract": "20 SCQF credits, level 11; aims: 'solve a business challenge relevant to an external client organisation'; 'enhancing their team working skills'. Assessment section empty.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "My Stirling Award",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Hours-based co-curricular recognition scheme (employment, volunteering, projects); not itself a group employer-linked project (fails A/B/C).",
+   "source_url": "https://www.stir.ac.uk/student-life/careers/get-career-experience/my-stirling-award/",
+   "status_note": "Legacy row; not re-fetched"
+  },
+  {
+   "name": "Computing Science placements (6-12 weeks)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual employer placements; 'hoped' students join an industrial team, which is working alongside colleagues, not a student team project; no credit stated.",
+   "source_url": "https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/computing-science-placements/",
+   "status_note": "Page text fetched, undated"
+  },
+  {
+   "name": "Arts and Humanities placements (second-year UG, 30 hrs over 10 weeks)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Real projects for Bannockburn House, BHF etc.; group working only evidenced for one example ('small team' for Scotland Shop); mostly placement-style; credit not stated; undated.",
+   "source_url": "https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/arts-and-humanities-placements/",
+   "status_note": "Page text fetched, undated"
+  },
+  {
+   "name": "Other Careers 'Student projects' placements (21 listed: law, sport, life sciences, psychology, FinTech, AI, big data, environmental etc.)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Index page lists schemes but gives no group/credit/year information; not researched under reduced-depth mode.",
+   "source_url": "https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/",
+   "status_note": "Index only"
+  },
+  {
+   "name": "MSc Media Management live client group projects",
+   "legacy": false,
+   "category": "Paused/discontinued",
+   "reason": "Search snippet reported live media clients and group projects, but the programme page fetched says the course is no longer available.",
+   "source_url": "https://www.stir.ac.uk/courses/pg-taught/media-management/",
+   "status_note": "Discontinued"
+  },
+  {
+   "name": "Wicked Problems Sustainable Solutions (cross-faculty module)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search snippet only; no evidence of external organisations or group project.",
+   "source_url": "",
+   "status_note": "Not opened"
+  },
+  {
+   "name": "MLitt Genders and Sexualities Research Placement; MSc Heritage work-related dissertation; MSc Environmental Management project; MSc Project Management Applied Project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual placements/dissertations with external organisations per search snippets; no group evidence.",
+   "source_url": "https://www.stir.ac.uk/courses/pg-taught/heritage/",
+   "status_note": "Snippet only"
+  }
+ ],
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "**Stirling (UK19), reduced-depth review.** Provision is concentrated in the Management School's postgraduate taught programmes. The clearest routes are the **MSc Marketing Consultancy Project** (described as a core module for over twenty years) and the **MSc Digital Marketing and Brand Management** project: in both, 'each group has a client organisation that sets a real-world task', and groups present solutions to the client over the summer. Past clients include Stirling Albion FC, Snowsports Scotland, National Wallace Monument and EASA Training Ltd, spanning private, public and third-sector bodies.\n\nA wider summer consultancy elective on seven Masters programmes (MBA, Business Analytics, etc.) matches students to host businesses, charities or public bodies with a university supervisor and client mentor, but the employer page says projects may be done by 'an individual or group', so group working is unclear. MANP005 Business Consulting (20 credits, 2026/7 listing) refers to an external client but shows no assessment or group detail.\n\nCareers lists 21 employer-facing placement schemes (arts, law, sport, computing, life sciences etc.); the pages examined are individual or placement-style and are not counted. My Stirling Award is an hours-based award, excluded.\n\nAll delivery evidence is undated page text, so none of the routes is confirmed as current for 2025/26 or 2026/27. No university-wide group project route was found. Provision is isolated to a few Management School programmes.",
+ "gaps": "Reduced-depth. No dated 2025/26-2026/27 corroboration for S1-S3. Marketing module code, credit and assessment unknown. 21 Careers placement schemes only indexed. Group vs individual split in summer consultancy elective unresolved. Natural Sciences 'Projects with business' page returned 404. Retrieval: WebFetch page text (fetch tool returns a model-generated summary/quotes rather than raw page); searches via WebSearch."
+}

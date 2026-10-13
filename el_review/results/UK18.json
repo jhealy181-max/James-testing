@@ -1,0 +1,388 @@
+{
+ "inst_id": "UK18",
+ "institution": "Aston",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Aston University careers employer-led project students team challenge external organisation",
+    "WebFetch Aston Global Advantage page"
+   ],
+   "key_sources": [
+    "https://www.aston.ac.uk/postgraduate/aston-global-advantage"
+   ],
+   "finding": "AGA is a PGT programme strand (excluding MBA/MRes) listing team challenges and live briefs only as possible activities; no central university-wide project scheme verified."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Aston Business School live client project students teams consultancy module",
+    "WebFetch Business Clinic, Do Business, BSc BEI, MBA pages"
+   ],
+   "key_sources": [
+    "https://www.aston.ac.uk/research/bss/research-centres/centre-enterprise-coaching-and-innovation/business-clinic",
+    "https://www.aston.ac.uk/bss/aston-business-school/student-experience/do-business",
+    "https://www.aston.ac.uk/study/courses/business-enterprise-innovation-bsc",
+    "https://www.aston.ac.uk/study/courses/mba-full-time-mba"
+   ],
+   "finding": "Aston Business Clinic (external clients, teams) meets A/B/C but is optional and undated; BSc Business Enterprise and Innovation consultancy projects have live-or-simulated clients."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Aston University engineering group project industry client final year design project company sponsor",
+    "Aston University Engineering Sustainable Development Centre student projects community partner OR student-led enterprise client projects"
+   ],
+   "key_sources": [
+    "https://www.aston.ac.uk/eps/business/industry-clubs",
+    "https://www.aston.ac.uk/eps"
+   ],
+   "finding": "Industry Clubs and a student-led enterprise with client projects mentioned, but no module-level evidence of external-client group projects; EEE final-year project described as individual and group work without clients."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Aston University biosciences OR chemistry OR psychology OR physics student group project external organisation client"
+   ],
+   "key_sources": [
+    "https://www.aston.ac.uk/eps/business/industry-clubs"
+   ],
+   "finding": "No external-client group project scheme found for biosciences, chemistry, psychology or physics beyond the Chemical Engineering and Applied Chemistry Industry Club."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Aston University politics OR sociology OR languages OR public policy students project partner organisation live brief"
+   ],
+   "key_sources": [
+    "https://www.aston.ac.uk/research/bss/research-centres/ace"
+   ],
+   "finding": "No live-brief scheme found; only an optional policy paper module at Aston Centre for Europe (unverified)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Aston University pharmacy OR optometry OR law OR design students interprofessional project external partner group",
+    "WebFetch Product Design and Innovation BSc"
+   ],
+   "key_sources": [
+    "https://www.aston.ac.uk/study/courses/product-design-and-innovation-bsc"
+   ],
+   "finding": "Health programmes show internal interprofessional learning only; Design Factory/Live Challenges are optional and university-run; law clinic not found."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Aston University (postgraduate)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "Aston Global Advantage",
+   "named_partners": "",
+   "local_id": "S1",
+   "official_name": "Aston Global Advantage (postgraduate taught)",
+   "english_name": "Aston Global Advantage (postgraduate taught)",
+   "description": "Programme-embedded professional development strand of postgraduate taught degrees. Page lists 'Team and project-based challenges', 'Employer engagement, live briefs or case studies' and dissertation-linked activities among its components. Which activities a given student does, and whether any is a team project for a named employer, is not specified.",
+   "academic_reach": "Cross-faculty",
+   "eligible_faculties_programmes": "Postgraduate taught programmes that include AGA; page says check course page; does not apply to MBA or MRes",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not MBA or MRes; check course page",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Not stated",
+   "delivery_format": "Varies by programme",
+   "project_based": "Unclear",
+   "project_evidence": "Lists 'Team and project-based challenges' but no defined brief/output [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Teamwork described generally; not tied to a specific project route [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Employer engagement, live briefs or case studies' listed as possible activities; not a standard documented external client for each route [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "deliverable": "Unclear",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Legacy row said 'compulsory for every PGT programme' and 'university-wide'; the fetched page says it is part of PGT programmes but excludes MBA and MRes and tells students to check their course page, so reach downgraded to Cross-faculty and compulsory scoped to programmes that include it. Umbrella framework; underlying project activity unspecified. Page undated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.aston.ac.uk/postgraduate/aston-global-advantage",
+     "title": "Aston Global Advantage",
+     "section": "Main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Lists 'Team and project-based challenges'; 'Employer engagement, live briefs or case studies'; 'a distinctive part of every postgraduate taught programme'; tells students to check course page; not MBA or MRes (fetch-tool summary of page).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Centre for Enterprise, Coaching and Innovation, Aston Business School",
+   "likely_duplicate_of": "",
+   "participation_data": "More than 200 students and 50 businesses since 2020 (cumulative; page undated).",
+   "legacy_ref": "",
+   "named_partners": "",
+   "local_id": "S2",
+   "official_name": "Aston Business Clinic (ABC Originals; ABC for Placement)",
+   "english_name": "Aston Business Clinic",
+   "description": "Teams of student consultants deliver solutions for real clients: local, regional and national businesses, enterprises and charities request research, prototypes, feasibility analyses, marketing or brand plans. Each team has a coach. ABC Originals (8 weeks, Masters students); ABC for Placement (20-30 weeks, undergraduates).",
+   "academic_reach": "Faculty/school",
+   "eligible_faculties_programmes": "Aston students and graduates; Masters (Originals) and undergraduates (Placement); business-school hosted; do-business page says open to all postgraduate students",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Masters; placement-year undergraduates",
+   "eligibility_restrictions": "Application (not detailed)",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Credit not stated; work can be used for academic assignments (do-business page)",
+   "duration": "8 weeks (Originals); 20-30 weeks (Placement)",
+   "delivery_format": "Team consultancy with coach",
+   "project_based": "Yes",
+   "project_evidence": "Real-world consultancy projects with deliverables such as research, prototypes, feasibility analyses, marketing plans [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of student consultants'; each team allocated a team coach [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External businesses, enterprises and charities request the work and receive solutions [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client requesting work and receiving deliverable",
+   "deliverable": "Consultancy deliverable (research, prototype, feasibility, marketing/brand plan)",
+   "duration_band": "1-4 weeks to >1 term (8 weeks Originals; 20-30 weeks Placement)",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Operating since 2020 (undated page)",
+   "unresolved": "No dated 2025/26 or 2026/27 corroboration found; credit status unclear; ABC for Placement undergraduate team basis not separately evidenced (search summary groups both under teams).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.aston.ac.uk/research/bss/research-centres/centre-enterprise-coaching-and-innovation/business-clinic",
+     "title": "Aston Business Clinic",
+     "section": "Main page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Teams work on real-world consultancy projects proposing solutions to real-life business challenges; clients are local, regional and national businesses and charities; ABC Originals 8 weeks (Masters), ABC for Placement 20-30 weeks (undergraduate); 200+ students and 50 businesses since 2020 (fetch-tool summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.aston.ac.uk/bss/aston-business-school/student-experience/do-business",
+     "title": "Learn Business Do Business",
+     "section": "Business Clinic",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Business Clinic 'open to all Postgraduate students'; participants act as Lead Advisors or Advisors and can use the work for academic assignments (fetch-tool summary).",
+     "supports": [
+      "eligibility",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Aston London",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "local_id": "S3",
+   "official_name": "Interdisciplinary Collaborative Project (Aston Global Advantage module, Aston London)",
+   "english_name": "Interdisciplinary Collaborative Project",
+   "description": "Shared module on Aston London courses: multi-disciplinary teams of students (from Business Innovation and Digital Technologies pathways) alongside industry experts; culminates in two assessed business challenges set by external organisations, with sprints and hackathons.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Aston London courses (Business Innovation and Digital Technologies pathways)",
+   "faculty_areas": [
+    "business",
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "Aston London students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credits not stated; assessed",
+   "duration": "Not stated",
+   "delivery_format": "Team challenges, sprints, hackathons",
+   "project_based": "Unclear",
+   "project_evidence": "Two assessed business challenges; defined output and brief details not stated [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams formed of students from across the Business Innovation and Digital Technologies pathways' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'two assessed business challenges set by external organisations' [1]; organisations unnamed.",
+   "partner_type": "Unclear",
+   "partner_role": "Sets business challenges",
+   "deliverable": "Unclear",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Level (UG/PG), credits, duration, deliverable and compulsory status not stated (page says 'shared module' per course; compulsory inferred); undated; partner sector unknown. Likely an Aston Global Advantage London variant.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.aston.ac.uk/london/interdisciplinary-collaborative-project",
+     "title": "Interdisciplinary Collaborative Project",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "'culminates in two assessed business challenges set by external organisations'; teams of students from Business Innovation and Digital Technologies pathways with industry experts (fetch-tool summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Aston Business School",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "named_partners": "",
+   "local_id": "S4",
+   "official_name": "Start-Up Sprint / Consultancy Project 1 and Growth Challenge / Consultancy Project 2 (BSc Business Enterprise and Innovation)",
+   "english_name": "Consultancy projects, BSc Business Enterprise and Innovation",
+   "description": "Core 30-credit projects in Years 1 (Term 3) and 2 (Term 2). Year 1: students work in teams on a 'live or simulated organisational challenge'. Year 2: consultancy project at professional standard with client deliverables; team basis not stated.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "BSc Business Enterprise and Innovation",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 1 and 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits each",
+   "duration": "One term each (Apr-Jun; Jan-Mar)",
+   "delivery_format": "Team consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy/growth projects with client deliverables [1].",
+   "group_working": "Yes",
+   "group_evidence": "Year 1: 'in teams' [1]; Year 2 teams not specified (Year 1 route recorded).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'live or simulated organisational challenge': real vs simulated not separated [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "deliverable": "Client deliverables",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "unresolved": "Course page undated (the fetched page showed no intake year); live vs simulated; named clients.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.aston.ac.uk/study/courses/business-enterprise-innovation-bsc",
+     "title": "Business Enterprise and Innovation (BSc)",
+     "section": "Modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Year 1 Start-Up Sprint / Consultancy Project 1, 30 credits, core: 'in teams on a live or simulated organisational challenge'; Year 2 Growth Challenge / Consultancy Project 2, 30 credits, core (fetch-tool summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Industry Clubs (Computer Science; Mechanical Engineering and Design; Chemical Engineering and Applied Chemistry)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Strategic company-membership scheme (launched 2016); page does not describe team projects, credit or eligibility. Mechanical Engineering course pages mention live industrial projects but no module evidence found.",
+   "source_url": "https://www.aston.ac.uk/eps/business/industry-clubs",
+   "status_note": "undated"
+  },
+  {
+   "name": "Aston Business School postgraduate Business Projects (partnered modules)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Local organisation presents a real issue in a module and returns to hear solutions; no named modules, group basis or output evidenced.",
+   "source_url": "https://www.aston.ac.uk/bss/aston-business-school/student-experience/do-business",
+   "status_note": "undated"
+  },
+  {
+   "name": "Full-time MBA Aston Startup Lab / consultancy for real life clients",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Course page says all students undertake consultancy for real clients and Startup Lab is 15 credits with teamwork, but the Consultancy Research Project is individual and client/team detail for the real-client element is not specified.",
+   "source_url": "https://www.aston.ac.uk/study/courses/mba-full-time-mba",
+   "status_note": "intakes Jan and Sep 2027"
+  },
+  {
+   "name": "Product Design and Innovation BSc (Design Factory, Design Live Challenges, team design projects)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Projects 'set by real companies, tutors and yourself'; core team modules (Interdisciplinary Design Project, CDIO Team Project) not shown to use external clients; Design Factory/Live Challenges are optional extracurricular and it is a commercial enterprise of the university (internal).",
+   "source_url": "https://www.aston.ac.uk/study/courses/product-design-and-innovation-bsc",
+   "status_note": "undated"
+  },
+  {
+   "name": "Aston Business School Prince's Trust partnership",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Fundraising, e-mentoring and training activities rather than a client project; degrees not specified.",
+   "source_url": "https://www.aston.ac.uk/bss/aston-business-school/student-experience/do-business",
+   "status_note": "undated"
+  },
+  {
+   "name": "Aston Centre for Europe policy paper module",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Optional co-authored policy paper for a think tank mentioned only in a search summary; module not identified.",
+   "source_url": "https://www.aston.ac.uk/research/bss/research-centres/ace",
+   "status_note": "not opened"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Aston provision found is distributed and mostly Business School based. The Aston Business Clinic puts student teams (ABC Originals, 8 weeks, Masters; ABC for Placement, 20-30 weeks, undergraduates) in front of external businesses and charities with a coach, and meets all three criteria on page text, but it is optional, credit is unstated and the page is undated, so current delivery is unconfirmed. The Aston London Interdisciplinary Collaborative Project ends in two assessed business challenges set by external organisations with multi-disciplinary teams, but level, credit, output and partners are unstated. BSc Business Enterprise and Innovation has core 30-credit consultancy projects whose client is 'live or simulated'. The legacy Aston Global Advantage row was reassessed: it is a strand of postgraduate taught programmes (not MBA or MRes) listing team challenges and live briefs as possible activities, so it is an umbrella lead and not verified as a qualifying route, and is not university-wide. Industry Clubs, MBA consultancy, Design Factory and postgraduate Business Projects are leads without module-level evidence. No dated 2025/26 or 2026/27 evidence was found for any route. No qualifying scheme verified with current delivery through the documented search.",
+ "gaps": "Reduced-depth review (about 8 searches plus 9 fetches). No dated current-year evidence; credit and eligibility of Aston Business Clinic unclear; Aston London module detail; Industry Club module links and the CEPS student-led enterprise not identified; AGA stream-two page requires login (not retrievable); no law, health or science team-client modules found; further departmental instances likely. Retrieval was WebFetch (fetch-tool summaries, not verbatim page text) and WebSearch extracts."
+}

@@ -1,0 +1,363 @@
+{
+ "inst_id": "UK21",
+ "institution": "Birkbeck",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Birkbeck employer project students team client brief module",
+    "Birkbeck Careers and Enterprise employer project students work in teams challenge"
+   ],
+   "key_sources": [
+    "https://www.bbk.ac.uk/student-services/careers-and-enterprise/employer-partnerships",
+    "https://www.bbk.ac.uk/student-services/careers-and-enterprise/start-a-business",
+    "https://www.bbk.ac.uk/courses/module/CASC002H5"
+   ],
+   "finding": "Central provision is micro-placements (individual) and the Pioneer enterprise programme (workshops/founder support, 2026/27 timetable with a live pitch final); no central team-with-employer project route found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Birkbeck School of Business Economics and Informatics consultancy project live client MSc",
+    "Birkbeck Consultancy Challenge PA Consulting students teams Defra RSPCA"
+   ],
+   "key_sources": [
+    "https://www.bbk.ac.uk/courses/modules/buob/BUOB063D7",
+    "https://www.bbk.ac.uk/courses/postgraduate/management-consultancy-and-organisational-change"
+   ],
+   "finding": "The Consultancy Challenge with PA Consulting (MSc Management Consultancy and Organisational Change) meets A, B and C. Other business modules (Workplace Research Project, Project Management group presentation) show no external client."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Birkbeck computing data science group project industry partner module",
+    "Birkbeck Department of Computing group project software engineering client real company"
+   ],
+   "key_sources": [
+    "https://www.bbk.ac.uk/courses/modules/buci/BUCI082S7",
+    "https://www.bbk.ac.uk/courses/modules/buci/BUCI090S7"
+   ],
+   "finding": "Applied Software Engineering (BUCI090S7) has a 60% group programming project but no external client mentioned; PG Cert Applied Data Science project mentions a work-based project but group/employer role unclear; UG/MSc projects appear individual and supervisor-led."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Birkbeck science biological sciences psychology geography student project external organisation partner"
+   ],
+   "key_sources": [
+    "https://www.bbk.ac.uk/documents/programme-specification-2025-26-bsc-natural-sciences-incl-with-foundation-year.pdf"
+   ],
+   "finding": "Only doctoral-level external partnerships and individual supervised projects found; no taught group employer project verified."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Birkbeck humanities social sciences students collaborate community organisation project module heritage museum client"
+   ],
+   "key_sources": [
+    "https://www.bbk.ac.uk/courses/modules/arvc/ARVC054S7",
+    "https://www.bbk.ac.uk/courses/modules/sshc/SSHC389S7"
+   ],
+   "finding": "Museum and Heritage Work Placement is an individual placement; Public Histories in Practice offers a project-development assessment but no external client or group work evidenced."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Birkbeck law clinic pro bono students team external organisation"
+   ],
+   "key_sources": [
+    "https://www.bbk.ac.uk/school/law/clinical-opportunities-in-law"
+   ],
+   "finding": "Law clinical opportunities (Hammersmith and Fulham Law Centre, Release, Refugee Law Clinic, ELF) are casework/pro bono placements with partner organisations, not group projects with a defined deliverable; no health, design or architecture faculties identified."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The Consultancy Challenge (MSc Management Consultancy and Organisational Change)",
+   "english_name": "The Consultancy Challenge",
+   "module_code": "BUOB063D7",
+   "description": "60-credit final-project option on the MSc Management Consultancy and Organisational Change, delivered with PA Consulting. Student teams are assembled to work with a PA client on a real, live problem over about 12 weeks, mentored by a PA consultant; assessed on group status-report presentations and a group summary report plus an individual reflective essay. Programme page names Defra and the RSPCA as real clients; a 2023 Birkbeck blog says two large UK charities were the client organisations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Birkbeck Business School (School of Business, Economics and Informatics)",
+   "eligible_faculties_programmes": "MSc Management Consultancy and Organisational Change only",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final project (one year full-time or two years part-time)",
+   "eligibility_restrictions": "Places limited and subject to entry criteria; module entry selective; alternative is an individual Research Project.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "60 credits, Level 7. Group presentation status reports 35%; 5000-word group summary report 35%; 3000-word self-reflective essay 30%.",
+   "duration": "12-week live project within a 3-term module (full-time) or over 2-3 terms (part-time)",
+   "delivery_format": "Team consultancy project with PA Consulting mentor",
+   "project_based": "Yes",
+   "project_evidence": "Client-facing consultancy project for real clients; group status presentations and 5000-word group summary report [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'students on the Consultancy Challenge are assembled into teams'; assessed by group presentations and a group report (70% of module) [1][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real PA Consulting clients supply a live problem; PA consultant mentors each team; named clients Defra and the RSPCA [1][2][3]. Clients are reached via PA Consulting rather than directly recruited by Birkbeck.",
+   "partner_type": "Mixed",
+   "partner_role": "PA Consulting brokers live client projects and mentors teams; clients (public sector and charity) set the problem and receive recommendations/presentation",
+   "named_partners": "PA Consulting; clients Defra and RSPCA (programme page, undated)",
+   "deliverable": "Group consultancy report and presentations to client/PA",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (module listed as core in 2025-26 programme specification; programme page lists October 2027 entry)",
+   "participation_data": "",
+   "unresolved": "Module page and programme page are undated for the client names; team size and number of teams not published; 2025/26 cohort clients not evidenced. Programme-spec PDF retrieved via WebFetch and text-extracted locally.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bbk.ac.uk/courses/modules/buob/BUOB063D7",
+     "title": "The Consultancy Challenge",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'you complete a client-facing consultancy project for real clients'; 'This year we will be partnering with PA Consulting to work with their clients'; 60 credits Level 7; assessment: group presentation status reports (35%), 5000-word group summary report (35%), 3000-word self-reflective essay (30%); 'Entry to The Consultancy Challenge module is selective.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bbk.ac.uk/courses/postgraduate/management-consultancy-and-organisational-change",
+     "title": "Management Consultancy and Organisational Change",
+     "section": "Programme page",
+     "pub_year": "undated (October 2027 entry shown)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'a live client project with feedback and mentorship from PA Consulting'; 'working with real clients, such as Defra and the RSPCA'; 12-week project; project choice: consultancy challenge or individual research project; 'Places on The Consultancy Challenge are limited and subject to entry criteria.'",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://events.blogs.bbk.ac.uk/2023/08/02/management-consultancy-and-organisational-change-are-you-up-for-the-challenge/",
+     "title": "Management consultancy and organisational change: are you up for the challenge?",
+     "section": "Blog post",
+     "pub_year": "2023",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'students on the Consultancy Challenge are assembled into teams to work with a PA client on a real, live problem'; 'across an intense twelve-week period'; 'each student team is mentored by a consultant from PA'; 'the client organisations were two large UK charities'.",
+     "supports": [
+      "group",
+      "employer",
+      "project",
+      "duration"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.bbk.ac.uk/documents/programme-specification-2025-26-msc-management-consultancy-and-organisational-change.pdf",
+     "title": "Programme specification 2025-26, MSc Management Consultancy and Organisational Change",
+     "section": "Module table and project section",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-13",
+     "retrieval": "PDF fetched; text extracted locally (pdftotext)",
+     "extract": "BUOB063D7 The Consultancy Challenge, 60 credits, Core (alternative BUOB042D7 Research Project); 'offers students the option of completing the Consultancy Challenge in place of the final Research Project'; outcome: 'manage a client-facing project as consultancy team, working with a lead management consultant'.",
+     "supports": [
+      "status",
+      "credit",
+      "participation",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "PG Cert Applied Data Science Project",
+   "english_name": "PG Cert Applied Data Science Project",
+   "module_code": "BUCI082S7",
+   "description": "30-credit project module on the online PG Certificate in Applied Data Science: students develop a piece of software to address a data science need; syllabus refers to a work-based project supported by an industry partner (search summary of the programme page). Group status and employer role not shown on the module page.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing and Mathematical Sciences",
+   "eligible_faculties_programmes": "PG Certificate Applied Data Science",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits Level 7; project proposal 20%, 5000-word project report 80%",
+   "duration": "Part of a one-year part-time online certificate",
+   "delivery_format": "Online work-based project",
+   "project_based": "Yes",
+   "project_evidence": "Develop software to address a data science need; proposal and 5000-word report [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Module page does not state group or individual; individual report assessment suggests individual work [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Module page mentions 'a work-based project' only; industry partner involvement appears in a search summary of the programme page, not quoted [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Unclear",
+   "named_partners": "",
+   "deliverable": "Software and project report",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Whether project is group-based; role of industry partner; current delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bbk.ac.uk/courses/modules/buci/BUCI082S7",
+     "title": "PG Cert Applied Data Science Project",
+     "section": "Module page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'to develop a piece of software to address a data science need'; 30 credits Level 7; 1000-1500-word proposal (20%) and 5000-word report (80%); syllabus: 'How to write a project proposal relevant to a work-based project.'",
+     "supports": [
+      "project",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Micro-placement",
+   "english_name": "Micro-placement",
+   "module_code": "CASC002H5",
+   "description": "15-credit Level 5 module in which students secure their own micro-placement and complete a small professional project alongside other commitments; assessed by individual reflective portfolio and vlog. Careers & Enterprise describes micro-placements as small projects that solve real problems for host organisations, but the module shows no group working.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Careers and Enterprise / academic programmes",
+   "eligible_faculties_programmes": "Participating degrees (legacy: Computing, Health and Social Care)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Level 5",
+   "eligibility_restrictions": "Participating degrees; capacity limits (2025-26 full)",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits Level 5; reflective portfolio incl. SMART career plan (1000 words) and 2-3 minute vlog",
+   "duration": "Short placement",
+   "delivery_format": "Student-sourced micro-placement",
+   "project_based": "Yes",
+   "project_evidence": "'work on a professional project alongside your current commitments' [1].",
+   "group_working": "No",
+   "group_evidence": "Individual placement with individual portfolio/vlog assessment; no team element evidenced [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host organisation sets a small project [1][2]; but placements are individual.",
+   "partner_type": "Unclear",
+   "partner_role": "Host organisation",
+   "named_partners": "",
+   "deliverable": "Individual reflective portfolio and vlog",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025-26 / 2026-27",
+   "participation_data": "",
+   "unresolved": "",
+   "legacy_ref": "Micro-placement, CASC002H5",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bbk.ac.uk/courses/module/CASC002H5",
+     "title": "Micro-placement",
+     "section": "Module page",
+     "pub_year": "2025-26 / 2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'help you put theory into practice'; 'work on a professional project alongside your current commitments'; 15 credits Level 5; reflective portfolio and 2-3 minute vlog; 'You will be expected to secure your own micro-placement.'",
+     "supports": [
+      "project",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bbk.ac.uk/student-services/careers-and-enterprise/employer-partnerships",
+     "title": "Employer partnerships",
+     "section": "Micro-placements",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Micro-placement opportunities enable Birkbeck students and graduates to complete small-scale projects' that help employers 'solve real-world problems'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Pioneer Programme",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Enterprise workshops and founder guidance with a live pitch final; no employer-set brief or group project evidenced. 2026/27 timetable (Nov-June, applications close 18 Oct 2026) confirms it is running.",
+   "source_url": "https://www.bbk.ac.uk/student-services/careers-and-enterprise/start-a-business",
+   "status_note": "Current delivery confirmed 2026/27"
+  },
+  {
+   "name": "Applied Software Engineering group programming project (BUCI090S7)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group programming project worth 60% but no client or external organisation mentioned on the module page.",
+   "source_url": "https://www.bbk.ac.uk/courses/modules/buci/BUCI090S7",
+   "status_note": "undated"
+  },
+  {
+   "name": "Museum and Heritage Work Placement (ARVC054S7)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placement at host institution; essay assessed.",
+   "source_url": "https://www.bbk.ac.uk/courses/modules/arvc/ARVC054S7",
+   "status_note": ""
+  },
+  {
+   "name": "Law clinical opportunities",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Pro bono casework with partner organisations; no group project with defined output evidenced.",
+   "source_url": "https://www.bbk.ac.uk/school/law/clinical-opportunities-in-law",
+   "status_note": ""
+  },
+  {
+   "name": "Workplace Research Project (BUMN117D6)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual practitioner research project/report.",
+   "source_url": "https://www.bbk.ac.uk/courses/modules/bumn/BUMN117D6",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "Birkbeck's one verified route meeting all three criteria is **The Consultancy Challenge** (BUOB063D7), a 60-credit final-project option on the MSc Management Consultancy and Organisational Change. In partnership with PA Consulting, students are assembled into teams to work on a real, live problem for a PA client over about 12 weeks, with a PA consultant mentoring each team. The programme page names Defra and the RSPCA as clients; a 2023 blog says two large UK charities. Assessment is mainly group-based (group status presentations 35%, group report 35%, individual reflective essay 30%). It is an alternative to an individual research project, selective with limited places, and open only to students on that one MSc. The 2025-26 programme specification lists it as a core option.\n\nOther provision is weaker. The central micro-placement module (CASC002H5) is an individual student-sourced placement. The PG Cert Applied Data Science project mentions a work-based project but group working and employer role are unclear. Applied Software Engineering has a group programming project with no external client evidenced. Pioneer is enterprise support, and law clinics are casework placements. No institution-wide or multi-faculty team-with-employer route was verified; provision is isolated in one business MSc.",
+ "gaps": "Not verified: team sizes/number of Consultancy Challenge teams and 2025/26 client names (client names on undated pages); group status and employer role of the PG Cert Applied Data Science project; whether other BEI MSc programmes or UG business modules have live-client group projects; Birkbeck Business School UG modules not specifically queried. Reduced-depth review (about 10 searches); further departmental instances possible."
+}
