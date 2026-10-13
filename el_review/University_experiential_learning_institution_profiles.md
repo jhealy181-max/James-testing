@@ -1663,80 +1663,302 @@ Harvard's verified employer-linked group provision sits in separate professional
 
 ### Stanford (US03, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 3
+
+Stanford has several verified, distributed team-plus-external-client routes, mostly graduate or programme-embedded. The only university-wide route is Design for Extreme Affordability (OIT 333-334 / ME 206A/B): an application-only two-quarter, 4-unit course open to graduate students from all schools, in which multidisciplinary teams take questions posed by community partners and build prototypes; the 2026 cohort cycle is confirmed. In engineering, ME310 pairs a Stanford team of 3-4 graduates with a partner-university team on a corporate sponsor's problem from September to June (sponsor fee listed for 2026-27), and MS&E senior-project teams of 3-4 consulted for named 2026 sponsors (IBM, NEA, Sanas and others). CS 210B uses corporate-partner-seeded team projects (spring 2026 offering) but current partners were not verified. The Public Policy Practicum is a compulsory senior (BA) and MPP team capstone for government and nonprofit clients, with over 50 clients since 2007, but no dated current-year evidence was retrieved. Law & Policy Lab practicums serve public-sector clients (2026-27 listed) with team basis unclear.
+
+Provision is distributed across schools, with one cross-school graduate route. Participation is mostly optional or selective, compulsory only within Public Policy. Uncertainty: current-year partners, credit and eligibility for ME310, CS210B; humanities and sciences and community-engaged courses were only lightly searched under reduced depth.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US03-S01 | Design for Extreme Affordability (Extreme) (OIT 333-334 / ME 206A/B) | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025/26 (application cycle Oct-Nov 2025 for 2026 cohort) |
+| US03-S02 | ME310 Global Design Innovation (ME310ABC) (ME310A/B/C) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026-27 (sponsor fee listed for academic year 2026-27) |
+| US03-S03 | Public Policy Practicum (PUBLPOL 200A/B/C undergraduate senior practicum; PUBLPOL 309 MPP Practicum) (PUBLPOL 200A/B/C; PUBLPOL 309) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| US03-S04 | MS&E Senior Project (sponsor-based team projects) | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026 (Winter/Spring quarter 2026) |
+| US03-S05 | CS 210B Software Entrepreneurship Project (Software Development for Startups / Software Fair) (CS 210B) | Programme/course | Optional/elective | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current delivery confirmed Spring 2026 (Explore Courses listing; Software Fair 10 June 2026) |
+| US03-S06 | Law and Policy Lab practicums (e.g. LAW 810B) | Faculty/school | Optional/elective | Yes/Unclear/Yes | Public sector | Potentially relevant; evidence incomplete | Current delivery confirmed 2026-27 (page lists Practicums 2026-2027, five Autumn 2026) |
+
+**Uncertain / unresolved:** Reduced-depth review (about 9 searches plus WebFetch). Further departmental capstones likely (Earth Systems, E-IPER, Biodesign, Cardinal Courses, GSB study trips, Medicine). CS210 current partners, ME310 credit/eligibility, and Public Policy practicum current-year clients unverified. CS industry-collaborator page returned a login wall. Law and Policy Lab group basis unclear.
 
 ### California Institute of Technology (US04, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** No qualifying scheme verified · **Current qualifying schemes:** 0
+
+No qualifying scheme verified through the documented search. Caltech has no business school and the strongest team-project provision is engineering and computing based. ME 72 (compulsory design capstone for mechanical/civil engineering, teams of 5-7, two terms, robot competition 10 March 2026) meets project and group criteria but is an internal competition with no client. CS/IDS 163 Projects in Machine Learning is a group project course with 'domain expert advisors', whose affiliation is not stated. The 2026 Caltech Space Challenge is a selective five-day graduate team mission-design event with JPL (Caltech-managed) mentors and judges and no live client. E/ME/MedE 106 Design for Freedom from Disability is the only course with a named external partner (Rancho Los Amigos National Rehabilitation Center) but is not offered in 2025-26 or 2026-27 and team structure is not shown. The legacy SURF fellowship is mentored individual research, so it fails group working. Provision looks isolated and departmental; CALE offers careers services rather than team projects. Remaining uncertainty: unpublished sponsor roles in ME 72 and CS 163, and other departmental project courses not individually checked.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US04-S01 | CS/IDS 163 Projects in Machine Learning (CS/IDS 163) | Programme/course | Optional/elective | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2026-27 catalogue listing (no 'not offered' note) |
+| US04-S02 | ME 72 ab Engineering Design Laboratory (annual ME 72 design competition) (ME 72 ab) | Programme/course | Compulsory within specified programmes | Yes/Yes/No | None | Outside strict definition | Current delivery confirmed 2025/26 (competition 10 March 2026) |
+| US04-S03 | Caltech Space Challenge | Unclear | Selective/competitive | Yes/Yes/Unclear | Other | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (March) |
+| US04-S04 | E/ME/MedE 106 ab Design for Freedom from Disability (E/ME/MedE 106 ab) | Cross-faculty | Optional/elective | Unclear/Unclear/Yes | Public sector | Potentially relevant; evidence incomplete | Paused/discontinued Not offered 2025-26 or 2026-27 |
+
+**Uncertain / unresolved:** Reduced-depth review (about 12 searches). Not checked: whether ME 72 sponsors (Northrop Grumman per a search snippet) set briefs; CS/IDS 163 advisor identity; CS 141 partners; JPL-linked courses; engineering EE/CMS project courses (e.g. CS/EE 145); Applied Physics/Materials design courses; further departmental instances likely.
 
 ### California Berkeley (US05, US)
 
-**Review:** Partial — remaining: Session search limit hit after about 12 searches/fetches. Not run: a humanities/social-science undergraduate query and an EECS/Data Science undergraduate industry-project query; also Fung Fellowship, Deep Tech Innovation Lab, MSSE capstone and Haas IBD need opening; current-year (2025/26-2026/27) evidence for S1, S2, S4-S6 still needed. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 0
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
 
 Berkeley's documented employer-linked group project routes are distributed across graduate schools rather than institution-wide. The Goldman School's Introduction to Policy Analysis (S1) places teams of four to six first-year MPP students with public-sector agencies and NGOs, producing a report and presentation (Spring 2027 call open). Engineering's MEng Capstone (S2) runs nine-month teams of three to five on industry-proposed projects, but the page also describes faculty-involved projects, so external sponsorship across all teams is unproven. Data Science Discovery (S3) offers mentor-set projects with teams of 1-5, partly academic mentors, so group and employer criteria are unclear. Haas offers Social Sector Solutions (nonprofit client teams of 5-7), Haas@Work (firm challenges) and Startup Lab, all MBA or graduate-led with weak current-year evidence. The legacy Berkeley Discovery framework is a platform, not a scheme. No undergraduate curricular route meeting all three criteria was verified; participation is optional or programme-specific, with no institution-wide route found. No participation numbers were located.
+
+Update: the Fung Fellowship (S7) is the strongest undergraduate route found: campus-open, selective, ~12-week semester teams of 3-6 working on proposals from partners such as Kaiser Permanente, UCSF and California state agencies (Spring 2026 showcase; Spring 2027 recruiting), though two 2026 projects had no outside partner and credit is not stated. Data Discovery (S3) is open to enrolled undergraduates (3 units, Fall 2026 per search summary) but team size 1-5 and mentor mix leave B and C unclear.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
 | US05-S01 | Introduction to Policy Analysis (IPA) Team Consulting Projects | Programme/course | Unclear | Yes/Yes/Yes | Public sector | Meets all three | Announced/forthcoming Spring 2027 (call for proposals); Spring 2026 call also referenced in search summary |
 | US05-S02 | MEng Capstone (partner-led), Fung Institute for Engineering Leadership | Faculty/school | Unclear | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Announced/forthcoming 2026-27 (proposals sought); 2024 showcase page in search results |
-| US05-S03 | Data Science Discovery Program (Data Discovery course) | Unclear | Optional/elective | Yes/Unclear/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed Fall 2026 (project work begins 1 Sept 2026) |
+| US05-S03 | Data Science Discovery Program (Data Discovery course) | University-wide | Optional/elective | Yes/Unclear/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed Fall 2026 (project work begins 1 Sept 2026) |
 | US05-S04 | Social Sector Solutions (Center for Social Sector Leadership) | Cross-faculty | Selective/competitive | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear 2026 (heading '2026 Partner Organizations' only) |
 | US05-S05 | Haas@Work (Haas MBA experiential course) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
 | US05-S06 | Startup Lab (MBA 295T) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear 2020 (syllabus); no 2025/26 evidence found |
+| US05-S07 | Fung Fellowship (Health + Innovation and Sustainability + Innovation tracks) | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 (Spring 2026 showcase; Spring 2027 recruiting) |
 
-**Uncertain / unresolved:** Undergraduate humanities/social science and EECS/Data Science routes not searched (limit). Current-year evidence absent for most Haas routes. Compulsory status of IPA and MEng capstone unconfirmed. Further departmental capstones likely exist.
+**Uncertain / unresolved:** Credit for Fung Fellowship not found; IPA and MEng compulsory status unconfirmed; MIDS client-based capstone, Deep Tech Innovation Lab, MSSE, Haas IBD not assessed; Haas routes lack current-year evidence; no undergraduate humanities/social-science route found; further departmental capstones likely.
 
 ### Chicago (US06, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 4
+
+University of Chicago provision is distributed across schools rather than institution-wide, with one central route. **Central:** Metcalf Sprints (Career Advancement) put teams of undergraduates on a 2-3 week deliverable for an employer partner; extracurricular, application-based, with sprints scheduled through August 2027. **Social sciences/policy:** Harris Policy Labs are elective, credit-bearing quarter-long practicums where student teams produce a policy memo and presentation for government, nonprofit or multilateral clients (Spring 2026 syllabus verified); open mainly to Harris students with other professional-school access by consent. **Data science/computing:** the Data Science Clinic (teams of 2-5 undergraduates/master's students, 1-2 quarters, partners appraise work affecting grades; Spring 2026 project list with named external organisations) and the compulsory MS in Applied Data Science capstone (teams of four, partner-proposed problems, two quarters). **Engineering:** the PME senior capstone with industry sponsors (evidence from 2023). **Business:** the Booth Consulting Lab with Kearney-sourced real clients (undated); student-run consulting is a lead. No university-wide curricular requirement or route was verified. Uncertain: current-year evidence for PME and Booth, internal vs external partner share in Clinic and Harris labs, participation numbers (none published in sources found).
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US06-S01 | Metcalf Sprints | University-wide | Selective/competitive | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026/27 (Fall sprint 9 Nov-4 Dec 2026; further sprints to Aug 2027) |
+| US06-S02 | Harris Policy Labs (PPHA 60000) | Cross-faculty | Optional/elective | Yes/Yes/Yes | Public sector | Meets all three | Current delivery confirmed Spring 2026 (syllabus created 7 Apr 2026); Winter 2026 labs |
+| US06-S03 | Data Science Clinic | Cross-faculty | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed Spring 2026 |
+| US06-S04 | MS in Applied Data Science Capstone Project | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025 sponsor guide; page current 2026 |
+| US06-S05 | Engineering Design capstone (MENG 21800-21900), Pritzker School of Molecular Engineering (MENG 21800/21900) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear 2023 (article); catalog undated |
+| US06-S06 | Booth Consulting Lab | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear Undated; course listing seen for 2021 |
+
+**Uncertain / unresolved:** Not researched in reduced-depth mode: Booth Marketing Labs, Social Impact Lab, BSI/campusCATALYST dated evidence; Crown Family School field projects; Computer Science and natural-science departmental capstones; Pritzker Law/other clinics beyond Innovation Clinic; Polsky Center programmes; Graham School capstone; humanities/arts team projects with external partners. Further departmental instances likely.
 
 ### Pennsylvania (US07, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+Penn's verified provision is distributed rather than institution-wide. The clearest route meeting all three criteria with current delivery is **Wharton Impact & Sustainability Consulting (WISC)**: selective, co-curricular teams of about five undergraduate/graduate students consult for external clients over 12 weeks, with weekly client meetings and a final client presentation (Fall 2026 clients listed; open to any Penn/Wharton student). Programme-embedded client consulting also exists in Wharton (EMBA Social Impact Consulting Practicum, 2025 article; MBA Field Application Projects, e.g. HCMG 6530 teams of 5-6 consulting for a health firm) but their current delivery is not dated. Penn Engineering Senior Design is a compulsory-style team capstone, yet external sponsorship is only 'many projects ... in collaboration with industry partners' with one named startup (C unclear). The Fels MPA capstone has government and nonprofit clients but appears individual. The Netter Center's ABCS network (33 courses in Spring 2026) is university-wide and partner-based, but mostly teaching/service with school and community hosts, so project/group/client status needs course-level testing. Nothing qualifying was found in natural sciences, law or design beyond leads. Uncertain: Weitzman studios, Nursing/health teams, student consulting clubs, departmental engineering sponsors.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US07-S01 | Academically Based Community Service (ABCS) courses | University-wide | Optional/elective | Unclear/Unclear/Unclear | Charity/community | Potentially relevant; evidence incomplete | Current delivery confirmed Spring 2026 |
+| US07-S02 | Wharton Impact & Sustainability Consulting (WISC) | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed Fall 2026; Spring 2027 applications Nov 2026 |
+| US07-S03 | Social Impact Consulting Practicum (Wharton EMBA) | Programme/course | Unclear | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear March 2025 (article) |
+| US07-S04 | Field Application Projects (Wharton MBA; e.g. HCMG 6530) (HCMG 6530) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+| US07-S05 | Penn Engineering Senior Design (departmental capstones) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 |
+| US07-S06 | Fels Lab Capstone (Master of Public Administration) (GAFL 7980) | Programme/course | Compulsory within specified programmes | Yes/Unclear/Yes | Public sector | Potentially relevant; evidence incomplete | Current delivery confirmed 2025 (listing 2020-2025) |
+
+**Uncertain / unresolved:** Reduced-depth (~15 searches). Not verified: Weitzman studio course-level client briefs; Penn Carey Law clinics; Nursing/health team courses; Wharton FAP/EMBA practicum current delivery and credit; engineering departmental sponsor schemes (CIS 4010 etc.); individual ABCS courses with partner-set group projects; Wharton student clubs. Further departmental instances likely. WebFetch summaries are tool-generated, not verbatim.
 
 ### Cornell (US08, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+
+Cornell has no institution-wide employer-project scheme found in the documented search. Qualifying provision is distributed across colleges and mostly programme-embedded.
+
+**Strongest routes.** Dyson's AEM 4000 Grand Challenges Project Course (Fall 2025 roster, 3 credits) puts teams of 4-5 undergraduates with a client or community partner on a societal problem; the Dyson page reports about 50 external-partner projects a year, with liaisons acting as mentors and meeting teams at least four times. Graduate programmes supply compulsory or required team projects: MEng Engineering Management (ENMGT 5910, teams of 2-7, sponsor receives report and presentation; Wayfair, IBM, Siemens Healthineers named), MPS Information Science INFO 5900 (teams of 5-7, designated external client representative), Cornell Tech Product Studio (mandatory for all master's students, industry advisor and final demo) and the Johnson MBA Strategic Product & Marketing Immersion (company partner attends final presentation). Weill Cornell MS capstones (teams of about 4, client agreement) list 2026-27 dates.
+
+**Legacy row.** Engineering Student Project Teams (1,800+ students, 30+ majors, credit via ENGRG 1400/3400/4400) are student-led; fetched pages mention no external sponsor, so criterion C is not evidenced.
+
+**Uncertain.** Many pages are undated, so only AEM 4000, INFO 5900 and the Weill capstone have dated or recent evidence. Undergraduate engineering sponsor capstones, ILR/Brooks/Government, Hotel and AAP were not verified.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US08-S01 | AEM 4000 Grand Challenges Project Course (capstone) (AEM 4000) | Programme/course | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed Fall 2025 (also listed on Fall 2026 roster per search) |
+| US08-S02 | Master of Engineering in Engineering Management project (ENMGT 5910) (ENMGT 5910) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated (site copyright 2026) |
+| US08-S03 | Cornell Tech Product Studio | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear undated page (2026 startup awards news corroborates Studio programme operating) |
+| US08-S04 | Strategic Product & Marketing Immersion (Johnson MBA) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated (site 2026) |
+| US08-S05 | MEng Chemical Engineering industry-inspired team projects | Programme/course | Unclear | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current status unclear undated |
+| US08-S06 | INFO 5900 MPS Project (Information Science) (INFO 5900) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2026 (showcase pages cover MPS projects 2019-2026; 'offered every semester') |
+| US08-S07 | Weill Cornell Medicine Public Health Sciences MS Capstone (client partner projects) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Announced/forthcoming 2026-2027 / 2027 dates listed |
+| US08-S08 | International Human Rights Clinic (Cornell Law School) | Programme/course | Selective/competitive | Yes/Yes/Unclear | Charity/community | Potentially relevant; evidence incomplete | Current status unclear undated |
+
+**Uncertain / unresolved:** Further MEng programmes (MAE, BME, MSE, ORIE), MPS AEM capstone, other Johnson immersions, BME senior design, Law clinics, Hotel and AAP studios and PAM/PUBPOL community courses were identified only via search summaries. Many pages undated. Eligibility for Student Project Teams not opened. Reduced-depth mode: about 12 searches plus 11 page fetches (WebFetch worked, retrieval 'page text'; some quoted content is fetch-model summaries of the pages).
 
 ### Yale (US09, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+
+Yale's verified provision is distributed across professional schools and one undergraduate programme, with no central or university-wide client-project route found. The strongest curricular routes are the School of Engineering's sponsored senior capstone (teams of three to four building a prototype for a funding sponsor over about 1.5 semesters, judged at a symposium), compulsory within the ABET engineering degree, and the Jackson School of Global Affairs capstone (an optional alternative to the senior thesis: a fall-semester policy project for an external client, such as UNDP's Crisis Bureau and Global Fashion Agenda in Fall 2025, in courses of up to 10 students). At SOM, Discovery Projects (6 credits, application-only) has teams advising affiliate companies, while the student-run Golub Capital Consulting Fellows runs year-long team projects with New Haven nonprofits and public bodies, with dated 2025/26 evidence but extracurricular status. Further team-and-client courses sit in the School of the Environment, Public Health and SOM Global Social Entrepreneurship, but their listings are undated. The legacy Tsai CITY Accelerator is excluded because ventures are student-owned. Uncertain: current-year delivery for most listings, credit and deliverables, and the sponsor share of all engineering capstones.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US09-S01 | Industry-sponsored senior capstone design projects (Yale School of Engineering) (e.g. MENG 4137L/4138L (Mechanical Engineering capstone, per search summary)) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+| US09-S02 | Global Affairs Capstone Course (Yale Jackson School of Global Affairs) | Programme/course | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed Fall 2025 |
+| US09-S03 | Discovery Projects (Yale Center for Customer Insights, SOM) | Faculty/school | Selective/competitive | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+| US09-S04 | Golub Capital Consulting Fellows (formerly Social Impact Consulting Club), SOM | Faculty/school | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025/26 |
+| US09-S05 | Climate Solutions Capstone: Sub-National Actors (ENV 979b) and Sustainable Business Capstone Consulting (ENV 953), Yale School of the Environment (ENV 979b; ENV 953) | Faculty/school | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| US09-S06 | Clinic in Climate Justice and Public Health (EPH 555 / ENV 959; PUBH 555) (EPH 555 / ENV 959) | Cross-faculty | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| US09-S07 | Global Social Entrepreneurship (MGT 529 India; MGT 865), SOM (MGT 529; MGT 865) | Cross-faculty | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear 2021 |
+
+**Uncertain / unresolved:** Most course listings (YSE, YSPH, SOM GSE, Engineering sponsored capstone, SOM Discovery Projects) are undated, so current delivery is unconfirmed. Jackson capstone group size and clients rest on search-index extracts because the FAQ returned 404 to WebFetch and the Fall 2025 page body did not render. Credits and deliverables not retrieved for several routes. Not researched: further SOM/YSE courses, Architecture, Drama/Art, Divinity, Nursing, Computer Science and Statistics & Data Science capstones, YSE ENV 965 and ENV 985b detail, Yale College humanities departments; further departmental instances likely exist. Reduced-depth mode (about 12 searches).
 
 ### Princeton (US10, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+Princeton has one strongly verified route and several partial ones, spread across units rather than institution-wide. **SPIA Graduate Policy Workshops (SPI 591)** are required in the MPA: teams of 8-10 work on briefs for real clients (government agencies, multilateral organisations, nonprofits), do field research and present a report to the client (Fall 2025 confirmed). The undergraduate **Policy Task Force (SPI 301)** is a compulsory junior group project for SPIA concentrators but no external client is evidenced; the **Policy Advocacy Clinic** works with named external policy partners (ACLU, lawmakers) but team structure is unstated. The Keller Center's **Community Project Studios / Tiger Challenge** places student teams with nonprofit and government partners (Summer 2026 partner Smith Family Foundation), open across majors, but current delivery is unconfirmed. **ProCES** is an umbrella supporting community-engaged courses; qualifying examples include COS 333 (some teams build for nonprofits) and a 2025 workers-technology seminar (historical). No business, law or medical school exists; most engineering capstones lack documented external sponsors. ProCES and some CS pages blocked page access (Cloudflare/403), so those items rest on search extracts.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US10-S01 | SPIA Graduate Policy Workshops (SPI 591a-g) (SPI 591a-g (Fall 2025)) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed Fall 2025 (2025/26) |
+| US10-S02 | SPIA Policy Task Force (SPI 301) (SPI 301) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2025/26 curriculum page (Classes of 2027, 2028+) |
+| US10-S03 | Princeton Policy Advocacy Clinic (SPI 490 (fall) + SPI 301 (spring)) | Programme/course | Selective/competitive | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current status unclear Page footer 2026; no dated cohort |
+| US10-S04 | Community Project Studios - Tiger Challenge studio (EGR 250/350/450, 251/351/451) (EGR 251/351/451 (formerly EGR 250/350/450, EPICS)) | University-wide | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear Summer 2026 (announced); course page undated (mentions spring 2024) |
+| US10-S05 (umbrella) | Program for Community-Engaged Scholarship (ProCES) | University-wide | Optional/elective | Unclear/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed Spring/Fall 2026 course lists (search results) |
+| US10-S06 | COS 333 Advanced Programming Techniques (community-partner software projects) (COS 333) | Programme/course | Optional/elective | Yes/Yes/Unclear | Charity/community | Potentially relevant; evidence incomplete | Current delivery confirmed Fall 2025 (Fall 2026 previous-projects page exists) |
+| US10-S07 | Designing the Future of Work (seminar team projects with partner organisations) | Programme/course | Optional/elective | Yes/Yes/Yes | Charity/community | Meets all three | Historical delivery only Spring 2025 |
+
+**Uncertain / unresolved:** proces.princeton.edu and gradfutures.princeton.edu returned Cloudflare challenges and were not accessed (not bypassed); cs.princeton.edu course pages 403. Per-course ProCES evidence, Keller Design minor project course, EGR 200, architecture studios, GradFUTURES capstones, department-level engineering capstones (further instances likely) not researched. WebFetch returned 403 for proces.princeton.edu; other pages read via curl through the proxy.
 
 ### Columbia (US11, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 5
+
+Columbia has several well-evidenced employer or external-client team projects, but they sit in individual schools and programmes; no central scheme embeds them across all students and the legacy engineering core course (The Art of Engineering) could not be shown to involve an external organisation.
+
+The strongest routes are SIPA Capstone Workshops (teams of about six MIA/MPA students consulting for external clients such as the Federal Reserve Bank of New York, 2026-27 list), the MS Sustainability Management capstone (Spring 2026 client briefings), Columbia Business School's Management Consulting Lab (teams of three working with EC-Africa companies, Spring 2026), the Barnard Workshop in Sustainable Development (client agency, Fall 2026 listing) and Design for Social Innovation, a selective 3-credit course open across Columbia's schools with social-sector clients (Spring 2026). The MS Data Science capstone has sponsored team projects but sponsors may be faculty, so employer coverage is unclear; GSAPP's planning studio uses public-sector clients but only 2022 evidence was found.
+
+Participation is compulsory within some programmes (sustainability capstone; SIPA possibly), elective or competitive elsewhere. Retrieval was by search extracts because direct fetches were blocked (403, then a bot challenge that was not bypassed). Unresolved: credits, current-year clients and compulsion status for several routes.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US11-S01 | SIPA Capstone Workshops | Faculty/school | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026-27 cycle (Spring 2026 client list) |
+| US11-S02 | Data Science Capstone & Ethics (MS Data Science capstone) (ENGI E4800) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current status unclear 2022 (cohort of 200+ students, 43 projects) |
+| US11-S03 | MS in Sustainability Management Capstone Workshop | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed Spring 2026 |
+| US11-S04 | Design for Social Innovation (DFSI) | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed Spring 2026 |
+| US11-S05 | Management Consulting Lab (B8701) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed Spring 2026 |
+| US11-S06 | Workshop in Sustainable Development (EESC BC3300) (EESC BC3300) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Charity/community | Meets all three | Current delivery confirmed Fall 2026 (section listing) |
+| US11-S07 | Urban Planning Studio (MS Urban Planning) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Public sector | Meets all three | Current status unclear 2022 |
+
+**Uncertain / unresolved:** Direct page access blocked (WebFetch 403; curl met a Cloudflare challenge, not bypassed), so all evidence is search-summary paraphrase. Journalism, Teachers College, Mailman, Engineering IEOR/CS/biomedical capstones, CBS club consulting, law clinic team projects and Columbia College core not researched; further departmental instances likely. Credits and compulsion for SIPA, Sustainability and DSI capstones unverified. Reduced-depth mode (about 14 searches).
 
 ### Johns Hopkins (US12, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 3
+
+Johns Hopkins has several distributed, school-level routes where student teams work for external sponsors, but no university-wide scheme was verified. The clearest is Mechanical Engineering Senior Design: a two-semester, 8-credit senior capstone in which teams build prototypes for industry, government and non-profit sponsors who fund and receive the work (2026 Design Day). Civil and Systems Engineering seniors work with community clients, and the BME Undergraduate Design Team (teams of 5-8 over about a year) takes challenges from clinicians and industry, though the external share is unclear. In business, Carey's Innovation Field Project (8-week MBA team consulting for corporate sponsors) and the Health Care Strategy Practicum are described on undated pages. SAIS practicums put teams of about four to work for outside clients (e.g. AECOM). MSEM projects and SOURCE's Connection Community Consultants (teams of 3-5, up to 8 weeks, for Baltimore community organisations; 2026-27 recruiting) add further routes. Most are programme-specific; only SOURCE is cross-school and extracurricular. Pava Center accelerators are venture-building, not client projects. Uncertain: current-year evidence for Carey and SAIS, compulsory status of capstones, and the science and Krieger arts and humanities areas, which were thinly searched. All sources are search-index extracts because jhu.edu pages returned 403 to WebFetch and curl.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US12-S01 | Mechanical Engineering Senior Design (EN.530.403/404) (EN.530.403/404 (alt EN.660.345/346)) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025/26 (Design Day April 2026) |
+| US12-S02 | Civil and Systems Engineering senior capstone (community-centered design) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Charity/community | Meets all three | Current delivery confirmed 2025/26 (article 21 Apr 2026) |
+| US12-S03 | BME Undergraduate Design Team | Programme/course | Optional/elective | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2025/26 (Design Day; Winter 2026 E-Team news) |
+| US12-S04 | Innovation Field Project (Carey Business School) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+| US12-S05 | Health Care Strategy Consulting Practicum (Carey) | Programme/course | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| US12-S06 | SAIS practicums (MAIR, MATP, ERE, Women Lead, Canadian Studies) | Faculty/school | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| US12-S07 | MSEM Immersion Program and Industry Partner Strategy / Healthcare Systems Innovation projects | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| US12-S08 | Connection Community Consultants Program (SOURCE) | Cross-faculty | Selective/competitive | Yes/Yes/Yes | Charity/community | Meets all three | Current delivery confirmed 2026/27 (sign-ups advertised) |
+
+**Uncertain / unresolved:** Direct page text unavailable (403 from jhu.edu hosts via WebFetch and curl; not bypassed). Science and Krieger AHSS thinly searched; Nursing, Peabody, Medicine unsearched in depth; CLE consulting course, CityLab and further departmental capstones (ECE, CS, Chem/Biomolecular, Civil) likely exist; dated current-year evidence missing for Carey, SAIS, MSEM.
 
 ### Michigan Ann Arbor (US13, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+
+Michigan's strongest verified provision is distributed rather than centrally mandated. The **Multidisciplinary Design Program** (hosted by Engineering, open to undergraduate and master's students from all majors) places year-long teams of about 5-7 on sponsor-proposed projects with joint faculty and sponsor mentoring and handover to the sponsor; sponsors are 30-40 companies, nonprofits, government bodies *and internal University clients* a year, so external coverage is marked 'Some projects'. **Ross MAP / Capstone MAP** gives MBA and BBA/MM teams sponsor-set consulting projects with liaisons, data and executive presentations. **SEAS Master's Projects** are year-plus client projects for teams of about five with a 2025-2026 list of external clients (Meijer, EGLE, LinkedIn, NREL). The **Ford School's Strategic Public Policy Consulting** places teams of 3-6 with public-sector clients, though current-year delivery was not dated. UMSI client-based courses and ME 450 industry-sponsored sections are partly evidenced (group basis or industry share unclear). The Integrated Policy Exercise is a simulation and excluded.
+
+Participation is optional or programme-specific, except where a capstone is required within a degree. Evidence is from search extracts because the MDP site blocks automated retrieval (Cloudflare challenge, not bypassed). Uncertainties include internal vs external client share in MDP, current-year Ford and UMSI cohorts, and unsearched units (Public Health, Social Work, Design, LSA departments).
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US13-S01 | Multidisciplinary Design Program (MDP) - Industry Sponsored Projects (ENGR 355/455 (UG, inferred not quoted); ENGR 555 (graduate, from Winter 2026)) | University-wide | Selective/competitive | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (sponsor teams '26'; projects tagged '27' also listed) |
+| US13-S02 | Multidisciplinary Action Projects (MAP) - Ross School of Business (BA 453 Capstone MAP (W26); MAP for MBA programmes) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 (W26 Capstone MAP; Ross 2026 news: 175 projects a year) |
+| US13-S03 | SEAS Master's Project (Master's Capstone, client-based) | Faculty/school | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025-2026 (2026 Capstone Conference page) |
+| US13-S04 | Strategic Public Policy Consulting (formerly Applied Policy Seminar), PubPol 578 (PUBPOL 578) | Faculty/school | Optional/elective | Yes/Yes/Yes | Public sector | Meets all three | Current status unclear Course listing PubPol 578 under current instructor; no dated 2025/26 cohort evidenced |
+| US13-S05 | UMSI client-based courses and Engaged Learning Office projects | Faculty/school | Unclear | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current status unclear undated |
+| US13-S06 | ME 450 Capstone Design (industry-sponsored sections) (ME 450) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (Design Expo Winter 2026, 16 April) |
+
+**Uncertain / unresolved:** MDP, ME 450, SEAS pages not opened (403/Cloudflare); evidence is search extracts. Unsearched: School of Public Health, Social Work, Art & Design, Nursing, Kinesiology, LSA departmental capstones, Computer Science (EECS 440/ MDE), IOE 424, further engineering capstones (further departmental instances likely). Ford Clinic pilot and UMSI per-course team basis not assessed.
 
 ### California Los Angeles (US14, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+UCLA's verified provision sits mostly in professional schools plus one university-wide route. In UCLA Anderson, the Applied Integrated Research (AIR) capstone puts teams of 5 MBA students to work as consultants for an external company, agency or non-profit for about 2.5 months, and the MSBA Applied Analytics Project (a 10-week team project that serves as the comprehensive exam) uses client-supplied data and named client contacts. AIR is one of several MBA capstone options, so it is elective within the programme; the MSBA project appears compulsory but its page is undated. The Center for Community Engagement runs the Community Engagement and Social Change minor, open to undergraduates in any major, whose two-quarter capstone research is conducted in collaboration with a community partner (2026 posters published), but whether it is done in teams is not stated. Luskin's MURP Client Project is a compulsory second-year capstone with nonprofit and public-agency clients (about 30 students in 2026), though it appears individual. The Master of Engineering ENGR 299 capstone is a compulsory team project, but industry sponsors only 'may' be included. Nothing qualifying was verified in sciences, arts or law. Provision is distributed rather than institution-wide, and the evidence is largely undated for engineering and the MSBA project.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US14-S01 | Applied Integrated Research (AIR) capstone | Programme/course | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025/26 (FT MBA Class of 2026 cohort) |
+| US14-S02 | Applied Analytics Project (MSBA capstone) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+| US14-S03 | Master of Engineering Capstone Project (ENGR 299) (ENGR 299) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2026 (site copyright only) |
+| US14-S04 | Community Engagement and Social Change minor capstone (CESC 191AX/191BX) (CESC 191AX / 191BX) | University-wide | Optional/elective | Yes/Unclear/Yes | Charity/community | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 |
+| US14-S05 | Client Project / Applied Planning Research Project (MURP capstone) | Programme/course | Compulsory within specified programmes | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 |
+
+**Uncertain / unresolved:** Further Anderson options (ASG, GSIC, FEiSty, TTC, BCC) and Epicenter Innovation Challenge need page-level checks; MPP Applied Policy Project only evidenced by 2017-18 handbook; undergraduate engineering and CS capstones have no sponsor evidence; no results for sciences, humanities departments, arts, law, public health; participation counts largely unpublished. AIR and MSBA pages were read only to 100,000 characters.
 
 ### Duke (US15, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+Duke has a university-wide team-project platform, **Bass Connections**: year-long (9-12 months) faculty-led teams averaging 10-12 students, always including undergraduates, with academic credit. Most 2026-27 teams work with outside partners, but the proposal rules only 'encourage' external partners, so client involvement is not standard and criterion C is Unclear. Course-based **Collaborative Project Courses** extend this (e.g. teams of 5-6 building software for community partners, with a mix of alumni, Durham businesses and Duke departments).
+
+The clearest qualifying route is the **Fuqua Client Consulting Practicum**: teams of five Daytime MBA students consult for an external client organisation in a 6-credit spring elective, presenting recommendations to client stakeholders (2025-26 overview and a 2027 project window). Evidence for Fuqua is from search-result text because fuqua.duke.edu could not be fetched.
+
+Programme-embedded client projects also exist in the Sanford School (MPP Spring Consulting Project, teams of 3-5 with non-profit, consultancy and government clients), Nicholas School Master's Projects (teams 'may' be 2-5, group status Unclear), MIDS capstones and Pratt industry-sponsored capstones, but several lack dated current-delivery evidence. Provision is distributed by school, mostly postgraduate; undergraduate access is mainly via Bass Connections. Uncertain: partner types, compulsion, and whether the Sanford, MIDS and Pratt routes ran in 2025/26.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US15-S01 | Bass Connections | University-wide | Selective/competitive | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 |
+| US15-S02 | Fuqua Client Consulting Practicum (FCCP) - Daytime MBA | Faculty/school | Optional/elective | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2025/26 (overview PDF); 2026/27 cycle (Jan-Apr 2027 window) |
+| US15-S03 | Sanford Spring Consulting Project (MPP) (PUBPOL 804 (per search summary)) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2026 page footer only; no project-year stated |
+| US15-S04 | Nicholas School Master's Project (MEM/MF) | Faculty/school | Unclear | Yes/Unclear/Yes | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (handbook copyright 2026) |
+| US15-S05 | Pratt School of Engineering industry-sponsored capstone projects | Faculty/school | Unclear | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear  |
+| US15-S06 | MIDS Capstone Projects (Master in Interdisciplinary Data Science) | Programme/course | Unclear | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear  |
+| US15-S07 | Collaborative Project Courses (e.g. AI-Copiloted Software Engineering Practicum) | Cross-faculty | Optional/elective | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (Faculty Fellows cohort) |
+
+**Uncertain / unresolved:** Pratt capstone courses (named courses, years, sponsor coverage); Statistical Science STA 798 and CompSci 408; Data+/Code+ partner role; Sanford and MIDS delivery years; Fuqua pages could not be opened (503 / TLS failure, not bypassed) so FCCP evidence is search-summary text; further departmental instances likely (Global Health, Nursing, Divinity, Environmental clinics). Fuqua client types unclear. Interpretation: clients in Bass Connections/Collaborative Courses include internal Duke units (e.g. Duke Critical Minerals Hub, Duke departments).
 
 ### New York University (US16, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 4
+
+NYU provides several distributed, mostly postgraduate programme-embedded routes where student teams work for external organisations; no single institution-wide scheme is compulsory. The strongest are compulsory team capstones: Wagner's Capstone (teams of 3-5 MPA/MUP students over the final two semesters working for nonprofit, governmental and health clients selected via an annual RFP; client owns the final report), the Tandon CUSP capstone (teams of 3-5 MS Urban Data Science students over two semesters for government, company and nonprofit sponsors, 2026-27 cycle confirmed), and Stern's NYC Consulting Capstone (taken by all Stern BS in Business seniors; faculty-led teams paired with a corporate partner per section, e.g. McDonald's and SoHo Broadway BID in Fall 2025 syllabi, Microsoft Garage in 2024). The only route open across schools is the SPS Real World courses (2-3 credit electives, application-based; multidisciplinary teams answer an industry partner's challenge and pitch to its executives; Fall 2026 applications confirmed). The CDS MS Data Science capstone (groups of 2-4, partner-proposed) mixes external companies and NYU labs, so employer connection is Unclear. Stern Solutions (graduate, for-credit client teams) is undated. Many other leads (law clinics, Consulting Corps, CGA practicums, Steinhardt studios) were not assessed. Wagner pages returned 403 on direct fetch, so Wagner evidence is search-extract only. Participation numbers are largely unpublished.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US16-S01 | Capstone: Advanced Projects (NYU Wagner Capstone, CAP-GP) (CAP-GP (multiple sections)) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025/26 (proposals due 30 May 2025; client presentations April-May 2026) |
+| US16-S02 | CUSP Capstone Projects (Urban Science Intensive I and II) (Urban Science Intensive I/II) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 (proposal deadline 24 July 2026; teams announced 23 Sept 2026) |
+| US16-S03 | Master's in Data Science: Capstone Project (DS-GA 1006) (DS-GA 1006) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed Fall 2026 (proposal deadline 16 Aug 2026) |
+| US16-S04 | NYC Consulting Capstone (MULT-UB 303) (MULT-UB 303) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed Fall 2025 (section syllabi titled Fall 2025: McDonald's, SoHo Broadway BID) |
+| US16-S05 | SPS Real World courses (Various (2-3 credit courses)) | University-wide | Selective/competitive | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed Fall 2026 (applications open 1 April 2026, close 14 Sept 2026) |
+| US16-S06 | Stern Solutions | Faculty/school | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+
+**Uncertain / unresolved:** Reduced-depth review (~8 searches, ~9 fetches). Wagner pages 403 (not bypassed): evidence is search summary. Stern syllabus PDFs unreadable. Further instances likely: Stern Consulting Corps/Signature Projects, SPS CGA practicums, Law clinics, other Tandon departmental senior design, Steinhardt/Tisch studios. Summer Launchpad excluded as accelerator.
 
 ### Northwestern (US17, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+Northwestern has a distributed set of employer-linked group routes rather than one institution-wide scheme. The widest is Design Thinking and Communication (ENG/DSGN 106-1/-2), a two-quarter course compulsory for first-year McCormick Engineering students and open to any undergraduate (2026-27 listing); student teams tackle design problems submitted by individuals, non-profits, entrepreneurs and industry members, with partners checking in over ten weeks and receiving a proof-of-concept. The partner mix includes individuals, so partner type is Mixed. McCormick programmes add IEMS 394 client projects (named clients such as JetBlue, Lurie Children's Hospital and Coca-Cola Consolidated in 2025-26; team basis not confirmed), the MMM Business Innovation Lab (teams of 4-6 for company problems) and the MLDS industry practicum/capstone (groups of 3-4). Kellogg runs many client-project labs; MKTG 650 Marketing Consulting Lab (teams of 5-6 with a client, 10 weeks) was verified. Medill's Cause Marketing Initiative places IMC teams with nonprofits. Several of these pages are undated, so current delivery is only confirmed for DTC and IEMS 394. Internal Northwestern units appear among some IEMS projects and are not counted. Arts, humanities and social science leads and the science area remain unverified beyond search summaries.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US17-S01 | Design Thinking and Communication (DTC) (ENG 106-1/DSGN 106-1 and ENG 106-2/DSGN 106-2 (Writing in Special Contexts)) | University-wide | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 (writing program 2026-27 course descriptions list ENG/DSGN 106-1/2) |
+| US17-S02 | IEMS 394: IE Client Project Challenge (IEMS 394) | Programme/course | Unclear | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (Coca-Cola Consolidated); Fall 2025 (JetBlue, Lurie) |
+| US17-S03 | Marketing Consulting Lab (MKTG 650) (MKTG 650 (catalog id 206993)) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Announced/forthcoming Spring 2027 schedule on catalog page (syllabus filename references Spring 2026) |
+| US17-S04 | Business Innovation Lab (MMM Program capstone) | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
+| US17-S05 | MLDS Practicum and Capstone | Programme/course | Compulsory within specified programmes | Unclear/Yes/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear undated |
+| US17-S06 | Cause Marketing Initiative (Medill IMC) | Programme/course | Optional/elective | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear undated |
+| US17-S07 | Metropolitan Chicago Data-Science Corps (MCDC) practicums | Cross-faculty | Optional/elective | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear 2023/24 (article dated 10 Jan 2024) |
+
+**Uncertain / unresolved:** Reduced-depth review. Not verified: ME 398 and other departmental capstones (PDF unreadable); remaining Kellogg labs; Segal mpd2/MaDE; Civic Engagement Certificate, Crafting Child Policy and Professional Linkage Seminar (search summaries only; class page 404); Medill Immersion Quarter; IEMS 394 team basis and compulsory status; DTC credit and partner mix; participation numbers throughout. Several McCormick/Medill/MMM/MLDS pages are undated (current status unclear). Further departmental instances likely.
 
 ### Carnegie Mellon (US18, US)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+Carnegie Mellon has no single university-wide sponsored-project scheme found in this reduced-depth review; sponsored team projects are run by colleges and departments. The best-evidenced route is Heinz College's semester capstone/Systems Synthesis (teams of 4-6 master's students plus a faculty advisor working free for external government, nonprofit and corporate sponsors; clients listed include Uber, Disney, PwC, Deloitte; 2026-27 handbook addendum corroborates currency). The Master of Software Engineering studio/practicum (teams of 4-6, company technical contact 1-3 hours a week, final presentations to sponsors) is strongly evidenced for design but undated. Further routes: Tepper MBA Strategic Management of the Enterprise (client companies; group basis unconfirmed), Statistics & Data Science corporate capstone (teams of 2-4, fall/spring), the MS-DAS industry capstone (2022 only), and the Entertainment Engineering course with TAIT (2026 news, cross-disciplinary teams). The legacy IDeATe row is all-major but shows no external client. All recorded routes are at programme or school level; most are postgraduate taught. Several pages are undated, and PDFs could not be text-extracted.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| US18-S01 | Heinz College Capstone / Systems Synthesis (client projects) (90-739 / 94-739 (per MSPPM 2026-27 handbook addendum, as reported by search extract)) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 (MSPPM handbook addendum title; recycling project linked to March 2026 article) |
+| US18-S02 | Master of Software Engineering Studio Project / Practicum | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear 2022 (dated news); sponsorship page undated |
+| US18-S03 | Strategic Management of the Enterprise (MBA client consulting project) (70-447 (per search extract)) | Programme/course | Optional/elective | Yes/Unclear/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear undated |
+| US18-S04 | Corporate Capstone Project (Statistics & Data Science) (36-497 (per search extract)) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated |
+| US18-S05 | MS in Data Analytics for Science capstone | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Historical delivery only 2022 |
+| US18-S06 | Entertainment Engineering (54-600) (54-600) | Cross-faculty | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear 2026 (URL date inferred; page prints no date) |
+
+**Uncertain / unresolved:** Undated sponsor pages (MSE, Tepper, Statistics); Heinz handbook PDF not text-extractable (course numbers from search summary); further instances likely: Tepper Global Capstones, INI practicum, MHCI/MSLE/MRSD capstones, ECE/MechE/MSE(materials) capstones, Design sponsored projects, Architecture studios, undergraduate Tepper/SCS practicum. Participation numbers not published in sources found. Search count approx 8 searches + 13 fetches.
 
 ### Southern California (US19, US)
 

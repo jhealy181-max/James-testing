@@ -1,12 +1,11 @@
-# Checkpoint — updated 2026-10-13 23:03 UTC
+# Checkpoint — updated 2026-10-13 23:10 UTC
 
-- Complete: 64 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02
-- Partial: 1 — US05
-- Not started: 59 — AU07, AU08, US03, US04, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
-- Scheme records: 604; currently qualifying: 175; exclusions: 633; sources: 1182
+- Complete: 80 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18
+- Partial: 0 — 
+- Not started: 44 — AU07, AU08, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
+- Scheme records: 701; currently qualifying: 207; exclusions: 744; sources: 1342
 
 ## Partial reviews: what remains
-- US05 California Berkeley: Session search limit hit after about 12 searches/fetches. Not run: a humanities/social-science undergraduate query and an EECS/Data Science undergraduate industry-project query; also Fung Fellowship, Deep Tech Innovation Lab, MSSE capstone and Haas IBD need opening; current-year (2025/26-2026/27) evidence for S1, S2, S4-S6 still needed.
 
 ## Unresolved points on schemes (evidence incomplete)
 - RG01-S06 Masters Company Projects (Birmingham Business School): Individual vs group; current-year evidence; credits for MSc variants.
@@ -265,7 +264,38 @@
 - US01-S03 Master of Business Analytics Capstone: Whether capstone is compulsory; duration; individual vs pair split.
 - US01-S07 DUSP planning practicum (e.g. 11.S938 Resilience by Design): Group structure, year, internal-vs-external share of clients.
 - US02-S04 Policy Analysis Exercise (PAE), Master in Public Policy: Share of PAEs done in groups; status confirmed through a search-summary mention of a 2026 showcase plus an annual client call (proposals from August).
+- US03-S05 CS 210B Software Entrepreneurship Project (Software Development for Startups / Software Fair): Search extract only (cs210.stanford.edu not opened); current partners and current-year C evidence not verified.
+- US03-S06 Law and Policy Lab practicums: Group working and enrolment not stated; other law clinics are casework (excluded).
+- US04-S01 CS/IDS 163 Projects in Machine Learning: Who the domain experts are; whether any are external organisations; deliverable.
+- US04-S03 Caltech Space Challenge: Whether any external organisation sets the brief or receives outputs; 2026 was first edition after a four-year hiatus; recurrence unknown.
+- US04-S04 E/ME/MedE 106 ab Design for Freedom from Disability: Whether teams and a defined product output are used; when last taught (also marked not offered in 2020-21 and 2021-22 per search summary).
 - US05-S02 MEng Capstone (partner-led), Fung Institute for Engineering Leadership: Share of capstones that are partner-led; compulsory status; whether 2025/26 or 2026/27 cohort delivery is confirmed; partner fee conflict ($20k vs $25k) irrelevant to criteria. Separate Fung Fellowship 12-week undergraduate track not assessed.
-- US05-S03 Data Science Discovery Program (Data Discovery course): Share of external versus academic mentors; team sizes per project; student eligibility and units.
+- US05-S03 Data Science Discovery Program (Data Discovery course): Share of external versus academic mentors; team sizes per project (1-5, individual possible); eligibility/credit taken from search summaries of cdss.berkeley.edu pages, not page text.
+- US07-S01 Academically Based Community Service (ABCS) courses: Course-level test needed: which individual ABCS courses have a partner-set project done in teams. Many seem service/teaching.
+- US07-S05 Penn Engineering Senior Design (departmental capstones): Departmental sponsor mechanisms (e.g. CIS, ESE) not opened; compulsory status per major not verified from regulations; further departmental instances likely.
+- US07-S06 Fels Lab Capstone (Master of Public Administration): Team vs individual basis; year-by-year list inferred from file paths.
+- US08-S03 Cornell Tech Product Studio: Whether challenges are set by external organisations; no dated cohort evidence for Product Studio itself; note Cornell Tech is a campus of Cornell (reach limited to Cornell Tech master's).
+- US08-S05 MEng Chemical Engineering industry-inspired team projects: Dates; internal vs external share; compulsory status. Other MEng programmes (MAE, BME, ORIE financial engineering) likely have similar sponsored projects - not researched.
+- US08-S08 International Human Rights Clinic (Cornell Law School): Credits, term, dates; extent of external NGOs vs internal Cornell centre; clinic is legal practice.
+- US10-S02 SPIA Policy Task Force (SPI 301): Whether any task force has an external client; older examples show presentation to congressional staff/NSC (2015).
+- US10-S03 Princeton Policy Advocacy Clinic: Team structure; current-year cohort and enrolment; mixed advocacy/policymaker partners are not 'employers' in business sense (public sector/charity).
+- US10-S05 Program for Community-Engaged Scholarship (ProCES): ProCES site is behind a Cloudflare challenge (403): not opened, evidence is search extracts only. Per-course project/group structure must be tested at course level.
+- US10-S06 COS 333 Advanced Programming Techniques (community-partner software projects): Share of teams with external partners; direct fetch of cs.princeton.edu returned 403.
+- US11-S02 Data Science Capstone & Ethics (MS Data Science capstone): Share of internal faculty-sponsored projects; no dated 2025/26 or 2026/27 corroboration seen.
+- US12-S03 BME Undergraduate Design Team: Share of external (non-JHU) sponsors; credit; exact current-cycle call.
+- US13-S01 Multidisciplinary Design Program (MDP) - Industry Sponsored Projects: Share of internal vs external clients not published; whether every sponsored project has an external organisation (stated sponsors include internal University clients), so external coverage marked 'Some projects' but sponsored-project track is described as company/nonprofit/government clients. Cours
+- US13-S05 UMSI client-based courses and Engaged Learning Office projects: Group working per course, course-specific delivery year, enrolment and credit not established; recommend course-level follow-up.
+- US13-S06 ME 450 Capstone Design (industry-sponsored sections): Compulsory status not directly quoted; sponsor names for 2025/26 not found. Other departmental capstones (e.g. IOE 424) likely exist.
+- US14-S03 Master of Engineering Capstone Project (ENGR 299): Proportion of sponsored projects; named sponsors; duration; dated cohort.
+- US14-S04 Community Engagement and Social Change minor capstone (CESC 191AX/191BX): Whether capstone projects are done in teams or individually (B Unclear); students may find their own partner.
+- US14-S05 Client Project / Applied Planning Research Project (MURP capstone): Group vs individual; compulsory status inferred from capstone-requirement wording; separate MPP Applied Policy Project (evidenced only by a 2017-18 handbook, clients may be agencies, nonprofits or corporations) not assessed.
+- US15-S01 Bass Connections: Which individual teams have external partners that set briefs or receive outputs; number of participating students.
+- US15-S04 Nicholas School Master's Project (MEM/MF): Whether team work is the norm vs individual; client types (some partners are faculty/Duke).
+- US15-S05 Pratt School of Engineering industry-sponsored capstone projects: Named courses, programme-level requirements and dated 2025/26 evidence. Specific capstone course pages not researched (reduced-depth).
+- US15-S07 Collaborative Project Courses (e.g. AI-Copiloted Software Engineering Practicum): Course terms and codes; whether each course delivers in 2025/26 or 2026/27; internal share of clients.
+- US16-S03 Master's in Data Science: Capstone Project (DS-GA 1006): Share of external versus internal NYU lab sponsors; credit/required status verified only via search summary.
+- US17-S02 IEMS 394: IE Client Project Challenge: Team vs individual working; compulsory status; credit.
+- US17-S05 MLDS Practicum and Capstone: Deliverables, named sponsors, dated cohort; whether participation is formally required (page says students 'engage in' both).
+- US18-S03 Strategic Management of the Enterprise (MBA client consulting project): Group working and current-year delivery not evidenced on fetched page; credit unknown.
 
 Resume: research IDs under 'Not started'/'Partial' following RESEARCH_BRIEF.md, write results/<ID>.json, then run `python3 -I el_review/build.py`.

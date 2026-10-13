@@ -1,0 +1,559 @@
+{
+ "inst_id": "US20",
+ "institution": "Texas Austin",
+ "review_status": "Partial",
+ "partial_remaining": "Dedicated 'other' area query (law clinics, Dell Medical, architecture, design) not run; LIFT, Bridging Disciplines, Impact Lab partner roles and 2025/26 status of ECE/ME/McCombs+ unverified.",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UT Austin Texas Global OR Career Engagement OR Office of Experiential Learning student teams real-world projects partner organizations university-wide"
+   ],
+   "key_sources": [
+    "https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities",
+    "https://exl.cns.utexas.edu/impact-lab/courses"
+   ],
+   "finding": "No single institution-wide employer-project scheme found; routes are distributed by school. PUC (legacy) is two-school."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "McCombs School of Business consulting practicum client company student teams Texas"
+   ],
+   "key_sources": [
+    "https://www.mccombs.utexas.edu/graduate/mba/mccombsplus-project-partners/",
+    "https://www.mccombs.utexas.edu/centers-initiatives/brumley-institute/startup-practicum/"
+   ],
+   "finding": "Graduate consulting routes (McCombs+ Projects, Startup Consulting Practicum); LIFT undergraduate lead not opened."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "UT Austin Cockrell School of Engineering senior design capstone industry sponsored projects team"
+   ],
+   "key_sources": [
+    "https://www.ece.utexas.edu/engage/capstone",
+    "https://www.me.utexas.edu/academics/undergraduate-program/senior-design-projects"
+   ],
+   "finding": "Compulsory sponsored team capstones in ECE and ME; other Cockrell capstones likely."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "UT Austin College of Natural Sciences students team project industry partner course (Freshman Research Initiative OR UTeach OR capstone OR computer science)"
+   ],
+   "key_sources": [
+    "https://exl.cns.utexas.edu/impact-lab/courses",
+    "https://cns.utexas.edu/fri/community/industry-partners"
+   ],
+   "finding": "Impact Lab practicums are the nearest fit but employer role unconfirmed; FRI is research. No qualifying route verified."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "UT Austin Policy Research Project LBJ School course required master's students client report 2026",
+    "UT Austin Moody College Communication OR College of Liberal Arts student team client project course real client campaign"
+   ],
+   "key_sources": [
+    "https://lbj.utexas.edu/policy-research-projects",
+    "https://moody.utexas.edu/news/the-lab-student-success"
+   ],
+   "finding": "LBJ PRP is the strongest route; Moody's The Lab has real clients but status and credit unclear."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "covered by cross-area searches: LBJ (public affairs), McCombs/Brumley (law, pharmacy students eligible); no dedicated law, health, design or architecture query"
+   ],
+   "key_sources": [],
+   "finding": "No dedicated query for law, Dell Medical, architecture or design; recorded as a gap."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "PA 680PA/680PB (MPAff); e.g. 682GB (global policy)",
+   "named_partners": "Austin Independent School District; HousingWorks; Housing Authority of the City of Austin; Central Health; St. David's Foundation; Sin Fronteras; Department of Defense (project listing page, undated)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "Policy Research Project",
+   "local_id": "S1",
+   "official_name": "Policy Research Project (PRP), LBJ School",
+   "description": "Year-long capstone in which teams of LBJ School master's students are paired with a client organisation to address a policy issue, supervised by LBJ faculty; reports are issued to clients at the end of spring semester. Listed clients include Austin ISD, HousingWorks/Housing Authority of the City of Austin, Central Health, Sin Fronteras and the Department of Defense (project listings undated, mostly older).",
+   "academic_reach": "Programme/course",
+   "admin_host": "LBJ School of Public Affairs",
+   "eligible_faculties_programmes": "Master of Public Affairs (second year) and Master of Global Policy Studies",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "LBJ master's students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Minimum 3 credits; can be 6 credits over two semesters (6 PRP hours listed as MPAff requirement)",
+   "duration": "One to two semesters (reports at end of spring)",
+   "delivery_format": "Team client project",
+   "project_based": "Yes",
+   "project_evidence": "Team policy project for a client with a final report [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'pairs teams of students with a client to address a complex policy issue' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Real external clients (e.g. Austin ISD, Central Health, Sin Fronteras, DoD) receive the report [1]; MPAff page: 'working with LBJ Faculty and a real client' [2]. Some listed 'clients' are not named, so coverage is read as standard from the programme description rather than per project.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: poses policy issue; receives final report",
+   "deliverable": "Policy report to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026",
+   "unresolved": "Current 2026/27 client roster not found; project listing page is undated and largely older projects; internal clients (e.g. UT institutes) possible.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://lbj.utexas.edu/policy-research-projects",
+     "title": "Policy Research Projects",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "'pairs teams of students with a client to address a complex policy issue'; 'Reports are issued to clients at the end of the spring semester.'",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://lbj.utexas.edu/degree-programs/master-public-affairs",
+     "title": "Master of Public Affairs",
+     "section": "PRP",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "'a real-world project working with LBJ Faculty and a real client'; 'the PRP is a minimum of a 3 credit PRP class, and it can be 6 credits/2-semester class'; taken in second year.",
+     "supports": [
+      "employer",
+      "credit",
+      "participation",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://lbj.utexas.edu/spring-2026-63123-682gb-policy-research-project-global-policy-issues",
+     "title": "Spring 2026 682GB PRP on Global Policy Issues",
+     "section": "Course listing",
+     "pub_year": "Spring 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "Course 63123, Spring 2026, topic border enforcement in Texas; instructors Weaver and Leutert; face-to-face.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Texas Instruments, Qualcomm, Dell (2015 showcase, per search summary; not current)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "Electrical and Computer Engineering Capstone Design",
+   "local_id": "S2",
+   "official_name": "Capstone Design Program (ECE)",
+   "description": "Year-long senior capstone: teams of 5-7 ECE seniors select company-submitted open-ended engineering projects; each team has a faculty advisor and a company technical mentor, sponsors fund and attend weekly/biweekly meetings and the final showcase.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Chandra Family Department of Electrical and Computer Engineering, Cockrell School",
+   "eligible_faculties_programmes": "ECE seniors",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "ECE seniors",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated on page fetched",
+   "duration": "Full year",
+   "delivery_format": "Team sponsored project",
+   "project_based": "Yes",
+   "project_evidence": "Open-ended real-world engineering problems with showcase [1].",
+   "group_working": "Yes",
+   "group_evidence": "'working in teams of 5-7' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies submit projects, fund them, provide a technical mentor (1 hr/week first month, then 30 min) and attend meetings and showcase [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor: submits project, mentors, attends showcase",
+   "deliverable": "Engineering prototype/design and showcase",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (page copyright only)",
+   "unresolved": "No dated cohort or sponsor list for 2025/26-2026/27 found; 'all senior students complete' is page wording.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.ece.utexas.edu/engage/capstone",
+     "title": "Capstone Design Program",
+     "section": "Program page",
+     "pub_year": "undated (footer 2025)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "'a yearlong Capstone Design course'; 'all senior students in the Chandra Family Department of Electrical and Computer Engineering complete' it; teams of 5-7; each team has a faculty advisor and a company technical mentor; sponsors provide funding, materials, technical feedback, final showcase.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ME266K / ME266P",
+   "named_partners": "Ford, NASA, Shell (page, undated)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "Mechanical Engineering Senior Capstone Design",
+   "local_id": "S3",
+   "official_name": "Mechanical Engineering Senior Capstone Projects (ME266K/ME266P)",
+   "description": "Second half of the required ME senior design sequence: teams of three to four seniors work on open-ended engineering problems submitted by industry sponsors (past/current sponsors include Ford, NASA, Shell).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Walker Department of Mechanical Engineering",
+   "eligible_faculties_programmes": "Mechanical Engineering seniors",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Semester (second half of sequence)",
+   "delivery_format": "Team sponsored project",
+   "project_based": "Yes",
+   "project_evidence": "Sponsors submit open-ended engineering problems [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a team of three to four senior students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry sponsors submit the problem; page lists sponsors such as Ford, NASA, Shell [1]. Role beyond submitting problem (mentoring/feedback) not quoted.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor: submits engineering problem",
+   "deliverable": "Engineering design project",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "No dated cohort; NASA is a public body so partner_type may be Mixed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.me.utexas.edu/academics/undergraduate-program/senior-design-projects",
+     "title": "Senior Capstone Projects",
+     "section": "Program page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "Projects worked by 'a team of three to four senior students'; sponsors include Ford, NASA, Shell; 'required of all UT Austin Mechanical Engineering seniors'; ME266K/ME266P.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "MAN385",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "Startup Consulting Practicum",
+   "local_id": "S4",
+   "official_name": "Startup Consulting Practicum (MAN385) / TVL Accelerator",
+   "description": "Campus-wide graduate course in which students consult for Texas startups drawn from the Texas Venture Labs / Brumley Accelerator over a semester (market validation, competitive, financial and business model analysis).",
+   "academic_reach": "University-wide",
+   "admin_host": "Brumley Institute for Graduate Entrepreneurship, McCombs",
+   "eligible_faculties_programmes": "Graduate students from all majors",
+   "faculty_areas": [
+    "business",
+    "central"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Graduate students; application",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course credit (hours not stated)",
+   "duration": "One semester (search summary: 14 weeks, up to 200 hours)",
+   "delivery_format": "Consulting practicum",
+   "project_based": "Yes",
+   "project_evidence": "Semester-long work covering market validation, competitive analysis, financial analysis and business model assessment for two startups [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page says students 'work closely with two startups' and works 'across disciplines' but states no team size; teams stated only in a search summary [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Startups from the Accelerator are the clients [1]. Startups are external businesses, though whether any are university-affiliated spin-outs is not stated.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client startup",
+   "deliverable": "Consulting analysis (format not stated)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026 / Spring 2027 applications open",
+   "unresolved": "Team structure; named startups; credit hours.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mccombs.utexas.edu/centers-initiatives/brumley-institute/startup-practicum/",
+     "title": "Brumley: Startup Consulting Practicum",
+     "section": "Course page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "'Graduate students from all majors are welcome'; works with two startups from the Accelerator, Fall 2026 cohort; applications for Spring 2027 open; MAN385; students earn course credit.",
+     "supports": [
+      "project",
+      "employer",
+      "reach",
+      "eligibility",
+      "status",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Clorox, PwC, Dow etc. per search summary (undated; not verified on page)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "McCombs+ Projects (MBA micro-consulting)",
+   "local_id": "S5",
+   "official_name": "McCombs+ Projects",
+   "description": "8-10 week micro-consulting projects staffed by MBA student teams for external organisations with a defined business challenge; teams deliver strategic recommendations based on the partner's data. Co-curricular, not for credit.",
+   "academic_reach": "Programme/course",
+   "admin_host": "McCombs MBA Programs",
+   "eligible_faculties_programmes": "All five McCombs MBA programmes",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "MBA students",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "'not for class credit'",
+   "duration": "8-10 weeks",
+   "delivery_format": "Team micro-consulting",
+   "project_based": "Yes",
+   "project_evidence": "Defined business challenge with deliverables and strategic recommendations [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Projects are staffed by MBA student teams' [1]; teams of 4-6 per a search summary only.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisations 'of all sizes and sectors' apply with a challenge, supply data, spend 1-2 hrs/week and receive recommendations [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: supplies challenge and data; receives recommendations",
+   "deliverable": "Strategic recommendations",
+   "duration_band": "1-4 weeks to ~1 term (8-10 weeks)",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (page footer only)",
+   "unresolved": "No dated cohort; whether MBA-only counts as reach beyond one programme.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mccombs.utexas.edu/graduate/mba/mccombsplus-project-partners/",
+     "title": "McCombs+ Project Partners",
+     "section": "Partner page",
+     "pub_year": "undated (footer 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "'8-10-week micro-consulting projects'; 'We welcome partners of all sizes and sectors'; 'the project is not for class credit'; partners spend one to two hours per week.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "State Farm (Spring 2025); Texas Athletics marketing team (internal UT unit, Spring 2025); Dell Technologies, Create Amor (past)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "The Lab agency-style client programme",
+   "local_id": "S6",
+   "official_name": "The Lab (Stan Richards School of Advertising & Public Relations)",
+   "description": "Student agency in the Moody College where advertising and PR students work in teams on real client campaigns, e.g. a Spring 2025 State Farm integrated campaign and a Texas Athletics campaign presented to the client; past clients Dell Technologies, Create Amor.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Moody College of Communication",
+   "eligible_faculties_programmes": "Advertising and PR students",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior (per article)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "Semester",
+   "delivery_format": "Agency-style team client campaign",
+   "project_based": "Yes",
+   "project_evidence": "Fully integrated campaign (strategy, media, PR, creative) [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students work in teams with departments and a team VP presenting to the client [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "State Farm set the challenge and received the presentation; concepts to appear on State Farm channels [1]. Texas Athletics client is an internal university unit.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: sets brief, receives campaign presentation",
+   "deliverable": "Integrated campaign",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Spring 2025 (article Sept 2025)",
+   "unresolved": "Credit/course number, participation requirement and 2025/26 cohort not given; mix of external and internal clients.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://moody.utexas.edu/news/the-lab-student-success",
+     "title": "Real clients and real campaigns create real student success",
+     "section": "News",
+     "pub_year": "29 Sept 2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "Spring 2025 cohort produced a State Farm campaign and a Texas Athletics campaign; 'works like a strategic communication agency rather than a typical course'; past clients Dell Technologies, Create Amor.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ES 277K / ES 277L / ES 177L",
+   "named_partners": "Siempre Amigos, CASA, United Way Jamaica, Simeonidis Tours, YMCA Thessaloniki (current NGO partners, page 2026)",
+   "participation_data": "",
+   "legacy_ref": "Projects with Underserved Communities (PUC)",
+   "likely_duplicate_of": "",
+   "english_name": "Projects with Underserved Communities",
+   "local_id": "S7",
+   "official_name": "Projects with Underserved Communities (PUC)",
+   "description": "Year-long service-learning project sequence (fall, spring, May Term) for engineering and social work undergraduates delivering community-prioritised projects (clean water, stoves, sanitation, clinics) in partner communities abroad with international NGO partners.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Texas Global / Cockrell / Steve Hicks School of Social Work",
+   "eligible_faculties_programmes": "Engineering and social work undergraduates",
+   "faculty_areas": [
+    "engineering_computing",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "Engineering and social work undergraduates",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Yearlong sequence ES 277K/277L/177L; hours not stated",
+   "duration": "Fall + spring + May Term",
+   "delivery_format": "Team community project with travel",
+   "project_based": "Yes",
+   "project_evidence": "Projects such as clean water access, stoves, sanitation; served 18,300+ people [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page headed 'Team Projects' but fetched text does not describe team structure [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Lists international NGO partners (Siempre Amigos, CASA, United Way Jamaica, YMCA Thessaloniki) but their role in setting the brief or receiving outputs is not shown in the fetched text; communities are beneficiaries [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Partner NGOs/communities (role unclear)",
+   "deliverable": "Built community infrastructure",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (applications to 14 Aug 2026)",
+   "unresolved": "Team structure and partner role; service-learning so may fall under exclusion if role is beneficiary only.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities",
+     "title": "Projects with Underserved Communities",
+     "section": "Programme page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised/quoted)",
+     "extract": "'Engineering and social work undergraduate students'; yearlong ES 277K, ES 277L, ES 177L; priority deadline April 6, 2026, applications accepted through August 14, 2026; NGO partners listed.",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility",
+      "status",
+      "credit"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Harkey Institute venture-creation programmes",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Student venture creation, mentoring and ecosystem links; no external-organisation-set project evidenced; not researched further in reduced-depth mode.",
+   "source_url": "https://www.mccombs.utexas.edu/centers-initiatives/harkey-institute-for-entrepreneurial-studies/",
+   "status_note": "Undated page; intake unverified"
+  },
+  {
+   "name": "Impact Lab practicums (CNS Office of Experiential Learning)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Open to all; student-initiated projects with external feedback from healthcare, policy and community partners; fetched page does not show partners supply the brief, or team size. Search summary claims partners present problems, not confirmed on the page.",
+   "source_url": "https://exl.cns.utexas.edu/impact-lab/courses",
+   "status_note": "Spring 2027 courses listed"
+  },
+  {
+   "name": "Freshman Research Initiative",
+   "legacy": false,
+   "category": "Dissertation/research",
+   "reason": "Faculty-led research streams; industry streams only possible/undated (2018).",
+   "source_url": "https://cns.utexas.edu/fri/community/industry-partners",
+   "status_note": ""
+  },
+  {
+   "name": "Bridging Disciplines Programme, LIFT, Corporate Finance/Venture Labs Fellows, Energy Ventures Practicum, Tower & Bridge, Integrated Communications Campaigns, CLD 371, aerospace/biomedical/materials capstones",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Leads from search summaries only; not opened (reduced-depth).",
+   "source_url": "https://cockrell.utexas.edu/connect/industry-engagement/student-projects-and-programs/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "UT Austin has several employer-linked team routes, distributed by school rather than institution-wide. The strongest is the LBJ School Policy Research Project, a year-long second-year MPAff capstone in which teams work for a real client (agencies, school district, foundations) and deliver a report; a Spring 2026 section is listed. Cockrell ECE and ME require senior capstones with company-submitted projects (teams of 5-7 and 3-4; company technical mentors in ECE), but pages are undated. McCombs offers MBA micro-consulting (McCombs+ Projects, 8-10 weeks, extracurricular) and a campus-wide graduate Startup Consulting Practicum (applications open for Fall 2026 and Spring 2027, team structure unstated). Moody's The Lab runs agency-style campaigns for clients such as State Farm (Spring 2025), though some clients, e.g. Texas Athletics, are internal units. The legacy PUC service-learning sequence is open to engineering and social work undergraduates (applications to August 2026), but team structure and NGO roles are not evidenced. No university-wide scheme was verified.",
+ "gaps": "Law, health, design and architecture not searched. Further departmental capstones likely (aerospace, biomedical, materials, CS). 2026/27 client rosters not found. Harkey Institute not researched."
+}

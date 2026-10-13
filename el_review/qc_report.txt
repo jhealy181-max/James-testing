@@ -103,3 +103,11 @@ WARN | UK28 | UK28-S01 | University-wide reach without source tagged reach/eligi
 WARN | UK28 | UK28-S04 | employer-connected Yes but partner type Unclear
 WARN | UK29 | UK29-S04 | employer-connected Yes but partner type Unclear
 WARN | US02 | US02-S03 | employer-connected Yes but partner type Unclear
+WARN | US08 | US08-S06 | employer-connected Yes but partner type Unclear
+WARN | US08 | US08-S07 | employer-connected Yes but partner type Unclear
+WARN | US10 | US10-S02 | group=Yes but group evidence mentions individual work
+WARN | US10 | US10-S04 | University-wide reach without source tagged reach/eligibility
+WARN | US15 | US15-S02 | employer-connected Yes but partner type Unclear
+WARN | US15 | US15-S04 | employer-connected Yes but partner type Unclear
+WARN | US15 | US15-S06 | employer-connected Yes but partner type Unclear
+WARN | US17 | US17-S02 | possible simulation marked employer-connected — check
