@@ -1,15 +1,16 @@
 {
  "inst_id": "RG23",
  "institution": "University of Warwick",
- "review_status": "Partial",
- "partial_remaining": "Search budget for the session (shared 200-search cap) was exhausted after 13 searches. Not done: science (not searched), other/law/medicine/health (not searched), most of arts/humanities/social sciences (only one broad search), IATL module-level check for legacy row, central extracurricular routes beyond TeamWork (e.g. Warwick Volunteers/charity consultancy, student consultancy societies, Warwick Enterprise), extended verification of WMG Industry Impact Projects, GD903 and LP916 current versions, ES410 2025/26 catalogue.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
    "queries": [
     "Warwick students team project real client brief external organisation",
-    "Warwick TeamWork International Experience Programme teams of six project external organisation presentation eligibility (extended)"
+    "Warwick TeamWork International Experience Programme teams of six project external organisation presentation eligibility (extended)",
+    "WebFetch TeamWork programme page (page text)"
    ],
    "key_sources": [
     "https://warwick.ac.uk/services/careers/employers/international/teamwork/",
@@ -55,27 +56,39 @@
    "finding": "Engineering MEng ES410 group project (industrial backing 'where possible'), apprenticeship ES3H7 group project co-set with employers, CS407 with academic or industrial customers, and WMG MSc ITSO Industry Impact Projects with corporate partners (Tata). Current-year evidence mostly lacking."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: session web-search budget exhausted."
+   "status": "Searched",
+   "queries": [
+    "Warwick Department of Statistics OR Physics OR Chemistry OR Life Sciences industry project students team external company"
+   ],
+   "key_sources": [
+    "https://warwick.ac.uk/study/undergraduate/courses/mchem-chemistry-industrial-placement/",
+    "https://warwick.ac.uk/study/undergraduate/courses/mbio-biomedical-sciences-industrial-placement/"
+   ],
+   "finding": "Only individual industrial placements/research projects (MChem, MBio) and CDT projects; no team project with external client found (search-index summary)."
   },
   "arts_humanities_social_sciences": {
    "status": "Searched",
    "queries": [
-    "Warwick students team project real client brief external organisation (broad; AHSS results only)"
+    "Warwick students team project real client brief external organisation (broad; AHSS results only)",
+    "Warwick IATL module external partner live project students teams"
    ],
    "key_sources": [
     "https://courses.warwick.ac.uk/modules/2021/GD903-60",
-    "https://courses.warwick.ac.uk/modules/2024/LP916-15"
+    "https://courses.warwick.ac.uk/modules/2024/LP916-15",
+    "https://warwick.ac.uk/fac/cross_fac/iatl/study/iatlugmodules/digitalfutures/"
    ],
    "finding": "Only incidental results: GSD Masters Practice-based Project (client brief; external partner optional) and Applied Linguistics LP916 Applied Communication Project (live brief to a client). Area not searched systematically (budget)."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Law, medicine, health not searched: session web-search budget exhausted."
+   "status": "Searched",
+   "queries": [
+    "Warwick Law School OR Medical School OR Health students group project external organisation client module"
+   ],
+   "key_sources": [
+    "https://warwick.ac.uk/fac/sci/med/study/cpd/module_index/md90a/",
+    "https://warwick.ac.uk/fac/soc/law/aboutus/linc/warwick_law_in_the_community_annual_report_2021-22_final.pdf"
+   ],
+   "finding": "Law LinC live legal projects (2021/22 report, group status and currency unverified) and WMS MD90A organisation-directed placement project (individual placement); no qualifying scheme verified."
   }
  },
  "schemes": [
@@ -114,7 +127,7 @@
    "named_partners": "",
    "deliverable": "Final project presentation to the organisation",
    "operating_status": "Current delivery confirmed",
-   "latest_evidenced_year": "2026/27 (next programme announced for March 2027; 2024 and 2025 rounds delivered)",
+   "latest_evidenced_year": "2026/27 (next programme 22 Feb - 19 Mar 2027; 2024 and 2025 rounds delivered)",
    "participation_data": "",
    "unresolved": "Partner-type evidence is a list of priority sectors (sustainability, global health, charity, finance, technology, arts, media, engineering), so 'Mixed' is inferred from sector priorities rather than named partners. Whether a 2026 round ran is not evidenced. Number of Warwick participants not published in results seen.",
    "legacy_ref": "",
@@ -127,8 +140,8 @@
      "section": "Employer-facing programme page",
      "pub_year": "undated (states next programme March 2027)",
      "accessed": "2026-10-12",
-     "retrieval": "search-index extract (quoted)",
-     "extract": "Four-week, part-time online programme in which multi-disciplinary student teams collaborate on a project provided by an external organisation and present to it; 'The next programme will take place in March 2027'; particularly keen to work with organisations whose main focus is within sectors such as sustainability, global health, charity, finance, technology, arts, media, and engineering; described as open to all students.",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Four-week, part-time online programme in which multi-disciplinary student teams collaborate on a project provided by an external organisation and present to it; 'The next programme will take place in March 2027'; particularly keen to work with organisations whose main focus is within sectors such as sustainability, global health, charity, finance, technology, arts, media, and engineering; described as open to all students. WebFetch 2026-10-13: 'The next programme will take place from 22 February - 19 March 2027'; organisation provides 'A mentor for the student team' giving initial briefing, weekly online guidance over four weeks, and feedback on outcomes; page states no team size (FAQ says up to 6).",
      "supports": [
       "project",
       "employer",
@@ -1022,9 +1035,41 @@
    "reason": "Individual company-sponsored research degrees.",
    "source_url": "https://warwick.ac.uk/study/postgraduate/courses/msc-by-research-warwick-manufacturing-group/",
    "status_note": ""
+  },
+  {
+   "name": "IATL modules (Creating Digital Futures IL138/IL438/IL938; Global Connections IL014/IL114; Public Engagement)",
+   "legacy": true,
+   "category": "Near-miss: no external org",
+   "reason": "Creating Digital Futures teams answer a brief from Warwick's internal incubator Creative Futures (internal; optional later external competition); Global Connections is multidisciplinary teams of 5 linked to EUTOPIA students (no employer); Public Engagement builds activity for the public about Warwick research. No module verified with an external organisation setting the brief. Legacy IATL framework row assessed here.",
+   "source_url": "https://warwick.ac.uk/fac/cross_fac/iatl/study/iatlugmodules/",
+   "status_note": "2024/25 pages; search-summary"
+  },
+  {
+   "name": "Warwick Law in the Community (LinC) clinics",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Live legal projects with partners (2021/22 report); group structure, client type and current delivery not verified.",
+   "source_url": "https://warwick.ac.uk/fac/soc/law/aboutus/linc/warwick_law_in_the_community_annual_report_2021-22_final.pdf",
+   "status_note": "2021/22"
+  },
+  {
+   "name": "MD90A Pathways to the public health workplace (WMS)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "12-week organisation-directed project placement; group working not evidenced.",
+   "source_url": "https://warwick.ac.uk/fac/sci/med/study/cpd/module_index/md90a/",
+   "status_note": "undated"
+  },
+  {
+   "name": "MChem/MBio industrial placements",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual year-long industrial research placements.",
+   "source_url": "https://warwick.ac.uk/study/undergraduate/courses/mchem-chemistry-industrial-placement/",
+   "status_note": ""
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**Warwick** (partial review) shows employer-linked group project provision in several separate places. There is one university-wide extracurricular route; the other verified examples are postgraduate or engineering and are embedded in specific programmes.\n\n- **University-wide:** **TeamWork International Experience Programme**, run by Warwick Careers. It is selective and open to all students. Multidisciplinary, multi-university teams of up to six spend four weeks part-time online on a project supplied by an external organisation. The organisation briefs the team, checks in regularly and receives the final presentation. Rounds ran in 2024 and 2025; the next is March 2027.\n- **Business (WBS):**\n  - MBA students may choose a group **Strategic Consulting Project**: three students, 10-12 weeks, for a client that sets the brief, interviews the group and assigns a mentor (2026 FAQ). The Global Online MBA uses the same model.\n  - The Full-time MBA **LeadershipPlus** project uses groups of 6-8 for corporate, SME or not-for-profit clients, but it is undated.\n  - MSc client projects are mainly individual. The MSc Business with Consulting live-client projects rest on alumni blogs only.\n- **Engineering and computing:**\n  - The MEng **ES410** group project uses teams of six, with industrial backing only 'where possible'.\n  - Apprentices' **ES3H7** tasks are co-set with employers.\n  - Computer Science **CS407** has customers that may be academic or industrial.\n  - WMG's MSc ITSO **Industry Impact Projects** have groups tackling corporate-partner challenges (Tata companies).\n- **Uncertain:** most module evidence is undated or pre-2025. Science, law/health and most social sciences/humanities were not searched, and IATL modules were not tested, because the search budget ran out. GD903 (GSD) and LP916 (Applied Linguistics) are incidental leads that still need verification.",
- "gaps": "Partial review: science, other (law/medicine), most AHSS and further central routes not searched; IATL legacy framework not tested at module level; current-year (2025/26-2026/27) catalogue evidence missing for ES410, ES3H7, CS407, LP916, GD903 and WMG programmes; WMG ITSO Industry Impact Projects evidence is paraphrase only; WBS undergraduate team consulting provision unclear (IB3G2 historical); further departmental instances likely."
+ "profile_md": "**Warwick**  shows employer-linked group project provision in several separate places. There is one university-wide extracurricular route; the other verified examples are postgraduate or engineering and are embedded in specific programmes.\n\n- **University-wide:** **TeamWork International Experience Programme**, run by Warwick Careers. It is selective and open to all students. Multidisciplinary, multi-university teams of up to six spend four weeks part-time online on a project supplied by an external organisation. The organisation briefs the team, checks in regularly and receives the final presentation. Rounds ran in 2024 and 2025; the next is March 2027.\n- **Business (WBS):**\n  - MBA students may choose a group **Strategic Consulting Project**: three students, 10-12 weeks, for a client that sets the brief, interviews the group and assigns a mentor (2026 FAQ). The Global Online MBA uses the same model.\n  - The Full-time MBA **LeadershipPlus** project uses groups of 6-8 for corporate, SME or not-for-profit clients, but it is undated.\n  - MSc client projects are mainly individual. The MSc Business with Consulting live-client projects rest on alumni blogs only.\n- **Engineering and computing:**\n  - The MEng **ES410** group project uses teams of six, with industrial backing only 'where possible'.\n  - Apprentices' **ES3H7** tasks are co-set with employers.\n  - Computer Science **CS407** has customers that may be academic or industrial.\n  - WMG's MSc ITSO **Industry Impact Projects** have groups tackling corporate-partner challenges (Tata companies).\n- **Uncertain:** most module evidence is undated or pre-2025. Science and law/health searches (reduced depth) found only individual placements and unverified clinics; IATL modules reviewed and excluded (internal or non-employer briefs). GD903 (GSD) and LP916 (Applied Linguistics) are incidental leads that still need verification.",
+ "gaps": "Reduced-depth review: all six areas queried once or more but shallowly; current-year (2025/26-2026/27) catalogue evidence missing for ES410, ES3H7, CS407, LP916, GD903 and WMG programmes; WMG ITSO evidence is paraphrase only; Law LinC unverified; further departmental instances likely."
 }

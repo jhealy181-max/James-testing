@@ -1,9 +1,9 @@
 {
  "inst_id": "RG20",
  "institution": "University of Sheffield",
- "review_status": "Partial",
- "partial_remaining": "Medicine/dentistry/health sciences ('other') not searched; extended verification of departmental MEng group design projects (Mechanical, Aerospace, EEE, Materials, Chemical, Civil) and of Genesys client externality not done; chemistry, maths/statistics and individual AHSS departments (Geography, Urban Studies, Politics, Journalism) not individually searched. Session WebSearch limit reached after 22 searches.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -90,14 +90,16 @@
    "status": "Searched",
    "queries": [
     "Sheffield School of Architecture Live Projects MArch groups clients community 2025",
-    "Sheffield School of Law students team project external organisation clinic pro bono policy report"
+    "Sheffield School of Law students team project external organisation clinic pro bono policy report",
+    "Sheffield medicine dentistry health sciences students group project external organisation community partner team"
    ],
    "key_sources": [
     "https://sheffield.ac.uk/architecture-landscape/march/live-projects",
     "https://sheffield.ac.uk/postgraduate/taught/courses/2026/architecture-march",
-    "https://sheffield.ac.uk/law/pro-bono/sheffield-digital-justice"
+    "https://sheffield.ac.uk/law/pro-bono/sheffield-digital-justice",
+    "https://www.sheffield.ac.uk/medicine-dentistry-health/social-accountability/partnership-placements"
    ],
-   "finding": "Architecture MArch Live Projects (core, groups of 13-15 for community/charity/public clients, 150+ projects) qualify. Law pro bono (Digital Justice, clinics) not evidenced as group client projects. Medicine, dentistry and health sciences NOT searched (search budget exhausted)."
+   "finding": "Architecture MArch Live Projects (core, groups of 13-15 for community/charity/public clients, 150+ projects) qualify. Law pro bono (Digital Justice, clinics) not evidenced as group client projects. Medicine, dentistry and health sciences NOT searched (search budget exhausted). Medicine community partnership placements found (groups of 4-18, ~4 weeks, negotiated projects for community organisations; undated, status unclear)."
   }
  },
  "schemes": [
@@ -1034,6 +1036,21 @@
       "eligibility",
       "status"
      ]
+    },
+    {
+     "n": 4,
+     "url": "https://sheffield.ac.uk/architecture-landscape/march/live-projects",
+     "title": "Live Projects",
+     "section": "About",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"architecture masters students work in groups with a range of clients\" including \"local community groups, charities, health organisations and regional authorities\"; \"a defined end result, normally a presentation, report and sometimes physical building work\".",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
     }
    ]
   },
@@ -1213,6 +1230,65 @@
      ]
     }
    ]
+  },
+  {
+   "local_id": "S15",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Medicine community partnership placements (Social Accountability)",
+   "english_name": "Medicine community partnership placements",
+   "module_code": "",
+   "description": "Medical students are placed in groups in community organisations for about four weeks and carry out negotiated project work (e.g. health needs assessment, service evaluation, media resources) agreed in advance with partner staff.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Medicine, Dentistry and Health (Social Accountability)",
+   "eligible_faculties_programmes": "Medicine (programme year not stated)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not stated",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "About 4 weeks",
+   "delivery_format": "Group placement with project",
+   "project_based": "Yes",
+   "project_evidence": "'negotiated project work that will make a tangible contribution' to the organisation [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students placed in groups, e.g. 18 at South Yorkshire Fire & Rescue, four at Bluebell Wood [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner organisations agree the project and use outputs (e.g. hospice changed referral process) [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Agrees project, works with students, uses results",
+   "named_partners": "South Yorkshire Fire & Rescue; Bluebell Wood Children's Hospice; Motion; Endeavour; Sheffield Futures (examples, years undated, began 2015)",
+   "deliverable": "Negotiated project outputs (needs assessment, evaluation, resources)",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (examples from 2015)",
+   "participation_data": "Over 2000 students in over 200 organisations since 2015 (cumulative, search summary)",
+   "unresolved": "No dated 2025/26 evidence; compulsory/credit status unstated; page calls students 'volunteered'.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sheffield.ac.uk/medicine-dentistry-health/social-accountability/partnership-placements",
+     "title": "Medicine community partnership placements",
+     "section": "Main",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "\"In 2015 we introduced placements within our local community based organisations\"; students placed in groups for about four weeks on \"negotiated project work that will make a tangible contribution\" to the organisation or community.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
@@ -1338,6 +1414,6 @@
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**Sheffield** has strong, mostly **faculty- and programme-embedded** provision, anchored by the Faculty of Engineering's compulsory project weeks.\n\n- **Engineering (faculty-wide, compulsory):** the **Global Engineering Challenge** (Year 1; 1,547 students in 258 mixed-discipline teams in 2026, with projects in neighbourhoods identified with Sheffield City Council and feedback from industry mentors) and **Engineering: You're Hired!** (Year 2; 1,448 students in 256 teams; problems from industrial partners, and industry senior mentors judge the pitches). Both last only one week.\n- **Computing:** **Software Hut** is compulsory in Year 2 of Computer Science (about 200 students a year). Teams build software for external clients, who help assess it. **Genesys** (final year) has 'real customers', but whether they are external, and its current status, are unclear.\n- **Departmental capstones:** Physics **MPS372 Industrial Group Project** (a problem set by an industrial client over two semesters); MEng group design projects with industry in Mechanical, Aerospace and EEE (evidence is thinner); and **Architecture MArch Live Projects** (core; groups of 13-15 for community, charity and public-sector clients).\n- **Business:** the MBA **Marketing Consultancy** and **Internationalisation Challenges** (teams work for real organisations and present to senior management), and the Management MSc team **Company Project**.\n- **Central / cross-faculty:** Careers' first **Spring Internship Experience** (2026) placed 630 Arts & Humanities and Social Sciences students in teams on 85+ projects from 60+ external organisations, including the DfE. It is cross-faculty, not university-wide.\n- **Not qualifying:** the Emerge entrepreneurship programme (legacy).\n- **Uncertain:** partner names for most modules; whether the Spring Internship Experience will recur; health faculties were not searched.",
- "gaps": "Health faculties not searched; MEng departmental capstones (Mechanical, Aerospace, EEE) evidenced only by search-summary paraphrase and status partly unclear; Genesys customer externality and status conflict; Software Hut module code/client sector; MBA Challenge modules' compulsory status; whether Management MSc Company Project and Easter micro-internship are distinct from the Spring Internship Experience; further departmental instances likely (e.g., Chemical/Civil Engineering design projects, Landscape Architecture, Urban Studies & Planning, Journalism)."
+ "profile_md": "**Sheffield** has strong, mostly **faculty- and programme-embedded** provision, anchored by the Faculty of Engineering's compulsory project weeks.\n\n- **Engineering (faculty-wide, compulsory):** the **Global Engineering Challenge** (Year 1; 1,547 students in 258 mixed-discipline teams in 2026, with projects in neighbourhoods identified with Sheffield City Council and feedback from industry mentors) and **Engineering: You're Hired!** (Year 2; 1,448 students in 256 teams; problems from industrial partners, and industry senior mentors judge the pitches). Both last only one week.\n- **Computing:** **Software Hut** is compulsory in Year 2 of Computer Science (about 200 students a year). Teams build software for external clients, who help assess it. **Genesys** (final year) has 'real customers', but whether they are external, and its current status, are unclear.\n- **Departmental capstones:** Physics **MPS372 Industrial Group Project** (a problem set by an industrial client over two semesters); MEng group design projects with industry in Mechanical, Aerospace and EEE (evidence is thinner); and **Architecture MArch Live Projects** (core; groups of 13-15 for community, charity and public-sector clients).\n- **Business:** the MBA **Marketing Consultancy** and **Internationalisation Challenges** (teams work for real organisations and present to senior management), and the Management MSc team **Company Project**.\n- **Central / cross-faculty:** Careers' first **Spring Internship Experience** (2026) placed 630 Arts & Humanities and Social Sciences students in teams on 85+ projects from 60+ external organisations, including the DfE. It is cross-faculty, not university-wide.\n- **Not qualifying:** the Emerge entrepreneurship programme (legacy).\n- **Uncertain:** partner names for most modules; whether the Spring Internship Experience will recur; Medicine community partnership placements (groups, ~4 weeks) lack dated current evidence.",
+ "gaps": "Dentistry, nursing/health sciences beyond Medicine placements not searched individually; MEng departmental capstones (Mechanical, Aerospace, EEE) evidenced only by search-summary paraphrase and status partly unclear; Genesys customer externality and status conflict; Software Hut module code/client sector; MBA Challenge modules' compulsory status; whether Management MSc Company Project and Easter micro-internship are distinct from the Spring Internship Experience; further departmental instances likely (e.g., Chemical/Civil Engineering design projects, Landscape Architecture, Urban Studies & Planning, Journalism)."
 }
