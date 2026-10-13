@@ -1,0 +1,68 @@
+{
+ "inst_id": "EU08",
+ "institution": "Heidelberg",
+ "review_status": "Partial",
+ "partial_remaining": "other (law/medicine/design) and central career-service queries still to run; run in progress",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Universität Heidelberg Studierende Projekt Unternehmen Praxisprojekt Team"
+   ],
+   "key_sources": [
+    "https://www.uni-heidelberg.de/en/transfer/heiinnovation/startup-lab",
+    "https://uni-heidelberg.de/de/vom-prototyp-zum-geschaeftsmodell-und-zur-unternehmensgruendung-im-student-innovation-lab",
+    "https://www.uni-heidelberg.de/de/transfer/heiinnovation/bewerbt-euch-fuer-das-4eu-universitaetsdiplom-mit-schwerpunkt-entrepreneurship"
+   ],
+   "finding": "Central routes are hei_INNOVATION enterprise programmes (Startup Lab, Student Innovation Lab) where teams build own ventures with no external client, and a 4EU+ diploma with partner-set challenge for master/doctoral students."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Heidelberg Wirtschaftswissenschaften Praxisprojekt Unternehmen Masterstudierende Projektseminar Kooperationspartner"
+   ],
+   "key_sources": [
+    "https://www.uni-heidelberg.de/fakultaeten/wiso/awi/studium/unternehmenspraktikum.html"
+   ],
+   "finding": "No company-partner group project seminar found for economics; only a six-week individual Unternehmenspraktikum for M.Ed. students (placement)."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Heidelberg Informatik Softwarepraktikum Industriepartner Studierende Team Projekt Masterprojekt Unternehmen"
+   ],
+   "key_sources": [
+    "https://se.ifi.uni-heidelberg.de/teaching/previous_semesters/ws_201920/fopra.html"
+   ],
+   "finding": "Informatics Praktika of 2-3 students; topics from research, teaching or industry partners (WS 2019/20 only, not current); ISE external-client project only 2011-2014."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Heidelberg Biowissenschaften Chemie Physik Studierende Industriepartner Projekt Team Unternehmen Masterstudiengang Praxisphase"
+   ],
+   "key_sources": [],
+   "finding": "Only research internships in university groups; no industry group project found."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Heidelberg Studierende Teams Projekt Praxispartner Kultur Sozialwissenschaften Lehrforschungsprojekt Auftraggeber Organisation"
+   ],
+   "key_sources": [],
+   "finding": "Nothing relevant found."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "pending"
+  }
+ },
+ "schemes": [],
+ "exclusions": [],
+ "embeddedness": "Unclear",
+ "profile_md": "Interim partial file.",
+ "gaps": "interim"
+}

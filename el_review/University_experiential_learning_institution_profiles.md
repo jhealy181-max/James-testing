@@ -2181,23 +2181,33 @@ Ohio State's verified employer-linked group project provision is distributed acr
 
 ### PSL (EU01, France)
 
-**Review:** Partial — remaining: Dauphine M2 consulting projects and Mines MIG need verification; science/arts areas lightly searched · **Embeddedness:** Isolated departmental provision · **Current qualifying schemes:** 0
+**Review:** Complete · **Embeddedness:** Isolated departmental provision · **Current qualifying schemes:** 0
 
-Interim.
+Searched in English and French across six areas. The strongest route is the ENAMOMA-PSL master's (Fashion and Materials; Dauphine, Arts Décoratifs and Mines Paris): each year four external partners (companies and a sector federation, e.g. Adore Me, Fédération de la mode circulaire in 2025) set a topic and review progress while interdisciplinary student groups produce a professional-level proposal over 10 weeks. It meets all three criteria on page evidence, but the projects page is dated 2025 and delivery in 2025/26 or 2026/27 is not confirmed, so status is unclear; compulsory status and team size are not stated. Other routes are incomplete: Dauphine M2 Marketing 102 has consulting-firm group missions (Capgemini Invent, Deloitte) with unknown coverage and year; Mines Paris MIG has team-of-15 projects in a research centre or company (internal/external split unknown); PSL-iTeams is a university-wide multidisciplinary team programme but project holders are internal researchers and industry only mentors/jurors. PSL Weeks are interdisciplinary courses without a current employer link. Provision looks concentrated in individual constituent schools and programmes rather than institution-wide. Pages are mostly undated; participation figures are not published.
 
-**Uncertain / unresolved:** interim
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| EU01-S01 | Projets pédagogiques collaboratifs - Master ENAMOMA-PSL (École nationale de Mode et Matière) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2025 (2024/25 projects page); a 25-26 cohort exists but its partner projects are not evidenced |
+| EU01-S02 | PSL-iTeams | University-wide | Selective/competitive | Unclear/Yes/Unclear | Other | Potentially relevant; evidence incomplete | Announced/forthcoming 2026/27 (applications Oct 2026) |
+| EU01-S03 | Projets tutorés / challenges de cabinets partenaires - Master 2 Marketing 102 Conseil, Data et Recherche (Dauphine-PSL) | Programme/course | Unclear | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear undated |
+| EU01-S04 | Métiers de l'Ingénieur Généraliste (MIG) - Mines Paris-PSL | Programme/course | Unclear | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current status unclear 2022-2023 (brochure links) |
+
+**Uncertain / unresolved:** PSL is a federation: many constituent schools (ENS, ESPCI, Chimie ParisTech, Observatoire, Fémis, Conservatoire) were only lightly searched (1 query each area, about 8 searches total). Retrieval by WebFetch returns summarised text, so quotes are fragments. Current-year delivery unconfirmed for all routes. Further Dauphine M2 and Mines projects likely exist.
 
 ### Paris-Saclay (EU02, France)
 
-**Review:** Partial — remaining: Early save. Remaining: confirm central/other area queries, M2 communication consulting module details, Starthese legacy row disposition. · **Embeddedness:** Unclear · **Current qualifying schemes:** 1
+**Review:** Complete · **Embeddedness:** Isolated departmental provision · **Current qualifying schemes:** 2
 
-Early save.
+Paris-Saclay pages do not show a university-wide student-project scheme; employer-linked work is distributed across components. The strongest verified routes are at CentraleSupélec (a member institution): Projet SIC (3CV2500, Jean Muller projects), where teams of 3-4 work on a problem proposed by an industrial, institutional or associative 'client' who receives interim and final deliverables (2025-2026, ~240 h), and Projet S8 (groups of 5, client unnamed, C unclear). In the Faculté des Sciences d'Orsay, the GenAI26 hackathon (March 2026, 7 days, ~150 students from six AI/data programmes) had teams building prototypes for challenges set by IBM, Mastercard and SNCF Réseau. A 3-day consulting module in an M2 management/communication master involves client briefs but is described as simulated. Polytech, IUT d'Orsay, pharmacy hackathon and the legal clinic are leads without verified group/client evidence. Source pages are French; extracts translated. Uncertain: compulsory status, credits, partner coverage, and whether CentraleSupélec counts within the University perimeter.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
 | EU02-S01 | Projet SIC (3CV2500) (3CV2500) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025/26 |
+| EU02-S02 | Hackathon GenAI26 | Programme/course | Selective/competitive | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026 |
+| EU02-S03 | Projet S8 (2SL8100) (2SL8100) | Programme/course | Unclear | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2025/26 |
+| EU02-S04 | UE14 Mission de conseil (M2 Management et communication des organisations) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear undated |
 
-**Uncertain / unresolved:** Early save.
+**Uncertain / unresolved:** Further departmental capstones (Polytech, IUT SAÉ, other master projets tutorés) likely exist; IAE Paris-Saclay/Faculté Jean Monnet, medicine and Polytech not researched in depth (reduced-depth mode). Starthèse legacy row not re-fetched. Retrieval via WebFetch summaries (small-model paraphrase of French pages), not direct verbatim page text.
 
 ### Sorbonne University (EU03, France)
 
@@ -2221,7 +2231,11 @@ _Not yet reviewed in this pass._
 
 ### Heidelberg (EU08, Germany)
 
-_Not yet reviewed in this pass._
+**Review:** Partial — remaining: other (law/medicine/design) and central career-service queries still to run; run in progress · **Embeddedness:** Unclear · **Current qualifying schemes:** 0
+
+Interim partial file.
+
+**Uncertain / unresolved:** interim
 
 ### RWTH Aachen (EU09, Germany)
 

@@ -1,13 +1,12 @@
-# Checkpoint — updated 2026-10-13 23:15 UTC
+# Checkpoint — updated 2026-10-13 23:16 UTC
 
-- Complete: 92 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30
-- Partial: 2 — EU01, EU02
-- Not started: 30 — AU07, AU08, EU03, EU04, EU05, EU06, EU07, EU08, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
-- Scheme records: 777; currently qualifying: 223; exclusions: 810; sources: 1472
+- Complete: 94 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02
+- Partial: 1 — EU08
+- Not started: 29 — AU07, AU08, EU03, EU04, EU05, EU06, EU07, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
+- Scheme records: 784; currently qualifying: 224; exclusions: 820; sources: 1481
 
 ## Partial reviews: what remains
-- EU01 PSL: Dauphine M2 consulting projects and Mines MIG need verification; science/arts areas lightly searched
-- EU02 Paris-Saclay: Early save. Remaining: confirm central/other area queries, M2 communication consulting module details, Starthese legacy row disposition.
+- EU08 Heidelberg: other (law/medicine/design) and central career-service queries still to run; run in progress
 
 ## Unresolved points on schemes (evidence incomplete)
 - RG01-S06 Masters Company Projects (Birmingham Business School): Individual vs group; current-year evidence; credits for MSc variants.
@@ -330,5 +329,10 @@
 - US29-S03 IST 440W Information Sciences and Technology Integration and Problem Solving (capstone): Current 2025/26 delivery and whether external clients are standard at University Park; catalog page quoted only via search summary.
 - US30-S02 Multidisciplinary Engineering Capstone Design (ENGR 5901/5902): Share of external vs internal sponsors; other departmental capstones (ME, CBE, SIMCenter) likely distinct instances.
 - US30-S06 Second-year Transformational Experience Program (STEP): Framework umbrella; project route, team format and external organisation not established; university-wide eligibility not verified.
+- EU01-S02 PSL-iTeams: Page also carries a 'Register for 2024/2025' link; credit status; deliverable; whether external organisations pose briefs.
+- EU01-S03 Projets tutorés / challenges de cabinets partenaires - Master 2 Marketing 102 Conseil, Data et Recherche (Dauphine-PSL): Year, compulsory status, credits, which students participate.
+- EU01-S04 Métiers de l'Ingénieur Généraliste (MIG) - Mines Paris-PSL: Compulsory status, share of company projects, year.
+- EU02-S03 Projet S8 (2SL8100): Client identity and whether external; compulsory status; credits.
+- EU02-S04 UE14 Mission de conseil (M2 Management et communication des organisations): Simulation vs live client; page undated.
 
 Resume: research IDs under 'Not started'/'Partial' following RESEARCH_BRIEF.md, write results/<ID>.json, then run `python3 -I el_review/build.py`.
