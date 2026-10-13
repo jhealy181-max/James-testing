@@ -1,0 +1,519 @@
+{
+ "inst_id": "US30",
+ "institution": "Ohio State",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Ohio State STEP Signature Project second-year Transformational Experience Program",
+    "Ohio State Engage service-learning community partner course project",
+    "Ohio State university-wide experiential learning employer industry project"
+   ],
+   "key_sources": [
+    "https://step.osu.edu/about",
+    "https://service-learning.osu.edu/courses"
+   ],
+   "finding": "STEP is a mentored proposal programme with no evidenced group/employer project route. No university-wide employer-project scheme found; service-learning listed as exclusion. Cross-college Glenn PUBAFRS 5620 is open to any major."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Ohio State Fisher College of Business Multidisciplinary Action Projects MAP client company team"
+   ],
+   "key_sources": [
+    "https://fisher.osu.edu/global-opportunities/graduate/global-applied-projects-gap",
+    "https://fisher.osu.edu/global-opportunities/engage-a-fisher-global-team"
+   ],
+   "finding": "GAP graduate client consulting qualifies on A/B/C but delivery only announced. 'MAP' not found. Undergraduate Fisher Global Consulting and logistics/Lean Six Sigma projects are leads; page details not found."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Ohio State engineering capstone design industry sponsor project team",
+    "Ohio State statistics OR chemistry OR biology OR physics capstone industry client project team (also returned CSE/ME/CBE/SIMCenter capstones)"
+   ],
+   "key_sources": [
+    "https://eed.osu.edu/academics/undergraduate/multidisciplinary-engineering-capstone-design",
+    "https://mae.osu.edu/undergraduate-mechanical-engineering/mechanical-engineering-capstone"
+   ],
+   "finding": "Large sponsored team capstone provision, but external vs internal sponsor share not established."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Ohio State statistics OR chemistry OR biology OR physics capstone industry client project team"
+   ],
+   "key_sources": [
+    "https://simcenter.osu.edu/education/capstone"
+   ],
+   "finding": "No statistics, physics, chemistry or biology client-capstone found in search; SIMCenter capstone (industry-sponsored simulation projects) and CBE capstone are leads only, not opened."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Ohio State Arts and Sciences OR Glenn College OR communication capstone client nonprofit team project course",
+    "Rapid Innovation for Public Impact PUBAFRS 5620 Glenn College 2026"
+   ],
+   "key_sources": [
+    "https://asccareersuccess.osu.edu/employers-alumni/capstone-project-industry-partners",
+    "https://glenn.osu.edu/5620-sample-syllabus"
+   ],
+   "finding": "ASC industry-partner capstone and Glenn 5620 meet A/B/C in the design of the course but lack dated delivery evidence. Glenn PUBAFRS 7950 nonprofit capstone is a lead."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Ohio State engineering capstone design industry sponsor project team (returned Industrial Design capstone)",
+    "Ohio State College of Public Health OR Nursing OR Law OR Architecture student team project community partner client studio 2026"
+   ],
+   "key_sources": [
+    "https://design.osu.edu/news/ohio-state-industrial-design-welcomes-2025-2026-capstone-partners"
+   ],
+   "finding": "Industrial Design capstone with named external sponsors in 2025/26 qualifies. Nothing specific found for public health, nursing, law, architecture."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Global Applied Projects (GAP)",
+   "english_name": "Global Applied Projects (GAP)",
+   "module_code": "MBA spring course (code not stated)",
+   "description": "Optional graduate capstone-like course at Fisher College of Business: teams of 4-6 students, advised by a faculty functional expert, solve a business challenge for a host organisation over a 14-week spring semester, ending in a virtual presentation, analysis and recommendations to the client. Hosts include multinationals, start-ups, nonprofits and government agencies.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Fisher College of Business, Office of Global Business",
+   "eligible_faculties_programmes": "Fisher MBA (full-time second-year with 3.0 GPA and Business Lab Challenge MBA 6292; working-professional MBA with 35 graded hours); other graduate students per search summary",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Second-year full-time MBA / late-stage working-professional MBA",
+   "eligibility_restrictions": "Core courses with B or better; GPA 3.0; application required (deadline 1 Oct 2026)",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "3 credits, graded (page calls it both 'elective' and 'required three-credit spring course')",
+   "duration": "14-week spring semester",
+   "delivery_format": "Team client consulting project, remote and in person",
+   "project_based": "Yes",
+   "project_evidence": "Teams deliver 'a virtual presentation of project findings, an in-depth analysis, and specific, actionable recommendations to the client' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams of 4 - 6 students' advised by a faculty functional expert [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host organisations (multinationals, start-ups, nonprofits, government agencies) supply the challenge and receive findings and recommendations as client [1]; search summary: about 50 hosts since 2013 (fisher.osu.edu GAP page).",
+   "partner_type": "Mixed",
+   "partner_role": "Host/client: sets business challenge, receives presentation and recommendations",
+   "named_partners": "Drei Bond (JobsOhio-sponsored), per search summary of news.osu.edu article (not opened)",
+   "deliverable": "Virtual presentation, analysis, actionable recommendations",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2026 (application deadline 1 Oct 2026)",
+   "participation_data": "Approx. 50 host companies and more than 300 graduate students since 2013 (cumulative; search summary of Fisher GAP page)",
+   "unresolved": "Page states course 'starts in January, 2024' alongside a 2026 deadline; no confirmed 2025/26 or 2026/27 cohort delivery, so not 'Current delivery confirmed'. Elective vs required wording conflicts.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://fisher.osu.edu/global-opportunities/graduate/global-applied-projects-gap",
+     "title": "Global Applied Projects (GAP)",
+     "section": "Programme page",
+     "pub_year": "2026 footer; deadline 1 Oct 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "teams of 4 - 6 students; 14-week spring semester; 3 credits; hosts: 'industry-leading multinational corporations,' 'market disrupting start-ups,' 'mission-driven nonprofit organizations,' and 'governmental agencies'; 'an optional experiential learning capstone-like opportunity'; 'application deadline is set for October 1, 2026'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Multidisciplinary Engineering Capstone Design (ENGR 5901/5902)",
+   "english_name": "Multidisciplinary Engineering Capstone Design",
+   "module_code": "ENGR 5901.01 / 5902.01 (industry-sponsored projects)",
+   "description": "Senior capstone option run by the Department of Engineering Education: multidisciplinary student teams (engineering plus business, industrial design, MBA, humanities students) complete sponsored design projects over two semesters with a faculty advisor and sponsor liaison; presented at the college Capstone Design Showcase. The Mechanical Engineering page lists the multidisciplinary option with teams 'typically four to six students'.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Department of Engineering Education, College of Engineering",
+   "eligible_faculties_programmes": "Senior engineering students from multiple disciplines; some non-engineering participants",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "Not stated on pages read",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Courses ENGR 5901.01/5902.01; credit hours not stated",
+   "duration": "Two semesters (ENGR 5901.01 and .02) per MAE page",
+   "delivery_format": "Team design project with sponsor liaison",
+   "project_based": "Yes",
+   "project_evidence": "Sponsored design projects culminating in showcase presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "MAE page: multidisciplinary 'Teams of students (typically four to six students)' [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "EED page: more than 50 sponsoring organisations over 100 projects [1]; MAE page: 'each sponsor supplies a liaison for the entire length of the project' [2]; 2026 news: 'many' capstones industry-sponsored [3]. Search summary indicates older project lists include many internal Ohio State sponsors, and no page states external organisations are the norm for this route, so Unclear.",
+   "partner_type": "Unclear",
+   "partner_role": "Sponsor supplies project and liaison",
+   "named_partners": "Honda, GE Aerospace, NASA, Nationwide Children's etc. named only in search summary (not opened); not asserted",
+   "deliverable": "Design project/prototype, showcase presentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Capstone Design Showcase, 28 April 2026)",
+   "participation_data": "More than 600 students, 100+ projects, 50+ sponsors cumulative since 2009 (EED page); more than 1,000 seniors presented team capstones at 2026 showcase across the college (all capstones, not only this route)",
+   "unresolved": "Share of external vs internal sponsors; other departmental capstones (ME, CBE, SIMCenter) likely distinct instances.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://eed.osu.edu/academics/undergraduate/multidisciplinary-engineering-capstone-design",
+     "title": "Multidisciplinary Engineering Capstone Design",
+     "section": "Programme page",
+     "pub_year": "2026 footer",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Since creation in 2009; more than 50 sponsoring organizations, 100+ completed projects, 600+ students; run as ENGR 5901.01 and 5902.01; students from engineering, business, industrial design, MBA, humanities.",
+     "supports": [
+      "project",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://mae.osu.edu/undergraduate-mechanical-engineering/mechanical-engineering-capstone",
+     "title": "Mechanical Engineering Capstone",
+     "section": "Multidisciplinary option",
+     "pub_year": "2026 footer",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "'Teams of students (typically four to six students)'; 'each sponsor supplies a liaison for the entire length of the project'; two semesters.",
+     "supports": [
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://engineering.osu.edu/news/2026/05/students-demonstrate-innovation-inaugural-design-showcase",
+     "title": "Students demonstrate innovation at inaugural Design Showcase",
+     "section": "News",
+     "pub_year": "2026-05-21",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "More than 1,000 seniors presented team capstone projects; many sponsored by industry partners (no sponsors named).",
+     "supports": [
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industrial Design Capstone (Design Research III 5201 and Advanced Industrial Design I 5101)",
+   "english_name": "Industrial Design sponsored capstone",
+   "module_code": "DESIGN 5201 / 5101 (as named in news item)",
+   "description": "Final-year Industrial Design capstone in which one student team (four or five students) is paired with each sponsor and takes the sponsor's theme from problem framing to prototyping and a final proposal, shown at a Spring 2026 exhibition.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Design, Ohio State",
+   "eligible_faculties_programmes": "Industrial Design students",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Capstone year",
+   "eligibility_restrictions": "Not stated",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Two courses (5201, 5101); credits not stated",
+   "duration": "One capstone semester",
+   "delivery_format": "Sponsored team design studio",
+   "project_based": "Yes",
+   "project_evidence": "Work 'from problem identification and framing to prototyping and final proposal'; exhibition [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of four or five, one team per sponsor [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Four named sponsors (Honda, Huntington National Bank, ODNR Division of Parks & Watercraft, Neighborhood Design Center); teams 'work in close collaboration with sponsoring organizations' [1]. One team per sponsor, so external sponsors are the documented model for this cohort.",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor: supplies theme/problem and collaborates with team",
+   "named_partners": "Honda Development & Manufacturing of America; Huntington National Bank; ODNR Division of Parks & Watercraft; Neighborhood Design Center (2025-26)",
+   "deliverable": "Prototype and final proposal; Spring 2026 exhibition",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "4 sponsor teams (Honda team of five, other three teams of four) in 2025-26",
+   "unresolved": "Whether capstone is compulsory for all Industrial Design majors; credit hours; whether sponsors are recruited every year.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://design.osu.edu/news/ohio-state-industrial-design-welcomes-2025-2026-capstone-partners",
+     "title": "Ohio State Industrial Design Welcomes 2025-2026 Capstone Partners",
+     "section": "News",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Four sponsors listed; teams of four or five, one per sponsor (Honda five members); 'from problem identification and framing to prototyping and final proposal'; final presentations at Spring 2026 exhibition; courses Design Research III (5201) and Advanced Industrial Design I (5101).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Capstone Project for Industry Partners (ARTSSCI 4000), Partnership Track",
+   "english_name": "Capstone Project for Industry Partners - Partnership Track",
+   "module_code": "ARTSSCI 4000 (per search summary)",
+   "description": "College of Arts and Sciences Center for Career and Professional Success semester course. In the Partnership Track an industry partner acts as client and mentor to a student team, giving feedback as it iterates on a prototype, strategy or implementation plan. A separate Case Study Track has students work independently and is excluded from this record.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Arts and Sciences Center for Career and Professional Success",
+   "eligible_faculties_programmes": "Arts and Sciences students (per search summary)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not stated on page read",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Elective credit per search summary only; not on page fetched",
+   "duration": "One semester",
+   "delivery_format": "Team project for industry client",
+   "project_based": "Yes",
+   "project_evidence": "Deliverable 'a tangible prototype, comprehensive strategy, or detailed implementation plan' [1].",
+   "group_working": "Yes",
+   "group_evidence": "Partner will 'work closely with a student team over the course of the semester' (Partnership Track) [1]; team size not given.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner 'act[s] as a client and mentor' and 'provide[s] feedback and guidance' [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client and mentor",
+   "named_partners": "",
+   "deliverable": "Prototype, strategy or implementation plan",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Page undated, lists no cohorts/terms; no dated 2025/26-2026/27 corroboration found. Team size, credit and eligibility unverified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://asccareersuccess.osu.edu/employers-alumni/capstone-project-industry-partners",
+     "title": "Capstone Project for Industry Partners",
+     "section": "Partnership Track",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "Partnership Track: 'work closely with a student team over the course of the semester'; 'act as a client and mentor'; deliverable 'a tangible prototype, comprehensive strategy, or detailed implementation plan'; Case Study Track: students work 'independently'.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Rapid Innovation for Public Impact (PUBAFRS 5620)",
+   "english_name": "Rapid Innovation for Public Impact",
+   "module_code": "PUBAFRS 5620",
+   "description": "Multidisciplinary capstone/hands-on course run by Glenn College (Battelle Center): student teams tackle problems sponsored by government or nonprofit agencies, conduct dozens of stakeholder interviews, meet sponsors weekly and deliver a solution, 2-minute video, 10-minute presentation and 3-5 page report.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "John Glenn College of Public Affairs (Battelle Center)",
+   "eligible_faculties_programmes": "'All upper-level undergraduate and graduate students in any major or college'",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Upper-level undergraduate and graduate",
+   "eligibility_restrictions": "No prerequisites",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "4 credit hours; team performance 70% of grade (sample syllabus)",
+   "duration": "One semester (term-length not stated)",
+   "delivery_format": "In person team project",
+   "project_based": "Yes",
+   "project_evidence": "Each team delivers a solution, video, presentation and written report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Student teams; team performance 70% of final grade [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Problems 'sponsored by government or non-profit agencies'; teams engage weekly with sponsors and mentors [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor: supplies problem, weekly engagement",
+   "named_partners": "",
+   "deliverable": "Solution/MVP, video, presentation, report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Sample syllabus is undated. Search summary (not verified; the cited OAA PDF was unreadable) says 2026 programme documents list it for Autumn and Spring, so no dated corroboration was confirmed. Actual sponsors per cohort not found.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://glenn.osu.edu/5620-sample-syllabus",
+     "title": "5620 Sample Syllabus",
+     "section": "Course description",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "'a multi-disciplinary capstone or hands-on applications course' in which 'student teams tackle real, contemporary, complex problems sponsored by government or non-profit agencies'; 'All upper-level undergraduate and graduate students in any major or college are welcome'; 4 credit hours; team performance 70%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Second-year Transformational Experience Program (STEP)",
+   "english_name": "Second-year Transformational Experience Program",
+   "module_code": "",
+   "description": "Two-semester programme for second-year students: autumn cohort meetings with a Faculty Mentor in residence halls, then a spring written proposal for a Signature Project (creative endeavour, education abroad, internship, leadership, service-learning or undergraduate research), up to $2,000 funding, presented at the STEP Expo.",
+   "academic_reach": "Unclear",
+   "admin_host": "STEP office / Office of Student Life; faculty mentors",
+   "eligible_faculties_programmes": "Second-year students (eligibility page not read; regional campuses run local versions)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Approved proposal required; eligibility page not opened",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not stated; funding up to $2,000 (search summary)",
+   "duration": "Two semesters",
+   "delivery_format": "Mentored cohort plus individual proposal-based Signature Project",
+   "project_based": "Unclear",
+   "project_evidence": "Signature Project is a proposal-driven experience that may be an internship, study abroad or research; no common defined brief or output [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page does not say whether Signature Projects are done alone or in groups [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "No employer role evidenced; internship is one possible category [1][2].",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "STEP Expo showcase presentation",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026-27 (Faculty Mentor Roster)",
+   "participation_data": "",
+   "unresolved": "Framework umbrella; project route, team format and external organisation not established; university-wide eligibility not verified.",
+   "legacy_ref": "Second-year Transformational Experience Program (STEP)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://step.osu.edu/about",
+     "title": "About - STEP",
+     "section": "About",
+     "pub_year": "2026 footer; 2026-2027 Faculty Mentor Roster",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool)",
+     "extract": "'During the autumn semester, students meet weekly with a Faculty Mentor in residence halls'; spring written proposal for Signature Project; STEP Expo; page does not state group or individual projects.",
+     "supports": [
+      "status",
+      "participation",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://ati.osu.edu/current-students/ohio-state-ati-students/get-help-and-support/second-year-transformational-experience-program",
+     "title": "Second-year Transformational Experience Program (ATI)",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: project categories Creative and Artistic Endeavor, Education Abroad, Internship, Leadership, Service-Learning, Undergraduate Research; up to $2,000 funding.",
+     "supports": [
+      "project",
+      "eligibility"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Fisher Global Consulting (undergraduate)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary describes undergraduate teams working with clients for 7 weeks plus 2-3 weeks in May, but the page fetched (engage-a-fisher-global-team) only said 'Host an undergraduate consulting team... for 2-4 weeks in May'; no team size, credit, deliverable or dated cohort.",
+   "source_url": "https://fisher.osu.edu/global-opportunities/engage-a-fisher-global-team",
+   "status_note": "Lead"
+  },
+  {
+   "name": "Glenn College PUBAFRS 7950 Capstone: Nonprofit Topics",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary: student teams do capacity-building projects for local nonprofits (MPA exit requirement); only sample syllabus, not opened.",
+   "source_url": "https://glenn.osu.edu/7950-sample-syllabus",
+   "status_note": "Lead"
+  },
+  {
+   "name": "Chemical & Biomolecular Engineering, Mechanical Engineering and SIMCenter capstones",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Departmental sponsored capstones (CBE 2018-19: 61 projects, 12 outside partners hosting 28 per search summary); not researched in reduced-depth mode.",
+   "source_url": "https://cbe.osu.edu/news/2019/05/industry-hosts-project-based-learning",
+   "status_note": "Further departmental instances likely"
+  },
+  {
+   "name": "Service-Learning courses (Office of Service-Learning)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Course directory of S-designated courses with community partners; individual courses not tested for project/group structure.",
+   "source_url": "https://service-learning.osu.edu/courses",
+   "status_note": ""
+  },
+  {
+   "name": "Smart Campus Challenge",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Teams of up to four propose campus sustainability projects; campus operations clients are internal; search summary only.",
+   "source_url": "https://engineering.osu.edu/news/2026/06/smart-students-excel-smart-campus-challenge",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Ohio State's verified employer-linked group project provision is distributed across colleges rather than institution-wide. The strongest current route is the Industrial Design capstone, where 2025/26 teams of four or five each worked with a named sponsor (Honda, Huntington National Bank, ODNR, Neighborhood Design Center) through to a Spring 2026 exhibition. The Fisher College of Business Global Applied Projects course places MBA teams of 4-6 with multinational, start-up, nonprofit and government hosts for 14 weeks, but only an October 2026 application deadline was found, so delivery is recorded as announced. The College of Engineering's Multidisciplinary Capstone (ENGR 5901/5902) is large (over 1,000 seniors presented team capstones in April 2026) and sponsored by 50+ organisations cumulatively, but no page shows that external clients are the norm for the route, so the employer criterion is Unclear. Two further routes (Arts and Sciences industry-partner capstone, Glenn College PUBAFRS 5620 with government/nonprofit sponsors) fit the criteria in design, but only undated pages were found. The legacy STEP programme is a mentored individual-proposal programme with no evidenced team or employer project. Participation in all routes is optional or programme-specific; no compulsory university-wide scheme found. Uncertain: sponsor mix, credit and dated delivery for several routes.",
+ "gaps": "Reduced-depth review (about 9 searches plus fetches). Further departmental capstones (CBE, ME, CSE, SIMCenter, Knowlton) likely; undergraduate Fisher Global Consulting not evidenced; no science-department routes found; health/law/architecture not specifically evidenced; STEP eligibility page not opened. Fisher MAP name from brief not found. Some details come from search summaries (labelled) and not page text. Page text via WebFetch was returned as summaries by the fetch tool, not raw HTML."
+}

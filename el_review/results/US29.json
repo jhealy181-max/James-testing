@@ -1,0 +1,458 @@
+{
+ "inst_id": "US29",
+ "institution": "Pennsylvania State",
+ "review_status": "Partial",
+ "partial_remaining": "Science, other areas need more queries; Smeal/NLCG page could not be opened.",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Penn State central experiential learning corporate-sponsored student projects Career Services employer engagement project-based",
+    "Penn State Learning Factory capstone 2025-26 sponsors projects teams engineering design"
+   ],
+   "key_sources": [
+    "https://sen.psu.edu/corporate-partnerships",
+    "https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-career-accelerator-pilot-gives-students-real-world"
+   ],
+   "finding": "No university-wide employer project scheme found; provision is college-based. Central hits were Outreach experiential learning (programme-level, no project detail), Invent Penn State (legacy) and a Smeal Career Accelerator pilot."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Penn State Smeal Business capstone corporate client consulting project student teams",
+    "Nittany Lion Consulting Group Smeal Sapphire consulting projects client teams"
+   ],
+   "key_sources": [
+    "https://www.smeal.psu.edu/cscr/corporate-support/student-research-engagement",
+    "https://magazine.smeal.psu.edu/nittany-lion-consulting-group-thrives-in-first-year/"
+   ],
+   "finding": "NLCG and Smeal capstone consulting teams work with business/non-profit clients; Smeal page unreadable (503) and current delivery undated."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Penn State Learning Factory capstone 2025-26 sponsors projects teams engineering design",
+    "Penn State College of IST capstone industry sponsored project student teams"
+   ],
+   "key_sources": [
+    "https://lf.psu.edu/students/lf-capstone/capstone4/",
+    "https://www.psu.edu/news/engineering/story/learning-factory-announces-fall-2025-showcase-winners"
+   ],
+   "finding": "Learning Factory senior capstone with paid external sponsors, current (fall 2025 showcase). IST 440W capstone teams with some external clients but dated example. Further departmental capstones (EECS, aerospace, ESM, biological engineering, Great Valley, Abington) likely."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Penn State Eberly College of Science capstone project external partner team"
+   ],
+   "key_sources": [
+    "https://science.psu.edu/research/corporate-collaboration"
+   ],
+   "finding": "No Eberly College of Science student capstone with external partners found; results were corporate research collaboration pages only."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Penn State Bellisario College of Communications student agency client campaign Penn State Liberal Arts client project course"
+   ],
+   "key_sources": [
+    "https://www.psu.edu/news/bellisario-college-communications/story/commagency-seeks-clients-fall-2026-communications-work"
+   ],
+   "finding": "CommAgency works for University entities (internal clients) so C is not met on verified evidence; COMM 473 PR Campaigns client work noted as lead only. No Liberal Arts client course found."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Penn State Law clinic OR Stuckeman architecture studio OR nursing OR agricultural sciences student teams community client project"
+   ],
+   "key_sources": [
+    "https://dickinsonlaw.psu.edu/in-house-legal-clinics",
+    "https://www.psu.edu/news/arts-and-architecture/story/stuckeman-hosts-inaugural-interdisciplinary-design-competition-names"
+   ],
+   "finding": "Dickinson Law clinics are supervised casework (not group projects); Stuckeman interdisciplinary challenge is a short competition without a verified external client."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Learning Factory Capstone Design (College of Engineering senior capstone)",
+   "english_name": "Learning Factory Capstone Design",
+   "module_code": "Departmental capstone design courses (codes vary by department)",
+   "description": "Senior-year engineering capstone supported by the Learning Factory: teams of 4-6 students design a product, process, software or service for a sponsoring client (companies, government offices, some Penn State units). Teams write a Statement of Work and Detailed Specification Report that are reviewed with the instructor and submitted to the sponsor, build alpha prototypes (weeks 11-12), and finish with a final report, poster and summary plus the Design Showcase in weeks 14-15.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Learning Factory, College of Engineering",
+   "eligible_faculties_programmes": "College of Engineering senior students in departments using Learning Factory capstone (e.g. EECS, aerospace, ESM, mechanical, biological engineering pages cite Learning Factory sponsorship)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "4th year (senior)",
+   "eligibility_restrictions": "Engineering capstone students; programme page says capstone programs 'may differ slightly by department'",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credit and compulsory status not stated on pages fetched (supports 'the capstone engineering design course'; requirements follow the individual degree).",
+   "duration": "One semester (typical 15-week schedule)",
+   "delivery_format": "Team design project with sponsor; in-class meetings; Design Showcase",
+   "project_based": "Yes",
+   "project_evidence": "Defined sponsor project with Statement of Work, specification report, alpha prototype, final report, poster and Design Showcase [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams form in week 1 ('Show up to class and meet teammates') [2]; fall 2025 showcase: teams of four to six students [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects are 'sponsored by clients' [1]; teams submit Statement of Work and Detailed Specification Report to the sponsor and meet the sponsor at kickoff [2]; sponsors pay a $4,000 fee for a Senior Capstone Design project [4]; fall 2025 showcase judged by industry experts and past sponsors, winners sponsored by e.g. Northrop Grumman, Seco Tools, Walmart Inc., Aluminum Association, Naval Surface Warfare Center Dahlgren [3].",
+   "partner_type": "Mixed",
+   "partner_role": "Client/sponsor: supplies project, pays fee, receives specification documents and showcase results. Mostly external companies and government offices; at least one of 13 fall 2025 winning projects was sponsored by a Penn State unit (Center for Immersive Learning and Digital Innovation) [3], so a small internal share exists.",
+   "named_partners": "Fall 2025 showcase winners: Northrop Grumman, Seco Tools, Walmart Inc., Aluminum Association Inc., Naval Surface Warfare Center Dahlgren Division, Fleet Equipment Corporation, Hungry Group [3]",
+   "deliverable": "Prototype, final report, poster, summary, Design Showcase presentation; Statement of Work and specification report to sponsor",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (fall 2025 showcase, 11-19 Dec 2025)",
+   "participation_data": "Fall 2025 winning projects only: 13 projects / 63 students (winners tally from news article; total participation not published in sources fetched).",
+   "unresolved": "Whether capstone is compulsory in every engineering degree; total number of teams/sponsors per year; which departments run capstone outside the Learning Factory.",
+   "legacy_ref": "Learning Factory Capstone Design",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://lf.psu.edu/students/lf-capstone/",
+     "title": "LF Capstone (4th Year Capstone)",
+     "section": "Main",
+     "pub_year": "(c)2026 footer",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; summarised by fetch tool, quoted passages)",
+     "extract": "'Teams of engineering students tackle real-world problems sponsored by clients.' 'We support the capstone engineering design course.' 'The Learning Factory is the maker space for Penn State's College of Engineering.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://lf.psu.edu/students/lf-capstone/capstone4/",
+     "title": "Capstone 4th year typical semester",
+     "section": "Typical semester",
+     "pub_year": "(c)2026 footer",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; summarised by fetch tool, quoted passages)",
+     "extract": "'a university-industry partnership where student design projects benefit real-world clients'; 'Prepare Statement of Work; review with instructor; revise and submit to sponsor'; 'Prepare Detailed Specification Report ... submit to sponsor'; alpha prototypes weeks 11-12; 'prepare final report, poster, and summary; attend Design Showcase' weeks 14-15; 'While Capstone Design Programs may differ slightly by department'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.psu.edu/news/engineering/story/learning-factory-announces-fall-2025-showcase-winners",
+     "title": "Learning Factory announces fall 2025 showcase winners",
+     "section": "News",
+     "pub_year": "2025 (showcase 11 Dec 2025)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; summarised by fetch tool, quoted passages)",
+     "extract": "Teams of four to six first-year cornerstone and senior-year capstone students; in-person showcase 11 Dec 2025 (Bryce Jordan Center), virtual 12-19 Dec 2025; judged by 'a panel of industry experts, past sponsors' and Industry Advisory Board; winning-project sponsors incl. Northrop Grumman, Seco Tools, Walmart Inc., Aluminum Association Inc., NSWC Dahlgren, and PSU's Center for Immersive Learning and Digital Innovation.",
+     "supports": [
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://lf.psu.edu/sponsors/",
+     "title": "Learning Factory Sponsors",
+     "section": "Get Involved",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; summarised by fetch tool, quoted passages)",
+     "extract": "'Sponsor a Senior Capstone Design project ($4,000).' Corporate sponsors receive brand exposure and recognition.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Nittany Lion Consulting Group (NLCG) / Smeal capstone consulting projects",
+   "english_name": "Nittany Lion Consulting Group and Smeal capstone consulting projects",
+   "module_code": "",
+   "description": "Student-managed, faculty-supported consulting firm in the Smeal College of Business. Search-index summary of Smeal pages: students work with business clients on real business challenges; capstone consulting projects run through the management and organizational development curriculum, with teams of MBA students (October-February) or Sapphire Leadership Academic Program honors undergraduates (fall and spring). First-year report: 61 members delivered 16 engagements to clients including Boeing, UPS, a start-up (ParaPer4mance) and a non-profit (Jana Marie Foundation).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Smeal College of Business (faculty director Dave Lenze)",
+   "eligible_faculties_programmes": "Smeal MBA students and Sapphire Leadership Academic Program students (capstone route); NLCG membership requires prior training through the Penn State Consulting Organization (PSCO)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Sapphire is a competitive honors programme; NLCG membership via PSCO training",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Capstone route sits in management/organizational development curriculum; credit not evidenced.",
+   "duration": "Fall/spring semester (Sapphire); October-February (MBA); durations per engagement not published",
+   "delivery_format": "Team consulting engagements",
+   "project_based": "Yes",
+   "project_evidence": "Consulting engagements/capstone projects addressing client business challenges [1][2]; 2020-21 report of 16 engagements [2].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams consist of MBA students or students in the Sapphire Leadership Academic Program' [1]; engagements delivered by NLCG members [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients are outside organisations (Boeing, UPS, a start-up, a non-profit) [2]; capstone route 'work with business clients' [1]. Evidence for named clients dates from 2020-21; one capstone example advised the Penn State Gender Equity Center (internal) [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client for consulting engagement; receives recommendations (exact deliverable not evidenced)",
+   "named_partners": "Boeing, UPS, ParaPer4mance, Jana Marie Foundation (2020-21 first year)",
+   "deliverable": "Consulting recommendations (form not evidenced)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021 (named clients); Smeal page undated",
+   "participation_data": "61 members, 16 engagements over first two semesters (2020-21).",
+   "unresolved": "Current delivery (2025/26) not dated; the Smeal page could not be opened (HTTP 503) so route text is a search-index summary; credit and whether the capstone and NLCG are the same route.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.smeal.psu.edu/cscr/corporate-support/student-research-engagement",
+     "title": "Student Research Engagement - Smeal College of Business",
+     "section": "Corporate support",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (search-summary paraphrase; page fetch returned 503)",
+     "extract": "Nittany Lion Consulting Group: 'student led, faculty supported consulting firm within the Smeal College in which students work with business clients to address real world business challenges. Teams consist of MBA students or students in the Sapphire Leadership Academic Program... MBA projects run from October through February; Sapphire projects are offered in the fall and spring semesters.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://magazine.smeal.psu.edu/nittany-lion-consulting-group-thrives-in-first-year/",
+     "title": "Nittany Lion Consulting Group thrives in first year",
+     "section": "Smeal Magazine",
+     "pub_year": "2021 (programme launched fall 2020)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; summarised by fetch tool, quoted passages)",
+     "extract": "61 members delivered 16 engagements; clients include Boeing, UPS, ParaPer4mance (start-up) and the Jana Marie Foundation (non-profit); 29 new members to join in fall 2021.",
+     "supports": [
+      "project",
+      "employer",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "IST 440W Information Sciences and Technology Integration and Problem Solving (capstone)",
+   "english_name": "IST senior capstone",
+   "module_code": "IST 440W",
+   "description": "Senior IST capstone in which teams of 4-6 students tackle a significant real-world problem with IT as part of the solution. Example (Brandywine, spring 2021): four teams built websites for external local businesses and a campus outreach initiative recruited by the campus Workforce and Innovation Office.",
+   "academic_reach": "Programme/course",
+   "admin_host": "College of Information Sciences and Technology",
+   "eligible_faculties_programmes": "IST majors (capstone for IST degree programmes)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "IST majors",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not evidenced on pages fetched",
+   "duration": "One semester",
+   "delivery_format": "Team capstone project",
+   "project_based": "Yes",
+   "project_evidence": "Teams produce a deliverable (e.g. website for client) [2].",
+   "group_working": "Yes",
+   "group_evidence": "Catalog/search summary: teams of 4-6 students; Brandywine teams of students per client [1][2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Brandywine 2021 example: three nearby businesses plus one campus initiative as clients [2]; but external clients are not shown to be the standard for IST 440W across campuses, and the example is 2021.",
+   "partner_type": "Mixed",
+   "partner_role": "Client for website/IT project (Brandywine 2021 example)",
+   "named_partners": "Vinyl Revival (record store), unnamed local accounting business (Brandywine, spring 2021)",
+   "deliverable": "Client website / IT solution",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021 (client example)",
+   "participation_data": "",
+   "unresolved": "Current 2025/26 delivery and whether external clients are standard at University Park; catalog page quoted only via search summary.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://bulletins.psu.edu/university-course-descriptions/undergraduate/ist/",
+     "title": "Information Sciences and Technology (IST) course descriptions",
+     "section": "IST 440W",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (search-summary paraphrase)",
+     "extract": "IST 440W is the capstone for IST majors; teams of 4-6 students work on a significant real-world problem in which IT is part of the solution.",
+     "supports": [
+      "project",
+      "group",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.psu.edu/news/academics/story/ist-students-apply-knowledge-real-world-projects-through-capstone-course",
+     "title": "IST students apply knowledge to real-world projects through capstone course",
+     "section": "News",
+     "pub_year": "2021 (published 4 June 2021)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; summarised by fetch tool, quoted passages)",
+     "extract": "IST 440W taught at Penn State Brandywine in spring 2021; four clients: one campus outreach initiative and three nearby businesses recruited by the Workforce and Innovation Office; outputs included updated website for Vinyl Revival and a bookkeeper-matching website for an accounting business.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CommAgency (Bellisario College of Communications student agency)",
+   "english_name": "CommAgency",
+   "module_code": "",
+   "description": "Student-run, faculty-directed communications agency in the Bellisario College. Student teams produce content and campaigns (graphic design, photography, social media, video) for clients. The fall 2026 call states it is 'authorized to work with communications offices, student organizations, research teams and other University entities'; clients named in coverage are Penn State units (Commission for Women, Millennium Scholars Program, Advocate Penn State, All-Sports Museum).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Bellisario College of Communications",
+   "eligible_faculties_programmes": "Selected Bellisario students across six departments (competitive application)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Unclear",
+   "eligibility_restrictions": "Competitive application",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not evidenced",
+   "duration": "Semester-based (not stated)",
+   "delivery_format": "Student agency teams",
+   "project_based": "Yes",
+   "project_evidence": "Campaigns/content for clients (e.g. Capital Day storytelling) [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'CommAgency students work in teams and are guided by faculty directors and industry mentors' [1].",
+   "employer_connected": "No",
+   "employer_evidence": "Clients documented in the fetched call are University entities (communications offices, student organisations, research teams) [1]; internal university clients do not satisfy C. A search summary mentions 'campus and outside clients' but no external client was verified.",
+   "partner_type": "Other",
+   "partner_role": "Internal Penn State units act as clients (internal)",
+   "named_partners": "Internal: Commission for Women, Millennium Scholars Program, Advocate Penn State, All-Sports Museum, Matson Museum (search summary)",
+   "deliverable": "Communications content and campaigns",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (fall 2026 client call, 20 Aug 2026)",
+   "participation_data": "Search summary: 89 students and 33 clients, spring 2026 (not verified on a fetched page).",
+   "unresolved": "Whether any external (non-university) clients are served; credit status.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.psu.edu/news/bellisario-college-communications/story/commagency-seeks-clients-fall-2026-communications-work",
+     "title": "CommAgency seeks clients for fall 2026 communications work",
+     "section": "News",
+     "pub_year": "2026 (20 Aug 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch; summarised by fetch tool, quoted passages)",
+     "extract": "'authorized to work with communications offices, student organizations, research teams and other University entities'; 'CommAgency students work in teams and are guided by faculty directors and industry mentors.'",
+     "supports": [
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://bellisario.psu.edu/commagency/",
+     "title": "CommAgency - Bellisario College of Communications",
+     "section": "Main",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (search-summary paraphrase)",
+     "extract": "Student-run agency with full-time faculty director; 89 students across six departments worked with 33 clients in spring 2026; competitive application.",
+     "supports": [
+      "project",
+      "eligibility",
+      "participation"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Invent Penn State / Summer Founders",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Student-founder venture development with grant, accelerator and advisers; students work on their own ventures, not on an external organisation's brief (fails C).",
+   "source_url": "https://invent.psu.edu/about-ips/",
+   "status_note": "Not researched further in reduced-depth mode; legacy latest intake unverified."
+  },
+  {
+   "name": "Smeal Career Accelerator (pilot, summer 2026)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Credit-bearing pilot with company-sponsored projects (search summary), but group working, client role and delivery not verified.",
+   "source_url": "https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-career-accelerator-pilot-gives-students-real-world",
+   "status_note": "Pilot."
+  },
+  {
+   "name": "Penn State Dickinson Law clinics",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Supervised legal casework for clients, not a team project with defined output.",
+   "source_url": "https://dickinsonlaw.psu.edu/in-house-legal-clinics",
+   "status_note": ""
+  },
+  {
+   "name": "Stuckeman Intergenerational Design Innovation Challenge",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Two-week interdisciplinary competition; external client not verified.",
+   "source_url": "https://www.psu.edu/news/arts-and-architecture/story/stuckeman-hosts-inaugural-interdisciplinary-design-competition-names",
+   "status_note": ""
+  },
+  {
+   "name": "COMM 473 Public Relations Campaigns / Bateman competition",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Client-based campaign course mentioned in search summary only; not opened.",
+   "source_url": "https://bellisario.psu.edu/commagency/",
+   "status_note": ""
+  },
+  {
+   "name": "Other departmental engineering capstones (EECS, Aerospace, ESM, Biological Engineering, Great Valley, Abington, Harrisburg)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Sponsored team capstones likely overlap with Learning Factory route or are campus-specific; not researched in reduced-depth mode.",
+   "source_url": "https://www.eecs.psu.edu/industry/partnerships/EECS-Industry-Capstone-Sponsorship.aspx",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Penn State's verified employer-linked group project provision is college-based rather than university-wide. The strongest route is the College of Engineering senior capstone supported by the Learning Factory: teams of 4-6 deliver a Statement of Work, specification report, prototype, final report and showcase for a sponsor who pays $4,000; the fall 2025 showcase (11 Dec 2025) shows current delivery with company and government sponsors (Northrop Grumman, Walmart, NSWC Dahlgren), though a small share of sponsors are Penn State units. Whether the capstone is compulsory varies by department. In Smeal, the Nittany Lion Consulting Group and capstone consulting teams (MBA and Sapphire honors students) work with business and non-profit clients, but the page could not be opened and named clients date from 2020-21, so current delivery is unclear. IST 440W is a team capstone with some external clients (Brandywine 2021 example). CommAgency (Bellisario) is a competitive student agency whose documented clients are University units, so it fails the external-organisation test. No qualifying route was verified in Science, Liberal Arts or Law/Arts & Architecture. Further departmental capstones likely exist.",
+ "gaps": "Smeal page (503) not read; current NLCG/Smeal capstone status; IST 440W current client practice; compulsory status of Learning Factory capstone by department; other engineering departmental capstones, COMM 473, Career Accelerator pilot; Eberly College of Science only one query."
+}
