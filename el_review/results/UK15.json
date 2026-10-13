@@ -1,0 +1,432 @@
+{
+ "inst_id": "UK15",
+ "institution": "Essex",
+ "review_status": "Partial",
+ "partial_remaining": "Session search limit reached after 12 searches. Remaining: (1) obtain quoted extracts and 2025/26 evidence for iTeams (any 2026 edition) and Cyber Innovate to Elevate (team structure, deliverable, eligibility); (2) identify the WBL live-employer-project modules in Faculty of Science and Health (Biomedical Science, Actuarial) and whether team-based; (3) Marketing Management module code/assessment (group? client?); (4) science (Biosciences, Maths/Stats, Psychology), engineering (EA364 etc., Robotic Engineering capstone), arts/humanities/social sciences (Government, Sociology, Language and Linguistics, Essex Law School clinics, Art History), and other (Law, Health and Social Care, Nursing) not searched; (5) Essex Business School other employer projects (Business Collaboration page); (6) corroborate current-year delivery.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Essex student consultancy live client project",
+    "Essex employer-led project group students careers Essex Employability challenge",
+    "Essex Engage with talent employer project briefs",
+    "Essex students teams employer challenge hackathon industry partner brief competition",
+    "iTeams Essex Startups student teams businesses challenge mentor solution programme",
+    "iTeams 2026 Essex Startups",
+    "Essex Industry and Placements team work-based learning module live employer projects"
+   ],
+   "key_sources": [
+    "https://www.essex.ac.uk/events/2025/02/04/iteams-2025",
+    "https://www.essex.ac.uk/business/recruit-our-students-and-graduates",
+    "https://www.essex.ac.uk/staff/academic-standards-and-quality/work-based-learning",
+    "https://www.essex.ac.uk/news/2025/12/17/new-cybersecurity-programme-proves-big-hit-with-businesses"
+   ],
+   "finding": "Essex Startups iTeams is a multidisciplinary, extracurricular team challenge with business-set briefs and external mentors (last evidenced Feb 2025); a Cyber Innovate to Elevate iTeams variant ran to Feb 2026. The Industry and Placements team promotes employer-led project briefs and live-project WBL, but specific modules were not identified."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Essex MBA projects consultancy project organisation Havens Hospices students team",
+    "Essex BSc Marketing Management consultancy project real-world business marketing brief module",
+    "Essex module directory Marketing Management BE consultancy project group assessment",
+    "Essex Business School final year project consultancy-based project external organisation module"
+   ],
+   "key_sources": [
+    "https://www.essex.ac.uk/departments/essex-business-school/the-essex-mba/mba-projects",
+    "https://www.essex.ac.uk/blog/posts/2023/02/27/mba-consultancy-project-havens-hospices",
+    "https://www.essex.ac.uk/courses/ug00256/1/bsc-management-and-marketing",
+    "https://www.essex.ac.uk/courses/UG01545/1/BSc-Business-and-Human-Resource-Management"
+   ],
+   "finding": "EBS has consultancy routes with real organisations (MBA project, Marketing Management module, BHRM capstone option) but the MBA and capstone are individual and the Marketing Management project's group status and client role are unclear."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Essex Computer Science Team Project Challenge CE206 module small team external client requirement"
+   ],
+   "key_sources": [
+    "https://www1.essex.ac.uk/modules/Default.aspx?coursecode=CE101&level=4&period=FY&campus=CO",
+    "https://www.essex.ac.uk/courses/ug00069/1/bsc-computer-science"
+   ],
+   "finding": "CS Team Project Challenge (CE101) is team-based but students choose their project to given attributes (no external client). CS capstone can use external company descriptions with a company mentor but is individual. Engineering not yet searched."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Essex Industry and Placements team work-based learning module live employer projects"
+   ],
+   "key_sources": [
+    "https://www.essex.ac.uk/staff/academic-standards-and-quality/work-based-learning"
+   ],
+   "finding": "Only incidental evidence: Biomedical Science/Actuarial course pages mention WBL modules with live employer projects; not assessed in detail."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: session search limit reached."
+  },
+  "other": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched (law, health, nursing, etc.): session search limit reached."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "iTeams multidisciplinary business challenge programme",
+   "academic_reach": "University-wide",
+   "admin_host": "Essex Startups (Careers / Student Development)",
+   "eligible_faculties_programmes": "Students from different faculties apply; places limited and attendance at all workshops required (2025 page). Exact eligibility (levels) not confirmed.",
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit evidenced; judged by expert panel finale with cash prizes",
+   "duration": "7 weeks (2025); 8 weeks (2022); 10 weeks (earlier)",
+   "delivery_format": "Workshops plus team work with external mentor; final pitch at Colchester Campus",
+   "partner_type": "Business/commercial",
+   "partner_role": "Host businesses set the challenge; industry experts mentor; panel judges the pitch",
+   "named_partners": "",
+   "deliverable": "Report and presentation/pitch to the challenge host and expert panel",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S1",
+   "official_name": "iTeams (Essex Startups)",
+   "description": "Student teams drawn from different faculties each work on a challenge set by an external business host, with an external industry mentor per team, and produce a report and presentation pitched to an expert panel; top teams win prizes. Annual programme run by Essex Startups; 2025 edition was 7 weeks with three businesses and six teams.",
+   "faculty_areas": [
+    "central"
+   ],
+   "duration_band": "~1 term/semester",
+   "project_based": "Yes",
+   "project_evidence": "Teams are posed a question by the challenge-host and produce a report and presentation to help the organisation understand the problem (source 1).",
+   "group_working": "Yes",
+   "group_evidence": "Six student teams made up of several students across different faculties (sources 1, 2).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Three external businesses each deliver a challenge; each team has an external industry-expert mentor; teams present to an expert panel (sources 1, 2).",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (event Feb 2025)",
+   "unresolved": "No 2026 edition found in search; 2025 edition (4 Feb 2025) is academic year 2024/25, so 2025/26 delivery not confirmed. Student-level eligibility, named host businesses and cohort numbers not obtained.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.essex.ac.uk/events/2025/02/04/iteams-2025",
+     "title": "iTeams 2025",
+     "section": "Event page",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Three businesses deliver three challenges to six student teams made up of several students across different faculties; each team has an industry expert mentor; teams create a report and presentation for the challenge host; application deadline 31 Jan 2025.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.essex.ac.uk/events/2024/02/06/iteams",
+     "title": "iTeams 2024",
+     "section": "Event page",
+     "pub_year": "2024",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "7-week programme; three businesses, six student teams; final presentation to expert panel.",
+     "supports": [
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.essex.ac.uk/events/2022/01/26/essex-startups-iteams",
+     "title": "Essex Startups: iTeams",
+     "section": "Event page",
+     "pub_year": "2022",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "8-week programme; first place £500 per team member.",
+     "supports": [
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Cyber Innovate to Elevate",
+   "academic_reach": "Unclear",
+   "admin_host": "Essex (business services / Essex Startups)",
+   "eligible_faculties_programmes": "MSc and PhD students (cyber-related); full eligibility not obtained",
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "Six weeks",
+   "delivery_format": "Bespoke iTeams challenge with SMEs",
+   "partner_type": "Business/commercial",
+   "partner_role": "SMEs host cybersecurity challenges",
+   "named_partners": "",
+   "deliverable": "Not confirmed (cybersecurity strategy/recommendations)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "Cyber Innovate to Elevate (bespoke iTeams programme)",
+   "description": "Funded Freeport East/Essex programme in which MSc and PhD students work directly with SMEs on cybersecurity strategies through a six-week bespoke iTeams innovation challenge.",
+   "faculty_areas": [
+    "engineering_computing",
+    "central"
+   ],
+   "duration_band": "Unclear",
+   "project_based": "Unclear",
+   "project_evidence": "Students work with SMEs on cybersecurity strategies; defined output not confirmed (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Described as an iTeams variant, which uses teams in the main programme, but team working not explicitly stated for this variant in the extract.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students work directly with SMEs (source 1, 2).",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Need explicit team structure, deliverable, student eligibility and partner numbers. Six weeks falls between the 1-4 week and one-term bands, so duration_band set to Unclear. Projects due to finish by 28 Feb 2026.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.essex.ac.uk/business/services/funding-opportunities/cyber-innovate-to-elevate",
+     "title": "Cyber Innovate to Elevate",
+     "section": "Funding opportunities page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Runs as part of bespoke iTeams programme where students work directly with SMEs on cybersecurity strategies; projects due to finish by 28 February 2026.",
+     "supports": [
+      "employer",
+      "status",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.essex.ac.uk/news/2025/12/17/new-cybersecurity-programme-proves-big-hit-with-businesses",
+     "title": "Cybersecurity programme proves big hit with businesses",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Six-week 'iTeams' innovation challenge connecting SMEs with MSc and PhD students.",
+     "supports": [
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "english_name": "Marketing Management module consultancy project",
+   "academic_reach": "Programme/course",
+   "admin_host": "Essex Business School",
+   "eligible_faculties_programmes": "BSc Marketing Management (incl. foundation/year abroad variants), Integrated Master in Management: Marketing Management; wording also appears on other EBS course pages",
+   "student_level": "Undergraduate",
+   "year_of_study": "Second year (per search summary)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "15 credits; consultancy project is part of assessment",
+   "duration": "Module length not obtained",
+   "delivery_format": "Taught module",
+   "partner_type": "Business/commercial",
+   "partner_role": "Real-world business (unnamed)",
+   "named_partners": "",
+   "deliverable": "Consultancy project/marketing plan report (format not confirmed)",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "Marketing Management consultancy project (BSc Marketing Management and related degrees)",
+   "description": "15-credit Marketing Management module on Essex Business School degrees whose assessment has students undertake a consultancy project for a real-world business in response to a marketing brief.",
+   "faculty_areas": [
+    "business"
+   ],
+   "duration_band": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Course pages: students undertake a consultancy project for a real-world business in response to a marketing brief (source 1).",
+   "group_working": "Unclear",
+   "group_evidence": "No source states the consultancy project is a group assessment; course-level page lists group presentations among assessment types only generally (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Real-world business' stated but not whether the business sets/receives the brief, nor how many external clients or whether briefs are partly hypothetical (source 1).",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 entry (course page); module directory entry 2024/25",
+   "unresolved": "Module code and handbook assessment spec not seen; group vs individual; external client involvement; 2025/26 delivery.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.essex.ac.uk/courses/ug00256/1/bsc-management-and-marketing",
+     "title": "BSc (Hons) Marketing Management",
+     "section": "Course structure",
+     "pub_year": "undated (2026 start referenced for related Integrated Master page)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Marketing Management (15 credits): you undertake a consultancy project for a real-world business in response to a marketing brief.",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "module_code": "",
+   "english_name": "Work-based learning: live employer projects",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Industry and Placements team (Student Development Team)",
+   "eligible_faculties_programmes": "Named degrees (e.g. Biomedical Science, Actuarial Science); full list not obtained",
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Work-based learning live employer projects (Industry and Placements team)",
+   "description": "Institutional work-based learning policy defines WBL as placements or live projects for an organisation or client forming part of the curriculum; several Faculty of Science and Health degree pages (e.g. Biomedical Science, Actuarial Science) say students can take WBL modules with live employer projects or a placement. Specific project modules, group format and employers not identified.",
+   "faculty_areas": [
+    "science",
+    "central"
+   ],
+   "duration_band": "Unclear",
+   "project_based": "Unclear",
+   "project_evidence": "Policy defines live projects for an organisation or client as WBL (source 1); no specific module assessed.",
+   "group_working": "Unclear",
+   "group_evidence": "Not stated.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Live projects for an organisation/client in policy; module-level evidence missing.",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "unresolved": "Identify the actual WBL project modules (module codes), whether team-based, partner types and 2025/26 delivery.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.essex.ac.uk/staff/academic-standards-and-quality/work-based-learning",
+     "title": "Work-based learning",
+     "section": "Staff guidance",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "WBL defined as learning through placements or live projects for an organisation or client that are part of the curriculum; team advises on year-long placements, short placements, PG professional placements and live employer projects.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.essex.ac.uk/business/recruit-our-students-and-graduates",
+     "title": "Engage with talent at Essex",
+     "section": "Employer page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Employers can collaborate with students through employer-led projects, from undergraduate projects to Essex MBA business challenges; contact industryengagement@essex.ac.uk.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Big Essex Award",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "Co-curricular recognition framework recorded via HEAR; not itself a collaborative employer-linked project. Underlying activities would need testing individually.",
+   "source_url": "https://www.essex.ac.uk/student/awards-and-achievements/hear",
+   "status_note": "Legacy row; official page, intake unverified"
+  },
+  {
+   "name": "Essex MBA consultancy project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Real charity/business clients (e.g. Havens Hospices, 2022) but projects are carried out by a single student; MBA Project may alternatively be business plan or dissertation.",
+   "source_url": "https://www.essex.ac.uk/blog/posts/2023/02/27/mba-consultancy-project-havens-hospices",
+   "status_note": "Individual route"
+  },
+  {
+   "name": "Computer Science Team Project Challenge (CE101 / CE201 / CE291)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Small-team full-lifecycle project, but each team chooses its own project to given attributes; no external organisation evidenced.",
+   "source_url": "https://www1.essex.ac.uk/modules/Default.aspx?coursecode=CE101&level=4&period=FY&campus=CO",
+   "status_note": "2026/27 CE101 entry seen via search extract"
+  },
+  {
+   "name": "Computer Science capstone with external company",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Project may originate from an external company with a company mentor, but it is an individual capstone and company projects are optional alongside staff-set ones.",
+   "source_url": "https://www.essex.ac.uk/courses/ug00069/1/bsc-computer-science",
+   "status_note": ""
+  },
+  {
+   "name": "BSc Business and Human Resource Management final-year capstone (consultancy-based option)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Students choose a consultancy-based project or independent research study with a personal supervisor; no evidence of group working or external-client standard.",
+   "source_url": "https://www.essex.ac.uk/courses/UG01545/1/BSc-Business-and-Human-Resource-Management",
+   "status_note": ""
+  },
+  {
+   "name": "Social Impact Hackathon (Nov 2022)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Weekend event with local businesses; 2022 only, no current delivery evidenced.",
+   "source_url": "https://www.essex.ac.uk/events/2022/11/18/social-impact-hackathon",
+   "status_note": "Historical"
+  },
+  {
+   "name": "Knowledge Transfer Partnerships",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Funded academic-business projects, not student group projects.",
+   "source_url": "https://www.essex.ac.uk/business/services/knowledge-transfer-partnerships",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "Provision found so far at Essex is led by **iTeams**, an extracurricular programme run by Essex Startups in which multidisciplinary student teams tackle challenges set by external businesses, mentored by industry experts, and present a report and pitch to a panel. It is selective (limited places, application), not credit-bearing as evidenced, and the latest evidenced edition is February 2025 (7 weeks, three businesses, six teams); a bespoke Cyber Innovate to Elevate variant connecting MSc/PhD students with SMEs ran to February 2026 but its team structure and outputs are not confirmed. Within Essex Business School, the Marketing Management module has students undertake a consultancy project for a real-world business, but whether this is group-based and how clients participate is not established; the MBA consultancy project is individual. Computer Science has a team project module without external clients and an individual capstone that can use company briefs. The Industry and Placements team promotes employer-led project briefs and live-project work-based learning (cited on Science and Health degree pages) but specific modules were not identified. The Big Essex Award is an employability award, excluded. Engineering, science, social science and law/health provision were not searched because the search limit was reached, so this review is Partial. Whether Essex has several distributed routes or a mainly extracurricular central one remains uncertain.",
+ "gaps": "Partial: see partial_remaining. Social science, humanities, law, health, engineering and most science areas unsearched; current-year (2025/26) delivery unconfirmed for iTeams and Marketing Management; WBL live-project modules unidentified; further departmental instances likely."
+}

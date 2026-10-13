@@ -1,0 +1,949 @@
+{
+ "inst_id": "UK12",
+ "institution": "East Anglia",
+ "review_status": "Partial",
+ "partial_remaining": "Search limit reached at about 33 searches. Remaining: (1) 'other' area: Norwich Medical School/health sciences, Education, Social Work, Pharmacy, Law (only the Law Clinic was found; the combined health/education query was refused for the limit). (2) Science: Biological Sciences/Chemistry/Mathematics/Physics only searched with one general query; a school-level query for team external-partner projects is outstanding. (3) Economics consulting project and MA Media live project need module-level evidence on group vs individual working. (4) MSc Sustainability and Society, NBS MSc industry-sponsored project and UEA placement-year industry projects need project/format evidence. (5) NBS undergraduate module names for live briefs (Adnams/EAZS) and current-year run dates. (6) i-Teams current-year run.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UEA student consultancy live client project module",
+    "UEA CareerCentral employer project students team challenge employer-set brief",
+    "UEA Employer Opportunities Expression of Interest live briefs live group projects",
+    "UEA i-Teams Access Entrepreneurship and Innovation student teams",
+    "UEA i-Teams 12 weeks teams industry mentors Norwich Research Park",
+    "UEA launches Master's degrees with guaranteed placement year provision industry projects",
+    "UEA Master's with a placement year structured industry projects small groups"
+   ],
+   "key_sources": [
+    "https://mycareercentral.uea.ac.uk/Form.aspx?id=2319836",
+    "https://www.uea.ac.uk/web/business/access-entrepreneurship-and-innovation/i-teams",
+    "https://www.uea.ac.uk/study/postgraduate/masters-with-placement"
+   ],
+   "finding": "Central employer 'live briefs' offer (umbrella only, no named modules), the i-Teams postgraduate programme (extracurricular, partly internal innovations) and a new cross-faculty Master's placement-year route with small-group industry projects (announced). UEA Award is an employability award (excluded)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "UEA Norwich Business School MBA group consultancy project external client",
+    "UEA Business Management live marketing brief Adnams",
+    "UEA Collaborate with Norwich Business School student projects live briefs",
+    "UEA MSc Project Management live project client",
+    "UEA MSc Business Management industry sponsored project",
+    "UEA BA Business Management final year Applied Business Project / Business Consultancy"
+   ],
+   "key_sources": [
+    "https://www.uea.ac.uk/course/postgraduate/mba-master-of-business-administration-executive-part-time",
+    "https://www.uea.ac.uk/course/undergraduate/ba-business-management",
+    "https://www.uea.ac.uk/course/postgraduate/msc-business-management"
+   ],
+   "finding": "Executive MBA group consultancy with external client is the clearest qualifying route; full-time MBA live projects, BA Business Management live briefs and MSc industry-sponsored projects are evidenced only at course-page level."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "UEA Mechanical Engineering group project real brief industry client",
+    "UEA MEng engineering group project module industry client consultants",
+    "UEA Engineering group project module industry brief site visit",
+    "MEng Mechanical Engineering UEA final year engineering group project real brief",
+    "UEA Computing Sciences final year group project industry client",
+    "UEA MComp Computing Science group project industry or commerce"
+   ],
+   "key_sources": [
+    "https://www.uea.ac.uk/course/undergraduate/meng-mechanical-engineering",
+    "https://www.uea.ac.uk/course/undergraduate/meng-energy-engineering",
+    "https://www.uea.ac.uk/course/undergraduate/mcomp-computing-science"
+   ],
+   "finding": "MEng final-year group project is typically built on an industry client brief with site visit and presentation to professional engineers; MComp group project is split between research-group and industry problems."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "UEA environmental sciences consultancy project module real client",
+    "UEA MSc Sustainability and Society partner organisations",
+    "UEA Biological Sciences OR Chemistry OR Pharmacy team project external company",
+    "UEA MSc Applied Ecology and Conservation OR Environmental Assessment and Management consultancy",
+    "UEA Mathematics OR Physics OR Data Science industry project"
+   ],
+   "key_sources": [
+    "https://www.uea.ac.uk/course/postgraduate/msc-sustainability-and-society",
+    "https://www.uea.ac.uk/course/postgraduate/msc-applied-ecology-and-conservation"
+   ],
+   "finding": "No verified team project with external client in the natural sciences; MSc Sustainability and Society core modules use partner organisations (details unclear); Data Science MSc dissertations may be with industry partners (individual)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "UEA Economics consultancy-based project final year",
+    "UEA module Economic Consulting Project",
+    "UEA School of Economics consulting project capstone",
+    "UEA Politics International Development Media History charity client project",
+    "UEA Media and Development in Practice partner organisation",
+    "UEA MA Creative Writing placement employer-led industry projects"
+   ],
+   "key_sources": [
+    "https://www.uea.ac.uk/course/undergraduate/bsc-economics",
+    "https://www.uea.ac.uk/course/postgraduate/ma-media-and-global-development"
+   ],
+   "finding": "Economics consulting project option and MA Media, Communication and Global Development live partner project (named charities/media bodies) found; group vs individual working not established for either."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "UEA Law Clinic OR social work OR Education OR Medicine students group project external organisation community partner"
+   ],
+   "key_sources": [
+    "https://lawclinic.uea.ac.uk/what-our-students-do/"
+   ],
+   "finding": "Only the voluntary Law Clinic was found (excluded). A follow-up health sciences/education/social work query was refused by the search limit; those schools remain unsearched."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "Employer Live Briefs (CareerCentral Employer Opportunities form)",
+   "english_name": "Employer live group projects/briefs set within course modules",
+   "module_code": "",
+   "admin_host": "CareerCentral (central careers service)",
+   "eligible_faculties_programmes": "Any school/course whose modules can host a live brief; employers can name target schools/courses",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Within host modules (not specified)",
+   "duration": "Varies by module",
+   "delivery_format": "Employer-set brief embedded in course module",
+   "named_partners": "",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Which modules actually run employer live briefs and how often; undated form page. Umbrella: not counted separately.",
+   "local_id": "S1",
+   "description": "Central CareerCentral employer-facing route: employers tick 'live briefs' on the Employer Opportunities Expression of Interest form so UEA students work on live group projects and briefs set by employers as part of their course; briefs may be research tasks, marketing ideas, consultancy-style projects, data analysis, design concepts, campaigns, business challenges or presentations; timing must match planned course modules; employers may request particular schools/courses. No named modules, partners or cohorts on the page, so it is an umbrella/lead only.",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Unclear",
+   "project_evidence": "Form lists brief types (consultancy-style projects, campaigns, data analysis, design concepts) but no specific module or output [1].",
+   "group_working": "Yes",
+   "group_evidence": "Form wording: students 'work on live group projects and briefs set by employers as part of their course' [1] (generic offer, no module identified).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Employers set the brief via the form [1], but no module, cohort or delivery is evidenced; this is an invitation to employers, not evidence of delivery.",
+   "partner_type": "Unclear",
+   "partner_role": "Employer sets live brief (offer to employers)",
+   "deliverable": "Varies (research task, campaign, consultancy-style report, presentation)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://mycareercentral.uea.ac.uk/Form.aspx?id=2319836",
+     "title": "Employer Opportunities Expression of Interest Form",
+     "section": "Employer Live Briefs section",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: form section on employer live briefs where UEA students work on live group projects and briefs set by employers as part of their course; timing must correspond with planned course modules; employers can state target schools/courses; brief types include research tasks, marketing ideas, consultancy-style projects, data analysis, design concepts, campaigns, business challenges and presentations.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "BA Business Management: live marketing briefs (Norwich Business School)",
+   "english_name": "Live marketing briefs for Adnams Brewery / East Anglian Zoological Society within BA Business Management",
+   "module_code": "",
+   "admin_host": "Norwich Business School",
+   "eligible_faculties_programmes": "BA Business Management (and related NBS undergraduate programmes where the wording recurs)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not evidenced",
+   "duration": "Unclear",
+   "delivery_format": "Practical projects within taught modules",
+   "named_partners": "Adnams Brewery; East Anglian Zoological Society (course page 2025/26 and 2026/27 wording)",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Module(s) in which live briefs run, group vs individual, assessment, whether current each year. Course-page marketing text only.",
+   "local_id": "S2",
+   "description": "Undergraduate Business Management course page states students tackle 'live marketing briefs for companies like Adnams Brewery and the East Anglian Zoological Society'. Related Marketing and Management page says students have worked with Adnams on past projects and Adnams sponsors an employability prize. No module code, team structure, assessment or cohort year for the live briefs is evidenced in the search results (an older page also mentions a live business problem for a real company, Aviva named as past partner).",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Unclear",
+   "project_evidence": "'Live marketing briefs' named but no output, module or assessment evidenced [2].",
+   "group_working": "Unclear",
+   "group_evidence": "No evidence whether briefs are tackled in teams or individually [2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Adnams Brewery and East Anglian Zoological Society named as sources of live briefs [2]; not shown how organisations participate or whether it is standard across the cohort.",
+   "partner_type": "Mixed",
+   "partner_role": "Provide live marketing briefs (as described on course page)",
+   "deliverable": "Not evidenced",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026/27 (course page wording)",
+   "sources": [
+    {
+     "n": 2,
+     "url": "https://www.uea.ac.uk/course/undergraduate/ba-business-management",
+     "title": "BA Business Management 2026/27",
+     "section": "Course description / teaching",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: students take on practical projects 'including tackling live marketing briefs for companies like Adnams Brewery and the East Anglian Zoological Society'; same wording on the 2025/26 page; Adnams sponsors a prize on the Marketing Communications module.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Executive (Part-Time) MBA: group consultancy project with an external client",
+   "english_name": "Executive MBA group consultancy project",
+   "module_code": "",
+   "admin_host": "Norwich Business School",
+   "eligible_faculties_programmes": "MBA (Executive Part Time)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Module credit not evidenced; written report and presentation",
+   "duration": "About three months (2026/27 page)",
+   "delivery_format": "Part-time executive programme with overseas element",
+   "named_partners": "",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Client sector/names not given; module code and credit not retrieved; extract is a search summary of the course page.",
+   "local_id": "S3",
+   "description": "Group-based consultancy module in the part-time Executive MBA: teams work with an external client organisation to deliver a substantive written report and presentation on a topic of strategic importance chosen by the client, an extended research-based project of about three months under the theme 'What can I change around here?' (part delivered overseas on the 2026/27 page). An archived 2023/24 page describes a shorter (one month, incl. a European week) version.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Substantive written report and presentation on a client-chosen strategic topic, extended research-based project [3].",
+   "group_working": "Yes",
+   "group_evidence": "'Group-based consultancy module' / group consultancy project [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation chooses the strategic topic and receives the report and presentation [3].",
+   "partner_type": "Unclear",
+   "partner_role": "External client sets topic; receives report and presentation",
+   "deliverable": "Group written consultancy report + presentation to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 3,
+     "url": "https://www.uea.ac.uk/course/postgraduate/mba-master-of-business-administration-executive-part-time",
+     "title": "MBA Master of Business Administration (Executive Part Time) 2026/27",
+     "section": "Course description/modules",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: group-based consultancy module where students work with an external client organisation to deliver a substantive written report and presentation on a topic of strategic importance chosen by the client; about three months; theme 'What can I change around here?'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Full-time MBA: live consultancy projects (incl. Capstone Consultancy)",
+   "english_name": "Full-time MBA live consultancy projects",
+   "module_code": "",
+   "admin_host": "Norwich Business School",
+   "eligible_faculties_programmes": "MBA (full-time)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not evidenced",
+   "duration": "Unclear",
+   "delivery_format": "Full-time 12-month MBA",
+   "named_partners": "",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Group vs individual, client role, structure of the two projects and the Capstone Consultancy; 2025/26 page supports status, 2027/28 page repeats.",
+   "local_id": "S4",
+   "description": "Full-time 12-month MBA pages say students take part in two live consultancy projects / work on real organisational challenges; AMBA re-accreditation panel singled out the Capstone Consultancy project. No evidence in the retrieved text of client names, team format, outputs or assessment.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Consultancy projects on real organisational challenges [4][5].",
+   "group_working": "Unclear",
+   "group_evidence": "Team format not stated in retrieved text.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Live' consultancy and 'real organisational challenges' implied external organisations, but client role (brief-setting, receipt of output) not evidenced [4].",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced",
+   "deliverable": "Not evidenced",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "sources": [
+    {
+     "n": 4,
+     "url": "https://uatwww.uea.ac.uk/course/postgraduate/mba-master-of-business-administration",
+     "title": "MBA Master of Business Administration 2025/26 (also 2027/28 page)",
+     "section": "Course description",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: opportunity to take part in two live consultancy projects to gain practical business experience; 2027/28 page: practical consultancy focus working on real organisational challenges.",
+     "supports": [
+      "project",
+      "status"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://www.uea.ac.uk/about/news/article/norwich-business-school-achieves-the-highest-standard-of-achievement-in-post-graduate-business-education-with-re-accreditation",
+     "title": "Norwich Business School re-accreditation news",
+     "section": "AMBA panel comments",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: AMBA panel noted the Capstone Consultancy project had an undeniable impact on the student learning experience.",
+     "supports": [
+      "project"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MEng final-year Engineering Group Project (industry client brief)",
+   "english_name": "MEng final-year industry-brief group project",
+   "module_code": "",
+   "admin_host": "School of Engineering, Mathematics and Physics",
+   "eligible_faculties_programmes": "MEng Mechanical Engineering (+ Year in Industry), MEng Engineering, MEng Energy Engineering, MEng Electrical and Electronic Engineering (BEng routes use an individual project)",
+   "year_of_study": "Final year (Year 4 of MEng)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Module code/credits not retrieved; presentation, report, computational work and data processing",
+   "duration": "Final year (starts at beginning of year)",
+   "delivery_format": "Team project with site visit and presentation to professional engineers",
+   "named_partners": "Not named",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Coverage: 'typically'/'often' wording means external clients are the common but not guaranteed norm across the MEng family, so C could be judged Some projects; module codes, credits and client names not retrieved; evidence is course-page text (search summaries).",
+   "local_id": "S5",
+   "description": "In the final year of the MEng Mechanical Engineering (and parallel MEng Engineering, Energy, Electrical & Electronic routes) teams work on a group project that 'will typically be based on a real brief from an industry client' presented at the start of the year; teams review the brief, visit the site and develop proposals for presentation to professional engineers; the project is the main focus of the final year (presentations, report, computational work, data processing). Past topics cited include robotics in agriculture and health care, vertical farms, geothermal energy optimisation, EV battery-pack thermal management. EEE page: students act as consultants to an industrial partner. Year-in-Industry variant described as a group industrial consultancy project.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Real client brief; proposal, report and presentation outputs [6][7].",
+   "group_working": "Yes",
+   "group_evidence": "'Engineering group project'; 'work with your team' [6][7].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry client supplies the brief (typically); teams visit the site and present proposals to professional engineers; EEE page: close work with a professional engineering organisation throughout [6][7]. Wording varies: 'typically' (Mechanical), 'often' (Energy).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry client sets brief, hosts site visit, receives proposals",
+   "deliverable": "Group proposal/report and presentation to professional engineers",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 6,
+     "url": "https://www.uea.ac.uk/course/undergraduate/meng-mechanical-engineering",
+     "title": "MEng Mechanical Engineering 2026/27",
+     "section": "Final year / group project",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: the final-year engineering group project 'will typically be based on a real brief from an industry client, presented to you at the beginning of the year'; teams review the brief, visit the site and develop proposals for presentation; previous students have been offered employment based on project work.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 7,
+     "url": "https://www.uea.ac.uk/course/undergraduate/meng-energy-engineering",
+     "title": "MEng Energy Engineering 2026/27 (and MEng Electrical and Electronic Engineering with a Year in Industry 2025/26)",
+     "section": "Final-year group project",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: Energy: project will often be completed in response to an industry brief, team visits the site and presents to professional engineers; EEE: students work as consultants to an industrial partner and work closely with a professional engineering organisation throughout.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MComp final-year group project (CMP-7024Y MCOMP Project per 2022 catalogue)",
+   "english_name": "MComp Computing/AI final-year group (partner) project",
+   "module_code": "",
+   "admin_host": "School of Computing Sciences",
+   "eligible_faculties_programmes": "MComp Computing Science (incl. Study Abroad, Cyber Security), MComp Artificial Intelligence",
+   "year_of_study": "Final year (MComp)",
+   "eligibility_restrictions": "",
+   "credit_assessment": "40 credits (2022 catalogue record, module CMP-7024Y); demonstration + written report",
+   "duration": "Final year",
+   "delivery_format": "Supervised team project",
+   "named_partners": "",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Share of projects with external organisations; whether external partners supervise/assess. Industrial Advisory Board terms say members may provide real-world challenges or assess final-year projects (capability, not frequency).",
+   "local_id": "S6",
+   "description": "MComp final-year group/partner project on a problem either from an active university research group or a real problem rooted in industry or commerce; AI MComp: team-based project based on a real industry example or research-led brief; assessed by demonstration of the solution plus group report. Cyber Security MComp: large project with a research group or industrial partner.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Defined solution demonstrated and reported [8].",
+   "group_working": "Yes",
+   "group_evidence": "'Group or partner project' / team-based project [8].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Source is 'industry or commerce' OR 'active research group': internal research-group projects are an alternative; no statement that external organisations are the standard source [8].",
+   "partner_type": "Mixed",
+   "partner_role": "Industry/commerce problem or internal research group (alternative)",
+   "deliverable": "Working solution demonstration + group report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 8,
+     "url": "https://www.uea.ac.uk/course/undergraduate/mcomp-computing-science",
+     "title": "MComp Computing Science 2026/27 (also MComp Computing Science with Study Abroad, MComp Artificial Intelligence)",
+     "section": "Final year / assessment",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: final-year group project either industry oriented or with a research focus; can be based on a problem from an active university research group or on a real problem rooted in industry or commerce; assessment is demonstration of the solution plus written report; AI MComp: team-based project on a real industry example or research-led brief.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "School of Economics final-year consulting project (alternative to dissertation)",
+   "english_name": "Economics final-year consulting project with an external organisation",
+   "module_code": "",
+   "admin_host": "School of Economics",
+   "eligible_faculties_programmes": "BSc Economics, Economics and Finance, Economics with Accountancy, Business Economics, Business Finance and Economics, Economics Behaviour and Data Science (per course pages)",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not retrieved",
+   "duration": "Unclear",
+   "delivery_format": "Capstone option alongside dissertation",
+   "named_partners": "",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Group vs individual; module code; client names; sector.",
+   "local_id": "S7",
+   "description": "Final-year Economics programmes offer a choice between a dissertation and a consulting project undertaken in collaboration with an external organisation, applying economic and financial analysis to a substantial real-world problem; students learn to build a client relationship and pin down client needs. Team structure and assessment not evidenced.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Consulting project applying analysis to a real-world problem with recommendations [9].",
+   "group_working": "Unclear",
+   "group_evidence": "No source says whether the consulting project is team-based or individual [9].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project is 'in collaboration with an external organisation'; students build a client relationship [9]; sector and extent of client input not stated.",
+   "partner_type": "Unclear",
+   "partner_role": "External organisation collaborates/acts as client",
+   "deliverable": "Consulting project report/recommendations (not specified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 9,
+     "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics",
+     "title": "BSc Economics 2026/27 (also Economics and Finance 2026/27; Business Economics 2026/27)",
+     "section": "Final year options",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: option to write a dissertation or undertake a consulting project in collaboration with an external organisation; students learn to build a client relationship and identify business needs.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MA Media, Communication and Global Development: Media and Development in Practice live project",
+   "english_name": "Live media-and-development project with a partner organisation",
+   "module_code": "",
+   "admin_host": "School of Global Development",
+   "eligible_faculties_programmes": "MA Media, Communication and Global Development (formerly MA Media and Global Development)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not retrieved",
+   "duration": "Unclear",
+   "delivery_format": "Live project with partner organisation",
+   "named_partners": "Action Aid; Amref Africa; Anti-Slavery International; British Red Cross (2025/26 page); BBC Radio Norfolk; Girl Effect; Public Media Alliance; Save the Children International; WaterAid",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Group vs individual; deliverable; credits; whether the module is compulsory for all MA students on the programme.",
+   "local_id": "S8",
+   "description": "Specialist module (Media and Development in Practice, MADIP) in the MA: students work on a real-world 'media and development' project with a business, charity or media organisation, reflecting critically on project design, development and delivery; recent partners listed include Action Aid, Amref Africa, Anti-Slavery International, British Red Cross, BBC Radio Norfolk, Girl Effect, Public Media Alliance, Save the Children International, WaterAid. Alternative to the summer dissertation/work placement route on the 2025/26 page.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Real-world media and development project with defined project design/delivery reflection [10][11].",
+   "group_working": "Unclear",
+   "group_evidence": "An older school page says students design, implement and evaluate their own 'live' project; no source states team vs individual work [10][11].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner organisations (business, charity or media) supply the live project; named recent partners [10].",
+   "partner_type": "Mixed",
+   "partner_role": "Partner organisation hosts/supplies live project",
+   "deliverable": "Media/development project output (not specified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 10,
+     "url": "https://www.uea.ac.uk/course/postgraduate/ma-media-and-global-development",
+     "title": "MA Media, Communication and Global Development 2026/27",
+     "section": "Course description",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: students work on a real-world 'media and development' project with a leading business, charity, or media organisation; recent partners include Action Aid, Amref Africa, Anti-Slavery International, BBC Radio Norfolk, Girl Effect, Public Media Alliance, Save the Children International, WaterAid.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 11,
+     "url": "http://www.uea.ac.uk/international-development/postgraduate-taught-degrees/media-and-development-in-practice",
+     "title": "School of International Development: Media and Development in Practice",
+     "section": "Module description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: students work in the university and local community to design, implement and evaluate their own 'live' media and development project.",
+     "supports": [
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Master's with a Placement Year: three structured industry projects (placement-partner route)",
+   "english_name": "Postgraduate placement-year industry projects (Twin Group / Impact Consulting)",
+   "module_code": "",
+   "admin_host": "UEA central (placement partners Twin Group, Impact Consulting)",
+   "eligible_faculties_programmes": "60+ Master's with placement year programmes (e.g. MSc Data Science, Digital Business and AI, Cyber Security, MA Creative Writing, Film and TV Production, Applied Ecology and Conservation)",
+   "year_of_study": "Year 2 of two-year Master's",
+   "eligibility_restrictions": "Must pass all taught modules including dissertation and meet minimum attendance on the placement preparation module; route used only if no industry placement is secured",
+   "credit_assessment": "Placement-year module pass/fail via portfolio and reflective report (Data Science page); not otherwise retrieved",
+   "duration": "Year 2 (three projects, ~20 hours/week)",
+   "delivery_format": "Part-time small-group projects through placement partners",
+   "named_partners": "",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "First year-two cohorts likely 2027/28 onwards, so delivery not evidenced; project content, assessment and whether groups work on one client brief unknown.",
+   "local_id": "S9",
+   "description": "Over 60 UEA two-year Master's programmes (business, computing, law, life sciences, media etc.) offer a second year of either a paid industry placement or, if no placement is secured, a guaranteed set of three structured industry projects with different UK organisations, delivered through placement partners (Twin Group and Impact Consulting); UEA comparison table lists the projects as part-time (~20 hours/week), in a small group and unpaid.",
+   "academic_reach": "Cross-faculty",
+   "faculty_areas": [
+    "central",
+    "business",
+    "engineering_computing",
+    "science",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Mixed",
+   "project_based": "Unclear",
+   "project_evidence": "'Structured industry projects' but brief content and outputs not described [12][13].",
+   "group_working": "Yes",
+   "group_evidence": "UEA comparison table lists projects as 'in a small group' [12] (search paraphrase of the page).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects are 'with different UK organisations' [12][13]; how organisations set briefs or receive outputs not described.",
+   "partner_type": "Unclear",
+   "partner_role": "Host organisations via placement partners; role not described",
+   "deliverable": "Not evidenced",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2026/27 entry (course pages) / 2026 news",
+   "sources": [
+    {
+     "n": 12,
+     "url": "https://www.uea.ac.uk/study/postgraduate/masters-with-placement",
+     "title": "Master's degrees with a placement year",
+     "section": "Comparison table",
+     "pub_year": "undated (2026 launch)",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: comparison table lists industry projects as part-time (approx. 20 hours per week), in a small group, unpaid and guaranteed; paid industry placement is full-time and not guaranteed.",
+     "supports": [
+      "group",
+      "employer",
+      "participation",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 13,
+     "url": "https://www.uea.ac.uk/about/news/article/uea-launches-masters-degrees-with-guaranteed-placement-year-provision",
+     "title": "UEA launches Master's degrees with guaranteed placement year provision",
+     "section": "News article",
+     "pub_year": "2026",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: 60+ postgraduate programmes with placement pathway; partners Twin Group and Impact Consulting; guaranteed opportunity to complete three structured industry projects with different UK organisations.",
+     "supports": [
+      "reach",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "i-Teams (Norwich Research Park innovation teams)",
+   "english_name": "i-Teams",
+   "module_code": "",
+   "admin_host": "UEA Business / Access Entrepreneurship and Innovation; CareerCentral listing",
+   "eligible_faculties_programmes": "Postgraduate and Master's students and postdocs across Norwich Research Park institutions",
+   "year_of_study": "",
+   "eligibility_restrictions": "Postgraduates/postdocs only (not undergraduates)",
+   "credit_assessment": "None evidenced",
+   "duration": "12 weeks",
+   "delivery_format": "Workshops, mentoring, final presentation",
+   "named_partners": "Adnams; Broads Authority; Gressenhall Farm and Workhouse; The History of Advertising Trust (past, undated/2019-era)",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Current-year runs and dates; share of external-organisation (vs internal innovation) projects.",
+   "local_id": "S10",
+   "description": "12-week programme in which small teams of postdoctoral researchers, postgraduate and Master's students (UEA, other Norwich Research Park institutions, Norwich University of the Arts) work with industry mentors on commercialisation/business impact plans for Norwich Research Park innovations (e.g. Insect Detection, Microplastic Detection, Movetech) or heritage projects with regional organisations (past partners listed: Adnams, Broads Authority, Gressenhall Farm and Workhouse, History of Advertising Trust); ends with a presentation to colleagues, business leaders and employers.",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Postgraduate research",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "project_based": "Yes",
+   "project_evidence": "Commercialisation/impact plan for a defined innovation or heritage project, presented at end [14].",
+   "group_working": "Yes",
+   "group_evidence": "'Small teams' [14].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industry mentors and a final audience of business leaders; regional organisations named for heritage projects, but innovation projects are NRP research outputs (internal/affiliated) and the partner pages' testimonials date from 2019 [14].",
+   "partner_type": "Mixed",
+   "partner_role": "Industry mentors; regional organisations as heritage project hosts; NRP research innovations (internal/affiliated)",
+   "deliverable": "Commercialisation/business impact plan and final presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (testimonials 2019)",
+   "sources": [
+    {
+     "n": 14,
+     "url": "https://www.uea.ac.uk/web/business/access-entrepreneurship-and-innovation/i-teams",
+     "title": "i-Teams - Access Entrepreneurship and Innovation",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: 12-week programme; small teams work with industry mentors on business impact for Norwich Research Park innovations or heritage projects with regional organisations; open to postdocs, postgraduate and Master's students; final presentation to business leaders and employers.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "NBS MSc industry-sponsored / industry-focused project options (MSc Business Management; MSc Finance and Management)",
+   "english_name": "MSc industry-sponsored project pathway",
+   "module_code": "",
+   "admin_host": "Norwich Business School",
+   "eligible_faculties_programmes": "MSc Business Management; MSc Finance and Management",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not retrieved",
+   "duration": "Unclear",
+   "delivery_format": "Alternative to dissertation",
+   "named_partners": "",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Everything beyond existence of the option.",
+   "local_id": "S11",
+   "description": "MSc Business Management allows a study pathway via independent dissertation, an industry-sponsored project or applied modules; MSc Finance and Management allows a dissertation, an industry-focused project (subject to availability) or taught modules. No detail on team format, sponsors, outputs or assessment.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Unclear",
+   "project_evidence": "Named options only [15].",
+   "group_working": "Unclear",
+   "group_evidence": "Not stated [15].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Industry-sponsored' / 'subject to availability' wording indicates external sponsors only for some students [15].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry sponsor (not detailed)",
+   "deliverable": "Not evidenced",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "sources": [
+    {
+     "n": 15,
+     "url": "https://www.uea.ac.uk/course/postgraduate/msc-business-management",
+     "title": "MSc Business Management 2026/27 (and MSc Finance and Management 2026/27)",
+     "section": "Course description",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: choose a pathway via independent dissertation, an industry-sponsored project, or applied modules; Finance and Management: industry-focused project (subject to availability).",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Sustainability and Society: partner-organisation practical work in core modules",
+   "english_name": "Partner-organisation practical sessions (MSc Sustainability and Society)",
+   "module_code": "",
+   "admin_host": "School of Environmental Sciences / Science, Society and Sustainability",
+   "eligible_faculties_programmes": "MSc Sustainability and Society (full-time and part-time)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Not retrieved",
+   "duration": "Unclear",
+   "delivery_format": "Practical sessions in core modules",
+   "named_partners": "",
+   "participation_data": "",
+   "likely_duplicate_of": "",
+   "legacy_ref": "",
+   "unresolved": "Whether current in 2025/26-2026/27; project/group status; partners.",
+   "local_id": "S12",
+   "description": "Course page states core modules include practical sessions where students work with partner organisations on real-world problems and initiatives to apply learning; collaboration with external organisations on sustainability solutions. Partners, outputs, team format and assessment not described.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Unclear",
+   "project_evidence": "Work on 'real-world problems and initiatives' but no defined output [16].",
+   "group_working": "Unclear",
+   "group_evidence": "Not stated [16].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students work with partner organisations in core modules [16]; role of organisations beyond hosting unclear.",
+   "partner_type": "Unclear",
+   "partner_role": "Partner organisations on real-world problems",
+   "deliverable": "Not evidenced",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2027/28 (course page)",
+   "sources": [
+    {
+     "n": 16,
+     "url": "https://www.uea.ac.uk/course/postgraduate/msc-sustainability-and-society",
+     "title": "MSc Sustainability and Society 2027/28",
+     "section": "Course description",
+     "pub_year": "2027/28",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: core modules include practical sessions where students work with partner organisations on real-world problems and initiatives, collaborating with external organisations on sustainability solutions.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "UEA Award",
+   "legacy": true,
+   "category": "Employability award",
+   "reason": "CareerCentral co-curricular skills/employability award recognising wider experience; not itself a bounded group project with an external organisation. Reach not confirmed in legacy review.",
+   "source_url": "https://mycareercentral.uea.ac.uk/Uploads/Attachments/UEA%20Award/TandCs-UEA-Award-final.pdf",
+   "status_note": "Legacy: 2025-29 access plan and T&Cs"
+  },
+  {
+   "name": "UEA Law Clinic (Norfolk Community Law Service, Shelter etc.)",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Voluntary pro bono advice work with charities (about 50 students/year at Norfolk Community Law Service); not credit-bearing and individual advice rather than a team project; occasional short toolkit projects for Norfolk Community Foundation not evidenced as team projects.",
+   "source_url": "https://lawclinic.uea.ac.uk/what-our-students-do/",
+   "status_note": ""
+  },
+  {
+   "name": "BA Media and International Development first-year communications consultancy group project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group project analysing the political communications of a real political actor as 'client' in a role-play consultancy; the actor does not appear to engage with students or receive outputs. Source is a 2021-year page.",
+   "source_url": "https://www.uea.ac.uk/course/undergraduate/ba-media-and-international-development/2021",
+   "status_note": "2021 page; currency unknown"
+  },
+  {
+   "name": "Year in Industry / Placement Year / Year Abroad degree variants and UEA Internship Programme",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual employer placements and internships with no evidenced group project component.",
+   "source_url": "https://mycareercentral.uea.ac.uk/docs/684/UEA-Internship-Programme-Employer-Booklet_online.pdf",
+   "status_note": ""
+  },
+  {
+   "name": "Student Enterprise (Startup Bootcamp, Try It)",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Support for students' own start-up ideas; no external client brief.",
+   "source_url": "https://www.uea.ac.uk/business/access-entrepreneurship-and-innovation/student-enterprise",
+   "status_note": ""
+  },
+  {
+   "name": "BSc Environmental Sciences optional module 'Environmental Consultancy'",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Course page lists an environmental consultancy option, but no source on real clients, team working or outputs was found.",
+   "source_url": "https://www.uea.ac.uk/course/undergraduate/bsc-environmental-sciences/2025-26/sep",
+   "status_note": ""
+  },
+  {
+   "name": "Biological Sciences Integrated Laboratory Research Project / Skills for Biologists",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Group work named as a skill but no external organisation involved in the retrieved descriptions.",
+   "source_url": "https://www2.uea.ac.uk/study/undergraduate/degree/detail/bsc-biological-sciences-with-a-year-in-industry",
+   "status_note": ""
+  },
+  {
+   "name": "MSc Project Management",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Individual and group work assessed, but no live-client project evidenced.",
+   "source_url": "https://www.uea.ac.uk/course/postgraduate/msc-project-management",
+   "status_note": ""
+  },
+  {
+   "name": "TCS Tech Challenge (CareerCentral news)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "2015 page about 8-week charity projects by teams across six UK universities; no evidence that UEA took part or that it runs now.",
+   "source_url": "https://mycareercentral.uea.ac.uk/students/news/detail/78/tcs-tech-challenge",
+   "status_note": "2015, historical"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "UEA's documented provision is distributed across schools rather than set by a central framework. CareerCentral invites employers to set 'live briefs' for group projects inside course modules, but names no modules or cohorts, so it is an umbrella only.\n\nThe firmest routes are programme-embedded. The Executive MBA runs a group-based consultancy project of about three months in which an external client chooses the topic and receives a report and presentation (2026/27 page). The MEng engineering degrees (Mechanical, Energy, Electrical and Electronic) end with a team project that is typically based on a real industry-client brief, with a site visit and a presentation to professional engineers. These are compulsory within those programmes, not institution-wide.\n\nWeaker or incomplete routes: MComp Computing group projects (industry problem or internal research group); an Economics consulting project option with an external organisation (team format unknown); MA Media, Communication and Global Development live projects with named charities and media bodies (group working not shown); Business Management live marketing briefs for Adnams and the East Anglian Zoological Society (course-page wording only); and i-Teams, an extracurricular postgraduate team programme mixing Norwich Research Park innovations with regional organisations. A newly announced Master's placement-year route guarantees three small-group industry projects with UK organisations, but first delivery is not yet evidenced.\n\nUncertain: group versus individual working in several routes, module codes and credits, and health, education and social-science schools, which are not fully searched (Partial review).",
+ "gaps": "Search limit reached. Health sciences/Medicine/Education/Social Work/Pharmacy not searched; science schools only generally searched. Module-level evidence (codes, credits, team format, client names) missing for most routes; all extracts are search-index summaries of course pages rather than handbook text. Further departmental instances likely (e.g. other MEng/MComp variants, NBS postgraduate programmes)."
+}

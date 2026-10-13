@@ -1,0 +1,505 @@
+{
+ "inst_id": "UK17",
+ "institution": "Brunel University of London",
+ "review_status": "Partial",
+ "partial_remaining": "Search limit reached after 6 searches. Remaining: (1) engineering/computing (Brunel Engineering capstone/industry project, Computer Science final-year industry projects, Brunel Innovation/Mechanical group design projects); (2) science (Life sciences, Maths); (3) arts/humanities/social sciences (Social Sciences/Psychology/Law/Education projects, Global Challenges module page); (4) other: Design+ and Digital Design BSc extended evidence, health, law; (5) central: Brunel Software Innovation 2025, Student Professional Development employer challenges, Enterprise Mobility Challenge detail; (6) dated 2025/26 evidence for Co-Innovate (S1/S2) and group-vs-individual split; MSc Project Management live project detail.",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Brunel students employer challenge team project central Student Professional Development 2025"
+   ],
+   "key_sources": [
+    "https://www.brunel.ac.uk/student-professional-development",
+    "https://students.brunel.ac.uk/whats-on/enterprise-mobility-challenge-launch",
+    "https://www.brunel.ac.uk/Student-Professional-Development/entrepreneur-hub/news-and-events/news/Brunel-Software-Innovation-2025"
+   ],
+   "finding": "Student Professional Development hosts placements, Design+ and one-off employer challenges (Enterprise Mobility Challenge 2025); no university-wide group project route found."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Brunel University London student consultancy live client project module",
+    "Brunel Business School consultancy project module company client group",
+    "BBS Co-Innovate collaborative student projects SME brief students team contract",
+    "Brunel Business Management with Entrepreneurship Issues and Controversies Project Co-Innovate London SME module"
+   ],
+   "key_sources": [
+    "https://www.brunel.ac.uk/about/business-school/why-study-at-brunel-business-school/co-innovate/BBS-Co-Innovate-Collaborative-Projects",
+    "https://www.brunel.ac.uk/study/courses/business-management-with-entrepreneurship-bsc",
+    "https://www.brunel.ac.uk/study/courses/project-management-msc"
+   ],
+   "finding": "Co-Innovate SME-client projects (individual or small team) are the main route; MSc Project Management and MBA mention live consultancy but evidence is thin."
+  },
+  "engineering_computing": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: search limit."
+  },
+  "science": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Not searched: search limit."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Not searched",
+   "queries": [],
+   "key_sources": [
+    "https://www.brunel.ac.uk/study/courses/global-challenges-basc"
+   ],
+   "finding": "Not searched directly: search limit. Global Challenges BASc surfaced incidentally in a central search."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Brunel Design Brunel Industrial Design industry sponsored project students external client"
+   ],
+   "key_sources": [
+    "https://www.brunel.ac.uk/brunel-design-school/design-plus/design-plus",
+    "https://www.brunel.ac.uk/study/courses/sustainability-entrepreneurship-and-design-msc"
+   ],
+   "finding": "Brunel Design School has Design+ industry final-year projects, live briefs and PG live studio projects; extended evidence not obtained."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "BBS Co-Innovate Collaborative Student Projects",
+   "english_name": "Brunel Business School Co-Innovate collaborative student projects with SMEs",
+   "module_code": "",
+   "description": "Local SMEs/start-ups write project briefs (social media, marketing, new product launch, HR, accounting/finance); students apply with a CV and statement, are matched, sign a three-party contract (student, business, university) and work on campus on the brief with weekly student and monthly supervisor meetings, ending in a final report. Can be used as a final-year project or dissertation.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Brunel Business School (Co-Innovate)",
+   "eligible_faculties_programmes": "Brunel Business School students; wider cross-university eligibility not evidenced",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Final-year project/dissertation route (30 credits per BSc BME page); otherwise not stated",
+   "duration": "3 weeks to 3/5 months, or across the academic year (sources differ)",
+   "delivery_format": "On campus, supervised by academic tutor",
+   "project_based": "Yes",
+   "project_evidence": "Business-written brief with scope/objectives and a final report (src 1).",
+   "group_working": "Unclear",
+   "group_evidence": "Source says projects can be undertaken 'either as an individual or in a small team'; routes not separable (src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "SME writes the brief, is party to a tri-partite contract, and IP terms are agreed with the company (src 1).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client SME supplies live brief and IP agreement.",
+   "named_partners": "",
+   "deliverable": "Final report to the SME",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Pages undated; programme co-funded by ERDF with targets to 2020, so current delivery unverified. Team vs individual not separable. Search limit reached before checking a dated 2025/26 source.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.brunel.ac.uk/about/business-school/why-study-at-brunel-business-school/co-innovate/BBS-Co-Innovate-Collaborative-Projects",
+     "title": "BBS Co-Innovate Collaborative Projects",
+     "section": "project description",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Local businesses write a brief; students choose, submit CV/statement; contract signed between student, business and university; weekly student / monthly supervisor meetings; final report; 'individual or in a small team'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    }
+   ],
+   "local_id": "S1"
+  },
+  {
+   "parent_local_id": "S1",
+   "is_umbrella": false,
+   "official_name": "BSc Business Management with Entrepreneurship: Issues and Controversies in Business and Management Project / Co-Innovate business project",
+   "english_name": "Final-year Co-Innovate SME consultancy",
+   "module_code": "MG3654 (BME BSc; coded MG3A30 on Business and Management BSc)",
+   "description": "Final-year students can take a live business challenge for a London SME via Co-Innovate and present strategic recommendations to the client's management team; final-year project may be an 8,000-word independent study or a Co-Innovate business project (30 credits).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Brunel Business School",
+   "eligible_faculties_programmes": "BSc Business Management with Entrepreneurship; Business and Management BSc lists same title",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits (final-year project route); oral presentations, group discussions, extended written report",
+   "duration": "Academic year (per Co-Innovate)",
+   "delivery_format": "Module/project with SME client",
+   "project_based": "Yes",
+   "project_evidence": "Live business challenge for London SME; extended report (src 2).",
+   "group_working": "Unclear",
+   "group_evidence": "Module description mentions group discussions; Co-Innovate allows individual or small team; not separable (src 2, S1 src 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students present strategic recommendations to the client's management team (src 2).",
+   "partner_type": "Business/commercial",
+   "partner_role": "London SME client receives recommendations.",
+   "named_partners": "",
+   "deliverable": "Report and presentation to SME management",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Optional vs core status differs between BME and Business & Management pages; whether every student gets an SME client unclear; no dated 2025/26 evidence retrieved.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 2,
+     "url": "https://www.brunel.ac.uk/study/courses/business-management-with-entrepreneurship-bsc",
+     "title": "Business Management with Entrepreneurship BSc (Hons)",
+     "section": "final year modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Final-year students can take a live business challenge for a London SME through Co-Innovate; strategic recommendations presented to the client's management team; final-year project can be an 8,000-word study or a Co-Innovate project (30 credits).",
+     "supports": [
+      "project",
+      "employer",
+      "credit",
+      "reach"
+     ]
+    }
+   ],
+   "local_id": "S2"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Project Management: Project Consultancy and Risk Management",
+   "english_name": "Live consultancy projects in MSc Project Management",
+   "module_code": "MG5xx2 (as quoted in search summary)",
+   "description": "Compulsory module whose assessment includes live consultancy projects and case study analyses applied to real organisational challenges.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Brunel Business School",
+   "eligible_faculties_programmes": "MSc Project Management",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "'Live consultancy projects' mentioned (src 3) but no brief/output detail.",
+   "group_working": "Unclear",
+   "group_evidence": "No team evidence retrieved.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Says 'real organisational challenges' but not who sets/receives the work.",
+   "partner_type": "Unclear",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Need module page: client identity, team structure, current-year delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 3,
+     "url": "https://www.brunel.ac.uk/study/courses/project-management-msc",
+     "title": "Project Management MSc",
+     "section": "modules",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Compulsory module Project Consultancy and Risk Management; assessment includes live consultancy projects and case study analyses.",
+     "supports": [
+      "project",
+      "employer",
+      "participation"
+     ]
+    }
+   ],
+   "local_id": "S3"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Design+ (Brunel Design School) industry final-year projects / live briefs",
+   "english_name": "Design+ industry collaboration on final-year projects",
+   "module_code": "",
+   "description": "Design+ lets businesses work with Brunel Design students on their Final Year Project; named partners in the search summary include Brompton Bikes, Hornby, BT and JLR. Also reported: Digital Design BSc group project producing a final output for an external company.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Brunel Design School; Student Professional Development",
+   "eligible_faculties_programmes": "Design School programmes (Industrial Design, Digital Design, Integrated Product Design MSc etc.)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Final-year design project with industry partner (src 4, summary).",
+   "group_working": "Unclear",
+   "group_evidence": "Final-year projects typically individual; only the Digital Design BSc summary mentions group project, not verified (src 4).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Companies collaborate on final-year projects; extent ('can', 'some projects') unclear.",
+   "partner_type": "Business/commercial",
+   "partner_role": "",
+   "named_partners": "Brompton Bikes, Hornby, BT, JLR (undated search summary)",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Extended searches refused (limit). Need Digital Design BSc module page and Design+ page to test group working, standard client coverage and 2025/26 delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 4,
+     "url": "https://www.brunel.ac.uk/brunel-design-school/design-plus/design-plus",
+     "title": "Design Plus",
+     "section": "overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Enables businesses to collaborate with researchers or work with students on their Final Year Project; named partners Brompton Bikes, Hornby, BT, JLR.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S4"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Global Challenges BASc: Enterprise Project",
+   "english_name": "Global Challenges Enterprise Project (placement or group project)",
+   "module_code": "",
+   "description": "Third-year students complete a placement or group project over about 8 weeks; group projects can be run with an NGO, policy organisation, think tank, government body or business.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Brunel (Global Challenges BASc)",
+   "eligible_faculties_programmes": "Global Challenges BASc",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "8 weeks",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "Group project option (src 5).",
+   "group_working": "Yes",
+   "group_evidence": "'group project' option stated, but alternative is individual placement (src 5).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Group projects 'can be run with' external bodies - optional wording.",
+   "partner_type": "Mixed",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Need module page: choice between placement and group project, whether external body sets brief, current delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 5,
+     "url": "https://www.brunel.ac.uk/study/courses/global-challenges-basc",
+     "title": "Global Challenges BASc (Hons)",
+     "section": "enterprise project",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Third-year placement or group project over 8 weeks; group projects can be run with an NGO, policy organisation, think tank, government body or business.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ],
+   "local_id": "S5"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Enterprise Mobility Challenge",
+   "english_name": "Enterprise Mobility Challenge (2-week design challenge with Enterprise)",
+   "module_code": "",
+   "description": "Two-week design challenge launched Feb 2025 in which students collaborate with Enterprise (car rental company) to gain industry experience.",
+   "academic_reach": "Unclear",
+   "admin_host": "Brunel (students.brunel.ac.uk what's-on)",
+   "eligible_faculties_programmes": "",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "",
+   "duration": "2 weeks",
+   "delivery_format": "",
+   "project_based": "Unclear",
+   "project_evidence": "Design challenge; output not evidenced.",
+   "group_working": "Unclear",
+   "group_evidence": "Not evidenced.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Students collaborate with Enterprise (src 6, summary); depth of company role not evidenced.",
+   "partner_type": "Business/commercial",
+   "partner_role": "",
+   "named_partners": "Enterprise (2025)",
+   "deliverable": "",
+   "duration_band": "1–4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025",
+   "participation_data": "",
+   "unresolved": "Operating status set from Feb 2025 launch event only (before 2025/26 academic year start may be 2024/25); team format, output and eligibility unknown. Treat as evidence incomplete.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 6,
+     "url": "https://students.brunel.ac.uk/whats-on/enterprise-mobility-challenge-launch",
+     "title": "Enterprise Mobility Challenge Launch",
+     "section": "event",
+     "pub_year": "2025",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "2 week design challenge letting students collaborate with Enterprise to build industry experience.",
+     "supports": [
+      "employer",
+      "duration",
+      "status"
+     ]
+    }
+   ],
+   "local_id": "S6"
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc Integrated Product Design / Sustainability, Entrepreneurship and Design: studio projects with industry partners",
+   "english_name": "PG design studio live projects",
+   "module_code": "",
+   "description": "Studio design projects include academic and live projects offered by industry partners.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Brunel Design School",
+   "eligible_faculties_programmes": "MSc Integrated Product Design; MSc Sustainability, Entrepreneurship and Design",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "project_based": "Yes",
+   "project_evidence": "Studio design projects (src 7).",
+   "group_working": "Unclear",
+   "group_evidence": "Not evidenced.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'academic and live projects' - mixed; not standard (src 7).",
+   "partner_type": "Business/commercial",
+   "partner_role": "",
+   "named_partners": "",
+   "deliverable": "",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "Need module page for team structure and share of live projects.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 7,
+     "url": "https://www.brunel.ac.uk/study/courses/sustainability-entrepreneurship-and-design-msc",
+     "title": "Sustainability, Entrepreneurship and Design MSc",
+     "section": "course overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Studio design projects include both academic and live projects offered by industry partners.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ],
+   "local_id": "S7"
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Professional work placements",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "Individual placements; no project/group component evidenced; programme-dependent.",
+   "source_url": "https://www.brunel.ac.uk/student-professional-development/work-placements",
+   "status_note": "Legacy row 70; undated page"
+  },
+  {
+   "name": "Brunel Business School Executive Education / corporate partnerships",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Institutional partnerships (guest lectures, curriculum input, placements), not student project routes.",
+   "source_url": "https://www.brunel.ac.uk/about/business-school/executive-education/Existing-clients",
+   "status_note": ""
+  },
+  {
+   "name": "Brunel Consultancy (academic consultancy services)",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Staff-delivered consultancy for external companies, not student projects.",
+   "source_url": "https://www.brunel.ac.uk/business/consultancy",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Provisional (Partial) profile. Brunel's clearest employer-linked project route is Brunel Business School's Co-Innovate collaborative student projects: SMEs write briefs, students are matched under a three-party contract, work on campus with academic supervision and deliver a report; the route can serve as a final-year project (30 credits on the BSc Business Management with Entrepreneurship page), where students present recommendations to the client's management team. Sources say projects may be done individually or in a small team, so group working is Unclear, and pages are undated with ERDF funding referenced to 2020, so current delivery is unverified. Other leads: Design+ and live briefs in Brunel Design School, PG design studios with industry partners, MSc Project Management live consultancy projects, a Global Challenges BASc 8-week placement or group project (external bodies optional), and a two-week Enterprise Mobility Challenge (Feb 2025). No route is yet verified as meeting all three criteria with current delivery. Engineering, computing, science and social science areas remain unsearched.",
+ "gaps": "Search limit reached; engineering/computing, science, social sciences not searched; no dated 2025/26 evidence for Co-Innovate; team-vs-individual not separable; Design+ / Digital Design group project unverified; MSc PM live-project detail missing."
+}

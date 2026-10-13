@@ -22,6 +22,7 @@ WARN | RG10 | science | search area status: Not searched
 WARN | RG10 | arts_humanities_social_sciences | search area status: Not searched
 WARN | RG10 | other | search area status: Not searched
 WARN | RG10 | RG10-S09 | possible simulation marked employer-connected — check
+WARN | RG11 | RG11-S13 | employer-connected Yes but partner type Unclear
 WARN | RG12 | RG12-S01 | A project=Yes but evidence text/source tag missing
 WARN | RG12 | RG12-S01 | B group=Yes but evidence text/source tag missing
 WARN | RG12 | RG12-S01 | C employer=Yes but evidence text/source tag missing
@@ -42,14 +43,30 @@ WARN | RG17 | other | search area status: Not searched
 WARN | RG17 | RG17-S03 | employer-connected Yes but partner type Unclear
 WARN | RG17 | RG17-S04 | employer-connected Yes but partner type Unclear
 WARN | RG17 | RG17-S08 | employer-connected Yes but partner type Unclear
+WARN | RG19 | RG19-S05 | group=Yes but group evidence mentions individual work
+WARN | RG19 | RG19-S09 | University-wide reach without source tagged reach/eligibility
 WARN | RG20 | RG20-S04 | employer-connected Yes but partner type Unclear
 WARN | RG20 | RG20-S05 | employer-connected Yes but partner type Unclear
 WARN | RG20 | RG20-S08 | employer-connected Yes but partner type Unclear
+WARN | RG21 | RG21-S03 | employer-connected Yes but partner type Unclear
+WARN | RG21 | RG21-S04 | employer-connected Yes but partner type Unclear
+WARN | RG21 | RG21-S08 | group=Yes but group evidence mentions individual work
+WARN | RG22 | RG22-S01 | group=Yes but group evidence mentions individual work
+WARN | RG22 | RG22-S07 | employer-connected Yes but partner type Unclear
+WARN | RG22 | RG22-S07 | possible simulation marked employer-connected — check
+WARN | RG22 | RG22-S08 | employer-connected Yes but partner type Unclear
+WARN | RG22 | RG22-S08 | group=Yes but group evidence mentions individual work
+WARN | RG22 | RG22-S14 | employer-connected Yes but partner type Unclear
+WARN | RG22 | RG22-S16 | employer-connected Yes but partner type Unclear
+WARN | RG22 | RG22-S17 | University-wide reach without source tagged reach/eligibility
 WARN | RG23 | science | search area status: Not searched
 WARN | RG23 | other | search area status: Not searched
 WARN | RG23 | RG23-S02 | employer-connected Yes but partner type Unclear
 WARN | RG23 | RG23-S04 | employer-connected Yes but partner type Unclear
 WARN | RG23 | RG23-S10 | employer-connected Yes but partner type Unclear
+WARN | RG24 | RG24-S08 | group=Yes but group evidence mentions individual work
+WARN | RG24 | RG24-S09 | group=Yes but group evidence mentions individual work
+WARN | RG24 | RG24-S12 | employer-connected Yes but partner type Unclear
 WARN | AU02 | AU02-S01 | employer-connected Yes but partner type Unclear
 WARN | AU02 | AU02-S02 | employer-connected Yes but partner type Unclear
 WARN | AU02 | AU02-S03 | B group=Yes but evidence text/source tag missing
@@ -79,6 +96,9 @@ WARN | AU09 | other | search area status: Not searched
 WARN | UK02 | science | search area status: Not searched
 WARN | UK02 | arts_humanities_social_sciences | search area status: Not searched
 WARN | UK02 | other | search area status: Not searched
+WARN | UK03 | UK03-S03 | employer-connected Yes but partner type Unclear
+WARN | UK03 | UK03-S11 | group=Yes but group evidence mentions individual work
+WARN | UK03 | UK03-S15 | employer-connected Yes but partner type Unclear
 WARN | UK05 | business | search area status: Not searched
 WARN | UK05 | science | search area status: Not searched
 WARN | UK05 | arts_humanities_social_sciences | search area status: Not searched
@@ -86,15 +106,30 @@ WARN | UK05 | other | search area status: Not searched
 WARN | UK05 | UK05-S01 | employer-connected Yes but partner type Unclear
 WARN | UK05 | UK05-S03 | employer-connected Yes but partner type Unclear
 WARN | UK05 | UK05-S04 | employer-connected Yes but partner type Unclear
+WARN | UK06 | UK06-S02 | group=Yes but group evidence mentions individual work
+WARN | UK06 | UK06-S08 | group=Yes but group evidence mentions individual work
+WARN | UK07 | UK07-S01 | employer-connected Yes but partner type Unclear
+WARN | UK07 | UK07-S02 | employer-connected Yes but partner type Unclear
 WARN | UK08 | engineering_computing | search area status: Not searched
 WARN | UK08 | science | search area status: Not searched
 WARN | UK08 | arts_humanities_social_sciences | search area status: Not searched
 WARN | UK08 | other | search area status: Not searched
 WARN | UK08 | UK08-S03 | employer-connected Yes but partner type Unclear
+WARN | UK09 | UK09-S01 | employer-connected Yes but partner type Unclear
+WARN | UK09 | UK09-S03 | group=Yes but group evidence mentions individual work
 WARN | UK11 | science | search area status: Not searched
 WARN | UK11 | arts_humanities_social_sciences | search area status: Not searched
 WARN | UK11 | other | search area status: Not searched
+WARN | UK12 | UK12-S03 | employer-connected Yes but partner type Unclear
+WARN | UK12 | UK12-S07 | employer-connected Yes but partner type Unclear
+WARN | UK12 | UK12-S12 | employer-connected Yes but partner type Unclear
 WARN | UK14 | science | search area status: Not searched
 WARN | UK14 | arts_humanities_social_sciences | search area status: Not searched
 WARN | UK14 | other | search area status: Not searched
 WARN | UK14 | UK14-S03 | employer-connected Yes but partner type Unclear
+WARN | UK15 | arts_humanities_social_sciences | search area status: Not searched
+WARN | UK15 | other | search area status: Not searched
+WARN | UK17 | engineering_computing | search area status: Not searched
+WARN | UK17 | science | search area status: Not searched
+WARN | UK17 | arts_humanities_social_sciences | search area status: Not searched
+WARN | UK17 | UK17-S05 | group=Yes but group evidence mentions individual work
