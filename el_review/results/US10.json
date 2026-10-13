@@ -1,0 +1,631 @@
+{
+ "inst_id": "US10",
+ "institution": "Princeton University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Princeton ProCES community-engaged course students partner nonprofit group project semester",
+    "Princeton Tiger Challenge Keller Center 2026 teams nonprofit government partners"
+   ],
+   "key_sources": [
+    "https://proces.princeton.edu/students/find-course",
+    "https://kellercenter.princeton.edu/courses/community-project-studios"
+   ],
+   "finding": "ProCES is a course-support umbrella (qualifying projects sit in specific courses); Keller Tiger Challenge studio is the main cross-campus team/partner route. proces.princeton.edu blocked by Cloudflare challenge (not bypassed)."
+  },
+  "business": {
+   "status": "Not applicable",
+   "queries": [],
+   "key_sources": [],
+   "finding": "Princeton has no business school; entrepreneurship (Keller eLab) is startup-building, excluded."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Princeton engineering senior design capstone industry sponsor project team",
+    "Princeton Keller Center engineering course design for nonprofit client",
+    "Princeton computer science OR electrical OR civil environmental engineering course team real client project",
+    "Princeton Bendheim/ORFE/Keller/Andlinger sponsored project",
+    "COS 333 community partner"
+   ],
+   "key_sources": [
+    "https://www.cs.princeton.edu/courses/archive/spr25/cos333/projectprevious.html",
+    "https://mae.princeton.edu/undergraduate/independent-work-and-thesis"
+   ],
+   "finding": "No department-wide industry-sponsored capstone found; COS 333 has some community-partner teams; MAE independent work not evidenced as employer-linked."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Princeton environmental studies OR ecology OR geosciences OR chemistry students class project client community partner team report"
+   ],
+   "key_sources": [
+    "https://www.princeton.edu/academics/area-of-study/geosciences"
+   ],
+   "finding": "Only outreach-type leads (Trenton tap water) without verified client/team structure."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Princeton SPIA policy task force client",
+    "Princeton SPIA MPA policy workshop 2025 client report",
+    "Princeton architecture OR art OR humanities course community partner project"
+   ],
+   "key_sources": [
+    "https://spia.princeton.edu/graduate-programs/master-public-affairs/policy-workshops",
+    "https://spia.princeton.edu/academics/undergraduate-program/princeton-policy-advocacy-clinic"
+   ],
+   "finding": "SPIA Graduate Policy Workshops are the strongest verified route; undergraduate PTF and Policy Advocacy Clinic partially evidenced."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Princeton architecture OR art OR humanities course students collaborate community partner project (design/architecture)"
+   ],
+   "key_sources": [
+    "https://proces.princeton.edu/students/find-course"
+   ],
+   "finding": "Princeton has no law, medical or business school; architecture/theatre studios with community partners are listed on ProCES but unverified (exclusions)."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "SPI 591a-g (Fall 2025)",
+   "admin_host": "Princeton School of Public and International Affairs (SPIA)",
+   "year_of_study": "MPA year 2",
+   "eligibility_restrictions": "MPA students; described as 'the required workshop' by instructor in source [1].",
+   "credit_assessment": "",
+   "duration": "Fall semester",
+   "delivery_format": "Team workshop with field research",
+   "named_partners": "Examples (2025 news): World Bank Outcomes Department (Kenya jobs strategy; from search summary, not independently opened); Mpala Research Centre site visit (Kenya conservation workshop) [1]",
+   "participation_data": "",
+   "unresolved": "Exact client named per workshop not verified for all seven; client types vary (some may be academic).",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S1",
+   "official_name": "SPIA Graduate Policy Workshops (SPI 591a-g)",
+   "english_name": "Graduate Policy Workshops, Master in Public Affairs",
+   "description": "Required second-year MPA workshop: each workshop has 8-10 students working in a team on a policy problem for a real-world client (government agency, multilateral organisation or nonprofit), with field research during fall break, a final report and a presentation to the client.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "Master in Public Affairs (MPA) students after first year",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Each workshop produces a final report and presentation to the client [2].",
+   "group_working": "Yes",
+   "group_evidence": "'Each workshop consists of eight to 10 students who work in teams to evaluate a policy challenge' [2]; 'working in teams ... producing client-ready reports' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Workshops respond to 'the needs of real-world clients - such as government agencies, multilateral organisations, or nonprofits - whose challenges serve as the basis for the courses'; students present to the client [1][2]. Wording 'usually for real-world clients' [2] means coverage is the norm but not guaranteed per workshop.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: sets policy challenge; receives report and presentation; hosts field visit",
+   "deliverable": "Client-ready policy report + presentation to client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2025 (2025/26)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://spia.princeton.edu/news/2025/12/04/policy-workshops-offer-spia-students-real-world-experience-public-affairs",
+     "title": "Policy Workshops Offer SPIA Students Real-World Experience in Public Affairs",
+     "section": "News article",
+     "pub_year": "2025-12-04",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (curl via proxy after WebFetch 403)",
+     "extract": "'The workshops ... [are based on] the needs of real-world clients - such as government agencies, multilateral organizations, or nonprofits'; 'the required workshop'; 'They're working in teams, engaging stakeholders, and producing client-ready reports'; Kenya workshop returned from site visit to Mpala Research Centre.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://spia.princeton.edu/graduate-programs/master-public-affairs/policy-workshops",
+     "title": "Policy Workshops",
+     "section": "Main page",
+     "pub_year": "Fall 2025 listing",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (curl via proxy after WebFetch 403)",
+     "extract": "'analyze complex and challenging policy issues, usually for real-world clients ... Each workshop consists of eight to 10 students who work in teams ... Each workshop produces a final report and gives a presentation to the client'; lists Fall 2025 SPI 591a-g topics.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "SPI 301",
+   "admin_host": "SPIA",
+   "year_of_study": "Junior",
+   "eligibility_restrictions": "Juniors only; SPI 298 prerequisite; graded A-F [3].",
+   "credit_assessment": "",
+   "duration": "Fall or Spring semester",
+   "delivery_format": "Seminar task force",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "Whether any task force has an external client; older examples show presentation to congressional staff/NSC (2015).",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S2",
+   "official_name": "SPIA Policy Task Force (SPI 301)",
+   "english_name": "Undergraduate Policy Task Force",
+   "description": "Junior-year requirement for SPIA concentrators: a group of students takes on an unresolved public policy question, individual research feeds a collective report and group recommendations to government officials and policy advocates. Instructor-led; external client role not documented.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "SPIA concentrators (juniors only; prerequisite SPI 298)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Collective policy report and recommendations on a defined policy problem [3].",
+   "group_working": "Yes",
+   "group_evidence": "'Task force members debate proposed recommendations as a group'; individual papers collated into a collective report [3] (note: component research is individual, joint output is the report).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Recommendations are proposed 'to government officials and policy advocates' (SPIA page) and field visits/guest speakers occur, but no source shows an external organisation commissioning the task force or assessing it [3][4].",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced as client",
+   "deliverable": "Collective policy report/recommendations",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 curriculum page (Classes of 2027, 2028+)",
+   "sources": [
+    {
+     "n": 3,
+     "url": "https://spia.princeton.edu/about/annual-report/our-students/workshops-task-forces",
+     "title": "Workshops & Task Forces",
+     "section": "Undergraduate Policy Task Forces",
+     "pub_year": "undated (lists Fall 2020)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (curl via proxy after WebFetch 403)",
+     "extract": "'the Policy Task Force (PTF) is a requirement for all Princeton juniors concentrating in SPIA ... Task force members debate proposed recommendations as a group and combine information from their individual research, guest speakers, field visits, and group discussions'.",
+     "supports": [
+      "project",
+      "group",
+      "participation",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://spia.princeton.edu/undergraduate-program/curriculum-requirements",
+     "title": "Curriculum and Requirements",
+     "section": "Core courses",
+     "pub_year": "current (Classes of 2027/2028+)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (curl via proxy after WebFetch 403)",
+     "extract": "'SPI 301: Policy Task Force (Fall and Spring; juniors only; Prerequisite: SPI 298)'.",
+     "supports": [
+      "eligibility",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "SPI 490 (fall) + SPI 301 (spring)",
+   "admin_host": "SPIA",
+   "year_of_study": "Junior",
+   "eligibility_restrictions": "Application/selection not verified.",
+   "credit_assessment": "",
+   "duration": "Two semesters",
+   "delivery_format": "Seminar + clinic",
+   "named_partners": "ACLU Human Rights Program, ACLU of Louisiana, ACLU of New Jersey, NJ Communities for Accountable Policing, Congress Members Cori Bush and Kelly Armstrong (undated list on page [5])",
+   "participation_data": "",
+   "unresolved": "Team structure; current-year cohort and enrolment; mixed advocacy/policymaker partners are not 'employers' in business sense (public sector/charity).",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S3",
+   "official_name": "Princeton Policy Advocacy Clinic",
+   "english_name": "Princeton Policy Advocacy Clinic",
+   "description": "Full-year junior option: fall seminar then spring clinical work in which students, under clinical faculty supervision, work with external policy partners (advocacy organisations, lawmakers) on projects such as policy memos, draft legislation, testimony, campaign plans, polling.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "SPIA juniors (spring component is the SPI 301 task force)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Since 2022 'Clinic students have worked on 14 projects'; deliverables include a 140-page policy memo for a Congress Member and a report for the ACLU submitted to the UN [5].",
+   "group_working": "Unclear",
+   "group_evidence": "Page does not state whether projects are done in teams or individually; 'students working with the ACLU of New Jersey' campaign plan suggests teamwork but not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "'students work with external policy partners, whether policymakers or advocates'; report 'produced for the ACLU' [5].",
+   "partner_type": "Mixed",
+   "partner_role": "Policy partner: poses problem, receives work product",
+   "deliverable": "Policy memos, draft legislation, campaign plans, reports",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Page footer 2026; no dated cohort",
+   "sources": [
+    {
+     "n": 5,
+     "url": "https://spia.princeton.edu/academics/undergraduate-program/princeton-policy-advocacy-clinic",
+     "title": "Princeton Policy Advocacy Clinic",
+     "section": "Main page",
+     "pub_year": "undated (site © 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (curl via proxy after WebFetch 403)",
+     "extract": "'In the spring ... students work with external policy partners ... Since its founding in 2022, Clinic students have worked on 14 projects before the United Nations, Congress, and policymakers in Louisiana, New Jersey, and New York.'",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "EGR 251/351/451 (formerly EGR 250/350/450, EPICS)",
+   "admin_host": "Keller Center for Innovation in Engineering Education",
+   "year_of_study": "Up to six semesters",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Academic credit in course; summer immersion stipend $5,000 reported (search summary)",
+   "duration": "Semester course to multi-year; summer immersion 9-10 weeks",
+   "delivery_format": "Team studio / summer immersion",
+   "named_partners": "Smith Family Foundation, Trenton (Summer 2026; search extract [7])",
+   "participation_data": "",
+   "unresolved": "Other studios (Making to Learn and Serve) are team-of-2-4 projects 'of their own design' without clear external client; applications for Tiger Challenge reported closed; summer 2026 delivery not confirmed after the fact; programme page URL returned 404 on direct fetch.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S4",
+   "official_name": "Community Project Studios - Tiger Challenge studio (EGR 250/350/450, 251/351/451)",
+   "english_name": "Community Project Studios: Tiger Challenge",
+   "description": "Keller Center credit-bearing studio in which small multidisciplinary student teams and advisers work with nonprofit and government partners using design thinking to develop innovations; most teams do it through the course, some through a 10-week full-time summer immersion.",
+   "academic_reach": "University-wide",
+   "eligible_faculties_programmes": "Undergraduates across majors (Design minor open to all majors); enrolment by contacting programme",
+   "faculty_areas": [
+    "engineering_computing",
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "project_based": "Yes",
+   "project_evidence": "Teams 'develop lasting innovations' with prototype and pilot [6].",
+   "group_working": "Yes",
+   "group_evidence": "'In small teams, students and advisers work with nonprofit and government partners' [6].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Nonprofit and government partners co-develop projects [6]; Summer 2026 partner Smith Family Foundation (Trenton, Heritage Square) per programme page snippet [7].",
+   "partner_type": "Mixed",
+   "partner_role": "Partner: co-develops problem, works with team",
+   "deliverable": "Prototype/design intervention, pilot, showcase",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Summer 2026 (announced); course page undated (mentions spring 2024)",
+   "sources": [
+    {
+     "n": 6,
+     "url": "https://kellercenter.princeton.edu/courses/community-project-studios",
+     "title": "Community Project Studios",
+     "section": "Studio 2: Tiger Challenge",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (curl via proxy after WebFetch 403)",
+     "extract": "'In small teams, students and advisers work with nonprofit and government partners to develop lasting innovations ... most teams participate in the Community Project Studio course (in which Princeton students receive academic credit)'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    },
+    {
+     "n": 7,
+     "url": "https://kellercenter.princeton.edu/programs/tiger-challenge-program",
+     "title": "Tiger Challenge Program",
+     "section": "Programme page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Search summary: 'In Summer 2026, we'll collaborate with the Smith Family Foundation in Trenton on the revitalization of Heritage Square'; applications closed; 9-week programme (page not directly opened; direct fetch 404).",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "module_code": "",
+   "admin_host": "ProCES (Pace Center / Office of the Dean of the College)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "ProCES site is behind a Cloudflare challenge (403): not opened, evidence is search extracts only. Per-course project/group structure must be tested at course level.",
+   "legacy_ref": "Program for Community-Engaged Scholarship (ProCES)",
+   "likely_duplicate_of": "",
+   "local_id": "S5",
+   "official_name": "Program for Community-Engaged Scholarship (ProCES)",
+   "english_name": "Program for Community-Engaged Scholarship",
+   "description": "Central programme supporting community-engaged courses (required or opt-in), summer internships and community-engaged senior theses with nonprofit, public-sector and grassroots partners. Umbrella: qualifying projects sit in individual courses, e.g. S6, S7.",
+   "academic_reach": "University-wide",
+   "eligible_faculties_programmes": "Students enrolling in participating courses",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "project_based": "Unclear",
+   "project_evidence": "Some courses build deliverables (web apps for nonprofits, prototypes for UN SDG partners) while many only require site visits/guest speakers [8].",
+   "group_working": "Unclear",
+   "group_evidence": "Varies by course.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners are nonprofit/public/grassroots organisations; varies by course [8].",
+   "partner_type": "Mixed",
+   "partner_role": "Varies",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring/Fall 2026 course lists (search results)",
+   "external_partner_coverage": "Some projects",
+   "sources": [
+    {
+     "n": 8,
+     "url": "https://proces.princeton.edu/students/find-course",
+     "title": "Find a ProCES Course",
+     "section": "Course listing",
+     "pub_year": "2026 (Fall 2026 / Spring 2026 lists)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Search summary: required courses have all students engage with community-based knowledge via discussion, guest speakers, site visits or research; opt-in courses let students choose; examples include a course where students build web apps for non-profit partners and Fall 2026 course list. Page not opened (Cloudflare 403).",
+     "supports": [
+      "project",
+      "employer",
+      "reach",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S5",
+   "is_umbrella": false,
+   "module_code": "COS 333",
+   "admin_host": "Department of Computer Science",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "One semester",
+   "delivery_format": "",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "Share of teams with external partners; direct fetch of cs.princeton.edu returned 403.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S6",
+   "official_name": "COS 333 Advanced Programming Techniques (community-partner software projects)",
+   "english_name": "COS 333 term project",
+   "description": "Computer science course in which teams of 3-5 design and implement a networked three-tier software application; some teams build for community partners (ProCES-listed), e.g. nonprofits.",
+   "academic_reach": "Programme/course",
+   "eligible_faculties_programmes": "COS course enrolment",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "'design and implement a significant piece of software' [9].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3 to 5 [9].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Past projects built with partners: NJ Food Democracy Collaborative (Fall 2023), Anchor House (spring 2023), Wildflower Farm (Fall 2024), WorkWell Partnership (spring 2023) [9][10]; ProCES lists COS 333 as having a community-partner software project, but partner involvement is not stated as standard for all teams.",
+   "partner_type": "Charity/community",
+   "partner_role": "Some teams build for a partner nonprofit/farm",
+   "external_partner_coverage": "Some projects",
+   "deliverable": "Working web/mobile application",
+   "duration_band": "~1 term/semester",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2025 (Fall 2026 previous-projects page exists)",
+   "sources": [
+    {
+     "n": 9,
+     "url": "https://www.cs.princeton.edu/courses/archive/fall25/cos333/project.html",
+     "title": "COS 333, Fall 2025: Project",
+     "section": "Project",
+     "pub_year": "Fall 2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Search summary: 'design and implement a significant piece of software, working in teams of 3 to 5' (page not opened; 403).",
+     "supports": [
+      "project",
+      "group",
+      "status"
+     ]
+    },
+    {
+     "n": 10,
+     "url": "https://www.cs.princeton.edu/courses/archive/spr25/cos333/projectprevious.html",
+     "title": "COS 333 Previous Projects",
+     "section": "Previous projects",
+     "pub_year": "Spring 2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Search summary lists projects built with outside organisations (Wildflower Farm, local food nonprofit, NJ Food Democracy Collaborative, Anchor House, WorkWell Partnership). Not opened.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": "S5",
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Computer Science / SPIA (not verified)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "One semester",
+   "delivery_format": "",
+   "named_partners": "Workers Lab; Drivers Union (Washington state); a data-labelling workers' co-op (spring 2025)",
+   "participation_data": "",
+   "unresolved": "Course code and whether repeated in 2025/26.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S7",
+   "official_name": "Designing the Future of Work (seminar team projects with partner organisations)",
+   "english_name": "Designing the Future of Work",
+   "description": "Seminar taught by Andres Monroy-Hernandez (spring 2025, 10 students): teams paired with partner organisations (a data-workers' co-op in Africa, a Washington State Drivers Union, the nonprofit Workers Lab) to build analyses/tools.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Teams built tools / decoded legal data for partners [11].",
+   "group_working": "Yes",
+   "group_evidence": "'a group project'; teams organised from skills forms [11].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners: workers' co-op, Drivers Union (Washington state), Workers Lab; students produce insights/tools for them [11].",
+   "partner_type": "Charity/community",
+   "partner_role": "Partner organisation receives tools/insights",
+   "external_partner_coverage": "All/standard",
+   "duration_band": "~1 term/semester",
+   "operating_status": "Historical delivery only",
+   "latest_evidenced_year": "Spring 2025",
+   "sources": [
+    {
+     "n": 11,
+     "url": "https://paw.princeton.edu/article/students-partner-tech-projects-designed-help-workers",
+     "title": "Students Partner on Tech Projects Designed to Help Workers",
+     "section": "Class Close-Up",
+     "pub_year": "July 2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (curl via proxy after WebFetch 403)",
+     "extract": "'tries to address them through team projects with partner organizations ... One group was paired with a workers' co-op ... Another group collaborated with Drivers Union in Washington state ... a third group helped the nonprofit Workers Lab create tools'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Keller Center Minor in Design - project-based course",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Announced Aug 2026: required team project course 'to help community organizations'; course not named/evidenced.",
+   "source_url": "https://engineering.princeton.edu/news/2026/08/31/new-minor-design-prepares-students-build-what-matters",
+   "status_note": ""
+  },
+  {
+   "name": "Keller eLab / Program in Entrepreneurship",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Teams develop own startup ventures; no external client.",
+   "source_url": "https://kellercenter.princeton.edu/courses/community-project-studios",
+   "status_note": ""
+  },
+  {
+   "name": "Technology and Society minor capstone",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Paper/thesis chapter/course options; individual.",
+   "source_url": "https://kellercenter.princeton.edu/teaching/minor-technology-and-society/capstone-project",
+   "status_note": ""
+  },
+  {
+   "name": "MAE independent work / senior design",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Yearlong project alone or in team; no sponsor evidence found.",
+   "source_url": "https://mae.princeton.edu/undergraduate/independent-work-and-thesis",
+   "status_note": ""
+  },
+  {
+   "name": "ORF 511 industry-sponsored summer project",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Advisor-designed project with sponsor; individual; graduate.",
+   "source_url": "https://orfe.princeton.edu/undergraduate/guide",
+   "status_note": ""
+  },
+  {
+   "name": "GradFUTURES industry-partner capstones",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Cohort group capstones for organisations (graduate); page behind Cloudflare 403, only search snippet.",
+   "source_url": "https://gradfutures.princeton.edu/partner-us/industry-partners",
+   "status_note": ""
+  },
+  {
+   "name": "Geosciences environmental justice / Trenton tap water outreach",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Outreach project; client/group structure not evidenced.",
+   "source_url": "https://www.princeton.edu/academics/area-of-study/geosciences",
+   "status_note": ""
+  },
+  {
+   "name": "ARC 352 Elective Studio II (community centre design with nonprofit); THR 400; THR 351",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Listed on ProCES; group structure and client role unverified.",
+   "source_url": "https://proces.princeton.edu/students/find-course",
+   "status_note": ""
+  },
+  {
+   "name": "EGR 200 Creativity, Innovation and Design (community partner design project)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "ProCES lists a community-partner design project; no team/partner detail seen.",
+   "source_url": "https://proces.princeton.edu/spring-2026",
+   "status_note": ""
+  },
+  {
+   "name": "HackPrinceton",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Student-run hackathon.",
+   "source_url": "https://www.princeton.edu/news/2016/04/26/build-and-play-hackprinceton-draws-college-participants-nationwide?section=topstories",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Princeton has one strongly verified route and several partial ones, spread across units rather than institution-wide. **SPIA Graduate Policy Workshops (SPI 591)** are required in the MPA: teams of 8-10 work on briefs for real clients (government agencies, multilateral organisations, nonprofits), do field research and present a report to the client (Fall 2025 confirmed). The undergraduate **Policy Task Force (SPI 301)** is a compulsory junior group project for SPIA concentrators but no external client is evidenced; the **Policy Advocacy Clinic** works with named external policy partners (ACLU, lawmakers) but team structure is unstated. The Keller Center's **Community Project Studios / Tiger Challenge** places student teams with nonprofit and government partners (Summer 2026 partner Smith Family Foundation), open across majors, but current delivery is unconfirmed. **ProCES** is an umbrella supporting community-engaged courses; qualifying examples include COS 333 (some teams build for nonprofits) and a 2025 workers-technology seminar (historical). No business, law or medical school exists; most engineering capstones lack documented external sponsors. ProCES and some CS pages blocked page access (Cloudflare/403), so those items rest on search extracts.",
+ "gaps": "proces.princeton.edu and gradfutures.princeton.edu returned Cloudflare challenges and were not accessed (not bypassed); cs.princeton.edu course pages 403. Per-course ProCES evidence, Keller Design minor project course, EGR 200, architecture studios, GradFUTURES capstones, department-level engineering capstones (further instances likely) not researched. WebFetch returned 403 for proces.princeton.edu; other pages read via curl through the proxy."
+}

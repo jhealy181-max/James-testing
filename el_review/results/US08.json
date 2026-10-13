@@ -1,0 +1,665 @@
+{
+ "inst_id": "US08",
+ "institution": "Cornell University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Cornell Engaged Learning community partner course student teams project nonprofit 2025",
+    "Cornell Career Services employer sponsored project OR case challenge OR hackathon students teams company"
+   ],
+   "key_sources": [
+    "https://news.cornell.edu/stories/2025/11/cornell-engineering-sets-ambitious-goal-community-engaged-learning",
+    "https://www.duffield.cornell.edu/students/undergraduate-students/special-programs/project-teams"
+   ],
+   "finding": "No university-wide employer-project scheme found; Einhorn Center funds community-engaged learning and Engineering Student Project Teams are student-led without evidenced external sponsors. Hackathons are short sponsor events."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Cornell Johnson MBA Consulting Practicum live client project teams",
+    "Cornell AEM OR Applied Economics OR Information Science capstone project course client organization student teams"
+   ],
+   "key_sources": [
+    "https://classes.cornell.edu/browse/roster/FA25/class/AEM/4000",
+    "https://business.cornell.edu/dyson/grand-challenges/projects/",
+    "https://business.cornell.edu/admissions/graduate/mba/curriculum/immersion-learning/strategic-product-and-marketing/"
+   ],
+   "finding": "Dyson Grand Challenges AEM 4000 (about 50 external-partner projects per year) and Johnson MBA Strategic Product & Marketing Immersion qualify; other Johnson immersions and MPS AEM capstone not verified."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Cornell Engineering Management MEng project team industry client sponsor",
+    "Cornell Engineering undergraduate design capstone industry sponsored project MAE OR ECE OR BME OR Civil team sponsor",
+    "Cornell CIS OR Statistics OR Data Science capstone industry partner"
+   ],
+   "key_sources": [
+    "https://www.duffield.cornell.edu/mem/em/projects/sponsor-industry-collaboration-project",
+    "https://infosci.cornell.edu/masters/mps/curriculum/project",
+    "https://www.duffield.cornell.edu/cbe/meng/meng-projects/",
+    "https://www.cs.cornell.edu/courses/cs5150/2026sp/projects.html"
+   ],
+   "finding": "MEng sponsored team projects (Engineering Management, Chemical Engineering) and INFO 5900 MPS client projects found; Cornell Tech Product Studio has industry advisors; CS 5150 uses course staff as clients in 2026. Undergraduate engineering sponsor capstones not found."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Cornell College of Arts and Sciences OR CALS course student teams real client project partner organization semester",
+    "Cornell CIS OR Statistics OR Data Science MPS OR MEng capstone industry partner project teams"
+   ],
+   "key_sources": [
+    "https://phs.weill.cornell.edu/graduate-education-clinical-training/become-capstone-partner"
+   ],
+   "finding": "No Ithaca natural-science client-team course verified; Weill Cornell MS Biostatistics/Data Science capstone with client partners found. CALS Project Teams page is student-led."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Cornell Brooks School OR ILR OR Government studio course client organization students team policy report",
+    "Cornell Brooks School of Public Policy OR ILR OR Sociology OR Government undergraduate course teams work with community partner client deliverable report"
+   ],
+   "key_sources": [
+    "https://classes.cornell.edu/browse/roster/SP22/class/PAM/4950"
+   ],
+   "finding": "Only a 2022 PAM 4950 community-partner course and PUBPOL 3050 (search summaries) surfaced; nothing current verified for ILR, Government, Sociology, Brooks."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Cornell Hotel School OR Architecture Art Planning OR Law School clinic student teams external client project course"
+   ],
+   "key_sources": [
+    "https://www.lawschool.cornell.edu/academics/experiential-learning/clinical-program/international-human-rights-clinic/"
+   ],
+   "finding": "Law clinics (IHR Clinic recorded; Entrepreneurship Law Clinic is client representation). Hotel and AAP: no client-team course found in results."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "AEM 4000",
+   "admin_host": "Dyson School (AEM), SC Johnson College of Business / CALS",
+   "eligible_faculties_programmes": "AEM students with prerequisites (Grand Challenges writing course and AEM 3000)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "3 credits, letter grade only",
+   "duration": "Fall 2025 semester (25 Aug - 8 Dec 2025)",
+   "delivery_format": "In person, sectioned team project",
+   "named_partners": "Cleanwatts, Mack Group (testimonials, undated); search summary: City of Ithaca Economic Development, Finger Lakes ReUse (past, undated)",
+   "participation_data": "Approximately 50 semester-long projects per year (Dyson page, undated)",
+   "unresolved": "Named partners per section not retrieved; partner mix of business vs community; prerequisite programme means reach is AEM/Grand Challenges students only.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "deliverable": "",
+   "partner_role": "Client or community partner sets societal/organisational problem and judges deliverables",
+   "local_id": "S1",
+   "official_name": "AEM 4000 Grand Challenges Project Course (capstone)",
+   "english_name": "AEM 4000 Grand Challenges Project Course",
+   "description": "Capstone, team-based course in the Grand Challenges programme (Dyson, Applied Economics & Management). Sections in Fall 2025 include Business Design Partnerships, Community Engagement, Zero Hunger/Food Access/Food Waste and High-Growth Startups. Students work with a faculty member and a client or community partner to tackle a societal problem, managing a project and producing deliverables meeting the partner's expectations.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Capstone project to tackle a societal problem, deliverables meeting partner expectations [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Work collaboratively with a team to manage a project and produce deliverables' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Students work with a faculty member and a client or community partner'; learning outcome 'Demonstrate client engagement skills in interactions with a community partner'; deliverables must meet 'the partner's expectations' [1]. Client/partner is stated as the course design for all sections.",
+   "partner_type": "Mixed",
+   "external_partner_coverage": "All/standard",
+   "duration_band": "~1 term/semester",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2025 (also listed on Fall 2026 roster per search)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://classes.cornell.edu/browse/roster/FA25/class/AEM/4000",
+     "title": "Class Roster Fall 2025 AEM 4000",
+     "section": "Course description; sections",
+     "pub_year": "Fall 2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Part of the Grand Challenges program, the Project Course is a capstone, team-based learning experience. Students work with a faculty member and a client or community partner to tackle a societal problem.' 'Work collaboratively with a team to manage a project and produce deliverables that meet or exceed the partner's expectations.' 3 credits; sections 601-604; Aug 25 - Dec 8, 2025.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://business.cornell.edu/dyson/grand-challenges/projects/",
+     "title": "Grand Challenges projects (Dyson)",
+     "section": "Project information",
+     "pub_year": "undated (site 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Each year, student teams complete approximately 50 semester-long projects with external partners.' 'Teams of 4-5 undergraduate students work under the close supervision of a faculty member.' 'We encourage startups, companies, non-profits, and organizations from across the globe to submit a project proposal.' Liaisons act as 'domain experts and mentors'; clients meet team at least four times; ~500 team hours in a 15-week semester; deliverables 'specific to an organization's needs'. Fall proposals due July 31, Spring Dec 31.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ENMGT 5910",
+   "admin_host": "Cornell Engineering, Engineering Management",
+   "eligible_faculties_programmes": "MEng Engineering Management",
+   "year_of_study": "Final semester",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "Final semester",
+   "delivery_format": "Team project with sponsor",
+   "named_partners": "Wayfair, Syneos Health, IBM, Siemens Healthineers; Amazon Robotics (pages undated)",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 or 2026/27 cohort; compulsory status inferred from 'Students register for ENMGT 5910 in their final semester'; text only partly via search summary.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "deliverable": "Written report, oral presentation, supporting materials",
+   "partner_role": "Sponsor: point person, sets goals, receives report/presentation (search summary: meets team fortnightly, attends final presentation)",
+   "local_id": "S2",
+   "official_name": "Master of Engineering in Engineering Management project (ENMGT 5910)",
+   "english_name": "MEng Engineering Management industry collaboration project",
+   "description": "Final-semester team project in the MEng in Engineering Management: teams of 2-7 graduate students form on day one and partner with a sponsoring company that designates a point person, helps set goals, and receives a formal written report and oral presentation; Cornell faculty advise.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Team evaluates a major engineering project/system; delivers written report, presentation and supporting materials [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of 2-7 graduate students' [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsor designates a point person as primary contact and receives 'a formal written report, an oral presentation, and any relevant supporting materials' [1]; named sponsors include Wayfair, Syneos Health, IBM, Siemens Healthineers; Amazon Robotics project example [1][2].",
+   "partner_type": "Business/commercial",
+   "external_partner_coverage": "All/standard",
+   "duration_band": "~1 term/semester",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (site copyright 2026)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.duffield.cornell.edu/mem/em/projects/sponsor-industry-collaboration-project",
+     "title": "Sponsor an Industry Collaboration",
+     "section": "Sponsor page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Designate a point person or \"sponsor\" within your organization to serve as the primary contact for the student team.' Team will 'deliver to the sponsor a formal written report, an oral presentation, and any relevant supporting materials.' Named: Wayfair, Syneos Health, IBM, Siemens Healthineers.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.duffield.cornell.edu/mem/em/projects",
+     "title": "Engineering Management Project",
+     "section": "Project page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Students register for ENMGT 5910 in their final semester'; team formation 'on the first day of class'; teams 'of 2-7 graduate students'; Amazon Robotics example.",
+     "supports": [
+      "group",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Cornell Tech",
+   "eligible_faculties_programmes": "All Cornell Tech master's students",
+   "year_of_study": "First fall semester",
+   "eligibility_restrictions": "",
+   "credit_assessment": "4 credits",
+   "duration": "Fall semester",
+   "delivery_format": "Studio, in person",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "Whether challenges are set by external organisations; no dated cohort evidence for Product Studio itself; note Cornell Tech is a campus of Cornell (reach limited to Cornell Tech master's).",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "deliverable": "Final presentation and demo",
+   "partner_role": "Industry Advisor: feedback and domain expertise; receives final presentation/demo",
+   "local_id": "S3",
+   "official_name": "Cornell Tech Product Studio",
+   "english_name": "Cornell Tech Product Studio",
+   "description": "Mandatory first-fall studio course for all Cornell Tech master's students: algorithm-matched cross-disciplinary teams respond to real-world challenges with an Industry Advisor from NYC startups/companies/organisations (min. four meetings) and a Studio Coach; teams deliver a final presentation and demo to the industry advisors.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing",
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Teams 'respond to the strategic business needs of real-world challenges' and deliver presentation and demo [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Dreamteam, a matching algorithm... is used to form student teams' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Industry Advisors from NYC startups/companies give expert feedback (>=4 meetings) and receive final presentation and demo [1]; page does not say that the external organisation sets the brief, and advisors may be individuals not clients. Mentor/feedback/receives-output participation is documented, which the brief counts, but 'Some projects' vs standard coverage and brief-setting not separated.",
+   "partner_type": "Business/commercial",
+   "external_partner_coverage": "Unclear",
+   "duration_band": "~1 term/semester",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated page (2026 startup awards news corroborates Studio programme operating)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://tech.cornell.edu/studio/curriculum/product-studio/",
+     "title": "Product Studio",
+     "section": "Curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'individuals from startups, companies, and organizations in NYC work with students'; 'The teams meet with their Industry Advisor at least four times during the semester'; 'Teams deliver a final presentation and demo to their industry advisors.' 'Product Studio is a mandatory course for all master's students.' 4.00 credits.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "SC Johnson College of Business (Johnson Graduate School)",
+   "eligible_faculties_programmes": "Two-year MBA students selecting this immersion",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "Semester-long",
+   "delivery_format": "Immersion team project",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "No dated cohort; no named clients; whether all participants are in teams of defined size.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "deliverable": "Final business case presented to client",
+   "partner_role": "Client: sets marketing challenge, feedback, attends final presentation",
+   "local_id": "S4",
+   "official_name": "Strategic Product & Marketing Immersion (Johnson MBA)",
+   "english_name": "Strategic Product & Marketing Immersion",
+   "description": "Semester-long MBA immersion culminating in a team project in which student-led teams partner directly with a company or startup on a core marketing challenge, conducting primary/secondary research and delivering data-driven recommendations as a final business case presented to the client.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Research and final business case [1].",
+   "group_working": "Yes",
+   "group_evidence": "'student-led teams partner directly with a company or startup' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner companies commit to regular check-ins, ongoing feedback, and attend the final presentation; client receives business case [1].",
+   "partner_type": "Business/commercial",
+   "external_partner_coverage": "All/standard",
+   "duration_band": "~1 term/semester",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (site 2026)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://business.cornell.edu/admissions/graduate/mba/curriculum/immersion-learning/strategic-product-and-marketing/",
+     "title": "Strategic Product & Marketing Immersion",
+     "section": "Immersion page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'student-led teams partner directly with a company or startup'; partner companies 'commit to regular check-ins, give ongoing feedback, and attend the final presentation'; final business case presented to the client; semester-long.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Chemical and Biomolecular Engineering",
+   "eligible_faculties_programmes": "MEng Chemical Engineering",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "Team project",
+   "named_partners": "W. L. Gore & Associates, Kyowa Kirin, Tesla, DuMond Farms (undated)",
+   "participation_data": "",
+   "unresolved": "Dates; internal vs external share; compulsory status. Other MEng programmes (MAE, BME, ORIE financial engineering) likely have similar sponsored projects - not researched.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "deliverable": "",
+   "partner_role": "Sponsor (company or faculty)",
+   "local_id": "S5",
+   "official_name": "MEng Chemical Engineering industry-inspired team projects",
+   "english_name": "MEng Chemical Engineering team projects",
+   "description": "MEng CBE team-based projects under faculty mentorship, 'industry-inspired', with sponsors including W. L. Gore, Kyowa Kirin, Tesla and DuMond Farms; teams of 2-4 (search summary) give a final presentation to faculty advisor and company sponsor(s). Sponsors may also be Cornell faculty.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Techno-economic analyses/models presented in final presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'The team-based projects...' [1]; team size 2-4 from search summary only.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Named company sponsors [1], but sponsors can also be Cornell faculty (search summary), so external coverage not documented as standard.",
+   "partner_type": "Mixed",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.duffield.cornell.edu/cbe/meng/meng-projects/",
+     "title": "M.Eng. Projects",
+     "section": "Project list",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'The team-based projects are industry-inspired and conducted under the mentorship of a faculty member.' Sponsors listed: W. L. Gore & Associates, Kyowa Kirin, Tesla, DuMond Farms.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "INFO 5900",
+   "admin_host": "Cornell Bowers CIS, Information Science",
+   "eligible_faculties_programmes": "MPS Information Science",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "3 credits; required in at least one semester (2-semester track) or two (3-semester track)",
+   "duration": "One semester (14 weeks)",
+   "delivery_format": "Team client project",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "Client sector not specified; showcase examples not opened; the 2026 evidence is as reported by the fetch summary of linked showcase.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "deliverable": "Final report with handover package",
+   "partner_role": "Client: designated representative, mentorship and feedback, receives handover package",
+   "local_id": "S6",
+   "official_name": "INFO 5900 MPS Project (Information Science)",
+   "english_name": "MPS Project, Information Science",
+   "description": "Students in the MPS in Information Science work in teams of 5-7 to research and design a solution for an external client organisation; client representative designated per project, mentors and gives feedback; weekly updates; proposal (wk4), progress report (wk8), final report with handover package (wk14).",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Proposal, progress report, final report and handover package [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students work in teams'; teams of 5-7 [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'research and design a solution for an external client organization'; client representative is main contact, provides ongoing mentorship and feedback [1].",
+   "partner_type": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "duration_band": "~1 term/semester",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (showcase pages cover MPS projects 2019-2026; 'offered every semester')",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://infosci.cornell.edu/masters/mps/curriculum/project",
+     "title": "Academic Planning: MPS in Information Science",
+     "section": "Project",
+     "pub_year": "undated; showcase 2019-2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'INFO 5900 MPS Project (3 credits) is offered every semester. In the course, students work in teams to research and design a solution for an external client organization.' Teams of 5-7; 'A client representative will be designated for each project.' Must enrol in INFO 5900 in at least one semester (2-semester track).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Weill Cornell Medicine, Population Health Sciences",
+   "eligible_faculties_programmes": "Three MS programmes named",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "Academic credit (stated: clients are not charged as students earn credit)",
+   "duration": "Jan-June (HI, HPE) or May-July (BDS), final presentation July/October",
+   "delivery_format": "Team capstone",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "Whether the capstone is compulsory (inferred from 'capstone'); partners not named in text; whether clients are external or Weill-internal; this is a Weill (NYC) campus with reach to those MS programmes only.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "deliverable": "Agreed client deliverables, final paper and presentation",
+   "partner_role": "Client: proposes project, receives deliverables",
+   "local_id": "S7",
+   "official_name": "Weill Cornell Medicine Public Health Sciences MS Capstone (client partner projects)",
+   "english_name": "Weill Cornell MS capstone with client partners",
+   "description": "Capstone teams of about four students in the MS in Biostatistics and Data Science, Health Informatics, and Health Policy and Economics deliver data analysis, modelling, policy analysis or visualisation for client organisations who submit proposals and sign a Capstone Client Agreement; faculty oversees; final paper and presentation.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "science",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Client deliverables, final paper and presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'capstone teams of approximately 4 students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients submit proposals, sign Capstone Client Agreement, collaborate with students, 'highly encouraged to attend' final presentation [1].",
+   "partner_type": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "duration_band": ">1 term",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2026-2027 / 2027 dates listed",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://phs.weill.cornell.edu/graduate-education-clinical-training/become-capstone-partner",
+     "title": "Become a Capstone Partner",
+     "section": "Partner page",
+     "pub_year": "2026-2027",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Our capstone teams of approximately 4 students'; services include 'data analysis, literature reviews, statistical modeling, policy analysis, data visualization'; clients submit a proposal and sign a Capstone Client Agreement; 'highly encouraged to attend' final presentation; dates for 2026-2027 (HI, HPE) and 2027 (BDS).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "admin_host": "Cornell Law School",
+   "eligible_faculties_programmes": "2Ls, 3Ls, LLM",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "",
+   "duration": "",
+   "delivery_format": "",
+   "named_partners": "Al Marsad; Avon Global Center for Women and Justice (undated; Avon Global Center is a Cornell Law centre, so internal)",
+   "participation_data": "",
+   "unresolved": "Credits, term, dates; extent of external NGOs vs internal Cornell centre; clinic is legal practice.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "deliverable": "",
+   "partner_role": "NGO partner / client",
+   "local_id": "S8",
+   "official_name": "International Human Rights Clinic (Cornell Law School)",
+   "english_name": "International Human Rights Clinic",
+   "description": "Law students (2L, 3L, LLM) are divided into collaborative teams, each working on a substantive human rights project (litigation, investigation, reports) in collaboration with international NGOs such as Al Marsad and the Avon Global Center for Women and Justice.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "project_based": "Yes",
+   "project_evidence": "Court filings, UN petitions, reports [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students are divided into collaborative teams, each of which works on a substantive human rights project' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects run 'in collaboration with international NGOs'; examples named, but whether all projects have an external client is not stated, and clinic work is representation-based [1].",
+   "partner_type": "Charity/community",
+   "external_partner_coverage": "Some projects",
+   "duration_band": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.lawschool.cornell.edu/academics/experiential-learning/clinical-program/international-human-rights-clinic/",
+     "title": "International Human Rights Clinic",
+     "section": "Clinic page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'students are divided into collaborative teams, each of which works on a substantive human rights project'; 'The clinic is open to 2Ls, 3Ls, and LL.M. students.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Student Project Teams (Cornell Engineering)",
+   "legacy": true,
+   "category": "Near-miss: no external org",
+   "reason": "Legacy row. Student-led design/build, social impact and app teams, 1,800+ students, 30+ majors, credit via ENGRG 1400/3400/4400 (1-3 cr S/U). Fetched project-teams and academic-framework pages mention no external sponsors, clients or industry mentors, so C is not evidenced (A and B plausible). Reach not stated on pages (eligibility links not opened); legacy 'undergraduates across colleges' not verified. Teams are student-run, not employer-commissioned.",
+   "source_url": "https://www.duffield.cornell.edu/students/undergraduate-students/special-programs/project-teams",
+   "status_note": "Pages carry 2026 copyright only"
+  },
+  {
+   "name": "Einhorn Center community-engaged learning (e.g. PUBPOL 3050/5050 refugee policy)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary: teams work alongside community leaders and present at a symposium; no course page opened, group/partner type unverified.",
+   "source_url": "https://einhorn.cornell.edu/",
+   "status_note": ""
+  },
+  {
+   "name": "Cornell Tech Startup Studio",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Teams build own startups; no external client.",
+   "source_url": "https://tech.cornell.edu/studio/",
+   "status_note": ""
+  },
+  {
+   "name": "CS 5150 Software Engineering project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Spring 2026 page: teams of 4-5, but for this offering 'the ideal arrangement of distinct clients is not feasible', so course staff act as clients; external projects possible only if they meet requirements; open-source options. Not documented external clients as standard.",
+   "source_url": "https://www.cs.cornell.edu/courses/cs5150/2026sp/projects.html",
+   "status_note": "Spring 2026"
+  },
+  {
+   "name": "PAM 4950 community-partner engaged course",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Only a Spring 2022 roster (search summary); current delivery and partner details unverified.",
+   "source_url": "https://classes.cornell.edu/browse/roster/SP22/class/PAM/4950",
+   "status_note": "2022"
+  },
+  {
+   "name": "Entrepreneurship at Cornell / PIHE hackathons (Hilton, Johnson & Johnson, NYP sponsors)",
+   "legacy": false,
+   "category": "Event/competition without live client",
+   "reason": "Weekend hackathons with sponsors; short, defined output and sponsor role not verified from pages opened (search summary only).",
+   "source_url": "https://business.cornell.edu/centers/pihe/engagement/hackathons/",
+   "status_note": "2024-2026 events"
+  },
+  {
+   "name": "Johnson MBA Strategy & Consulting Immersion / Digital Technology Immersion",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "SCI page does not say projects are with outside clients; Digital Technology Immersion described only in search summary. Not opened.",
+   "source_url": "https://www.johnson.cornell.edu/programs/full-time-mba/two-year-mba/curriculum/immersion-learning/strategy-consulting/",
+   "status_note": ""
+  },
+  {
+   "name": "MPS Applied Economics & Management yearlong capstone",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Page says teams address a real-world challenge 'often in collaboration with an industry partner' - 'often' = not standard; no deliverable or dates.",
+   "source_url": "https://business.cornell.edu/programs/mps-aem/",
+   "status_note": ""
+  },
+  {
+   "name": "Other MEng programmes (MAE, BME, MSE, ORIE financial engineering) and BME senior design",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summaries indicate sponsored team projects (MAE: $15,000 company fee, BME sponsors J&J, West Pharmaceutical) but pages not opened; further departmental instances likely.",
+   "source_url": "https://www.engineering.cornell.edu/meng/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Cornell has no institution-wide employer-project scheme found in the documented search. Qualifying provision is distributed across colleges and mostly programme-embedded.\n\n**Strongest routes.** Dyson's AEM 4000 Grand Challenges Project Course (Fall 2025 roster, 3 credits) puts teams of 4-5 undergraduates with a client or community partner on a societal problem; the Dyson page reports about 50 external-partner projects a year, with liaisons acting as mentors and meeting teams at least four times. Graduate programmes supply compulsory or required team projects: MEng Engineering Management (ENMGT 5910, teams of 2-7, sponsor receives report and presentation; Wayfair, IBM, Siemens Healthineers named), MPS Information Science INFO 5900 (teams of 5-7, designated external client representative), Cornell Tech Product Studio (mandatory for all master's students, industry advisor and final demo) and the Johnson MBA Strategic Product & Marketing Immersion (company partner attends final presentation). Weill Cornell MS capstones (teams of about 4, client agreement) list 2026-27 dates.\n\n**Legacy row.** Engineering Student Project Teams (1,800+ students, 30+ majors, credit via ENGRG 1400/3400/4400) are student-led; fetched pages mention no external sponsor, so criterion C is not evidenced.\n\n**Uncertain.** Many pages are undated, so only AEM 4000, INFO 5900 and the Weill capstone have dated or recent evidence. Undergraduate engineering sponsor capstones, ILR/Brooks/Government, Hotel and AAP were not verified.",
+ "gaps": "Further MEng programmes (MAE, BME, MSE, ORIE), MPS AEM capstone, other Johnson immersions, BME senior design, Law clinics, Hotel and AAP studios and PAM/PUBPOL community courses were identified only via search summaries. Many pages undated. Eligibility for Student Project Teams not opened. Reduced-depth mode: about 12 searches plus 11 page fetches (WebFetch worked, retrieval 'page text'; some quoted content is fetch-model summaries of the pages)."
+}
