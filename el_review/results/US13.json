@@ -1,61 +1,80 @@
 {
  "inst_id": "US13",
  "institution": "University of Michigan, Ann Arbor",
- "review_status": "Partial",
- "partial_remaining": "arts/humanities/social sciences, other, central re-check, SEAS and ME450 records",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
    "queries": [
-    "MDP about/start-here"
+    "Center for Entrepreneurship OR Ginsberg Center OR Center for Academic Innovation student teams real client project",
+    "MDP about / start here / eligibility"
    ],
    "key_sources": [
-    "https://mdp.engin.umich.edu/about-mdp/"
+    "https://mdp.engin.umich.edu/start-here/",
+    "https://cfe.umich.edu/project/urban-entrepreneurship/"
    ],
-   "finding": "MDP is university-wide in eligibility."
+   "finding": "MDP (hosted by Engineering) is the only university-wide employer-sponsored team route verified; entrepreneurship/Ginsberg items are opt-in leads. Direct fetch of mdp.engin.umich.edu was blocked by Cloudflare (403), so MDP evidence is from search extracts."
   },
   "business": {
    "status": "Searched",
    "queries": [
-    "Ross MAP"
+    "Ross MAP corporate client student teams",
+    "Ross Capstone MAP BBA MM sponsoring organizations"
    ],
    "key_sources": [
-    "https://michiganross.umich.edu/courses/capstone-map-10484"
+    "https://michiganross.umich.edu/courses/capstone-map-10484",
+    "https://michiganross.umich.edu/sites/default/files/uploads/Programs/MAP/pdfs/map_brochure.pdf"
    ],
-   "finding": "MAP found."
+   "finding": "Ross MAP across MBA programmes and Capstone MAP for BBA/MM: sponsor-set projects for team consulting."
   },
   "engineering_computing": {
    "status": "Searched",
    "queries": [
-    "ME 450 capstone"
+    "ME 450 capstone sponsors",
+    "Design Expo capstone industry sponsored 2026",
+    "ME 450 industry partners winter 2026"
    ],
    "key_sources": [
-    "https://me.engin.umich.edu/academics/undergrad/me450/"
+    "https://me.engin.umich.edu/academics/undergrad/me450/",
+    "https://mdp.engin.umich.edu/design-expo/"
    ],
-   "finding": "pending"
+   "finding": "ME 450 has industry projects for some teams; other departmental capstones likely exist."
   },
   "science": {
    "status": "Searched",
    "queries": [
-    "SEAS master's project"
+    "SEAS master's project client organization team",
+    "SEAS master's project clients 2025-2026"
    ],
    "key_sources": [
     "https://seas.umich.edu/research-impact/student-research/masters-projects"
    ],
-   "finding": "pending"
+   "finding": "SEAS client-based master's projects verified with 2025-2026 client list. No natural-science department capstones searched separately."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "pending"
+   "status": "Searched",
+   "queries": [
+    "LSA capstone community partner student teams",
+    "Ford School Applied Policy Seminar / Strategic Public Policy Consulting",
+    "UMSI client-based courses"
+   ],
+   "key_sources": [
+    "https://fordschool.umich.edu/strategic-public-policy-consulting",
+    "https://www.si.umich.edu/programs/engaged-learning/client-based-courses"
+   ],
+   "finding": "Ford School SPPC (public-sector clients) and UMSI client-based courses; LSA QMSS capstone only 2021 example."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "pending"
+   "status": "Searched",
+   "queries": [
+    "Taubman OR Law clinic OR Public Health student team client"
+   ],
+   "key_sources": [
+    "https://michigan.law.umich.edu/academics/experiential-learning/clinics/community-enterprise-clinic-0"
+   ],
+   "finding": "Law clinics are client casework; Taubman MECC is a community-engagement initiative; Public Health, Social Work, Design not found in this budget."
   }
  },
  "schemes": [
@@ -185,7 +204,7 @@
    "participation_requirement": "Compulsory within specified programmes",
    "curricular_status": "Curricular",
    "credit_assessment": "Capstone MAP: 3-credit elective (BA 453). MBA MAP credit not captured.",
-   "duration": "MBA MAP seven weeks; Capstone MAP one term (W26)",
+   "duration": "MBA MAP: seven weeks; Capstone MAP: one term (W26)",
    "delivery_format": "Team consulting with sponsor site visits",
    "project_based": "Yes",
    "project_evidence": "Real business problem; detailed report and recommendations presented to faculty and company [1][2].",
@@ -198,12 +217,12 @@
    "external_partner_coverage": "All/standard",
    "named_partners": "Big Brothers Big Sisters of Southeast Michigan (2026 BBA Capstone listing); Amazon, Caterpillar, Ford, Uber named as general MAP sponsors (not specific to Capstone MAP)",
    "deliverable": "Written report and presentation of recommendations",
-   "duration_band": "~1 term/semester (MBA MAP 1-4 weeks block of seven weeks)",
+   "duration_band": "~1 term/semester",
    "likely_duplicate_of": "",
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2026 (W26 Capstone MAP; Ross 2026 news: 175 projects a year)",
    "participation_data": "175 projects a year (Ross 2026 news, via search summary); 79 BBA + 17 MM students on 20 Capstone MAP projects in one undated term",
-   "unresolved": "Whether MAP is compulsory for all MBA streams not directly quoted; Capstone MAP is elective.",
+   "unresolved": "Whether MAP is compulsory for all MBA streams not directly quoted; Capstone MAP is elective. Evidence for MBA MAP is from undated pages and 2021-2022 news; Capstone MAP W26 listing is the current-dated evidence.",
    "legacy_ref": "",
    "sources": [
     {
@@ -253,10 +272,334 @@
      ]
     }
    ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "named_partners": "Meijer (2 projects), Michigan EGLE Office of Climate & Energy, LinkedIn, NREL, National Wildlife Federation, Southern California Edison, Ann Arbor Hands-On Museum (2025-2026 list)",
+   "duration_band": ">1 term",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Clients mix business, state agency, nonprofit; some advisors also on client side (Meijer). Group-vs-individual alternative capstone options exist (not assessed). Pages not opened (SEAS not fetched; search extracts only).",
+   "legacy_ref": "",
+   "credit_assessment": "Not captured; students submit a project report. Whether the project is compulsory vs one of several capstone options not confirmed.",
+   "delivery_format": "",
+   "local_id": "S3",
+   "official_name": "SEAS Master's Project (Master's Capstone, client-based)",
+   "english_name": "SEAS Master's Project",
+   "description": "Teams of about five SEAS master's students scope and deliver a project for a client organisation (sponsor) under a faculty advisor over 15-18 months; traditional route or theme-based course (e.g. EAS 701.478 Masters Theme Project) with four teams on a theme but distinct clients. 2025-2026 clients include Meijer, Michigan EGLE Office of Climate & Energy, LinkedIn, NREL, National Wildlife Federation, Southern California Edison, Ann Arbor Hands-On Museum.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School for Environment and Sustainability",
+   "eligible_faculties_programmes": "SEAS master's students (master's project option; capstone options page lists alternatives)",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "About 15-18 months",
+   "project_based": "Yes",
+   "project_evidence": "Client-proposed scope, final proposal with research questions, tasks and products; project report [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of ~5 students [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsoring organisation is the client, proposes the idea, works with the team until completion; client expectations document; 2025-2026 list names external organisations [1][2][3].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: proposes idea, engages with team, receives project outputs",
+   "external_partner_coverage": "All/standard",
+   "deliverable": "Project report and client deliverables",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025-2026 (2026 Capstone Conference page)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://seas.umich.edu/research-impact/student-research/masters-projects",
+     "title": "Master's Projects",
+     "section": "Overview and 2025-2026 list",
+     "pub_year": "2025-2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Teams of ~5 students develop the project scope based on a proposed idea from the sponsoring organization (the client); faculty advisor; about 15-18 months (search summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://seas.umich.edu/sites/default/files/users/user37/Client_Expectations%202024.pdf",
+     "title": "Client Expectations",
+     "section": "Client roles",
+     "pub_year": "2024",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Client expectations document: successful clients are engaged and committed to work with the team; final proposal covers objectives, research questions, tasks and products.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://seas.umich.edu/research-impact/student-research/masters-projects/search",
+     "title": "List of Master's Projects",
+     "section": "2025-2026 entries",
+     "pub_year": "2025-2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Entries include Regenerative Agriculture Program Development and Meijer Customer Recycling Program Expansion (Meijer, Grand Rapids), Funding the MI Healthy Climate Plan (EGLE OCE, Lansing).",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "PUBPOL 578",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "named_partners": "City of Ann Arbor, Detroit Regional Chamber, Michigan Indigent Defense Commission, Washtenaw ISD, GAO (older, partly ~2019 page)",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "No dated 2025-26/2026-27 cohort or client list found; page is a current program page with client call (proposals due October 15) but year not shown. Separate Public Policy Consulting Clinic (pilot Fall 2025; 12 paid students on 3 local-government projects, May 2026) not assessed as a scheme.",
+   "legacy_ref": "",
+   "credit_assessment": "4 credits",
+   "delivery_format": "",
+   "local_id": "S4",
+   "official_name": "Strategic Public Policy Consulting (formerly Applied Policy Seminar), PubPol 578",
+   "english_name": "Strategic Public Policy Consulting",
+   "description": "Semester-long four-credit master's course: teams of 3-6 students work with a faculty coordinator and client representative to develop a work plan, research and analysis, a written report and a presentation of findings to the client within 13 weeks. Past clients include City of Ann Arbor, Detroit Regional Chamber, Michigan Indigent Defense Commission, Washtenaw ISD, GAO. Clients are public-sector and civic bodies; open to Ford School and other U-M professional degree students.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Gerald R. Ford School of Public Policy",
+   "eligible_faculties_programmes": "Ford School students and other U-M professional degree programmes",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "One semester (13 weeks)",
+   "project_based": "Yes",
+   "project_evidence": "Written report and presentation of findings and recommendations to client [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3-6 students [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client proposes the project (winter proposals due October 15), designates a contact, and receives report and presentation [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Client: proposes project, designates contact, receives report/presentation",
+   "external_partner_coverage": "All/standard",
+   "deliverable": "Written report and client presentation",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Course listing PubPol 578 under current instructor; no dated 2025/26 cohort evidenced",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://fordschool.umich.edu/strategic-public-policy-consulting",
+     "title": "Strategic Public Policy Consulting",
+     "section": "Program page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Semester-long four-credit course; teams of 3-6 students work with a faculty coordinator and client representative; written report and presentation to client; completed in 13 weeks; proposals for Winter due October 15.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "named_partners": "",
+   "duration_band": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Group working per course, course-specific delivery year, enrolment and credit not established; recommend course-level follow-up.",
+   "legacy_ref": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "local_id": "S5",
+   "official_name": "UMSI client-based courses and Engaged Learning Office projects",
+   "english_name": "UMSI Client-based Courses",
+   "description": "UMSI's Engaged Learning Office sources projects from local and global organisations (small businesses, nonprofits, governments, museums) for client-based courses (SI 350, 485/495, 487/497, 500, 538, 547, 581, 622) and programs such as SO-ELL, where student teams present deliverables to clients at end of semester and clients meet teams 3-4 times.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Information (Engaged Learning Office)",
+   "eligible_faculties_programmes": "UMSI undergraduate and graduate students in listed courses",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Mixed",
+   "project_based": "Yes",
+   "project_evidence": "Client projects with portfolio deliverables, e.g. usability reviews, dashboards [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Course-specific; 'student teams' stated for SO-ELL and client guide, but team vs individual by course not separated [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients propose projects, meet teams 3-4 times, provide data and receive deliverables [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: proposes project, meets team, receives deliverables",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.si.umich.edu/programs/engaged-learning/client-based-courses",
+     "title": "Client-based courses",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Engaged Learning Office sources projects from local and global organizations for courses; SO-ELL teams present deliverables to clients at end of semester; clients meet teams 3-4 times (search summary).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ME 450",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "named_partners": "",
+   "duration_band": "~1 term/semester",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Compulsory status not directly quoted; sponsor names for 2025/26 not found. Other departmental capstones (e.g. IOE 424) likely exist.",
+   "legacy_ref": "",
+   "credit_assessment": "",
+   "delivery_format": "",
+   "local_id": "S6",
+   "official_name": "ME 450 Capstone Design (industry-sponsored sections)",
+   "english_name": "Mechanical Engineering Capstone Design",
+   "description": "Senior mechanical engineering semester-long capstone: teams of typically four design and prototype; several projects each semester come from industry partners, others are faculty-sponsored, global health or student-initiated; teams present at the Michigan Engineering Design Expo (Winter 2026 expo 16 April 2026).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Mechanical Engineering",
+   "eligible_faculties_programmes": "Mechanical Engineering undergraduates",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "One semester",
+   "project_based": "Yes",
+   "project_evidence": "Design process to prototype validation, Design Expo showcase [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of typically four [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Several' projects each semester come from industry partners; other sources are faculty, global health, student-initiated, so industry is not the standard source [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Some projects: industry partner proposes challenge",
+   "external_partner_coverage": "Some projects",
+   "deliverable": "Prototype and Design Expo presentation",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Design Expo Winter 2026, 16 April)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://me.engin.umich.edu/academics/undergrad/me450/",
+     "title": "Capstone Design (ME 450)",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Teams of typically four, semester-long; 'several of our projects come from industry partners' each semester; faculty-sponsored, global health and student-initiated projects also offered (search extract).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://mdp.engin.umich.edu/design-expo/",
+     "title": "Design Expo",
+     "section": "Dates",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract (quoted)",
+     "extract": "Winter Term 2026 Design Expo April 16, 12-4 PM; projects include internal, nonprofit and industry-sponsored (search extract).",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
   }
  ],
- "exclusions": [],
- "embeddedness": "Unclear",
- "profile_md": "Interim.",
- "gaps": "Interim."
+ "exclusions": [
+  {
+   "name": "Multidisciplinary Design Program (MDP)",
+   "legacy": true,
+   "category": "Other",
+   "reason": "Reassessed as scheme S1 (legacy row 103).",
+   "source_url": "https://mdp.engin.umich.edu/about-mdp/",
+   "status_note": "see S1"
+  },
+  {
+   "name": "QMSS 451 Senior Capstone",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Teams build projects for outside nonprofit (The Davies Project), but only a 2021 example found; current delivery and coverage unverified.",
+   "source_url": "https://lsa.umich.edu/qmss/news-events/all-news/search-news/qmss-senior-capstone---working-with-the-davies-project-in-winter.html",
+   "status_note": "2021"
+  },
+  {
+   "name": "Integrated Policy Exercise (Ford School)",
+   "legacy": false,
+   "category": "Simulation/virtual",
+   "reason": "Simulation with teams representing constituencies; no external client.",
+   "source_url": "https://fordschool.umich.edu/ipe",
+   "status_note": ""
+  },
+  {
+   "name": "Ross Detroit Neighborhood Entrepreneurs Project (DNEP) / Center for Entrepreneurship Urban Entrepreneurship Practicum / TechLab",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Lead only: DNEP student teams work with small-business owners via action-based learning courses (appears to overlap Capstone MAP); Practicum and TechLab (team of four for autonomous-vehicle companies) not verified.",
+   "source_url": "https://cfe.umich.edu/project/urban-entrepreneurship/",
+   "status_note": ""
+  },
+  {
+   "name": "Michigan Law Community Enterprise Clinic / Transactional Lab",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Legal casework for community clients, students typically in teams of two but client service/casework, not a bounded project output; not assessed further.",
+   "source_url": "https://michigan.law.umich.edu/academics/experiential-learning/clinics/community-enterprise-clinic-0",
+   "status_note": ""
+  },
+  {
+   "name": "Taubman MECC; Ginsberg Center; BLI Capstone; Project Community",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Community-engagement/service-learning leads; not tested for partner-set group projects.",
+   "source_url": "https://taubmancollege.umich.edu/urbanplanning/faculty-research/michigan-engaging-community-through-classroom",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Michigan's strongest verified provision is distributed rather than centrally mandated. The **Multidisciplinary Design Program** (hosted by Engineering, open to undergraduate and master's students from all majors) places year-long teams of about 5-7 on sponsor-proposed projects with joint faculty and sponsor mentoring and handover to the sponsor; sponsors are 30-40 companies, nonprofits, government bodies *and internal University clients* a year, so external coverage is marked 'Some projects'. **Ross MAP / Capstone MAP** gives MBA and BBA/MM teams sponsor-set consulting projects with liaisons, data and executive presentations. **SEAS Master's Projects** are year-plus client projects for teams of about five with a 2025-2026 list of external clients (Meijer, EGLE, LinkedIn, NREL). The **Ford School's Strategic Public Policy Consulting** places teams of 3-6 with public-sector clients, though current-year delivery was not dated. UMSI client-based courses and ME 450 industry-sponsored sections are partly evidenced (group basis or industry share unclear). The Integrated Policy Exercise is a simulation and excluded.\n\nParticipation is optional or programme-specific, except where a capstone is required within a degree. Evidence is from search extracts because the MDP site blocks automated retrieval (Cloudflare challenge, not bypassed). Uncertainties include internal vs external client share in MDP, current-year Ford and UMSI cohorts, and unsearched units (Public Health, Social Work, Design, LSA departments).",
+ "gaps": "MDP, ME 450, SEAS pages not opened (403/Cloudflare); evidence is search extracts. Unsearched: School of Public Health, Social Work, Art & Design, Nursing, Kinesiology, LSA departmental capstones, Computer Science (EECS 440/ MDE), IOE 424, further engineering capstones (further departmental instances likely). Ford Clinic pilot and UMSI per-course team basis not assessed."
 }
