@@ -1,8 +1,8 @@
 {
  "inst_id": "US27",
  "institution": "Washington",
- "review_status": "Partial",
- "partial_remaining": "Opening/verifying: Livable City Year (lcy.be.uw.edu), Built Environments studios (URBAN 507), Biostatistics MS capstone, Foster MBA/MSCM consulting, health/law clinics; dated 2025/26 evidence for iSchool capstone.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -361,9 +361,152 @@
      ]
     }
    ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Biostatistics MS Capstone Project (sponsored)",
+   "english_name": "UW Biostatistics MS capstone with project sponsors",
+   "module_code": "",
+   "description": "Sponsors submit project proposals (accepted from November); project teams work September-March and deliver a final product to the sponsor, who 'is the client' and helps define the final product.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Biostatistics",
+   "eligible_faculties_programmes": "MS Biostatistics students",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "September-March",
+   "delivery_format": "Team project for sponsor-client",
+   "project_based": "Yes",
+   "project_evidence": "Sponsor receives 'an impactful final product' by end of project period [1].",
+   "group_working": "Yes",
+   "group_evidence": "Page refers to 'the project team' and describes teams of students [1]; team size not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "'As a project sponsor, you are the client'; sponsor works with students to define the final product; past sponsors Public Health Seattle and King County and NanoString Technologies [1]. Whether every project has an external sponsor (vs internal) is not stated.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: proposes project, defines product with team, receives final product",
+   "named_partners": "Public Health - Seattle & King County; NanoString Technologies (undated)",
+   "deliverable": "Sponsor-specific final product",
+   "duration_band": "> 1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Undated page; whether capstone is required; whether all projects are externally sponsored.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.biostat.washington.edu/academics/ms/capstone/sponsors",
+     "title": "Capstone Project Sponsorship - UW Biostatistics",
+     "section": "Sponsors",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'As a project sponsor, you are the client.' Project dates 'September - March'; 'Project proposals are accepted starting November.' Past sponsors: Public Health Seattle and King County; NanoString Technologies.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Livable City Year",
+   "english_name": "Livable City Year (UW-city partnership)",
+   "module_code": "",
+   "description": "Annual UW initiative pairing one city/county partner (2026-27: City of Seattle and Jefferson County) with UW faculty and students across disciplines to work on projects identified by the partner, delivered through existing courses.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Livable City Year (College of Built Environments site)",
+   "eligible_faculties_programmes": "Students in participating courses across multiple disciplines",
+   "faculty_areas": [
+    "central",
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Via participating courses",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Through host courses; not stated",
+   "duration": "Academic year",
+   "delivery_format": "Course-embedded projects for municipal partner",
+   "project_based": "Yes",
+   "project_evidence": "'work on high-priority projects identified by our community partners' [1]; deliverables not listed on page.",
+   "group_working": "Unclear",
+   "group_evidence": "Team structure not described on fetched page [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Municipal partners identify projects and receive applied ideas/support for staff [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Identifies projects; receives outputs",
+   "named_partners": "City of Seattle; Jefferson County (2026-27)",
+   "deliverable": "Not specified",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026-27",
+   "participation_data": "16 partnership pages 2016-17 to 2026-27 (project menu); earlier search extracts: Auburn 2016-17 160+ students/17 projects",
+   "unresolved": "Group working and per-course deliverables; which courses run in 2026-27.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://lcy.be.uw.edu/",
+     "title": "Livable City Year",
+     "section": "Home",
+     "pub_year": "2026-27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'engages UW faculty and students across multiple disciplines to work on high-priority projects identified by our community partners.' Current partners 2026-2027: City of Seattle and Jefferson County.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "reach"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
+  {
+   "name": "Built Environments studios (Storefront, Nehemiah, URBAN 507, design/build)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Page describes community/client-partnered collaborative studios, but no specific studio opened with project, team and partner evidence for a single route; likely further qualifying instances.",
+   "source_url": "https://be.uw.edu/academics/studios/",
+   "status_note": "undated"
+  },
+  {
+   "name": "Allen School CSE 481 capstones",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Team capstone but no employer sponsor evidenced in search extract.",
+   "source_url": "https://www.cs.washington.edu/academics/undergraduate/degree-requirements/capstones/",
+   "status_note": ""
+  },
+  {
+   "name": "Program on the Environment capstone (ENVIR 490-492)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Internship-based; search extract says typically individual.",
+   "source_url": "https://envstudies.uw.edu/capstone-experience/",
+   "status_note": ""
+  },
   {
    "name": "Undergraduate Community-Based Internship Program (CELE)",
    "legacy": true,
@@ -374,6 +517,6 @@
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "Provisional (Partial).",
- "gaps": "Provisional."
+ "profile_md": "Several distributed, mostly faculty/programme-level routes were verified at UW (page text via WebFetch, 2026-10-13). The strongest: the College of Engineering Industry Capstone (sponsor-proposed, sponsor-funded team projects January-June with weekly sponsor technical mentor; 54 sponsors/95 projects/550+ students in 2023/24); the Evans School Student Consulting Lab (second-year MPA teams of 3-5 consulting for public, private and nonprofit clients over five months); and Foster CBDC undergraduate consulting courses MGMT 440/445 (4-5 student teams for real small-business clients, 4 credits, 10 weeks). Biostatistics MS capstone treats sponsors as clients (undated page). Livable City Year links a city/county partner with multi-disciplinary courses annually (2026-27: Seattle and Jefferson County) but team structure is not shown. The iSchool Informatics Capstone allows individual or group work with optional sponsors, so evidence is incomplete. Participation is compulsory only within some programmes (probably Evans MPA); there is no university-wide employer-project requirement. CELE community engagement is individual internship/service-learning and is excluded. Clients at Foster CBDC are external businesses though the centre is a school unit. Uncertain: current status of several undated pages, compulsory status of capstones.",
+ "gaps": "Further departmental instances likely (Mechanical/Electrical/Bioengineering capstones, HCDE, Foster MBA Global Consulting Projects and MSCM team projects, Built Environments studios, law and health clinics, Bothell/Tacoma campuses) - not researched in reduced-depth mode. Health and law clinics were not queried (other area covered via built environments only). Engineering program credit/compulsory status and team size not stated. Some figures come from search extracts (labelled)."
 }
