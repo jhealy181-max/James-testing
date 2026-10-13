@@ -1,8 +1,8 @@
 {
  "inst_id": "US23",
  "institution": "Illinois Urbana-Champaign",
- "review_status": "Partial",
- "partial_remaining": "science and other areas not yet searched; schemes to be drafted",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -13,18 +13,20 @@
    "key_sources": [
     "https://hireillini.illinois.edu/experiential-learning-opportunities"
    ],
-   "finding": "No university-wide employer project scheme surfaced; provision is college/department-level."
+   "finding": "No university-wide employer project scheme surfaced; provision is college/department-level (Hire Illini page listed, not opened)."
   },
   "business": {
    "status": "Searched",
    "queries": [
-    "Gies College of Business student consulting live client project course team corporate partner"
+    "Gies College of Business student consulting live client project course team corporate partner",
+    "BADM 301 Business in Action Gies juniors client projects 2025 OR 2026"
    ],
    "key_sources": [
-    "https://giesbusiness.illinois.edu/experience/experiential-learning/experiential-learning-clients",
+    "https://giesbusiness.illinois.edu/corporate/student-consulting-projects",
+    "https://giesbusiness.illinois.edu/experience/experiential-learning/cohort-sequence",
     "https://giesbusiness.illinois.edu/experience/experiential-learning/illinois-business-consulting"
    ],
-   "finding": "Gies embeds client-based experiential learning in every degree; IBC is a student-run consulting group."
+   "finding": "Gies requires client projects of every junior and graduate student; IBC is a student-run consultancy; BUS 301 current status conflicting."
   },
   "engineering_computing": {
    "status": "Searched",
@@ -34,15 +36,20 @@
    ],
    "key_sources": [
     "https://ise.illinois.edu/undergraduate/senior-engineering-program",
-    "https://siebelschool.illinois.edu/corporate/senior-design"
+    "https://siebelschool.illinois.edu/corporate/senior-design",
+    "https://grainger.illinois.edu/academics/professional/practicums-and-capstone-projects"
    ],
-   "finding": "ISE SE 494 and CS 492/4 have industry sponsors and teams."
+   "finding": "ISE SE 494, CS senior projects, and M.Eng. capstone are sponsor-based."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": ""
+   "status": "Searched",
+   "queries": [
+    "Illinois Grainger OR LAS OR ACES science students team project industry client capstone chemistry statistics food science FSHN 466"
+   ],
+   "key_sources": [
+    "https://fshn.illinois.edu/academics/undergraduate-degrees/food-science"
+   ],
+   "finding": "FSHN 466 team capstone with named industry partners (role unclear); nothing found for LAS sciences."
   },
   "arts_humanities_social_sciences": {
    "status": "Searched",
@@ -50,20 +57,594 @@
     "Urban Planning workshop community client students plan report Illinois"
    ],
    "key_sources": [
-    "https://urban.illinois.edu/our-work/student-work/"
+    "https://urban.illinois.edu/our-work/student-work/",
+    "https://urban.illinois.edu/about-us/support-us/propose-a-capstone-project/"
    ],
-   "finding": "Urban planning workshops with City of Urbana as client."
+   "finding": "MUP client capstone and workshops for City of Urbana."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": ""
+   "status": "Searched",
+   "queries": [
+    "Carle Illinois OR Law OR design OR iSchool OR Media students teams client organization capstone project partner"
+   ],
+   "key_sources": [
+    "https://medicine.illinois.edu/innovation/capstone-innovations"
+   ],
+   "finding": "Carle capstones use internal clinical problems; nothing found for law, design, iSchool, media."
   }
  },
- "schemes": [],
- "exclusions": [],
- "embeddedness": "Unclear",
- "profile_md": "Draft in progress.",
- "gaps": "in progress"
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business in Action (Gies experiential learning course for juniors)",
+   "english_name": "Business in Action (Gies experiential learning course for juniors)",
+   "module_code": "",
+   "description": "Gies undergraduate client-project course in the 01 cohort sequence: teams of 6-7 solve problems for real organisations (Fortune 100 firms, mid-size and start-up companies, nonprofits, small businesses) over a semester, with scoping, midpoint check-in and final presentation.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Gies College of Business (Magelli Office of Experiential Learning)",
+   "eligible_faculties_programmes": "Gies undergraduate (junior) students",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3 (junior)",
+   "eligibility_restrictions": "Gies undergraduates",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "BUS 301, 3 credit hours (catalog per search listing; not verified on page)",
+   "duration": "One semester",
+   "delivery_format": "Team client consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Undergraduate projects are 'semester-long' with 'focused scope and clear deliverables'; 'Every Gies junior is required to partner with a real organization' [2]. ",
+   "group_working": "Yes",
+   "group_evidence": "'Working in teams of 6-7' [1]; 2021 announcement: teams of six to seven [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients submit a business challenge via online form, scoping call and kickoff interview, and receive 'all deliverables and final recommendations' plus a midpoint check-in and final presentation [2]; clients are Fortune 100, midsize/startup, nonprofit and small businesses [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: submits challenge, scopes with project manager, receives deliverables/final presentation",
+   "named_partners": "",
+   "deliverable": "Deliverables and final recommendations; final presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021 (launch announcement); undated Gies pages 2026 era",
+   "participation_data": "2021 announcement: approx. 800 students, more than 130 client projects (estimate at launch).",
+   "unresolved": "Gies course page for BUS 301 reads 'This course is no longer offered' (page otherwise blank), conflicting with the undated Gies pages saying every junior partners with a real organisation; course may have been renumbered. No dated 2025/26 or 2026/27 corroboration found; courses.illinois.edu schedule returned 403 and was not bypassed.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://giesbusiness.illinois.edu/experience/experiential-learning/cohort-sequence",
+     "title": "Cohort Sequence - Gies",
+     "section": "BUS 301",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Working in teams of 6-7, you will learn to develop strategies to solve complex problems'; problems for 'Fortune 100 corporations, midsize and startup companies, nonprofit organizations, and small businesses.'",
+     "supports": [
+      "group",
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://giesbusiness.illinois.edu/corporate/student-consulting-projects",
+     "title": "Student Consulting Projects",
+     "section": "Undergraduate/Client process",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Every Gies junior is required to partner with a real organization.' Semester-long, focused scope, clear deliverables; 'you receive all deliverables and final recommendations'; midpoint check-in and final presentation; clients submit challenge via form, scoping call, kickoff.",
+     "supports": [
+      "project",
+      "employer",
+      "participation",
+      "reach"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://giesbusiness.illinois.edu/news/2021/06/22/illinois-gies-preparing-to-launch-nation-s-largest-experiential-learning-course",
+     "title": "Gies preparing to launch nation's largest experiential learning course",
+     "section": "News",
+     "pub_year": "2021",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Business 301: Business in Action'; teams of six to seven; 'more than 130 individual client projects'; 'a required course for all Gies juniors'; approx. 800 students; begins Fall 2021.",
+     "supports": [
+      "group",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://giesbusiness.illinois.edu/course/BUS/301",
+     "title": "BUS 301 - Gies",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Only status note: 'This course is no longer offered.' Credit and description fields blank.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Illinois Business Consulting (IBC)",
+   "english_name": "Illinois Business Consulting (IBC)",
+   "module_code": "",
+   "description": "Student-run, professionally managed consulting organisation at Gies: multi-disciplinary student teams deliver consulting projects (sales and marketing, analytics, market entry, feasibility, operations, organisational management) for Fortune 500 companies, start-ups and non-profits; about 800 hours of work per project.",
+   "academic_reach": "Unclear",
+   "admin_host": "Gies College of Business student group",
+   "eligible_faculties_programmes": "Not stated on the page (links to a 'Join IBC' page not opened)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not established",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "About 800 hours per project (duration not stated)",
+   "delivery_format": "Student-run consulting teams",
+   "project_based": "Yes",
+   "project_evidence": "Six areas of expertise; ~800 hours of work per project [1].",
+   "group_working": "Yes",
+   "group_evidence": "'multi-disciplinary teams of top university talent' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients are 'Fortune 500 companies to innovative start-ups to well-established non-profit organizations' [1]; testimonial from Ronald McDonald House Charities - CNI [1]; the organisation delivers consulting work for these clients.",
+   "partner_type": "Mixed",
+   "partner_role": "Client of consulting project",
+   "named_partners": "Ronald McDonald House Charities - CNI (testimonial, undated)",
+   "deliverable": "Consulting deliverables (not specified on page)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "More than 260 members (undated)",
+   "unresolved": "Credit status, eligibility, and dated cohort not shown on page opened; treated as extracurricular student organisation (Gies describes it as co-curricular in search summary only).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://giesbusiness.illinois.edu/experience/experiential-learning/illinois-business-consulting",
+     "title": "Illinois Business Consulting",
+     "section": "Home",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'the largest student-run, professionally managed consulting organization in the US with more than 260 members'; 'multi-disciplinary teams'; clients 'Fortune 500 companies to innovative start-ups to well-established non-profit organizations'; ~800 hours per project.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Senior Engineering Project (SE 494), Industrial and Enterprise Systems Engineering",
+   "english_name": "Senior Engineering Project (SE 494), Industrial and Enterprise Systems Engineering",
+   "module_code": "",
+   "description": "ISE senior capstone: teams of three to four students with a faculty advisor tackle real engineering challenges submitted and financially supported by industry partners, with a company visit at kickoff, progress reviews, on-site progress presentation, four written reports and a final symposium.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Industrial and Enterprise Systems Engineering, Grainger College of Engineering",
+   "eligible_faculties_programmes": "ISE undergraduates",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "ISE undergraduates (capstone)",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "One semester (Weeks 1-12 plus final symposium)",
+   "delivery_format": "Team capstone with company visit and on-site presentation",
+   "project_based": "Yes",
+   "project_evidence": "'four written reports' including analyses and economic evaluation; final report and on-campus presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of three to four students, guided by an advisor' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Industry partners submit real engineering challenges and provide financial support for each project'; kickoff and company visit (Week 1), on-site progress presentation (Weeks 11-12) [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor: submits problem, funds project, hosts visits and progress presentation",
+   "named_partners": "Anheuser-Busch (logo alt text only, undated)",
+   "deliverable": "Written reports; final report and presentation at symposium",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Whether SE 494 is compulsory for all ISE students (page calls it 'the capstone experience for ISE undergraduates'); no dated 2025/26 delivery found (schedule site returned 403).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://ise.illinois.edu/undergraduate/senior-engineering-program",
+     "title": "Senior Design Capstone Project",
+     "section": "Senior Engineering Program",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Teams of three to four students, guided by an advisor'; industry partners submit real engineering challenges and provide financial support; Kickoff & Company Visit (Week 1); On-Site Progress Presentation (Weeks 11-12); four written reports.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Senior Projects (CS 492/CS 494), Siebel School of Computing and Data Science",
+   "english_name": "Senior Projects (CS 492/CS 494), Siebel School of Computing and Data Science",
+   "module_code": "",
+   "description": "Two-semester senior projects course in which company representatives pitch projects to enrolled students at the start of the fall semester; students apply to corporate-client projects or are matched with non-profit clients; typical project has four students and sponsors can help select team members.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Siebel School of Computing and Data Science",
+   "eligible_faculties_programmes": "Enrolled senior CS students",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "Course enrolment",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Late August to mid-April (two semesters, about eight months)",
+   "delivery_format": "Team projects with corporate/non-profit clients",
+   "project_based": "Unclear",
+   "project_evidence": "Projects pitched by company representatives; eight-month build (output not specified) [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a typical project has four students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Company representatives pitch their projects to all the enrolled students'; 'he matches them with projects for clients in the non-profit sector'; sponsors can help select students [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor/client pitches project and helps select team",
+   "named_partners": "Rockwell Collins (past project, undated)",
+   "deliverable": "Not specified on page",
+   "duration_band": "> 1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Course number appears as CS 492/4 on page; deliverable, credit and compulsory status not shown; no dated cohort found. Shares of corporate vs non-profit vs internal projects unknown.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://siebelschool.illinois.edu/corporate/senior-design",
+     "title": "Senior Design",
+     "section": "Corporate",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'a typical project has four students'; 'Company representatives pitch their projects to all the enrolled students at the start of the fall semester'; 'Course runs from late August until mid-April'; 2-semester senior projects course (CS 492/4).",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Master of Urban Planning Client Capstone",
+   "english_name": "Master of Urban Planning Client Capstone",
+   "module_code": "",
+   "description": "Second-year MUP students scope a planning question with a client organisation in a year-long consulting-style agreement, collect and analyse data, and give a written and oral report to the client. A pair or small group may pursue a capstone jointly; documented 2024-25 examples are for Stantec (individual) and AIDS Foundation Chicago's Pride Action Tank (two students).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Urban and Regional Planning",
+   "eligible_faculties_programmes": "MUP students",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "MUP",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated (workshop or capstone route to complete degree)",
+   "duration": "Year-long (proposals due 15 July, report May)",
+   "delivery_format": "Client consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Students define problem, collect and analyse data, and 'prepare a written and oral report for their client organization' [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'A pair or small group of students may pursue a Capstone Project jointly' [1]; example projects were by one or two students [2]; some individual, so not separable.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client partners propose project via web form and receive 'professional-level analysis and recommendations'; written and oral report to client [1]; clients include Stantec and Pride Action Tank [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: proposes question, receives report/presentation",
+   "named_partners": "Stantec (2024); AIDS Foundation Chicago Pride Action Tank (2025)",
+   "deliverable": "Written report and oral presentation to client",
+   "duration_band": "> 1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 (capstone reports); proposal call for fall start",
+   "participation_data": "",
+   "unresolved": "Group vs individual route not separable; whether client capstone is required vs workshop option.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://urban.illinois.edu/about-us/support-us/propose-a-capstone-project/",
+     "title": "Propose a Capstone Project",
+     "section": "Client information",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'structured as year-long consulting agreements'; 'A pair or small group of students may pursue a Capstone Project jointly'; students 'prepare a written and oral report for their client organization'; proposals due July 15.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://urban.illinois.edu/our-work/student-work/",
+     "title": "Student Work",
+     "section": "Client-based capstone projects",
+     "pub_year": "2024-2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Stantec described as 'the client agency' (2024, individual project); Pride Action Tank collaboration (2025, two students).",
+     "supports": [
+      "employer",
+      "status",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MUP Plan-Making Workshop (UP 510), Urbana Comprehensive Plan",
+   "english_name": "MUP Plan-Making Workshop (UP 510), Urbana Comprehensive Plan",
+   "module_code": "",
+   "description": "Workshop in which the whole class works as a team for a public-sector client: Fall 2024 UP 510-DA supported the City of Urbana's multi-year comprehensive plan update, producing a development-opportunities graphic included in the adopted plan, outreach materials, a future land use map, typology sheets and mobility maps.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Urban and Regional Planning",
+   "eligible_faculties_programmes": "MUP students (workshop route)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "MUP workshop route",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "One semester (Fall 2024 example)",
+   "delivery_format": "Class-wide workshop for municipal client",
+   "project_based": "Yes",
+   "project_evidence": "Deliverables listed, some adopted into the city's plan [1].",
+   "group_working": "Yes",
+   "group_evidence": "The whole class worked on the project together [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "City of Urbana was the client; outputs incorporated into its plan [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Client: city planning department; uses outputs",
+   "named_partners": "City of Urbana (Fall 2024)",
+   "deliverable": "Plan graphics, maps, engagement materials",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Fall 2024",
+   "participation_data": "",
+   "unresolved": "Whether a UP 510 workshop with an external client runs in 2025/26 or 2026/27; the second case (community engagement plan) names no client.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://urban.illinois.edu/our-work/student-work/",
+     "title": "Student Work",
+     "section": "UP 510-DA",
+     "pub_year": "Fall 2024",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'helping the City of Urbana as they undertake a multi-year process of updating their comprehensive plan'; deliverables: graphic included in the adopted plan, refined future land use map, typology sheets, mobility map.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Master of Engineering Capstone Program project with industry partner",
+   "english_name": "Master of Engineering Capstone Program project with industry partner",
+   "module_code": "",
+   "description": "Grainger M.Eng. students in a Capstone Program course complete a one-semester project with an industry partner, which provides the project and a mentor; students may work independently or in a team.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Grainger College of Engineering",
+   "eligible_faculties_programmes": "M.Eng. students in a Capstone Program course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "M.Eng. Capstone Program only",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "One semester",
+   "delivery_format": "Industry project; individual or team",
+   "project_based": "Yes",
+   "project_evidence": "'one-semester project in cooperation with an industry partner' [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'either independently or as part of a team' [1]; routes not separable.",
+   "employer_connected": "Yes",
+   "employer_evidence": "'The partner provides the project and a mentor' [1]; PPG testimonial.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Provides project and mentor",
+   "named_partners": "PPG (testimonial, undated)",
+   "deliverable": "Not specified",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Individual and team routes not separable; deliverable and credit unspecified.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://grainger.illinois.edu/academics/professional/practicums-and-capstone-projects",
+     "title": "Capstone Projects",
+     "section": "Capstone Program",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'M.Eng. students in a Capstone Program course have an exclusive opportunity to complete a one-semester project in cooperation with an industry partner'; 'The partner provides the project and a mentor'; students work 'either independently or as part of a team'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S8",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Food Science Senior Capstone (FSHN 466)",
+   "english_name": "Food Science Senior Capstone (FSHN 466)",
+   "module_code": "",
+   "description": "Team-based food science capstone in which students develop new food products for professional problems; page states students work 'in teams with industry partners, such as General Mills and Kraft Foods' and industry representatives are invited to the end-of-semester Product Pitch and Showcase.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Food Science and Human Nutrition (ACES)",
+   "eligible_faculties_programmes": "Food Science majors",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "Food Science BS",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Credits not shown on page opened",
+   "duration": "One semester",
+   "delivery_format": "Team product-development capstone",
+   "project_based": "Yes",
+   "project_evidence": "Develop novel food products; pitch and showcase at semester end [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work in teams' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Teams work 'with industry partners' and industry representatives are invited to the Product Pitch and Showcase [1]; page does not say partners set briefs or judge (search summary claim of judging not verified on page).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partners named; exact role not specified",
+   "named_partners": "General Mills; Kraft Foods (undated)",
+   "deliverable": "Product concept, pitch",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Partner role not specified; no dated 2025/26 delivery (schedule site 403).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://fshn.illinois.edu/academics/undergraduate-degrees/food-science",
+     "title": "Food Science",
+     "section": "Capstone",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'you will work in teams with industry partners, such as General Mills and Kraft Foods'; 'we invite industry representatives and students majoring in a variety of concentrations' to the Product Pitch and Product Showcase.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "iVenture Accelerator",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Student-founded ventures in a summer accelerator; teams develop their own ventures, no external organisation commissioning a brief (C not shown). Legacy cite: 2026 cohort confirmed.",
+   "source_url": "https://iventure.illinois.edu/apply",
+   "status_note": "Legacy row 115; applications and 2026 cohort per legacy file, not re-opened."
+  },
+  {
+   "name": "Carle Illinois College of Medicine Capstone Innovations",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Fourth-year medical students lead cross-disciplinary teams of Grainger engineering and Gies business students on problems from clinical rotations; no external client named, internal university units; 2026 showcase listed.",
+   "source_url": "https://medicine.illinois.edu/innovation/capstone-innovations",
+   "status_note": "2026"
+  },
+  {
+   "name": "ECE 445 Senior Design Laboratory",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Team projects; sponsors page lists faculty/lab sponsors and corporate equipment funding (Northrop Grumman, TI) and older company sponsors (2005-2019), but no evidence companies set briefs in current semesters.",
+   "source_url": "https://courses.physics.illinois.edu/ece445/sponsors/",
+   "status_note": "Most recent listings Spring/Fall 2026"
+  },
+  {
+   "name": "Gies Disruption Lab and EntreCorps",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Mentioned as client-facing Gies groups (client strategy presentations; startup pro-bono consulting); not opened individually.",
+   "source_url": "https://giesbusiness.illinois.edu/experience/experiential-learning/experiential-learning-clients",
+   "status_note": ""
+  },
+  {
+   "name": "Other departmental capstones (TSM 439, Bioengineering, Aerospace AE 442/443, MS Health Technology capstone)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search results indicate sponsor-based team capstones; not opened in reduced-depth mode.",
+   "source_url": "https://bioengineering.illinois.edu/academics/capstone-projects/sponsorship",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "UIUC has no university-wide employer-project scheme in the documented search; provision is distributed by college and department.\n\n**Gies College of Business** states that experiential client projects are required in every degree programme, and that every junior partners with a real organisation in teams of 6-7 (BUS 301 Business in Action; clients Fortune 100 to non-profits). However the Gies BUS 301 course page says 'This course is no longer offered', so current delivery is unresolved. Illinois Business Consulting is a student-run consultancy for Fortune 500, start-up and non-profit clients.\n\n**Engineering/computing**: ISE SE 494 (teams of 3-4, industry-submitted and funded problems), Siebel CS senior projects (company pitches, typical team of four, corporate or non-profit clients), and the M.Eng. capstone (partner provides project and mentor, but individual or team). **Urban Planning**: MUP year-long client capstone (pair or small group possible) and UP 510 class workshops for the City of Urbana (Fall 2024). **Food Science** FSHN 466 is a team capstone with named industry partners but their role is not specified.\n\nAll pages are undated or from 2021-2025; none has dated 2025/26-2026/27 enrolment evidence (course schedule site returned 403 and was not bypassed). Carle Illinois capstones are internal. Further departmental capstones are likely.",
+ "gaps": "Current delivery not confirmed for any route (courses.illinois.edu 403). BUS 301 status conflict. CS course number/compulsory status, SE 494 compulsory status, FSHN 466 partner role, IBC credit/eligibility unresolved. Hire Illini central page not opened; law, design, iSchool, media, bioengineering, aerospace, TSM 439 not examined. Further departmental instances likely."
 }

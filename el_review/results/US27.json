@@ -1,0 +1,379 @@
+{
+ "inst_id": "US27",
+ "institution": "Washington",
+ "review_status": "Partial",
+ "partial_remaining": "Opening/verifying: Livable City Year (lcy.be.uw.edu), Built Environments studios (URBAN 507), Biostatistics MS capstone, Foster MBA/MSCM consulting, health/law clinics; dated 2025/26 evidence for iSchool capstone.",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UW CELE Carlson Center community-engaged courses team project",
+    "Livable City Year student projects city partner courses"
+   ],
+   "key_sources": [
+    "https://cele.uw.edu/programs/community-engaged-learning-formerly-service-learning/community-engaged-courses-offered/",
+    "https://www.washington.edu/livable-city-year/news/"
+   ],
+   "finding": "CELE offers service-learning/internships (individual, excluded). Livable City Year (one city partner per year, many courses; redirected to lcy.be.uw.edu) is a lead only from search extracts, not yet fetched."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Foster CBDC student consulting teams client projects"
+   ],
+   "key_sources": [
+    "https://foster.uw.edu/centers/consulting-and-business-development-center/undergraduate-student-programs/",
+    "https://foster.uw.edu/recruiters-business-partners/engage-students/student-consultants/"
+   ],
+   "finding": "CBDC undergraduate courses MGMT 440/445 qualify (S3). MBA Global Consulting, MSCM and Strategic Consulting projects are further routes not opened."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Allen School CSE capstone industry sponsored project teams",
+    "Engineering industry capstone program sponsors"
+   ],
+   "key_sources": [
+    "https://www.engr.washington.edu/industry/capstone",
+    "https://www.cs.washington.edu/academics/undergraduate/degree-requirements/capstones/"
+   ],
+   "finding": "College of Engineering Industry Capstone (S1) qualifies. Allen School CSE 481 capstones: no employer-sponsor evidence found."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Applied Mathematics/Statistics/Biology/Environmental capstone external partner client team"
+   ],
+   "key_sources": [
+    "https://www.biostat.washington.edu/academics/ms/capstone/sponsors",
+    "https://envstudies.uw.edu/capstone-experience/"
+   ],
+   "finding": "Biostatistics MS capstone has sponsors as clients (Public Health Seattle & King County, NanoString) but group/current evidence not opened; Program on the Environment capstone is mostly individual internship-based. Neither recorded as a scheme."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Evans School Applied Policy Workshop client organization team capstone",
+    "Evans School Student Consulting Lab MPA capstone clients teams",
+    "Information School Informatics capstone project sponsor teams external client"
+   ],
+   "key_sources": [
+    "https://evans.uw.edu/employers-partners/student-consulting-lab/",
+    "https://ischool.uw.edu/programs/informatics/curriculum/capstone"
+   ],
+   "finding": "Evans Student Consulting Lab (S2) qualifies; iSchool Informatics Capstone (S4) is mixed individual/group with optional sponsors (evidence incomplete)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Urban Design and Planning studio client community organization team project"
+   ],
+   "key_sources": [
+    "https://be.uw.edu/academics/studios/",
+    "https://urbdp.be.uw.edu/programs/mup-graduate-degree/"
+   ],
+   "finding": "URBAN 507 planning studios and Built Environments studios appear client-based (search extract only: client may be agency, business, neighbourhood group or nonprofit); not opened or recorded. No health/law clinics searched."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "College of Engineering Industry Capstone Program",
+   "english_name": "College of Engineering Industry Capstone Program",
+   "module_code": "",
+   "description": "Sponsor organisations propose projects, reviewed by College of Engineering faculty; students are matched to an approved project and faculty mentor and run a full-scale design process January-June, with a weekly technical mentor from the sponsor; final showcase in June. Sponsors pay project costs plus an $18,000 program fee.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "UW College of Engineering (Industry engagement)",
+   "eligible_faculties_programmes": "College of Engineering students across engineering departments (per 2023/24 page: students from across the College of Engineering)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior (capstone) - not stated on fetched page",
+   "eligibility_restrictions": "Not stated beyond College of Engineering students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated on the program page (departmental capstone courses; not verified)",
+   "duration": "January-June (winter and spring quarters)",
+   "delivery_format": "Sponsor-proposed team design project with weekly sponsor technical mentor and faculty mentor",
+   "project_based": "Yes",
+   "project_evidence": "Teams 'embark on a full-scale design process'; each project lists deliverables [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Projects are 'Scoped for a small team of students'; students matched to a project; 'Teams' work with mentors [1]. Team size not stated.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Sponsoring organisations propose projects, fund them, and provide a technical mentor meeting the team weekly [1]. 54 sponsors / 95 projects in 2023/24 [2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor: proposes project, funds it, supplies weekly technical mentor",
+   "named_partners": "AeroVironment (project example on 2023/24 page)",
+   "deliverable": "Project-specific engineering deliverables (design/prototype) shown at June showcase",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (archive links 2022/23-2025/26; news item July 2026; proposals June-Sept)",
+   "participation_data": "2023/24: 54 sponsors, 95 projects, 'over five hundred fifty students' [2]. A search extract (undated, not verified on opened page) cited 600 students, 116 projects, 79 partners.",
+   "unresolved": "Whether the program is compulsory (departmental capstones); credit; partner_type typed Business as sponsors are companies, but sector mix beyond the AeroVironment example was not itemised; further departmental capstones (ME, EE, BioE) likely overlap.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.engr.washington.edu/industry/capstone",
+     "title": "Industry Capstone Program",
+     "section": "How it works",
+     "pub_year": "undated (archive to 2025/26; news July 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Potential sponsors propose a project for review by College of Engineering faculty.' 'Organizations commit financially to cover project costs and $18,000 program fee.' 'Students are matched to an approved project and faculty mentor.' 'Technical mentor meets with the team weekly for project duration (January - June).' 'Scoped for a small team of students.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.engr.washington.edu/industry/capstone-projects/2023-2024",
+     "title": "Industry-Sponsored Student Capstone Projects 2023/2024",
+     "section": "Overview",
+     "pub_year": "2023/24",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'In the 2023/24 academic year, the industry capstone program was supported by 54 sponsors ... more than half of which were returning, and 95 real-world projects.' 'Over five hundred fifty students from across the College of Engineering participated.'",
+     "supports": [
+      "employer",
+      "reach",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Student Consulting Lab (Evans School MPA capstone)",
+   "english_name": "Student Consulting Lab",
+   "module_code": "PUBPOL 608 (Capstone Project Seminar; per search extract of UW schedule/Evans page)",
+   "description": "Second-year MPA students work in small teams under faculty supervision on projects for public, private and nonprofit partners over about five months (January-May), delivering written reports, presentations to decision-makers or board officers, or implementation tools.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Evans School of Public Policy & Governance",
+   "eligible_faculties_programmes": "Evans School MPA students (second year)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "Evans School MPA students only (Winter 2026 schedule listing, per search extract)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Capstone seminar credit (PUBPOL 608; credit value not verified); 10-12 hrs/week per search extract",
+   "duration": "About five months, January-May",
+   "delivery_format": "Faculty-supervised team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Deliverables 'Written reports, presentations to decision-makers or board officers, or tools to aid in program implementation' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'A feasible program scope for a team of three to five consultants' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Public, private and nonprofit partners submit proposals (due Aug 31), join December kickoff, and receive final report in May [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: proposes project, kickoff with team, receives final report/presentation",
+   "named_partners": "Kitsap County Office of Community Development; Washington Dept of Ecology (alumni profile/news, search extract, 2019-20 teams)",
+   "deliverable": "Written report, presentation or implementation tool",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026-27 (proposal round closed; page states 2026-27 submissions closed)",
+   "participation_data": "'40+ nonprofits and public agencies' served (search extract, cumulative, undated)",
+   "unresolved": "Compulsory status for all MPA students inferred from 'capstone' and 'MPA students only' wording; MPA degree-requirements page returned 404 on fetch.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://evans.uw.edu/employers-partners/student-consulting-lab/",
+     "title": "Student Consulting Lab",
+     "section": "Partner page",
+     "pub_year": "2026 (2026-27 round)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'A feasible program scope for a team of three to five consultants and a five-month timeline.' Timeline: proposals due August 31; kickoff December; teams present and deliver final report in May. 'Small teams of Evans School students, their faculty advisors, and our public, private, and nonprofit partners.' 'Application submissions for the 2026-27 academic year are closed.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://evans.uw.edu/degree-programs/mpa/capstone-projects",
+     "title": "MPA Degree Requirements (capstone)",
+     "section": "Capstone",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search extract: second-year MPA students placed in teams under faculty supervision with regional public and nonprofit clients; PUBPOL 608 MPA students only in Winter 2026 schedule. Direct fetch returned 404.",
+     "supports": [
+      "participation",
+      "credit",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Foster Undergraduate Consulting Projects (MGMT 440 Business Technology Consulting; MKTG/MGMT 445 Business Management Consulting)",
+   "english_name": "Foster undergraduate consulting courses (CBDC)",
+   "module_code": "MGMT 440; MKTG/MGMT 445",
+   "description": "Foster CBDC courses in which undergraduate teams consult for real small businesses over a 10-week quarter. MGMT 440 (spring): teams of 4-5 work directly with small businesses. MKTG/MGMT 445 (winter): teams work with real local Seattle clients; 4 credits. Teams deliver a formal written report and final presentation.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Foster School of Business - Consulting and Business Development Center (CBDC)",
+   "eligible_faculties_programmes": "Foster students (MKTG 301 prerequisite for 445); business minors and non-business UW undergraduates with MKTG 305 can register for 445",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Upper-division",
+   "eligibility_restrictions": "MKTG 301 (Foster) or MKTG 305 (minors/non-business) for 445; 440 eligibility not stated",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "4 credits (Foster elective)",
+   "duration": "10-week quarter (winter for 445; spring for 440)",
+   "delivery_format": "Team consulting course with small-business clients",
+   "project_based": "Yes",
+   "project_evidence": "Teams deliver 'a formal written report and a final presentation' [2].",
+   "group_working": "Yes",
+   "group_evidence": "MGMT 440 'Undergraduate teams of 4-5 students' [1]; 445 'allows students to work in teams' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Small businesses (revenue criteria) are clients; teams 'work directly with small businesses'; 445 uses 'real clients' and 'local Seattle companies' [1]. CBDC is a Foster centre but the clients are external businesses.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: receives consulting analysis, report and presentation",
+   "named_partners": "",
+   "deliverable": "Written consulting report and final presentation",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26-2026 (Winter 2026 ongoing; Summer 2026 program dated)",
+   "participation_data": "CBDC reports >100 businesses and 30 nonprofits per year across all its programs (search extract, undated, not course-specific)",
+   "unresolved": "Course-level team size for 445; nonprofit clients not shown on fetched page; MBA/MSCM programs (separate routes: MBA Global Consulting Projects, MSCM teams of 5-6, Strategic Consulting) not individually verified and listed in gaps.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://foster.uw.edu/centers/consulting-and-business-development-center/undergraduate-student-programs/",
+     "title": "Undergraduate Student Programs (CBDC)",
+     "section": "Courses",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "MGMT 440: 'Undergraduate teams of 4-5 students', 'work directly with small businesses', 4 credits, spring. MKTG/MGMT 445: 'real clients', 'local Seattle companies', 'Earn 4 academic credits (Foster elective)', winter quarter 10 weeks; Winter 2026 ongoing, registration for Winter 2027 next; MKTG 301 / MKTG 305 prerequisites.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://foster.uw.edu/recruiters-business-partners/engage-students/student-consultants/",
+     "title": "Student Consultants",
+     "section": "Programs",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Undergraduate teams 'work in partnership with businesses' over a 10-week quarter and deliver 'a formal written report and a final presentation'; MSCM sponsors 'a team of five to six' students.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Informatics Capstone (Information School)",
+   "english_name": "Informatics Capstone",
+   "module_code": "",
+   "description": "Culminating project in which Informatics students, 'individually or in a defined group', define a problem and carry out research/design; iEngage and community partners sponsor projects (ideas submitted each autumn; work in winter and spring); findings presented orally and in writing at the iSchool Showcase.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Information School (iSchool)",
+   "eligible_faculties_programmes": "Informatics undergraduates",
+   "faculty_areas": [
+    "arts_humanities_social_sciences",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior (not stated on fetched page)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Winter and spring quarters",
+   "delivery_format": "Student-directed individual or group project with optional sponsor",
+   "project_based": "Yes",
+   "project_evidence": "Students define a problem, develop methods and present findings in oral and written formats [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'Working individually or in a defined group, Capstone is student-directed' - individual and group routes not separable [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Partners 'are invited to sponsor Capstone projects'; sponsorship is invited rather than stated as standard; students may also work independently [1]. Past-sponsor list (Alaska Airlines, Austin Public Library, Microsoft Research) is a search extract, undated.",
+   "partner_type": "Mixed",
+   "partner_role": "Optional sponsor submitting project ideas and working with students",
+   "named_partners": "Alaska Airlines, Austin Public Library, Microsoft Research (past sponsors page; undated, search extract)",
+   "deliverable": "Written report and oral presentation / Showcase",
+   "duration_band": "> 1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (capstone project pages for 2020-2023 seen in search)",
+   "participation_data": "",
+   "unresolved": "Share of sponsored vs independent projects; group vs individual split; current-year dated evidence.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://ischool.uw.edu/programs/informatics/curriculum/capstone",
+     "title": "Informatics Capstone",
+     "section": "Curriculum",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Working individually or in a defined group, Capstone is student-directed.' 'iEngage partners and iSchool community partners are invited to sponsor Capstone projects.' Sponsors submit ideas each autumn; work in winter and spring.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Undergraduate Community-Based Internship Program (CELE)",
+   "legacy": true,
+   "category": "Placement/internship",
+   "reason": "Paid individual internships with nonprofits and public-sector organisations; no group project evidenced; legacy row not reassessed beyond that (no new page opened).",
+   "source_url": "https://www.washington.edu/uaa/scholarships-and-funding/",
+   "status_note": "2025 evidence; current intake unverified"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Provisional (Partial).",
+ "gaps": "Provisional."
+}

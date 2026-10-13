@@ -1,0 +1,532 @@
+{
+ "inst_id": "US25",
+ "institution": "Purdue",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Purdue EPICS course credit hours team size community partner students",
+    "WebFetch engineering.purdue.edu/EPICS, /register, /credit",
+    "Purdue Data Mine corporate partners projects students teams"
+   ],
+   "key_sources": [
+    "https://engineering.purdue.edu/EPICS",
+    "https://engineering.purdue.edu/EPICS/purdue/future-students/register",
+    "https://datamine.purdue.edu/about/"
+   ],
+   "finding": "EPICS (open to all undergraduates, multiyear community partners) and The Data Mine Corporate Partners (any major, industry-mentored year-long team projects) are the two university-wide routes."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Purdue Daniels School of Business Business Consulting Practicum OR Krannert Capstone client company team project",
+    "WebFetch business.purdue.edu/partnerships/projects/"
+   ],
+   "key_sources": [
+    "https://business.purdue.edu/partnerships/projects/"
+   ],
+   "finding": "Office of Business Partnerships places company-defined projects in named MGMT courses (UG and MS) with student teams presenting to company leadership; projects labelled 2024-2026."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Purdue Engineering Capstone Design Experience industry sponsored senior design team projects",
+    "WebFetch engineering.purdue.edu/IE/corporatepartners/seniorcapstoneprogram"
+   ],
+   "key_sources": [
+    "https://engineering.purdue.edu/IE/corporatepartners/seniorcapstoneprogram"
+   ],
+   "finding": "Many sponsored senior capstones (IE, ME, NE, Polytechnic ET, BME, MDE); IE page evidences paid industrial sponsors but not team size or compulsory status. Other departments are further instances."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Purdue College of Science student teams industry partner project course capstone",
+    "WebFetch catalog CS 44100"
+   ],
+   "key_sources": [
+    "https://catalog.purdue.edu/preview_course_nopop.php?catoid=18&coid=215611"
+   ],
+   "finding": "No College of Science-specific industry project route found; CS 44100 Data Science Capstone (teams, projects often corporate/research-partner sponsored) is the nearest."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Purdue College of Liberal Arts students team client project community partner course",
+    "COM 49101 Boiler Communication student teams strategic communication campaigns real clients Lamb School",
+    "WebFetch cla.purdue.edu/communication/boilercom/clients and /students"
+   ],
+   "key_sources": [
+    "https://cla.purdue.edu/communication/boilercom/clients/",
+    "https://cla.purdue.edu/communication/boilercom/students/"
+   ],
+   "finding": "Boiler Communication (COM 49101): student-run PR firm run as a class; student teams run campaigns for non-profit and business clients."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Purdue Agriculture OR Pharmacy OR Health and Human Sciences OR Veterinary student teams client project external partner course"
+   ],
+   "key_sources": [
+    "https://engineering.purdue.edu/EPICS/purdue/current-students/teams"
+   ],
+   "finding": "No separate health/agriculture/vet group client-project route found beyond EPICS teams drawing students from those colleges and individual service-learning (PHPR 31800, not group)."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Engineering Projects in Community Service (EPICS) at Purdue",
+   "english_name": "Engineering Projects in Community Service (EPICS)",
+   "module_code": "EPCS (e.g. EPCS 11100/12100 first-year; CRN lecture+lab)",
+   "description": "Multi-semester student teams design, build and deploy engineering-based systems for community service and education organisations in four areas: human services, access and abilities, education and outreach, environment.",
+   "academic_reach": "University-wide",
+   "admin_host": "EPICS at Purdue (College of Engineering)",
+   "eligible_faculties_programmes": "All undergraduates; senior design route requires approval (email epics@purdue.edu)",
+   "faculty_areas": [
+    "central",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Any (first-year to senior)",
+   "eligibility_restrictions": "Open to all undergraduates; senior-design registration needs prior approval",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Variable credit 1-3 per semester (search summary of syllabus; not confirmed on fetched page); credit applied to major by department/advisor",
+   "duration": "Minimum two consecutive semesters; multiyear partnerships; 2-hour weekly lab",
+   "delivery_format": "Team lab plus lecture sections",
+   "project_based": "Yes",
+   "project_evidence": "Teams 'design, build, and deploy real systems' for partners [1]; multiyear projects.",
+   "group_working": "Yes",
+   "group_evidence": "Student teams; recommended team size 8-20 mixing years and majors [3, search-index summary of EPICS about/syllabus pages, not opened].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Each team has a multiyear partnership with a community service or education organization'; teams build projects 'for real community organizations' [1][2]. External organisations, not internal units.",
+   "partner_type": "Charity/community",
+   "partner_role": "Community/education organisation partner defines project need and receives the deployed system; partners typically not-for-profit, also schools and government groups (search summary)",
+   "named_partners": "Habitat for Humanity Lafayette (search summary, undated)",
+   "deliverable": "Deployed engineering system/design for partner",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2027 (pre-registration 28 Sep-26 Oct 2026)",
+   "participation_data": "",
+   "unresolved": "Credit hours and team size come from a search-index summary, not an opened page.",
+   "legacy_ref": "Engineering Projects in Community Service (EPICS)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://engineering.purdue.edu/EPICS",
+     "title": "EPICS at Purdue",
+     "section": "Home",
+     "pub_year": "2026 (modified 30 Jun 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'undergraduate student teams design, build, and deploy real systems that solve engineering-based problems for community service and education organizations'; 'Each team has a multiyear partnership with a community service or education organization'; four project areas.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://engineering.purdue.edu/EPICS/purdue/future-students/register",
+     "title": "EPICS Register",
+     "section": "Registration",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'Registration for EPICS is open to all undergraduates.' Senior design needs prior approval. Spring 2027 pre-registration Sep 28-Oct 26, 2026; open registration from Dec 7, 2026; lecture and lab CRNs.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://engineering.purdue.edu/EPICS/purdue/credit",
+     "title": "EPICS credit (search result)",
+     "section": "Credit/syllabus",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Variable 1-3 credits; recommended teams of 8-20; partners typically not-for-profit, also schools and governmental groups; at least two consecutive semesters. Fetched credit page itself (modified 5 Aug 2025) states only 'for real community organizations'.",
+     "supports": [
+      "group",
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "The Data Mine - Corporate Partners Program",
+   "english_name": "The Data Mine Corporate Partners Program",
+   "module_code": "",
+   "description": "Students enrol in a project course on a data-driven project supplied by an industry corporate partner; teams use Agile 2-week sprints, clean/analyse/visualise partner data, with weekly mentorship from a corporate mentor, over a full academic year, ending in documentation and team presentations; annual symposium.",
+   "academic_reach": "University-wide",
+   "admin_host": "The Data Mine (Purdue living-learning community)",
+   "eligible_faculties_programmes": "Students of any major (class level not stated on page)",
+   "faculty_areas": [
+    "central",
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application; any major",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "3-credit project course per search summary (not on fetched page)",
+   "duration": "Two semesters (fall+spring)",
+   "delivery_format": "Team project with corporate mentor",
+   "project_based": "Yes",
+   "project_evidence": "Data-driven industry projects with documentation and presentations [1].",
+   "group_working": "Yes",
+   "group_evidence": "'collaborate with scrum teams to accomplish the increment during 2-week sprints' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects come from industry partners with 'weekly mentorship from a corporate partner mentor' [1]; 2025 symposium: 90+ projects with 68 corporate partners [2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies project and data; weekly mentor",
+   "named_partners": "Cummins, Beck's Hybrids, Ford, Microsoft (search summary, 2024-25)",
+   "deliverable": "Documentation, analysis/models/dashboards, team presentation, symposium poster",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25 (symposium 30 Apr 2025)",
+   "participation_data": "90+ projects, 68 partners (2025 symposium)",
+   "unresolved": "No 2025/26 or 2026/27 dated source found; class-level eligibility unstated; credit from search summary.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://datamine.purdue.edu/about/",
+     "title": "About The Data Mine",
+     "section": "Corporate Partners",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'weekly mentorship from a corporate partner mentor'; 'Projects designed to run for a full academic year'; scrum teams, 2-week sprints; open to any major.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.purdue.edu/teaching-learning/news/04_08_25.php",
+     "title": "Data Mine Corporate Partners Symposium",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Symposium 30 April 2025 showcasing over 90 projects with 68 corporate partners.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Purdue Business (Daniels School) Partner Projects via Office of Business Partnerships",
+   "english_name": "Daniels School company projects",
+   "module_code": "MGMT 310, 324, 421, 429, 463, 690 and a Capstone course (as listed)",
+   "description": "Partner companies present real business problems inside named courses; student teams (3-5+) analyse partner data and deliver recommendations, reports, models/dashboards and presentations to company leadership.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Office of Business Partnerships, Mitch Daniels School of Business",
+   "eligible_faculties_programmes": "Undergraduate (BS Marketing, Finance, Business Analytics & IM) and MS (Business Analytics, HRM, Global Supply Chain Mgmt) students in the listed courses",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Enrolment in the project course",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course-embedded; credit not stated",
+   "duration": "Single academic cycle per project",
+   "delivery_format": "Team client projects",
+   "project_based": "Yes",
+   "project_evidence": "Recommendations, reports, executive summaries, models [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of '3-4 students' or 'upwards of 5' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners 'define the problem and supply data' and leadership receives final presentations [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: sets problem, supplies data, receives presentation",
+   "named_partners": "Whirlpool, dormakaba (MGMT 332, search summary)",
+   "deliverable": "Final presentation, report, models/dashboards",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (projects labelled 2024-2026)",
+   "participation_data": "",
+   "unresolved": "Which courses require projects; page beyond first 100,000 characters not read; whether some partner projects are non-business (partner type per project).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://business.purdue.edu/partnerships/projects/",
+     "title": "Partner Projects",
+     "section": "Project listings",
+     "pub_year": "2024-2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, first 100k chars)",
+     "extract": "Partners 'define the problem and supply data'; teams of 3-4 or 5+; projects tied to MGMT courses and a Capstone; deliverables presentations to company leadership, reports, dashboards; projects labelled 2024, 2025, 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Edwardson School of Industrial Engineering Senior Capstone Program",
+   "english_name": "IE Senior Capstone Program",
+   "module_code": "IE431 (unconfirmed)",
+   "description": "Industrial sponsors fund senior capstone projects (donation tiers) in which students 'collaborate with industry partners on real-world projects'; presented at a semester-end poster exhibition.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Edwardson School of Industrial Engineering",
+   "eligible_faculties_programmes": "IE seniors",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "",
+   "duration": "One or two semesters",
+   "delivery_format": "Sponsored projects",
+   "project_based": "Yes",
+   "project_evidence": "Real-world sponsor projects with poster exhibition [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Page refers to a 'Capstone Team' but gives no team size or joint-output statement [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'help industrial sponsors solve real problems'; sponsors may present to class [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor funds and supplies project",
+   "named_partners": "",
+   "deliverable": "Capstone project and poster",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "FY2024 survey data cited",
+   "participation_data": "",
+   "unresolved": "Team structure, compulsory status, dated 2025/26 cohort. Further departmental capstones (ME463, NE, BME, MDE, Polytechnic ET) likely exist.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://engineering.purdue.edu/IE/corporatepartners/seniorcapstoneprogram",
+     "title": "Capstone Program - IE",
+     "section": "Program",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'collaborate with industry partners on real-world projects'; 'Projects may be spread over two semesters'; 'Poster Exhibition of all capstone projects'.",
+     "supports": [
+      "project",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Boiler Communication (COM 49101)",
+   "english_name": "Boiler Communication student-run PR firm",
+   "module_code": "COM 49101",
+   "description": "Student-run public relations firm within the Brian Lamb School of Communication, structured as a class: a team of students manages each client account and creates, implements and evaluates a strategic PR campaign for non-profit and business clients in the West Lafayette community.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Brian Lamb School of Communication, College of Liberal Arts",
+   "eligible_faculties_programmes": "Purdue students with interest in PR (no prior experience needed)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application via Get Involved form",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Catalog course COM 49101 offered Fall/Spring; credit hours not confirmed (students page does not state credit)",
+   "duration": "One semester",
+   "delivery_format": "Student-run agency, weekly meetings",
+   "project_based": "Yes",
+   "project_evidence": "Semester-long campaign created, implemented and evaluated for each client [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'you will work directly with a team of students who will manage your account' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External non-profits and businesses apply as clients, work with the student team and receive regular campaign updates [1]. Clients are external, not internal units.",
+   "partner_type": "Mixed",
+   "partner_role": "Client: applies, works with team, receives campaign and updates",
+   "named_partners": "The Alexander Group; All the Things Lafayette (clients page, no year)",
+   "deliverable": "Strategic PR campaign for client",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (catalog 2025-26 listing from search result)",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26-2026/27 cohort or client list; credit hours; course level/enrolment restrictions.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://cla.purdue.edu/communication/boilercom/clients/",
+     "title": "Boiler Communication Clients",
+     "section": "Clients",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Clients apply by form; 'you will work directly with a team of students who will manage your account'; non-profits and businesses in West Lafayette; 'regular updates on the progress of your campaign'.",
+     "supports": [
+      "group",
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://cla.purdue.edu/communication/boilercom/students/",
+     "title": "Boiler Communication Students",
+     "section": "Students",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "'The organization is structured as a class and meets weekly throughout the semester'; members 'create, implement, and evaluate a strategic PR campaign for each client'.",
+     "supports": [
+      "project",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://catalog.purdue.edu/preview_course_nopop.php?catoid=18&coid=212989",
+     "title": "COM 49101 Boiler Communication",
+     "section": "Catalog",
+     "pub_year": "catalog (year unconfirmed)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Hands-on PR course where student-led teams produce comprehensive strategic communication campaigns for actual clients; typically Fall Spring.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CS 44100 Data Science Capstone",
+   "english_name": "Data Science Capstone",
+   "module_code": "CS 44100",
+   "description": "Teams identify and solve real-world data science problems, 'often sponsored by corporate or research partners', following CRISP-DM, with written and oral presentation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Department of Computer Science / Data Science",
+   "eligible_faculties_programmes": "Data Science students (prerequisites not stated)",
+   "faculty_areas": [
+    "science",
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior (assumed from level; unconfirmed)",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "3 credit hours (2025-2026 catalog)",
+   "duration": "One semester",
+   "delivery_format": "Team capstone",
+   "project_based": "Yes",
+   "project_evidence": "Full data science pipeline project with report and presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams' identify and solve problems; teamwork practised [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Projects are 'often sponsored by corporate or research partners' [1]; per search summary sponsors include academic/non-academic research groups, so external sponsorship is not shown as standard (Some projects); research groups may be internal.",
+   "partner_type": "Unclear",
+   "partner_role": "Optional sponsor",
+   "named_partners": "",
+   "deliverable": "Project report and oral presentation",
+   "duration_band": "~1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 catalog",
+   "participation_data": "",
+   "unresolved": "Catalog listing is not evidence of enrolment; sponsor share external vs internal; compulsory status.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://catalog.purdue.edu/preview_course_nopop.php?catoid=18&coid=215611",
+     "title": "CS 44100 Data Science Capstone",
+     "section": "Course description",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch)",
+     "extract": "Teams identify and solve real-world data science problems, often sponsored by corporate or research partners; 3.00 credits; 2025-2026 University Catalog (archived label).",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Other Engineering capstones (ME463, Nuclear, BME, MDE, Polytechnic ET, ABE)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search results indicate sponsored senior design but pages were not opened; team and sponsor roles not verified.",
+   "source_url": "https://engineering.purdue.edu/ME/CapstoneDesign",
+   "status_note": ""
+  },
+  {
+   "name": "PHPR 31800 Pharmacy Service Learning I",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Individual caregiving relationship with a homebound client; not group project.",
+   "source_url": "https://catalog.purdue.edu/content.php?catoid=13&navoid=16332",
+   "status_note": "search summary only"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Purdue shows several distributed team-with-external-partner routes. EPICS is the strongest institution-wide route: open to all undergraduates, multi-semester teams (reported 8-20 students) build systems for community, education and government partners; Spring 2027 registration confirmed. The Data Mine Corporate Partners (any major) runs year-long Agile teams with industry mentors (90+ projects, 68 partners in 2025), but no 2025/26+ dated source was found. The Daniels School of Business Office of Business Partnerships embeds company-defined team projects in named MGMT courses (labelled up to 2026), with presentations to company leadership. Boiler Communication (COM 49101) is a student-run PR agency class whose teams serve external non-profit and business clients. Engineering departments (IE, ME, Polytechnic) host sponsored senior capstones, but group structure and sponsor roles were verified only for part. CS 44100 is partner-sponsored only in some projects. Not verified: dated currency of Data Mine and Boiler Communication, compulsory status of capstones, participation counts.",
+ "gaps": "Further departmental engineering capstones (ME463, NE, BME, MDE, Polytechnic ET) likely; business partner page read only to first 100k characters; EPICS credit/team size from search summary; Data Mine and Boiler Communication lack 2025/26-2026/27 dating. Only one query each for science and other areas."
+}

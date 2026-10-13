@@ -1,0 +1,603 @@
+{
+ "inst_id": "US24",
+ "institution": "Georgia Institute of Technology",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Georgia Tech Vertically Integrated Projects industry sponsor team credit",
+    "Georgia Tech Serve-Learn-Sustain community partner course student teams project",
+    "fetch vip.gatech.edu; catalog VIP page"
+   ],
+   "key_sources": [
+    "https://vip.gatech.edu/",
+    "https://catalog.gatech.edu/academics/special-academic-programs/vertically-integrated-projects-program/",
+    "https://serve-learn-sustain.gatech.edu/capstone-projects"
+   ],
+   "finding": "VIP is university-level, team-based, multisemester but faculty-research-led; industry sponsorship optional (C unclear). SLS partner courses found only as search summary."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Georgia Tech Scheller College of Business student consulting live client project course team",
+    "fetch Scheller Pro Bono Consulting and MBA practicums pages"
+   ],
+   "key_sources": [
+    "https://www.scheller.gatech.edu/centers-and-initiatives/institute-for-leadership-and-social-impact/programs/pro-bono-consulting.html",
+    "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/curriculum/practicums.html"
+   ],
+   "finding": "Graduate Pro Bono Consulting and MBA practicums are team client projects, but both pages are undated so current delivery is unconfirmed."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Georgia Tech Capstone Design Expo industry sponsored senior design projects teams",
+    "Georgia Tech ISyE senior design company sponsored projects client",
+    "fetch ISyE senior design, capstone.gatech.edu sponsors, ECE senior design, sci.cc.gatech.edu CS capstone"
+   ],
+   "key_sources": [
+    "https://www.isye.gatech.edu/about/partnerships/isye-partners-program/senior-design",
+    "https://coe.gatech.edu/news/2025/04/solutions-operating-room-and-cubesat-navigation-top-spring-2025-capstone-design-expo",
+    "https://sci.cc.gatech.edu/cs-capstone"
+   ],
+   "finding": "ISyE Senior Design meets all three criteria with dated 2026/27 listings. Institute-wide Capstone Design is sponsor-driven but only about 60% of teams are industry-sponsored."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Georgia Tech College of Sciences capstone industry partner student team project biology chemistry physics earth atmospheric"
+   ],
+   "key_sources": [],
+   "finding": "No College of Sciences capstone with external partners found; results were all engineering/computing."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Georgia Tech Ivan Allen College public policy OR international affairs capstone client organization student team",
+    "fetch spp.gatech.edu BSPP curriculum"
+   ],
+   "key_sources": [
+    "https://spp.gatech.edu/undergraduate/bspp-curriculum"
+   ],
+   "finding": "Required BS Public Policy Policy Task Force capstone with client evaluators; INTA 4744 client status unclear."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Georgia Tech industrial design OR architecture studio sponsored by company student teams client project",
+    "fetch capstone.gatech.edu sponsor page"
+   ],
+   "key_sources": [
+    "https://www.capstone.gatech.edu/sponsors/general-information/",
+    "https://id.gatech.edu/our-work/launchpad/studio-work/capstone-design-studio"
+   ],
+   "finding": "Design studios with client projects exist (search summaries) but were not opened; Capstone Design includes design and architecture students."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "ISyE Senior Design (client projects)",
+   "english_name": "ISyE Senior Design (client projects)",
+   "module_code": "ISYE 4106 (per search result; page itself gives no number)",
+   "description": "Capstone for ISyE undergraduate seniors: teams of about six (example) take a real organisational need from a published client listing, supervised by a faculty advisor, producing a design with economic analysis, presentations and a written report delivered to the client. Clients are mostly external companies, hospitals and public bodies; a minority of listed projects are for internal Georgia Tech units.",
+   "academic_reach": "Programme/course",
+   "admin_host": "H. Milton Stewart School of Industrial and Systems Engineering",
+   "eligible_faculties_programmes": "ISyE undergraduate seniors",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior (preceded by a pre-senior design semester)",
+   "eligibility_restrictions": "ISyE majors",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course credit not stated on fetched page; each member at least 12 productive hours/week (180 hours/semester)",
+   "duration": "Pre-senior design semester plus senior design semester",
+   "delivery_format": "Team client project",
+   "project_based": "Yes",
+   "project_evidence": "Requirements: engineering design with economic analysis; deliverables incl. proposal, interim and final presentations and written report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Undergraduate student teams (six-member example), team formed in pre-senior semester, joint work products [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client identifies need, meets team on site, assigns a contact spending c.2-4 hours/week with the team supplying guidance, data and site access, and receives proposal, interim report and final design/written report [1]. Spring 2027 listing: 38 projects from 29 clients incl. Google, Coca-Cola, Accenture, Emory Healthcare, American Airlines, Wellstar, Housing Authority of the City of Atlanta; a minority of listings are internal GT units (e.g. GT Strategic Consulting, Parking and Transportation Services, Registrar). Internal share is a minority; external clients are the documented norm [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: identifies need, provides data/site/contact, receives report and presentations (internal Georgia Tech units are a minority of clients and are not counted as external)",
+   "named_partners": "Spring 2027 listing: Google, Coca-Cola, Accenture, Emory Healthcare, American Airlines, Novelis, Wellstar Health System, Waffle House, Housing Authority of the City of Atlanta (page lists 29 clients)",
+   "deliverable": "Design/recommendation report and presentations to client",
+   "duration_band": "> 1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (Spring 2027 project listing; Spring 2026 finalists luncheon news 13 May 2026)",
+   "participation_data": "29 teams completed senior design in Spring 2025 (search-result summary of ISyE capstone site); 38 projects listed for Spring 2027",
+   "unresolved": "Course credit hours; the 'compulsory' statement rests on the page calling it the capstone for all ISyE undergraduate seniors.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.isye.gatech.edu/about/partnerships/isye-partners-program/senior-design",
+     "title": "Senior Design for Clients",
+     "section": "Requirements; Client role; project listings",
+     "pub_year": "undated (lists Spring 2027)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, not verbatim)",
+     "extract": "Fetched page summary: capstone course for all ISyE undergraduate seniors; teams supervised by a faculty advisor; client assigns a technical/managerial contact spending about 2-4 hours per week; final presentations to faculty and clients, written report to client; 'The listing has 38 Spring 2027 projects from 29 unique clients'; internal GT units appear among listings.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.gatech.edu/news/2026/05/13/celebrating-excellence-isye-senior-design-finalists-luncheon",
+     "title": "Celebrating Excellence at the ISyE Senior Design Finalists' Luncheon",
+     "section": "News",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search result title and snippet: Spring 2026 ISyE Senior Design finalists (projects with Novelis, American Airlines, Wellstar named by search summary). Page not opened.",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Capstone Design (Institute-wide course and Capstone Design Expo)",
+   "english_name": "Capstone Design (Institute-wide course and Capstone Design Expo)",
+   "module_code": "Multiple departmental capstone codes (e.g. ME 4182-ID)",
+   "description": "Semester-long senior capstone in which teams (about five graduating seniors, often interdisciplinary) work on sponsor-proposed design challenges and present at the Capstone Design Expo. Spring 2025 Expo: 238 teams, 1,300+ students, projects across 12 disciplines in four colleges; almost 60% of teams worked on industry-sponsored projects, the rest on other (research, student-proposed, or start-up) projects.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Center for Engineering Design, Entrepreneurship and Innovation / College of Engineering departments",
+   "eligible_faculties_programmes": "Undergraduates in BME, CEE, ECE, ISyE, MSE, ME, public policy and multidisciplinary teams (also computing, design, architecture, liberal arts per news)",
+   "faculty_areas": [
+    "engineering_computing",
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "Departmental capstone enrolment",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not evidenced",
+   "duration": "One semester (some departments two)",
+   "delivery_format": "Team design projects; end-of-semester Expo",
+   "project_based": "Yes",
+   "project_evidence": "Semester-long design projects with prototypes and reports [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Team of 5 graduating seniors per sponsor; example teams of five to eight [1][2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sponsors propose the problem, fund the course, usually receive report and prototype and may judge the Expo [2], but only almost 60% of Spring 2025 teams were industry-sponsored [1] and ECE says teams 'may' take on an industry challenge or build research tools/start-ups [3]. External sponsorship is not universal, so C is Unclear for the course as a whole.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor: proposes problem, donates, receives report/prototype, judges",
+   "named_partners": "Emory Healthcare surgeon-proposed retractor (Spring 2025); restor3d (Spring 2024, per search result)",
+   "deliverable": "Prototype/design and report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Spring 2025 Expo (ECE page dated Jan 2024; no 2025/26 source opened)",
+   "participation_data": "238 teams, 1,300+ students (Spring 2025)",
+   "unresolved": "No 2025/26 or 2026/27 dated source; which departments mandate sponsor projects; ECE Senior Design recorded here rather than separately.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://coe.gatech.edu/news/2025/04/solutions-operating-room-and-cubesat-navigation-top-spring-2025-capstone-design-expo",
+     "title": "Spring 2025 Capstone Design Expo",
+     "section": "News",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'A record 238 teams of more than 1,300 students'; 'Almost 60% of the teams at the spring Expo worked on projects for industry sponsors.'",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.capstone.gatech.edu/sponsors/general-information/",
+     "title": "General Information - Capstone Design",
+     "section": "Sponsors",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Sponsor proposes the problem with a description and point of contact, makes a donation, typically receives the final report and prototype, can judge the Expo; 'a team of 5 graduating seniors for a semester'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://ece.gatech.edu/academics/undergrad/seniordesign.html",
+     "title": "Senior Design & Capstone Design Expo",
+     "section": "Overview",
+     "pub_year": "Jan 2024",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Working in teams, students will complete a two-semester-long project'; teams may take on 'an industry sponsored challenge', build research tools or pursue start-up ideas.",
+     "supports": [
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Policy Task Force capstone (PUBP 4010/4020)",
+   "english_name": "Policy Task Force capstone",
+   "module_code": "PUBP 4010, PUBP 4020",
+   "description": "Two-semester required capstone of the BS in Public Policy: student teams formulate, analyse and recommend policy options on a project supplied by a public agency, not-for-profit or private company; each member writes a substantive paper, combined into a team report; a client representative oversees and evaluates final reports.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Public Policy, Ivan Allen College",
+   "eligible_faculties_programmes": "BS Public Policy",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Prerequisites PUBP 3030, 3120, 3130",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Required core courses; credit hours not stated",
+   "duration": "Two semesters",
+   "delivery_format": "Team client project",
+   "project_based": "Yes",
+   "project_evidence": "Teams formulate, analyse and recommend policy options; team report [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams with subgroups; individual papers combined into a team report. Joint team report is a group output [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Projects come from a public agency, not-for-profit or private company; client representative provides oversight and feedback and evaluates final reports [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: supplies project, gives feedback, evaluates reports",
+   "named_partners": "CDC, Multiple Sclerosis Society of Georgia, Enterprise Innovation Institute (recent clients, undated; the last is a GT unit and internal)",
+   "deliverable": "Team policy report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated curriculum page",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26-2026/27 corroboration yet.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://spp.gatech.edu/undergraduate/bspp-curriculum",
+     "title": "Undergraduate Curriculum (BS Public Policy)",
+     "section": "Policy Task Force",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, not verbatim)",
+     "extract": "Fetched summary: 'two-semester capstone Policy Task Force sequence'; PUBP 4010 and 4020 required; projects from a public agency, not-for-profit organization, or private company; client representative provides oversight and feedback and evaluates final reports.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Pro Bono Consulting (Scheller)",
+   "english_name": "Pro Bono Consulting",
+   "module_code": "MGT 6113 per search summary (not verified on page)",
+   "description": "Graduate teams (MBA, PhD and other graduate students selected by application and interview) consult for Atlanta not-for-profits on a defined strategic problem over c.12-16 weeks, presenting mid-project and final findings to client decision makers.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Scheller College of Business, Institute for Leadership and Social Impact",
+   "eligible_faculties_programmes": "Graduate students (MBAs, PhDs, others)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application and interview",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "12-16 weeks (page says 15 weeks)",
+   "delivery_format": "Team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Defined problem and scope; mid-project and final presentations [1].",
+   "group_working": "Yes",
+   "group_evidence": "Student teams work with client staff; team workload 30-45 hours/week [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Not-for-profit clients (e.g. Habitat for Humanity Atlanta, Frazer Center, Slow Food Atlanta) define the problem, work with teams and receive findings [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client: sets problem and scope, receives presentations",
+   "named_partners": "Habitat for Humanity in Atlanta, Frazer Center, Slow Food Atlanta, The Restoration Storehouse Center (undated list)",
+   "deliverable": "Findings/recommendations presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Credit/course status and any 2025/26 cohort evidence.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.scheller.gatech.edu/centers-and-initiatives/institute-for-leadership-and-social-impact/programs/pro-bono-consulting.html",
+     "title": "Pro Bono Consulting",
+     "section": "Program page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, not verbatim)",
+     "extract": "Fetched summary: graduate students apply, are interviewed and selected; teams work closely with client staff; clients are Atlanta not-for-profits; mid-project and final presentations; 15 weeks.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Scheller Full-time MBA Practicums (Business Analytics, Sustainable Business Consulting etc.)",
+   "english_name": "Scheller Full-time MBA Practicums",
+   "module_code": "",
+   "description": "Elective MBA practicums in which student groups are paired with companies: e.g. Business Analytics (analyse company data, produce insights), Sustainable Business Consulting (12-week client project), Lean Six Sigma, IT, International, Pro Bono.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Scheller College of Business",
+   "eligible_faculties_programmes": "Full-time MBA",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Full-time MBA",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Semester-long",
+   "delivery_format": "Team company projects",
+   "project_based": "Yes",
+   "project_evidence": "Scoped consulting/analytics projects [1].",
+   "group_working": "Yes",
+   "group_evidence": "'groups of students with a company'; teams assigned to projects [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies supply data and projects (named clients incl. IBM, UPS, AT&T, State Farm, Coca-Cola, though page gives no years) [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client company supplies problem/data",
+   "named_partners": "IBM, HP, UPS, AT&T, AutoTrader, State Farm, The Coca-Cola Company (undated)",
+   "deliverable": "Insights/recommendations, consulting deliverables",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "No years or enrolment; umbrella of several distinct practicums with varying client evidence.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/curriculum/practicums.html",
+     "title": "Full-time MBA Practicums",
+     "section": "Practicums",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, not verbatim)",
+     "extract": "Fetched summary: Business Analytics 'pairs groups of students with a company'; Sustainable Business Consulting teams 'assigned to sustainability-relevant, business-focused projects'; named clients per practicum; years not given.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Vertically Integrated Projects (VIP)",
+   "english_name": "Vertically Integrated Projects",
+   "module_code": "VIP 2600/3600/4600 (catalog)",
+   "description": "Multi-semester faculty-led multidisciplinary teams of sophomores to graduate students, postdocs and faculty working on long-term research and development projects, for 1-3 credits per semester. Industry can sponsor teams via the Industrial Affiliates Program ($20K per team per year), but sponsorship is optional.",
+   "academic_reach": "Unclear",
+   "admin_host": "VIP Program",
+   "eligible_faculties_programmes": "Sophomores and above, graduate students; application before registration (OMSCS online students on some teams)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Sophomore and above",
+   "eligibility_restrictions": "Application; team fit; sophomores capped at 1 credit",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "1-2 credits (sophomores 1, juniors/seniors 1-2, grad 1-3)",
+   "duration": "Multi-semester",
+   "delivery_format": "Weekly team meetings, long-running teams",
+   "project_based": "Yes",
+   "project_evidence": "Teams built around long-term faculty research and development projects [1].",
+   "group_working": "Yes",
+   "group_evidence": "Multidisciplinary teams with subteams meeting weekly [1][2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Catalog page does not mention external partners; VIP site offers industry sponsorship via Industrial Affiliates; faculty set research direction [1][2]. Sponsorship and community partners (e.g. SLS-linked teams) are not shown to be standard for all teams.",
+   "partner_type": "Unclear",
+   "partner_role": "Optional industry affiliates; otherwise faculty/internal research clients",
+   "named_partners": "",
+   "deliverable": "Team research/development outputs",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026 recruitment (legacy sources, not re-opened)",
+   "participation_data": "",
+   "unresolved": "Legacy evidence of all-college recruitment not re-verified; partners vary by team.",
+   "legacy_ref": "Vertically Integrated Projects (VIP)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://vip.gatech.edu/",
+     "title": "VIP",
+     "section": "Home",
+     "pub_year": "current",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, not verbatim)",
+     "extract": "Open to 'sophomores and above'; multidisciplinary teams built around long-term faculty research projects; 1-2 credits per semester; industry partners can join via Industrial Affiliates Program at $20K per team per year.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://catalog.gatech.edu/academics/special-academic-programs/vertically-integrated-projects-program/",
+     "title": "Vertically Integrated Projects Program",
+     "section": "Catalog",
+     "pub_year": "current",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, not verbatim)",
+     "extract": "Teams 'established by faculty request'; composition sophomores through post-docs and faculty; credit limits by level; page does not mention external partners or sponsors.",
+     "supports": [
+      "group",
+      "credit",
+      "eligibility",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S7",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CS Junior Design / CS Capstone",
+   "english_name": "CS Capstone",
+   "module_code": "",
+   "description": "School of Computing software design capstone culminating in an Expo; clients may be inside Georgia Tech or external industry, ranging from startup concepts to industry-sponsored work.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing Instruction",
+   "eligible_faculties_programmes": "BS Computer Science / Computational Media (many)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Junior/senior",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Single semester (now)",
+   "delivery_format": "Team software project",
+   "project_based": "Yes",
+   "project_evidence": "Culminating software design project [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Team size not on fetched page; search summary says teams of five on an older Junior Design page.",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Clients 'within the Georgia Tech community or in professional industries beyond campus' [1]; external clients not guaranteed.",
+   "partner_type": "Mixed",
+   "partner_role": "Client (internal or external)",
+   "named_partners": "",
+   "deliverable": "Software product",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Expo 27 April, footer 2026)",
+   "participation_data": "",
+   "unresolved": "Team size, requirement, split of internal/external clients.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sci.cc.gatech.edu/cs-capstone",
+     "title": "CS Capstone",
+     "section": "Overview",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch summary, not verbatim)",
+     "extract": "Fetched summary: 'The CS Capstone is now a single-semester course'; clients 'within the Georgia Tech community or in professional industries beyond campus'; upcoming Expo April 27.",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Serve-Learn-Sustain (SLS) community-partner courses",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search result describes course-based team projects with community partners, but affiliated courses vary and the SLS site could not be fetched (DNS failure); no single route verified.",
+   "source_url": "https://serve-learn-sustain.gatech.edu/capstone-projects",
+   "status_note": "Search summary only"
+  },
+  {
+   "name": "MS Supply Chain Engineering capstone",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Summer projects with business/government/NGO sponsor, 'often individuals or teams of 2-4' (search summary); individual vs team not separable.",
+   "source_url": "https://www.isye.gatech.edu/academics/masters/ms-supply-chain-engineering/capstone-projects",
+   "status_note": ""
+  },
+  {
+   "name": "ID/ME Collaborative Design Studio; Design Bloc VIP",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary indicates corporate and non-profit client studios in Industrial Design but pages not opened and offerings vary by term.",
+   "source_url": "https://designbloc.gatech.edu/ClassesOffered/FallClasses",
+   "status_note": ""
+  },
+  {
+   "name": "INTA 4744 Global Development Capstone",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Teams develop solutions to problems, but clients not identified in search result.",
+   "source_url": "https://catalog.gatech.edu/coursesaz/inta/",
+   "status_note": ""
+  },
+  {
+   "name": "Technology and Management Program MGT 4742 / 180 Degrees Consulting",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Mentioned in search summaries (corporate-affiliate team projects; student nonprofit consulting) but not opened.",
+   "source_url": "https://www.scheller.gatech.edu/explore-programs/undergraduate/student-experience/clubs-and-organizations.html",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Georgia Tech's strongest verified route is ISyE Senior Design, a compulsory seniors' capstone in which teams of about six solve a real problem for an external client (38 Spring 2027 projects from 29 clients; Spring 2026 cohort reported in May 2026 news). The client assigns a contact, gives data and site access, and receives a report and presentations. A minority of listed clients are internal Georgia Tech units. The institute-wide Capstone Design course and Expo (Spring 2025: 238 teams, 1,300+ students, roughly 60% industry-sponsored) shows the same model across engineering, with some computing, design and policy students, but the remaining teams have research, student or non-industry briefs, so employer connection is recorded as unclear. The BS Public Policy Policy Task Force (PUBP 4010/4020) is a required two-semester team capstone with agency, non-profit or company clients who evaluate reports, but the page is undated. Scheller's Pro Bono Consulting and MBA practicums are graduate team client projects, also undated. VIP is a university-level multisemester team programme, but it is faculty-research-led with optional industry sponsorship. CS Capstone clients may be internal or external. No College of Sciences route was found.",
+ "gaps": "Further departmental capstones (ME, ECE, CEE, BME, MSE) likely follow the sponsor model but were not individually verified. SLS course partnerships, Design studios, INTA 4744 and MS SCE capstone were not opened. Undated pages (PUBP, Pro Bono, MBA practicums) lack current-delivery corroboration. No participation data except ISyE and Expo counts. Retrieval was via WebFetch summaries (not verbatim) and search summaries."
+}
