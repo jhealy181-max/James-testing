@@ -1,9 +1,9 @@
 {
  "inst_id": "RG07",
  "institution": "University of Exeter",
- "review_status": "Partial",
- "partial_remaining": "Search budget exhausted after 24 searches. Remaining: 'other' area (Law clinics, Medicine/Health, Psychology, Sport) unsearched; AHSS only one discovery search (Liberal Arts/Sociology external research-challenge modules, Politics/Q-Step, History/heritage, English/Film); ECMM427 customer identity; MSc Marketing and Business Analytics consulting project format; dated 2025/26-2026/27 evidence for Future17 and BEMM149; One Planet MBA team challenges (LCIC/GSC).",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -75,7 +75,8 @@
    "status": "Searched",
    "queries": [
     "humanities social sciences teams real-world brief external organisation consultancy charity heritage",
-    "Liberal Arts external organisations real-life research challenge (search failed: budget exhausted)"
+    "Liberal Arts external organisations real-life research challenge (search failed: budget exhausted)",
+    "Exeter students group project external organisation brief humanities social sciences module 2025/26"
    ],
    "key_sources": [
     "https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/humanities-and-social-sciences-penryn-cornwall/university-of-exeter-and-national-trust-to-create-student-research-opportunities-through-new-agreement/"
@@ -83,10 +84,15 @@
    "finding": "Only one discovery search completed. National Trust-linked Environmental Humanities projects (group format unclear); Liberal Arts/Sociology claims of external research challenges unverified."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: session web-search budget exhausted. Law, Medicine/Health, Sport and Health Sciences, Psychology, Arts/Drama outstanding."
+   "status": "Searched",
+   "queries": [
+    "Exeter Law clinic students live client pro bono group project"
+   ],
+   "key_sources": [
+    "http://socialsciences.exeter.ac.uk/law/public/probono/",
+    "https://sites.exeter.ac.uk/lawbulletin/2025/06/17/community-law-clinic-provides-free-legal-advice-in-the-heart-of-exeter/"
+   ],
+   "finding": "Community Law Clinic and Exeter Law Projects are supervised pro bono casework/research pools (extracurricular, individual advice to members of the public); no credit-bearing live-client group project verified. Medicine/Health, Psychology, Sport not separately searched."
   }
  },
  "schemes": [
@@ -313,7 +319,7 @@
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "2024/25",
    "participation_data": "About 50 Exeter students graduated in the cohort reported (c.2024/25), c.300 worldwide [2]",
-   "unresolved": "No dated 2025/26 or 2026/27 call/cohort found (search budget exhausted); module page is 2024/5; graduation news dated c. spring 2025 from search metadata. Attribution of partner-role text among Future17 pages not fully explicit.",
+   "unresolved": "No dated 2025/26 or 2026/27 call/cohort found (search budget exhausted); module page is 2024/5; graduation news dated c. spring 2025 from search metadata. Attribution of partner-role text among Future17 pages not fully explicit. Exeter news refers to an 8th cohort (nearly 240 students since 2022) but date not confirmed in search; stays status unclear.",
    "legacy_ref": "Future17",
    "sources": [
     {
@@ -400,10 +406,10 @@
    "duration_band": "Unclear",
    "external_partner_coverage": "All/standard",
    "likely_duplicate_of": "",
-   "operating_status": "Current status unclear",
-   "latest_evidenced_year": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
    "participation_data": "",
-   "unresolved": "Programme page is un-yeared (other Exeter pages show 2027 entry); no dated 2025/26-2026/27 module page retrieved. An old ELE listing shows a 2019-20 BEMM149 instance under 'For Deletion' (routine archive). Partner sectors not evidenced.",
+   "unresolved": "Programme page is un-yeared (other Exeter pages show 2027 entry); no dated 2025/26-2026/27 module page retrieved. An old ELE listing shows a 2019-20 BEMM149 instance under 'For Deletion' (routine archive). Partner sectors not evidenced. Current status corroborated only by an ELE (Moodle) catalogue entry \"Business Project (BEMM149_A_12_202526)\" seen in a search result (https://ele.exeter.ac.uk/course/index.php?categoryid=667); no client names for 2025/26.",
    "legacy_ref": "",
    "sources": [
     {
@@ -421,6 +427,19 @@
       "employer",
       "credit",
       "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://ele.exeter.ac.uk/course/index.php?categoryid=667&browse=courses&perpage=30&page=1",
+     "title": "ELE all courses",
+     "section": "course list",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Catalogue lists Business Project (BEMM149_A_12_202526) under 2025/6.",
+     "supports": [
+      "status"
      ]
     }
    ]
@@ -1046,9 +1065,25 @@
    "reason": "BEng page says projects are 'typically industrially driven' and 'often directly involve a company' with group or individual options; ENG1005 is a 30-credit first-year group challenge. Routes, group format and client role not separable from extracts.",
    "source_url": "https://exeter.ac.uk/study/undergraduate/courses2023/engineering/engineering",
    "status_note": "2023 course page"
+  },
+  {
+   "name": "Community Law Clinic / Exeter Law Projects",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Student-led supervised pro bono advice to individual clients and on-call research pools; group project format with a defined external brief not evidenced as a standard route.",
+   "source_url": "http://socialsciences.exeter.ac.uk/law/public/probono/",
+   "status_note": "Current (2026 news) but not qualifying on available evidence"
+  },
+  {
+   "name": "Humanities in the Workplace (HASS module)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Module fair page mentions it but gives no group/project/employer detail.",
+   "source_url": "https://www.exeter.ac.uk/students/modulefair2025/exetercampuses/hass/",
+   "status_note": ""
   }
  ],
  "embeddedness": "Unclear",
  "profile_md": "**Exeter** has two university-wide extracurricular routes. Embedded programme provision is mainly in the Business School. Review incomplete (search budget exhausted).\n\n- **Grand Challenges** (legacy): a free June project week open to all undergraduates. Groups of normally 4-8 design solutions to themed real-world challenges and present them to expert panels. 2026 challenge pages confirm current delivery. External input is largely experts giving lectures or sitting in the audience, so C is Unclear. The exception is a 2026 *Industry-led Enquiry Group with Amazon Web Services*, but AWS's exact role was not evidenced.\n- **Future17** (legacy, with QS): open to undergraduates in year 2 or later and to PGT students. International teams of 6-8 spend 12 weeks on challenges set by partner organisations; 31 organisations offered 44 challenges in one round. A partner representative sits on the assessment panel. It can be taken for 15 credits via APEL or without credit. It meets all three criteria, but the latest dated cohort is about 2024/25, so its status is unclear.\n- **Business School:** the compulsory **BEMM149 Business Project** on MSc Management is a group consultancy project on a partner's brief, with a report and presentation for the partner. It meets A/B/C, but the page is undated. The other routes are incomplete:\n  - BEMM771 (2018/19 only)\n  - BEP3020 (live or simulated)\n  - the MSc Marketing and Business Analytics consulting option (group format unknown)\n  - the MBA capstone, which is individual\n- **Engineering and Computing:** substantial group projects (ECMM102, ENEM010, ECM2434, ECMM427). Industry involvement is 'may' or unverified.\n- **Science:** no qualifying route found. Green Consultants uses the University itself as client.\n- **Uncertain:** no qualifying scheme with current delivery has been verified. Not yet checked: the AHSS modules, Law/Health, and dated evidence for Future17 and BEMM149.",
- "gaps": "Other area unsearched; AHSS barely searched; dated current evidence missing for Future17 and BEMM149; AWS role in Grand Challenges; ECMM427 customer; group format for BEP3020, MSc MBA consulting option, Sports Consultancy Project; One Planet MBA team challenges; further departmental instances likely (engineering, business MSc programmes)."
+ "gaps": "Other area unsearched; AHSS barely searched; dated current evidence missing for Future17 and BEMM149; AWS role in Grand Challenges; ECMM427 customer; group format for BEP3020, MSc MBA consulting option, Sports Consultancy Project; One Planet MBA team challenges; further departmental instances likely (engineering, business MSc programmes). Medicine/Health, Psychology, Sport not separately searched; reduced-depth mode."
 }

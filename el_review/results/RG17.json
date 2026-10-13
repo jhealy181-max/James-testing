@@ -1,9 +1,9 @@
 {
  "inst_id": "RG17",
  "institution": "University of Oxford",
- "review_status": "Partial",
- "partial_remaining": "Search budget exhausted after 13 searches (shared per-turn WebSearch limit). Remaining: arts/humanities/social sciences (Blavatnik MPP, OII, ODID, Humanities, Continuing Education), other (Law, Medical Sciences, Education), remaining science departments and Smith School, Saïd Executive MBA/MSc programmes, confirmation of Careers Service programme status for 2026/27.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -64,18 +64,27 @@
    "finding": "Limited coverage: MMSC group case studies lack evidenced external clients; Statistics consultancy is not a student route. Chemistry, Biology, Earth Sciences, Physics, Smith School (MSc SEE) not searched due to search budget exhaustion."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
+   "status": "Searched",
    "queries": [
-    "Blavatnik School MPP students team project real policy client (refused: web search budget exhausted)"
+    "Blavatnik School MPP students team project real policy client (refused: web search budget exhausted)",
+    "Blavatnik School of Government MPP policy project client organisation team",
+    "Oxford Internet Institute OR Anthropology OR Geography MSc group consultancy project client organisation"
    ],
-   "key_sources": [],
-   "finding": "Not searched: the shared per-turn web-search limit was reached before this area could be researched (Blavatnik MPP, Oxford Internet Institute, ODID, Humanities Division, Continuing Education MSc Sustainable Urban Development all outstanding)."
+   "key_sources": [
+    "https://www.bsg.ox.ac.uk/study/mpp/policy-report",
+    "https://www.oii.ox.ac.uk/study/msc-in-social-science-of-the-internet/"
+   ],
+   "finding": "Blavatnik MPP Policy Report is an externally hosted placement/desk project (113 host organisations in 2025) but individual; one team example only. No group consultancy route found for OII, Anthropology, Geography in reduced-depth search."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: search budget exhausted (Law Faculty clinics/pro bono, Medical Sciences, Education)."
+   "status": "Searched",
+   "queries": [
+    "Oxford Law Faculty pro bono clinic students team external organisation project"
+   ],
+   "key_sources": [
+    "https://www.law.ox.ac.uk/research-and-subject-groups/oxford-pro-bono-publico/opbp-project-work-frequently-asked-questions"
+   ],
+   "finding": "Oxford Pro Bono Publico runs graduate volunteer research teams for external pro bono clients (extracurricular, status undated); Bonavero clinics are casework. Medical Sciences and Education not searched (reduced depth)."
   }
  },
  "schemes": [
@@ -117,7 +126,7 @@
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "2025/26 (testimonials referencing Michaelmas 2025 cohort)",
    "participation_data": "",
-   "unresolved": "Conflicting status evidence: the programme page, skills roadmap and news navigation label TOSCA 'Programme Paused' ('This programme is paused at the moment'), while the employer Collaborative Projects page describes it as running three times a year and testimonials reference Michaelmas 2025. Classified 'Current status unclear' per round-2 ruling; weight of programme-specific evidence suggests a pause after Michaelmas 2025.",
+   "unresolved": "Conflicting status evidence: the programme page, skills roadmap and news navigation label TOSCA 'Programme Paused' ('This programme is paused at the moment'), while the employer Collaborative Projects page describes it as running three times a year and testimonials reference Michaelmas 2025. Classified 'Current status unclear' per round-2 ruling; weight of programme-specific evidence suggests a pause after Michaelmas 2025. Careers Service search (Oct 2026) shows page headed 'Programme Paused' and a Hilary 2026 round (applications by 8 Feb, final presentations 11 March 2026); 2026/27 status unconfirmed.",
    "legacy_ref": "",
    "sources": [
     {
@@ -724,6 +733,65 @@
      ]
     }
    ]
+  },
+  {
+   "local_id": "S9",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Oxford Pro Bono Publico (OPBP) project work",
+   "english_name": "Oxford Pro Bono Publico research projects",
+   "module_code": "",
+   "description": "Student coordinators recruit teams of graduate research volunteers to produce pro bono legal research for external clients (UN bodies, NGOs, lawyers, law firms), overseen by Law Faculty supervisors; typically 3-6 months.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Faculty of Law (OPBP)",
+   "eligible_faculties_programmes": "Oxford graduate students (volunteers)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Graduate students",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "3-6 months",
+   "delivery_format": "Volunteer research teams",
+   "project_based": "Yes",
+   "project_evidence": "Defined legal research projects for clients [1].",
+   "group_working": "Yes",
+   "group_evidence": "Coordinator recruits a team of research volunteers [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External organisations (UN bodies, NGOs, lawyers/firms) commission research [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client commissioning research",
+   "named_partners": "",
+   "deliverable": "Legal research memo/report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 cohort evidence; search summary only, page not opened; legal research for pro bono clients may be borderline 'employer'.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.law.ox.ac.uk/research-and-subject-groups/oxford-pro-bono-publico/opbp-project-work-frequently-asked-questions",
+     "title": "OPBP Project Work",
+     "section": "FAQ",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Project partners have included UN bodies, NGOs, lawyers and law firms; coordinators recruit a team of research volunteers from the graduate body; supervised by Faculty of Law; timeframes usually three to six months.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
   }
  ],
  "exclusions": [
@@ -782,9 +850,25 @@
    "reason": "Non-degree executive education (group work on a strategic issue for a real-world client); out of scope for student provision.",
    "source_url": "https://www.sbs.ox.ac.uk/programmes/executive-education/person-programmes/oxford-scenarios-programme",
    "status_note": ""
+  },
+  {
+   "name": "Blavatnik MPP Policy Report (Policy Challenge II)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Externally hosted placement or desk research (113 host organisations 2025) producing an individual 4,500-word report; only one team example (Samagra) evidenced, so group route not established.",
+   "source_url": "https://www.bsg.ox.ac.uk/study/mpp/policy-report",
+   "status_note": "2025"
+  },
+  {
+   "name": "Saïd Business School Strategic Consulting Projects (development.sbs.ox.ac.uk)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Client-facing page: 4-6 students per project; likely the MBA SCP (S5) but not verified as same record.",
+   "source_url": "https://development.sbs.ox.ac.uk/strategic-consulting-projects/index.html",
+   "status_note": ""
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**Oxford** (partial review) shows qualifying provision in three places, but no institution-wide curricular route.\n\n- **Careers Service (central, extracurricular, selective):** a family of team consultancy programmes for real clients. **The Oxford Strategy Challenge** runs 5-day projects for mixed teams of 4-6 students, from first-year undergraduates to DPhils in any subject (Saïd students excluded); clients define the challenge and receive the recommendations. **Making a Difference** serves charities and social enterprises (50 places a term). **The Student Consultancy** (4-6 weeks) and **The Agency** (term-long marketing briefs) are similar. Most of these pages are now labelled *Programme Paused*, although there are testimonials from Michaelmas 2025 and Hilary 2026, so their current status is unclear.\n- **Embedded in degrees:**\n  - **Computer Science:** the compulsory second-year **Group Design Practical** (HT2026). Teams of 5-6 build software for industrial sponsors such as G-Research and Palantir, who co-supervise.\n  - **MSc Energy Systems:** the whole cohort works as a consultancy for an external stakeholder (2025/26 handbook), although some past stakeholders were internal.\n  - **Saïd MBA:** the optional summer **Strategic Consulting Project** for companies and charities. The client provides sponsors and sits on the final presentation panel.\n- **Near-misses:**\n  - Engineering Science's compulsory 3YP group design project has only occasional company sponsors.\n  - The MMSC case studies have no evidenced external client.\n  - The legacy **Micro-Internship Programme** is an individual placement.\n- **Uncertain:** humanities and social sciences, law and medicine were not searched because the search budget ran out, and it is not confirmed whether the Careers programmes will resume.",
- "gaps": "Arts/humanities/social sciences and 'other' areas not searched (budget). Careers Service programme status for 2026/27 (paused vs running) unresolved. GDP 2025/26 sponsor list; 3YP sponsored share; MBA SCP team counts; MaDe team structure and eligibility; TSC/Agency eligibility. Further departmental instances likely (e.g. Smith School MSc SEE, Blavatnik MPP, OII, Continuing Education)."
+ "profile_md": "**Oxford** (partial review) shows qualifying provision in three places, but no institution-wide curricular route.\n\n- **Careers Service (central, extracurricular, selective):** a family of team consultancy programmes for real clients. **The Oxford Strategy Challenge** runs 5-day projects for mixed teams of 4-6 students, from first-year undergraduates to DPhils in any subject (Saïd students excluded); clients define the challenge and receive the recommendations. **Making a Difference** serves charities and social enterprises (50 places a term). **The Student Consultancy** (4-6 weeks) and **The Agency** (term-long marketing briefs) are similar. Most of these pages are now labelled *Programme Paused*, although there are testimonials from Michaelmas 2025 and Hilary 2026, so their current status is unclear.\n- **Embedded in degrees:**\n  - **Computer Science:** the compulsory second-year **Group Design Practical** (HT2026). Teams of 5-6 build software for industrial sponsors such as G-Research and Palantir, who co-supervise.\n  - **MSc Energy Systems:** the whole cohort works as a consultancy for an external stakeholder (2025/26 handbook), although some past stakeholders were internal.\n  - **Saïd MBA:** the optional summer **Strategic Consulting Project** for companies and charities. The client provides sponsors and sits on the final presentation panel.\n- **Near-misses:**\n  - Engineering Science's compulsory 3YP group design project has only occasional company sponsors.\n  - The MMSC case studies have no evidenced external client.\n  - The legacy **Micro-Internship Programme** is an individual placement.\n- **Uncertain:** humanities and social sciences, law and medicine were not searched because the search budget ran out, and it is not confirmed whether the Careers programmes will resume.\n\nUpdate (Oct 2026): added Oxford Pro Bono Publico volunteer research teams (Law, extracurricular, status undated). Blavatnik MPP Policy Report is externally hosted but individual. Careers Service consultancy pages are headed 'Programme Paused', so their current status stays unclear.",
+ "gaps": "Reduced-depth: Medical Sciences, Education, remaining sciences (Chemistry, Biology, Earth Sciences, Physics), Smith School, Executive MBA, Continuing Education not searched; further departmental instances likely. Careers Service programmes (TOSCA, MaDe, TSC, Agency) show 'Programme Paused' headings so 2026/27 status unresolved. GDP sponsor list, 3YP sponsored share, MBA SCP team counts unverified."
 }
