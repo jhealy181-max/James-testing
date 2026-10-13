@@ -1,9 +1,9 @@
 {
  "inst_id": "AU03",
  "institution": "University of Sydney",
- "review_status": "Partial",
- "partial_remaining": "'other' area (law, health/medicine/pharmacy, architecture/design) not searched; engineering discipline capstones, science XXXX3888 units, INDP3000, Sydney Policy Reform Project, MBA and Business Analytics capstones untested; group format of SIEN6600 and BIS capstone and current status of MMGT6101/JFC unresolved. Cause: shared WebSearch budget exhausted.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -76,10 +76,14 @@
    "finding": "FASS routes are mainly ICPU shell units (FASS3333, FASS4902, GOVT3898); PG capstones found were individual internships/projects. Sydney Policy Reform Project untested."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: shared web-search budget exhausted. Law, health, architecture/design appear only via ICPU shell units (FMHU4001, ARCH4108, PHAR4820)."
+   "status": "Searched",
+   "queries": [
+    "University of Sydney Law School OR architecture design studio industry client student teams project unit (plus WebFetch of Law industry-and-community-engagement page)"
+   ],
+   "key_sources": [
+    "https://www.sydney.edu.au/law/study-law/student-experience/industry-and-community-engagement.html"
+   ],
+   "finding": "Law students (final/penultimate year, 48 cp core law) can enrol in an Interdisciplinary Project (ICPU route, interdisciplinary groups); combined-law students use the partner faculty shell unit. Law electives with Community Legal Centres NSW, NSW Public Defenders, NSW Police mentioned but format not tested. No architecture/design studio-client route found beyond ICPU shells (ARCH4108)."
   }
  },
  "schemes": [
@@ -206,11 +210,12 @@
     "business",
     "engineering_computing",
     "science",
-    "arts_humanities_social_sciences"
+    "arts_humanities_social_sciences",
+    "other"
    ],
    "student_level": "Undergraduate",
    "year_of_study": "3000 level (typically third year)",
-   "eligibility_restrictions": "Must be an undergraduate; shell unit must be offered in your course and handbook criteria met; places limited; ENGG3801 requires departmental permission; from 2026 SCPU3001 is mainly for Science double-major students; signed and witnessed Deed Poll required.",
+   "eligibility_restrictions": "Must be an undergraduate; shell unit must be offered in your course and handbook criteria met; places limited; ENGG3801 requires departmental permission; from 2026 SCPU3001 is mainly for Science double-major students; signed and witnessed Deed Poll required. Law: combined-law students use partner-degree shell unit; LLB/JD final/penultimate-year students with 48 cp core law can take an Interdisciplinary Project (Law page, fetched 2026-10-13).",
    "participation_requirement": "Optional/elective",
    "curricular_status": "Curricular",
    "credit_assessment": "6 credit points",
@@ -307,6 +312,22 @@
       "status",
       "duration"
      ]
+    },
+    {
+     "n": 6,
+     "url": "https://www.sydney.edu.au/law/study-law/student-experience/industry-and-community-engagement.html",
+     "title": "Industry and community engagement (Law)",
+     "section": "ICPU / Interdisciplinary Project",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Students \"work in interdisciplinary groups\" addressing \"real-world problems for industry partners\"; LLB/JD final or penultimate year students with 48 credit points of core law can enrol in an Interdisciplinary Project.",
+     "supports": [
+      "group",
+      "employer",
+      "eligibility",
+      "reach"
+     ]
     }
    ]
   },
@@ -330,7 +351,7 @@
    ],
    "student_level": "Undergraduate",
    "year_of_study": "4000 level (final/honours-level year)",
-   "eligibility_restrictions": "Must access via the two co-requisite shell units available in own course; detailed eligibility not retrieved.",
+   "eligibility_restrictions": "4000-level page (fetched): projects available to students enrolled in a Bachelor of Advanced Studies; accessed via shell units offered by Architecture/Design/Planning, Business, Arts & Social Sciences, Medicine & Health and Science.",
    "participation_requirement": "Optional/elective",
    "curricular_status": "Curricular",
    "credit_assessment": "12 credit points (2 x 6 cp shell units, A and B)",
@@ -339,9 +360,9 @@
    "project_based": "Yes",
    "project_evidence": "Teams work on a complex real-world problem identified by partner organisations and produce final recommendations [1][2].",
    "group_working": "Yes",
-   "group_evidence": "ARCH4108 describes teams working on the problem [2]; SCPU4001 students work in teams in collaboration with a major industry partner [3].",
+   "group_evidence": "ARCH4108 describes teams working on the problem [2]; SCPU4001 students work in teams in collaboration with a major industry partner [3]. WebFetch of 4000-level page (2026-10-13): \"Project teams, comprised of around five 4000 level students from multiple disciplines\"; \"students will interact with multiple industry and community partners who will set the project scope\"; teams present final report to a panel of external partners.",
    "employer_connected": "Yes",
-   "employer_evidence": "Problem identified by industry, community and government organisations [2]; SCPU4001 run in collaboration with a major industry partner [3]; 2026 projects with AMP and PTW Architects [1].",
+   "employer_evidence": "Problem identified by industry, community and government organisations [2]; SCPU4001 run in collaboration with a major industry partner [3]; 2026 projects with AMP and PTW Architects [1]. Page text: partners set project scope and receive final report presentation.",
    "partner_type": "Mixed",
    "partner_role": "Identifies the problem/brief; collaborates on the project",
    "named_partners": "AMP; PTW Architects (Semester 2 2026)",
@@ -350,9 +371,9 @@
    "external_partner_coverage": "All/standard",
    "likely_duplicate_of": "",
    "operating_status": "Current delivery confirmed",
-   "latest_evidenced_year": "2026 (Semester 2 2026 projects, 3 Aug-8 Nov 2026)",
+   "latest_evidenced_year": "2026 and 2027 (project dates listed for Jan 2027-Nov 2027)",
    "participation_data": "",
-   "unresolved": "The AMP 2026 project uses AMP's publicly available climate disclosures as a case study; extent of AMP's direct engagement with students not stated. Reach classed Cross-faculty because no explicit all-faculty eligibility statement for 4000 level was retrieved.",
+   "unresolved": "AMP 2026 project uses public disclosures as a case study; extent of direct partner engagement there not stated. Reach Cross-faculty (five areas named).",
    "legacy_ref": "",
    "sources": [
     {
@@ -411,6 +432,23 @@
      "retrieval": "search-summary paraphrase",
      "extract": "Semester 2 2026 offering listed.",
      "supports": [
+      "status"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://www.sydney.edu.au/students/industry-and-community-projects/4000-level-projects.html",
+     "title": "4000 level projects",
+     "section": "Eligibility, teams, dates",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "are available for students enrolled in a Bachelor of Advanced Studies; Project teams, comprised of around five 4000 level students from multiple disciplines; students will interact with multiple industry and community partners who will set the project scope; Project B Semester 1 22 Feb-30 May 2027.",
+     "supports": [
+      "group",
+      "employer",
+      "eligibility",
+      "reach",
       "status"
      ]
     }
@@ -685,8 +723,8 @@
    "delivery_format": "On campus, Semester 1 and Semester 2 2026",
    "project_based": "Yes",
    "project_evidence": "Real-life business projects [1].",
-   "group_working": "Unclear",
-   "group_evidence": "Team format not stated in retrieved extracts.",
+   "group_working": "Yes",
+   "group_evidence": "WebFetch of unit page (2026-10-13): LO4 \"Practice organisational and time management skills while collaborating on group projects and interacting with business partners.\" [2]",
    "employer_connected": "Yes",
    "employer_evidence": "Projects 'offered by participating partner organisations' [1].",
    "partner_type": "Unclear",
@@ -699,7 +737,7 @@
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2026",
    "participation_data": "",
-   "unresolved": "Group vs individual format; named partners; whether compulsory for the specialisation.",
+   "unresolved": "Named partners, deliverable and compulsory status not retrieved (assessment details only in unit outline). Group projects with business partners per learning outcome; whether every project is a team project with an external partner not explicit.",
    "legacy_ref": "",
    "sources": [
     {
@@ -716,6 +754,21 @@
       "employer",
       "status",
       "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sydney.edu.au/units/SIEN6600",
+     "title": "SIEN6600 (page text)",
+     "section": "Description; learning outcomes; sessions",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "This unit serves as the capstone unit for the Strategy, Innovation and Management Specialisation. LO4: collaborating on group projects and interacting with business partners. Offered S1 and S2 2026, also 2022-2025.",
+     "supports": [
+      "group",
+      "employer",
+      "status"
      ]
     }
    ]
@@ -976,6 +1029,6 @@
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "**University of Sydney** has an institution-level framework for live, partner-briefed group projects, plus several faculty routes. This review is **partial**: the search budget ran out before law, health, architecture and most discipline capstones were covered.\n\n- **Industry and Community Project Units (ICPUs):** run from the PVC Education portfolio and taken through faculty shell units. At **3000 level** (6 cp), any undergraduate whose course offers a shell unit can register for a partner project. Supervisors put students into interdisciplinary groups, which work on a real challenge set by an industry, government or community partner and present solutions to it. Registration windows for the 2026/27 sessions are published. At **4000 level** (12 cp: an A unit in a June-July intensive, then a B unit in Semester 2), the 2026 partners are AMP and PTW Architects. Both levels are elective.\n- **Business School:** the **Business Consulting Practicum** (BWIL1300 undergraduate, BWIL6300 postgraduate; offered in 2026) has student consultancies work for a corporate, SME, not-for-profit or government sponsor, which scopes the deliverables and receives a written report. **MMGT6101** puts groups of 4-5 with a host organisation for 10 weeks, but its current status is undated. **SIEN6600** and the **BIS capstone** use partner projects, but their group format is unverified.\n- **Computing:** **COMP3888**, a core unit for the Computer Science major, has groups build software for an external client (2026).\n- **Engineering:** **Jacaranda Flame Consulting** is an extracurricular, selective programme. Teams of 4-5 work full time over the winter or summer break on problems from companies and government bodies. Its page is undated.\n- **Overall:** the provision is distributed, with a university-wide elective spine. Remaining uncertainties are partner engagement depth in individual ICPU projects, enrolment numbers, and the faculty areas not yet searched.",
- "gaps": "PARTIAL: shared web-search budget exhausted after 14 successful searches. Not searched: law (Industry and community engagement units page surfaced but untested), health/medicine/pharmacy (beyond ICPU shell units), architecture/design studios with industry partners, engineering discipline capstones/thesis industry routes, INDP3000 Interdisciplinary Project, Science XXXX3888/3988 discipline project units (single majors), Sydney Policy Reform Project, Business School Industry Placement/Experience in Industry routes, MBA current capstone, Business Analytics capstone. Further departmental instances likely."
+ "profile_md": "**University of Sydney** has an institution-level framework for live, partner-briefed group projects, plus several faculty routes. This reduced-depth review queried all six areas; many discipline capstones remain untested. Law students reach the ICPU route through an Interdisciplinary Project (final/penultimate year, 48 cp core law); 4000-level teams of about five are set scope by partners and present to an external panel.\n\n- **Industry and Community Project Units (ICPUs):** run from the PVC Education portfolio and taken through faculty shell units. At **3000 level** (6 cp), any undergraduate whose course offers a shell unit can register for a partner project. Supervisors put students into interdisciplinary groups, which work on a real challenge set by an industry, government or community partner and present solutions to it. Registration windows for the 2026/27 sessions are published. At **4000 level** (12 cp: an A unit in a June-July intensive, then a B unit in Semester 2), the 2026 partners are AMP and PTW Architects. Both levels are elective.\n- **Business School:** the **Business Consulting Practicum** (BWIL1300 undergraduate, BWIL6300 postgraduate; offered in 2026) has student consultancies work for a corporate, SME, not-for-profit or government sponsor, which scopes the deliverables and receives a written report. **MMGT6101** puts groups of 4-5 with a host organisation for 10 weeks, but its current status is undated. **SIEN6600** lists collaboration on group projects with business partners as a learning outcome (2026); the **BIS capstone** group format is unverified.\n- **Computing:** **COMP3888**, a core unit for the Computer Science major, has groups build software for an external client (2026).\n- **Engineering:** **Jacaranda Flame Consulting** is an extracurricular, selective programme. Teams of 4-5 work full time over the winter or summer break on problems from companies and government bodies. Its page is undated.\n- **Overall:** the provision is distributed, with a university-wide elective spine. Remaining uncertainties are partner engagement depth in individual ICPU projects, enrolment numbers, and the faculty areas not yet searched.",
+ "gaps": "Reduced-depth review; all six areas queried. Untested: engineering discipline capstones, Science XXXX3888 units, INDP3000, Sydney Policy Reform Project, MBA and Business Analytics capstones, Law electives with CLC NSW/Public Defenders/NSW Police (format unknown), architecture/design studios; MMGT6101 and JFC current status unresolved; BIS capstone group format unverified. Further departmental instances likely."
 }

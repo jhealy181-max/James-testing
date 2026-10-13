@@ -1,9 +1,9 @@
 {
  "inst_id": "UK08",
  "institution": "University of Sussex",
- "review_status": "Partial",
- "partial_remaining": "Search budget exhausted after 6 searches. Not searched: engineering_computing (School of Engineering and Informatics group/industry projects), science (Life Sciences, Maths & Physical Sciences), arts_humanities_social_sciences (incl. Global Studies, Media, Psychology, Education), other (Law, BSMS medicine, IDS). Business partly searched (Business Analytics MSc / International Business and Development consultancy projects, Business School guaranteed internship/work project page, 'Changing the Face of Consultancy' scheme not tested). Legacy Connector Programme assessed from the legacy row only, not re-searched.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -34,28 +34,44 @@
    "finding": "UG Marketing Consultancy Project (Capstone) is a team brief-based project but no external client evidenced (C unclear). PG Consultancy Project (111N1, 30 credits, summer) is a group live consultancy project with local organisations/businesses (Management MSc dissertation option); latest dated module page 2024/25. Partially searched only."
   },
   "engineering_computing": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run was exhausted after 6 Sussex searches (7th call refused). School of Engineering and Informatics, Life Sciences, Mathematical and Physical Sciences, arts/humanities/social sciences, law, media, global studies, IDS and BSMS routes remain to be searched."
+   "status": "Searched",
+   "queries": [
+    "Sussex Engineering and Informatics group project industry client module"
+   ],
+   "key_sources": [
+    "https://www.sussex.ac.uk/study/modules/undergraduate/2022/96501-meng-group-project"
+   ],
+   "finding": "MEng Group Project (45 credits, L7) is a multidisciplinary team project on an 'engineering challenge of industrial interest' in a 'mock industrial environment'; page (2022/23) names no external client. Not recorded as a scheme."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run was exhausted after 6 Sussex searches (7th call refused). School of Engineering and Informatics, Life Sciences, Mathematical and Physical Sciences, arts/humanities/social sciences, law, media, global studies, IDS and BSMS routes remain to be searched."
+   "status": "Searched",
+   "queries": [
+    "Sussex Life Sciences Physics Chemistry Mathematics group project external partner employer module"
+   ],
+   "key_sources": [
+    "https://www.sussex.ac.uk/study/masters/courses/physics-msc"
+   ],
+   "finding": "No science group project with a documented external client found; Physics MSc page's 'real-life challenge faced by an organisation' text matches the central Career Lab consultancy (S1). Chemistry Industrial Project untested."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run was exhausted after 6 Sussex searches (7th call refused). School of Engineering and Informatics, Life Sciences, Mathematical and Physical Sciences, arts/humanities/social sciences, law, media, global studies, IDS and BSMS routes remain to be searched."
+   "status": "Searched",
+   "queries": [
+    "Sussex Media Global Studies Psychology Education module live client community organisation group project"
+   ],
+   "key_sources": [
+    "https://www.sussex.ac.uk/study/masters/courses/media-and-cultural-studies-ma"
+   ],
+   "finding": "Media and Cultural Studies MA page quotes a real-life organisational challenge delivered to a client in a team; no module-level detail so treated as the central scheme S1 promoted in-programme. Community Media (2024) works with NGOs; group/client not verified."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: the shared WebSearch budget for this run was exhausted after 6 Sussex searches (7th call refused). School of Engineering and Informatics, Life Sciences, Mathematical and Physical Sciences, arts/humanities/social sciences, law, media, global studies, IDS and BSMS routes remain to be searched."
+   "status": "Searched",
+   "queries": [
+    "Sussex Law School clinic OR Brighton and Sussex Medical School OR IDS student project external organisation"
+   ],
+   "key_sources": [
+    "https://www.sussex.ac.uk/schools/law-politics-and-sociology/study/law-clinics"
+   ],
+   "finding": "Law Clinics (third-year Clinical Legal Education) serve public/charities with external solicitors; advice casework, group project format not evidenced. Nothing found for BSMS/IDS."
   }
  },
  "schemes": [
@@ -106,9 +122,9 @@
      "title": "Student consultancy : University of Sussex",
      "section": "Programme description / eligibility",
      "pub_year": "undated",
-     "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Open to final-year undergraduates and taught postgraduates, once per academic year; students placed in multidisciplinary teams matched to an organisation; after training work four weeks (three for Summer) then present to the client; briefs set by charities and NGOs, startups and large corporates; c.20 hours in total; bursary GBP 269 for Winter 2025/Spring 2026 at Real Living Wage.",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "WebFetch 2026-10-13: 'Final-year undergraduate students and taught postgraduate students are eligible to apply.' 'You will be allocated to a team and project.' 'Project briefs are set by a range of organisations from different sectors.' 'Working flexible hours over a three to four-week period (approximately 20 hours in total).' Ends with 'a 10-15 minute team presentation highlighting your research and recommendations.'",
      "supports": [
       "project",
       "group",
@@ -158,6 +174,22 @@
      "extract": "Past consultancy teams worked with AECOM (net zero strategy), Komedia (YouTube channel) and Mindlab (marketing audiences).",
      "supports": [
       "employer"
+     ]
+    },
+    {
+     "n": 5,
+     "url": "https://www.sussex.ac.uk/study/masters/courses/media-and-cultural-studies-ma",
+     "title": "Media and Cultural Studies MA",
+     "section": "Careers: Paid project opportunities with UK employers",
+     "pub_year": "undated (page covers Sept 2027 start)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Gain work experience by tackling a real-life challenge faced by an organisation.' 'Learn how to develop a project, work in a team and deliver your findings to a client in a supportive setting.' (same text appears on Physics MSc page)",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach"
      ]
     }
    ]
@@ -343,9 +375,41 @@
    "reason": "Stream in which students choose a specific company and identify a research question; group working not evidenced (appears individual).",
    "source_url": "https://www.sussex.ac.uk/study/modules/postgraduate/2024/95257-dissertation-consultancy-project-international-business-and-development-in-practice",
    "status_note": "2024/25 page"
+  },
+  {
+   "name": "MEng Group Project (860H1)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "45-credit L7 multidisciplinary team project on an engineering challenge 'of industrial interest' in a mock industrial environment; no external client evidenced (page planned for 2022/23).",
+   "source_url": "https://www.sussex.ac.uk/study/modules/undergraduate/2022/96501-meng-group-project",
+   "status_note": "2022/23 page"
+  },
+  {
+   "name": "Sussex Law Clinics (Clinical Legal Education)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Third-year clinics with external solicitors/barristers advising charities and public; project/group structure and per-client team working not evidenced.",
+   "source_url": "https://www.sussex.ac.uk/schools/law-politics-and-sociology/study/law-clinics",
+   "status_note": "undated"
+  },
+  {
+   "name": "Community Media (100595)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "L6 30-credit module working with activists, charities, NGOs; group working and client role not verified.",
+   "source_url": "https://www.sussex.ac.uk/study/modules/undergraduate/2024/100595-community-media",
+   "status_note": "2024"
+  },
+  {
+   "name": "Chemistry Industrial Project / Informatics Industrial Advisory Board sponsored projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Listed in module catalogues; no description of group work or client seen.",
+   "source_url": "https://www.sussex.ac.uk/ei/internal/coursesandmodules/informatics/modules",
+   "status_note": "undated"
   }
  ],
- "embeddedness": "Unclear",
- "profile_md": "**Partial review (search budget exhausted after 6 searches; only central and business areas searched).**\n\n- **Central:** The **Career Lab Student Consultancy Programme** qualifies. Final-year undergraduates and taught postgraduates apply; selected students form small multidisciplinary teams that spend 3-4 weeks (c.20 hours) working on a brief set by an external organisation (charities/NGOs, startups, large corporates such as Hastings Direct) and present recommendations to the client. It is extracurricular, bursary-paid and runs three times in 2026/27.\n- **Business School:** The PG **Consultancy Project (111N1)** is a 30-credit summer group live consultancy for local organisations/businesses (e.g. Management MSc dissertation alternative), but the latest dated evidence is 2024/25. The UG **Marketing Consultancy Project (Capstone)** is a team brief-based capstone current in 2026 but with no evidenced real client (only tips from a consulting firm).\n- The legacy **Connector Programme** is an internal student-staff partnership scheme and does not meet criterion C.\n\nEngineering & Informatics, sciences, arts/humanities/social sciences, law, medicine and IDS were not searched, so the extent of embedding cannot be judged.",
- "gaps": "Five of six areas wholly or partly unsearched (see partial_remaining). Current delivery of the PG Consultancy Project not corroborated for 2025/26+. Marketing capstone client involvement unknown. Business Analytics MSc / IBD consultancy projects and the 'Changing the Face of Consultancy' variant untested."
+ "embeddedness": "Several distributed routes",
+ "profile_md": "**Reduced-depth review; all six areas queried.**\n\n- **Central:** The **Career Lab Student Consultancy Programme** qualifies. Final-year undergraduates and taught postgraduates apply; selected students form small multidisciplinary teams that spend 3-4 weeks (c.20 hours) working on a brief set by an external organisation (charities/NGOs, startups, large corporates such as Hastings Direct) and present recommendations to the client. It is extracurricular, bursary-paid and runs three times in 2026/27.\n- **Business School:** The PG **Consultancy Project (111N1)** is a 30-credit summer group live consultancy for local organisations/businesses (e.g. Management MSc dissertation alternative), but the latest dated evidence is 2024/25. The UG **Marketing Consultancy Project (Capstone)** is a team brief-based capstone current in 2026 but with no evidenced real client (only tips from a consulting firm).\n- The legacy **Connector Programme** is an internal student-staff partnership scheme and does not meet criterion C.\n\nEngineering (MEng Group Project, no external client evidenced), sciences, arts/social sciences, Law Clinics and BSMS/IDS yielded no verified qualifying scheme at this depth; the Career Lab programme is promoted on Physics and Media MSc pages as paid project opportunities.",
+ "gaps": "Reduced-depth: one query per area. PG Consultancy Project (S3) lacks 2025/26+ corroboration and client sector. Marketing capstone client unknown. Law Clinics, Community Media, Chemistry Industrial Project, Business Analytics/IBD projects, Changing the Face of Consultancy untested; further departmental instances likely."
 }
