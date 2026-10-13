@@ -1,0 +1,639 @@
+{
+ "inst_id": "US11",
+ "institution": "Columbia University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Columbia Center for Teaching and Learning community-based learning client project course partner organization",
+    "Design for Social Innovation course Columbia teams social sector clients"
+   ],
+   "key_sources": [
+    "https://entrepreneurship.columbia.edu/event/application-deadline-fall-2025-design-for-social-innovation-dfsi/"
+   ],
+   "finding": "No central teaching-unit scheme found; the only cross-school route found is the Entrepreneurship/SIPA Design for Social Innovation course (selective)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Columbia Business School Lab in Business client project student teams",
+    "Management Consulting Lab B8701 EC-Africa company student teams semester project"
+   ],
+   "key_sources": [
+    "https://courses.business.columbia.edu/B8701",
+    "https://business.columbia.edu/ecp/ec-africa/about-ec-africa"
+   ],
+   "finding": "B8701 qualifies; Pangea Advisors and NBLP are voluntary club/extracurricular consulting and Consulting Projects pages were not opened (gap)."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Columbia University Engineering capstone design sponsor company student teams Mechanical Engineering senior design",
+    "Columbia Engineering IEOR/CS capstone industry sponsor"
+   ],
+   "key_sources": [
+    "https://www.me.columbia.edu/academics/undergraduate/senior-design",
+    "https://industry.datascience.columbia.edu/engage/capstone"
+   ],
+   "finding": "Senior Design is student-defined with no sponsor evidence found; DSI capstone has mixed external/faculty sponsors."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Columbia Climate School MS Sustainability Management capstone",
+    "Barnard EESC BC3300 Sustainable Development workshop client agency groups"
+   ],
+   "key_sources": [
+    "https://sps.columbia.edu/events/sustainability-graduate-programs-final-capstone-briefings-spring-2026",
+    "https://scienceandsociety.columbia.edu/courses/bc3300-workshop-sustainable-development"
+   ],
+   "finding": "Client workshops in sustainability (graduate capstone and Barnard junior workshop) qualify."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Columbia SIPA Workshop in Applied Policy client organization capstone consulting",
+    "SIPA Capstone Workshops live consulting external client credits",
+    "Columbia College Barnard undergraduate course external client partner project"
+   ],
+   "key_sources": [
+    "https://www.sipa.columbia.edu/sipa-education/capstone-workshops",
+    "https://www.sipa.columbia.edu/capstone-workshops/info-capstone-clients"
+   ],
+   "finding": "SIPA Capstone Workshops are the main social-science route; no Columbia College humanities or undergraduate core client route found."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Columbia Law/GSAPP/Journalism clinic client team project",
+    "GSAPP Urban Planning Workshop client community organization students team report"
+   ],
+   "key_sources": [
+    "https://www.arch.columbia.edu/books/reader/922-spring-2022-urban-planning-semester-in-review",
+    "https://www.law.columbia.edu/academics/experiential/clinics/entrepreneurship-and-community-development-clinic"
+   ],
+   "finding": "GSAPP Urban Planning Studio is client-team based but only 2022 evidence; law clinics are largely casework; Journalism not covered."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Recent/2026-27 examples listed by SIPA: Federal Reserve Bank of New York, Bank of America, NYC Comptroller's Office, Citi Private Bank, Mercy Corps, NYC Mayor's Office, United Nations, World Bank Group",
+   "participation_data": "",
+   "unresolved": "Whether capstone/workshop is compulsory for all MIA/MPA students (guaranteed placement and 'must apply' wording only); MIA credits.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S1",
+   "official_name": "SIPA Capstone Workshops",
+   "english_name": "SIPA Capstone Workshops",
+   "description": "Live consulting project for an external client outside SIPA: a team of about six graduate students with a faculty advisor works mid-November to end of spring on a client-set brief and delivers a final report and briefing; clients set goals and deliverables with the advisor and join kick-off, mid-term and final meetings.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of International and Public Affairs (SIPA)",
+   "eligible_faculties_programmes": "MIA and MPA students (Development and Governance concentration uses a separate D&G Workshop process)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "2026-27 cycle: students graduating spring or fall 2027 must apply and are guaranteed placement (search summary of SIPA page).",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "MPA bulletin: two-semester sequence, 4.5 credits (1.5 fall + 3.0 spring); grade based largely on team final report and briefing plus client feedback and participation. MIA credit figure not found.",
+   "duration": "Mid-November to end of spring semester; roughly 8-12 hours/week",
+   "delivery_format": "Team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "Live consulting project with client-set goals and deliverables; final report and briefing [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Team of about six students (FAQ: average six, range four to eight) with faculty advisor [1][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External clients set goals/deliverables with advisor, attend kick-off, mid-term and final meetings, give feedback counted in grade [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: sets brief, meets team, gives feedback, receives report and briefing",
+   "deliverable": "Final report and client briefing",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026-27 cycle (Spring 2026 client list)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sipa.columbia.edu/sipa-education/capstone-workshops",
+     "title": "Capstone Workshops",
+     "section": "Overview",
+     "pub_year": "undated (2026-27 client list)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Live consulting project with an external client outside SIPA; team of about six graduate students with a faculty advisor; once per year, mid-November through spring; 2026-27 clients include Bank of America, Federal Reserve Bank of New York, NYC Comptroller's Office.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.sipa.columbia.edu/capstone-workshops/info-capstone-clients",
+     "title": "Info for Capstone Clients",
+     "section": "Client process",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Clients work with a faculty advisor to set goals and deliverables; three standard meetings (kick-off, mid-term, final); final report and briefing due before May 3; students' grade based largely on report/briefing plus client feedback.",
+     "supports": [
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.sipa.columbia.edu/sipa-education/capstone-workshops/info-students/students-faqs",
+     "title": "Capstone Workshop FAQs for Students",
+     "section": "FAQ",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Teams average six (four to eight); workshop needs at least four students; MPA bulletin lists 4.5 credits across two semesters.",
+     "supports": [
+      "group",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "ENGI E4800",
+   "named_partners": "JPMorgan, Goldman Sachs, KPMG, Vanguard, NYC Department of Health and Mental Hygiene (undated/older DSI pages)",
+   "participation_data": "2022 cohort: over 200 students across 43 projects (DSI news, cumulative cohort count, one term).",
+   "unresolved": "Share of internal faculty-sponsored projects; no dated 2025/26 or 2026/27 corroboration seen.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S2",
+   "official_name": "Data Science Capstone & Ethics (MS Data Science capstone)",
+   "english_name": "Data Science Capstone & Ethics",
+   "description": "Semester-length data science project sponsored by a DSI Industry Catalyst Network member, an external company or non-profit, or a faculty member; teams of roughly 3-6 students with a faculty mentor and often a sponsor mentor meeting weekly/bi-weekly; teams present at term end.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Data Science Institute / Columbia Engineering",
+   "eligible_faculties_programmes": "MS in Data Science students (final semester)",
+   "faculty_areas": [
+    "engineering_computing",
+    "science"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final semester",
+   "eligibility_restrictions": "Master's students in final semester (per search summary)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not established in sources found",
+   "duration": "One semester (Spring Jan-May; Fall Sep-Dec); 12-15 hours/week",
+   "delivery_format": "Team project",
+   "project_based": "Yes",
+   "project_evidence": "Semester-scoped sponsored project with end-of-term presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "Teams of 3-4 (one page) or 4-6 (another) students per project [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sponsors include industry network members, external companies/non-profits (JPMorgan, Goldman Sachs, KPMG, Vanguard, NYC DOHMH cited) but sponsors may also be faculty members (internal), so external coverage is not shown to be standard [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor proposes project; often assigns a mentor meeting weekly/bi-weekly",
+   "deliverable": "Project output and end-of-term poster/presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022 (cohort of 200+ students, 43 projects)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://industry.datascience.columbia.edu/engage/capstone",
+     "title": "Capstone Projects",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Semester-length project sponsored by a DSI Industry Catalyst Network member, an external company or non-profit, or a faculty member; teams with faculty mentor and sponsor mentor; Spring and Fall offerings.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://datascience.columbia.edu/news/2022/dsis-capstone-course-provides-invaluable-real-world-experience/",
+     "title": "DSI's Capstone Course Provides Invaluable Real World Experience",
+     "section": "News",
+     "pub_year": "2022",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "2022 cohort largest to date: over 200 students, 43 collaborative research projects.",
+     "supports": [
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Spring 2026: Football For Future, KazWaste, Council for Responsible Sport, Fundacion Terra & Marre; earlier: UNDP Guinea, NYC DEP, NYU Langone Health",
+   "participation_data": "'More than 40 projects' since 2011 (cumulative, SPS news).",
+   "unresolved": "Credit value; whether team work is the unit of assessment.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S3",
+   "official_name": "MS in Sustainability Management Capstone Workshop",
+   "english_name": "Sustainability Management Integrative Capstone Workshop",
+   "description": "One of only two required courses: student teams act as consultants for external nonprofit/government/other clients under a faculty advisor, with midterm and final client briefings; Spring 2026 projects listed for Football For Future, KazWaste (Kazakhstan), Council for Responsible Sport and Fundacion Terra & Marre.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Professional Studies with Columbia Climate School",
+   "eligible_faculties_programmes": "MS Sustainability Management (and Sustainability Science briefings share the capstone events)",
+   "faculty_areas": [
+    "science",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "End of programme",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not established in sources found",
+   "duration": "One semester with midterm and final briefings",
+   "delivery_format": "Team consultancy",
+   "project_based": "Yes",
+   "project_evidence": "Client project with briefings; Spring 2026 final briefings listed [1].",
+   "group_working": "Yes",
+   "group_evidence": "Student teams with faculty advisor [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams serve as consultants to external organisations (nonprofits, governments, NGOs) [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client organisation receives briefings and recommendations",
+   "deliverable": "Client report and briefings",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://sps.columbia.edu/events/sustainability-graduate-programs-final-capstone-briefings-spring-2026",
+     "title": "Sustainability Graduate Programs Final Capstone Briefings: Spring 2026",
+     "section": "Event page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Student teams serve as consultants to external organizations; listed projects include Football For Future, KazWaste, Council for Responsible Sport, Fundacion Terra & Marre.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://sps.columbia.edu/news/fifteen-years-columbias-master-science-sustainability-management-program",
+     "title": "Fifteen Years of Columbia's MS in Sustainability Management",
+     "section": "News",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Program has two required classes: a survey course and a capstone workshop undertaken for nonprofit or government clients; more than 40 projects since 2011.",
+     "supports": [
+      "participation",
+      "employer",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Past clients per Columbia Entrepreneurship: Warby Parker, NYC Department of Education, Sesame Workshop, Apple, UNDP",
+   "participation_data": "Spring 2026 cohort capped at 30 students.",
+   "unresolved": "Spring 2026 client names not seen; 'University-wide' based on 'open to students across Columbia's 20 schools' wording.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S4",
+   "official_name": "Design for Social Innovation (DFSI)",
+   "english_name": "Design for Social Innovation",
+   "description": "Application-only, 3-credit project course in which cross-school teams do human-centred design for social-sector clients (nonprofits, social enterprises, government), producing prototypes and implementation blueprints; Spring 2026 theme AI for Impact with NYC nonprofit/public-sector partners; includes a late-January Design Sprint.",
+   "academic_reach": "University-wide",
+   "admin_host": "Columbia Entrepreneurship Design Studio with SIPA",
+   "eligible_faculties_programmes": "Students from across Columbia's undergraduate and graduate schools (application required)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Application only; Spring 2026 cohort capped at 30; placed in teams by background and interest. Undergraduate eligibility for Columbia College/Barnard not confirmed.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "3 credits",
+   "duration": "One semester (Spring 2026)",
+   "delivery_format": "Team design project",
+   "project_based": "Yes",
+   "project_evidence": "Stakeholder research, human-centred design, working prototypes and implementation blueprints for clients [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students 'work in teams'; assigned to teams on background/interest [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams work on behalf of social-sector clients (nonprofits, social enterprises, government agencies) [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: poses problem, receives prototypes/blueprints",
+   "deliverable": "Prototype and implementation blueprint",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://entrepreneurship.columbia.edu/event/application-deadline-fall-2025-design-for-social-innovation-dfsi/",
+     "title": "Rolling Admission Application: Spring 2026 Design for Social Innovation (DFSI)",
+     "section": "Event/application page",
+     "pub_year": "2025-26",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Columbia students work in teams to solve real-world problems on behalf of social sector clients; open across Columbia's schools; 3-credit; cohort capped at 30; Spring 2026 AI for Impact.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "B8701",
+   "named_partners": "",
+   "participation_data": "",
+   "unresolved": "Credits; deliverable; whether future cycles continue (EC-Africa next cycle announced for 2028).",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S5",
+   "official_name": "Management Consulting Lab",
+   "english_name": "Management Consulting Lab (Columbia Business School)",
+   "description": "Almost entirely project-based elective: student teams of three carry out a semester-long project with an EC-Africa growth company (revenue c.$500k-$15M, 10-500 staff) on process improvement, marketing, market entry or similar.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Columbia Business School (Entrepreneurship and Competitiveness in Africa programme)",
+   "eligible_faculties_programmes": "Columbia Business School students (MBA electives)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not established",
+   "duration": "Late January to 1 May 2026",
+   "delivery_format": "Team consulting project, weekly evening class",
+   "project_based": "Yes",
+   "project_evidence": "Semester-long client project [1].",
+   "group_working": "Yes",
+   "group_evidence": "Students grouped into teams of three [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Each EC-Africa company enrolls a team of two or three senior staff and is the client [1][2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client company",
+   "deliverable": "Consulting project output (form not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://courses.business.columbia.edu/B8701",
+     "title": "Management Consulting Lab",
+     "section": "Course page",
+     "pub_year": "Spring 2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Course is almost entirely project-based; students grouped into teams of three; Spring 2026 section Tuesday evenings late January to 1 May 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://business.columbia.edu/ecp/ec-africa/about-ec-africa",
+     "title": "About EC-Africa",
+     "section": "Programme page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "EC-Africa companies enroll a team of two or three senior staff; typical revenue $500k-$15M; 2026 cohort underway.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "EESC BC3300",
+   "named_partners": "WE ACT for Environmental Justice (Fall 2022)",
+   "participation_data": "",
+   "unresolved": "Current-term client not seen; partner type varies by year; whether the major requirement is wholly this course.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S6",
+   "official_name": "Workshop in Sustainable Development (EESC BC3300)",
+   "english_name": "Workshop in Sustainable Development",
+   "description": "Barnard Environmental Science 4-point workshop: student groups work on sustainability problems for an external client agency, with instruction in communication, collaboration and management, client meetings and presentations; example client WE ACT for Environmental Justice (Fall 2022).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Barnard College Environmental Science",
+   "eligible_faculties_programmes": "Barnard Environment and Sustainability major/minor (required junior-level client workshop); Fall 2026 section capped at 14",
+   "faculty_areas": [
+    "science"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Junior",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "4 points",
+   "duration": "One semester",
+   "delivery_format": "Group client project",
+   "project_based": "Yes",
+   "project_evidence": "Group projects for a client agency [1].",
+   "group_working": "Yes",
+   "group_evidence": "'working in groups' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Work is for an external client agency, with client meetings and presentations [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Client agency",
+   "deliverable": "Client report/presentation (form not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026 (section listing)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://scienceandsociety.columbia.edu/courses/bc3300-workshop-sustainable-development",
+     "title": "BC3300: Workshop in Sustainable Development",
+     "section": "Course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Students work in groups on real-world sustainability issues for an external client agency; projects vary by year.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www1.columbia.edu/cu/bulletin/uwb/subj/EESC/X3300-20263-001/",
+     "title": "Fall 2026 EESC BC3300 section 001",
+     "section": "Bulletin listing",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Fall 2026 section listed, enrolment 6-7 of 14.",
+     "supports": [
+      "status",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Spring 2022: NYC DOT, City of Newark, Bronx Community Foundation, Citizens Housing and Planning Council",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 or 2026/27 evidence; compulsory status inferred from 'core studio' wording; whole-year client list not seen.",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S7",
+   "official_name": "Urban Planning Studio (MS Urban Planning)",
+   "english_name": "Urban Planning Studio",
+   "description": "Core spring first-year studio in which students work as a team with a real client (e.g. NYC DOT, City of Newark, Bronx Community Foundation, Citizens Housing and Planning Council in Spring 2022), producing reports and presentations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "GSAPP, MS Urban Planning",
+   "eligible_faculties_programmes": "MS Urban Planning",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "First year, spring",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not established",
+   "duration": "One semester",
+   "delivery_format": "Studio",
+   "project_based": "Yes",
+   "project_evidence": "Real-world project with report and presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work as a team with a client' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients paired with studios in Spring 2022 listing [1].",
+   "partner_type": "Public sector",
+   "partner_role": "Client",
+   "deliverable": "Written report and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2022",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.arch.columbia.edu/books/reader/922-spring-2022-urban-planning-semester-in-review",
+     "title": "Spring 2022 Urban Planning Semester in Review",
+     "section": "Reader",
+     "pub_year": "2022",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase (WebFetch 403; curl returned a Cloudflare challenge page and was not bypassed)",
+     "extract": "Studio teams paired with clients incl. NYC DOT, City of Newark, Bronx Community Foundation.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "The Art of Engineering (ENGI E1102)",
+   "legacy": true,
+   "category": "Near-miss: no external org",
+   "reason": "Compulsory for first-year SEAS students (Faculty/school reach) with hands-on team project on socially responsible themes, but no source shows an external organisation setting the brief, supervising or receiving outputs; team assignment not described. Cannot show C.",
+   "source_url": "https://undergrad.admissions.columbia.edu/academics/engineering/experience",
+   "status_note": "Spring 2026 and Fall 2026 sections listed"
+  },
+  {
+   "name": "Columbia Startup Lab Morningside",
+   "legacy": true,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Co-curricular founder community/incubator; no client-brief group project; not tested further.",
+   "source_url": "https://entrepreneurship.columbia.edu/resources/columbia-startup-lab-csl-uptown-2/",
+   "status_note": "intake unverified"
+  },
+  {
+   "name": "Mechanical Engineering Senior Design (MECE E3420/E3430) and other SEAS senior design",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Teams design an original system of their own; sponsor involvement seen only as expo sponsorship, not project sponsorship.",
+   "source_url": "https://www.me.columbia.edu/academics/undergraduate/senior-design",
+   "status_note": "page about four years old"
+  },
+  {
+   "name": "Columbia Law School clinics (e.g. Smith Family Human Rights Clinic, Entrepreneurship and Community Development Clinic)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Mostly client casework/representation; Smith clinic team projects with civil-society groups not verified; not researched further.",
+   "source_url": "https://hri.law.columbia.edu/smith-family-human-rights-clinic",
+   "status_note": ""
+  },
+  {
+   "name": "CBS Pangea Advisors / NBLP / Inclusive Entrepreneurship Fellowship",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Student-club or voluntary team consulting for pro bono/nonprofit clients appeared in search results but pages were not opened; likely extracurricular qualifying routes.",
+   "source_url": "https://business.columbia.edu/socialenterprise/experiential-learning/consulting",
+   "status_note": ""
+  },
+  {
+   "name": "Undergraduate Sustainable Development Workshop (Climate School)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Client-based workshop noted in results; separate undergrad page not opened; may duplicate S6.",
+   "source_url": "https://undergrad.climate.columbia.edu/content/capstone-workshop",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Columbia has several well-evidenced employer or external-client team projects, but they sit in individual schools and programmes; no central scheme embeds them across all students and the legacy engineering core course (The Art of Engineering) could not be shown to involve an external organisation.\n\nThe strongest routes are SIPA Capstone Workshops (teams of about six MIA/MPA students consulting for external clients such as the Federal Reserve Bank of New York, 2026-27 list), the MS Sustainability Management capstone (Spring 2026 client briefings), Columbia Business School's Management Consulting Lab (teams of three working with EC-Africa companies, Spring 2026), the Barnard Workshop in Sustainable Development (client agency, Fall 2026 listing) and Design for Social Innovation, a selective 3-credit course open across Columbia's schools with social-sector clients (Spring 2026). The MS Data Science capstone has sponsored team projects but sponsors may be faculty, so employer coverage is unclear; GSAPP's planning studio uses public-sector clients but only 2022 evidence was found.\n\nParticipation is compulsory within some programmes (sustainability capstone; SIPA possibly), elective or competitive elsewhere. Retrieval was by search extracts because direct fetches were blocked (403, then a bot challenge that was not bypassed). Unresolved: credits, current-year clients and compulsion status for several routes.",
+ "gaps": "Direct page access blocked (WebFetch 403; curl met a Cloudflare challenge, not bypassed), so all evidence is search-summary paraphrase. Journalism, Teachers College, Mailman, Engineering IEOR/CS/biomedical capstones, CBS club consulting, law clinic team projects and Columbia College core not researched; further departmental instances likely. Credits and compulsion for SIPA, Sustainability and DSI capstones unverified. Reduced-depth mode (about 14 searches)."
+}
