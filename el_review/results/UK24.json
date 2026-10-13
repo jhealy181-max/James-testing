@@ -1,0 +1,351 @@
+{
+ "inst_id": "UK24",
+ "institution": "Oxford Brookes",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Oxford Brookes central employer-led project students teams Brookes Futures Careers live brief challenge",
+    "Oxford Brookes students live client project team employer brief module"
+   ],
+   "key_sources": [
+    "https://www.brookes.ac.uk/about-brookes/structure-and-governance/faculties-and-schools/business/business-engagement/work-with-our-students",
+    "https://www.brookes.ac.uk/brookesedge/activities"
+   ],
+   "finding": "No university-wide employer project scheme found. Employer-facing student project routes are run by Oxford Brookes Business School (OBBS Business and External Engagement / WAVES team); Careers pages only act as employer contact. Brookes Enterprise 'Spark' (legacy) is a start-up programme, excluded."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Oxford Brookes Business Challenge Week postgraduate real organisations teams",
+    "Oxford Brookes Live Client Strategic Project module group clients (extended)",
+    "WebFetch: real-world-learning, free-consultancy-and-support, work-with-our-students, business-challenge-week, MBA, MSc Management, BA Business and Management, MSc International Hotel and Tourism Management, MSc Project Management"
+   ],
+   "key_sources": [
+    "https://www.brookes.ac.uk/about-brookes/structure-and-governance/faculties-and-schools/business/real-world-learning",
+    "https://www.brookes.ac.uk/business/business-engagement/work-with-our-students/business-challenge-week",
+    "https://www.brookes.ac.uk/about-brookes/structure-and-governance/faculties-and-schools/business/business-engagement/work-with-our-students",
+    "https://www.brookes.ac.uk/courses/postgraduate/management",
+    "https://www.brookes.ac.uk/courses/postgraduate/oxford-brookes-mba"
+   ],
+   "finding": "Business Challenge Week (PG, partner-set problems, teams) and the Summer Student Consultancy Scheme (UG teams of 2-3, organisation briefs) meet A/B/C. MBA Client Project and MSc Management Group Consultancy Project are team-based client work but credit, outputs and partner role are not documented on pages. BA Business and Management Live Client Strategic Project (compulsory Y2) has no group/client detail."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Oxford Brookes computing engineering final year group project industry client sponsor"
+   ],
+   "key_sources": [
+    "https://www.brookes.ac.uk/courses/postgraduate/advanced-computer-science",
+    "https://www.brookes.ac.uk/courses/undergraduate/computer-science"
+   ],
+   "finding": "No employer-sponsored group project verified. MSc Advanced Computer Science has a compulsory 20-credit Group Software Project (no external client evidenced) and a dissertation that 'may be undertaken in close co-operation with' an organisation (optional/individual). Electronic Engineering BEng has group design projects but no external client evidence."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Oxford Brookes science biosciences psychology geography student consultancy project external organisation team"
+   ],
+   "key_sources": [
+    "https://www.brookes.ac.uk/study/subject-areas/biosciences",
+    "https://www.brookes.ac.uk/research/units/hls/centres/centre-for-psychological-research"
+   ],
+   "finding": "No qualifying science group-project route found. Biological Sciences final-year research projects may be external but are individual; the Centre for Psychological Research consultancy is staff-led, not a student scheme."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Oxford Brookes Sociology Politics Criminology Social Work students client project community partner module team",
+    "Oxford Brookes architecture OR planning OR art OR English OR history students live project community client group module"
+   ],
+   "key_sources": [
+    "https://www.brookes.ac.uk/courses/undergraduate/politics",
+    "https://www.brookes.ac.uk/courses/undergraduate/criminology-and-sociology"
+   ],
+   "finding": "Only leads: Politics 'Professional Development in Practice' (Y2 optional, projects with 'external partners', group status unstated) and Social Science Extended Project (community project or dissertation, individual/group unstated). Neither evidenced to A/B/C standard. Social Work/Criminology routes are placements."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Oxford Brookes architecture OR planning OR art OR English OR history students live project community client group module",
+    "WebFetch: architecture live-projects page"
+   ],
+   "key_sources": [
+    "https://www.brookes.ac.uk/study/subject-areas/architecture-and-the-built-environment/architecture-and-the-built-environment/live-projects"
+   ],
+   "finding": "School of Architecture OB1 LIVE live projects for real community/NGO/local-authority clients (first-year). Group working and current delivery not explicitly evidenced. Health/design not separately searched beyond Social Work lead; further departmental instances likely."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Challenge Week (also called Impact Challenge Week)",
+   "english_name": "Business Challenge Week / Impact Challenge Week",
+   "module_code": "",
+   "description": "Intensive week in which a specially built team of Oxford Brookes master's students works on a problem or opportunity posed by a partner organisation (any size, profit or non-profit), then pitches to a panel of judges from the business community at an end-of-week showcase. Partners brief the team online, give ongoing input/feedback and may host a visit or supply anonymised datasets.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Oxford Brookes Business School (Business and External Engagement)",
+   "eligible_faculties_programmes": "Postgraduate students of Oxford Brookes Business School; MSc Management page also describes 'students from across a range of disciplines'",
+   "faculty_areas": ["business"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Postgraduate Business School students (MSc Management page lists it under co-curricular events)",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated on pages",
+   "duration": "One week (8-12 June 2026 per partner page)",
+   "delivery_format": "Intensive in-person team challenge week with end showcase",
+   "project_based": "Yes",
+   "project_evidence": "Teams tackle a partner-set problem and produce analysis, solution/prototype/action plan or short report with recommendations [2][3].",
+   "group_working": "Yes",
+   "group_evidence": "'Students work in teams, developing innovative solutions' [1]; 'specially built team' of master's students [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'real business problems posed by local, national, and international organisations' [1]; partners brief the team, give feedback, and receive the output and showcase invitation [2]; pitches judged by business community [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Poses challenge, briefs team, gives feedback, receives output; judges attend",
+   "named_partners": "BioBright and X&Y Fertility (2024 edition, per search summary of Brookes news article; article not opened, 404 on fetch)",
+   "deliverable": "Analysis, solution/prototype/action plan or short report; pitch/showcase",
+   "duration_band": "1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (8-12 June 2026 partner-call page; 2024 edition reported delivered with 45 students)",
+   "participation_data": "45 students, 2024 edition (including 12 from Regensburg), per search summary of news article.",
+   "unresolved": "Credit and compulsory status; team numbers; page contains a date inconsistency (showcase 6 June vs week 8-12 June); 2026 delivery is evidenced by the partner call, not a post-event report.",
+   "legacy_ref": "Business Challenge Week",
+   "sources": [
+    {"n": 1, "url": "https://www.brookes.ac.uk/about-brookes/structure-and-governance/faculties-and-schools/business/real-world-learning", "title": "Real-world learning", "section": "Business Challenge Week", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, summarised by fetch model)", "extract": "'Each year, postgraduate students at Oxford Brookes Business School have the opportunity to participate'; teams tackle 'real business problems posed by local, national, and international organisations'; 'Students work in teams, developing innovative solutions'; pitch to judges from the business community.", "supports": ["project", "group", "employer", "reach", "eligibility"]},
+    {"n": 2, "url": "https://www.brookes.ac.uk/business/business-engagement/work-with-our-students/business-challenge-week", "title": "Business Challenge Week 2025/26 partner page", "section": "Partner information", "pub_year": "2026 (8-12 June 2026)", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, summarised by fetch model)", "extract": "Dates '8 - 12 June 2026'; a 'specially built team' of master's students; partners of any size, profit or non-profit; free; brief the team online and give ongoing feedback; outputs may include 'a solution, prototype, or action plan' and 'a short report with findings and recommendations'.", "supports": ["project", "group", "employer", "status", "duration"]},
+    {"n": 3, "url": "https://www.brookes.ac.uk/courses/postgraduate/management", "title": "MSc in Management", "section": "Co-curricular events", "pub_year": "2026/27 intake", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, summarised by fetch model)", "extract": "Impact Challenge Week listed under co-curricular events: 'Team up with students from across a range of disciplines' to 'work on a problem being faced by real companies'.", "supports": ["group", "employer", "participation"]},
+    {"n": 4, "url": "https://www.brookes.ac.uk/about-brookes/news/news-from-2024/06/oxford-brookes-university-master-s-students-drive", "title": "Oxford Brookes University Master's students drive innovation during Business Challenge Week", "section": "News 2024", "pub_year": "2024", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase (page fetch returned 404)", "extract": "2024 edition ran 17-21 June with 45 students incl. 12 from Regensburg; showcase at Headington; BioBright and X&Y Fertility among participants.", "supports": ["status", "employer"]}
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Summer Student Consultancy Scheme",
+   "english_name": "Summer Student Consultancy Scheme",
+   "module_code": "",
+   "description": "Four-week consultancy in which a team of 2-3 undergraduates is matched to an organisation's project brief, works under a university mentor with an organisation supervisor, and delivers a final report and online showcase that clients must attend.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Oxford Brookes Business School (WAVES team / Business and External Engagement)",
+   "eligible_faculties_programmes": "Undergraduates who have completed a Business Management, Accounting & Finance or Marketing programme of study",
+   "faculty_areas": ["business"],
+   "student_level": "Undergraduate",
+   "year_of_study": "Completed UG programme of study (per page)",
+   "eligibility_restrictions": "Business Management, Accounting & Finance or Marketing students; application via expression of interest and matching",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "No credit mentioned; free to organisations and 'does not constitute a contract of employment'",
+   "duration": "4 weeks, cumulative 40-80 student hours (May-June 2027 edition; summer 2026 edition per search summary)",
+   "delivery_format": "Team consultancy with workplace exposure, mentor, showcase",
+   "project_based": "Yes",
+   "project_evidence": "Students answer a client project brief with clear outcomes; outputs include analysis, solution/prototype/action plan and 'a short report on findings and recommendations' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a team of between 2-3 students' work on each challenge [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Organisation supplies the brief, a supervisor who 'supports the students throughout' and attends the initial meeting and showcase; hosts in-person exposure; gives data/system access for technical projects [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Sets brief, supervises, receives report, attends showcase",
+   "named_partners": "",
+   "deliverable": "Final report and online showcase",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "Summer 2027 (call page); summer 2026 edition mentioned in search summary only",
+   "participation_data": "",
+   "unresolved": "Whether summer 2026 edition ran and with how many teams; fetched page gives two slightly different date sets for 2027.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.brookes.ac.uk/about-brookes/structure-and-governance/faculties-and-schools/business/business-engagement/work-with-our-students", "title": "Work with our students", "section": "Summer Student Consultancy Scheme", "pub_year": "2027 edition", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, summarised by fetch model)", "extract": "'a team of between 2-3 students'; four weeks May-June 2027; eligibility 'undergraduate students who have completed a Business Management, Accounting & Finance or Marketing programme of study'; organisation provides brief with clear outcomes and supervisor; final report and showcase 23 June; 'it is absolutely free and does not constitute a contract of employment'; 40-80 cumulative hours.", "supports": ["project", "group", "employer", "eligibility", "status", "duration", "participation"]}
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Client Project (Transformative Learning Journey module, Global MBA)",
+   "english_name": "Client Project, Oxford Brookes Global MBA",
+   "module_code": "",
+   "description": "Compulsory element of the MBA 'transformative learning' module in which students work in cross-cultural teams on a real problem within a client organisation. The final MBA project also offers group or individual consultancy options (separate capstone).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Oxford Brookes Business School",
+   "eligible_faculties_programmes": "Oxford Brookes Global MBA",
+   "faculty_areas": ["business"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Module final assessment is a viva; credits not stated",
+   "duration": "Unclear",
+   "delivery_format": "Cross-cultural team client project",
+   "project_based": "Unclear",
+   "project_evidence": "'a real problem within a client organisation' but output, scope and duration not stated [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work in cross-cultural teams' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Real problem within a 'client organisation', but organisation role (brief, feedback, receiving output) not described [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Client organisation (role not described)",
+   "named_partners": "",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 intake (start dates Sept 2026 / March 2027)",
+   "participation_data": "",
+   "unresolved": "Module code, credits, assessment of the client project, how clients participate.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.brookes.ac.uk/courses/postgraduate/oxford-brookes-mba", "title": "MBA in Oxford Brookes Global MBA", "section": "Compulsory modules", "pub_year": "2026/27 intake", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, summarised by fetch model)", "extract": "'The Client project, which is part of the transformative learning module gives you the opportunity to work in cross-cultural teams on a real problem within a client organisation'; final assessment for the module 'is a viva'; start 'September 2026 / March 2027'.", "supports": ["project", "group", "employer", "participation", "status"]}
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Group Consultancy Project (MSc Management)",
+   "english_name": "Group Consultancy Project, MSc Management",
+   "module_code": "",
+   "description": "Optional MSc Management module: cross-cultural student teams gain consultancy experience on 'a real problem within a client organisation'. Course page also says live case studies and group consultancy projects run throughout.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Oxford Brookes Business School",
+   "eligible_faculties_programmes": "MSc Management",
+   "faculty_areas": ["business"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Unclear",
+   "delivery_format": "Cross-cultural team consultancy",
+   "project_based": "Unclear",
+   "project_evidence": "Consultancy project on a real problem; output and brief details not stated [1].",
+   "group_working": "Yes",
+   "group_evidence": "'working in cross-cultural teams' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'You can work on a real problem within a client organisation' (permissive wording; partner role not described) [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Client organisation (role not described)",
+   "named_partners": "",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 intake (starts Sept 2026 / Sept 2027)",
+   "participation_data": "",
+   "unresolved": "Credits, assessment, whether all projects have external clients.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.brookes.ac.uk/courses/postgraduate/management", "title": "MSc in Management", "section": "Optional modules", "pub_year": "2026/27 intake", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, summarised by fetch model)", "extract": "Group Consultancy Project (optional): 'gain project and consultancy experience working in cross-cultural teams'; 'You can work on a real problem within a client organisation'; 'Live case studies and group consultancy projects run throughout'.", "supports": ["project", "group", "employer", "participation", "status"]}
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Live Client Strategic Project (BA Business and Management)",
+   "english_name": "Live Client Strategic Project",
+   "module_code": "",
+   "description": "Compulsory Year 2 module on BA (Hons) Business and Management applying project management principles to business projects using 'live case studies'. Search summary states the module's aim is practical understanding of project management applied to developing and executing business projects.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Oxford Brookes Business School",
+   "eligible_faculties_programmes": "BA (Hons) Business and Management",
+   "faculty_areas": ["business"],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 2",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Unclear",
+   "delivery_format": "Unclear",
+   "project_based": "Unclear",
+   "project_evidence": "Business project management with live case studies; brief/output not described [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Teamwork not mentioned in the fetched description [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Module title says 'Live Client' but the description refers only to 'live case studies'; no client role documented [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Not documented",
+   "named_partners": "",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 intake (start Sept 2026 / Jan 2027)",
+   "participation_data": "",
+   "unresolved": "Module handbook needed: client identity, group/individual, assessment.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.brookes.ac.uk/courses/undergraduate/business-and-management", "title": "BA (Hons) in Business and Management", "section": "Year 2 compulsory modules", "pub_year": "2026/27 intake", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, summarised by fetch model)", "extract": "Live Client Strategic Project listed as compulsory Year 2; 'the use of live case studies provides students with a practical and experiential learning opportunity'.", "supports": ["project", "participation", "status"]}
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "OB1 LIVE (School of Architecture live projects)",
+   "english_name": "OB1 LIVE live projects",
+   "module_code": "",
+   "description": "First-year architecture live projects in which students design and make work (e.g. play structures, festival buildings, construction hoardings) for real clients such as community groups, local authorities and cultural organisations; now within the curriculum during the semester. Listed projects include OB1 LIVE 20-22.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Architecture",
+   "eligible_faculties_programmes": "School of Architecture (first-year students)",
+   "faculty_areas": ["other"],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 1",
+   "eligibility_restrictions": "'All students in the School of Architecture are given the opportunity'; page focuses on year one",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Within a semester",
+   "delivery_format": "Design-and-build live project",
+   "project_based": "Yes",
+   "project_evidence": "Students design and make real built work (e.g. 'Playable Buildings for the Audiograft Festival') [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Participants listed collectively per project and 'a group of year one architects', but team structure is not explicitly stated [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'design and make work for a real client'; links with 'local authorities, NGOs, developers' and cultural organisations [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Commissioning client for live project",
+   "named_partners": "Audiograft Festival (OB1 LIVE 22, undated); Northway construction hoardings (OB1 LIVE 20, undated)",
+   "deliverable": "Designed and built installation/structure",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (OB1 LIVE 22 most recent listed)",
+   "participation_data": "23 projects to date per research chapter (search summary).",
+   "unresolved": "Group working explicit statement; dated 2025/26 delivery; credit and compulsory status.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.brookes.ac.uk/study/subject-areas/architecture-and-the-built-environment/architecture-and-the-built-environment/live-projects", "title": "Live projects and OxArch", "section": "Live projects", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, summarised by fetch model)", "extract": "'All students in the School of Architecture are given the opportunity to design and make work for a real client.' 'We have strong links with local authorities, NGOs, developers'; most recent listed project OB1 LIVE 22 'Playable Buildings for the Audiograft Festival'.", "supports": ["project", "employer", "reach", "eligibility"]}
+   ]
+  }
+ ],
+ "exclusions": [
+  {"name": "Spark", "legacy": true, "category": "Entrepreneurship/incubator", "reason": "Co-curricular six-week start-up development programme for individuals' own ventures with mentor and pitch; no external-organisation brief (C not met); not assessed as team project.", "source_url": "https://www.brookes.ac.uk/enterprise/start-up-support/spark", "status_note": "Not re-fetched; legacy row states autumn 2026 applications."},
+  {"name": "MSc Advanced Computer Science: Group Software Project and industry dissertation", "legacy": false, "category": "Near-miss: no external org", "reason": "Compulsory 20-credit team software project but no external client evidenced; dissertation 'may be undertaken in close co-operation with' an organisation is optional and individual.", "source_url": "https://www.brookes.ac.uk/courses/postgraduate/advanced-computer-science", "status_note": "Start dates Sept 2026/Jan 2027."},
+  {"name": "MSc Project Management live projects and Applied Project", "legacy": false, "category": "Evidence gap", "reason": "Page says 'You will tackle live industry challenges' and assessments include live briefs and team projects, but no named module, client role or group evidence.", "source_url": "https://www.brookes.ac.uk/courses/postgraduate/project-management", "status_note": "Start Jan/Sept 2027."},
+  {"name": "MSc International Hotel and Tourism Management live client project", "legacy": false, "category": "Evidence gap", "reason": "Optional live client project as dissertation alternative (example: Pride organisation volunteer strategy); group vs individual not stated.", "source_url": "https://www.brookes.ac.uk/courses/postgraduate/international-hotel-and-tourism-management", "status_note": "Start Jan/Sept 2027."},
+  {"name": "ACES accountancy volunteering scheme", "legacy": false, "category": "Volunteering/service-learning", "reason": "Second/final-year accounting students provide book-keeping and examination support to community organisations; service volunteering rather than a bounded team project.", "source_url": "https://www.brookes.ac.uk/about-brookes/structure-and-governance/faculties-and-schools/business/business-engagement/work-with-our-students/free-consultancy-and-support", "status_note": ""},
+  {"name": "Politics: Professional Development in Practice; Social Science Extended Project", "legacy": false, "category": "Evidence gap", "reason": "Optional modules; PDP mentions projects with 'external partners' but group working and partner role not stated; Extended Project is community project or dissertation with no partner evidence.", "source_url": "https://www.brookes.ac.uk/courses/undergraduate/politics", "status_note": ""},
+  {"name": "Work-based learning in Sociology / Criminology, Social Work placements", "legacy": false, "category": "Placement/internship", "reason": "Individual placements or work-related projects.", "source_url": "https://www.brookes.ac.uk/courses/undergraduate/criminology-and-sociology", "status_note": ""}
+ ],
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "Oxford Brookes has no university-wide employer project scheme found in this reduced-depth review; qualifying provision sits mainly in Oxford Brookes Business School.\n\n**Qualifying routes.** Business Challenge Week (also named Impact Challenge Week) is an intensive week in which teams of master's students tackle problems set by external organisations of any size, brief and receive feedback from the partners, and pitch to business judges; the partner page gives 8-12 June 2026 and a 2024 edition reportedly involved 45 students. The Summer Student Consultancy Scheme places teams of 2-3 business/accounting/marketing undergraduates with an organisation brief for four weeks (40-80 hours), with a client supervisor, university mentor, final report and showcase; the page evidences the 2027 round. Both appear extracurricular or co-curricular with no credit stated.\n\n**Embedded routes with incomplete evidence.** The Global MBA compulsory Client Project and the optional MSc Management Group Consultancy Project put cross-cultural teams on a real problem in a client organisation, but outputs, credit and client role are undocumented. The compulsory Year 2 Live Client Strategic Project on BA Business and Management lacks group and client detail. The School of Architecture OB1 LIVE projects serve real community and local-authority clients, but group working and current delivery are not explicit.\n\nEngineering/computing and science yielded no verified employer-linked group project. Further departmental instances are likely.",
+ "gaps": "Module handbooks not accessed (credits, group size, client roles for MBA Client Project, MSc Management Group Consultancy Project, BA Live Client Strategic Project). Business Challenge Week 2024 news page returned 404 so 2024 figures rest on a search summary; 2026 edition outcome unverified. Summer scheme 2026 round unverified (2027 page only). Health (nursing, allied health), design, planning, and further departmental capstones were not individually researched; further instances likely. Retrieval for page text was WebFetch with a fetch-model summary, not raw HTML."
+}
