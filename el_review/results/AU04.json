@@ -1,0 +1,609 @@
+{
+ "inst_id": "AU04",
+ "institution": "Australian National University",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "ANU Techlauncher industry client student teams project",
+    "ANU GRIP team real-world challenge partner",
+    "ANU SoCIETIE course team project external organisation 2026"
+   ],
+   "key_sources": [
+    "https://programsandcourses.anu.edu.au/course/aatd3001",
+    "https://programsandcourses.anu.edu.au/course/VCPG6100"
+   ],
+   "finding": "University-wide SoCIETIE/GRIP frameworks have unclear team/external-partner evidence; central provision otherwise hosted by colleges."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "ANU College of Business and Economics capstone client consulting project course",
+    "ANU Special Industry Project 2026 students client Scyne Advisory teams"
+   ],
+   "key_sources": [
+    "https://cbe.anu.edu.au/current-students/opportunities-and-careers/special-industry-project-course",
+    "https://cbe.anu.edu.au/current-students/opportunities-and-careers/cbe-special-industry-project-course/clients-and-mentors"
+   ],
+   "finding": "Special Industry Project qualifies (live clients, teams, 2026 delivery); MGMT8008 team client course shows no current offering; MGMT8007 individual."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "ANU Engineering capstone project industry client team",
+    "ANU Techlauncher industry client student teams project"
+   ],
+   "key_sources": [
+    "https://comp.anu.edu.au/engage/techlauncher/",
+    "https://eng.anu.edu.au/courses/engn4300/get_involved/host_guide/",
+    "https://programsandcourses.anu.edu.au/course/engn8170"
+   ],
+   "finding": "TechLauncher (Computing) and Engineering Capstone ENGN4300 both qualify; ENGN8170 client unclear."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "ANU science students team project external partner Bachelor of Science industry project",
+    "ANU Master of Applied Data Analytics industry project client team"
+   ],
+   "key_sources": [
+    "https://programsandcourses.anu.edu.au/course/scnc3021"
+   ],
+   "finding": "No team-based external-partner science course verified; SCNC3021/SCNC3000 are individual; data analytics master's shows no client team course."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "ANU Crawford School Policy Design Practicum client organisation team",
+    "ANU SoCIETIE course societal challenge team project"
+   ],
+   "key_sources": [
+    "https://programsandcourses.anu.edu.au/2021/course/crwf7000",
+    "https://programsandcourses.anu.edu.au/course/aatd3001"
+   ],
+   "finding": "Crawford Applied Policy Project has external public-sector clients but individual-or-group and only 2021 evidence; SoCIETIE unclear."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "ANU Law clinic OR design OR health students team project community partner course"
+   ],
+   "key_sources": [
+    "https://law.anu.edu.au/current-students/professional-experience/community-law-clinic"
+   ],
+   "finding": "Law clinics are casework placements; no qualifying team project found in law, design or health."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "TechLauncher",
+   "module_code": "COMP3500 / COMP4500 (and postgraduate equivalents; COMP4500 page lists 2027-28 offerings)",
+   "admin_host": "School of Computing, College of Systems and Society",
+   "eligible_faculties_programmes": "ANU Computing students (software engineering/computing programs)",
+   "year_of_study": "",
+   "eligibility_restrictions": "Enrolment requires project group membership and, for some programs, prior COMP2120 or COMP3500 (COMP4500 page).",
+   "credit_assessment": "6 units per semester; course 'must be completed twice, in consecutive semesters' (COMP4500).",
+   "delivery_format": "Team project with host organisation, showcase",
+   "named_partners": "Accenture; Geoscience Australia (news/search extracts, Semester 2 2025)",
+   "deliverable": "Software product / prototype shown at TechLauncher showcase",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Share of internal ANU hosts; whether compulsory in specific degrees (not verified from regulations); the COMP4500 page says 'must be completed twice' but compulsory status not stated.",
+   "legacy_ref": "",
+   "local_id": "S1",
+   "official_name": "TechLauncher",
+   "description": "Computing students work in teams of 4-7 for two consecutive semesters (about 8 hours/week) on a project for a host organisation from industry, government, community or ANU; hosts meet the team at least 1 hour per week. Examples: FireApp with Accenture; Ginan-UI for Geoscience Australia (Semester 2 2025 showcase).",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "2 consecutive semesters",
+   "project_based": "Yes",
+   "project_evidence": "Software product delivered for an industry, government or university customer [2]; showcase of projects [1].",
+   "group_working": "Yes",
+   "group_evidence": "'working in teams of 4-7' [1]; students 'lead small teams' [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Hosts propose projects (Semester 2 2026 proposals due 15 July 2026), commit at least 1 hour/week to support the team [1]; customer is 'industry, government or university based' [2]; hosts may also be internal to ANU, so a share of projects is internal.",
+   "partner_type": "Mixed",
+   "partner_role": "Host/client: proposes project, meets team weekly, supports with resources",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (Semester 2 2026 host timeline; students start 17 Aug 2026)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://comp.anu.edu.au/engage/techlauncher/",
+     "title": "TechLauncher",
+     "section": "Host information",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Students 'working in teams of 4-7'; '2 consecutive semesters', 8 hours per week; hosts must 'dedicate at least 1 hour per week to meet with and support their student team'; hosts from 'industry, government, community, or within ANU'; Semester 2 2026: proposals due 15 July 2026, students begin with hosts week of 17 Aug 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://programsandcourses.anu.edu.au/course/comp4500",
+     "title": "Software Engineering Team Project (COMP4500)",
+     "section": "Course page",
+     "pub_year": "2027-28 offerings",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Project developed 'for an industry, government or university based customer'; 'Students will lead small teams'; 6 units; 'must be completed twice, in consecutive semesters'; 'delivered under TechLauncher'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://systems.anu.edu.au/students/student-employability/industry/",
+     "title": "Industry Group Projects",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Engineering Capstone and TechLauncher are completed for academic credit; students work with a Host who could be from private sector, government departments, NGOs or not-for-profits.",
+     "supports": [
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Capstone Design Project (Engineering Capstone)",
+   "module_code": "ENGN4300",
+   "admin_host": "School of Engineering, College of Systems and Society",
+   "eligible_faculties_programmes": "Engineering students (prerequisite ENGN3300 plus 18 units of ENGN3000/4000)",
+   "year_of_study": "4th year",
+   "eligibility_restrictions": "Prerequisites ENGN3300 + 18 units of ENGN3000/4000 courses; incompatible with ENGN4221.",
+   "credit_assessment": "6 to 12 units across two consecutive semesters; Design Project 70%, Presentation 10%, Reflections 20%.",
+   "delivery_format": "Team project, host audits, showcase",
+   "named_partners": "",
+   "deliverable": "Engineering design/prototype, ConOps, showcase poster and video",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Share of internal ANU hosts; compulsory status not stated on course page (course is described elsewhere as the engineering capstone); search extract of the 2025 showcase news was not opened.",
+   "legacy_ref": "",
+   "local_id": "S2",
+   "official_name": "Capstone Design Project (Engineering Capstone)",
+   "description": "Year-long (two-semester) final-year engineering course in which transdisciplinary teams of typically 4-6 scope and deliver a real-world project in consultation with a project host (external organisations or internal ANU units), with host audits, mid-project presentation and a public showcase.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "duration": "Two consecutive semesters (about 12 weeks per semester)",
+   "project_based": "Yes",
+   "project_evidence": "'deliver value on a real-world project'; Concept of Operations, design, prototype, poster and video pitch [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Project teams will be formed during a Team Formation event'; 'Teams typically consist of 4-6 members' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Hosts propose a brief, sign a Project Agreement with ANU, meet the team at least weekly/fortnightly, give feedback through the audit process and attend the showcase [2]; hosts may be 'external to the ANU' or 'internal to the ANU' [2]; industry hosts per [3].",
+   "partner_type": "Mixed",
+   "partner_role": "Host: proposes brief, signs agreement, meets team, gives audit feedback, attends showcase",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025 (host guide Semester 1 2025; 2025 showcase); 2027 offerings listed",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://programsandcourses.anu.edu.au/course/ENGN4300",
+     "title": "Capstone Design Project (ENGN4300)",
+     "section": "Course page",
+     "pub_year": "2027 offerings listed",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'you will work as an independent group to deliver value on a real-world project'; teams formed at Team Formation event; define project 'in consultation with project hosts'; 6 to 12 units; Design Project 70, Presentation 10, Reflections 20; offerings 2027 S1/S2.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://eng.anu.edu.au/courses/engn4300/get_involved/host_guide/",
+     "title": "Project Host Information - Capstone Design Project",
+     "section": "Host guide",
+     "pub_year": "v2025 S1.1.0",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Hosts 'Propose a project brief', 'Complete a Project Agreement with the ANU', weekly or fortnightly meetings, 'Provide feedback to the team through our audit process', attend Project Showcase; 'Teams typically consist of 4-6 members'; 'year-long, two-semester course undertaken by 4th-year students'; hosts external or internal to ANU.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://systems.anu.edu.au/students/student-employability/industry/",
+     "title": "Industry Group Projects",
+     "section": "Overview",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Engineering Capstone: for academic credit; students work with a Host from private sector, government departments, NGOs or not-for-profits.",
+     "supports": [
+      "employer",
+      "credit"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Special Industry Project (CBEA3001 undergraduate / WILC6001 postgraduate)",
+   "module_code": "CBEA3001; WILC6001",
+   "admin_host": "College of Business and Economics",
+   "eligible_faculties_programmes": "Current ANU undergraduates (72+ units) and eligible postgraduates (24+ units); PG teams are cross-disciplinary from across the university",
+   "year_of_study": "",
+   "eligibility_restrictions": "Undergraduate: min 72 units completed; postgraduate: min 24 units.",
+   "credit_assessment": "6 units",
+   "delivery_format": "Team consultancy, weekly master classes, mentoring",
+   "named_partners": "Semester 2 2026: Australian Institute of Project Management (search extract); 2025 ActewAGL; 2024 Aspen Medical; 2023 NDIS Quality & Safeguards Commission, National Museum of Australia; 2022 CSIRO [2]",
+   "deliverable": "Final report and client pitch",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Team size not stated; Semester 2 2026 client AIPM taken from a search extract, not from the fetched clients page; one 2026 client was internal to ANU.",
+   "legacy_ref": "",
+   "local_id": "S3",
+   "official_name": "Special Industry Project (CBEA3001 undergraduate / WILC6001 postgraduate)",
+   "description": "Semester-long work-integrated learning course in which student teams act as consultants on a business case supplied by a live client, mentored by Scyne Advisory consultants, with master classes; final report and pitch to a panel from the client organisation.",
+   "academic_reach": "Cross-faculty",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "One semester",
+   "project_based": "Yes",
+   "project_evidence": "Teams 'devise the best solution to a business case'; final report and pitch [1][3].",
+   "group_working": "Yes",
+   "group_evidence": "'working in teams to devise the best solution to a business case' [1]; PG students 'form small cross-disciplinary teams' (search extract).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Teams 'work closely with the client who provides the business case' [1]; clients listed by semester [2]; pitch to executives/representatives of the client. Semester 1 2026 client was the ANU International and Future Students Division (internal), Semester 2 2026 client AIPM (external) per search extract; past clients mostly external [2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: supplies business case, works with team, receives pitch",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (Semesters 1 and 2)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://cbe.anu.edu.au/current-students/opportunities-and-careers/special-industry-project-course",
+     "title": "Special Industry Project Course",
+     "section": "Course page",
+     "pub_year": "undated (2025/2026 course URLs)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'a work-integrated learning course'; 'working in teams to devise the best solution to a business case'; 'work closely with the client who provides the business case'; CBEA3001 requires 72 units, WILC6001 24 units; 6-unit course.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://cbe.anu.edu.au/current-students/opportunities-and-careers/cbe-special-industry-project-course/clients-and-mentors",
+     "title": "Become an industry client",
+     "section": "Past clients",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "Semester 1 2026: ANU International and Future Students Division; 2025: ActewAGL; 2024: Aspen Medical; 2023: NDIS Quality & Safeguards Commission, National Museum of Australia; 2022: CSIRO.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://programsandcourses.anu.edu.au/2026/course/WILC6001",
+     "title": "College of Business and Economics Special Industry Project (PG)",
+     "section": "Course page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Search extract: offered Semester 1 and 2 2026; teams of postgraduate students work on live client problem; final report and pitch to client panel.",
+     "supports": [
+      "status",
+      "project",
+      "group"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Group Project (Master of Engineering)",
+   "module_code": "ENGN8170",
+   "admin_host": "School of Engineering",
+   "eligible_faculties_programmes": "Master of Engineering in Electrical Engineering (enrolment requires ENGN8100 and ENGN6250 or ENGN8260)",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "12 units",
+   "delivery_format": "",
+   "named_partners": "",
+   "deliverable": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Who the clients are, whether external, team size, compulsory status, 2025/26 delivery.",
+   "legacy_ref": "",
+   "local_id": "S4",
+   "official_name": "Group Project (Master of Engineering)",
+   "description": "Graduate engineering group project in which small multi-disciplinary teams receive a client-drafted problem statement requiring engineering expertise.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "Unclear",
+   "project_based": "Yes",
+   "project_evidence": "Teams work on a client-drafted problem statement [1].",
+   "group_working": "Yes",
+   "group_evidence": "'collaborate with peers in a small-group setting'; 'multi-disciplinary team' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Project teams receive a client-drafted problem statement' [1]; client identity (external vs internal) and role beyond drafting not stated.",
+   "partner_type": "Unclear",
+   "partner_role": "Client drafts problem statement",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2027 (offerings listed)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://programsandcourses.anu.edu.au/course/engn8170",
+     "title": "Group Project (ENGN8170)",
+     "section": "Course page",
+     "pub_year": "2027 offerings listed",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'Project teams receive a client-drafted problem statement, which calls for engineering expertise'; 12 units; offered First and Second Semester 2027.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "SoCIETIE Initiative",
+   "module_code": "AATD3001 (UG); AATD6001 (PG)",
+   "admin_host": "College of Arts and Social Sciences / SoCIETIE (McCusker Institute)",
+   "eligible_faculties_programmes": "Students from any degree",
+   "year_of_study": "",
+   "eligibility_restrictions": "UG: 72 units completed; permission code via Expression of Interest and induction.",
+   "credit_assessment": "6 units; workshop activities 50%, learning portfolio 50%",
+   "delivery_format": "Workshops plus partner project",
+   "named_partners": "",
+   "deliverable": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Whether projects are team-based and whether partners are external; legacy row classed this as a curriculum framework.",
+   "legacy_ref": "SoCIETIE courses",
+   "local_id": "S5",
+   "official_name": "SoCIETIE Initiative",
+   "description": "Online/in-person course open to students from any degree; workshops (KNoTs) 'include real-world projects with campus and community partners'; all students complete a collaborative project with a partner as the work-integrated learning component, assessed by workshop activities and individual learning portfolio. Replaced the Vice-Chancellor's courses from 2025.",
+   "academic_reach": "University-wide",
+   "faculty_areas": [
+    "central",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Mixed",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "duration": "One session (summer/autumn/winter/spring/semester)",
+   "project_based": "Yes",
+   "project_evidence": "'All students will complete a collaborative project with a partner' [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Workload includes 'group work directly related to KNoTs'; 'collaborative project' but portfolio assessed individually and team vs individual project not specified [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Partners are 'campus and community partners' [1]; campus (internal) share and external organisation role not separated.",
+   "partner_type": "Unclear",
+   "partner_role": "Campus and community partners",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (offerings Winter, Semester 2, Spring 2026 per search extract)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://programsandcourses.anu.edu.au/course/aatd3001",
+     "title": "SoCIETIE Initiative (AATD3001)",
+     "section": "Course page",
+     "pub_year": "2027-28 offerings listed",
+     "accessed": "2026-10-13",
+     "retrieval": "page text",
+     "extract": "'open to students from any degree'; 'KNoTs include real-world projects with campus and community partners'; 'All students will complete a collaborative project with a partner as part of this course'; 6 units; portfolio 50%.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://programsandcourses.anu.edu.au/2026/course/AATD6001",
+     "title": "SoCIETIE Initiative (AATD6001)",
+     "section": "Course page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Search extract: 2026 offerings (Second Semester 27 July-30 October 2026).",
+     "supports": [
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "english_name": "Applied Policy Project",
+   "module_code": "CRWF7000",
+   "admin_host": "Crawford School of Public Policy",
+   "eligible_faculties_programmes": "Crawford postgraduate coursework programs",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "credit_assessment": "6 units, 130 hours",
+   "delivery_format": "",
+   "named_partners": "",
+   "deliverable": "",
+   "likely_duplicate_of": "",
+   "participation_data": "",
+   "unresolved": "Current delivery, team share. Direct page fetch failed (404); evidence is a search extract of the 2021 handbook page.",
+   "legacy_ref": "",
+   "local_id": "S6",
+   "official_name": "Applied Policy Project",
+   "description": "Crawford School course in which students undertake a client-initiated applied research project for government departments, think tanks, peak bodies or advocacy groups, producing a research report for the client; individual or group basis depending on topic and demand.",
+   "academic_reach": "Programme/course",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "duration": "One semester",
+   "project_based": "Yes",
+   "project_evidence": "Research report for client (search extract of 2021 page).",
+   "group_working": "Unclear",
+   "group_evidence": "'individual or group basis, subject to topic suitability and demand'; routes not separable.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Clients (government, think tanks, peak bodies) initiate projects, meet students and receive report (2021 page).",
+   "partner_type": "Public sector",
+   "partner_role": "Client initiates project, receives report",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2021",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://programsandcourses.anu.edu.au/2021/course/crwf7000",
+     "title": "Applied Policy Project (CRWF7000)",
+     "section": "Course page",
+     "pub_year": "2021",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search extract: client-initiated project; individual or group basis; report for client; 6 units, 130 hours.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "SoCIETIE courses (legacy row)",
+   "legacy": true,
+   "category": "Breadth/interdisciplinary curriculum",
+   "reason": "Reassessed as S5; criteria B and C unclear.",
+   "source_url": "https://vc-courses.anu.edu.au/societie/courses/",
+   "status_note": "Page returned 503 on fetch; see S5"
+  },
+  {
+   "name": "Group Research and Innovation Project (GRIP, VCPG6100)",
+   "legacy": false,
+   "category": "WIL framework",
+   "reason": "Portfolio assessed individually; joins other endorsed group project courses; WIL partners a 'minor component'; underlying projects are the hosts' (e.g. TechLauncher).",
+   "source_url": "https://programsandcourses.anu.edu.au/course/VCPG6100",
+   "status_note": ""
+  },
+  {
+   "name": "Company Consultancy Project (MGMT8008)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Teams develop growth strategy for external client, but search listing indicated no current offerings.",
+   "source_url": "https://programsandcourses.anu.edu.au/course/MGMT8008",
+   "status_note": "Possibly discontinued"
+  },
+  {
+   "name": "Evidence-Based Decision-Making Capstone (MGMT8007)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual MBA capstone, often in own organisation.",
+   "source_url": "https://programsandcourses.anu.edu.au/course/MGMT8007",
+   "status_note": ""
+  },
+  {
+   "name": "Science Research Project SCNC3021 / Science Internship SCNC3000",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Individual research project or placement.",
+   "source_url": "https://programsandcourses.anu.edu.au/course/scnc3021",
+   "status_note": ""
+  },
+  {
+   "name": "ANU Law clinics (Community, Youth, Law and Development, International Law Clinic)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Casework placements; International Law Clinic project individual or in pairs set by convenor, no external client evidenced.",
+   "source_url": "https://law.anu.edu.au/current-students/professional-experience/community-law-clinic",
+   "status_note": ""
+  },
+  {
+   "name": "SCOM3007 Science Communication Project Design; BIOL3188 SynBio Challenge Team Project; McCusker Living Lab; INFS8202 Industry Research Project",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Surfaced in searches but not opened; individual-or-group (SCOM3007), partner role unverified for the others.",
+   "source_url": "https://programsandcourses.anu.edu.au/course/scom3007",
+   "status_note": "Not researched in reduced-depth mode"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "ANU has three verified routes meeting all three criteria with current delivery: **TechLauncher** (Computing; teams of 4-7 over two semesters for host organisations from industry, government, community or ANU; 2026 Semester 2 host timeline), the **Engineering Capstone ENGN4300** (final-year teams of typically 4-6, year-long, hosts sign a Project Agreement, meet teams and give audit feedback) and the **Special Industry Project** (CBEA3001/WILC6001; open to undergraduates with 72+ units and postgraduates with 24+ units across the university; teams consult for a live client such as ActewAGL, Aspen Medical, CSIRO, mentored by Scyne Advisory). Each is a credited course, but reach is programme- or college-level rather than compulsory institution-wide; TechLauncher and the Capstone both accept some internal ANU hosts, and one 2026 SIP client was an internal ANU division.\n\nWeaker leads: ENGN8170 (client-drafted problem, client identity unclear), Crawford's Applied Policy Project (public-sector clients but individual or group, 2021 evidence only) and the university-wide SoCIETIE Initiative (the legacy row), which pairs students with 'campus and community partners' but where team working and external partners are unverified. The GRIP framework is an individual-portfolio wrapper over other projects. Science and law show no qualifying team route in the searches.\n\nProvision is distributed across colleges with no single institution-wide employer-project requirement.",
+ "gaps": "Reduced-depth review (about 12 searches plus fetches). Not researched: further departmental instances (e.g. COMP6475/other TechLauncher codes, Research School of Management courses, INFS8202, BIOL3188, SCOM3007, McCusker Living Lab, Fenner School/environment, health/medicine, design/arts). SoCIETIE and GRIP vc-courses pages returned 404/503. Share of internal ANU hosts in TechLauncher/Capstone not quantified; participation numbers not found."
+}

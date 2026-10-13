@@ -1,0 +1,311 @@
+{
+ "inst_id": "AU01",
+ "institution": "UNSW Sydney",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "UNSW Industry Experience Program Co-op Interdisciplinary project industry partner (unsw.edu.au)",
+    "fetch: unsw.edu.au/employability/courses/practice-of-work"
+   ],
+   "key_sources": [
+    "https://www.unsw.edu.au/employability/courses/practice-of-work",
+    "https://www.unsw.edu.au/employability/partner-with-us/wil-opportunities-for-industry-partners"
+   ],
+   "finding": "Central Experiential Learning/Employability office runs CDEV3000/CDEV6000 Practice of Work: interdisciplinary student teams on a partner-set brief, 6 UOC, with Summer 2027 and Term 1 2027 offerings listed. Co-op Program is a sponsored scholarship/internship scheme (individual placements, excluded)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "UNSW Business School industry project students client team capstone (unsw.edu.au)",
+    "COMM1120 Collaboration and Innovation in Business course outline team project industry",
+    "fetch: COMM2233 page; Business Experience Projects page; handbook COMM1120, COMM3900"
+   ],
+   "key_sources": [
+    "https://www.unsw.edu.au/business/student-life/career-accelerator/undergraduate/undergraduate-internships/industry-consulting-project-comm2233",
+    "https://www.unsw.edu.au/business/student-life/career-accelerator/postgraduate/internships/business-experience/global-scope-business-project-program",
+    "https://www.handbook.unsw.edu.au/undergraduate/courses/2025/COMM1120"
+   ],
+   "finding": "Business School has COMM2233 Industry Consulting Project (undergraduate small teams with host organisation, 2024-dated evidence) and short virtual Business Experience Projects (2 weeks). Postgraduate Future of Work/Global Business Practicum/MIB consulting practicum named in search summary but not opened. Handbook pages for COMM1120 and COMM3900 gave no description, so client involvement could not be tested."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "UNSW Engineering Capstone industry sponsored project team design (unsw.edu.au)",
+    "COMP3900 Computer Science Project capstone industry client team",
+    "fetch: CSE Industry Capstone Projects flyer 2026 (PDF, read with pdftotext)"
+   ],
+   "key_sources": [
+    "https://www.unsw.edu.au/content/dam/pdfs/engineering/computer-sci-eng/events/2026-08-capstone-cse/unsw-cse-industrycapstoneprojects--flyer-2026.pdf",
+    "https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering/engage-with-us"
+   ],
+   "finding": "CSE Industry Capstone Program: teams of 6 build software for an external client over a 10-week term, with client supervision and feedback (2026 flyer). Chemical Engineering and Industrial Design capstones with industry partners and Vertically Integrated Projects are leads only."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "UNSW Science industry project course external partner students team (unsw.edu.au)",
+    "fetch: Science Industry Project (SCIF3000) page"
+   ],
+   "key_sources": [
+    "https://www.unsw.edu.au/science/student-life-resources/student-opportunities/work-integrated-learning-wil/science-industry-project",
+    "https://www.student.unsw.edu.au/notices/2023/07/scif3000-science-industry-project"
+   ],
+   "finding": "SCIF3000 Science Industry Project: multidisciplinary science teams tackle a live project from an industry, government or not-for-profit partner, with industry mentor and academic supervisor. Page undated, so current delivery not confirmed."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "UNSW Arts Social Sciences Practice of Work OR Social Impact OR community partner capstone students team project 2026 (unsw.edu.au)"
+   ],
+   "key_sources": [
+    "https://www.unsw.edu.au/employability/courses/practice-of-work",
+    "https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-sciences"
+   ],
+   "finding": "No Arts/Social Sciences-specific team capstone with an external client was found; Arts and Social Sciences students access the central CDEV3000/6000 route (eligibility is degree-dependent). Social Work placements are individual placements (excluded)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "UNSW Arts Design Society industry client project course students team (unsw.edu.au)",
+    "UNSW Law clinic OR Built Environment OR Medicine group project external organisation client (unsw.edu.au)"
+   ],
+   "key_sources": [
+    "https://www.unsw.edu.au/arts-design-architecture/our-schools/art-design/student-life/professional-experience-project",
+    "https://www.unsw.edu.au/law-justice/student-life/work-integrated-learning/clinics",
+    "https://www.unsw.edu.au/arts-design-architecture/engage-with-us/innovation-hub/projects"
+   ],
+   "finding": "Art & Design Professional Experience Project (ADAD3000) is a placement-style course; Law clinics (Land and Environment Court, Kingsford Legal Centre) are casework/placements; the Law Social Impact Hub team clinic result is dated 2014. Innovation Hub projects (ADA) not tested. No UNSW Medicine group project found."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CDEV3000 / CDEV6000 Practice of Work",
+   "english_name": "Practice of Work (undergraduate / postgraduate)",
+   "module_code": "CDEV3000 (UG) / CDEV6000 (PG)",
+   "description": "Central Experiential Learning course in which students from different degrees work in interdisciplinary teams with an external project partner (industry, community or government) on a co-designed project brief, supervised by an academic. Students meet partner representatives during class time to discuss and iterate ideas. Example deliverable listed: a slide deck communicating research, proposed solution, proof of concept and anticipated impact (Commonwealth Bank of Australia project).",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "UNSW Employability / Experiential Learning (central)",
+   "eligible_faculties_programmes": "Undergraduate and postgraduate versions open to students in listed degrees ('All faculties' / 'Some degrees'; some Engineering degrees for approved projects only)",
+   "faculty_areas": ["central"],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Degree-dependent; page says eligibility is not checked at enrolment and students must confirm with their faculty or adviser.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 UOC",
+   "duration": "Summer Term 2027: 11 Jan-4 Feb 2027 (4-week intensive); Term 1 2027: 15 Feb-23 Apr 2027 (10 weeks)",
+   "delivery_format": "In-person, UNSW CBD, Kensington and Parramatta",
+   "project_based": "Yes",
+   "project_evidence": "Partners provide a real-world project brief; deliverables vary by project, e.g. slide deck with research, proposed solution, proof of concept [1].",
+   "group_working": "Yes",
+   "group_evidence": "'interdisciplinary teams' work with the project partner and an academic supervisor [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Course 'centres on engaging with external partners' (industry, community, government), who provide the brief and meet teams periodically in class [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Provides brief; meets team in class to discuss and iterate; receives deliverable",
+   "named_partners": "Commonwealth Bank of Australia (project example on page, 2027 listings)",
+   "deliverable": "Project-specific, e.g. slide deck with research, proposed solution, proof of concept and impact",
+   "duration_band": "~1 term/semester (10-week T1) and 1-4 weeks (summer intensive)",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2027 (Summer Term and Term 1 2027 listed)",
+   "participation_data": "",
+   "unresolved": "Exact eligibility mapping by degree (table cells ambiguous); numbers of students/teams; the Business School's separate interdisciplinary WIL courses may be related offerings.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.unsw.edu.au/employability/courses/practice-of-work", "title": "CDEV3000/6000 Practice of Work", "section": "Course page", "pub_year": "2026/27 (terms 2027 listed)", "accessed": "2026-10-13", "retrieval": "page text", "extract": "Interdisciplinary teams with project partner and academic project supervisor; partners provide a real-world project brief; 6 UOC; Summer Term 2027 11 January-4 February (4-week intensive); Term 1 2027 15 February-23 April (10 weeks); applications for both terms closed; example deliverable 'A concise slide deck that communicates the research, proposed solution, proof of concept and anticipated impact' (Commonwealth Bank of Australia project). (Paraphrased by the fetch tool, not verbatim throughout.)", "supports": ["project", "group", "employer", "reach", "eligibility", "credit", "status", "duration"]}
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "CSE Industry Capstone Program (Capstone Project courses)",
+   "english_name": "School of Computer Science and Engineering Industry Capstone Projects",
+   "module_code": "Capstone project courses (COMP3900/COMP9900 per 2018-21 handbook/outlines; current codes not verified)",
+   "description": "Client-proposed software/system projects for teams of 6 students, guided by mentors and supervised by the external client/project owner, who give ongoing feedback. Scope: software or system design, proof-of-concept/prototype, model/algorithm implementation. Client retains IP.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Computer Science and Engineering (Engineering faculty)",
+   "eligible_faculties_programmes": "CSE capstone students (Computer Science, Software Engineering, AI, etc.)",
+   "faculty_areas": ["engineering_computing"],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Not stated in sources opened",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Capstone is described as 'a core, project-based course'; credit not stated in flyer (6 UOC in 2018 handbook entry).",
+   "duration": "One 10-week term; offered Feb-May, Jun-Aug and Sep-Nov",
+   "delivery_format": "Team software project with mentor and client",
+   "project_based": "Yes",
+   "project_evidence": "Projects 'focus on software/system design, PoC/prototype development, and/or model/algorithm implementation' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Teams of 6 students, guided by experienced mentors and supervised by you (the project client/owner)' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External clients submit project proposals, supervise teams and give ongoing feedback; flyer addressed to industry and pitches talent assessment [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Proposes project, supervises team, provides ongoing feedback; retains IP",
+   "named_partners": "",
+   "deliverable": "Software application / prototype / model",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026 (flyer dated Aug 2026 in URL; terms through Sep-Nov)",
+   "participation_data": "",
+   "unresolved": "Current course codes, whether all capstone teams have external clients or only the industry stream, compulsory status for specific degrees, sector of clients. Flyer is a recruitment document for clients, not a course page.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.unsw.edu.au/content/dam/pdfs/engineering/computer-sci-eng/events/2026-08-capstone-cse/unsw-cse-industrycapstoneprojects--flyer-2026.pdf", "title": "Industry Capstone Projects: UNSW School of Computer Science and Engineering (2026 flyer)", "section": "Capstone Project Overview", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'The Capstone Project is a core, project-based course... Structure: Teams of 6 students, guided by experienced mentors and supervised by you (the project client/owner). Clients provide on-going feedback... Timeline: Projects will run for 1 term (10-weeks)... Scope: Projects focus on software/system design, PoC/prototype development, and/or model/algorithm implementation. Intellectual property: You as the client, retain the rights.'", "supports": ["project", "group", "employer", "status", "duration", "participation"]}
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "SCIF3000 Science Industry Project",
+   "english_name": "Science Industry Project",
+   "module_code": "SCIF3000",
+   "description": "Multidisciplinary science teams tackle a live, real-world science project offered by an external organisation (industry, government or not-for-profit), with an academic supervisor and an industry mentor, producing solutions and recommendations for the organisation.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "UNSW Science (Science Education Team)",
+   "eligible_faculties_programmes": "Students completing a science program or major relevant to the advertised project",
+   "faculty_areas": ["science"],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "WAM 65 or above; at least 60 UOC completed; relevant science program or major",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 UOC science or free elective credit",
+   "duration": "10 weeks (per search summary of partner material); weekly 3-hour workshops",
+   "delivery_format": "On campus or remote teams",
+   "project_based": "Yes",
+   "project_evidence": "Students tackle 'a live, real-world science project' and develop 'solutions and recommendations' for the organisation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'work collaboratively in multidisciplinary science teams' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Project offered by external organisation from industry, government or not-for-profit; guidance from industry mentors [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Offers live project; industry mentor; receives solutions/recommendations",
+   "named_partners": "",
+   "deliverable": "Solutions and recommendations for the partner organisation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (partner brochure seen only in search summary; student notice 2023)",
+   "participation_data": "",
+   "unresolved": "Page is undated and states 'partners and projects change year-on-year'; no 2025/26 or 2026/27 term listing opened. Team size not stated on the page (search summary says 4-5).",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.unsw.edu.au/science/student-life-resources/student-opportunities/work-integrated-learning-wil/science-industry-project", "title": "Science industry project", "section": "Course page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'Tackling a live, real-world science project offered by an external organisation from industry, government or not-for-profit sector'; 'work collaboratively in multidisciplinary science teams'; academic supervisors and industry mentors; WAM 65+, 60 UOC; 6 UOC science or free elective credit; weekly 3-hour workshops. (Fetch tool quotes partly paraphrased.)", "supports": ["project", "group", "employer", "eligibility", "credit"]},
+    {"n": 2, "url": "https://www.student.unsw.edu.au/notices/2023/07/scif3000-science-industry-project", "title": "SCIF3000: Science Industry Project", "section": "Student notice", "pub_year": "2023", "accessed": "2026-10-13", "retrieval": "search-summary paraphrase", "extract": "Term 3 intake notice (2023), per search summary only.", "supports": ["status"]}
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industry Consulting Project (COMM2233)",
+   "english_name": "Industry Consulting Project",
+   "module_code": "COMM2233",
+   "description": "Business School Work Integrated Learning elective: students work in small teams at a host organisation with an industry mentor and pitch a solution to senior members of the organisation.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "UNSW Business School, Career Accelerator",
+   "eligible_faculties_programmes": "Undergraduate students enrolled in UNSW Business School",
+   "faculty_areas": ["business"],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "48 UOC completed; room in degree; Career Accelerator: Essentials or COMM1999 completed",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 UOC",
+   "duration": "One term (Terms 1, 2 or 3); length not stated on page",
+   "delivery_format": "In person at host organisation",
+   "project_based": "Yes",
+   "project_evidence": "Teams 'tackle a project' and pitch a solution to senior members of the host [1].",
+   "group_working": "Yes",
+   "group_evidence": "'you'll work in small teams' (team size not stated) [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host organisation and industry mentor; pitch to senior staff of host [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Host; industry mentor; audience for pitch",
+   "named_partners": "",
+   "deliverable": "Solution pitch to host organisation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024 (Term 3 2024 testimonials; 2024 partner assets)",
+   "participation_data": "",
+   "unresolved": "No 2025/26 or 2026/27 dated delivery evidence; host sector types; team size.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.unsw.edu.au/business/student-life/career-accelerator/undergraduate/undergraduate-internships/industry-consulting-project-comm2233", "title": "Industry Consulting Project (COMM2233)", "section": "Course page", "pub_year": "2024 content", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'work in small teams to tackle a project'; partner with host organisation and industry mentor; 'pitch your solution to senior members of the organisation'; 6 units of credit; 48 UOC prerequisite; offered Term 1, 2, 3. Testimonials Term 3 2024.", "supports": ["project", "group", "employer", "eligibility", "credit", "status"]}
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Experience Projects (Global Scope Business Project Program)",
+   "english_name": "Business Experience Projects",
+   "module_code": "",
+   "description": "Short virtual consulting-style projects: a small team of UNSW Business School students addresses a business challenge defined by an industry partner and develops recommendations, with partner feedback.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "UNSW Business School, Career Accelerator",
+   "eligible_faculties_programmes": "UNSW Business School undergraduate and postgraduate students",
+   "faculty_areas": ["business"],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Enrolled at UNSW Business School; completed Career Accelerator: Essentials",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "Not stated (appears non-credit)",
+   "duration": "Approximately 25 hours over 2 weeks",
+   "delivery_format": "Virtual",
+   "project_based": "Yes",
+   "project_evidence": "Teams 'develop informed recommendations for an industry partner' on a defined challenge [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a small team of UNSW students' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Industry partner defines the business challenge and gives professional insights and feedback [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Defines challenge; feedback",
+   "named_partners": "",
+   "deliverable": "Recommendations to industry partner",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "",
+   "participation_data": "",
+   "unresolved": "No dates on page ('Visit myCareer Manager for key dates'); partner sectors; 'industry partner' wording only; credit status. Very short format.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.unsw.edu.au/business/student-life/career-accelerator/postgraduate/internships/business-experience/global-scope-business-project-program", "title": "Business Experience Projects", "section": "Program page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text", "extract": "'Approximately 25 hours over 2 weeks'; 'a small team of UNSW students'; 'a business challenge defined by an industry partner'; recommendations for an industry partner; enrolled at UNSW Business School and completed Career Accelerator: Essentials.", "supports": ["project", "group", "employer", "eligibility", "duration"]}
+   ]
+  }
+ ],
+ "exclusions": [
+  {"name": "COMM1120 Collaboration and Innovation in Business", "legacy": true, "category": "Evidence gap", "reason": "Handbook page (2025 edition and 2023) shows only title and 6 UOC and no description; no evidence of a project brief or any external organisation, so A and C cannot be assessed. 2026 progression plans list it as a core Commerce course; compulsory within specified programmes only.", "source_url": "https://www.handbook.unsw.edu.au/undergraduate/courses/2025/COMM1120", "status_note": "Convenor profile places it in the Integrated First Year program"},
+  {"name": "AHEGS Advantage", "legacy": true, "category": "Employability award", "reason": "Recognition framework on the graduation statement; not itself a project activity. Underlying activities not tested.", "source_url": "https://www.unsw.edu.au/student/opportunities/advantage", "status_note": "Not re-fetched in this run"},
+  {"name": "COMM3900 Business Sustainability and Social Impact Capstone Project", "legacy": false, "category": "Evidence gap", "reason": "2026 handbook page shows only code, title and 6 UOC; no description of client involvement or team working.", "source_url": "https://www.handbook.unsw.edu.au/undergraduate/courses/2026/COMM3900", "status_note": ""},
+  {"name": "UNSW Co-op Program internships", "legacy": false, "category": "Placement/internship", "reason": "Sponsored individual industry placements; no group project evidenced.", "source_url": "https://www.unsw.edu.au/co-op-program/experience", "status_note": ""},
+  {"name": "Art & Design Professional Experience Project (ADAD3000)", "legacy": false, "category": "Placement/internship", "reason": "Capstone placements in creative workplaces; individual placements, no group project component evidenced.", "source_url": "https://www.unsw.edu.au/arts-design-architecture/our-schools/art-design/student-life/professional-experience-project", "status_note": ""},
+  {"name": "Law clinics (Land and Environment Court Clinic; Kingsford Legal Centre)", "legacy": false, "category": "Placement/internship", "reason": "Casework/placement clinics, not team project briefs. A Law 'Social Impact Hub' team clinic appears only in a 2014 news item (current status unknown).", "source_url": "https://www.unsw.edu.au/law-justice/student-life/work-integrated-learning/clinics", "status_note": ""},
+  {"name": "Chemical Engineering capstone; Industrial Design Capstone A/B (IDES4113/4114); Vertically Integrated Projects (ChallEng)", "legacy": false, "category": "Evidence gap", "reason": "Search summaries indicate team design projects with industry partners but the pages were not opened in reduced-depth mode.", "source_url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-chemical", "status_note": ""},
+  {"name": "Business postgraduate Future of Work Project, Global Business Practicum, MIB consulting practicum", "legacy": false, "category": "Evidence gap", "reason": "Named in a search summary of Business School partner pages (Future of Work: 10-week, partners host multiple groups); not opened or dated.", "source_url": "https://www.unsw.edu.au/business/career-accelerator/partner-with-us/host-our-students", "status_note": ""},
+  {"name": "Arts, Design & Architecture Innovation Hub projects", "legacy": false, "category": "Evidence gap", "reason": "Projects with community, industry and government partners listed; student team structure and credit not tested.", "source_url": "https://www.unsw.edu.au/arts-design-architecture/engage-with-us/innovation-hub/projects", "status_note": ""}
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "UNSW has a centrally run, term-based experiential learning course, CDEV3000/CDEV6000 Practice of Work (6 UOC), in which students from different degrees work in interdisciplinary teams on a brief set by an external industry, community or government partner. Summer Term 2027 and Term 1 2027 offerings are listed, so this is the best-evidenced route. Distributed beneath it are faculty routes: the School of Computer Science and Engineering Industry Capstone Program (teams of 6, external client supervises over a 10-week term, 2026 flyer), the Science Industry Project SCIF3000 (multidisciplinary teams, live partner project, WAM 65+ and 60 UOC; page undated), and in the Business School COMM2233 Industry Consulting Project (small teams at a host organisation, 2024-dated evidence) and short virtual Business Experience Projects (about 25 hours over 2 weeks). Participation is elective or selective in each case; no university-wide compulsory route was found. The legacy COMM1120 core course could not be tested because the handbook page carries no description. AHEGS Advantage is a recognition framework, not a project route. Uncertain: current delivery of SCIF3000, COMM2233 and Business Experience Projects; degree-level eligibility for CDEV; compulsory status and codes of the CSE capstones; Arts/Social Sciences and Law team-project routes.",
+ "gaps": "Reduced-depth run (about 8 searches plus 8 page fetches). Not opened: Business postgraduate practicum courses, Chemical Engineering/Industrial Design capstones, VIPs, ADA Innovation Hub, Law Social Impact Hub, Medicine. Further departmental instances are likely. COMM1120/COMM3900 handbook descriptions unavailable (pages note newer versions exist). Fetch tool summarises pages, so quotes are partly paraphrased."
+}

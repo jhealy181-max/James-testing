@@ -1,0 +1,564 @@
+{
+ "inst_id": "UK01",
+ "institution": "Bath",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-12",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Bath student consultancy live client project external organisation group",
+    "Bath careers employer challenge student teams 180 Degrees Consulting",
+    "Bath Big Team Challenge first week employer"
+   ],
+   "key_sources": [
+    "https://www.bath.ac.uk/guides/vertically-integrated-projects/",
+    "https://www.bath.ac.uk/case-studies/gaining-consulting-experience-while-studying-for-my-degree/"
+   ],
+   "finding": "VIP is the only university-wide scheme (C unclear); 180DC is a student society; Big Team Challenge is a short employer challenge evidenced only by search summary."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "School of Management Bath unit group consultancy project client organisation"
+   ],
+   "key_sources": [
+    "https://www.bath.ac.uk/campaigns/your-year-studying-a-school-of-management-msc/",
+    "https://www.bath.ac.uk/campaigns/work-with-our-postgraduate-students-on-a-consultancy-project/"
+   ],
+   "finding": "MSc Practice Track and six-week MSc Consulting Project are team client projects; MBA suite not opened."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Bath engineering group design project industry client sponsor unit catalogue",
+    "Bath Computer Science final year group project client industry"
+   ],
+   "key_sources": [
+    "https://www.bath.ac.uk/campaigns/partner-with-us-on-group-design-and-business-projects/",
+    "https://www.bath.ac.uk/campaigns/become-an-external-integrated-project-partner/"
+   ],
+   "finding": "MEng Group Design and Business Project with company briefs; EIP is individual; CS has no client group project found."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Bath Chemistry OR Physics OR Mathematical Sciences OR Biology industrial project external partner students team"
+   ],
+   "key_sources": [
+    "https://www.bath.ac.uk/faculties/faculty-of-science/"
+   ],
+   "finding": "No taught team project with external partners found."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Bath Social and Policy Sciences OR Psychology OR Education OR Politics consultancy project external organisation students"
+   ],
+   "key_sources": [
+    "https://www.bath.ac.uk/campaigns/consultancy-projects-solve-a-real-world-business-challenge-as-part-of-your-degree/"
+   ],
+   "finding": "PG consultancy projects in lieu of dissertation (Education, IR, Sport Management); group vs individual unclear."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Bath Architecture civil engineering or pharmacy health students live project community client"
+   ],
+   "key_sources": [
+    "https://www.bath.ac.uk/campaigns/developing-design-solutions-with-architecture-and-civil-engineering-projects/"
+   ],
+   "finding": "Architecture/civil Ted Happold project is team-based on a real scenario but without evidenced external client; nothing for pharmacy/health."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "250 students, 11 project teams, 16 academic leads (2025/26) [1]",
+   "legacy_ref": "Vertically Integrated Projects (VIP)",
+   "likely_duplicate_of": "",
+   "english_name": "Vertically Integrated Projects (VIP)",
+   "local_id": "S1",
+   "official_name": "Vertically Integrated Projects (VIP)",
+   "description": "Multi-level, interdisciplinary teams of undergraduate, postgraduate and doctoral students work with academic directors on long-term real-world (sustainability) research projects. External organisations 'may' contribute to existing or new VIPs, but no standard external client is evidenced.",
+   "academic_reach": "University-wide",
+   "admin_host": "University VIP network (Bath)",
+   "eligible_faculties_programmes": "All courses",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Open to all UG, PG and doctoral students; students not on a placement year get priority",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Mostly not credit-bearing ('currently extra-curricular'); some academic areas moving to credit",
+   "duration": "Multi-year projects; students join for the academic year",
+   "delivery_format": "Team projects led by academic directors",
+   "project_based": "Yes",
+   "project_evidence": "Long-term real-world research-based projects with academic directors [1].",
+   "group_working": "Yes",
+   "group_evidence": "'inter-disciplinary, multi-level teams of students' working with academic staff [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'There may be the opportunity for external organisations to contribute to existing or new VIPs' [1]; no documented external client/brief/feedback for current teams.",
+   "partner_type": "Unclear",
+   "partner_role": "Optional external contribution only",
+   "deliverable": "Not specified",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "unresolved": "Which, if any, VIP teams have a named external partner; credit status by department.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bath.ac.uk/guides/vertically-integrated-projects/",
+     "title": "Vertically Integrated Projects",
+     "section": "Whole page",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-12",
+     "retrieval": "page text",
+     "extract": "'VIPs are innovative research-based projects that enable students and staff to collaborate on long-term real-world issues'; 'There may be the opportunity for external organisations to contribute to existing or new VIPs'; 'VIPS are currently extra-curricular'; 'open to all undergraduate, postgraduate and doctoral students'; 'In 2025/26, 250 students took part'; 'eleven project teams'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "participation",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "RUH Bath, Airbus, Shellworks, National Composites Centre, UKAEA, CERN, AgriSound (partner page, no year given)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "Group Design and Business Project (MEng Mechanical; MEng Electronic & Electrical)",
+   "local_id": "S2",
+   "official_name": "Group Design and Business Project (MEng Mechanical; MEng Electronic & Electrical)",
+   "description": "Third-year MEng teams (second semester) work for about 14 weeks on a project brief provided by an external company, guided by an academic supervisor, producing technical and commercial solutions presented to the company in July.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Engineering & Design",
+   "eligible_faculties_programmes": "MEng Mechanical Engineering; MEng Electronic and Electrical Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Year 3 (semester 2)",
+   "eligibility_restrictions": "Named MEng programmes",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Unit credit/assessment not retrieved",
+   "duration": "~14 weeks, Feb to July",
+   "delivery_format": "Team project with company brief, mid-term review, Design Exhibition",
+   "project_based": "Yes",
+   "project_evidence": "Company brief; 'detailed technical and commercial solutions' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'we match you with a suitable student team'; each team has an academic supervisor [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "'Your company provides the project brief'; company meets team every 2-3 weeks, attends mid-term review and Design Exhibition, receives July final presentation [1]. Not stated whether every team has an external company (some briefs may be internal); marked Unclear per coverage ruling.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Provides brief; meets team; receives final solution",
+   "deliverable": "Technical and commercial solution, final presentation to company",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated (months only)",
+   "unresolved": "Compulsory status, credit, proportion of teams with external companies, and dated 2025/26 delivery not verified (unit catalogue 2024/25 lists 'Group business & design project' units per search result only).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bath.ac.uk/campaigns/partner-with-us-on-group-design-and-business-projects/",
+     "title": "Partner with us on Group Design and Business Projects",
+     "section": "Partner page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "page text",
+     "extract": "'Your company provides the project brief, and we match you with a suitable student team'; over 14 weeks, Feb launch to July final presentation; 'detailed technical and commercial solutions'; partners listed incl. Airbus, NCC, UKAEA; part of MEng mechanical and MEng electronic and electrical.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "MSc Practice Track (School of Management)",
+   "local_id": "S3",
+   "official_name": "MSc Practice Track (School of Management)",
+   "description": "Summer option for MSc HRM, International Management, Management, Marketing and Sustainability & Management: teams work on a project with an external client organisation, about 7-8 full-time weeks (June-July), instead of a dissertation; teams can combine several MSc courses; no fee to partners.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Management",
+   "eligible_faculties_programmes": "Five named School of Management MSc programmes",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc summer",
+   "eligibility_restrictions": "Named MSc programmes; option, not required",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "7-8 weeks full time (June-July); ~3 months per general page",
+   "delivery_format": "Team client project",
+   "project_based": "Yes",
+   "project_evidence": "Project with an external client organisation; deliverable not specified [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'Work in teams on a project with an external client organisation' [1]; MSc teams can combine courses [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External client organisation; 'We welcome partners from all sectors and of all sizes', no fee [1][2].",
+   "partner_type": "Mixed",
+   "partner_role": "Client providing project",
+   "deliverable": "Not specified",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated; course links point to 2027 entry",
+   "unresolved": "Dated 2025/26 delivery, named clients, credit and team size not found; duration band set to nearest option (7-8 weeks, i.e. >4 weeks but under a term).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bath.ac.uk/campaigns/your-year-studying-a-school-of-management-msc/",
+     "title": "Your year studying a School of Management MSc",
+     "section": "Summer options",
+     "pub_year": "undated (2027 entry links)",
+     "accessed": "2026-10-12",
+     "retrieval": "page text",
+     "extract": "'Work in teams on a project with an external client organisation'; summer option; most MSc courses 'give you the flexibility to choose how to spend your summer'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bath.ac.uk/campaigns/work-with-our-postgraduate-students-on-a-consultancy-project/",
+     "title": "Work with our postgraduate students on a consultancy project",
+     "section": "Partner page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "page text",
+     "extract": "MSc Practice Track students work 'in teams'; full-time seven to eight weeks in June and July; 'We welcome partners from all sectors and of all sizes'; 'no fee for postgraduate student projects'.",
+     "supports": [
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "MSc Consulting Project (six-week team project, Semester 2)",
+   "local_id": "S4",
+   "official_name": "MSc Consulting Project (six-week team project, Semester 2)",
+   "description": "Six-week team consulting project with a local organisation in Feb-Mar of Semester 2 on School of Management MSc timeline; counts towards a University of Bath Award.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Management",
+   "eligible_faculties_programmes": "School of Management MSc students (programmes not itemised)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc semester 2",
+   "eligibility_restrictions": "Not stated",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Counts towards a Bath Award; credit not stated",
+   "duration": "6 weeks, Feb-Mar",
+   "delivery_format": "Team consulting project",
+   "project_based": "Yes",
+   "project_evidence": "'six-week team consulting project' [1]; deliverable not specified.",
+   "group_working": "Yes",
+   "group_evidence": "'team consulting project' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'with a local organisation' [1]; how the organisation participates not described.",
+   "partner_type": "Unclear",
+   "partner_role": "Local organisation (role not described)",
+   "deliverable": "Not specified",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated; course links point to 2027 entry",
+   "unresolved": "Curricular vs extracurricular, compulsory vs optional, partner role, deliverable; 6 weeks falls between bands (1-4 weeks / term).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bath.ac.uk/campaigns/your-year-studying-a-school-of-management-msc/",
+     "title": "Your year studying a School of Management MSc",
+     "section": "Semester 2 timeline",
+     "pub_year": "undated (2027 entry links)",
+     "accessed": "2026-10-12",
+     "retrieval": "page text",
+     "extract": "'A six-week team consulting project with a local organisation', February to March; 'Counts towards a University of Bath Award'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "EY, Kraft Heinz, L'Oreal, Uniqlo, Accenture, AlphaSights (past, undated)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "Big Team Challenge (employer-set first-week challenge)",
+   "local_id": "S5",
+   "official_name": "Big Team Challenge (employer-set first-week challenge)",
+   "description": "Short induction-period activity in which students work in teams on a real business challenge set by a partner employer and present ideas back to it (UG version in welcome week; MSc version in first two weeks). Past sponsors named in search result: EY, Kraft Heinz, L'Oreal, Uniqlo, Accenture, AlphaSights.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "School of Management (welcome week)",
+   "eligible_faculties_programmes": "School of Management UG and MSc",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Entry",
+   "eligibility_restrictions": "Not verified",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None evidenced",
+   "duration": "~1 week (UG welcome week); first two weeks (MSc)",
+   "delivery_format": "Team challenge, presentation to employer",
+   "project_based": "Unclear",
+   "project_evidence": "Defined employer challenge with ideas presented back, but output substance unverified; short format.",
+   "group_working": "Yes",
+   "group_evidence": "Students work together in teams [search summary].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Employer sets the challenge and receives the presentation (search-summary paraphrase of Bath pages; not opened directly).",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sets challenge; receives presentation",
+   "deliverable": "Presentation of ideas",
+   "duration_band": "<1 week",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "unresolved": "No page text obtained; 2026 cohort not found; whether defined output qualifies as a project.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bath.ac.uk/campaigns/your-year-studying-a-school-of-management-msc/",
+     "title": "Your year studying a School of Management MSc / School of Management Welcome Week guide",
+     "section": "Search summary",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: 'work with one of our Employability Partners on an activity during the first two weeks'; UG: 'work together to solve ... a real-world business challenge provided by a partner employer', present ideas back.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "180 Degrees Consulting, Bath branch",
+   "local_id": "S6",
+   "official_name": "180 Degrees Consulting, Bath branch",
+   "description": "Student consulting society whose small teams advise social enterprises/charities and small businesses (examples: Devon physiotherapy clinic SEO strategy; Canadian animal sanctuary; global humanitarian charity), led by Engagement Managers.",
+   "academic_reach": "Unclear",
+   "admin_host": "Student-run branch of 180 Degrees Consulting (Bath)",
+   "eligible_faculties_programmes": "Not stated",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Unclear",
+   "year_of_study": "Any",
+   "eligibility_restrictions": "Selective (global site: 'carefully selected')",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Extracurricular",
+   "credit_assessment": "None",
+   "duration": "Unclear",
+   "delivery_format": "Student society consulting projects",
+   "project_based": "Yes",
+   "project_evidence": "Consulting projects (e.g. SEO strategy) for named client types [1].",
+   "group_working": "Yes",
+   "group_evidence": "Engagement Manager leads projects; teams work together (search summary: small teams) [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "External clients (physiotherapy clinic, animal sanctuary, humanitarian charity) [1]; the organisations are student-society clients, not necessarily university-run.",
+   "partner_type": "Mixed",
+   "partner_role": "Client",
+   "deliverable": "Consulting recommendations (unspecified)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated student case study",
+   "unresolved": "University hosting vs student-run, current activity, selection process.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bath.ac.uk/case-studies/gaining-consulting-experience-while-studying-for-my-degree/",
+     "title": "Gaining consulting experience while studying for my degree",
+     "section": "Case study",
+     "pub_year": "undated (page footer 2026)",
+     "accessed": "2026-10-12",
+     "retrieval": "page text",
+     "extract": "180DC described as 'a university-based organisation which aims to make a positive social impact'; he 'worked with a Devon-based physiotherapy clinic to develop their search engine optimisation (SEO) strategy'; later led projects for a Canadian animal sanctuary and a global humanitarian charity.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "english_name": "Postgraduate consultancy projects in lieu of dissertation (Engineering & Design; Humanities & Social Sciences)",
+   "local_id": "S7",
+   "official_name": "Postgraduate consultancy projects in lieu of dissertation (Engineering & Design; Humanities & Social Sciences)",
+   "description": "Option on named MSc/MA courses (e.g. Engineering Business Management, Innovation and Technology Management, Sport Management, Education, International Education and Globalisation) to complete a ~3-month consultancy project with a partner company/organisation instead of a dissertation; may be done alone or in a small group.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Faculties of Engineering & Design, Humanities & Social Sciences",
+   "eligible_faculties_programmes": "Named MSc/MA courses",
+   "faculty_areas": [
+    "engineering_computing",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "MSc summer",
+   "eligibility_restrictions": "Subject to availability; limited places; dissertation if no project secured",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "e.g. 30 credits (EBM, Education per search result)",
+   "duration": "~3 months in summer",
+   "delivery_format": "Consultancy project with partner",
+   "project_based": "Yes",
+   "project_evidence": "Company/organisation challenge or research extension [1].",
+   "group_working": "Unclear",
+   "group_evidence": "'you can work as part of a small group or on your own' [1]; routes not separable.",
+   "employer_connected": "Yes",
+   "employer_evidence": "'work with one of the university's partner companies' [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Provides challenge",
+   "deliverable": "Not specified (presentation/written account per Education MA search result)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Undated",
+   "unresolved": "Group vs individual split by course; current delivery.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bath.ac.uk/campaigns/consultancy-projects-solve-a-real-world-business-challenge-as-part-of-your-degree/",
+     "title": "Consultancy projects: solve a real-world business challenge",
+     "section": "Whole page",
+     "pub_year": "undated",
+     "accessed": "2026-10-12",
+     "retrieval": "page text",
+     "extract": "'you can work as part of a small group or on your own'; 'usually last around three months'; 'Some of our courses offer you the chance to complete a consultancy project instead of a dissertation'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "duration"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "External Integrated Project (EIP)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Third-year E&D students work individually at a company for 4-6 months (within a larger company team); group working between students not evidenced.",
+   "source_url": "https://www.bath.ac.uk/campaigns/become-an-external-integrated-project-partner/",
+   "status_note": "Undated; months only"
+  },
+  {
+   "name": "Ted Happold architecture/civil engineering joint project",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams of 4-6 over ~8 weeks on a brief 'always based on a real scenario', but no external organisation setting or receiving the brief evidenced.",
+   "source_url": "https://www.bath.ac.uk/campaigns/developing-design-solutions-with-architecture-and-civil-engineering-projects/",
+   "status_note": "search extract only"
+  },
+  {
+   "name": "Computer Science final-year/group projects",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Final-year project individual; group projects in earlier years with no client evidenced; industry links are placements.",
+   "source_url": "https://www.bath.ac.uk/courses/undergraduate-2027/computer-science/bsc-computer-science/",
+   "status_note": ""
+  },
+  {
+   "name": "MBA Multi-Project Suite (consulting and change management project)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search result states teams work with an external client; page not opened and not undergraduate/MSc core; MBA site (mba.bath.ac.uk) should be fetched.",
+   "source_url": "https://mba.bath.ac.uk/full-time-mba/programme-content-and-modules/",
+   "status_note": ""
+  },
+  {
+   "name": "Science departments (Chemistry, Physics, Maths, Biology) student projects",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "No taught student team project with an external partner found; industry links are PhD CASE/CDT and placements.",
+   "source_url": "https://www.bath.ac.uk/faculties/faculty-of-science/",
+   "status_note": ""
+  },
+  {
+   "name": "Professional placement years (Social Policy, Sociology etc.)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placements; no group project component evidenced.",
+   "source_url": "https://www.bath.ac.uk/courses/undergraduate-2026/sociology-social-policy-and-social-sciences/bsc-social-policy/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Bath's relevant provision is distributed and mostly postgraduate. The University-wide Vertically Integrated Projects (250 students in 11 interdisciplinary teams in 2025/26, open to UG, PG and doctoral students, largely extracurricular) are group research projects, but external organisations only 'may' contribute, so the employer criterion is unclear. In Engineering & Design, the MEng Group Design and Business Project has third-year teams working about 14 weeks on company-supplied briefs (Airbus, NCC, UKAEA and others named) and presenting to the company, but compulsory status, credit, and current-year delivery were not verified. In the School of Management, MSc Practice Track (teams with an external client, 7-8 weeks in summer, optional) and a six-week MSc Consulting Project with a local organisation are team client projects; the postgraduate consultancy option in several other MSc/MA courses can be done alone or in a group. A short employer-set Big Team Challenge and the student-run 180 Degrees Consulting are also recorded. Most pages are undated (some link to 2027 entry), so current delivery is largely unconfirmed. No science or arts-led qualifying scheme was verified.",
+ "gaps": "Dated 2025/26-2026/27 delivery for S2-S7; MBA Multi-Project Suite page; unit credit for MEng GDBP; Big Team Challenge page text; further departmental instances (Education MA, IR MSc, Sport Management) likely; no direct page text beyond ~7 fetches."
+}
