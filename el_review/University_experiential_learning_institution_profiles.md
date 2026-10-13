@@ -605,7 +605,7 @@ Embedding is distributed across schools rather than institution-wide; no compuls
 
 ### Sheffield (RG20, UK)
 
-**Review:** Partial — remaining: Medicine/dentistry/health sciences ('other') not searched; extended verification of departmental MEng group design projects (Mechanical, Aerospace, EEE, Materials, Chemical, Civil) and of Genesys client externality not done; chemistry, maths/statistics and individual AHSS departments (Geography, Urban Studies, Politics, Journalism) not individually searched. Session WebSearch limit reached after 22 searches. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 8
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 8
 
 **Sheffield** has strong, mostly **faculty- and programme-embedded** provision, anchored by the Faculty of Engineering's compulsory project weeks.
 
@@ -615,7 +615,7 @@ Embedding is distributed across schools rather than institution-wide; no compuls
 - **Business:** the MBA **Marketing Consultancy** and **Internationalisation Challenges** (teams work for real organisations and present to senior management), and the Management MSc team **Company Project**.
 - **Central / cross-faculty:** Careers' first **Spring Internship Experience** (2026) placed 630 Arts & Humanities and Social Sciences students in teams on 85+ projects from 60+ external organisations, including the DfE. It is cross-faculty, not university-wide.
 - **Not qualifying:** the Emerge entrepreneurship programme (legacy).
-- **Uncertain:** partner names for most modules; whether the Spring Internship Experience will recur; health faculties were not searched.
+- **Uncertain:** partner names for most modules; whether the Spring Internship Experience will recur; Medicine community partnership placements (groups, ~4 weeks) lack dated current evidence.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
@@ -633,8 +633,9 @@ Embedding is distributed across schools rather than institution-wide; no compuls
 | RG20-S12 | Mechanical Engineering MEng final-year group design project | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 entry course listing |
 | RG20-S13 | Aerospace Engineering Industrial Training Programme / MEng Group Design Project | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear undated |
 | RG20-S14 | Electrical and Electronic Engineering MEng final-year group project | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear 2027 entry course listing |
+| RG20-S15 | Medicine community partnership placements (Social Accountability) | Programme/course | Unclear | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear undated (examples from 2015) |
 
-**Uncertain / unresolved:** Health faculties not searched; MEng departmental capstones (Mechanical, Aerospace, EEE) evidenced only by search-summary paraphrase and status partly unclear; Genesys customer externality and status conflict; Software Hut module code/client sector; MBA Challenge modules' compulsory status; whether Management MSc Company Project and Easter micro-internship are distinct from the Spring Internship Experience; further departmental instances likely (e.g., Chemical/Civil Engineering design projects, Landscape Architecture, Urban Studies & Planning, Journalism).
+**Uncertain / unresolved:** Dentistry, nursing/health sciences beyond Medicine placements not searched individually; MEng departmental capstones (Mechanical, Aerospace, EEE) evidenced only by search-summary paraphrase and status partly unclear; Genesys customer externality and status conflict; Software Hut module code/client sector; MBA Challenge modules' compulsory status; whether Management MSc Company Project and Easter micro-internship are distinct from the Spring Internship Experience; further departmental instances likely (e.g., Chemical/Civil Engineering design projects, Landscape Architecture, Urban Studies & Planning, Journalism).
 
 ### Southampton (RG21, UK)
 
@@ -697,9 +698,9 @@ UCL has no institution-wide employer-project requirement, but several distribute
 
 ### Warwick (RG23, UK)
 
-**Review:** Partial — remaining: Search budget for the session (shared 200-search cap) was exhausted after 13 searches. Not done: science (not searched), other/law/medicine/health (not searched), most of arts/humanities/social sciences (only one broad search), IATL module-level check for legacy row, central extracurricular routes beyond TeamWork (e.g. Warwick Volunteers/charity consultancy, student consultancy societies, Warwick Enterprise), extended verification of WMG Industry Impact Projects, GD903 and LP916 current versions, ES410 2025/26 catalogue. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
 
-**Warwick** (partial review) shows employer-linked group project provision in several separate places. There is one university-wide extracurricular route; the other verified examples are postgraduate or engineering and are embedded in specific programmes.
+**Warwick**  shows employer-linked group project provision in several separate places. There is one university-wide extracurricular route; the other verified examples are postgraduate or engineering and are embedded in specific programmes.
 
 - **University-wide:** **TeamWork International Experience Programme**, run by Warwick Careers. It is selective and open to all students. Multidisciplinary, multi-university teams of up to six spend four weeks part-time online on a project supplied by an external organisation. The organisation briefs the team, checks in regularly and receives the final presentation. Rounds ran in 2024 and 2025; the next is March 2027.
 - **Business (WBS):**
@@ -711,11 +712,11 @@ UCL has no institution-wide employer-project requirement, but several distribute
   - Apprentices' **ES3H7** tasks are co-set with employers.
   - Computer Science **CS407** has customers that may be academic or industrial.
   - WMG's MSc ITSO **Industry Impact Projects** have groups tackling corporate-partner challenges (Tata companies).
-- **Uncertain:** most module evidence is undated or pre-2025. Science, law/health and most social sciences/humanities were not searched, and IATL modules were not tested, because the search budget ran out. GD903 (GSD) and LP916 (Applied Linguistics) are incidental leads that still need verification.
+- **Uncertain:** most module evidence is undated or pre-2025. Science and law/health searches (reduced depth) found only individual placements and unverified clinics; IATL modules reviewed and excluded (internal or non-employer briefs). GD903 (GSD) and LP916 (Applied Linguistics) are incidental leads that still need verification.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
-| RG23-S01 | TeamWork International Experience Programme | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 (next programme announced for March 2027; 2024 and 2025 rounds delivered) |
+| RG23-S01 | TeamWork International Experience Programme | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 (next programme 22 Feb - 19 Mar 2027; 2024 and 2025 rounds delivered) |
 | RG23-S02 | Strategic Consulting Project (group SCP) - MBA | Programme/course | Optional/elective | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2026 (2026 project FAQ); Global Online MBA January 2027 structure |
 | RG23-S03 | LeadershipPlus group consultancy project (Full-time MBA) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear undated (one page described as 2024-era) |
 | RG23-S04 | Business with Consulting MSc - live client consulting projects | Programme/course | Unclear | Yes/Unclear/Yes | Unclear | Potentially relevant; evidence incomplete | Current status unclear undated alumni blogs; course page for 2027 entry does not name the project |
@@ -728,7 +729,7 @@ UCL has no institution-wide employer-project requirement, but several distribute
 | RG23-S11 | Practice-based Project (GD903-60) | Programme/course | Unclear | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2021 (module catalogue) |
 | RG23-S12 | Applied Communication Project (LP916-15) | Programme/course | Unclear | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2024 (module catalogue) |
 
-**Uncertain / unresolved:** Partial review: science, other (law/medicine), most AHSS and further central routes not searched; IATL legacy framework not tested at module level; current-year (2025/26-2026/27) catalogue evidence missing for ES410, ES3H7, CS407, LP916, GD903 and WMG programmes; WMG ITSO Industry Impact Projects evidence is paraphrase only; WBS undergraduate team consulting provision unclear (IB3G2 historical); further departmental instances likely.
+**Uncertain / unresolved:** Reduced-depth review: all six areas queried once or more but shallowly; current-year (2025/26-2026/27) catalogue evidence missing for ES410, ES3H7, CS407, LP916, GD903 and WMG programmes; WMG ITSO evidence is paraphrase only; Law LinC unverified; further departmental instances likely.
 
 ### York (RG24, UK)
 
@@ -762,25 +763,27 @@ _Not yet reviewed in this pass._
 
 ### St Andrews (UK02, UK)
 
-**Review:** Partial — remaining: Science, arts/humanities/social sciences and other (Medicine, Divinity) areas not searched; Business School consultancy-project module not identified; VIP project list not checked for external partners; Playfair not researched. Stopped after 8 searches because the shared per-turn WebSearch limit (200 calls) was exhausted. · **Embeddedness:** Unclear · **Current qualifying schemes:** 0
+**Review:** Complete · **Embeddedness:** Isolated departmental provision · **Current qualifying schemes:** 0
 
-**St Andrews** (partial review, 8 searches): **no qualifying scheme verified through the documented search so far**. Several group project routes were found, but none has evidence that an external organisation is the standard client.
+**St Andrews** (reduced-depth review, six areas queried): no scheme was verified that meets all three criteria with a documented external client and current delivery.
 
-- **Vertically Integrated Projects (VIP):** credit-bearing modules (10-30 SCOTCAT per semester; 5 for returners) in which a supervisor leads a mixed-discipline, mixed-level student team working on an ongoing research project. Applications for 2026/27 opened in April 2026. Projects are academic-led. External practitioners appear only in individual projects (e.g. St Andrews Forest), and that project's report goes to an internal University board, so C is Unclear.
-- **STEP (Summer Team Enterprise Programme):** an online 7-week programme for teams of 6-7 undergraduates, running in 2026 and recorded on the HEAR. The consulting projects are designed by University staff for University Schools and service units, so they are internal clients (C = No).
-- **CS3099 Software Engineering Team Project:** a year-3 group software build (30 credits, running in 2026/27). A 2025 blog reports Experian and Skyscanner involvement, but their role is not described.
-- **Management MSc:** the course page advertises 'consultancy projects with local organisations', but the module was not identified.
+- **VIP:** credit-bearing mixed-discipline research teams (applications for 2026/27 confirmed). Fetching the projects page shows 19 projects, none naming an external partner, so C is Unclear. Faculty eligibility is not stated (legacy row says Arts and Science).
+- **STEP:** online 7-week team consulting projects in 2026, but the clients are University Schools and units (internal, C = No).
+- **CS3099:** year-3 team software project with Experian and Skyscanner involvement reported in 2025, role unspecified.
+- **Management MSc:** advertises consultancy projects with local organisations, but no corresponding compulsory module or group structure was found.
+- **Playfair:** student-run pro bono consultancy with teams of 5-6 and external clients, but evidence is secondary and undated and it is not a University scheme.
 
-Science, AHSS, Medicine and Divinity were not searched because the search budget was exhausted.
+Science, humanities/social science, Medicine, Divinity and Law yielded no external-client team routes. Provision is isolated and mostly internal or research-led.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
 | UK02-S01 | Vertically Integrated Projects (VIP) (VP-prefixed modules (e.g. VP2026)) | Unclear | Optional/elective | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 |
 | UK02-S02 | Summer Team Enterprise Programme (STEP) | University-wide | Selective/competitive | Yes/Yes/No | Other | Outside strict definition | Current delivery confirmed 2026 |
 | UK02-S03 | CS3099 Software Engineering Team Project (CS3099) | Programme/course | Unclear | Yes/Yes/Unclear | Business/commercial | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 |
-| UK02-S04 | Management MSc - consultancy projects with local organisations | Programme/course | Unclear | Unclear/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2027 entry (prospectus) |
+| UK02-S04 | Management MSc - consultancy projects with local organisations | Programme/course | Optional/elective | Unclear/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2027 entry (prospectus) |
+| UK02-S05 | St Andrews Playfair Consultancy Group | Unclear | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear Undated (2023 graduation citation mentions ten completed projects in that year) |
 
-**Uncertain / unresolved:** Review incomplete: science, AHSS and other areas not searched; Business School consultancy module (MSc/MLitt) not identified; VIP project-level external partners not enumerated; VIP faculty eligibility (legacy: Arts and Science) not re-verified; CS3099 partner role and compulsory status unknown; Playfair pro bono consultancy (student-led) not examined; 2026 STEP project list not retrieved.
+**Uncertain / unresolved:** Further departmental instances may exist but were not found in reduced-depth search. Open items: VIP faculty eligibility and external partners per project; CS3099 partner role and whether compulsory; the Management MSc module behind 'consultancy projects'; Playfair current status and eligibility; ScotGEM Agents of Change group/partner role; Law and Divinity only lightly searched (one combined query); one query per area only.
 
 ### Lancaster (UK03, UK)
 
@@ -848,31 +851,27 @@ Most routes are programme-level, optional or compulsory only within specified pr
 
 ### Aberdeen (UK05, UK)
 
-**Review:** Partial — remaining: The shared WebSearch budget ran out after 4 searches. Still to do: business school, science, arts/humanities/social sciences and other (law, medicine/health) areas are all unsearched. Also outstanding: verbatim evidence and 2025/26–2026/27 delivery for PD2503 and ED3537; ED251A assessment and compulsory status; Computing Science course code and team working; Grad Challenge details; ABDN Internships seven-week employer-project strand; engineering employer page (other engineering design projects). · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
 
-**Partial review: the search budget ran out after 4 searches.**
+Aberdeen has a small set of curricular routes where students work in teams on projects for outside organisations; none is verified as current for 2025/26 or later except ED251A and ED3537 (catalogue entries).
 
-Aberdeen has at least three curricular routes that put students in teams on externally sponsored projects:
+- **PD2503 Work-Based Learning: Team Projects with Employer Partners** (Level 2, 15 credits, any undergraduate discipline). Students apply and are interviewed, then work in a team on a live project: the draft plan is signed off by the sponsor, with a group report (40%) and a pitch. The page fetched is headed 2024-2025; 23 students enrolled at the January 2025 launch. Delivery after that is not confirmed.
+- **ED251A Engineering Work Experience** (2025/26 catalogue, 15 credits): group consultancy project for a local engineering organisation, assessed by group report and group presentation; open to Level 2 students with Engineering studied.
+- **ED3537 Employer-led Interdisciplinary Project** (2025/26 catalogue, 30 credits, Level 3/4, any undergraduate programme): small-group consultancy-style project; the host-organisation role is not shown on the 2025/26 page, so employer connection is Unclear.
+- **ED3536 Working Together** (Arts & Social Sciences, group project from a local business or charity): evidenced only in a 2018-19 case study.
 
-- **PD2503 Work-Based Learning: Team Projects with Employer Partners.** A 15-credit, Level 2 elective open to undergraduates in any discipline, with entry by application and interview. Teams agree a project plan with a sponsoring organisation, submit a group report and pitch to the sponsors. It launched in January 2025 with 23 students; delivery in 2025/26 is not confirmed.
-- **ED3537 Employer-led Interdisciplinary Project.** A Level 3 small-group consultancy project hosted by micro-businesses, organisations or charities. The latest evidence is the 2023/24 catalogue.
-- **ED251A Engineering Work Experience.** A 15-credit second-year engineering course: a group consultancy project for a local engineering organisation, with current delivery confirmed for 2025/26.
-
-Computing Science also runs a Year 4 work-based learning course with employer-proposed projects and weekly employer meetings, but team working is unverified. Careers runs the extracurricular **ABDN Grad Challenge**, virtual cross-discipline team challenges set by employer partners, where employer engagement is unclear.
-
-**ABDN Internships** (legacy row) is individual paid work and is excluded.
-
-The business, science, arts/humanities/social sciences, law and health areas were not searched, so the picture is incomplete.
+Computing Science's Year 4 work-based course appears to be one student per employer project (not group). The Grad Challenge (extracurricular, virtual employer-set challenges) could not be verified. Business, science, and law/health searches found no qualifying current group-client route. Provision is distributed across routes, not an institution-wide requirement.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
 | UK05-S01 | Work-Based Learning: Team Projects with Employer Partners (PD2503) | University-wide | Selective/competitive | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear 2024/25 |
-| UK05-S02 | Employer-led Interdisciplinary Project (ED3537) | Unclear | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2023/24 or 2024/25 (catalogue URL /2024/; summary said 2023-2024) |
+| UK05-S02 | Employer-led Interdisciplinary Project (ED3537) | Unclear | Optional/elective | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current delivery confirmed 2025/26 (catalogue) |
 | UK05-S03 | Engineering Work Experience (ED251A) | Faculty/school | Unclear | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2025/26 |
-| UK05-S04 | Computing Science work-based learning course (Collaborate with Future Talent) | Programme/course | Selective/competitive | Yes/Unclear/Yes | Unclear | Potentially relevant; evidence incomplete | Current status unclear  |
+| UK05-S04 | Computing Science work-based learning course (Collaborate with Future Talent) | Programme/course | Selective/competitive | Yes/No/Yes | Unclear | Outside strict definition | Current status unclear  |
 | UK05-S05 | ABDN Grad Challenge | Unclear | Optional/elective | Unclear/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear  |
+| UK05-S06 | Working Together: Employability for Arts & Social Sciences (ED3536) | Faculty/school | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2018/19 (case study) |
 
-**Uncertain / unresolved:** Business school, science, arts/humanities/social sciences, law and medicine/health were not searched. The current status of PD2503 and ED3537 is unconfirmed. ED251A assessment and compulsory status, the Computing Science course code and group working, and Grad Challenge details are still open. Most evidence is search-summary paraphrase, not verbatim. The search budget was exhausted, so further departmental instances are likely.
+**Uncertain / unresolved:** Current (2025/26-2026/27) delivery of PD2503 and ED3536 not confirmed; sponsor sectors/named partners not published on the pages read; ED251A compulsory status unknown; ED3537 host role on current page not shown; Grad Challenge page 404; ABDN Internships seven-week employer-project strand unverified; Business School, science, law and health yielded no verified current group-client routes (reduced-depth, ~8 searches/fetches in this resume). Further departmental instances likely.
 
 ### Reading (UK06, UK)
 
@@ -932,15 +931,15 @@ Access is programme-specific: modules are compulsory within named MSc or MEng pr
 
 ### Sussex (UK08, UK)
 
-**Review:** Partial — remaining: Search budget exhausted after 6 searches. Not searched: engineering_computing (School of Engineering and Informatics group/industry projects), science (Life Sciences, Maths & Physical Sciences), arts_humanities_social_sciences (incl. Global Studies, Media, Psychology, Education), other (Law, BSMS medicine, IDS). Business partly searched (Business Analytics MSc / International Business and Development consultancy projects, Business School guaranteed internship/work project page, 'Changing the Face of Consultancy' scheme not tested). Legacy Connector Programme assessed from the legacy row only, not re-searched. · **Embeddedness:** Unclear · **Current qualifying schemes:** 1
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
 
-**Partial review (search budget exhausted after 6 searches; only central and business areas searched).**
+**Reduced-depth review; all six areas queried.**
 
 - **Central:** The **Career Lab Student Consultancy Programme** qualifies. Final-year undergraduates and taught postgraduates apply; selected students form small multidisciplinary teams that spend 3-4 weeks (c.20 hours) working on a brief set by an external organisation (charities/NGOs, startups, large corporates such as Hastings Direct) and present recommendations to the client. It is extracurricular, bursary-paid and runs three times in 2026/27.
 - **Business School:** The PG **Consultancy Project (111N1)** is a 30-credit summer group live consultancy for local organisations/businesses (e.g. Management MSc dissertation alternative), but the latest dated evidence is 2024/25. The UG **Marketing Consultancy Project (Capstone)** is a team brief-based capstone current in 2026 but with no evidenced real client (only tips from a consulting firm).
 - The legacy **Connector Programme** is an internal student-staff partnership scheme and does not meet criterion C.
 
-Engineering & Informatics, sciences, arts/humanities/social sciences, law, medicine and IDS were not searched, so the extent of embedding cannot be judged.
+Engineering (MEng Group Project, no external client evidenced), sciences, arts/social sciences, Law Clinics and BSMS/IDS yielded no verified qualifying scheme at this depth; the Career Lab programme is promoted on Physics and Media MSc pages as paid project opportunities.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
@@ -948,7 +947,7 @@ Engineering & Informatics, sciences, arts/humanities/social sciences, law, medic
 | UK08-S02 | Marketing Consultancy Project (Capstone) (105316 (module page ID)) | Programme/course | Unclear | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 |
 | UK08-S03 | Consultancy Project (111N1) | Programme/course | Optional/elective | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear 2024/25 |
 
-**Uncertain / unresolved:** Five of six areas wholly or partly unsearched (see partial_remaining). Current delivery of the PG Consultancy Project not corroborated for 2025/26+. Marketing capstone client involvement unknown. Business Analytics MSc / IBD consultancy projects and the 'Changing the Face of Consultancy' variant untested.
+**Uncertain / unresolved:** Reduced-depth: one query per area. PG Consultancy Project (S3) lacks 2025/26+ corroboration and client sector. Marketing capstone client unknown. Law Clinics, Community Media, Chemistry Industrial Project, Business Analytics/IBD projects, Changing the Face of Consultancy untested; further departmental instances likely.
 
 ### Leicester (UK09, UK)
 
@@ -1217,12 +1216,12 @@ Partners mostly act as brief-setters/clients; sector mix is rarely documented. N
 
 ### Sydney (AU03, Australia)
 
-**Review:** Partial — remaining: 'other' area (law, health/medicine/pharmacy, architecture/design) not searched; engineering discipline capstones, science XXXX3888 units, INDP3000, Sydney Policy Reform Project, MBA and Business Analytics capstones untested; group format of SIEN6600 and BIS capstone and current status of MMGT6101/JFC unresolved. Cause: shared WebSearch budget exhausted. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 5
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 6
 
-**University of Sydney** has an institution-level framework for live, partner-briefed group projects, plus several faculty routes. This review is **partial**: the search budget ran out before law, health, architecture and most discipline capstones were covered.
+**University of Sydney** has an institution-level framework for live, partner-briefed group projects, plus several faculty routes. This reduced-depth review queried all six areas; many discipline capstones remain untested. Law students reach the ICPU route through an Interdisciplinary Project (final/penultimate year, 48 cp core law); 4000-level teams of about five are set scope by partners and present to an external panel.
 
 - **Industry and Community Project Units (ICPUs):** run from the PVC Education portfolio and taken through faculty shell units. At **3000 level** (6 cp), any undergraduate whose course offers a shell unit can register for a partner project. Supervisors put students into interdisciplinary groups, which work on a real challenge set by an industry, government or community partner and present solutions to it. Registration windows for the 2026/27 sessions are published. At **4000 level** (12 cp: an A unit in a June-July intensive, then a B unit in Semester 2), the 2026 partners are AMP and PTW Architects. Both levels are elective.
-- **Business School:** the **Business Consulting Practicum** (BWIL1300 undergraduate, BWIL6300 postgraduate; offered in 2026) has student consultancies work for a corporate, SME, not-for-profit or government sponsor, which scopes the deliverables and receives a written report. **MMGT6101** puts groups of 4-5 with a host organisation for 10 weeks, but its current status is undated. **SIEN6600** and the **BIS capstone** use partner projects, but their group format is unverified.
+- **Business School:** the **Business Consulting Practicum** (BWIL1300 undergraduate, BWIL6300 postgraduate; offered in 2026) has student consultancies work for a corporate, SME, not-for-profit or government sponsor, which scopes the deliverables and receives a written report. **MMGT6101** puts groups of 4-5 with a host organisation for 10 weeks, but its current status is undated. **SIEN6600** lists collaboration on group projects with business partners as a learning outcome (2026); the **BIS capstone** group format is unverified.
 - **Computing:** **COMP3888**, a core unit for the Computer Science major, has groups build software for an external client (2026).
 - **Engineering:** **Jacaranda Flame Consulting** is an extracurricular, selective programme. Teams of 4-5 work full time over the winter or summer break on problems from companies and government bodies. Its page is undated.
 - **Overall:** the provision is distributed, with a university-wide elective spine. Remaining uncertainties are partner engagement depth in individual ICPU projects, enrolment numbers, and the faculty areas not yet searched.
@@ -1231,16 +1230,16 @@ Partners mostly act as brief-setters/clients; sector mix is rarely documented. N
 |---|---|---|---|---|---|---|---|
 | AU03-S01 (umbrella) | Industry and Community Project Units (ICPUs) | University-wide | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 |
 | AU03-S02 | Industry and Community Project (3000 level ICPU) (Faculty shell units incl. FASS3333, FINC3400, ACCT3400, BANK3400, GOVT3898, ENGG3800/ENGG3801, SCPU3001) | University-wide | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 (project registration windows: intensive opens 30 Nov 2026; Semester 1 2027 window 11 Jan-21 Feb 2027) |
-| AU03-S03 | Advanced Industry and Community Project A and B (4000 level ICPU) (Shell units incl. BUSS4905, FASS4902, SCPU4001/SCPU4002, FMHU4001, ARCH4108) | Cross-faculty | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 (Semester 2 2026 projects, 3 Aug-8 Nov 2026) |
+| AU03-S03 | Advanced Industry and Community Project A and B (4000 level ICPU) (Shell units incl. BUSS4905, FASS4902, SCPU4001/SCPU4002, FMHU4001, ARCH4108) | Cross-faculty | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 and 2027 (project dates listed for Jan 2027-Nov 2027) |
 | AU03-S04 | Business Consulting Practicum (Undergraduate) (BWIL1300) | Faculty/school | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 (Semester 2 2026 offering) |
 | AU03-S05 | Business Consulting Practicum (Postgraduate) (BWIL6300) | Faculty/school | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 (Semester 1 and 2 2026 offerings) |
 | AU03-S06 | MMGT Business Project (MMGT6101) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear Unclear (unit page undated in extract; detailed description from un-yeared/archived handbooks) |
-| AU03-S07 | Strategy, Innovation and Management Capstone (SIEN6600) | Programme/course | Unclear | Yes/Unclear/Yes | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 |
+| AU03-S07 | Strategy, Innovation and Management Capstone (SIEN6600) | Programme/course | Unclear | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2026 |
 | AU03-S08 | Master of Commerce Business Information Systems (BIS) capstone (Not identified) | Programme/course | Unclear | Yes/Unclear/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear 2024 |
 | AU03-S09 | Computer Science Project (COMP3888 (advanced alternative COMP3988)) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2026 (Semester 2 2026) |
 | AU03-S10 | Jacaranda Flame Consulting (JFC) | Faculty/school | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2023 (UTS collaboration announcement) |
 
-**Uncertain / unresolved:** PARTIAL: shared web-search budget exhausted after 14 successful searches. Not searched: law (Industry and community engagement units page surfaced but untested), health/medicine/pharmacy (beyond ICPU shell units), architecture/design studios with industry partners, engineering discipline capstones/thesis industry routes, INDP3000 Interdisciplinary Project, Science XXXX3888/3988 discipline project units (single majors), Sydney Policy Reform Project, Business School Industry Placement/Experience in Industry routes, MBA current capstone, Business Analytics capstone. Further departmental instances likely.
+**Uncertain / unresolved:** Reduced-depth review; all six areas queried. Untested: engineering discipline capstones, Science XXXX3888 units, INDP3000, Sydney Policy Reform Project, MBA and Business Analytics capstones, Law electives with CLC NSW/Public Defenders/NSW Police (format unknown), architecture/design studios; MMGT6101 and JFC current status unresolved; BIS capstone group format unverified. Further departmental instances likely.
 
 ### Australian National University (AU04, Australia)
 
@@ -1252,9 +1251,9 @@ _Not yet reviewed in this pass._
 
 ### Queensland (AU06, Australia)
 
-**Review:** Partial — remaining: Science, arts/humanities/social sciences and other (law, health, architecture) areas not searched; engineering discipline capstones (civil, chemical, mechanical, mining, architecture studios) not searched; other UQ Ventures challenges not tested. Shared WebSearch budget for the session ran out after 12 searches for UQ. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 4
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 6
 
-**University of Queensland (partial review).** The verified provision sits mainly in **Business, Economics and Law**, plus two central extracurricular routes.
+**University of Queensland (reduced-depth review).** The verified provision sits mainly in **Business, Economics and Law**, plus two central extracurricular routes.
 
 - **BEL Industry Consulting Project** (RBUS3888/4888/7888, BSAN7215): selective final-year course (GPA 4.0+, by application). Project teams with an assigned mentor answer a brief from an industry partner, such as Cancer Council Queensland or Netball Queensland, and deliver a team report to the client. Applications are open for 2026-27.
 - **PBEL3000 Learning by Doing in a Disruptive World:** application-only undergraduate capstone. Teams of 3-5 pitch to an industry partner, who gives feedback, and write an industry report. Last offered Summer Semester 2025.
@@ -1262,7 +1261,7 @@ _Not yet reviewed in this pass._
 - **Central:** **Practera SAIEP** offers two-week virtual team projects for any UQ student, with briefs from real employers and client feedback. It is short and selective. The **Ventures Industry Challenge** is university-wide but only theme-partnered, and its 2026 partner is UQ's own SEXtember initiative, so criterion C is unclear.
 - **Engineering/IT:** the DECO3801 team capstone uses briefs written by students. The industry-partner projects found (Data Science capstone, BE/ME placement) are individual.
 
-No route is compulsory institution-wide; all are optional or selective. Science, HASS, law, health and architecture were **not searched** because the search budget ran out. Further routes there are likely.
+No route is compulsory institution-wide; all are optional or selective. **Further BEL/Business and health routes (reduced-depth pass):** TIMS7334 (MBus sustainability capstone, team project with industry partner presenting challenge and giving feedback, Semester 2 2026), FINM4411 (BAdvFinEcon(Hons) final-year team project on a live industry/government/NFP problem) and HRSS4210 (OT/speech pathology team service-development project, stakeholder type unclear). Science and HASS yielded no team-with-external-client route (only individual internships and student-led portfolio projects); architecture studios have client elements but group basis unverified. Further departmental instances likely.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
@@ -1272,8 +1271,11 @@ No route is compulsory institution-wide; all are optional or selective. Science,
 | AU06-S04 | Learning by Doing in a Disruptive World (PBEL3000) | Faculty/school | Selective/competitive | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2025/26 (Summer Semester 2025) |
 | AU06-S05 | Impact Academy 1: Discovering New Solutions for Complex Problems (MGTS7820) | Programme/course | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 |
 | AU06-S06 | Industry Engagement Capstone (MGTS7818) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Current status unclear 2024 |
+| AU06-S07 | Sustainability Strategy and Leadership Capstone (TIMS7334) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Unclear | Meets all three | Current delivery confirmed 2026/27 (Semester 2, 2026) |
+| AU06-S08 | Team Project (Bachelor of Advanced Finance and Economics (Honours)) (FINM4411) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 (Semester 2, 2026; Semester 1, 2027 listed) |
+| AU06-S09 | Health Sciences Research Project: Service Development through Action Learning (HRSS4210 (jointly taught with HRSS7200/SPCH7200)) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026 (Semester 2, 2026 offering listed) |
 
-**Uncertain / unresolved:** Science, HASS and other faculties not searched; engineering discipline design courses not searched; Ventures Industry Challenge judging/brief role of external partners unclear; PBEL3000 2026-27 offering not confirmed; MGTS7818 status (likely replaced by Impact Academy) unconfirmed; no UQ participation numbers for Practera or BEL projects.
+**Uncertain / unresolved:** Further departmental capstones in Science, HASS, engineering disciplines and architecture likely exist but were not found at reduced depth; Ventures Industry Challenge external-partner role unclear; PBEL3000 2026-27 offering unconfirmed; MGTS7818 likely replaced; FINM4411 verified only via search extract; TIMS7334/HRSS4210 partner type unclear; no participation numbers for most routes.
 
 ### Western Australia (AU07, Australia)
 
@@ -1285,25 +1287,29 @@ _Not yet reviewed in this pass._
 
 ### University of Technology Sydney (AU09, Australia)
 
-**Review:** Partial — remaining: The search budget ran out after 7 searches. Still to do: (1) faculty-level searches for business (consulting or capstone subjects), engineering and IT (capstones, software studios), science, arts and social sciences (communication, education), and other areas (design, architecture and building, law, health); (2) checking the TD Electives group/team format and assessment in the 2026 handbook subject pages (only search-summary paraphrases were obtained); (3) the Shopfront participating-subject list and a quoted team-format extract; (4) the participation mode of the BCII Industry Innovation Project. · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 3
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 3
 
-**UTS (partial review; the search budget ran out after the central searches).** Two central routes were verified.
+**UTS (reduced-depth, all six areas queried).** Qualifying or near-qualifying routes were found centrally and in one faculty.
 
-**Transdisciplinary (TD) Electives** are 8 TD School subjects (6 or 8 cp) open to undergraduates across UTS, except BCII students. Each subject is paired with a partner on a three-year cycle; 2026 partners are UNICEF Australia, City of Sydney, Microsoft, Miro, Lane Cove Council and ServiceRocket. Partners co-design the challenge, record learning content, and mentor and give feedback in live sessions. Students from across faculties work in teams on proposals. The team format comes from search summaries, not quoted handbook text. The route is optional and elective, and 2026 delivery is confirmed.
+**TD Electives** (TD School, 8 subjects, 6-8cp): the student page states each elective has "a real-world challenge presented by an industry partner organisation" and "Collaborate in teams with students from all faculties"; partners (UNICEF Australia, City of Sydney, Microsoft, Miro, Lane Cove Council, ServiceRocket in 2026) co-design the challenge, mentor and give feedback. Optional, open to undergraduates except BCII students.
 
-**UTS Shopfront** brokers projects from not-for-profits and social enterprises into coursework subjects. Students, usually final-year or postgraduate, work in teams as consultants for credit. It reports more than 1,698 cumulative projects (May 2026). The participating subjects were not identified.
+**Industry Innovation Project** (BCII final year): 13-week teams of 5-7 with partner mentors. **UTS Shopfront** brokers charity/community projects into coursework as team consultancies, but host subjects are unidentified.
 
-The **Industry Innovation Project** is a 13-week final-year BCII subject. Teams of 5–7 work with an industry mentor and present prototypes and a report to the partner (2026).
+**Software Development Studio** (FEIT): teams of 4-6 deliver prototypes for industry-posed briefs over 12 weeks with weekly industry mentors; optional, listed FEIT degrees; page undated (copyright 2026) so current delivery unconfirmed.
 
-No faculty-level searches were run (business, engineering/IT, science, design, law, health). Further departmental capstones and studios are very likely and remain unassessed.
+**Strategic Communication capstone**: semester-long real-client brief; team format not stated.
+
+Business, engineering capstone, design and science instances were seen only as titles or snippets. Provision is distributed across several routes; no compulsory institution-wide route found.
 
 | ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
 |---|---|---|---|---|---|---|---|
 | AU09-S01 | Transdisciplinary (TD) Electives (e.g. 95002/95010 TD: Reframing, remixing, reimagining society (UNICEF Australia); 95005 Shaping Technologies that Shape Us (Microsoft); 95004 (ServiceRocket); 95006 (City of Sydney); 95008 (Miro); Pathways to Societal Transitions (Lane Cove Council)) | University-wide | Optional/elective | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026 |
 | AU09-S02 | Industry Innovation Project | Programme/course | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026 |
 | AU09-S03 | UTS Shopfront Community Program – community projects in coursework (Various participating coursework subjects (not identified)) | Unclear | Unclear | Yes/Yes/Yes | Charity/community | Meets all three | Current delivery confirmed 2026 |
+| AU09-S04 | Software Development Studio (FEIT Industry Studio) (41113 / 41114 (6cp each), or alternate assessment in 48024, 31271, 48433, 31251) | Faculty/school | Optional/elective | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear 2026 (page copyright only) |
+| AU09-S05 | Strategic Communication capstone (client brief) (not identified) | Programme/course | Unclear | Yes/Unclear/Yes | Mixed | Potentially relevant; evidence incomplete | Current status unclear undated |
 
-**Uncertain / unresolved:** Faculty-level provision was not searched at all because the search budget ran out. Also unresolved: group format of the TD Electives in the 2026 handbook; Shopfront host subjects; whether the Industry Innovation Project is core to BCII. Further departmental instances likely (e.g. engineering/IT capstones, business consulting subjects, design studios).
+**Uncertain / unresolved:** Business School capstones, engineering/IT capstones, Mechanical and Mechatronic Design studio, Strategic Design Studio: not verified beyond snippets; further departmental instances likely. Shopfront host subjects and Industry Innovation Project core status unresolved. SDS and Strategic Communication lack dated delivery evidence. Law and health: no live-client team subject surfaced (one combined search only). 2026 handbook assessment for TD Electives not retrieved.
 
 ### RMIT (AU10, Australia)
 
