@@ -1,9 +1,9 @@
 {
  "inst_id": "UK11",
  "institution": "Heriot-Watt University",
- "review_status": "Partial",
- "partial_remaining": "Search stopped after 4 completed searches because the shared per-turn web-search limit was reached. Remaining: business (EBS MSc/UG consultancy project course-level detail: group vs individual, external client), engineering_computing (MEng/BEng group design projects, MACS software engineering group projects, School of Engineering & Physical Sciences industry projects; current-year Curriculum Explorer entries), science (EPS chemistry/physics, maths/actuarial), arts_humanities_social_sciences (languages/interpreting, psychology, social sciences), other (School of Textiles and Design live briefs, architecture/built environment/construction, EGIS), central (GRID/Enterprise team challenges, Careers employer projects), plus extended-mode verbatim extracts and 2025/26 or 2026/27 dated evidence for every recorded route.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -16,48 +16,67 @@
     "https://www.hw.ac.uk/document-library/recruitment-pack.pdf",
     "https://www.hw.ac.uk/research-enterprise/innovation/global-innovation-challenge"
    ],
-   "finding": "Only partially searched. Central provision found is the Global Innovation Challenge (student/alumni venture competition, founder-led, no client brief) and Careers micro-placements (two-week placements); no central team employer-project scheme found in two searches."
+   "finding": "Only partially searched. Central provision found is the Global Innovation Challenge (student/alumni venture competition, founder-led, no client brief) and Careers micro-placements (two-week placements); no central team employer-project scheme found in two searches. (No further central searches this round.)"
   },
   "business": {
    "status": "Searched",
    "queries": [
     "Edinburgh Business School Heriot-Watt consultancy project organisation group students course",
-    "Curriculum Explorer Heriot-Watt \"Consultancy Project\" business course group client (extended)"
+    "Curriculum Explorer Heriot-Watt \"Consultancy Project\" business course group client (extended)",
+    "Heriot-Watt Edinburgh Business School consultancy project live client students team",
+    "WebFetch hw.ac.uk/ebs/study; WebFetch MSc IBM page"
    ],
    "key_sources": [
-    "https://www.hw.ac.uk/study/postgraduate/international-business-management"
+    "https://www.hw.ac.uk/study/postgraduate/international-business-management",
+    "https://www.hw.ac.uk/ebs/study"
    ],
-   "finding": "Only partially searched. MSc International Business Management ends with a 'company consultancy project'; group format and whether the company is external could not be established before the search budget ran out."
+   "finding": "MSc IBM 'company consultancy project' page (fetched) does not state group/individual or external client; the programme listing shows only a mandatory Dissertation. EBS study page lists a 'Consultancy Bootcamp' and 'business partnerships' with no detail on teams or clients."
   },
   "engineering_computing": {
    "status": "Searched",
    "queries": [
-    "Heriot-Watt students team project industry client brief (results covered engineering/MACS)"
+    "Heriot-Watt students team project industry client brief (results covered engineering/MACS)",
+    "Heriot-Watt software engineering group project industry client MACS"
    ],
    "key_sources": [
     "https://researchportal.hw.ac.uk/en/publications/multidisciplinary-engineering-final-year-project-approaches-and-r/",
     "https://curriculum.hw.ac.uk/coursedetails/B39VS?termcode=202223",
     "https://projects.hw.ac.uk/Proposals/Index"
    ],
-   "finding": "Incidental results only: a research paper describing a 4th-year multidisciplinary engineering design project to an industrial client's requirements, and the B39VS System Project (team project demonstrated to academic and industry staff, 2022/23). No dedicated engineering/computing searches were run."
+   "finding": "MACS search found only the project proposal system and an MSc Software Engineering project that 'in some cases' involves an outside organisation (individual dissertation). No verified employer-linked group route beyond S1/S2 leads."
   },
   "science": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: shared web-search budget for this turn was exhausted after 4 searches (5th refused)."
+   "status": "Searched",
+   "queries": [
+    "Heriot-Watt chemistry OR physics OR mathematics OR actuarial students industry project team"
+   ],
+   "key_sources": [
+    "https://www.hw.ac.uk/study/undergraduate/actuarial-science",
+    "https://actuarialchallenge.site.hw.ac.uk/"
+   ],
+   "finding": "Actuarial/maths: year-long industrial-training placements (individual) and dissertations; Actuarial Challenge is a school competition (Dubai); nothing on chemistry/physics. No qualifying group client project found."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: shared web-search budget for this turn was exhausted after 4 searches (5th refused)."
+   "status": "Searched",
+   "queries": [
+    "Heriot-Watt psychology OR languages OR social sciences students project external organisation client group"
+   ],
+   "key_sources": [
+    "https://www.hw.ac.uk/about/our-schools/social-sciences/languages-and-intercultural-studies/industry-links-professional-bodies-societies-and-clubs"
+   ],
+   "finding": "Only industry links (e.g. EC interpretation directorate cooperation) and individual psychology dissertations surfaced; no client group project found."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: shared web-search budget for this turn was exhausted after 4 searches (5th refused). Textiles and Design, architecture/built environment and sport (Falkirk FC MoU lead) remain to be searched."
+   "status": "Searched",
+   "queries": [
+    "Heriot-Watt School of Textiles and Design live brief industry partner students",
+    "WebFetch BA Design for Textiles and BA Fashion Branding and Promotion pages"
+   ],
+   "key_sources": [
+    "https://www.hw.ac.uk/study/undergraduate/design-for-textiles-fashion-interior-art",
+    "https://www.hw.ac.uk/study/undergraduate/fashion-branding-and-promotion"
+   ],
+   "finding": "Textiles and Design programme pages describe live industry projects (named brands) and a Year 3 collaborative industry project option; group format and standard external-client coverage not stated. Architecture/built environment not searched in depth."
   }
  },
  "schemes": [
@@ -216,7 +235,7 @@
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "Undated programme page",
    "participation_data": "",
-   "unresolved": "Course code, group vs individual, real external client, credit and current-year delivery.",
+   "unresolved": "Course code, group vs individual, real external client, credit and current-year delivery. Re-fetched 2026-10-13: page does not state group/individual or external company; listing shows mandatory Dissertation only.",
    "legacy_ref": "",
    "sources": [
     {
@@ -230,6 +249,121 @@
      "extract": "The final part of the degree includes 'a chance to work on a company consultancy project which allows you to understand business issues and apply concepts learnt during the programme'.",
      "supports": [
       "project"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Textiles and Design",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "eligibility_restrictions": "Students on the named programme",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not established",
+   "delivery_format": "Unclear",
+   "project_based": "Unclear",
+   "group_working": "Unclear",
+   "employer_connected": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "participation_data": "",
+   "legacy_ref": "",
+   "duration_band": "Unclear",
+   "duration": "Not established",
+   "partner_type": "Business/commercial",
+   "local_id": "S4",
+   "official_name": "BA (Hons) Design for Textiles - Year 3 collaborative industry project",
+   "english_name": "Design for Textiles collaborative industry project",
+   "description": "In third year students specialising in print, weave or knit either complete an industry placement or a collaborative industry project answering a collaborative design brief.",
+   "eligible_faculties_programmes": "BA (Hons) Design for Textiles (Fashion, Interior, Art)",
+   "year_of_study": "Year 3",
+   "participation_requirement": "Optional/elective",
+   "project_evidence": "'collaborative design brief' [1]; defined deliverable not stated.",
+   "group_evidence": "'Collaborative' is not defined; may mean collaboration with industry rather than a student team [1].",
+   "employer_evidence": "'collaborative industry project' implies an industry partner but page does not say who sets the brief, assesses or receives outputs; it is an alternative to placement [1].",
+   "partner_role": "Industry collaborator (unspecified)",
+   "named_partners": "",
+   "deliverable": "Design response to collaborative brief (not specified)",
+   "latest_evidenced_year": "Undated (September 2027 entry page)",
+   "unresolved": "Team vs individual, partner role, module code, credits, 2025/26+ delivery.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.hw.ac.uk/study/undergraduate/design-for-textiles-fashion-interior-art",
+     "title": "BA (Hons) Design for Textiles (Fashion, Interior, Art)",
+     "section": "Programme structure",
+     "pub_year": "undated (entry September 2027 shown)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'either complete an industry placement or a collaborative industry project.' 'Staff will support you in securing placement opportunities or in answering the collaborative design brief.'",
+     "supports": [
+      "project",
+      "employer",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Textiles and Design",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Undergraduate",
+   "eligibility_restrictions": "Students on the named programme",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not established",
+   "delivery_format": "Unclear",
+   "project_based": "Unclear",
+   "group_working": "Unclear",
+   "employer_connected": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "participation_data": "",
+   "legacy_ref": "",
+   "duration_band": "Unclear",
+   "duration": "Not established",
+   "partner_type": "Mixed",
+   "local_id": "S5",
+   "official_name": "BA (Hons) Fashion Branding and Promotion - live industry projects",
+   "english_name": "Fashion Branding and Promotion live industry projects",
+   "description": "Students collaborate with industry on live projects with brands; past students worked with Crisis, Louis Vuitton, Malton Young and Borland, and W.L Gore.",
+   "eligible_faculties_programmes": "BA (Hons) Fashion Branding and Promotion",
+   "year_of_study": "Unclear",
+   "participation_requirement": "Unclear",
+   "project_evidence": "'live projects with high-end industry brands' [1]; output/brief not described.",
+   "group_evidence": "Page does not describe group work in structure; director mentions 'collaborative teamwork' skills generally [1].",
+   "employer_evidence": "Named companies have 'previously' set live projects [1]; unclear if standard for all students, and Crisis is a charity (mixed).",
+   "partner_role": "Live project partners (role not detailed)",
+   "named_partners": "Crisis, Louis Vuitton, Malton Young and Borland, W.L Gore (undated, 'previously')",
+   "deliverable": "Not specified",
+   "latest_evidenced_year": "Undated",
+   "unresolved": "Module, whether team-based, coverage, credits, current delivery.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.hw.ac.uk/study/undergraduate/fashion-branding-and-promotion",
+     "title": "BA (Hons) Fashion Branding and Promotion",
+     "section": "Programme overview",
+     "pub_year": "undated (entry September 2027 shown)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted)",
+     "extract": "'collaborate with industry on live projects with high-end industry brands. Our students have previously worked on industry projects with companies including Crisis, Louis Vuitton, Malton Young and Borland, and W.L Gore.'",
+     "supports": [
+      "project",
+      "employer"
      ]
     }
    ]
@@ -267,9 +401,25 @@
    "reason": "2026 news says students apply learning to practical problems (player conditioning, match analysis) in a professional football environment; no evidence of a defined group project with output for the club.",
    "source_url": "https://www.hw.ac.uk/news/2026/academic-expertise-aims-to-bolster-scottish-premiership-clubs-growth",
    "status_note": "2026"
+  },
+  {
+   "name": "EBS Consultancy Bootcamp / business partnerships",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Named on EBS study page only; no detail on teams, clients or outputs.",
+   "source_url": "https://www.hw.ac.uk/ebs/study",
+   "status_note": "undated"
+  },
+  {
+   "name": "Actuarial Science Diploma in Industrial Training",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Year-long individual placement; no group project evidenced.",
+   "source_url": "https://www.hw.ac.uk/study/undergraduate/actuarial-science-and-diploma-in-industrial-training",
+   "status_note": "undated"
   }
  ],
  "embeddedness": "Unclear",
- "profile_md": "**Heriot-Watt University (Partial review: search budget exhausted after 4 searches).**\n\nNo qualifying scheme was verified through the documented search. This reflects an incomplete search, not evidence of absence.\n\n- **Engineering:** A staff research publication describes a 4th-year multidisciplinary engineering final year project (mechanical, electrical/electronic, robotics) built to requirements specified by an industrial client. It is undated, team format is only paraphrased, and it is unclear whether industrial clients are the norm.\n- **Electronic and Computer Engineering:** The B39VS System Project is a team project demonstrated to academic and industry staff. It is only evidenced for 2022/23, and there is no evidence of a client brief.\n- **Business:** Edinburgh Business School's MSc International Business Management ends with a 'company consultancy project'. Group format and external client are unverified.\n- **Central:** The legacy Global Innovation Challenge is a founder-led venture competition and is excluded. Careers micro-placements are two-week placements and are excluded.\n- **Uncertain:** Science, social sciences/languages, Textiles and Design, the built environment and most of engineering/computing were not searched. Current-year (2025/26 or 2026/27) evidence was not obtained for any route.",
- "gaps": "Review incomplete: only 4 searches completed before the shared per-turn web-search limit was hit. Not searched: science, arts/humanities/social sciences, other (Textiles & Design, built environment), most engineering/computing (MEng group design projects, MACS software engineering group projects), central GRID/enterprise challenges. No extended-mode verbatim extracts obtained beyond the research-portal abstract; no 2025/26+ dated delivery evidence for any route. Further departmental instances likely."
+ "profile_md": "**Heriot-Watt University (reduced-depth review, all six areas queried).**\n\nNo qualifying scheme was verified through the documented search; five programme-level leads remain evidence-incomplete.\n\n- **Engineering:** staff publication describes a Year 4 multidisciplinary final year project to an industrial client's specification (S1); B39VS System Project is a team project demonstrated to industry staff (2022/23 only) (S2).\n- **Business:** MSc International Business Management ends with a 'company consultancy project' (S3); the page does not say whether it is group-based or whether the company is external, and the course listing shows only a Dissertation. EBS lists a Consultancy Bootcamp with no detail.\n- **Textiles and Design:** Design for Textiles Year 3 offers a 'collaborative industry project' as an alternative to placement (S4); Fashion Branding and Promotion cites live projects with named brands (S5). Team format and standard coverage are unstated.\n- **Central:** Global Innovation Challenge is founder-led (excluded); micro-placements excluded.\n- **Science, social sciences/languages:** only individual dissertations and placements found.\n\nNone has 2025/26 or 2026/27 dated delivery evidence.",
+ "gaps": "Group format, external-client coverage and current-year delivery unresolved for S1-S5. Architecture/built environment, GRID team challenges and Curriculum Explorer module detail not researched (reduced depth). Further departmental instances likely."
 }

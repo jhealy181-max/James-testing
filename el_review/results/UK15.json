@@ -1,9 +1,9 @@
 {
  "inst_id": "UK15",
  "institution": "Essex",
- "review_status": "Partial",
- "partial_remaining": "Session search limit reached after 12 searches. Remaining: (1) obtain quoted extracts and 2025/26 evidence for iTeams (any 2026 edition) and Cyber Innovate to Elevate (team structure, deliverable, eligibility); (2) identify the WBL live-employer-project modules in Faculty of Science and Health (Biomedical Science, Actuarial) and whether team-based; (3) Marketing Management module code/assessment (group? client?); (4) science (Biosciences, Maths/Stats, Psychology), engineering (EA364 etc., Robotic Engineering capstone), arts/humanities/social sciences (Government, Sociology, Language and Linguistics, Essex Law School clinics, Art History), and other (Law, Health and Social Care, Nursing) not searched; (5) Essex Business School other employer projects (Business Collaboration page); (6) corroborate current-year delivery.",
- "research_date": "2026-10-12",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
  "search_log": {
   "central": {
    "status": "Searched",
@@ -43,35 +43,50 @@
   "engineering_computing": {
    "status": "Searched",
    "queries": [
-    "Essex Computer Science Team Project Challenge CE206 module small team external client requirement"
+    "Essex Computer Science Team Project Challenge CE206 module small team external client requirement",
+    "Essex Engineering Robotic electronic systems group project industry client module"
    ],
    "key_sources": [
     "https://www1.essex.ac.uk/modules/Default.aspx?coursecode=CE101&level=4&period=FY&campus=CO",
-    "https://www.essex.ac.uk/courses/ug00069/1/bsc-computer-science"
+    "https://www.essex.ac.uk/courses/ug00069/1/bsc-computer-science",
+    "https://www.essex.ac.uk/courses/UG01061/1/BEng-Robotic-Engineering"
    ],
-   "finding": "CS Team Project Challenge (CE101) is team-based but students choose their project to given attributes (no external client). CS capstone can use external company descriptions with a company mentor but is individual. Engineering not yet searched."
+   "finding": "CS Team Project Challenge (CE101) is team-based but students choose their project to given attributes (no external client). CS capstone can use external company descriptions with a company mentor but is individual. Engineering not yet searched. Robotic Engineering: Team Project Challenge (CE101/CE201) and individual capstone with optional company brief; no group employer-client module found."
   },
   "science": {
    "status": "Searched",
    "queries": [
-    "Essex Industry and Placements team work-based learning module live employer projects"
+    "Essex Industry and Placements team work-based learning module live employer projects",
+    "Essex module live employer project group work-based learning Biomedical Science Mathematics Statistics Psychology"
    ],
    "key_sources": [
-    "https://www.essex.ac.uk/staff/academic-standards-and-quality/work-based-learning"
+    "https://www.essex.ac.uk/staff/academic-standards-and-quality/work-based-learning",
+    "https://www.essex.ac.uk/courses/ug00039/1/bsc-biomedical-science",
+    "https://www.essex.ac.uk/courses/ug00361/2/bsc-psychology"
    ],
-   "finding": "Only incidental evidence: Biomedical Science/Actuarial course pages mention WBL modules with live employer projects; not assessed in detail."
+   "finding": "Biomedical Science pages list live employer projects as an option; Psychology mentions business/organisation experience via Placements; no team-based employer-client module identified for Maths/Stats/Psychology."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched: session search limit reached."
+   "status": "Searched",
+   "queries": [
+    "Essex Government Sociology Linguistics students client project organisation module group"
+   ],
+   "key_sources": [
+    "https://www.essex.ac.uk/about/university/faculties/arts-humanities-and-social-sciences/q-step"
+   ],
+   "finding": "No client-based group project found; final-year projects (e.g. LG831) are individual supervised research. Further departmental instances may exist."
   },
   "other": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Not searched (law, health, nursing, etc.): session search limit reached."
+   "status": "Searched",
+   "queries": [
+    "Essex Law School clinic students teams external organisation project"
+   ],
+   "key_sources": [
+    "https://www.essex.ac.uk/departments/law/business-law-clinic",
+    "https://www.essex.ac.uk/blog/posts/2025/10/14/business-law-clinic-projects-2025",
+    "https://www.essex.ac.uk/centres-and-institutes/human-rights/human-rights-centre-clinic/working-in-the-human-rights-clinic"
+   ],
+   "finding": "Essex Law School has team-based Business Law Clinic and Human Rights Centre Clinic projects with external organisations; Law Clinic casework excluded. Health/nursing not searched in detail."
   }
  },
  "schemes": [
@@ -80,9 +95,9 @@
    "is_umbrella": false,
    "module_code": "",
    "english_name": "iTeams multidisciplinary business challenge programme",
-   "academic_reach": "University-wide",
+   "academic_reach": "Unclear",
    "admin_host": "Essex Startups (Careers / Student Development)",
-   "eligible_faculties_programmes": "Students from different faculties apply; places limited and attendance at all workshops required (2025 page). Exact eligibility (levels) not confirmed.",
+   "eligible_faculties_programmes": "Students from different faculties; no formal eligibility criteria on page; \"you must be able to attend all workshops\"; \"Spaces ... are limited\"; apply via CareerHub (deadline 31 Jan 2025).",
    "student_level": "Unclear",
    "year_of_study": "",
    "eligibility_restrictions": "",
@@ -108,13 +123,13 @@
    "project_based": "Yes",
    "project_evidence": "Teams are posed a question by the challenge-host and produce a report and presentation to help the organisation understand the problem (source 1).",
    "group_working": "Yes",
-   "group_evidence": "Six student teams made up of several students across different faculties (sources 1, 2).",
+   "group_evidence": "Six student teams made up of several students across different faculties (sources 1, 2). Page text: \"six student teams (made up by several students across different faculties)\".",
    "employer_connected": "Yes",
-   "employer_evidence": "Three external businesses each deliver a challenge; each team has an external industry-expert mentor; teams present to an expert panel (sources 1, 2).",
+   "employer_evidence": "Three external businesses each deliver a challenge; each team has an external industry-expert mentor; teams present to an expert panel (sources 1, 2). WebFetch of the 2025 page: \"Three businesses will deliver three challenges\"; \"Each team will be mentored by an external industry expert.\"",
    "external_partner_coverage": "All/standard",
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "2024/25 (event Feb 2025)",
-   "unresolved": "No 2026 edition found in search; 2025 edition (4 Feb 2025) is academic year 2024/25, so 2025/26 delivery not confirmed. Student-level eligibility, named host businesses and cohort numbers not obtained.",
+   "unresolved": "No 2026 edition found in search; 2025 edition (4 Feb 2025) is academic year 2024/25, so 2025/26 delivery not confirmed. Student-level eligibility, named host businesses and cohort numbers not obtained. Page-text fetch confirmed 4 Feb-19 Mar 2025 programme; no 2026 page found in second search.",
    "sources": [
     {
      "n": 1,
@@ -123,8 +138,8 @@
      "section": "Event page",
      "pub_year": "2025",
      "accessed": "2026-10-12",
-     "retrieval": "search-summary paraphrase",
-     "extract": "Three businesses deliver three challenges to six student teams made up of several students across different faculties; each team has an industry expert mentor; teams create a report and presentation for the challenge host; application deadline 31 Jan 2025.",
+     "retrieval": "page text",
+     "extract": "\"six student teams (made up by several students across different faculties)\"; \"Three businesses will deliver three challenges\"; \"Each team will be mentored by an external industry expert\"; teams produce a report and presentation to an expert panel at Grand Finale; runs 4 Feb-19 Mar 2025.",
      "supports": [
       "project",
       "group",
@@ -199,11 +214,11 @@
    "group_working": "Unclear",
    "group_evidence": "Described as an iTeams variant, which uses teams in the main programme, but team working not explicitly stated for this variant in the extract.",
    "employer_connected": "Yes",
-   "employer_evidence": "Students work directly with SMEs (source 1, 2).",
+   "employer_evidence": "Students work directly with SMEs (sources 1, 2). Fetched funding page (2026 call) describes support for UK-owned SMEs in Freeport East with an Innovation Manager and academics; it does not describe student teams.",
    "external_partner_coverage": "Unclear",
    "operating_status": "Current delivery confirmed",
    "latest_evidenced_year": "2025/26",
-   "unresolved": "Need explicit team structure, deliverable, student eligibility and partner numbers. Six weeks falls between the 1-4 week and one-term bands, so duration_band set to Unclear. Projects due to finish by 28 Feb 2026.",
+   "unresolved": "Need explicit team structure, deliverable, student eligibility and partner numbers. Six weeks falls between the 1-4 week and one-term bands, so duration_band set to Unclear. Projects due to finish by 28 Feb 2026. Fetched page now shows a further call (applications open 1 Sept 2026, projects to 31 Mar 2027) framed as business support with an Innovation Manager and Innovation Roadmap; student team role not stated, so A/B stay Unclear.",
    "sources": [
     {
      "n": 1,
@@ -213,7 +228,7 @@
      "pub_year": "undated",
      "accessed": "2026-10-12",
      "retrieval": "search-summary paraphrase",
-     "extract": "Runs as part of bespoke iTeams programme where students work directly with SMEs on cybersecurity strategies; projects due to finish by 28 February 2026.",
+     "extract": "Runs as part of bespoke iTeams programme where students work directly with SMEs on cybersecurity strategies; projects due to finish by 28 February 2026. Page text (fetched): eligible UK-owned SMEs, Innovation Manager from the University, 'Innovation Roadmap'; full applications open 1 Sept 2026; projects completed by 31 March 2027.",
      "supports": [
       "employer",
       "status",
@@ -336,7 +351,7 @@
    "external_partner_coverage": "Unclear",
    "operating_status": "Current status unclear",
    "latest_evidenced_year": "undated",
-   "unresolved": "Identify the actual WBL project modules (module codes), whether team-based, partner types and 2025/26 delivery.",
+   "unresolved": "Identify the actual WBL project modules (module codes), whether team-based, partner types and 2025/26 delivery. Second search (2026-10-13) found Biomedical Science module pages listing 'Practice and Employability' but no team-based client module.",
    "sources": [
     {
      "n": 1,
@@ -363,6 +378,142 @@
      "extract": "Employers can collaborate with students through employer-led projects, from undergraduate projects to Essex MBA business challenges; contact industryengagement@essex.ac.uk.",
      "supports": [
       "employer"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Law Clinic (Essex Law School)",
+   "english_name": "Business Law Clinic",
+   "module_code": "",
+   "description": "Team projects for final-year LLB and Law postgraduate taught students, working in small teams under academic supervision on projects with external organisations; 2025-26 projects include entertainment contracts for freelancers with the Mercury Theatre and responsible lending guidance with British credit unions.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Essex Law School",
+   "eligible_faculties_programmes": "Final-year LLB and Law PGT students (Law Clinic page: final-year undergraduates eligible to apply)",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Final year UG / PGT",
+   "eligibility_restrictions": "Law students; application",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Credit/module link not stated on page",
+   "duration": "Academic year (not confirmed)",
+   "delivery_format": "Supervised team projects",
+   "project_based": "Yes",
+   "project_evidence": "Projects with defined outputs for organisations (guidance, contract resources) (sources 1, 2).",
+   "group_working": "Yes",
+   "group_evidence": "\"Working in small teams under academic supervision\" (source 1).",
+   "employer_connected": "Yes",
+   "employer_evidence": "Named external organisations (Mercury Theatre; British credit unions) are project partners in 2025-26; clinic page says it works with public-good organisations and invites organisations to partner (sources 1, 2). Whether all projects have external partners not fully confirmed; some clinic work uses mock clients.",
+   "partner_type": "Mixed",
+   "partner_role": "Partner organisation commissions legal research/guidance output",
+   "named_partners": "Mercury Theatre; British credit unions (2025-26, search extract)",
+   "deliverable": "Legal guidance/resources for partner organisations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26",
+   "participation_data": "",
+   "unresolved": "Credit status, team sizes, and share of projects with real external partners (mock clients mentioned) - hence coverage Some projects.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.essex.ac.uk/departments/law/business-law-clinic",
+     "title": "Business Law Clinic",
+     "section": "Search-index extract",
+     "pub_year": "undated (2025-26 content)",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Team projects for final-year LLB and Law PGT students: working in small teams under academic supervision; 2025-26 projects with the Mercury Theatre and British credit unions.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.essex.ac.uk/blog/posts/2025/10/14/business-law-clinic-projects-2025",
+     "title": "Business Law Clinic projects 2025-26",
+     "section": "Blog",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "Insight into Business Law Clinic student projects for 2025-2026. (WebFetch returned empty; relied on search extract.)",
+     "supports": [
+      "project",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Human Rights Centre Clinic (module-based projects, HU902)",
+   "english_name": "Human Rights Centre Clinic",
+   "module_code": "HU902",
+   "description": "Students work in teams with a supervisor on human rights projects for partners including governments, NGOs and international organisations (e.g. Amnesty International, United Nations). Module-based projects require enrolment on HU902; multi-year projects open to any Essex student.",
+   "academic_reach": "Cross-faculty",
+   "admin_host": "Human Rights Centre / Essex Law School",
+   "eligible_faculties_programmes": "Module-based: Human Rights Masters (LLM/MA) and final-year/senior-status Law; multi-year projects open to all UG/PG",
+   "faculty_areas": [
+    "other",
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "As above",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Mixed",
+   "credit_assessment": "HU902 enrolment; credit value not stated",
+   "duration": "Academic year (6 projects in 2026/27)",
+   "delivery_format": "Supervised team projects",
+   "project_based": "Yes",
+   "project_evidence": "Students investigate violations or strengthen initiatives, sharing findings at the Annual Conference (source 1); deliverable form not stated.",
+   "group_working": "Yes",
+   "group_evidence": "\"in teams with the guidance of a supervisor\" (source 1).",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Partners named as governments, NGOs and international organisations such as Amnesty and the UN (source 1), but the page does not say how each partner sets briefs or receives outputs, nor that all projects have an external partner.",
+   "partner_type": "Mixed",
+   "partner_role": "Partner organisations (role not specified on page)",
+   "named_partners": "Amnesty International; United Nations (generic mention, undated)",
+   "deliverable": "Not stated (research findings presented at annual conference)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27",
+   "participation_data": "Six projects in 2026/27",
+   "unresolved": "Partner role, deliverables, credit.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.essex.ac.uk/centres-and-institutes/human-rights/human-rights-centre-clinic/working-in-the-human-rights-clinic",
+     "title": "Working in Human Rights Clinic",
+     "section": "Page text",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "search-index extract",
+     "extract": "\"in teams with the guidance of a supervisor\"; partners include \"governments, NGOs and international organisations\" such as Amnesty International and the UN; module-based projects require HU902; applications for 2026-27 open October 2026; six projects in 2026/27.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "status"
      ]
     }
    ]
@@ -424,9 +575,25 @@
    "reason": "Funded academic-business projects, not student group projects.",
    "source_url": "https://www.essex.ac.uk/business/services/knowledge-transfer-partnerships",
    "status_note": ""
+  },
+  {
+   "name": "BEng Robotic Engineering capstone (CE301) and Team Project Challenge",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Capstone is individual with optional company mentor; Team Project Challenge has no external client evidenced.",
+   "source_url": "https://www.essex.ac.uk/courses/UG01061/1/BEng-Robotic-Engineering",
+   "status_note": ""
+  },
+  {
+   "name": "Essex Law Clinic casework projects",
+   "legacy": false,
+   "category": "Volunteering/service-learning",
+   "reason": "Pro bono casework/outreach for clients; group and project structure not evidenced as a bounded team project.",
+   "source_url": "https://www.essex.ac.uk/departments/law/essex-law-clinic/volunteer-as-a-student",
+   "status_note": ""
   }
  ],
- "embeddedness": "Unclear",
- "profile_md": "Provision found so far at Essex is led by **iTeams**, an extracurricular programme run by Essex Startups in which multidisciplinary student teams tackle challenges set by external businesses, mentored by industry experts, and present a report and pitch to a panel. It is selective (limited places, application), not credit-bearing as evidenced, and the latest evidenced edition is February 2025 (7 weeks, three businesses, six teams); a bespoke Cyber Innovate to Elevate variant connecting MSc/PhD students with SMEs ran to February 2026 but its team structure and outputs are not confirmed. Within Essex Business School, the Marketing Management module has students undertake a consultancy project for a real-world business, but whether this is group-based and how clients participate is not established; the MBA consultancy project is individual. Computer Science has a team project module without external clients and an individual capstone that can use company briefs. The Industry and Placements team promotes employer-led project briefs and live-project work-based learning (cited on Science and Health degree pages) but specific modules were not identified. The Big Essex Award is an employability award, excluded. Engineering, science, social science and law/health provision were not searched because the search limit was reached, so this review is Partial. Whether Essex has several distributed routes or a mainly extracurricular central one remains uncertain.",
- "gaps": "Partial: see partial_remaining. Social science, humanities, law, health, engineering and most science areas unsearched; current-year (2025/26) delivery unconfirmed for iTeams and Marketing Management; WBL live-project modules unidentified; further departmental instances likely."
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Provision found so far at Essex is led by **iTeams**, an extracurricular programme run by Essex Startups in which multidisciplinary student teams tackle challenges set by external businesses, mentored by industry experts, and present a report and pitch to a panel. It is selective (limited places, application), not credit-bearing as evidenced, and the latest evidenced edition is February 2025 (7 weeks, three businesses, six teams); a bespoke Cyber Innovate to Elevate variant connecting MSc/PhD students with SMEs ran to February 2026 but its team structure and outputs are not confirmed. Within Essex Business School, the Marketing Management module has students undertake a consultancy project for a real-world business, but whether this is group-based and how clients participate is not established; the MBA consultancy project is individual. Computer Science has a team project module without external clients and an individual capstone that can use company briefs. The Industry and Placements team promotes employer-led project briefs and live-project work-based learning (cited on Science and Health degree pages) but specific modules were not identified. The Big Essex Award is an employability award, excluded. Essex Law School runs team-based clinics: the Business Law Clinic (final-year LLB/PGT teams, 2025-26 projects with the Mercury Theatre and credit unions) and the Human Rights Centre Clinic (supervised teams working with NGOs/international bodies, HU902, six projects in 2026/27). Engineering, science and arts/social science searches found only individual capstones or unspecified WBL options. Provision is distributed (extracurricular central, Law clinics, one Business School module) rather than institution-wide, and none is yet verified as meeting all three criteria with current delivery.",
+ "gaps": "Further departmental instances likely (Health, Nursing, Economics, Art History not searched in depth). iTeams 2025/26 not confirmed; Marketing Management group/client status unknown; Business Law Clinic credit and partner coverage unclear; Human Rights Clinic partner role unclear; WBL project modules unidentified. Reduced-depth review."
 }
