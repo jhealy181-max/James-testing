@@ -1,0 +1,308 @@
+{
+ "inst_id": "UK26",
+ "institution": "Portsmouth",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "University of Portsmouth student consultancy live client project module employers",
+    "WebFetch: port.ac.uk work-experience-opportunities (central Work Experience for Students page)"
+   ],
+   "key_sources": [
+    "https://www.port.ac.uk/student-life/careers-and-employment/work-experience-opportunities",
+    "https://www.port.ac.uk/business-consultancy-projects-bcp"
+   ],
+   "finding": "No university-wide employer project scheme found. The central work-experience page lists faculty/course routes only (Business Consultancy Project, Architecture Project Office, Accounting Clinic, Marketing Consultancy Project). Student Startup (legacy row) is an enterprise support programme and is excluded."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Portsmouth Business Consultancy Project module 2025/26 20 credits final year team client",
+    "WebFetch: business-consultancy-projects-bcp; student-consultancy; mba-consultancy-projects; offer-a-business-consultancy-project; BA Business and Management course page"
+   ],
+   "key_sources": [
+    "https://www.port.ac.uk/business-consultancy-projects-bcp",
+    "https://www.port.ac.uk/study/courses/undergraduate/ba-hons-business-and-management",
+    "https://www.port.ac.uk/business/business-connect/business-advice/mba-consultancy-projects"
+   ],
+   "finding": "Business Consultancy Project (20-credit UG module, teams of 3-4, local SME/public/third-sector clients, 10 weeks) and a separate Global MBA consultancy route both qualify on A/B/C. 2026 cohort referenced on the client application page."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Portsmouth computing engineering group project industry client module sponsor capstone",
+    "WebFetch: BSc/MEng Computer Science course page"
+   ],
+   "key_sources": [
+    "https://www.port.ac.uk/study/courses/undergraduate/bsc-meng-computer-science"
+   ],
+   "finding": "Computer Science has a core 30-credit Industrial Team Project with an external client and an optional 20-credit Complex Problem Solving with an industry partner brief. The page is for September 2027 entry; current-year delivery not separately evidenced. No engineering-specific client capstone verified."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Portsmouth science biology pharmacy environmental students project with external organisation team client module"
+   ],
+   "key_sources": [
+    "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-environmental-science",
+    "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-pharmacology"
+   ],
+   "finding": "Only individual research projects/placements found (Pharmacology research-based work experience; Environmental Science research project). No group employer project verified in the sciences."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Portsmouth Creative and Cultural Industries live client project students team brief module",
+    "WebFetch: BA/BSc Creative Computing course page",
+    "Portsmouth law clinic OR criminology OR social sciences students team project community partner module"
+   ],
+   "key_sources": [
+    "https://www.port.ac.uk/study/courses/undergraduate/ba-bsc-hons-creative-computing",
+    "https://www.port.ac.uk/study/courses/undergraduate/llb-hons-law-with-criminology"
+   ],
+   "finding": "Creative Computing advertises real clients on live briefs but no module is tied to it; Law in Action is a team module presenting to community organisations (client role unclear). Criminology/Sociology routes are Unclear or individual."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Law (Law in Action / Law in the Community / Legal Clinic) and architecture (Architecture Project Office) covered by the two creative and law/criminology searches above"
+   ],
+   "key_sources": [
+    "http://www2.port.ac.uk/faculty-of-creative-and-cultural-industries/employability/information-for-students/client-projects/the-project-office/",
+    "https://www.port.ac.uk/study/courses/undergraduate/llb-hons-law-with-criminology"
+   ],
+   "finding": "Architecture Project Office is an optional extracurricular student consultancy (page old; fetch timed out, search summary only). Law clinics/placements are casework or placement, not group projects. Health faculties not separately searched (reduced depth)."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Business Consultancy Project (BCP)",
+   "english_name": "Business Consultancy Project (undergraduate)",
+   "module_code": "",
+   "description": "Final-year undergraduate teams of 3-4 bid for and carry out a c.10-week consultancy project on a live challenge for a local small/medium private, public or third-sector organisation, supported by an academic and weekly consultancy seminars, ending in a consultancy report and a presentation/Q&A to the client.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "Portsmouth Business School (business consultancy)",
+   "eligible_faculties_programmes": "Business courses; optional on BA Business and Management, core on BA Entrepreneurship and Business (search summary)",
+   "faculty_areas": ["business"],
+   "student_level": "Undergraduate",
+   "year_of_study": "Final year",
+   "eligibility_restrictions": "Final-year undergraduate business students; other courses not evidenced",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; coursework 60% group work, 40% individual assessment",
+   "duration": "c.10 weeks (Sept/Oct-December)",
+   "delivery_format": "Team consultancy project with weekly seminars",
+   "project_based": "Yes",
+   "project_evidence": "Live challenge inside the client organisation; consultancy report with recommendations [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'You'll work in a consultancy team of about four students'; 60% of coursework is group work [2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local SMEs in the private, public or third sector set the challenge, receive the report and a presentation with Q&A; project is free to clients [1][3].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: supplies challenge, receives report and presentation",
+   "named_partners": "Santander, Inovolt, the Instant Kitchen Company, Solent Recovery College, Express FM (past clients, BA Business and Management page, Sept 2027 entry page)",
+   "deliverable": "Consultancy report with recommendations plus presentation and Q&A",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026",
+   "participation_data": "'Hundreds of clients to date' (cumulative, undated) [1].",
+   "unresolved": "Module code not found; which courses offer it beyond the two named; confirmation relies on the 'applications for 2026 projects currently closed' client page and a (c) 2026 footer.",
+   "legacy_ref": "Business Consultancy Projects",
+   "sources": [
+    {"n": 1, "url": "https://www.port.ac.uk/business-consultancy-projects-bcp", "title": "Business Consultancy Projects", "section": "Main page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "Final-year undergraduate students; 'A 10-week consultancy project'; 'Local small and medium organisations in the private, public or third sector'; 'consultancy report with recommendations you can act on'; 'a presentation and Q&A with the students and a copy of the slides'; 'Each team is supported by an experienced academic colleague'; 'Students receive course credits rather than payment'; 'Long-established - hundreds of clients to date'.", "supports": ["project", "employer", "reach", "eligibility", "duration"]},
+    {"n": 2, "url": "https://www.port.ac.uk/study/courses/undergraduate/ba-hons-business-and-management", "title": "BA (Hons) Business and Management", "section": "Modules / Careers", "pub_year": "Sept 2027 entry", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'Business Consultancy Project - 20 credits' (optional); 'You'll work in a consultancy team of about four students'; 'The coursework is a mix of 60% group work and 40% individual assessment'; past clients Santander, Inovolt, the Instant Kitchen Company, Solent Recovery College, Express FM.", "supports": ["group", "credit", "participation", "employer"]},
+    {"n": 3, "url": "https://www.port.ac.uk/collaborate/business/work-with-our-students-and-graduates/business-consultancy/offer-a-business-consultancy-project", "title": "Apply for a Business Consultancy Project", "section": "Client application", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'Applications for 2026 projects are currently closed.'", "supports": ["status"]},
+    {"n": 4, "url": "https://www.port.ac.uk/student-life/careers-and-employment/work-experience-opportunities", "title": "Work Experience for Students", "section": "Business Consultancy Project", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'You'll work on a real brief in teams of 3-4 to bid for a business project from local organisations'.", "supports": ["group", "project"]}
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MBA Consultancy Projects",
+   "english_name": "Global MBA consultancy projects",
+   "module_code": "",
+   "description": "Teams of three or four Global MBA students deliver a 10-week consultancy project (June-September) for a local SME in the private, public or third sector, with kick-off meeting, regular check-ins and a final presentation, producing a written report with recommendations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Portsmouth Business School",
+   "eligible_faculties_programmes": "Global MBA",
+   "faculty_areas": ["business"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Global MBA students",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course credits (no figure); module not named",
+   "duration": "10 weeks (June to September)",
+   "delivery_format": "Team consultancy project",
+   "project_based": "Yes",
+   "project_evidence": "'a professional presentation and written report containing evidence-based insights and recommendations' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a team of three or four postgraduate students from our Global MBA programme' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Client organisation shapes the brief, attends kick-off, check-ins and final presentation and receives the report [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Client: brief, check-ins, receives report/presentation",
+   "named_partners": "",
+   "deliverable": "Written consultancy report with recommendations and presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (page footer only)",
+   "participation_data": "",
+   "unresolved": "No dated cohort or enrolment; whether compulsory on the MBA; module code and credits.",
+   "legacy_ref": "Business Consultancy Projects (separate MBA route)",
+   "sources": [
+    {"n": 1, "url": "https://www.port.ac.uk/business/business-connect/business-advice/mba-consultancy-projects", "title": "MBA consultancy projects", "section": "Main page", "pub_year": "undated (2026 footer)", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'a team of three or four postgraduate students from our Global MBA programme'; 'A 10-week consultancy project delivered by our postgraduate MBA students'; '10 Week Projects (June to September)'; 'A written consultancy report with recommendations, presented to you by the team at the end of the project.'", "supports": ["project", "group", "employer", "duration"]}
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Industrial Team Project (Computer Science)",
+   "english_name": "Industrial Team Project",
+   "module_code": "",
+   "description": "Core 30-credit group project on BSc/MEng Computer Science in which students work closely with an external client to build an industry-standard computing solution, finishing with a polished application and client presentations.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing",
+   "eligible_faculties_programmes": "BSc (Hons)/MEng Computer Science",
+   "faculty_areas": ["engineering_computing"],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "30 credits (core); assessment method not stated",
+   "duration": "Not stated",
+   "delivery_format": "Group project with agile framework (search summary)",
+   "project_based": "Yes",
+   "project_evidence": "'Deliver a polished application along with client presentations' [1].",
+   "group_working": "Yes",
+   "group_evidence": "Described as an 'immersive group project' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Work closely with an external client to build an industry-standard computing solution'; client presentations [1].",
+   "partner_type": "Unclear",
+   "partner_role": "External client; receives presentations",
+   "named_partners": "",
+   "deliverable": "Application plus client presentations",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Sept 2027 entry course page",
+   "participation_data": "",
+   "unresolved": "Year of study, duration, client types and examples; page is for 2027 entry so 2025/26-2026/27 delivery not corroborated.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.port.ac.uk/study/courses/undergraduate/bsc-meng-computer-science", "title": "BSc (Hons), MEng Computer Science", "section": "Modules", "pub_year": "Sept 2027 entry", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'Industrial Team Project - 30 credits' (core); 'Work closely with an external client to build an industry-standard computing solution'; 'immersive group project'; 'Deliver a polished application along with client presentations'.", "supports": ["project", "group", "employer", "credit", "participation"]}
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Complex Problem Solving (Computer Science option)",
+   "english_name": "Complex Problem Solving",
+   "module_code": "",
+   "description": "Optional 20-credit module in which student teams tackle an industry partner's real and complex brief, engage with the client, and finish with a Minimum Viable Product proposed to the client.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Computing",
+   "eligible_faculties_programmes": "BSc/MEng Computer Science (also listed under Software Engineering per search summary)",
+   "faculty_areas": ["engineering_computing"],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits (optional); assessment method not stated",
+   "duration": "Not stated",
+   "delivery_format": "Team client brief",
+   "project_based": "Yes",
+   "project_evidence": "Team ends with an MVP 'to propose to your client' [1].",
+   "group_working": "Yes",
+   "group_evidence": "'You'll work in a team to analyse the issues, engage closely with the client' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'tackling an industry partner's real and complex brief'; students engage closely with the client and propose the MVP to them [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Industry partner sets brief; receives MVP proposal",
+   "named_partners": "",
+   "deliverable": "Minimum Viable Product proposal to client",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Sept 2027 entry course page",
+   "participation_data": "",
+   "unresolved": "Year of study, duration, assessment, named partners; no dated 2025/26-2026/27 corroboration.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.port.ac.uk/study/courses/undergraduate/bsc-meng-computer-science", "title": "BSc (Hons), MEng Computer Science", "section": "Modules", "pub_year": "Sept 2027 entry", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'Complex Problem Solving - 20 credits' (optional); 'tackling an industry partner's real and complex brief'; 'You'll work in a team to analyse the issues, engage closely with the client'; 'a Minimum Viable Product (MVP) to propose to your client'.", "supports": ["project", "group", "employer", "credit", "participation"]}
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Law in Action",
+   "english_name": "Law in Action",
+   "module_code": "",
+   "description": "Optional 20-credit LLB module (seen on Law with Criminology) in which student teams research, plan and deliver a presentation on a legal issue to a designated organisation such as a charity, school/college or community organisation.",
+   "academic_reach": "Programme/course",
+   "admin_host": "School of Law",
+   "eligible_faculties_programmes": "LLB Law with Criminology (other law courses not checked)",
+   "faculty_areas": ["other"],
+   "student_level": "Undergraduate",
+   "year_of_study": "Not stated",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "20 credits; assessment not specified",
+   "duration": "Not stated",
+   "delivery_format": "Team research and presentation",
+   "project_based": "Unclear",
+   "project_evidence": "Output is a legal-information presentation; whether the organisation sets a brief is not stated [1].",
+   "group_working": "Yes",
+   "group_evidence": "'You will work in teams to research, plan, and deliver a presentation on a legal issue' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Presentation is to a 'designated organisation (such as; charities, schools/colleges, and community organisations)'; no evidence the organisation sets the brief or whether delivery is live [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Audience organisation; role beyond receiving the presentation unclear",
+   "named_partners": "",
+   "deliverable": "Legal information presentation",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "Sept 2027 entry course page",
+   "participation_data": "",
+   "unresolved": "Whether organisations commission/shape the work; duration; assessment; dated delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.port.ac.uk/study/courses/undergraduate/llb-hons-law-with-criminology", "title": "LLB (Hons) Law with Criminology", "section": "Modules", "pub_year": "Sept 2027 entry", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary)", "extract": "'Law in Action' (20 credits, optional): 'You will work in teams to research, plan, and deliver a presentation on a legal issue' to a 'designated organisation (such as; charities, schools/colleges, and community organisations)'.", "supports": ["group", "employer", "credit", "participation"]}
+   ]
+  }
+ ],
+ "exclusions": [
+  {"name": "Student Startup / Entrepreneurial Collective", "legacy": true, "category": "Entrepreneurship/incubator", "reason": "Enterprise support and mentoring for founders; no employer-set group project evidenced (work-experience page: 'we'll support you to set up your own business').", "source_url": "https://myport.port.ac.uk/my-course/careers-support/student-startup-support", "status_note": "Undated"},
+  {"name": "Architecture Project Office", "legacy": false, "category": "Evidence gap", "reason": "Optional extracurricular student-led consultancy open to UG and PG with charity, local authority and private clients (search summary, work-experience page); the dedicated page is an old www2 page and the fetch timed out, so group structure and current delivery are unverified.", "source_url": "http://www2.port.ac.uk/faculty-of-creative-and-cultural-industries/employability/information-for-students/client-projects/the-project-office/", "status_note": "Likely qualifying lead; status unclear"},
+  {"name": "Creative Computing live briefs (Creative Computing Studio)", "legacy": false, "category": "Evidence gap", "reason": "Course highlight mentions 'working with real clients on live briefs' and a core group project, but no module is tied to client work and the client role is not described.", "source_url": "https://www.port.ac.uk/study/courses/undergraduate/ba-bsc-hons-creative-computing", "status_note": "Sept 2027 entry page"},
+  {"name": "Marketing Consultancy Project (BA Marketing)", "legacy": false, "category": "Evidence gap", "reason": "Named on the work-experience page as an optional module; no team, client or credit detail retrieved.", "source_url": "https://www.port.ac.uk/student-life/careers-and-employment/work-experience-opportunities", "status_note": "Lead only"},
+  {"name": "Accounting Clinic", "legacy": false, "category": "Evidence gap", "reason": "Second/final-year accounting and finance students work in the clinic; client type, team structure and output not retrieved.", "source_url": "https://www.port.ac.uk/student-life/careers-and-employment/work-experience-opportunities", "status_note": "Lead only"},
+  {"name": "Law in the Community; Legal Advice Clinic; Cybercrime Clinic", "legacy": false, "category": "Placement/internship", "reason": "Weekly placements with external partners or casework with members of the public; no group project output evidenced.", "source_url": "https://www.port.ac.uk/study/courses/undergraduate/llb-hons-law-with-criminology", "status_note": ""},
+  {"name": "Sociology Major Project; Doing Sociological Research", "legacy": false, "category": "Evidence gap", "reason": "Search summary only: Major Project works with external partners but appears individual; Doing Sociological Research is a group class project without external organisation.", "source_url": "https://port.ac.uk/study/courses/bsc-hons-sociology-with-criminology", "status_note": "Not verified"},
+  {"name": "Pharmacology research-based work experience; Environmental Science research project", "legacy": false, "category": "Near-miss: not group", "reason": "Individual project in industry/clinical setting or independent research project.", "source_url": "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-pharmacology", "status_note": ""}
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Portsmouth has a clear, long-established flagship route in the Business School: the 20-credit Business Consultancy Project, where final-year undergraduate teams of 3-4 spend about ten weeks on a live challenge for a local SME or public/third-sector organisation, producing a consultancy report and a presentation with Q&A to the client. Past clients named on the course page include Santander, Inovolt and Express FM, and the client page says applications for 2026 projects had closed, which supports current delivery. A separate Global MBA route runs 10-week team projects (June-September) for local SMEs, but its cohort dates and module are not evidenced.\n\nIn computing, Computer Science lists a core 30-credit Industrial Team Project with an external client and an optional 20-credit Complex Problem Solving module using an industry partner's brief, though the pages are for September 2027 entry and give no duration, assessment or named partners. Law in Action has teams presenting to community organisations but the client role is unclear. Leads for the Architecture Project Office (extracurricular), Accounting Clinic, Marketing Consultancy Project and Creative Computing live briefs were not verified. No university-wide employer project scheme was found; the legacy Student Startup row is enterprise support and is excluded. Provision is distributed across schools, mainly business and computing, and mostly optional except in specified degrees. Sciences showed only individual projects.",
+ "gaps": "Business Consultancy Project module code, courses offering it and enrolment numbers not found. MBA route and the two Computer Science modules lack dated 2025/26-2026/27 corroboration (course pages show September 2027 entry). Architecture Project Office, Accounting Clinic, Marketing Consultancy Project and Creative Computing live-brief modules unverified. Health faculties (nursing, dentistry etc.) not searched in reduced-depth mode. Further departmental instances likely."
+}
