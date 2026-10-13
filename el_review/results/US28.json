@@ -1,0 +1,600 @@
+{
+ "inst_id": "US28",
+ "institution": "Boston University",
+ "review_status": "Partial",
+ "partial_remaining": "Arts/humanities, other, deeper science",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Boston University Cross-College Challenge course community partner team 2026",
+    "fetched bu.edu/xcc, /xcc/about, /course-offerings",
+    "MetroBridge fetch"
+   ],
+   "key_sources": [
+    "https://www.bu.edu/xcc/",
+    "https://www.bu.edu/xcc/about/",
+    "https://www.bu.edu/ioc/metrobridge/experiential-learning/"
+   ],
+   "finding": "XCC is a university-wide (junior/senior) team elective with community partners but mixed internal/external partners; MetroBridge connects classes to city governments but team/deliverable details missing."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Questrom capstone live client project team Experiential Learning",
+    "Questrom MS Business Analytics capstone company sponsored",
+    "Questrom Innovation Project XP 298 live client"
+   ],
+   "key_sources": [
+    "https://www.bu.edu/questrom/undergraduate-program/career-development/experiential-learning/",
+    "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/hands-on-learning/"
+   ],
+   "finding": "Core Innovation Project (live client, teams) and sponsored MSBA capstone; both lack dated current-year evidence."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "College of Engineering senior design project industry sponsor team capstone",
+    "Machine Learning X-Lab Practicum partnering organizations"
+   ],
+   "key_sources": [
+    "https://www.bu.edu/eng/academics/departments-and-divisions/mechanical-engineering/senior-design/senior-design-sponsorship/",
+    "https://www.bu.edu/academics/cds/courses/cds-ds-549/"
+   ],
+   "finding": "Year-long senior design with sponsors (undated; sponsorship optional per summary) and DS549 practicum with internal and external partners."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "CAS science biology chemistry physics student team project external partner company capstone"
+   ],
+   "key_sources": [],
+   "finding": "No natural-science team project with external partner found in one query; results were computing/engineering; further CAS departmental searching not done."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "College of Communication OR Law OR Wheelock OR Fine Arts students team project for client organization course",
+    "XCC / Justice Media co-Lab in course offerings"
+   ],
+   "key_sources": [
+    "https://www.bu.edu/prlab/",
+    "https://www.bu.edu/xcc/courses-projects/course-offerings/"
+   ],
+   "finding": "PRLab (COM) unverified; Justice Media co-Lab names media partners but structure not evidenced; CAS humanities/social-science projects not found."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "public health Practicum OR Integrated Learning Experience community organization team project",
+    "law/ communication clinics (same query as arts)"
+   ],
+   "key_sources": [
+    "https://www.bu.edu/sph/education/degrees-and-programs/master-of-public-health-programs/professional-development-and-practical-experience/"
+   ],
+   "finding": "SPH practicum/ILE individual; Law clinics are casework (search summaries only)."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Cross-College Challenge (XCC)",
+   "english_name": "Cross-College Challenge (XCC)",
+   "module_code": "HUB XC 4xx (e.g. XC421, XC422, XC436, XC438)",
+   "description": "BU Hub project-based 4-credit elective, each course co-led by two faculty from different disciplines; interdisciplinary teams of 4-6 undergraduates work with a community partner (faculty, staff, alumni, entrepreneur or nonprofit) on a real-world problem, producing a tangible deliverable (film, podcast, website, work of art etc.) shown at the semi-annual Experiential Learning Expo.",
+   "academic_reach": "University-wide",
+   "admin_host": "BU Hub (Cross-College Challenge)",
+   "eligible_faculties_programmes": "Open to juniors and seniors from all BU undergraduate schools and colleges",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Junior/Senior",
+   "eligibility_restrictions": "Juniors and seniors only; course-specific seat limits; some BU Spark! XC courses require an application",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "4-credit elective; fulfils BU Hub requirements",
+   "duration": "One semester",
+   "delivery_format": "In-person interdisciplinary team course",
+   "project_based": "Yes",
+   "project_evidence": "Teams produce 'a tangible deliverable (film, podcast, website, work of art, etc.)' [2].",
+   "group_working": "Yes",
+   "group_evidence": "'interdisciplinary team of undergraduate students'; page lists 'Students per project team' as Four and Six [1][2].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "A community partner is a standard element of every course and teams present to the partner [2], but partners may be 'faculty, staff, alumni, entrepreneurs, or nonprofits' [2] and listed spring 2026/2027 examples include external organisations (Lawyers for Civil Rights, WalkMassachusetts, Reacting to the Past consortium) alongside internal BU units (Innovate@BU, BU Sustainability TDM) [3][4]. External organisations are therefore not documented as the standard source; per ruling on mixed internal/external clients, C = Unclear.",
+   "partner_type": "Mixed",
+   "partner_role": "Community partner defines challenge, collaborates with team, receives final work; share of internal BU partners not quantified",
+   "named_partners": "Spring 2026: Lawyers for Civil Rights, WalkMassachusetts, Reacting to the Past consortium (search summary); Spring 2027 listing: WalkMassachusetts, BU Sustainability TDM (internal), Innovate@BU (internal) [3][4]",
+   "deliverable": "Tangible deliverable (podcast, film, website, game etc.) plus Expo showcase",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Spring 2026 courses; Spring 2027 offerings page; (c) 2026",
+   "participation_data": "",
+   "unresolved": "Fall 2026 offerings not confirmed; proportion of external vs internal partners unpublished.",
+   "legacy_ref": "Cross-College Challenge (XCC)",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bu.edu/xcc/",
+     "title": "Cross-College Challenge",
+     "section": "Home",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "'open to juniors and seniors from all of BU's undergraduate schools and colleges'; '4-credit elective course'; 'interdisciplinary team of undergraduate students'; 'Students per project team' Four / Six; (c) 2026 Boston University.",
+     "supports": [
+      "reach",
+      "eligibility",
+      "group",
+      "credit",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bu.edu/xcc/about/",
+     "title": "What is the Cross-College Challenge?",
+     "section": "About",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "'XCC classes are open to students from all of BU's undergraduate schools and colleges'; partners are 'faculty, staff, alumni, entrepreneurs, or nonprofits'; teams present 'not only to their community partner but to the public at the semi-annual Experiential Learning Expo'; 'a tangible deliverable (film, podcast, website, work of art, etc.)'.",
+     "supports": [
+      "project",
+      "employer",
+      "reach",
+      "eligibility"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.bu.edu/xcc/courses-projects/course-offerings/",
+     "title": "Course Offerings",
+     "section": "Spring 2027 courses",
+     "pub_year": "2027 (Spring 2027 header)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "XC422 partner 'WalkMassachusetts'; XC436 partner 'BU Sustainability's Division of Transportation Demand Management and Planning'; XC438 example partner 'Innovate@BU'; XC421 'will work with community partners' to create podcasts.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.bu.edu/academics/hub/courses/cross-college-challenge/",
+     "title": "Cross-College Challenge (XCC) - Academics",
+     "section": "Hub course page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Spring 2026 courses: XC421 with Lawyers for Civil Rights (podcast series); XC411 role-playing game for Reacting to the Past consortium; XC422 with WalkMassachusetts (search-result summary; page not opened).",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MetroBridge (Initiative on Cities)",
+   "english_name": "MetroBridge",
+   "module_code": "",
+   "description": "Initiative on Cities programme that translates local-government needs into course projects for undergraduate and graduate classes across BU; students work directly with local government leaders through the semester.",
+   "academic_reach": "University-wide",
+   "admin_host": "Initiative on Cities (IOC)",
+   "eligible_faculties_programmes": "Participating undergraduate and graduate classes taught by BU faculty (courses not named on page)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Only students in participating courses; no list of courses found",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Course assignment (varies by course)",
+   "duration": "One semester (per page wording)",
+   "delivery_format": "Course-embedded city projects",
+   "project_based": "Unclear",
+   "project_evidence": "Page says city needs become 'course projects' but gives no deliverable [1].",
+   "group_working": "Unclear",
+   "group_evidence": "No team structure described [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Local governments supply priorities/projects and students 'work directly with local government leaders throughout the semester' [1].",
+   "partner_type": "Public sector",
+   "partner_role": "City governments set project needs and work with students",
+   "named_partners": "None named on page",
+   "deliverable": "Not specified",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated",
+   "participation_data": "",
+   "unresolved": "Which courses participate, team vs individual work, deliverables, current-year delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bu.edu/ioc/metrobridge/experiential-learning/",
+     "title": "Experiential Learning at Boston University (MetroBridge)",
+     "section": "MetroBridge",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "MetroBridge 'connects with local governments to understand their priorities' and translates needs into course projects for 'undergraduate and graduate classes'; students work 'directly with local government leaders throughout the semester'.",
+     "supports": [
+      "employer",
+      "reach"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Core Innovation Project (XP 298)",
+   "english_name": "Questrom Core Innovation Project",
+   "module_code": "QST XP 298",
+   "description": "Questrom BSBA team-based core project in which students develop creative ideas/solutions for a live client company, applying SM131 and MO221 concepts.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Questrom School of Business",
+   "eligible_faculties_programmes": "Questrom BSBA students (prerequisites QST MO 221, SM 275)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Sophomore/junior",
+   "eligibility_restrictions": "BSBA students only",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated in sources",
+   "duration": "One semester",
+   "delivery_format": "Team client project",
+   "project_based": "Unclear",
+   "project_evidence": "'develop creative solutions for a live client' [1]; deliverable/output not specified.",
+   "group_working": "Yes",
+   "group_evidence": "'Working in teams, you'll develop creative solutions for a live client' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'live client' per Questrom page [1]; search summary: Boston-based companies / 'real company' (2025 article) [2]. How the client participates (brief, feedback, assessment) not described.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Live client (details not described)",
+   "named_partners": "",
+   "deliverable": "Not specified",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2025 (curriculum revision article)",
+   "participation_data": "",
+   "unresolved": "Deliverable and client role; whether Required (page implies it); curriculum was being revised in 2025.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bu.edu/questrom/undergraduate-program/career-development/experiential-learning/",
+     "title": "Experiential Learning (Questrom)",
+     "section": "Innovation Project Course",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "'Working in teams, you'll develop creative solutions for a live client.' Takes the Innovation Project Course in sophomore or junior year.",
+     "supports": [
+      "group",
+      "employer",
+      "project"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bu.edu/articles/2025/questrom-revises-undergrad-curriculum/",
+     "title": "Questrom Revises Undergrad Curriculum",
+     "section": "Article",
+     "pub_year": "2025",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Semester-long Core Innovation Project, students identify new products/services for Boston-based companies (search-result summary; page not opened).",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSBA Capstone Project (BA 888) - sponsored industry capstone",
+   "english_name": "MS Business Analytics industry capstone",
+   "module_code": "QST BA 888",
+   "description": "MSBA students work in teams on a consulting-style data project for an industry client (example: Assette, a local SaaS fintech, asked MSBA teams to build models and AI-generated synthetic data and end-to-end pipelines), presented to a faculty panel and sponsor reviewers, with a public poster session.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Questrom School of Business",
+   "eligible_faculties_programmes": "MS in Business Analytics (MSBA students only)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "Final stage of MSBA",
+   "eligibility_restrictions": "MSBA students only",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "3 units (course listing)",
+   "duration": "Multi-semester; most work in spring semester (12-month track runs capstone in summer term)",
+   "delivery_format": "Team consulting-style project",
+   "project_based": "Yes",
+   "project_evidence": "Teams built models/synthetic data pipelines for Assette [1]; 'a consulting-style project for an industry client'; presented to faculty panel [2][3].",
+   "group_working": "Yes",
+   "group_evidence": "'work on a data project in a team setting'; 'student teams' [1][2][3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "MSBA programme page: 12-month track culminates in 'a sponsored industry capstone' with 'Presentation to exec team'; sponsor alum reviewed final presentations (Assette example); students 'frequently receive offers from their capstone sponsor' [1][3].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Sponsor/client sets problem, reviews final presentation",
+   "named_partners": "Assette (example, undated, 'Last Summer'); Questrom Analytics page lists past capstone clients incl. IBM, GSK, Wayfair, City of Boston (search summary only, page ~2 years old)",
+   "deliverable": "Models/pipelines, final presentation, poster",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (programme page references fall 2026/2027 admissions only)",
+   "participation_data": "",
+   "unresolved": "No dated cohort or year for the capstone; BA 888 compulsory status not stated; credit from catalogue listing.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/hands-on-learning/",
+     "title": "MSBA Hands-On Learning",
+     "section": "Capstone sponsored by Assette",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "Assette, 'a local SaaS fintech company', 'challenged MSBA student teams to build models and generate AI-based synthetic data'; sponsor alum reviewed the final capstone presentations; 'Last Summer'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/academics/",
+     "title": "MSBA Academics",
+     "section": "Capstone BA 888",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "'a consulting-style project for an industry client'; 'work on a data project in a team setting'; final product presented to a faculty panel and public poster session.",
+     "supports": [
+      "project",
+      "group",
+      "employer"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/",
+     "title": "MS in Business Analytics",
+     "section": "Tracks",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "'culminating in a sponsored industry capstone'; 'Sponsored capstone - Presentation to exec team'; 'Students frequently receive offers from their capstone sponsor'.",
+     "supports": [
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.bu.edu/academics/questrom/courses/qst-ba-888/",
+     "title": "QST BA 888",
+     "section": "Catalogue",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "3 units; MSBA students only; team setting.",
+     "supports": [
+      "credit",
+      "eligibility"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Senior Design Project (Mechanical Engineering with ECE/BME)",
+   "english_name": "Engineering Senior Design capstone",
+   "module_code": "ENG ME 460 (ME); ECE capstone (EC463 in 2018)",
+   "description": "Year-long team-driven senior capstone: teams build products/devices for sponsors from industry, government, non-profits, small businesses or start-ups; fall concept/prototype, spring test and 'deliver the completed HW/SW system to the client', with reports given to the sponsor; interdisciplinary ME/ECE/BME teams.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "College of Engineering (ME dept senior design)",
+   "eligible_faculties_programmes": "Seniors in Mechanical, Electrical & Computer, Biomedical Engineering",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Senior",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Full academic year",
+   "delivery_format": "Team design project",
+   "project_based": "Yes",
+   "project_evidence": "Prototype and completed HW/SW system delivered to client with reports [1].",
+   "group_working": "Yes",
+   "group_evidence": "Teams; interdisciplinary collaboration with ECE and BME [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Sponsor proposal form invites industry, government, non-profit, small-business projects with a sponsor point of contact; reports given to sponsor [1]. Search summary says sponsorship is optional and students also self-propose projects, so external sponsor not documented as standard.",
+   "partner_type": "Mixed",
+   "partner_role": "Sponsor supplies problem, point of contact, receives deliverable and reports",
+   "named_partners": "Example: NanoView Biosciences (joint ME/ECE project, search summary, older)",
+   "deliverable": "Prototype/HW-SW system and reports to sponsor",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated sponsorship page; ECE Day pages 2017-2023",
+   "participation_data": "",
+   "unresolved": "Whether all teams have external sponsors; compulsory status; current-year dated evidence; other departments' capstones (BME, ECE) not separately tested.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bu.edu/eng/academics/departments-and-divisions/mechanical-engineering/senior-design/senior-design-sponsorship/",
+     "title": "Senior Design Sponsorship",
+     "section": "Sponsorship",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "Projects address challenges in 'industry, government, non-profits, small businesses, start-ups, or everyday life'; teams 'deliver the completed HW/SW system to the client'; documentation 'will be given to the sponsor'; financial support not required; project runs fall and spring.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S6",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Spark! Machine Learning X-Lab Practicum",
+   "english_name": "BU Spark! Machine Learning X-Lab Practicum",
+   "module_code": "CDS DS 549",
+   "description": "4-unit practicum where students apply ML to projects from partnering organisations within and outside BU, finishing with a presentation to the partner; fulfils Hub Teamwork/Collaboration unit.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Faculty of Computing & Data Sciences / BU Spark!",
+   "eligible_faculties_programmes": "Students with DS 340 / CS 542, 505 or 585 or consent; 15 seats reserved for CDS students (Fall 2026)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Prerequisites or instructor consent; seat reservations",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "4 units",
+   "duration": "One semester",
+   "delivery_format": "Practicum with partner projects",
+   "project_based": "Yes",
+   "project_evidence": "'expected to complete a project focused on an application of inferential analytics or machine learning, including a final presentation to the partner organization' [1][2].",
+   "group_working": "Unclear",
+   "group_evidence": "Course page mentions 'teamwork and communications skills' and a Hub Teamwork/Collaboration unit but does not state that projects are done in teams [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Partners are 'within BU and from outside' [1][2]; internal BU units share unquantified, so C Unclear.",
+   "partner_type": "Mixed",
+   "partner_role": "Provides project and data; receives final presentation",
+   "named_partners": "None evidenced for DS549",
+   "deliverable": "ML model/project and final presentation to partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Fall 2026 sections listed",
+   "participation_data": "",
+   "unresolved": "Team structure; share of external partners.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.bu.edu/academics/cds/courses/cds-ds-549/",
+     "title": "CDS DS 549",
+     "section": "Course page",
+     "pub_year": "Fall 2026 listing",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "'All students participating in the course are expected to complete a project focused on an application of inferential analytics or machine learning'; projects from 'partnering organizations within BU and from outside'; teamwork and communications skills; Fall 2026 sections A1-A4 listed.",
+     "supports": [
+      "project",
+      "employer",
+      "status",
+      "group"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.bu.edu/spark/students/xlab/",
+     "title": "X-Lab: Join a project",
+     "section": "X-Lab",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch model; quotes as returned)",
+     "extract": "DS519 and DS549 involve 'partnering organizations within and outside of Boston University'.",
+     "supports": [
+      "employer"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "PRLab (College of Communication student-run PR agency)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Page fetched states only that it is a student-led PR agency; client types, teams, credit and eligibility not stated on that page (search summary claimed paying Boston-area clients; not verified).",
+   "source_url": "https://www.bu.edu/prlab/",
+   "status_note": "undated"
+  },
+  {
+   "name": "Law School clinics / Health Justice Practicum",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Known only from a search summary; clinics are client casework, group/project structure not evidenced.",
+   "source_url": "",
+   "status_note": ""
+  },
+  {
+   "name": "Action Learning Lab: Applied Analytics (QST BA 325) and Health Sector Consulting",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary only: team course with actual client organisation; not opened or verified.",
+   "source_url": "https://www.bu.edu/academics/questrom/courses/action-learning/",
+   "status_note": ""
+  },
+  {
+   "name": "Spark! Justice Media co-Lab (HUB XC473)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Media partners named (Boston Globe, CBS Boston, GBH, USA Today); team and deliverable structure not evidenced in fetched pages; application required.",
+   "source_url": "https://www.bu.edu/spark/students/xlab/",
+   "status_note": "Spring 2027 listing"
+  },
+  {
+   "name": "MPH Practicum (SPH PH 976) and Integrative Learning Experience",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "240-hour individual practicum and student-initiated ILE; team project not evidenced (search summary).",
+   "source_url": "https://www.bu.edu/sph/education/degrees-and-programs/master-of-public-health-programs/professional-development-and-practical-experience/",
+   "status_note": ""
+  },
+  {
+   "name": "CGS Capstone",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Team research paper; no external client evidenced (search summary).",
+   "source_url": "https://www.bu.edu/cgs/experiences/capstone/",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Boston University has one university-wide employer-linked team route, the Hub Cross-College Challenge (XCC): a 4-credit elective for juniors and seniors from all undergraduate schools in which interdisciplinary teams of four to six work with a community partner and produce a tangible deliverable (podcast, film, website) shown at the Experiential Learning Expo. Partners are a mix of external organisations (Lawyers for Civil Rights, WalkMassachusetts, Reacting to the Past) and internal BU units (Innovate@BU, BU Sustainability), so criterion C is Unclear under the mixed-client ruling. Business provision includes the Questrom Core Innovation Project (live client, teams; deliverable undocumented) and a sponsored MSBA industry capstone (team, industry client, presented to sponsor; meets A, B and C on the page text but undated, so current delivery is unclear). Engineering has a year-long senior design capstone with sponsor-supplied problems (sponsorship reported optional) and the Spark! ML practicum with internal and external partners. MetroBridge links classes to city governments but team/deliverable detail is missing. Provision is distributed across schools rather than institution-wide, and no route is confirmed as meeting all three criteria with current delivery.",
+ "gaps": "Dated current-year evidence for MSBA capstone, Innovation Project and senior design; external-vs-internal partner share in XCC and DS549; MetroBridge course list; CAS science/humanities departmental projects; PRLab, law clinics and Action Learning Lab not verified; further departmental capstones likely exist (BME, ECE, Hospitality, SPH)."
+}

@@ -1,0 +1,76 @@
+{
+ "inst_id": "EU01",
+ "institution": "Université PSL (Paris)",
+ "review_status": "Partial",
+ "partial_remaining": "Dauphine M2 consulting projects and Mines MIG need verification; science/arts areas lightly searched",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "PSL Week semaine PSL projet collaboratif étudiants entreprise partenaire",
+    "PSL Week student teams project partner company Arts Décoratifs PSL-Hack challenge"
+   ],
+   "key_sources": [
+    "https://psl.eu/en/innovation/entrepreneurship-psl/psl-iteams",
+    "https://psl.eu/en/news/psl-weeks-students-move-along-there-everything-see-here"
+   ],
+   "finding": "PSL Weeks are interdisciplinary immersion courses (2018 article); only the 2018 engineers week had a company (EDF) PSL-Hack. PSL-iTeams is a 6-month multidisciplinary team programme with industry professionals as mentors/jurors but internal researcher project holders."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Dauphine PSL projet tutoré entreprise étudiants équipe master mission conseil"
+   ],
+   "key_sources": [
+    "https://dauphine.psl.eu/formations/masters/marketing-et-strategie/m2-conseil-data-recherche/vie-du-master"
+   ],
+   "finding": "Dauphine M2 programmes mention consulting-firm challenges/missions; coverage and year not established."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Mines Paris PSL projet industriel entreprise élèves-ingénieurs équipe commanditaire"
+   ],
+   "key_sources": [
+    "https://mig.minesparis.psl.eu/"
+   ],
+   "finding": "Mines Paris MIG: team-of-15 projects in a Mines research centre or a company during a 3-week block; compulsory status, client role and year not shown."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "ESPCI Chimie ParisTech projet industriel étudiants équipe entreprise partenaire"
+   ],
+   "key_sources": [
+    "https://www.chimieparistech.psl.eu/entreprise-innovation/devenez-partenaire-de-chimie-paristech/"
+   ],
+   "finding": "Only industrial chairs, sponsorship, conferences and internships found; no team project with a company evidenced."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "ENS-PSL students team project external organisation client sciences humaines projet étudiants association commanditaire"
+   ],
+   "key_sources": [
+    "https://psl.eu/en/education/enamoma"
+   ],
+   "finding": "No ENS humanities/social-science client project found. Arts route is ENAMOMA (see schemes)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "PSL Week student teams project partner company Arts Décoratifs PSL-Hack challenge"
+   ],
+   "key_sources": [
+    "https://psl.eu/en/education/enamoma-psl-students-projects"
+   ],
+   "finding": "Design/fashion: ENAMOMA master's with four partner projects per year."
+  }
+ },
+ "schemes": [],
+ "exclusions": [],
+ "embeddedness": "Isolated departmental provision",
+ "profile_md": "Interim.",
+ "gaps": "interim"
+}

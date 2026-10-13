@@ -1,0 +1,41 @@
+{
+ "inst_id": "EU02",
+ "institution": "Paris-Saclay",
+ "review_status": "Partial",
+ "partial_remaining": "Early save. Remaining: confirm central/other area queries, M2 communication consulting module details, Starthese legacy row disposition.",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {"status": "Searched", "queries": ["Université Paris-Saclay projet étudiants entreprise équipe partenaire commanditaire"], "key_sources": ["https://www.universite-paris-saclay.fr/collaborations/entreprises"], "finding": "No single university-wide student-project scheme surfaced; offers are by component (Polytech, IUT, PEIPS entrepreneurship)."},
+  "business": {"status": "Searched", "queries": ["Paris-Saclay master projet en groupe client entreprise réel management IAE projet de conseil étudiants"], "key_sources": ["https://www.universite-paris-saclay.fr/en/education/masters-degree/communication-des-organisations/m2-management-et-communication-des-organisations"], "finding": "Master pages mention group projects with commissioning organisations but external client not established as standard."},
+  "engineering_computing": {"status": "Searched", "queries": ["CentraleSupélec projet industriel étudiants équipe entreprise partenaire", "IUT d'Orsay projet tutoré entreprise étudiants équipe"], "key_sources": ["https://www.centralesupelec.fr/cours/3CV2500"], "finding": "CentraleSupélec Projet SIC qualifies on its page; Polytech and IUT only invite companies to propose projects."},
+  "science": {"status": "Searched", "queries": ["Paris-Saclay Faculté des sciences master projet encadré entreprise équipe étudiants data science industriel partenaire"], "key_sources": [], "finding": "No dedicated industry-sponsored group project scheme surfaced."},
+  "arts_humanities_social_sciences": {"status": "Searched", "queries": ["Paris-Saclay sciences humaines sociales droit économie clinique juridique projet collectif commanditaire étudiants"], "key_sources": ["https://www.idep.universite-paris-saclay.fr/clinique-juridique"], "finding": "Legal clinic (CJPS) real cases, undated; no client-brief group project verified."},
+  "other": {"status": "Searched", "queries": ["same query as SHS (law/legal clinic)"], "key_sources": [], "finding": "Law clinic only; health/pharmacy not yet queried."}
+ },
+ "schemes": [
+  {
+   "local_id": "S1", "parent_local_id": null, "is_umbrella": false,
+   "official_name": "Projet SIC (3CV2500)", "english_name": "SIC Project (CentraleSupélec)", "module_code": "3CV2500",
+   "description": "Team of 3-4 students tackle an open engineering problem with a research component in construction/urban fields, proposed by an industrial, institutional or associative partner (the client); interim report and deliverables sent to client, then defence.",
+   "academic_reach": "Programme/course", "admin_host": "CentraleSupélec (Paris-Saclay member institution)", "eligible_faculties_programmes": "Not stated; engineering course",
+   "faculty_areas": ["engineering_computing"], "student_level": "Unclear", "year_of_study": "Not stated", "eligibility_restrictions": "Prerequisites: none",
+   "participation_requirement": "Unclear", "curricular_status": "Curricular", "credit_assessment": "Credits not stated; 240 hours total, 144 on site", "duration": "Oct-April (periods SM10-SM11), 2025-2026", "delivery_format": "Team project with client",
+   "project_based": "Yes", "project_evidence": "Open engineering problem; milestones kickoff, interim report, final report and defence [1]",
+   "group_working": "Yes", "group_evidence": "'Une équipe projet est constituée de trois ou quatre étudiants' [1]",
+   "employer_connected": "Yes", "employer_evidence": "Proposed by an industrial, institutional or associative partner; client representative on team; interim report and deliverables addressed to client [1]",
+   "partner_type": "Mixed", "partner_role": "Proposes problem; client representative; receives deliverables", "named_partners": "",
+   "deliverable": "Report, deliverables, defence",
+   "duration_band": "> 1 term", "external_partner_coverage": "Unclear", "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed", "latest_evidenced_year": "2025/26", "participation_data": "",
+   "unresolved": "Whether every project has an external client or all are partner-proposed; compulsory status; CentraleSupélec course page source language French. Partner proposal wording 'proposé par un partenaire' read as standard but not proven; coverage left Unclear so C is Unclear-leaning.",
+   "legacy_ref": "",
+   "sources": [{"n": 1, "url": "https://www.centralesupelec.fr/cours/3CV2500", "title": "Projet SIC", "section": "course page", "pub_year": "2025-2026", "accessed": "2026-10-13", "retrieval": "page text (WebFetch summary, French original)", "extract": "'proposé par un partenaire industriel, institutionnel ou associatif'; 'Une équipe projet est constituée de trois ou quatre étudiants'; 'Rapport et livrables intermédiaires adressés au client puis soutenance'; 240 h.", "supports": ["project", "group", "employer", "status", "duration"]}]
+  }
+ ],
+ "exclusions": [
+  {"name": "Starthèse Start'up Pitch-iD", "legacy": true, "category": "Entrepreneurship/incubator", "reason": "Doctoral venture-pitch competition; no external organisation sets a brief; not verified as group client project.", "source_url": "https://www.universite-paris-saclay.fr/actualites/starthese-startup-pitch-id-troisieme-edition-du-concours-entrepreneurial-pour-doctorantes", "status_note": "2026 edition per legacy; not re-fetched"}
+ ],
+ "embeddedness": "Unclear",
+ "profile_md": "Early save.",
+ "gaps": "Early save."
+}
