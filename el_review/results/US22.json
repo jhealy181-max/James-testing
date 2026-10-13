@@ -1,8 +1,8 @@
 {
  "inst_id": "US22",
  "institution": "Brown University",
- "review_status": "Partial",
- "partial_remaining": "arts_humanities_social_sciences area not yet queried.",
+ "review_status": "Complete",
+ "partial_remaining": "",
  "research_date": "2026-10-13",
  "search_log": {
   "central": {
@@ -52,10 +52,15 @@
    "finding": "Data Science master's practicum with external companies (mixed with internal units); no natural-science client-project course found."
   },
   "arts_humanities_social_sciences": {
-   "status": "Not searched",
-   "queries": [],
-   "key_sources": [],
-   "finding": "Pending (only CBLR examples POLS 1820X, ENVS 1555 seen in search summaries)."
+   "status": "Searched",
+   "queries": [
+    "Brown University POLS 1820X OR ENVS 1555 OR \"community-based learning\" course students group project partner organization 2025"
+   ],
+   "key_sources": [
+    "https://swearer.brown.edu/faculty-staff/engaged-teaching",
+    "https://bulletin.brown.edu/the-college/curricular-programs/curricular-programs.pdf"
+   ],
+   "finding": "POLS 1820X Democratic Erosion (CBLR-designated) had students produce case studies for a USAID meta-analysis (undated; group basis and year unverified); ENVS 1555 not found in search. Only CBLR-based routes found; no other social-science/humanities client projects."
   },
   "other": {
    "status": "Searched",
@@ -378,6 +383,14 @@
  ],
  "exclusions": [
   {
+   "name": "POLS 1820X Democratic Erosion (CBLR course)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Students produced case studies for a USAID (external, public-sector) meta-analysis, but group vs individual work and delivery year are not evidenced; covered under CBLR umbrella S1.",
+   "source_url": "https://swearer.brown.edu/faculty-staff/engaged-teaching",
+   "status_note": "undated search extract"
+  },
+  {
    "name": "Community-Based Learning and Research (CBLR) [legacy row, reassessed as S1 umbrella]",
    "legacy": true,
    "category": "Other",
@@ -419,6 +432,6 @@
   }
  ],
  "embeddedness": "Several distributed routes",
- "profile_md": "Brown's open curriculum has no institution-wide compulsory employer project. Found: (1) the CBLR course designation, where designated courses must involve community partners and produce outputs shared with them (group work not required, so umbrella); (2) CS for Social Change (CSCI 1951I), an application-only studio in which teams of 3-4 build products with non-profit partners (evidence from Spring 2023); (3) the Data Science master's practicum, partly with external companies but mixed with internal Brown projects; (4) CEDEC, a Swearer-hosted programme matching supervised student teams to Rhode Island nonprofits/public bodies (2025 launch). Internal campus units appear as partners in CEDEC and the DSI capstone and are not counted as external. Current-year delivery is poorly evidenced beyond the legacy Fall 2026 CBLR claim.",
- "gaps": "Current (2025/26+) delivery not verified for S2-S4; per-course CBLR group/partner evidence; arts/humanities/social science routes; further departmental capstones likely exist."
+ "profile_md": "Brown's open curriculum has no institution-wide compulsory employer project. Found: (1) the CBLR course designation, where designated courses must involve community partners and produce outputs shared with them (group work not required, so umbrella); (2) CS for Social Change (CSCI 1951I), an application-only studio in which teams of 3-4 build products with non-profit partners (evidence from Spring 2023); (3) the Data Science master's practicum, partly with external companies but mixed with internal Brown projects; (4) CEDEC, a Swearer-hosted programme matching supervised student teams to Rhode Island nonprofits/public bodies (2025 launch). Review completed in reduced-depth mode. Internal campus units appear as partners in CEDEC and the DSI capstone and are not counted as external. Current-year delivery is poorly evidenced beyond the legacy Fall 2026 CBLR claim.",
+ "gaps": "Only about 12 searches/fetches (reduced depth). Current (2025/26+) delivery not verified for S2-S4; per-course CBLR group/partner evidence; ENVS 1555 and other CBLR courses unverified; further departmental capstones likely exist."
 }
