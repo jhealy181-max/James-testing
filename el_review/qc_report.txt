@@ -111,5 +111,6 @@ WARN | US15 | US15-S02 | employer-connected Yes but partner type Unclear
 WARN | US15 | US15-S04 | employer-connected Yes but partner type Unclear
 WARN | US15 | US15-S06 | employer-connected Yes but partner type Unclear
 WARN | US17 | US17-S02 | possible simulation marked employer-connected — check
+WARN | EU07 | EU07-S01 | employer-connected Yes but partner type Unclear
 WARN | EU08 | other | search area status: Not searched
 ERROR | EU08 | legacy row 134 | legacy 'hei_INNOVATION Startup Lab' not traced

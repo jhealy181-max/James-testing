@@ -1,0 +1,468 @@
+{
+ "inst_id": "EU06",
+ "institution": "Technical University of Munich",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "TUM Project Weeks (WebFetch)",
+    "TUM 1.000+ project week (WebFetch)",
+    "TUM Entrepreneurship Master Studierende Teams Praxisprojekt Unternehmen"
+   ],
+   "key_sources": [
+    "https://www.tum.de/en/studies/degree-programs/key-skill-programs/project-weeks",
+    "https://chn.tum.de/stories/news/news-detail/the-application-phase-has-started"
+   ],
+   "finding": "Project Weeks is a university-wide framework not shown to involve external organisations in general; the 1.000+ Project Week is a one-week company-hosted team programme for master's students (current status unclear)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "TUM School of Management Praxisprojekt Unternehmen Studierende Team Projektstudium",
+    "TUM Bachelor Management and Technology Projektstudium Modul Pflicht (German)",
+    "ERI home (WebFetch)"
+   ],
+   "key_sources": [
+    "https://www.mgt.tum.de/corporate-career/corporate-partners-overview/project-studies-munich",
+    "https://www.ie.mgt.tum.de/en/ent/home/"
+   ],
+   "finding": "Project Studies (teams of 2-5 with company-proposed topics) are compulsory in the Bachelor and compulsory/optional in master's programmes; dated Oct 2026 company listings."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "TUM Informatik Praktikum Industrieprojekt Studierende Teams Unternehmen",
+    "iPraktikum TUM ECTS",
+    "TUM Maschinenwesen Elektrotechnik Teamprojekt Industriepartner (German)"
+   ],
+   "key_sources": [
+    "https://aet.cit.tum.de/teaching/26s/ipraktikum/",
+    "https://aet.cit.tum.de/projects/courses/ipraktikum/"
+   ],
+   "finding": "iPraktikum (10 ECTS, company clients, Summer 2026) qualifies; mechanical engineering Teamprojekt is individual work; globalDrive unverified. Further chair-level industry courses likely."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "TUM School of Natural Sciences Physik Chemie Industriepartner Praktikum Team Kooperation (German)"
+   ],
+   "key_sources": [
+    "https://academics.nat.tum.de/en/studium/org/labs"
+   ],
+   "finding": "No industry-partner team project module found in physics/chemistry; only teaching labs and research practicals."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "TUM Social Sciences Technology Governance Projekt Studierende Team Auftraggeber Organisation Praxispartner (German)"
+   ],
+   "key_sources": [
+    "https://www.gov.sot.tum.de/en/elaw/lehre/abschlussarbeiten-und-praktika/praxisprojektbetreuung-am-lehrstuhl/"
+   ],
+   "finding": "Only supervised internship-type Praxisprojekte found (individual); no team client project verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "TUM Architektur Entwurf Studierende Gruppe Projekt Kommune Bauherr Auftraggeber (German)",
+    "TUM Weihenstephan Straubing Life Sciences Medizin Sport Projekt Unternehmen Team (German)"
+   ],
+   "key_sources": [
+    "https://www.arc.ed.tum.de/en/lao/research/research-platforms/research-projects/studio1zu1/urbeen/"
+   ],
+   "finding": "Architecture studios sometimes have real Bauherren but group working/current status not verified; no medicine, sport or life-sciences team client project found."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": true,
+   "official_name": "TUM Project Weeks (Projektwochen)",
+   "english_name": "TUM Project Weeks",
+   "module_code": "",
+   "description": "Central TUM framework listing many short, individually run project courses (2-6 ECTS) across Schools; each course has its own format, partners and eligibility. Umbrella only: individual courses not separately tested; the page names outside partners only in a few courses (Muenchner Kammerspiele theatre; open-source software project), not as a general rule.",
+   "academic_reach": "University-wide",
+   "admin_host": "TUM central (key skill programmes)",
+   "eligible_faculties_programmes": "Most courses open to bachelor's and/or master's students of all disciplines/Schools; some restricted to master's or specific Schools",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "Per course",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Typically 2-6 ECTS per course (some 3 or 5)",
+   "duration": "Main winter-semester week 11-15 January 2027; other courses Oct 2026-Jan 2027, Dec 2026, Feb-Mar 2027",
+   "delivery_format": "Intensive project courses",
+   "project_based": "Unclear",
+   "project_evidence": "Framework in which students and lecturers 'work on innovative solutions to current problems' [1]; individual courses vary.",
+   "group_working": "Unclear",
+   "group_evidence": "'Many projects involve interdisciplinary teamwork' but some courses are mostly individual (e.g. Comic Studio) [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page does not state that external organisations are involved as a rule; only isolated courses name outside partners [1]. Not counted as meeting C.",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced at framework level",
+   "named_partners": "Muenchner Kammerspiele (theatre) in two courses [1]",
+   "deliverable": "Varies by course",
+   "duration_band": "1-4 weeks",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (11-15 January 2027)",
+   "participation_data": "",
+   "unresolved": "Page text was truncated (about 52,000 of 152,000 characters unread); individual courses with company-set briefs may exist and were not tested.",
+   "legacy_ref": "TUM Project Weeks",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.tum.de/en/studies/degree-programs/key-skill-programs/project-weeks",
+     "title": "Project Weeks - TUM",
+     "section": "Course overview",
+     "pub_year": "undated (2026/27 dates)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted)",
+     "extract": "'The Project Weeks create a framework in which students and lecturers work on innovative solutions to current problems.' Most courses open to bachelor's and/or master's students from all disciplines and Schools; 2-6 ECTS; winter semester 2026/27 Project Weeks 'from 11 to 15 January 2027'. Page does not say whether external companies are involved; names Muenchner Kammerspiele in some courses.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "credit",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "TUM 1.000+ Project Week",
+   "english_name": "TUM 1.000+ Project Week (master's students visit a medium-sized company)",
+   "module_code": "",
+   "description": "One-week programme in which a team of up to five TUM master's students visits a medium-sized company; the company leads the week, sets a real business task, and the team presents its solution to the company, then presents a poster at a joint TUM event.",
+   "academic_reach": "University-wide",
+   "admin_host": "TUM (central programme; cross-School)",
+   "eligible_faculties_programmes": "TUM master's students of all Schools (page: 'For all students and companies'; focus on master's)",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Application by end of November; focus on master's students",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Unclear",
+   "credit_assessment": "No credits mentioned",
+   "duration": "One week (20-24 April 2026)",
+   "delivery_format": "On-site at company, team",
+   "project_based": "Yes",
+   "project_evidence": "Students work on a real company task and present their solution at the end [1]. Short format: one week.",
+   "group_working": "Yes",
+   "group_evidence": "'Up to five TUM talents will visit as a team' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'The company leads the project week' and supports the team on a real business problem; team gives a final presentation to the company [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Hosts and leads the week, sets the business task, receives final presentation",
+   "named_partners": "",
+   "deliverable": "Solution presented to the company; poster presented at joint TUM event in June 2026",
+   "duration_band": "1 week",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 (announced; 20-24 April 2026)",
+   "participation_data": "",
+   "unresolved": "Source is the pre-event application announcement (applications to end Nov 2025); no evidence of delivery or of a 2026/27 round. Credit status unknown. The fetch summary described the task as an 'already solved' business problem; check the original wording.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://chn.tum.de/stories/news/news-detail/the-application-phase-has-started",
+     "title": "TUM 1.000+ project week 2026 application",
+     "section": "News item",
+     "pub_year": "2025/26",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted)",
+     "extract": "Aims to familiarize master's students with the day-to-day work of a medium-sized company; 'Up to five TUM talents will visit as a team'; 'The company leads the project week'; students work on a real company task and present the solution; project week April 20 to 24, 2026; applications until end of November; poster presentations June 2026.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "eligibility",
+      "status"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Projektstudium / Project Studies (TUM School of Management; company-proposed projects)",
+   "english_name": "Project Studies, TUM School of Management",
+   "module_code": "e.g. WIHN0684 (older BMT module, 12 ECTS)",
+   "description": "Teams of 2-5 students carry out a research or practical project proposed by a company and supervised by a TUM chair; kick-off, mid-term meeting, final presentation and written report; 3 months full-time or 6 months part-time. Companies submit topics via a chair or the student council job board; students apply individually or as a team. Entrepreneurship Research Institute publishes dated company project studies (Oct 2026) and IDPs with business partners. Compulsory module in the Bachelor Management and Technology (12 ECTS); optional or compulsory in master's programmes. Note: the compulsory module itself can also be satisfied with research projects, so this record covers the company-proposed route only.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "TUM School of Management (chairs incl. Entrepreneurship Research Institute)",
+   "eligible_faculties_programmes": "TUM School of Management programmes (Bachelor required; Master compulsory or optional depending on programme)",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "Recommended bachelor semester 5, master semester 3",
+   "eligibility_restrictions": "Programme-dependent",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "12 ECTS (about 360 h) in Bachelor Management and Technology; project report and presentation",
+   "duration": "3 months full-time / 6 months part-time",
+   "delivery_format": "Team project with company, supervised by chair",
+   "project_based": "Yes",
+   "project_evidence": "Research or practical project with kick-off, mid-term meeting, final presentation and written report [1][3].",
+   "group_working": "Yes",
+   "group_evidence": "Company-facing page: 'teams of 2-5 students' [1]. Students may apply individually or as a team and the team finds a supervising chair [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Companies propose the topic, tasks are adapted to company needs, work done 'in cooperation with' the company; company receives final presentation and report; involvement described as 'moderate' [1][3]. ERI lists company project studies dated Oct 2026 (StudySmarter, KlaroCare, Beautechful) [2].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Proposes topic/brief, moderate involvement, receives presentation and report",
+   "named_partners": "StudySmarter, KlaroCare, Beautechful (ERI listings dated 2-12 Oct 2026)",
+   "deliverable": "Written report and final presentation to company",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2026/27 (listings 2-12 October 2026)",
+   "participation_data": "Flyers cite roughly 4,500 (2022) / 7,000 (2024) students (search summary; not verified, unit unclear)",
+   "unresolved": "Share of compulsory-module students who do company-proposed vs chair research projects; whether ERI listings are team projects; guidelines pages undated; credits for the company route in master's programmes.",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.mgt.tum.de/corporate-career/corporate-partners-overview/project-studies-munich",
+     "title": "Project Studies Munich",
+     "section": "Company guidelines",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted)",
+     "extract": "Teams of '2-5 students'; companies 'propose a topic'; 'only moderate company involvement'; deliverables 'Kick-off meeting', 'Mid-term meeting', 'Final presentation and written report'; 3 months full-time or 6 months part-time; 'required in the Bachelor program'; not a mandatory internship.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://www.ie.mgt.tum.de/en/ent/home/",
+     "title": "TUM Entrepreneurship Research Institute home",
+     "section": "News/listings",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted)",
+     "extract": "'In addition, we offer project studies and IDPs in cooperation with our business partners.' Dated listings: 12.10.2026 Project Study @ StudySmarter; 09.10.2026 Project Study @ KlaroCare; 02.10.2026 Project Study @ Beautechful; 02.10.2026 IDP @ Beautechful.",
+     "supports": [
+      "employer",
+      "status"
+     ]
+    },
+    {
+     "n": 3,
+     "url": "https://cms.mgt.tum.de/fileadmin/mgt.tum.de/downloads/Project_Studies-Guidelines_for_companies.pdf",
+     "title": "Project Studies - Guidelines for companies (PDF)",
+     "section": "Guidelines",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search-index summary (German/English): team of 2-5 students works on research or practical project together with company and academic chair; students apply individually or as a team; compulsory in Bachelor, compulsory or optional in master's depending on programme.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation"
+     ]
+    },
+    {
+     "n": 4,
+     "url": "https://www.mgt.tum.de/fileadmin/mgt.tum.de/downloads/BMT/FPSO_valid_for_students_who_started_in_WS_2026-27_DE.pdf",
+     "title": "FPSO Bachelor Management and Technology (WS 2026/27)",
+     "section": "Projektstudium",
+     "pub_year": "2026/27",
+     "accessed": "2026-10-13",
+     "retrieval": "search-summary paraphrase",
+     "extract": "Search summary: Projektstudium 12 credits (about 360 hours), active collaboration in a practical or research project; compulsory module (older versions WIHN0684).",
+     "supports": [
+      "credit",
+      "participation"
+     ]
+    }
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "iPraktikum (iOS Development with Real-World Industry Challenges)",
+   "english_name": "iPraktikum",
+   "module_code": "IN0012, IN2106, IN2128",
+   "description": "Practical course (TUM School of Computation, Information and Technology) in which 8-12 companies each bring a real problem statement and get their own student team that builds an iOS app using agile methods; industry partners act as clients.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Applied Education Technologies / Chair of Applied Software Engineering, CIT",
+   "eligible_faculties_programmes": "Bachelor/Master practical course (informatics modules IN0012, IN2106, IN2128)",
+   "faculty_areas": [
+    "engineering_computing"
+   ],
+   "student_level": "Mixed",
+   "year_of_study": "",
+   "eligibility_restrictions": "50-70 students per semester; admission procedure not checked",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "10 ECTS",
+   "duration": "One semester",
+   "delivery_format": "Team practical course with industry clients",
+   "project_based": "Yes",
+   "project_evidence": "Teams build apps for partner problem statements with fixed delivery [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'8-12 companies participate in the iPraktikum every semester, each with a different problem statement and its own team' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Industry partners act as clients providing real-world problem statements' [2]. Summer 2026 partners: BMW, eBay, Germantronic, Maiss, Obsphera, ROSI, Siemens [1]. Some partner slots in earlier semesters were TUM-internal units (e.g. TUM, TUM LifeLong Learning), a minority.",
+   "partner_type": "Business/commercial",
+   "partner_role": "Client: supplies problem statement, works with team",
+   "named_partners": "BMW, eBay, Germantronic, Maiss, Obsphera, ROSI, Siemens (Summer 2026); Bayerische Polizei, m3 management consulting, Quartett mobile, Siemens (WS 2025/26 incl. public-sector Bayerische Polizei)",
+   "deliverable": "iOS app prototype/product for the client",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "Summer 2026",
+   "participation_data": "50-70 students per semester (2026 course page); 60-100 'regularly' (older chair wording)",
+   "unresolved": "Degree programmes for which it is compulsory/elective; team size; mix of partner types (commercial plus police and TUM-internal slots).",
+   "legacy_ref": "",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://aet.cit.tum.de/projects/courses/ipraktikum/",
+     "title": "iPraktikum - Applied Education Technologies",
+     "section": "Overview",
+     "pub_year": "2026 (lists SS2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted)",
+     "extract": "'8-12 companies participate in the iPraktikum every semester, each with a different problem statement and its own team.' Summer 2026 projects 'in cooperation with BMW, eBay, Germantronic, Maiss, Obsphera, ROSI, and Siemens'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "status",
+      "participation"
+     ]
+    },
+    {
+     "n": 2,
+     "url": "https://aet.cit.tum.de/teaching/26s/ipraktikum/",
+     "title": "iPraktikum Summer 2026",
+     "section": "Course page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, summarised by fetch tool; quoted)",
+     "extract": "'Credits: 10 ECTS'; 'Possible module numbers: IN0012, IN2106, IN2128'; 'Participants: 50 - 70 students'; 'Industry partners act as clients providing real-world problem statements.'",
+     "supports": [
+      "employer",
+      "credit",
+      "participation",
+      "status"
+     ]
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "TUM Project Weeks (individual company-set courses)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Only the umbrella was fetched (truncated); individual courses with external briefs not tested.",
+   "source_url": "https://www.tum.de/en/studies/degree-programs/key-skill-programs/project-weeks",
+   "status_note": "S1 umbrella retained"
+  },
+  {
+   "name": "Master Maschinenwesen Teamprojekt (Forschungspraxis)",
+   "legacy": false,
+   "category": "Near-miss: not group",
+   "reason": "Module description (search summary, German) says each student has an individual task within a larger project and an individual written exam output; topics set by TUM examiners; no external organisation evidenced.",
+   "source_url": "https://www.tum.de/fileadmin/w00bfo/www/Studium/Studienangebot/Lesbare_Fassung/Master/Maschinenwesen_MA_Studiengangsdokumentation_22012025.pdf",
+   "status_note": ""
+  },
+  {
+   "name": "globalDrive (FTM, Chair of Automotive Technology)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary says teams of three at partner universities abroad with an industry partner supporting; page could not be fetched (redirect then 404). Not verified.",
+   "source_url": "https://www.ftm.mw.tum.de/lehre/internationale-studentenprojekte/",
+   "status_note": ""
+  },
+  {
+   "name": "Industriepraktikum Automotive Software (SSE chair)",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Individual placement; student must bring own industry partner.",
+   "source_url": "https://www.cs.cit.tum.de/sse/lehre/industriepraktikum-automotive-software-entwicklung/",
+   "status_note": ""
+  },
+  {
+   "name": "Advanced Practical Course Information Engineering (external partner)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary says practice-oriented question with an external partner; group working and delivery not evidenced.",
+   "source_url": "https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Studiengaenge/MIE_Studiengangsdokumentation_M_Sc_Information_Engineering.pdf",
+   "status_note": ""
+  },
+  {
+   "name": "Praxisprojekte, School of Social Sciences and Technology / Hochschule fuer Politik",
+   "legacy": false,
+   "category": "Placement/internship",
+   "reason": "Supervised internship/working-student reports (practical project or research work, written report, presentation); individual, no team or client brief evidenced.",
+   "source_url": "https://www.gov.sot.tum.de/en/elaw/lehre/abschlussarbeiten-und-praktika/praxisprojektbetreuung-am-lehrstuhl/",
+   "status_note": ""
+  },
+  {
+   "name": "Architecture studio1zu1 and urban design studios (TUM School of Engineering and Design)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Search summary names real Bauherren (e.g. Bavarian State Ministry for food/agriculture for URBEEN; City of Nuremberg for waldplastik!) but dated 2014 onward undated, group working and current delivery not verified; urban design studios work in teams of about 3 but name no client.",
+   "source_url": "https://www.arc.ed.tum.de/en/lao/research/research-platforms/research-projects/studio1zu1/urbeen/",
+   "status_note": ""
+  },
+  {
+   "name": "Master Industrielle Biotechnologie digital project module",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teams of 3-5 review state of the art on a current question; no external organisation evidenced.",
+   "source_url": "https://www.tum.de/fileadmin/w00bfo/www/Studium/Studienangebot/Lesbare_Fassung/Master/Industrielle_Biotechnologie_MA_Studiengangsdokumentation_18042024.pdf",
+   "status_note": ""
+  },
+  {
+   "name": "TUM Entrepreneurial Masterclass / ERI Entrepreneurial Team Project (BEST)",
+   "legacy": false,
+   "category": "Entrepreneurship/incubator",
+   "reason": "Masterclass is students' own venture plus thesis; BEST listed without detail (internal institute).",
+   "source_url": "https://www.ie.mgt.tum.de/en/ent/home/",
+   "status_note": ""
+  },
+  {
+   "name": "Physics/Chemistry lab and research practicals (School of Natural Sciences)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Teaching labs and supervisor-led research practicals; no external organisation; search found no industry-partner project module in the natural sciences.",
+   "source_url": "https://academics.nat.tum.de/en/studium/org/labs",
+   "status_note": ""
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "TUM's verified employer-linked team provision is distributed across schools rather than institution-wide. In the School of Management, Project Studies place teams of 2-5 students on topics proposed by companies, supervised by a chair, ending in a written report and presentation (3 months full-time); the module is compulsory in the Bachelor Management and Technology and compulsory or optional in master's programmes, and the Entrepreneurship Research Institute lists company project studies dated October 2026 (StudySmarter, KlaroCare, Beautechful). In computing, the iPraktikum (10 ECTS) gives each of 8-12 partner companies per semester its own student team to build an iOS app (Summer 2026 partners include BMW, eBay, Siemens). Centrally, the Project Weeks framework (2-6 ECTS, open across Schools, 11-15 January 2027) did not show external organisations at framework level, so it is recorded as an umbrella only; the 1.000+ Project Week places master's teams of up to five in a medium-sized company for one week, but only the 2026 application announcement was found. Mechanical engineering team projects are individual assignments; natural-science, social-science and life-science searches found no team client projects; architecture studios with real clients remain unverified. Further chair-level industry courses are likely. Source pages were English and German; German extracts are search summaries or translated fetch summaries.",
+ "gaps": "Reduced-depth review. Project Weeks individual courses untested (fetch truncated). 1.000+ delivery unconfirmed. globalDrive and architecture studio client projects unverified. Project Studies team and company details come from undated guidelines plus search summaries; fetch results are tool summaries, not full page text. iPraktikum compulsory/elective status unknown. Further departmental and chair-level industry projects likely exist."
+}

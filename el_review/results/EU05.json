@@ -1,0 +1,599 @@
+{
+ "inst_id": "EU05",
+ "institution": "Sciences Po",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "Sciences Po clinique juridique OR projet collectif OR Policy Lab (sciencespo.fr)",
+    "Sciences Po projets en coopération 2026-2027 appel (sciencespo.fr)",
+    "fetch Civic Learning Programme; Cooperative projects"
+   ],
+   "key_sources": [
+    "https://www.sciencespo.fr/college/en/academics/civic-learning-programme/",
+    "http://www.sciencespo.fr/students/en/get-involved/cooperative-projects/"
+   ],
+   "finding": "Cooperative projects (optional, Paris-campus master's, partner organisations mainly associations/foundations) and compulsory BA Civic Learning Programme (client role unclear)."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "Ecole de management et d'innovation Sciences Po projet entreprise equipe consulting"
+   ],
+   "key_sources": [
+    "https://www.sciencespo.fr/ecole-management-impact/fr/impact-studio/projets-missions/"
+   ],
+   "finding": "Impact Studio Projet Impact (optional M1, partner problems; deliverable unclear). Great Transition group projects are student-chosen (no external client evidenced)."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "Sciences Po informatique ingenierie computer science engineering projet partenaire entreprise"
+   ],
+   "key_sources": [
+    "https://www.sciencespo.fr/ecole-management-impact/fr/impact-studio/projets-missions/"
+   ],
+   "finding": "No engineering/computing faculty; only a Telecom Paris double degree (teaching at Telecom Paris). A 'Projet Tech' variant appears only in a search summary."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "Sciences Po data science Digital New Technology master projet partenaire medialab data challenge"
+   ],
+   "key_sources": [
+    "https://www.sciencespo.fr/public/fr/content/digital-new-technology-and-public-policy.html"
+   ],
+   "finding": "No natural sciences; Digital, New Technology and Public Policy master has an 'Atelier data science' but no partner project evidenced."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "Sciences Po PSIA capstone client organisation students team",
+    "fetch MAGS capstone, Policy Lab incubator, Ecole urbaine projets collectifs"
+   ],
+   "key_sources": [
+    "https://www.sciencespo.fr/psia/academics/master-advanced-global-studies/capstone-projects/",
+    "https://www.sciencespo.fr/ecole-urbaine/fr/le-lab/projets-collectifs/",
+    "https://www.sciencespo.fr/ecole-affaires-publiques/fr/laboratoire-innovations-publiques/incubateur-politiques-publiques/"
+   ],
+   "finding": "Strongest provision: MAGS Capstone (confirmed 2025-26), Policy Lab incubator (2026-27 call), Ecole urbaine collective projects (2026-27 call)."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "Sciences Po clinique juridique (Law School)",
+    "fetch Law School cooperative projects; clinic call 2026-27; PSIA International Law in Action"
+   ],
+   "key_sources": [
+    "https://www.sciencespo.fr/ecole-droit/fr/actualites/appel-a-projets-clinique/",
+    "https://www.sciencespo.fr/psia/academics/masters/law-school-clinic/capstone-course-international-law-in-action/"
+   ],
+   "finding": "Law School clinic and PSIA law clinic: partners are associations/NGOs/institutions; team and deliverable detail thin. No health/design/architecture."
+  }
+ },
+ "schemes": [
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "Civic Learning Programme (Parcours Civique)",
+   "likely_duplicate_of": "",
+   "local_id": "S1",
+   "official_name": "Parcours Civique (Civic Learning Programme), Collège universitaire",
+   "english_name": "Civic Learning Programme",
+   "description": "Compulsory two-year module of the Bachelor of Arts: a 140-hour civic internship after year 1, a 50-hour civic engagement project in year 2 (independent or group), and a Capstone reflective essay. Internship component is an individual placement; the project may be independent or group; no evidence that an external organisation sets a brief or receives a project output as a bounded team project.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Collège universitaire (Undergraduate College)",
+   "eligible_faculties_programmes": "BA students of the Collège universitaire",
+   "faculty_areas": [
+    "central"
+   ],
+   "student_level": "Undergraduate",
+   "year_of_study": "Years 1-2 (capstone submitted end of year 2, or year 3 for 2022-2025 cohort)",
+   "eligibility_restrictions": "Compulsory module of the BA degree (Collège campuses)",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Minimum 6, maximum 9 ECTS for field experiences; Capstone 6 ECTS",
+   "duration": "140 h (summer after Y1) + 50 h project over Y2",
+   "delivery_format": "Civic internship + civic project + reflective essay",
+   "project_based": "Unclear",
+   "project_evidence": "A civic engagement project 'involving community service or the promotion of equality and inclusion' is required; brief and output not specified; the assessed output is an individual reflective essay [1].",
+   "group_working": "Unclear",
+   "group_evidence": "Projects can be 'independent or group'; routes not separable [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page names no partner organisations and links to separate 'examples of field experiences'; role of host organisations in the project not shown [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced",
+   "deliverable": "Extended reflective essay (Capstone)",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "Unclear",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (page footer 2026)",
+   "unresolved": "Whether any group civic projects have an external organisation as client; undated page; counts as a lead only.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sciencespo.fr/college/en/academics/civic-learning-programme/",
+     "title": "Civic Learning Programme",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "Compulsory module of the BA; '140-hour civic internship', 50-hour civic engagement project over second year; min six ECTS (max nine); Capstone Project six ECTS, an extended reflective essay; projects 'independent or group'; no partner organisations named.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "credit",
+      "reach"
+     ],
+     "original_language": "English"
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "2025-26: ITU, OECD (x3 topics), IEA, UNDP, UNESCO, CMA CGM",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S2",
+   "official_name": "Capstone Project, Master in Advanced Global Studies (MAGS), Paris School of International Affairs (PSIA)",
+   "english_name": "MAGS Capstone Project",
+   "description": "Mandatory 12-ECTS capstone of the one-year MAGS: groups of 3-5 students work October-May as consultants on a topic proposed by a host organisation (2025-26 hosts: ITU, OECD, IEA, UNDP, UNESCO, CMA CGM), with a Host Advisor in regular contact, producing an agreed set of deliverables, a written report and final oral presentation; graded pass/fail by a panel including host representatives.",
+   "academic_reach": "Programme/course",
+   "admin_host": "PSIA",
+   "eligible_faculties_programmes": "One-year Master in Advanced Global Studies",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "One-year master",
+   "eligibility_restrictions": "MAGS students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "12 ECTS; pass/fail by evaluation panel incl. host representatives",
+   "duration": "October-May, part-time alongside coursework",
+   "delivery_format": "Team consultancy project for host organisation",
+   "project_based": "Yes",
+   "project_evidence": "Host-supplied topic, agreed deliverables (situation analysis, recommendations, action plan), written report and final presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'a group of 3-5 students will be formed' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Host supplies project, background and context, a Host Advisor is main contact (meetings at least every 3 weeks per search extract), host representatives sit on the evaluation panel and receive the report/presentation [1].",
+   "partner_type": "Mixed",
+   "partner_role": "Host/client: proposes topic, advises, evaluates, receives deliverables. Hosts are mainly intergovernmental/public bodies plus at least one company (CMA CGM).",
+   "deliverable": "Agreed deliverables, written report/executive summary, final oral presentation",
+   "duration_band": "> 1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (2026-27 topic list apparently not yet published)",
+   "unresolved": "Cohort size not published; topics hosted by intergovernmental organisations counted as external (not Sciences Po units).",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sciencespo.fr/psia/academics/master-advanced-global-studies/capstone-projects/",
+     "title": "Master in Advanced Global Studies: Capstone Project",
+     "section": "Capstone page",
+     "pub_year": "2025-26 topics",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "'a mandatory and credited component of the MAGS curriculum'; worth 12 ECTS; 'a group of 3-5 students will be formed'; host 'will support them in empirical study'; graded pass/fail by an evaluation panel with Host Advisor and host representatives; 2025-26 topics hosted by ITU, OECD, IEA, UNDP, UNESCO, CMA CGM.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "credit",
+      "status",
+      "reach"
+     ],
+     "original_language": "English"
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Past editions (page, undated): AFD, ANSSI, CNIL, DINUM, DITP, Ville de Paris, Carrefour, LVMH, Groupe SNCF, Croix-Rouge francaise, WWF France",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S3",
+   "official_name": "Incubateur de politiques publiques, Policy Lab (Ecole d'affaires publiques)",
+   "english_name": "Public Policy Incubator (Policy Lab)",
+   "description": "Teams of 4-6 M1 public policy students work January-May on 'défis' (challenges) proposed by external public, private and non-profit partners, supported by teaching designers, developing a concrete, testable solution and presenting to a jury of partners in mid-May. 4 hours per week, 6 ECTS.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Ecole d'affaires publiques (Policy Lab)",
+   "eligible_faculties_programmes": "First-year (M1) public policy master students; European Affairs master students not eligible; French B2 required",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "M1",
+   "eligibility_restrictions": "M1 public policy master; French B2",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 ECTS (about 48 h)",
+   "duration": "January-May (second semester)",
+   "delivery_format": "Team challenge project, 4 h/week Wednesday mornings",
+   "project_based": "Yes",
+   "project_evidence": "Develop 'une solution concrète, tangible et testable' for a partner challenge [1].",
+   "group_working": "Yes",
+   "group_evidence": "'petits groupes (4 à 6 personnes)' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Challenges 'proposées par des partenaires externes (publics, privés, associatifs)'; final presentation to a jury of partners [1]. Past partners listed on page (undated).",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes challenge; sits on final jury",
+   "deliverable": "Concrete testable solution; presentation to partner jury",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2026-27 call for challenges open",
+   "unresolved": "No dated evidence of 2025/26 delivery fetched; compulsory vs optional not stated.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sciencespo.fr/ecole-affaires-publiques/fr/laboratoire-innovations-publiques/incubateur-politiques-publiques/",
+     "title": "Incubateur de politiques publiques",
+     "section": "Programme page",
+     "pub_year": "2026-27 call",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "Teams 'répartis en petits groupes (4 à 6 personnes)'; défis 'proposées par des partenaires externes'; 'second semestre (janvier-mai)'; '(6 ECTS)'; 'Étudiants en première année (M1) du master de politiques publiques'; 'L'appel à défi 2026-2027 est maintenant ouvert'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "credit",
+      "status"
+     ],
+     "original_language": "French (translated)"
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Example (2019 article): association Espaces / Emmaüs France; ICF Habitat named on page (undated)",
+   "participation_data": "2024-25 call reported 40 projects / 170 students (search extract, not opened)",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S4",
+   "official_name": "Projets collectifs, Ecole urbaine de Sciences Po",
+   "english_name": "Urban School collective projects",
+   "description": "In all Ecole urbaine masters, teams of 4-5 students work 5-9 months (depending on programme) under an academic or professional tutor on a project proposed by a public or private urban/territorial actor (local authorities, companies, associations, NGOs, consultancies); each project ends at minimum with an oral presentation to the commissioning organisation and a written report.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Ecole urbaine",
+   "eligible_faculties_programmes": "Ecole urbaine masters (e.g. Urban and Territorial Strategies, Governing the Large Metropolis, Governing Ecological Transitions in European Cities, Executive Master in Territorial Governance)",
+   "faculty_areas": [
+    "arts_humanities_social_sciences"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Ecole urbaine master students",
+   "participation_requirement": "Compulsory within specified programmes",
+   "curricular_status": "Curricular",
+   "credit_assessment": "ECTS not stated on pages fetched; page says project is 'at the heart of the pedagogy of all masters' (compulsory status inferred, not explicit)",
+   "duration": "5-9 months depending on programme",
+   "delivery_format": "Team project for external commissioner",
+   "project_based": "Yes",
+   "project_evidence": "Project with commissioner, written report and oral presentation [1][2].",
+   "group_working": "Yes",
+   "group_evidence": "'équipe de 4 à 5 étudiants' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'Tout acteur de la ville et des territoires peut proposer un projet'; project ends with 'présentation orale des étudiants au commanditaire' [1][2]; 2019 example client: association Espaces / Emmaüs (Jardin du Piqueur) [3].",
+   "partner_type": "Mixed",
+   "partner_role": "Commissioner: proposes project, receives presentation and report",
+   "deliverable": "Written report + oral presentation (other formats possible)",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Announced/forthcoming",
+   "latest_evidenced_year": "2026-27 call for projects (page links lists for 2025-26, 2026-27 not opened)",
+   "unresolved": "Compulsory/ECTS not explicit; 2025/26 delivery only via links to project lists that were not opened, so not marked confirmed.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sciencespo.fr/ecole-urbaine/fr/le-lab/projets-collectifs/",
+     "title": "Les projets collectifs de l'Ecole urbaine",
+     "section": "Lab page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "'Le projet collectif s'inscrit au coeur de la pédagogie de tous les masters'; team of 4-5 students under a tutor; 'Tout acteur de la ville et des territoires peut proposer un projet'; links project lists 2024-25, 2025-26, 2026-27.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "reach",
+      "status"
+     ],
+     "original_language": "French (translated)"
+    },
+    {
+     "n": 2,
+     "url": "https://www.sciencespo.fr/ecole-urbaine/fr/actualites/proposez-un-projet-collectif-l-ecole-urbaine/",
+     "title": "Proposez un projet collectif a l'Ecole urbaine",
+     "section": "News/call",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "'Pendant 5 à 9 mois', team of 4-5; 'présentation orale des étudiants au commanditaire' and 'un rapport écrit'.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "duration"
+     ],
+     "original_language": "French (translated)"
+    },
+    {
+     "n": 3,
+     "url": "https://www.sciencespo.fr/ecole-urbaine/fr/actualites/les-rendus-finaux-des-projets-collectifs/",
+     "title": "Projets collectifs : les rendus finaux ont commence",
+     "section": "News",
+     "pub_year": "2019-06-03",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "Example client the association Espaces (Emmaus France); 'Le projet se conclut par une présentation orale des étudiants au commanditaire'.",
+     "supports": [
+      "employer"
+     ],
+     "original_language": "French (translated)"
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S5",
+   "official_name": "Projets en coopération (Cooperative projects), Paris campus",
+   "english_name": "Cooperative projects",
+   "description": "Optional master's project: teams of 3-5 students (M1 or M2, Paris campus, any master) work about 6 months (c. 2 h/week) on a general-interest project for a partner organisation (mainly public-interest associations and foundations, SCIC cooperatives, some local-authority services), ending with a final report/presentation in a format agreed with the partner and a debrief. The Law School version is a 6-ECTS optional M1 module (September-April/May, c. 3 h/week) 'guided by the commanditaire'.",
+   "academic_reach": "University-wide",
+   "admin_host": "Sciences Po (students' site); Law School and PSIA variants",
+   "eligible_faculties_programmes": "Master's students on the Paris campus (M1/M2, incl. gap year); some programmes require notifying their secretariat",
+   "faculty_areas": [
+    "central",
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "M1 or M2",
+   "eligibility_restrictions": "Paris campus master's students; M2/gap-year students available for full year",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Mixed",
+   "credit_assessment": "Central page: ECTS not stated. Law School page: 6 ECTS. PSIA search extract: 6 ECTS, incompatible with Law clinics",
+   "duration": "About 6 months",
+   "delivery_format": "Team project for partner",
+   "project_based": "Yes",
+   "project_evidence": "Project for partner with final report/event/presentation and debrief [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams of 3 to 5 participants' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partner organisation submits project (deadline 30 May), guides the team, receives the final report/presentation [1][2]. Partners are associations/foundations/local authority services rather than employers in the commercial sense.",
+   "partner_type": "Charity/community",
+   "partner_role": "Commissioner: submits project, guides team, receives report",
+   "deliverable": "Final report/presentation in format agreed with partner",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated timeline (page footer 2026)",
+   "unresolved": "Calendar undated (no explicit 2026-27 call); Law School page not dated; relationship between central and Law variants assumed same scheme.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "http://www.sciencespo.fr/students/en/get-involved/cooperative-projects/",
+     "title": "Cooperative projects",
+     "section": "Programme page",
+     "pub_year": "undated (footer 2026)",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "'general-interest projects open to Master's students ... in close cooperation with a partner organisation'; 'teams of 3 to 5'; open to Paris-campus M1/M2; about six months, c. 2 h/week; final report end April-mid May in a format agreed with the partner.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "eligibility",
+      "duration",
+      "status"
+     ],
+     "original_language": "English"
+    },
+    {
+     "n": 2,
+     "url": "https://www.sciencespo.fr/ecole-droit/fr/formations/projets-en-cooperation-et-moots/",
+     "title": "Projets en coopération et Moots",
+     "section": "Law School page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "'module facultatif ... crédité à 6 ECTS'; 'équipes de 3 à 5 en moyenne'; 'guidé par le commanditaire'; partner may be 'une institution publique, une entreprise, une association'; M1, September to April/May.",
+     "supports": [
+      "group",
+      "employer",
+      "credit",
+      "participation"
+     ],
+     "original_language": "French (translated)"
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Page (undated) lists Advens, Bayard, BNP Paribas, Croix-Rouge, Fondation CMA CGM, Ingenico, Kering, L'Oreal, Natixis IM, We Fundia (not tied to a specific year)",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S6",
+   "official_name": "Projet Impact, Impact Studio (Ecole du Management et de l'Impact)",
+   "english_name": "Impact Project (Impact Studio)",
+   "description": "Optional M1 module in which students answer in groups problems proposed by partner organisations (BNP Paribas, Kering, Croix-Rouge, Fondation CMA CGM and others), with a Sciences Po faculty mentor. Duration, credit and output not stated on the page fetched.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Impact Studio, Ecole du Management et de l'Impact",
+   "eligible_faculties_programmes": "M1 students of the Ecole du Management et de l'Impact",
+   "faculty_areas": [
+    "business"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "M1",
+   "eligibility_restrictions": "M1 of the school",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Unclear",
+   "credit_assessment": "Not stated",
+   "duration": "Not stated",
+   "delivery_format": "Group project with faculty mentor",
+   "project_based": "Unclear",
+   "project_evidence": "Groups answer partners' problems, but no deliverable stated on the page [1].",
+   "group_working": "Yes",
+   "group_evidence": "'répondre en groupe aux problématiques proposées par nos partenaires' [1].",
+   "employer_connected": "Yes",
+   "employer_evidence": "Partners propose the problems [1]; how partners receive outputs not shown.",
+   "partner_type": "Mixed",
+   "partner_role": "Proposes problem",
+   "deliverable": "Not stated",
+   "duration_band": "Unclear",
+   "external_partner_coverage": "All/standard",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (2026-27 mention concerns the separate Recherche en Action programme)",
+   "unresolved": "Deliverable, duration, ECTS and year of delivery; a 'Projet Tech' variant appears in a search summary only and was not verified.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sciencespo.fr/ecole-management-impact/fr/impact-studio/projets-missions/",
+     "title": "Programmes du Studio",
+     "section": "Programme page",
+     "pub_year": "undated",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "'Les Projets offrent aux étudiants l'opportunité de répondre en groupe aux problématiques proposées par nos partenaires'; 'module non obligatoire proposé au M1'.",
+     "supports": [
+      "group",
+      "employer",
+      "participation",
+      "eligibility"
+     ],
+     "original_language": "French (translated)"
+    }
+   ]
+  },
+  {
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "module_code": "",
+   "named_partners": "Past: UN Special Rapporteur on counter-terrorism, FIDH, UNHCR France, Court Watch (OSF), UC Berkeley Center for Human Rights, Institut Robert Badinter",
+   "participation_data": "",
+   "legacy_ref": "",
+   "likely_duplicate_of": "",
+   "local_id": "S7",
+   "official_name": "Capstone course International Law in Action, PSIA Law School Clinic",
+   "english_name": "International Law in Action capstone",
+   "description": "Selective one-year course for students in the Human Rights in Humanitarian Action programme: working groups (typically two in semester 2) produce a working paper/report/case study 'submitted and/or presented to relevant professional partners'; past outputs include reports for a UN Special Rapporteur, UNHCR, FIDH, an ICC communication.",
+   "academic_reach": "Programme/course",
+   "admin_host": "PSIA",
+   "eligible_faculties_programmes": "PSIA Human Rights in Humanitarian Action students; selective",
+   "faculty_areas": [
+    "other"
+   ],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "One year",
+   "eligibility_restrictions": "Selection depends on project needs and team balance",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "ECTS not stated",
+   "duration": "One academic year",
+   "delivery_format": "Clinical group projects",
+   "project_based": "Yes",
+   "project_evidence": "Final working paper/report/case study [1].",
+   "group_working": "Yes",
+   "group_evidence": "Class 'typically divided into two working groups' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Outputs go to professional partners (UNHCR France, FIDH, UN Special Rapporteur, Court Watch, Institut Robert Badinter) but page says 'and/or' and these are past outputs; not shown as standard for each project. Page does not describe them as clients.",
+   "partner_type": "Mixed",
+   "partner_role": "Recipients of reports (per page)",
+   "deliverable": "Report/working paper/case study",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2026 applications (5-15 June 2026) for 2026-27",
+   "unresolved": "Whether each project has an external commissioner; ECTS.",
+   "sources": [
+    {
+     "n": 1,
+     "url": "https://www.sciencespo.fr/psia/academics/masters/law-school-clinic/capstone-course-international-law-in-action/",
+     "title": "Capstone course international law in action",
+     "section": "Course page",
+     "pub_year": "2026",
+     "accessed": "2026-10-13",
+     "retrieval": "page text (WebFetch, quoted/summarised by fetch model)",
+     "extract": "'a selective one-year long course'; 'typically divided into two working groups'; final paper 'submitted and/or presented to relevant professional partners'; 2026 application timeline.",
+     "supports": [
+      "project",
+      "group",
+      "employer",
+      "participation",
+      "status"
+     ],
+     "original_language": "English"
+    }
+   ]
+  }
+ ],
+ "exclusions": [
+  {
+   "name": "Great Transition programme (Ecole du Management et de l'Impact)",
+   "legacy": false,
+   "category": "Near-miss: no external org",
+   "reason": "Groups of five from different masters develop entrepreneurial solutions to a self-chosen problem, judged by professionals (search summary only, not opened); no external organisation setting the brief evidenced.",
+   "source_url": "https://www.sciencespo.fr/fr/actualites/sciences-po-place-limpact-au-coeur-du-projet-pedagogique-de-son-ecole-de-management/",
+   "status_note": "search-summary only"
+  },
+  {
+   "name": "Clinique de l'Ecole de droit (appel a projets 2026-2027)",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Call addressed to associations, NGOs, institutions and researchers for projects 'en partenariat avec des étudiants'; no team structure, deliverable or credit on the page fetched.",
+   "source_url": "https://www.sciencespo.fr/ecole-droit/fr/actualites/appel-a-projets-clinique/",
+   "status_note": "2026-27 call"
+  },
+  {
+   "name": "Impact Studio Projet Tech / Parcours Entrepreneur a Impact / Recherche en Action",
+   "legacy": false,
+   "category": "Evidence gap",
+   "reason": "Projet Tech reported only in a search summary; Entrepreneur track is incubation; Recherche en Action is an applied research thesis (2026-27 on MCP) without a client shown.",
+   "source_url": "https://www.sciencespo.fr/ecole-management-impact/fr/impact-studio/projets-missions/",
+   "status_note": ""
+  },
+  {
+   "name": "Double diplome Telecom Paris",
+   "legacy": false,
+   "category": "Other",
+   "reason": "Engineering years are taught at Telecom Paris; no Sciences Po project route evidenced.",
+   "source_url": "https://www.sciencespo.fr/ecole-management-impact/fr/formations/doubles-diplomes/telecom-paris/",
+   "status_note": "search-summary only"
+  }
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Sciences Po (Paris) has several partner-linked team project routes in its graduate schools; none could be verified as institution-wide compulsory. The clearest is the compulsory 12-ECTS MAGS Capstone at PSIA: groups of 3-5 act as consultants for host organisations (2025-26: ITU, OECD, IEA, UNDP, UNESCO, CMA CGM), with host representatives on the pass/fail panel. The Policy Lab public policy incubator (M1, 6 ECTS, teams of 4-6, partner-set challenges, jury of partners) and the Ecole urbaine collective projects (teams of 4-5, 5-9 months, written report and oral presentation to the commissioning organisation) are well described, but only 2026-27 calls were evidenced, so they are recorded as announced. Optional cooperative projects (Paris-campus master's, teams of 3-5, mainly associations/foundations) are open widely but the calendar is undated. The compulsory BA Civic Learning Programme is individual placement plus an independent-or-group project with no client role evidenced. Impact Studio projects have partner-set problems but no stated deliverable. Mostly postgraduate and school-based; no engineering or natural science provision. Pages were French or English; French extracts translated. Uncertain: compulsory status and ECTS of Ecole urbaine projects, 2025/26 delivery of the Policy Lab and Ecole urbaine routes, Law School clinic structure.",
+ "gaps": "Further departmental projects likely (other PSIA masters, Law School clinic, Policy Lab Intensive). 2025/26 delivery for S3/S4 not opened. Fetch tool summarised pages (retrieval via WebFetch model summaries; quotes may be abridged). Reduced-depth mode: about 10 searches and 12 fetches.",
+ "meets_all_three_current": [
+  "S2"
+ ]
+}

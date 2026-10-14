@@ -2211,7 +2211,24 @@ Paris-Saclay pages do not show a university-wide student-project scheme; employe
 
 ### Sorbonne University (EU03, France)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+
+Two routes meet all three criteria with current delivery evidence, and both are narrow in who can join.
+
+**DU Gestion de projet entrepreneurial et intrapreneurial (4EU+ European track)**: interdisciplinary teams of students and doctoral candidates work for seven months (Nov 2026-June 2027) on a challenge proposed by a partner organisation (company, public institution, NGO, laboratory or association), ending in a defence before a European jury. It is aimed primarily at doctoral students of 4EU+ universities and, subject to availability, new master's graduates, so it is not open to ordinary undergraduates. A 2022 article on the French track describes a 'commanditaire' submitting a problem (e.g. Safran aircraft waste reduction).
+
+**Polytech Sorbonne projets industriels**: year 4-5 engineering students in teams of 4-6 with an industrial client and an academic tutor (semester or year, ~100 h per student); the MAIN year-4 curriculum for 2026-2027 lists the module. Whether it is compulsory in every specialty and its ECTS are not stated.
+
+Near-misses: a maths M1 TER with optional industrial question (pairs possible), and an M2 health business-plan unit where the project holders are not shown to be organisations. Pépite/SNEE is entrepreneurship support and is excluded. Sorbonne has no business school; CELSA collective projects have no evidenced external client. Provision is distributed across schools rather than institution-wide. Pages were French; extracts translated and original language noted.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| EU03-S01 | DU Gestion de projet entrepreneurial et intrapreneurial (parcours européen / 4EU+) | University-wide | Selective/competitive | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2026/27 (programme Nov 2026-June 2027; applications June-Oct 2026) |
+| EU03-S02 | Projets industriels (Polytech Sorbonne) | Faculty/school | Unclear | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026/27 curriculum lists the module (MAIN year 4); project presentation event 25 May 2023 |
+| EU03-S03 | Master Mathématiques et Applications - TER (travail d'étude et de recherche) with industrial partner question | Programme/course | Unclear | Yes/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear 2024/25 brochure |
+| EU03-S04 | UE 8 Créer une entreprise en santé (Business Plan workshop), M2 Management de l'innovation, parcours EPI Sciences et Santé, spécialité Santé (UE 8) | Programme/course | Compulsory within specified programmes | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear undated page |
+
+**Uncertain / unresolved:** Reduced-depth pass (~9 searches, plus fetches). Not opened: CELSA RH master 'Projet collectif', Doctorat-Conseil, Lettres masters (Médiation de la musique, Humanités numériques), Faculté de médecine, other Polytech specialties and the 2025-26 Polytech brochure (PDF not text-extractable; Décathlon/Colas examples unverified). Further departmental instances likely. The WebFetch tool returns model-summarised text, so quotes are as returned; English-language DU quotes originate from an English page, French quotes are original.
 
 ### Institut Polytechnique de Paris (EU04, France)
 
@@ -2219,15 +2236,58 @@ _Not yet reviewed in this pass._
 
 ### Sciences Po (EU05, France)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+Sciences Po (Paris) has several partner-linked team project routes in its graduate schools; none could be verified as institution-wide compulsory. The clearest is the compulsory 12-ECTS MAGS Capstone at PSIA: groups of 3-5 act as consultants for host organisations (2025-26: ITU, OECD, IEA, UNDP, UNESCO, CMA CGM), with host representatives on the pass/fail panel. The Policy Lab public policy incubator (M1, 6 ECTS, teams of 4-6, partner-set challenges, jury of partners) and the Ecole urbaine collective projects (teams of 4-5, 5-9 months, written report and oral presentation to the commissioning organisation) are well described, but only 2026-27 calls were evidenced, so they are recorded as announced. Optional cooperative projects (Paris-campus master's, teams of 3-5, mainly associations/foundations) are open widely but the calendar is undated. The compulsory BA Civic Learning Programme is individual placement plus an independent-or-group project with no client role evidenced. Impact Studio projects have partner-set problems but no stated deliverable. Mostly postgraduate and school-based; no engineering or natural science provision. Pages were French or English; French extracts translated. Uncertain: compulsory status and ECTS of Ecole urbaine projects, 2025/26 delivery of the Policy Lab and Ecole urbaine routes, Law School clinic structure.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| EU05-S01 | Parcours Civique (Civic Learning Programme), Collège universitaire | Programme/course | Compulsory within specified programmes | Unclear/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear undated (page footer 2026) |
+| EU05-S02 | Capstone Project, Master in Advanced Global Studies (MAGS), Paris School of International Affairs (PSIA) | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Current delivery confirmed 2025/26 (2026-27 topic list apparently not yet published) |
+| EU05-S03 | Incubateur de politiques publiques, Policy Lab (Ecole d'affaires publiques) | Programme/course | Unclear | Yes/Yes/Yes | Mixed | Meets all three | Announced/forthcoming 2026-27 call for challenges open |
+| EU05-S04 | Projets collectifs, Ecole urbaine de Sciences Po | Programme/course | Compulsory within specified programmes | Yes/Yes/Yes | Mixed | Meets all three | Announced/forthcoming 2026-27 call for projects (page links lists for 2025-26, 2026-27 not opened) |
+| EU05-S05 | Projets en coopération (Cooperative projects), Paris campus | University-wide | Optional/elective | Yes/Yes/Yes | Charity/community | Meets all three | Current status unclear undated timeline (page footer 2026) |
+| EU05-S06 | Projet Impact, Impact Studio (Ecole du Management et de l'Impact) | Programme/course | Optional/elective | Unclear/Yes/Yes | Mixed | Potentially relevant; evidence incomplete | Current status unclear undated (2026-27 mention concerns the separate Recherche en Action programme) |
+| EU05-S07 | Capstone course International Law in Action, PSIA Law School Clinic | Programme/course | Selective/competitive | Yes/Yes/Unclear | Mixed | Potentially relevant; evidence incomplete | Current status unclear 2026 applications (5-15 June 2026) for 2026-27 |
+
+**Uncertain / unresolved:** Further departmental projects likely (other PSIA masters, Law School clinic, Policy Lab Intensive). 2025/26 delivery for S3/S4 not opened. Fetch tool summarised pages (retrieval via WebFetch model summaries; quotes may be abridged). Reduced-depth mode: about 10 searches and 12 fetches.
 
 ### Technical University of Munich (EU06, Germany)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 2
+
+TUM's verified employer-linked team provision is distributed across schools rather than institution-wide. In the School of Management, Project Studies place teams of 2-5 students on topics proposed by companies, supervised by a chair, ending in a written report and presentation (3 months full-time); the module is compulsory in the Bachelor Management and Technology and compulsory or optional in master's programmes, and the Entrepreneurship Research Institute lists company project studies dated October 2026 (StudySmarter, KlaroCare, Beautechful). In computing, the iPraktikum (10 ECTS) gives each of 8-12 partner companies per semester its own student team to build an iOS app (Summer 2026 partners include BMW, eBay, Siemens). Centrally, the Project Weeks framework (2-6 ECTS, open across Schools, 11-15 January 2027) did not show external organisations at framework level, so it is recorded as an umbrella only; the 1.000+ Project Week places master's teams of up to five in a medium-sized company for one week, but only the 2026 application announcement was found. Mechanical engineering team projects are individual assignments; natural-science, social-science and life-science searches found no team client projects; architecture studios with real clients remain unverified. Further chair-level industry courses are likely. Source pages were English and German; German extracts are search summaries or translated fetch summaries.
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| EU06-S01 | TUM Project Weeks (Projektwochen) | University-wide | Optional/elective | Unclear/Unclear/Unclear | Unclear | Potentially relevant; evidence incomplete | Current delivery confirmed 2026/27 (11-15 January 2027) |
+| EU06-S02 | TUM 1.000+ Project Week | University-wide | Selective/competitive | Yes/Yes/Yes | Business/commercial | Meets all three | Current status unclear 2026 (announced; 20-24 April 2026) |
+| EU06-S03 | Projektstudium / Project Studies (TUM School of Management; company-proposed projects) (e.g. WIHN0684 (older BMT module, 12 ECTS)) | Faculty/school | Compulsory within specified programmes | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2026/27 (listings 2-12 October 2026) |
+| EU06-S04 | iPraktikum (iOS Development with Real-World Industry Challenges) (IN0012, IN2106, IN2128) | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed Summer 2026 |
+
+**Uncertain / unresolved:** Reduced-depth review. Project Weeks individual courses untested (fetch truncated). 1.000+ delivery unconfirmed. globalDrive and architecture studio client projects unverified. Project Studies team and company details come from undated guidelines plus search summaries; fetch results are tool summaries, not full page text. iPraktikum compulsory/elective status unknown. Further departmental and chair-level industry projects likely exist.
 
 ### LMU Munich (EU07, Germany)
 
-_Not yet reviewed in this pass._
+**Review:** Complete · **Embeddedness:** Several distributed routes · **Current qualifying schemes:** 1
+
+Searches in English and German found employer-linked team project provision at LMU Munich that is distributed across institutes rather than institution-wide. No central scheme was verified: the IEC impACTup foundational course and BMW Real World Case lack documented client projects or current dates, and the teacher-education certificate el mundo (legacy row) shows no specific project route.
+
+The best-evidenced route is the Informatik MSc practical on Quantum Computing Programmierung (S4): groups take tasks set by industry partners (SAP and Siemens named for WS 2025/26) and present results to them; the course is listed for SoSe 2026 and WiSe 2026/27, though partners for 2026/27 are not named. It is open to a limited cohort (up to 24 students) via central registration.
+
+In the School of Management, the IMM Projektkurs (12 ECTS, teams of at least two, well-known companies/institutions, summer term) matches all three criteria on its page but is undated, so current delivery is unclear. The ILO MSc Projektkurs has named corporate partners but teamwork is not stated. The Marketing Consulting seminar has teams on a 'real consulting project' but no client is named. Sociology Lehrforschung has documented community/city partners (latest 2024/25) with unclear partner role and group basis.
+
+Uncertain: current status of most business-school routes, further chair-level offers, Psychology Lehrpraxisprojekte (page unavailable), and health, design and natural-science provision (one query each or none).
+
+| ID | Scheme | Reach | Participation | A/B/C | Partner | Classification | Status |
+|---|---|---|---|---|---|---|---|
+| EU07-S01 | Projektkurs Marktorientierte Unternehmensführung (IMM) | Faculty/school | Selective/competitive | Yes/Yes/Yes | Unclear | Meets all three | Current status unclear undated (page footer 2023; PStO 2024 referenced) |
+| EU07-S02 | Projektkurs (MSc), Institut für Leadership und Organisation | Faculty/school | Unclear | Yes/Unclear/Yes | Business/commercial | Potentially relevant; evidence incomplete | Current status unclear undated (footer 2023) |
+| EU07-S03 | Marketing Consulting (Hauptseminar) | Faculty/school | Optional/elective | Yes/Yes/Unclear | Unclear | Potentially relevant; evidence incomplete | Current status unclear page states not available in winter term 2024/2025 |
+| EU07-S04 | MSc-Praktikum: Quantum Computing Programmierung | Programme/course | Optional/elective | Yes/Yes/Yes | Business/commercial | Meets all three | Current delivery confirmed 2025/26 (partners named); course listed SoSe 2026 and WiSe 2026/27 |
+| EU07-S05 | Lehrforschungsprojekte, Institut für Soziologie (e.g. 'Queerer Alltag in München') | Programme/course | Optional/elective | Yes/Unclear/Unclear | Charity/community | Potentially relevant; evidence incomplete | Current status unclear 2024/25 |
+
+**Uncertain / unresolved:** Business-school pages are undated; IMM named-partner list not retrieved; ILO group working unstated; Psychology Lehrpraxisprojekte page returned 503; further SOM chair-level projects (DSS, DMM, ISM, Managerial Accounting) not researched; medicine/veterinary/design not searched; natural sciences covered by one query; 2026/27 partners for the Quantum Computing practical not named; legacy impACTup 3-ECTS and WiSe 2026/27 Moodle claims not re-verified. Further departmental instances likely.
 
 ### Heidelberg (EU08, Germany)
 

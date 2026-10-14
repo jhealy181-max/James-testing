@@ -1,0 +1,306 @@
+{
+ "inst_id": "EU07",
+ "institution": "LMU Munich (Ludwig-Maximilians-Universität München)",
+ "review_status": "Complete",
+ "partial_remaining": "",
+ "research_date": "2026-10-13",
+ "search_log": {
+  "central": {
+   "status": "Searched",
+   "queries": [
+    "LMU München Studierende Projekt Unternehmen Praxispartner Team Kooperationsprojekt (German)",
+    "LMU Innovation & Entrepreneurship Center impACTup Entrepreneurship Lab student teams startup challenge partner"
+   ],
+   "key_sources": [
+    "https://www.iec.lmu.de/en/our-services/educational-services/impactup-foundational-course-for-students/",
+    "https://www.iec.lmu.de/en/our-services/ideation-innovation/bmw-real-world-case/",
+    "https://www.geo.lmu.de/elmundo/en/infoboxen.html"
+   ],
+   "finding": "No central university-wide employer-project scheme verified. IEC offerings (impACTup foundational course, BMW Real World Case, bootcamps, Innovation Incubator) either lack documented team-project/partner evidence or are dated 2024; legacy rows reassessed as exclusions."
+  },
+  "business": {
+   "status": "Searched",
+   "queries": [
+    "LMU Munich School of Management student consulting project company live case seminar",
+    "(German query above also returned LMU SOM institute pages)"
+   ],
+   "key_sources": [
+    "https://www.som.lmu.de/imm/en/teaching/courses/project-course.html",
+    "https://www.som.lmu.de/ilo/de/lehre/projektkurs-msc/",
+    "https://www.som.lmu.de/marketing/en/teaching/marketing-consulting/"
+   ],
+   "finding": "Distributed institute-level project courses at the LMU Munich School of Management (IMM Projektkurs; ILO Projektkurs MSc; Marketing Consulting seminar). Pages are undated or mark non-delivery in some years, so current status is unclear. Further chair-level project offers (DSS, DMM, ISM, Managerial Accounting) were listed in search results but not researched."
+  },
+  "engineering_computing": {
+   "status": "Searched",
+   "queries": [
+    "LMU Informatik Praktikum Projekt Industriepartner Studierende Team Kooperation Unternehmen",
+    "Praktikum Quantum Computing Programmierung LMU Industriepartner BASF BMW SAP Siemens Gruppen Praesentation",
+    "Praktikum Quantum Computing Programmierung WS 2026/27 namhaften Partnern aus der Industrie"
+   ],
+   "key_sources": [
+    "https://old.mobile.ifi.lmu.de/lehrveranstaltungen/praktikum-qcp-ws2526/",
+    "https://www.ifi.lmu.de/mvs/de/lehre/lehrveranstaltungen.html"
+   ],
+   "finding": "MSc-Praktikum Quantum Computing Programmierung (Informatik): groups work on industry-partner tasks and present to partners; course listed for SoSe 2026 and WiSe 2026/27. Individual company-supervised Master practicals in Media Informatics are individual (excluded)."
+  },
+  "science": {
+   "status": "Searched",
+   "queries": [
+    "LMU Fakultaet Physik Chemie Biologie Geowissenschaften Studierende Projekt externe Partner Unternehmen Masterprojekt Team"
+   ],
+   "key_sources": [
+    "https://www.physik.lmu.de/de/studium/studiengaenge/abschlussarbeiten.html"
+   ],
+   "finding": "No team-based employer project scheme found in natural sciences; results only showed externally supervised individual theses (excluded). Not exhaustive (one query)."
+  },
+  "arts_humanities_social_sciences": {
+   "status": "Searched",
+   "queries": [
+    "LMU Sozialwissenschaften Kommunikationswissenschaft Soziologie Lehrforschungsprojekt Praxispartner Studierende Auftraggeber"
+   ],
+   "key_sources": [
+    "https://www.soziologie.lmu.de/de/lehrbereiche/lb-07/forschung/lehrforschung.html"
+   ],
+   "finding": "Sociology Lehrforschung projects with external Praxispartner (community associations, City of Munich department) documented, but group working and standard partner involvement unclear and latest named project is SoSe 2024/WiSe 2024/25. Psychology Lehrpraxisprojekte (Wirtschaftspsychologie) surfaced in search but its page returned HTTP 503 so was not verified."
+  },
+  "other": {
+   "status": "Searched",
+   "queries": [
+    "LMU Law clinic Studierende Rechtsberatung Projekt Praxis Jura Legal Tech Unternehmen Team"
+   ],
+   "key_sources": [
+    "https://www.jura.lmu.de/de/studium/studentisches-leben/studentische-aktivitaeten/"
+   ],
+   "finding": "Law: only student-association clinics (Refugee Law Clinic, Start Right e.V., KYRI) and a past Law Clinic Popularklage; casework/extracurricular associations, not verified as employer group projects. Medicine, veterinary, design, architecture not searched separately (reduced-depth mode)."
+  }
+ },
+ "schemes": [
+  {
+   "local_id": "S1",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Projektkurs Marktorientierte Unternehmensführung (IMM)",
+   "english_name": "Project Course, Institute for Market-based Management (IMM)",
+   "module_code": "",
+   "description": "Teams of at least two students work for 3-4 months on real practice tasks for well-known companies/institutions under IMM supervision, producing information for decision-makers rather than 'Powerpoints for the filing cabinet'. Includes interim and final presentations. Language of page: English (German page also exists).",
+   "academic_reach": "Faculty/school",
+   "admin_host": "LMU Munich School of Management, Institute for Market-based Management",
+   "eligible_faculties_programmes": "Management students under PStO 2018 / PStO 2024 (programme not specified on the page)",
+   "faculty_areas": ["business"],
+   "student_level": "Unclear",
+   "year_of_study": "",
+   "eligibility_restrictions": "Admission restricted by the central allocation office of the faculty; registration required.",
+   "participation_requirement": "Selective/competitive",
+   "curricular_status": "Curricular",
+   "credit_assessment": "12 ECTS (PStO 2018 and PStO 2024)",
+   "duration": "3-4 months, every summer term",
+   "delivery_format": "Team project with practice partner, in person (not stated)",
+   "project_based": "Yes",
+   "project_evidence": "Real tasks from practice, 3-4 months, results for decision-makers [1].",
+   "group_working": "Yes",
+   "group_evidence": "'teams (consisting of at least 2 students)' [1][2].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'well-known companies/institutions' provide real tasks; a separate list of practice partners is linked but no names were retrieved [1][2].",
+   "partner_type": "Unclear",
+   "partner_role": "Sets real practice tasks; receives results/presentations (inferred from 'decision-makers'; not explicit)",
+   "named_partners": "",
+   "deliverable": "Project results for decision-makers, interim and final presentations",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (page footer 2023; PStO 2024 referenced)",
+   "participation_data": "",
+   "unresolved": "No dated 2025/26 or 2026/27 corroboration; named partners not retrieved; whether 'institutions' includes public sector.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.som.lmu.de/imm/en/teaching/courses/project-course.html", "title": "Project Course - LMU Munich School of Management", "section": "Course page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, quoted)", "extract": "Teams 'consisting of at least 2 students'; 'well-known companies/institutions'; '12 ECTS (PStO 2018 & PStO 2024)'; 'For 3-4 months'; 'Every summer term'; 'Admission restricted by the central allocation office of the faculty'.", "supports": ["project", "group", "employer", "credit", "eligibility", "duration"]},
+    {"n": 2, "url": "https://www.som.lmu.de/imm/de/lehre/veranstaltungen/projektkurs.html", "title": "Projektkurs (IMM, German page)", "section": "Veranstaltungen", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, quoted; original German)", "extract": "'Im Rahmen des Projektkurses zur Marktorientierten Unternehmensführung bearbeiten Sie in Teams' ... 'bestehend aus mind. 2 Studierenden'; 'Jedes Sommersemester'; 'Hier finden Sie eine Auswahl an Praxispartnern'; registration required. (Original German; translation mine.)", "supports": ["group", "employer", "status"]}
+   ]
+  },
+  {
+   "local_id": "S2",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Projektkurs (MSc), Institut für Leadership und Organisation",
+   "english_name": "Project Course (MSc), Institute for Leadership and Organisation",
+   "module_code": "",
+   "description": "MSc project course in which students work on a concrete business problem with a practice partner, with regular contact with the partner; results intended as a decision basis for the partner. Page in German.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "LMU Munich School of Management, Institut für Leadership und Organisation",
+   "eligible_faculties_programmes": "MSc Management (programme not specified)",
+   "faculty_areas": ["business"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Unclear",
+   "curricular_status": "Curricular",
+   "credit_assessment": "ECTS not listed on the page",
+   "duration": "1 semester (summer and winter)",
+   "delivery_format": "Project with practice partner",
+   "project_based": "Yes",
+   "project_evidence": "Work on a concrete business problem with a Praxispartner [1].",
+   "group_working": "Unclear",
+   "group_evidence": "The fetched page does not mention teamwork; a search summary referred to teams but this was not confirmed on the page.",
+   "employer_connected": "Yes",
+   "employer_evidence": "Praxispartner supplies the problem; regular contact required; partners include Infineon Technologies, BMW Group, MTU Aero Engines AG, Audi AG, and start-ups [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Supplies business problem; in regular contact; uses results as decision basis",
+   "named_partners": "Infineon Technologies, BMW Group, MTU Aero Engines AG, Audi AG (undated page)",
+   "deliverable": "Written/presented project work for the partner (format not specified)",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "undated (footer 2023)",
+   "participation_data": "",
+   "unresolved": "Group working; ECTS; whether offered 2025/26-2026/27. A search summary noted a related Strategic Management project course was not offered in WiSe 25/26.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.som.lmu.de/ilo/de/lehre/projektkurs-msc/", "title": "Projektkurs (MSc) - Institut für Leadership und Organisation", "section": "Course page", "pub_year": "undated", "accessed": "2026-10-13", "retrieval": "page text (WebFetch; original German, paraphrased/translated)", "extract": "'Bearbeitung eines konkreten betriebswirtschaftlichen Problems (d.h. mit einem Praxispartner)'; 'Wir legen Wert darauf, dass die Studierenden in einem regelmäßigen Kontakt mit dem Praxispartner stehen'; '1 Semester (je SoSe und WiSe)'; partners Infineon, BMW, MTU, Audi and start-ups.", "supports": ["project", "employer", "duration"]}
+   ]
+  },
+  {
+   "local_id": "S3",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Marketing Consulting (Hauptseminar)",
+   "english_name": "Marketing Consulting",
+   "module_code": "",
+   "description": "Advanced Bachelor seminar in which students work in teams on a 'real consulting project' during the semester, evaluated on project report and final presentation.",
+   "academic_reach": "Faculty/school",
+   "admin_host": "LMU Munich School of Management, Institute for Marketing",
+   "eligible_faculties_programmes": "Bachelor Management; prerequisite exam 'Corporate Management and Marketing' (from search summary)",
+   "faculty_areas": ["business"],
+   "student_level": "Undergraduate",
+   "year_of_study": "",
+   "eligibility_restrictions": "Capped at 30 participants (search summary).",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "6 ECTS; seminar paper 50% and presentation 50%",
+   "duration": "One semester (winter term)",
+   "delivery_format": "Team seminar",
+   "project_based": "Yes",
+   "project_evidence": "'real consulting project' with project report and final presentation [1].",
+   "group_working": "Yes",
+   "group_evidence": "'students will work in teams on a real consulting project' [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Page calls the project 'real' but names no client and does not state that an external organisation sets the brief or receives output [1].",
+   "partner_type": "Unclear",
+   "partner_role": "Not evidenced",
+   "named_partners": "",
+   "deliverable": "Project report and final presentation",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "Unclear",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "page states not available in winter term 2024/2025",
+   "participation_data": "",
+   "unresolved": "Client identity/type; 2025/26-2026/27 delivery.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.som.lmu.de/marketing/en/teaching/marketing-consulting/", "title": "Marketing Consulting - Institute for Marketing", "section": "Course page", "pub_year": "undated (mentions WT 2024/25)", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, quoted)", "extract": "'Throughout the semester, students will work in teams on a real consulting project.' 'Credits: 6 ECTS'. 'Seminar paper (50 %) and presentation (50 %)'. 'This course is not available in the winter term 2024/2025.'", "supports": ["project", "group", "credit", "status"]}
+   ]
+  },
+  {
+   "local_id": "S4",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "MSc-Praktikum: Quantum Computing Programmierung",
+   "english_name": "MSc Practical: Quantum Computing Programming (with industry partners)",
+   "module_code": "",
+   "description": "Informatics Master practical (Mobile and Distributed Systems chair). Industry partners set application-relevant tasks (optimisation and machine-learning use cases for quantum computers); students work in groups, run tasks on different quantum machines, compare results and present results to the industry partners. Source language: German.",
+   "academic_reach": "Programme/course",
+   "admin_host": "Institut für Informatik, Lehrstuhl für Mobile und Verteilte Systeme (Linnhoff-Popien)",
+   "eligible_faculties_programmes": "Informatik MSc (practical; registered via LSF central registration)",
+   "faculty_areas": ["engineering_computing"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "Up to 24 students; part 1 is prerequisite for part 2.",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Two parts of 6 ECTS each, 12 ECTS in total",
+   "duration": "Semester-long practical (two parts)",
+   "delivery_format": "Group practical, presentation to partners",
+   "project_based": "Yes",
+   "project_evidence": "Partner-assigned task, project submission, final presentation of results [1].",
+   "group_working": "Yes",
+   "group_evidence": "'Bis zu 24 Studierende haben in Gruppen die Möglichkeit ...' [1]; a search extract for the course gives groups of about six students (search-index extract, not fetched) [3].",
+   "employer_connected": "Yes",
+   "employer_evidence": "'In Kooperation mit namhaften Partnern aus der Industrie (SAP und Siemens) werden Aufgabenstellungen ... vergeben. Das Praktikum schließt mit einer Präsentation der Ergebnisse vor unseren Industriepartnern ab.' Partners assign tasks and receive the presentation [1].",
+   "partner_type": "Business/commercial",
+   "partner_role": "Assigns tasks; receives final presentation",
+   "named_partners": "SAP, Siemens (WS 2025/26 page); BASF, BMW, SAP, Siemens (SoSe 2024, search extract)",
+   "deliverable": "Group results and presentation to industry partners",
+   "duration_band": "~1 term/semester",
+   "external_partner_coverage": "All/standard",
+   "likely_duplicate_of": "",
+   "operating_status": "Current delivery confirmed",
+   "latest_evidenced_year": "2025/26 (partners named); course listed SoSe 2026 and WiSe 2026/27",
+   "participation_data": "Up to 24 students per run (WS 2025/26 page)",
+   "unresolved": "Partners for 2026/27 not named in sources retrieved; fetched WS25/26 page is under an archive 'old.' host with a notice that details may be outdated; group size ~6 only from search extract.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://old.mobile.ifi.lmu.de/lehrveranstaltungen/praktikum-qcp-ws2526/", "title": "Praktikum Quantum Computing Programmierung (WS 2025/26)", "section": "Course page", "pub_year": "2025/26", "accessed": "2026-10-13", "retrieval": "page text (WebFetch; original German)", "extract": "'In Kooperation mit namhaften Partnern aus der Industrie (SAP und Siemens)'; 'Das Praktikum schließt mit einer Präsentation der Ergebnisse vor unseren Industriepartnern ab'; 'Bis zu 24 Studierende haben in Gruppen die Möglichkeit'; 'zwei Teilen à 6 ECTS, für insgesamt 12 ECTS'; LSF Zentralanmeldung.", "supports": ["project", "group", "employer", "credit", "eligibility", "status"]},
+    {"n": 2, "url": "https://www.ifi.lmu.de/mvs/de/lehre/lehrveranstaltungen.html", "title": "Lehre - Lehrstuhl für Mobile und Verteilte Systeme", "section": "Lehrveranstaltungen", "pub_year": "2026", "accessed": "2026-10-13", "retrieval": "page text (WebFetch, quoted)", "extract": "Wintersemester 2026/2027: 'MSc-Praktikum: Quantum Computing Programmierung' (Linnhoff-Popien, Stein, Baumann); Sommersemester 2026: same course (Linnhoff-Popien, Stein, Zorn).", "supports": ["status"]},
+    {"n": 3, "url": "https://www.mobile.ifi.lmu.de/lehrveranstaltungen/praktikum-qcp-sose2021/", "title": "Praktikum Quantum Computing Programmierung", "section": "Search-result extract", "pub_year": "multiple semesters", "accessed": "2026-10-13", "retrieval": "search-index extract (summary; not opened)", "extract": "Search result described groups of about six students and presentation to industry partners; SoSe 2024 listed BASF, BMW, SAP and Siemens.", "supports": ["group", "employer"]}
+   ]
+  },
+  {
+   "local_id": "S5",
+   "parent_local_id": null,
+   "is_umbrella": false,
+   "official_name": "Lehrforschungsprojekte, Institut für Soziologie (e.g. 'Queerer Alltag in München')",
+   "english_name": "Teaching research projects, Institute of Sociology (e.g. 'Everyday Queer Life in Munich')",
+   "module_code": "",
+   "description": "MA seminar-based teaching research projects in sociology. 'Queerer Alltag in München' (SoSe 2024 + WiSe 2024/25) was a qualitative interview study with the Praxispartner LesCommunity e.V. and Sub e.V., resulting in an edited publication (2025). An earlier project (2016/17) cooperated with the City of Munich, Referat für Arbeit und Wirtschaft. The same page lists an AI project funded internally (no external client).",
+   "academic_reach": "Programme/course",
+   "admin_host": "Institut für Soziologie (Lehrbereich 07)",
+   "eligible_faculties_programmes": "MA Sociology seminar participants",
+   "faculty_areas": ["arts_humanities_social_sciences"],
+   "student_level": "Postgraduate taught",
+   "year_of_study": "",
+   "eligibility_restrictions": "",
+   "participation_requirement": "Optional/elective",
+   "curricular_status": "Curricular",
+   "credit_assessment": "Not stated",
+   "duration": "Two semesters (2024 project)",
+   "delivery_format": "MA research seminar",
+   "project_based": "Yes",
+   "project_evidence": "Qualitative interview study producing an edited volume [1].",
+   "group_working": "Unclear",
+   "group_evidence": "MA students with lecturers; whether students worked in teams on a joint output is not stated beyond the shared publication [1].",
+   "employer_connected": "Unclear",
+   "employer_evidence": "Named as 'Praxispartner'/'Kooperationspartner' for two projects, but their role (brief, supervision, receiving output) is not described, and the page also shows internally funded projects with no external partner [1].",
+   "partner_type": "Charity/community",
+   "partner_role": "Role not described",
+   "named_partners": "LesCommunity e.V., Sub e.V. (2024/25); Landeshauptstadt München RAW (2016/17)",
+   "deliverable": "Edited publication / report",
+   "duration_band": ">1 term",
+   "external_partner_coverage": "Some projects",
+   "likely_duplicate_of": "",
+   "operating_status": "Current status unclear",
+   "latest_evidenced_year": "2024/25",
+   "participation_data": "",
+   "unresolved": "Group basis, partner role, whether the format recurs in 2025/26 or later.",
+   "legacy_ref": "",
+   "sources": [
+    {"n": 1, "url": "https://www.soziologie.lmu.de/de/lehrbereiche/lb-07/forschung/lehrforschung.html", "title": "Lehrforschung - Institut für Soziologie", "section": "Lehrforschung projects", "pub_year": "2025 publication", "accessed": "2026-10-13", "retrieval": "page text (WebFetch; original German, paraphrased/translated)", "extract": "'Queerer Alltag in München': Praxispartner LesCommunity e.V. and Sub e.V.; SoSe 2024 + WiSe 2024/25; MA seminar; edited publication 2025. 'Junge Geflüchtete, Bildung und Arbeitsmarkt': Kooperationspartner Landeshauptstadt München, RAW; 2016/17.", "supports": ["project", "employer", "status"]}
+   ]
+  }
+ ],
+ "exclusions": [
+  {"name": "el mundo: sustainability in teacher education", "legacy": true, "category": "Volunteering/service-learning", "reason": "45-ECTS teacher-training certificate for teacher-education students; page mentions service learning and 'sustainability projects with partners outside the university' but gives no specific team project, brief, group format or partner role (A/B/C unverified); programme-specific, not university-wide; page undated for this purpose.", "source_url": "https://www.geo.lmu.de/elmundo/en/infoboxen.html", "status_note": "Current status unclear; LMU-wide sustainability minor planned for WiSe 2026/27 per page"},
+  {"name": "impACTup!: Innovation and Entrepreneurship for Better Futures", "legacy": true, "category": "Entrepreneurship/incubator", "reason": "Page states a curricular hybrid course for 'Students'; no team project, external client or challenge-setting partner is stated (listed partners are institutions supporting delivery); ECTS not stated on page (legacy row says 3 ECTS). Fails/unverified on A, B and C.", "source_url": "https://www.iec.lmu.de/en/our-services/educational-services/impactup-foundational-course-for-students/", "status_note": "Winter 2026/27 Moodle course per legacy row; not re-verified"},
+  {"name": "BMW Real World Case (IEC)", "legacy": false, "category": "Evidence gap", "reason": "Group work with BMW Accelerator teams and presentation to BMW management, open to all LMU faculties, but 2 months, no ECTS, and the only dated edition is Sommerterm 2024; current delivery not evidenced. Also a seminar rather than documented defined deliverable brief.", "source_url": "https://www.iec.lmu.de/en/our-services/ideation-innovation/bmw-real-world-case/", "status_note": "Historical (2024)"},
+  {"name": "impACTup! Bootcamps / Impact InnoLabs / LMU Innovation Incubator", "legacy": false, "category": "Entrepreneurship/incubator", "reason": "Short bootcamps and incubator for own-venture teams; partners are organisers/supporters, not clients (search extract only; not opened).", "source_url": "https://www.iec.lmu.de/en/our-services/ideation-innovation/impactup-bootcamp/", "status_note": ""},
+  {"name": "Individual Master practicals with company supervisors (Media Informatics)", "legacy": false, "category": "Near-miss: not group", "reason": "Individual practicals with external second supervisor.", "source_url": "https://www.medien.ifi.lmu.de/studierende/abschlussarbeiten/projekt/", "status_note": ""},
+  {"name": "Lehrpraxisprojekte, Wirtschafts- und Organisationspsychologie", "legacy": false, "category": "Evidence gap", "reason": "Search result described small-group projects with companies (e.g. employer branding in automotive) but the page returned HTTP 503 twice so no quote was obtained.", "source_url": "https://www.psy.lmu.de/wirtschaftspsychologie/praxis/lehrpraxisprojekte/index.html", "status_note": "Unverified lead"},
+  {"name": "Other SOM chair-level project offers (Digital Services and Sustainability, DMM, ISM Projektkurs, Managerial Accounting)", "legacy": false, "category": "Evidence gap", "reason": "Listed in search results; not researched (reduced-depth). ISM Projektkurs reportedly not offered WiSe 25/26.", "source_url": "https://www.som.lmu.de/ism/de/lehre/lehrveranstaltungen-master/projektkurs-strategische-unternehmensfuehrung/", "status_note": ""},
+  {"name": "Law student clinics (Refugee Law Clinic Munich, Start Right e.V., KYRI)", "legacy": false, "category": "Volunteering/service-learning", "reason": "Student associations providing casework/advice; not curricular employer-set team projects (search summary only).", "source_url": "https://www.jura.lmu.de/de/studium/studentisches-leben/studentische-aktivitaeten/", "status_note": ""}
+ ],
+ "embeddedness": "Several distributed routes",
+ "profile_md": "Searches in English and German found employer-linked team project provision at LMU Munich that is distributed across institutes rather than institution-wide. No central scheme was verified: the IEC impACTup foundational course and BMW Real World Case lack documented client projects or current dates, and the teacher-education certificate el mundo (legacy row) shows no specific project route.\n\nThe best-evidenced route is the Informatik MSc practical on Quantum Computing Programmierung (S4): groups take tasks set by industry partners (SAP and Siemens named for WS 2025/26) and present results to them; the course is listed for SoSe 2026 and WiSe 2026/27, though partners for 2026/27 are not named. It is open to a limited cohort (up to 24 students) via central registration.\n\nIn the School of Management, the IMM Projektkurs (12 ECTS, teams of at least two, well-known companies/institutions, summer term) matches all three criteria on its page but is undated, so current delivery is unclear. The ILO MSc Projektkurs has named corporate partners but teamwork is not stated. The Marketing Consulting seminar has teams on a 'real consulting project' but no client is named. Sociology Lehrforschung has documented community/city partners (latest 2024/25) with unclear partner role and group basis.\n\nUncertain: current status of most business-school routes, further chair-level offers, Psychology Lehrpraxisprojekte (page unavailable), and health, design and natural-science provision (one query each or none).",
+ "gaps": "Business-school pages are undated; IMM named-partner list not retrieved; ILO group working unstated; Psychology Lehrpraxisprojekte page returned 503; further SOM chair-level projects (DSS, DMM, ISM, Managerial Accounting) not researched; medicine/veterinary/design not searched; natural sciences covered by one query; 2026/27 partners for the Quantum Computing practical not named; legacy impACTup 3-ECTS and WiSe 2026/27 Moodle claims not re-verified. Further departmental instances likely."
+}

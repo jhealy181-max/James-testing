@@ -1,9 +1,9 @@
-# Checkpoint — updated 2026-10-13 23:16 UTC
+# Checkpoint — updated 2026-10-14 09:01 UTC
 
-- Complete: 94 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02
+- Complete: 98 — RG01, RG02, RG03, RG04, RG05, RG06, RG07, RG08, RG09, RG10, RG11, RG12, RG13, RG14, RG15, RG16, RG17, RG18, RG19, RG20, RG21, RG22, RG23, RG24, AU01, AU02, AU03, AU04, AU05, AU06, AU09, AU10, UK01, UK02, UK03, UK04, UK05, UK06, UK07, UK08, UK09, UK10, UK11, UK12, UK13, UK14, UK15, UK16, UK17, UK18, UK19, UK20, UK21, UK22, UK23, UK24, UK25, UK26, UK27, UK28, UK29, UK30, US01, US02, US03, US04, US05, US06, US07, US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, EU01, EU02, EU03, EU05, EU06, EU07
 - Partial: 1 — EU08
-- Not started: 29 — AU07, AU08, EU03, EU04, EU05, EU06, EU07, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
-- Scheme records: 784; currently qualifying: 224; exclusions: 820; sources: 1481
+- Not started: 25 — AU07, AU08, EU04, EU09, EU10, EU11, EU12, EU13, EU14, EU15, EU16, EU17, EU18, EU19, EU20, EU21, EU22, EU23, EU24, EU25, EU26, EU27, EU28, EU29, EU30
+- Scheme records: 804; currently qualifying: 230; exclusions: 847; sources: 1513
 
 ## Partial reviews: what remains
 - EU08 Heidelberg: other (law/medicine/design) and central career-service queries still to run; run in progress
@@ -334,5 +334,14 @@
 - EU01-S04 Métiers de l'Ingénieur Généraliste (MIG) - Mines Paris-PSL: Compulsory status, share of company projects, year.
 - EU02-S03 Projet S8 (2SL8100): Client identity and whether external; compulsory status; credits.
 - EU02-S04 UE14 Mission de conseil (M2 Management et communication des organisations): Simulation vs live client; page undated.
+- EU03-S03 Master Mathématiques et Applications - TER (travail d'étude et de recherche) with industrial partner question: Brochure page not opened; pair/individual and industrial share unknown.
+- EU03-S04 UE 8 Créer une entreprise en santé (Business Plan workshop), M2 Management de l'innovation, parcours EPI Sciences et Santé, spécialité Santé: Whether project holders are external organisations; current-year delivery; compulsory status of UE.
+- EU05-S01 Parcours Civique (Civic Learning Programme), Collège universitaire: Whether any group civic projects have an external organisation as client; undated page; counts as a lead only.
+- EU05-S06 Projet Impact, Impact Studio (Ecole du Management et de l'Impact): Deliverable, duration, ECTS and year of delivery; a 'Projet Tech' variant appears in a search summary only and was not verified.
+- EU05-S07 Capstone course International Law in Action, PSIA Law School Clinic: Whether each project has an external commissioner; ECTS.
+- EU06-S01 TUM Project Weeks (Projektwochen): Page text was truncated (about 52,000 of 152,000 characters unread); individual courses with company-set briefs may exist and were not tested.
+- EU07-S02 Projektkurs (MSc), Institut für Leadership und Organisation: Group working; ECTS; whether offered 2025/26-2026/27. A search summary noted a related Strategic Management project course was not offered in WiSe 25/26.
+- EU07-S03 Marketing Consulting (Hauptseminar): Client identity/type; 2025/26-2026/27 delivery.
+- EU07-S05 Lehrforschungsprojekte, Institut für Soziologie (e.g. 'Queerer Alltag in München'): Group basis, partner role, whether the format recurs in 2025/26 or later.
 
 Resume: research IDs under 'Not started'/'Partial' following RESEARCH_BRIEF.md, write results/<ID>.json, then run `python3 -I el_review/build.py`.
