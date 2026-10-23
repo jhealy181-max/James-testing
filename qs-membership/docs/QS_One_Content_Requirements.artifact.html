@@ -55,7 +55,7 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
 @media (max-width:640px){main,.top .in,.tabs .in,footer{padding-inline:16px}.g2,.g3,.g4,.flow{grid-template-columns:minmax(0,1fr)}.sub,.ver{display:none}.panel{padding:18px}.dl{grid-template-columns:minmax(0,1fr)}.dl dt{border-bottom:0;padding-bottom:0}}
 </style>
 
-<header class="top"><div class="in"><span class="logo" aria-hidden="true">QS</span><span class="prod">QS One</span><span class="sub">Content requirements · newsletters and QS Insights Magazine</span><span class="ver">Working draft v0.3 · 23 Oct 2026</span></div></header>
+<header class="top"><div class="in"><span class="logo" aria-hidden="true">QS</span><span class="prod">QS One</span><span class="sub">Content requirements · newsletters and QS Insights Magazine</span><span class="ver">Working draft v0.4 · 23 Oct 2026</span></div></header>
 <nav class="tabs" aria-label="Sections"><div class="in">
   <a class="tab" href="#decisions"><b>Decisions</b><span>Agreed so far</span></a>
   <a class="tab" href="#scope"><b>Scope</b><span>In and out</span></a>
@@ -77,6 +77,20 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
   <h1>QS One content requirements</h1>
   <p class="lede">QS newsletters and QS Insights Magazine become a full-text, tagged library in QS One. It runs automatically, with a light-touch admin. The library is free; personal curation is premium.</p>
   <div class="panel">
+    <div class="ph"><h2>New in v0.4: the proof of concept uses real QS content</h2><p>The Replit app no longer contains made-up briefings, case studies or webinars. It reads QS Newsletters and the latest three editions of QS Insights Magazine, splits them into stories, tags them and shows them in Intelligence.</p></div>
+    <div class="scroll"><table>
+      <thead><tr><th>Area</th><th>In the Replit build (v0.4)</th></tr></thead>
+      <tbody>
+        <tr><td>Newsletters</td><td>Read from the public RSS feed (full text, images, video). Each issue is split at its headings; promotions are skipped; Chart of the Day and Power Moves stay whole.</td></tr>
+        <tr><td>Magazine</td><td>Newest editions found from the home page; each article on the Cover page read in order, with author, date, images and video. Spotlight pieces are labelled Sponsored.</td></tr>
+        <tr><td>Tagging</td><td>Keyword rules against 17 themes, six regions and nine formats, with confidence scores (D9). Claude replaces them in Phase 1.</td></tr>
+        <tr><td>Members</td><td>Free library with search and filters; For you feed for Member and above (free sees the top three); article reader with "Originally published in…"; editions; media library; digest sign-up link.</td></tr>
+        <tr><td>QS team</td><td>Pin and hide stories; banner messages with an end date; add a video by link with themes; Content sources page with what each source returned.</td></tr>
+        <tr><td>Status</td><td>Of 83 requirements: <span class="tag gn">17 built</span> <span class="tag m">34 partly</span> <span class="tag">30 not yet</span> and 2 not applicable yet. Tested end to end against local copies of both sites; not yet run against the live sites. Check <b>Content sources</b> on Replit first.</td></tr>
+      </tbody>
+    </table></div>
+  </div>
+  <div class="panel">
     <div class="ph"><h2>Decision log</h2><p>Each decision is recorded here, then traced into the requirements below.</p></div>
     <div class="scroll"><table>
       <thead><tr><th>#</th><th>Question</th><th>Decision (23 Oct 2026)</th><th>Shapes</th></tr></thead>
@@ -89,6 +103,8 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
         <tr><td>D5</td><td>Use Claude for tagging and summaries?</td><td><b>Yes.</b> Build approach set out below: an API key, not a managed agent.</td><td>Building with Claude</td></tr>
         <tr><td>D6</td><td>Weekly digest by email?</td><td><b>Yes: integrate sign-up, or redirect to it.</b> Start by redirecting to the existing QS newsletter sign-up, then integrate a personalised premium digest with QS's email platform.</td><td>REQ-DIG</td></tr>
         <tr><td>D7</td><td>Images and video in the app?</td><td><b>Yes, through a media library.</b> Images and videos are synced from articles automatically, and admins can upload videos directly. All media is tagged like articles.</td><td>REQ-LIB, REQ-MED</td></tr>
+        <tr><td>D8</td><td>What content does the proof of concept show?</td><td><b>Real content only.</b> Remove the synthetic intelligence items and read QS Newsletters and QS Insights Magazine with the minimum change to the app. Fictional institutions, people and Pulse data stay for the demo.</td><td>PoC v0.4</td></tr>
+        <tr><td>D9</td><td>How is content tagged in the proof of concept?</td><td><b>Keyword rules</b> against the QS One theme list, with no new dependencies or keys. Claude replaces them in Phase 1, measured on the benchmark.</td><td>REQ-TAG-01, 02</td></tr>
       </tbody>
     </table></div>
   </div>
@@ -480,4 +496,4 @@ else saveTags(article, res.parsed_output, { model: res.model, promptVersion: PRO
   </div>
 </section>
 </main>
-<footer>QS One content requirements · working draft v0.3, superseding the content ingestion plan of 23 Oct 2026. Source platforms are unconfirmed. Prices are Anthropic list prices as at October 2026, and costs are estimates to confirm once the archive has been measured.</footer>
+<footer>QS One content requirements · working draft v0.4, superseding v0.3 and the content ingestion plan of 23 Oct 2026. The Word version (QS_One_Content_Requirements_v0.4.docx) adds the proof-of-concept status of every requirement. Source platforms are unconfirmed. Prices are Anthropic list prices as at October 2026, and costs are estimates to confirm once the archive has been measured.</footer>
