@@ -55,16 +55,18 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
 @media (max-width:640px){main,.top .in,.tabs .in,footer{padding-inline:16px}.g2,.g3,.g4,.flow{grid-template-columns:minmax(0,1fr)}.sub,.ver{display:none}.panel{padding:18px}.dl{grid-template-columns:minmax(0,1fr)}.dl dt{border-bottom:0;padding-bottom:0}}
 </style>
 
-<header class="top"><div class="in"><span class="logo" aria-hidden="true">QS</span><span class="prod">QS One</span><span class="sub">Content requirements · newsletters and QS Insights Magazine</span><span class="ver">Working draft v0.2 · 23 Oct 2026</span></div></header>
+<header class="top"><div class="in"><span class="logo" aria-hidden="true">QS</span><span class="prod">QS One</span><span class="sub">Content requirements · newsletters and QS Insights Magazine</span><span class="ver">Working draft v0.3 · 23 Oct 2026</span></div></header>
 <nav class="tabs" aria-label="Sections"><div class="in">
   <a class="tab" href="#decisions"><b>Decisions</b><span>Agreed so far</span></a>
   <a class="tab" href="#scope"><b>Scope</b><span>In and out</span></a>
   <a class="tab" href="#access"><b>Source access</b><span>What QS must provide</span></a>
   <a class="tab" href="#ingest"><b>Ingestion</b><span>REQ-ING / SEG / MAG</span></a>
   <a class="tab" href="#media"><b>Full text & media</b><span>REQ-MED</span></a>
+  <a class="tab" href="#library"><b>Media library</b><span>REQ-LIB</span></a>
   <a class="tab" href="#tagging"><b>Tagging</b><span>REQ-TAG</span></a>
   <a class="tab" href="#admin"><b>Automation</b><span>REQ-ADM</span></a>
   <a class="tab" href="#tiers"><b>Free vs premium</b><span>REQ-ACC / FEED</span></a>
+  <a class="tab" href="#digest"><b>Weekly digest</b><span>REQ-DIG</span></a>
   <a class="tab" href="#ai"><b>Building with Claude</b><span>API key or agent?</span></a>
   <a class="tab" href="#nfr"><b>Non-functional</b><span>REQ-NFR</span></a>
   <a class="tab" href="#plan"><b>Delivery</b><span>Phases</span></a>
@@ -85,6 +87,8 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
         <tr><td>D3</td><td>How much editorial effort?</td><td><b>Automate as far as possible.</b> Admins can pin content and post messages; everything else is light touch.</td><td>REQ-ADM</td></tr>
         <tr><td>D4</td><td>Free or paid?</td><td><b>The content library is free. Curation is premium.</b></td><td>REQ-ACC, REQ-FEED</td></tr>
         <tr><td>D5</td><td>Use Claude for tagging and summaries?</td><td><b>Yes.</b> Build approach set out below: an API key, not a managed agent.</td><td>Building with Claude</td></tr>
+        <tr><td>D6</td><td>Weekly digest by email?</td><td><b>Yes: integrate sign-up, or redirect to it.</b> Start by redirecting to the existing QS newsletter sign-up, then integrate a personalised premium digest with QS's email platform.</td><td>REQ-DIG</td></tr>
+        <tr><td>D7</td><td>Images and video in the app?</td><td><b>Yes, through a media library.</b> Images and videos are synced from articles automatically, and admins can upload videos directly. All media is tagged like articles.</td><td>REQ-LIB, REQ-MED</td></tr>
       </tbody>
     </table></div>
   </div>
@@ -96,7 +100,7 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
   <div class="grid g4">
     <div class="st gr"><b>In scope</b><span>QS Newsletters (all series) and QS Insights Magazine (all editions): ingestion, splitting, full text with media, tagging, library, curated feed.</span></div>
     <div class="st bl"><b>Destinations</b><span><b>Intelligence</b>: articles, briefs, opinion, profiles. <b>Pulse</b>: charts and data points shown as context beside Pulse results.</span></div>
-    <div class="st ye"><b>Out of scope</b><span>Routing into Communities or Connect; partner or sponsored placements; email sending (the curated digest is shown in the app; sending is a later decision).</span></div>
+    <div class="st ye"><b>Out of scope</b><span>Routing into Communities or Connect; partner or sponsored placements; building QS One's own email-sending system (digest emails go through QS's existing email platform, REQ-DIG).</span></div>
     <div class="st re"><b>Later</b><span>Direct API connection (D1); further sources (HolonIQ, qs.com insights, webinar transcripts) through the same connector design.</span></div>
   </div>
   <div style="height:16px"></div>
@@ -183,11 +187,47 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
       <tr><td class="id">REQ-MED-02</td><td>Sanitise all content against an allow-list of elements and attributes. No scripts, forms, tracking pixels or inline event handlers.</td><td class="p"><span class="tag m">Must</span></td></tr>
       <tr><td class="id">REQ-MED-03</td><td>Copy images into QS One's object storage at ingestion, resized to standard widths, keeping alt text, caption and credit. If copying is not permitted (REQ-SRC-05), link to the original file instead.</td><td class="p"><span class="tag m">Must</span></td></tr>
       <tr><td class="id">REQ-MED-04</td><td>Where an image has no alt text, generate a short description with Claude and mark it "auto-generated" for accessibility.</td><td class="p"><span class="tag s">Should</span></td></tr>
-      <tr><td class="id">REQ-MED-05</td><td>Embed video from approved hosts (e.g. YouTube, Vimeo, the QS video platform) using the host's privacy-enhanced player. Do not copy video files. Show a thumbnail and title until the reader plays it.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-MED-05</td><td>Show video inside articles. Videos uploaded to the QS One media library play in QS One's own player. Videos from approved external hosts (e.g. YouTube, Vimeo) play through the host's privacy-enhanced player. Show a thumbnail and title until the reader plays it. See REQ-LIB.</td><td class="p"><span class="tag m">Must</span></td></tr>
       <tr><td class="id">REQ-MED-06</td><td>Keep links inside articles. Links to other ingested articles point to their QS One version.</td><td class="p"><span class="tag s">Should</span></td></tr>
       <tr><td class="id">REQ-MED-07</td><td>Every article shows "Originally published in [series or edition], [date]" with a link to the original.</td><td class="p"><span class="tag m">Must</span></td></tr>
       <tr><td class="id">REQ-MED-08</td><td>Support takedown: an admin can hide an article and its media in one action. Hidden items return "no longer available".</td><td class="p"><span class="tag m">Must</span></td></tr>
       <tr><td class="id">REQ-MED-09</td><td>Charts shown as images also get a text description, so they can be tagged and searched.</td><td class="p"><span class="tag c">Could</span></td></tr>
+    </tbody></table></div>
+  </div>
+</section>
+
+<section id="library">
+  <h1>Media library: images and video</h1>
+  <p class="lede">One library for every picture and video in QS One (D7). Most media arrives automatically from newsletters and magazine articles, and admins can upload videos too. Everything is tagged with the same themes as articles, so it can be found, reused and placed in the feed.</p>
+  <div class="grid g3">
+    <div class="st gr"><b>1 · Synced from articles</b><span>Images and embedded videos in newsletter and magazine articles are added to the library during ingestion. Each keeps its caption and credit, and links to every article that uses it.</span></div>
+    <div class="st bl"><b>2 · Uploaded by admins</b><span>An admin uploads a video file (e.g. a summit session, expert interview or webinar recording) with a title and description. It is processed for streaming, captioned and tagged automatically.</span></div>
+    <div class="st ye"><b>3 · Linked</b><span>An admin pastes a YouTube or Vimeo link. QS One reads its title, thumbnail and description, tags it, and plays it through the host's player.</span></div>
+  </div>
+  <div style="height:18px"></div>
+  <div class="panel">
+    <div class="ph"><h2>Where video should live</h2><p>Images can be stored in Replit Object Storage. Uploaded video should not be served straight from Replit. It needs converting into several sizes so it plays smoothly on any connection, plus a proper player and captions. Use a video hosting service for that, and keep its video ID in QS One.</p></div>
+    <div class="scroll"><table class="cmp"><thead><tr><th>Option</th><th>What it does</th><th>Fit</th></tr></thead><tbody>
+      <tr><td><b>QS's existing video platform</b></td><td>If QS already hosts summit and webinar video, upload there and sync the video ID and details into QS One</td><td class="yes">Preferred if one exists</td></tr>
+      <tr><td><b>Managed video service</b> (e.g. Mux, Cloudflare Stream, Vimeo business plans)</td><td>Upload, conversion to several sizes, smooth streaming, thumbnails, automatic captions, protected playback</td><td class="yes">Good fit</td></tr>
+      <tr><td><b>Files in Replit Object Storage</b></td><td>Stores the file only: no conversion, no adaptive streaming</td><td class="no">Images only</td></tr>
+    </tbody></table></div>
+  </div>
+  <div class="panel">
+    <div class="scroll"><table><thead><tr><th>ID</th><th>Requirement</th><th>Priority</th></tr></thead><tbody>
+      <tr><td class="id">REQ-LIB-01</td><td>Every image and video is a media item in one library, with: type, title, description, source (synced, uploaded or linked), owner, credit, rights and licence, expiry date, access tier, tags, and the articles that use it.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-LIB-02</td><td><b>Sync from articles:</b> during ingestion, add each article's images and embedded videos to the library automatically, keeping caption, credit, alt text and position in the article.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-LIB-03</td><td>Detect the same image used in several issues or articles (by image fingerprint), store it once and link it to every use.</td><td class="p"><span class="tag s">Should</span></td></tr>
+      <tr><td class="id">REQ-LIB-04</td><td><b>Upload video:</b> admins upload video files (MP4 or MOV, up to 5 GB) by drag and drop. Files go directly to the video service, not through the QS One server. Progress is shown, and the admin can leave the page while the video processes.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-LIB-05</td><td><b>Link video:</b> admins paste a YouTube or Vimeo URL and QS One fetches its title, thumbnail, length and description.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-LIB-06</td><td><b>Captions and transcript:</b> generate captions for uploaded video, using the video service's automatic captions or a speech-to-text service. Admins can replace them with a corrected file. The transcript is stored and searchable.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-LIB-07</td><td><b>Auto-tag media:</b> Claude tags videos from their title, description and transcript, and images from their article, caption and an image description it writes. Same vocabulary and confidence rules as articles (REQ-TAG).</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-LIB-08</td><td>On upload, show the suggested tags, summary and thumbnail for the admin to accept in one click or adjust. Publishing does not wait for the admin unless the rights fields are empty.</td><td class="p"><span class="tag s">Should</span></td></tr>
+      <tr><td class="id">REQ-LIB-09</td><td>Media items appear in the library, the feed and collections, with "Video" and "Images" filters. Each has its own page showing related articles and other media on the same theme.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-LIB-10</td><td>Admins can attach a library video or image to any article, message or collection.</td><td class="p"><span class="tag s">Should</span></td></tr>
+      <tr><td class="id">REQ-LIB-11</td><td><b>Rights:</b> an uploaded video cannot be published until owner, licence and speaker consent are recorded. Media past its expiry date is hidden automatically, and articles that use it show a placeholder.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-LIB-12</td><td>Videos can be marked premium (e.g. full summit sessions), with a short trailer or the first few minutes left free.</td><td class="p"><span class="tag c">Could</span></td></tr>
+      <tr><td class="id">REQ-LIB-13</td><td>Show admins plays and average watch time per video, and use them as a ranking signal in the curated feed.</td><td class="p"><span class="tag c">Could</span></td></tr>
     </tbody></table></div>
   </div>
 </section>
@@ -254,7 +294,8 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
       <tr><td>Browse by series, edition, theme; search; filters</td><td class="yes">✓</td><td class="yes">✓</td></tr>
       <tr><td>Admin pins and messages</td><td class="yes">✓</td><td class="yes">✓</td></tr>
       <tr><td><b>"For you" curated feed</b> ranked by role, interests, regions and recent activity</td><td>Preview: top 3, then a prompt to upgrade</td><td class="yes">✓</td></tr>
-      <tr><td><b>Weekly curated digest</b>: the week's essentials for your role, with "why it matters"</td><td class="no">–</td><td class="yes">✓</td></tr>
+      <tr><td><b>Weekly curated digest</b>: the week's essentials for your role, with "why it matters", in the app and by email</td><td>Sign up to the existing QS newsletters</td><td class="yes">✓</td></tr>
+      <tr><td>Media library: images and videos</td><td class="yes">✓</td><td class="yes">✓ (plus premium videos, REQ-LIB-12)</td></tr>
       <tr><td><b>Editor's collections</b> (e.g. "Visa policy: what changed this quarter")</td><td>Titles only</td><td class="yes">✓</td></tr>
       <tr><td><b>Follow themes</b> and get new matching items highlighted</td><td class="no">–</td><td class="yes">✓</td></tr>
       <tr><td><b>Related reading</b> and "the same story elsewhere"</td><td class="no">–</td><td class="yes">✓</td></tr>
@@ -270,6 +311,45 @@ footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);fon
       <tr><td class="id">REQ-FEED-03</td><td>Diversity: at most two items in a row from one series or theme; one item per story.</td><td class="p"><span class="tag s">Should</span></td></tr>
       <tr><td class="id">REQ-FEED-04</td><td>Build the weekly digest automatically each Monday: top items per role, a two-line Claude summary of the week, and admin pins. Admins can edit it but don't have to.</td><td class="p"><span class="tag s">Should</span></td></tr>
       <tr><td class="id">REQ-FEED-05</td><td>Learn from use: items opened, saved and dismissed adjust the person's ranking (simple weights, explainable).</td><td class="p"><span class="tag c">Could</span></td></tr>
+    </tbody></table></div>
+  </div>
+</section>
+
+<section id="digest">
+  <h1>Weekly digest: sign-up and delivery</h1>
+  <p class="lede">QS One builds the digest and QS's existing email platform sends it (D6). Members sign up without leaving QS One, and consent and unsubscribes are managed in one place.</p>
+  <div class="grid g2">
+    <div class="panel">
+      <div class="ph"><h2>Option A · Redirect (first release)</h2><p>Fastest; no email build needed.</p></div>
+      <ul style="margin:0;padding-left:18px;color:var(--ink2)">
+        <li>A "Get the weekly digest" prompt on Intelligence, at the end of every article, and in My profile.</li>
+        <li>It lists the QS newsletters available (e.g. Mid Week Brief, Student Flows, Skills &amp; Workforce) and opens the existing QS sign-up page in a new tab.</li>
+        <li>Free and premium members get the same QS newsletters as today. The personal curated digest is read in the app.</li>
+        <li>Limitation: QS One cannot see who has signed up, and the email is not personalised.</li>
+      </ul>
+    </div>
+    <div class="panel">
+      <div class="ph"><h2>Option B · Integrated (premium)</h2><p>A personal digest with one-click sign-up.</p></div>
+      <ul style="margin:0;padding-left:18px;color:var(--ink2)">
+        <li>An "Email me my weekly digest" toggle in QS One for Member and above. QS One records consent and creates or updates the subscription in QS's email platform.</li>
+        <li>Each Monday QS One builds each person's digest (REQ-FEED-04) and passes it to the email platform to send, using a QS-branded template.</li>
+        <li>Unsubscribing from the email turns the toggle off in QS One, and switching the toggle off unsubscribes the email.</li>
+        <li>Free members see the toggle marked as a premium feature, alongside the Option A newsletter sign-up.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="notice l">Which email platform? Magazine links carry HubSpot tracking parameters, which suggests QS uses HubSpot for marketing email. The newsletter site may also send its own email through Ghost. Confirm which platform holds newsletter subscribers before choosing the Option B integration. Both platforms have APIs for managing subscriptions.</div>
+  <div style="height:18px"></div>
+  <div class="panel">
+    <div class="scroll"><table><thead><tr><th>ID</th><th>Requirement</th><th>Priority</th></tr></thead><tbody>
+      <tr><td class="id">REQ-DIG-01</td><td>Show a digest and newsletter sign-up prompt on Intelligence, at the end of each article, and in My profile. Hide it once the person has subscribed (Option B) or dismissed it.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-DIG-02</td><td><b>Option A:</b> link to the existing QS newsletter sign-up page for each series, opening in a new tab, with each series described in QS One.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-DIG-03</td><td>Each week's digest can be read in the app, whether or not the person also gets it by email.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-DIG-04</td><td><b>Option B:</b> a one-click "Email me my weekly digest" toggle for Member and above. Subscribing records consent (who, when and the wording shown) and creates the subscription in QS's email platform.</td><td class="p"><span class="tag s">Should</span></td></tr>
+      <tr><td class="id">REQ-DIG-05</td><td><b>Option B:</b> send each person their own digest (their top items, why each matters, admin pins) through the email platform on a set day and time, with a link to read it in QS One.</td><td class="p"><span class="tag s">Should</span></td></tr>
+      <tr><td class="id">REQ-DIG-06</td><td>Keep subscription status in step both ways. An unsubscribe in the email platform turns the toggle off within one hour.</td><td class="p"><span class="tag s">Should</span></td></tr>
+      <tr><td class="id">REQ-DIG-07</td><td>Every email has a working unsubscribe link and complies with UK GDPR and PECR, and with the rules of the recipient's country.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-DIG-08</td><td>Opens and clicks in the digest feed back into the person's feed ranking (REQ-FEED-05).</td><td class="p"><span class="tag c">Could</span></td></tr>
     </tbody></table></div>
   </div>
 </section>
@@ -352,7 +432,7 @@ else saveTags(article, res.parsed_output, { model: res.model, promptVersion: PRO
     <div class="scroll"><table><thead><tr><th>ID</th><th>Requirement</th><th>Priority</th></tr></thead><tbody>
       <tr><td class="id">REQ-NFR-01</td><td><b>Freshness:</b> a newly published newsletter is readable and tagged in QS One within 2 hours (15 minutes once webhooks exist).</td><td class="p"><span class="tag m">Must</span></td></tr>
       <tr><td class="id">REQ-NFR-02</td><td><b>Scale:</b> handle the full archive plus 10 years of growth (planning figure: 50,000 articles and their images) without redesign.</td><td class="p"><span class="tag m">Must</span></td></tr>
-      <tr><td class="id">REQ-NFR-03</td><td><b>Storage:</b> move from the demo JSON file to Replit PostgreSQL (with full-text search and vector search for related items) and Replit Object Storage for raw pages and images.</td><td class="p"><span class="tag m">Must</span></td></tr>
+      <tr><td class="id">REQ-NFR-03</td><td><b>Storage:</b> move from the demo JSON file to Replit PostgreSQL (with full-text search and vector search for related items) and Replit Object Storage for raw pages and images. Uploaded video is held by a video service (REQ-LIB); QS One stores only its ID and details.</td><td class="p"><span class="tag m">Must</span></td></tr>
       <tr><td class="id">REQ-NFR-04</td><td><b>Separation:</b> ingestion runs as a separate background process or scheduled job, so the member-facing app is never slowed.</td><td class="p"><span class="tag m">Must</span></td></tr>
       <tr><td class="id">REQ-NFR-05</td><td><b>Performance:</b> library and feed pages load in under 1.5 seconds; images are served resized.</td><td class="p"><span class="tag s">Should</span></td></tr>
       <tr><td class="id">REQ-NFR-06</td><td><b>Cost control:</b> a workspace spend limit on Claude; each call logs its token use; tagging is skipped for unchanged content.</td><td class="p"><span class="tag m">Must</span></td></tr>
@@ -367,10 +447,11 @@ else saveTags(article, res.parsed_output, { model: res.model, promptVersion: PRO
       <div class="card"><h3>Source</h3><p>Connector type, schedule, access method, rights, owner, status</p></div>
       <div class="card"><h3>Issue / Edition</h3><p>Series or edition number, date, original URL, raw versions, article order</p></div>
       <div class="card"><h3>Article</h3><p>Body (structured), media, type, tags with confidence, summary, access, version, status</p></div>
-      <div class="card"><h3>Media</h3><p>Image or video, stored location or embed URL, alt text, caption, credit, rights</p></div>
+      <div class="card"><h3>Media item</h3><p>Image or video; synced, uploaded or linked; storage or video-service ID; captions and transcript; tags; rights and expiry</p></div>
       <div class="card"><h3>Taxonomy</h3><p>Domains, themes, audiences, regions; versioned</p></div>
       <div class="card"><h3>Pin / Message</h3><p>Target, placement, audience, tier, start and end</p></div>
       <div class="card"><h3>Collection</h3><p>Automatic or editor-made; ordered items</p></div>
+      <div class="card"><h3>Digest subscription</h3><p>Person, status, consent record, email-platform ID, last sent</p></div>
       <div class="card"><h3>Job / Audit</h3><p>Every pipeline run and admin action</p></div>
     </div>
   </div>
@@ -381,8 +462,8 @@ else saveTags(article, res.parsed_output, { model: res.model, promptVersion: PRO
   <div class="panel">
     <div class="scroll"><table><thead><tr><th>Phase</th><th>Scope</th><th>Exit criteria</th></tr></thead><tbody>
       <tr><td>0 · Set-up (1 week)</td><td>Confirm platforms; send the access request (not connected yet); Claude Console workspace and key; agree the theme list; count the archive; hand-tag 200 benchmark items</td><td>Benchmark ready; key in Replit Secrets</td></tr>
-      <tr><td>1 · Library (2–3 weeks)</td><td>Public-page connectors; split newsletters; magazine articles; full text with images and video; Claude tagging; auto-publish; free library with browse and search; admin pins and messages</td><td>Last 3 months of newsletters and last 3 editions readable; tagging ≥90% agreement on the benchmark</td></tr>
-      <tr><td>2 · Premium curation (2–3 weeks)</td><td>"For you" feed; weekly digest; editor's collections; follow themes; related reading; Pulse context; tier checks; Postgres and object storage</td><td>Feed and digest live for Member and above; free preview in place</td></tr>
+      <tr><td>1 · Library (2–3 weeks)</td><td>Public-page connectors; split newsletters; magazine articles; full text with images and video; images and embedded videos synced into the media library; Claude tagging; auto-publish; free library with browse and search; admin pins and messages; digest sign-up redirect (Option A)</td><td>Last 3 months of newsletters and last 3 editions readable; tagging ≥90% agreement on the benchmark</td></tr>
+      <tr><td>2 · Premium curation (2–3 weeks)</td><td>"For you" feed; weekly digest in the app and by email (Option B); video upload with captions and auto-tagging; editor's collections; follow themes; related reading; Pulse context; tier checks; Postgres and object storage</td><td>Feed and digest live for Member and above; free preview in place</td></tr>
       <tr><td>3 · Archive and scale</td><td>Batch backfill of the full archive; duplicate-story linking; switch to platform APIs and webhooks once D1 is actioned; further sources</td><td>Full archive tagged; freshness under 15 minutes on webhooks</td></tr>
     </tbody></table></div>
   </div>
@@ -391,10 +472,12 @@ else saveTags(article, res.parsed_output, { model: res.model, promptVersion: PRO
     <div class="grid g2">
       <div class="card"><h3>Rights to copy images</h3><p>Can QS One copy images into its own storage, or must it link to the source's files? This affects REQ-MED-03 and takedown.</p></div>
       <div class="card"><h3>Guest and sponsored content</h3><p>Do guest authors' and Spotlight pieces carry any terms that limit full-text display? REQ-SRC-05 covers this.</p></div>
-      <div class="card"><h3>Digest by email</h3><p>Is the weekly curated digest in-app only, or also emailed? Email adds consent, unsubscribe and sending infrastructure.</p></div>
+      <div class="card"><h3>Email platform</h3><p>Which platform holds QS newsletter subscribers (HubSpot, Ghost or another), and can QS One create subscriptions in it through an API?</p></div>
+      <div class="card"><h3>Video hosting</h3><p>Does QS already have a video platform for summit and webinar recordings? If not, choose a video service before Phase 2.</p></div>
+      <div class="card"><h3>Speaker consent</h3><p>Do existing summit recordings have speaker consent for reuse in QS One, including clips and transcripts?</p></div>
       <div class="card"><h3>Which Console account</h3><p>Which QS team owns the Claude Console organisation and the API spend budget?</p></div>
     </div>
   </div>
 </section>
 </main>
-<footer>QS One content requirements · working draft v0.2, superseding the content ingestion plan of 23 Oct 2026. Source platforms are unconfirmed. Prices are Anthropic list prices as at October 2026, and costs are estimates to confirm once the archive has been measured.</footer>
+<footer>QS One content requirements · working draft v0.3, superseding the content ingestion plan of 23 Oct 2026. Source platforms are unconfirmed. Prices are Anthropic list prices as at October 2026, and costs are estimates to confirm once the archive has been measured.</footer>
