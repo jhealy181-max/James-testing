@@ -2,7 +2,7 @@ import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { api, getUser, setUser } from './api.js';
 import { AppCtx, until, initials } from './ui.jsx';
 import Overview from './pages/Overview.jsx';
-import { Intelligence, Briefing, Webinars, Library, Sources } from './pages/Intelligence.jsx';
+import { Intelligence, Article, Sources } from './pages/Intelligence.jsx';
 import { Communities, CommunityDetail } from './pages/Communities.jsx';
 import { PulseDashboard, PulseList, PulseSurvey } from './pages/Pulse.jsx';
 import { Directory, Intros, Summits, Board } from './pages/Connect.jsx';
@@ -40,7 +40,7 @@ function Carousel({ boot, section }) {
   const ent = boot.entitlements;
   const cards = [
     { id: 'pulse', to: 'pulse', big: recPulse ? recPulse.wave.split(' ')[0] : 'Pulse', isNew: recPulse && !recPulse.contributed && ent.kind === 'member', lbl: 'Recruitment Pulse', info: 'Monthly peer benchmark. Only contributors see results.' },
-    { id: 'intelligence', to: 'intelligence', big: '3 new', lbl: 'Signals & briefings', info: 'Weekly Signal and monthly domain briefings' },
+    { id: 'intelligence', to: 'intelligence', big: boot.content.newThisWeek ? `${boot.content.newThisWeek} new` : `${boot.content.items} stories`, isNew: boot.content.newThisWeek > 0, lbl: 'QS newsletters & magazine', info: 'Stories from QS Newsletters and QS Insights Magazine this week' },
     { id: 'communities', to: 'communities', big: myComms.length ? `${myComms.length} joined` : 'Open sessions', lbl: nextSession ? `Next session ${until(nextSession.at)}` : 'Communities', info: 'Standing communities with a QS facilitator' },
     { id: 'connect', to: pending ? 'connect/intros' : 'connect', big: pending ? `${pending} request${pending > 1 ? 's' : ''}` : `${boot.people.filter(p => p.orgType === 'institution').length} leaders`, isNew: pending > 0, lbl: 'Connect', info: 'Verified leaders and consent-based introductions' },
     { id: 'summits', to: `connect/summits/${nextSummit?.id || ''}`, big: nextSummit ? nextSummit.short : 'Summits', lbl: nextSummit ? `QS summit ${until(nextSummit.start)}` : 'QS summits', info: 'Summit matching and passes' },
@@ -66,6 +66,22 @@ function Carousel({ boot, section }) {
   );
 }
 
+const DISMISS_KEY = 'qs-one-dismissed-messages';
+function Banners({ messages }) {
+  const read = () => { try { return JSON.parse(localStorage.getItem(DISMISS_KEY) || '[]'); } catch { return []; } };
+  const [gone, setGone] = useState(read);
+  const dismiss = id => { const next = [...gone, id]; setGone(next); try { localStorage.setItem(DISMISS_KEY, JSON.stringify(next)); } catch { /* private mode */ } };
+  const shown = (messages || []).filter(m => !gone.includes(m.id));
+  if (!shown.length) return null;
+  return shown.map(m => (
+    <div className="banner" key={m.id} role="status">
+      <span className="kicker">From QS</span><span className="b-text">{m.text}</span>
+      {m.link && <a className="btn sm amber" href={m.link} {...(/^https?:/.test(m.link) ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>{m.linkLabel || 'Open'}</a>}
+      <button className="x-btn" onClick={() => dismiss(m.id)} aria-label="Dismiss message">×</button>
+    </div>
+  ));
+}
+
 export default function App() {
   const hash = useHash();
   const [boot, setBoot] = useState(null);
@@ -88,7 +104,7 @@ export default function App() {
   let page;
   switch (section) {
     case '': case undefined: page = <Overview />; break;
-    case 'intelligence': page = sub === 'webinars' ? <Webinars /> : sub === 'library' ? <Library /> : sub === 'sources' ? <Sources /> : sub ? <Briefing id={sub} key={sub} /> : <Intelligence />; break;
+    case 'intelligence': page = sub === 'sources' ? <Sources /> : sub === 'a' ? <Article id={hash.split('/').slice(2).join('/')} key={hash} /> : <Intelligence tab={['latest', 'magazine', 'media'].includes(sub) ? sub : null} key={sub || 'foryou'} />; break;
     case 'communities': page = sub && !['all', 'open'].includes(sub) ? <CommunityDetail id={sub} key={sub} /> : <Communities tab={sub || 'mine'} />; break;
     case 'pulse': page = sub === 'all' ? <PulseList /> : sub === 's' ? <PulseSurvey id={sub2} key={sub2} /> : <PulseDashboard wave={sub} key={sub || 'x'} />; break;
     case 'connect': page = sub === 'intros' ? <Intros /> : sub === 'summits' ? <Summits eventId={sub2} key={sub2 || 's'} /> : sub === 'board' ? <Board /> : <Directory />; break;
@@ -103,13 +119,13 @@ export default function App() {
   const pending = boot.intros.filter(n => n.toId === boot.me.id && n.status === 'requested').length;
   const openPulses = boot.pulses.filter(p => p.status === 'open' && !p.contributed).length;
   const NAV = [
-    { id: 'intelligence', label: 'Intelligence', icon: Icon.intel, items: [['intelligence', 'Signals & briefings'], ['intelligence/webinars', 'Expert webinars'], ['intelligence/library', 'Case studies & frameworks'], ['intelligence/sources', 'QS data sources']] },
+    { id: 'intelligence', label: 'Intelligence', icon: Icon.intel, items: [['intelligence', 'For you'], ['intelligence/latest', 'Latest from QS'], ['intelligence/magazine', 'Insights Magazine'], ['intelligence/media', 'Media library'], ['intelligence/sources', 'Content sources']] },
     { id: 'communities', label: 'Communities', icon: Icon.comm, items: [['communities', 'My communities'], ['communities/all', 'All communities'], ['communities/open', 'Open sessions']] },
     { id: 'pulse', label: 'Pulse', icon: Icon.pulse, items: [['pulse', 'Recruitment Pulse'], ['pulse/all', 'All surveys', boot.entitlements.kind === 'member' ? openPulses : 0]] },
     { id: 'connect', label: 'Connect', icon: Icon.connect, items: [['connect', 'Directory'], ['connect/intros', 'Introductions', pending], ['connect/summits', 'Summits'], ['connect/board', 'Partner board']] },
     { id: 'membership', label: 'Membership', icon: Icon.member, items: [['membership', 'Our membership'], ['membership/plans', 'Plans & benefits'], ...(boot.me.orgType === 'institution' ? [[`institution/${boot.me.orgId}`, 'Institution profile']] : []), ['profile', 'My profile']] }
   ];
-  const isActive = p => hash === p || (p === 'communities' && section === 'communities' && sub && !['all', 'open'].includes(sub)) || (p === 'connect/summits' && hash.startsWith('connect/summits')) || (p === 'intelligence' && section === 'intelligence' && sub && !['webinars', 'library', 'sources'].includes(sub)) || (p === 'pulse' && section === 'pulse' && sub && !['all', 's'].includes(sub));
+  const isActive = p => hash === p || (p === 'communities' && section === 'communities' && sub && !['all', 'open'].includes(sub)) || (p === 'connect/summits' && hash.startsWith('connect/summits')) || (p === 'intelligence/latest' && section === 'intelligence' && sub === 'a') || (p === 'pulse' && section === 'pulse' && sub && !['all', 's'].includes(sub));
   const orgCount = boot.org?.memberCount ?? boot.institutions.find(i => i.id === boot.me.orgId)?.memberCount;
 
   return (
@@ -154,9 +170,10 @@ export default function App() {
         </aside>
         <main className="main">
           <div className="content" key={boot.me.id}>
+            <Banners messages={boot.messages} />
             <Carousel boot={boot} section={section || 'overview'} />
             {page}
-            <footer className="app-foot"><span>QS One · proof of concept. All institutions, people and partners are fictional. QS content links to qs.com and shows when it was read.</span><a href="#/membership/plans">Plans & benefits</a></footer>
+            <footer className="app-foot"><span>QS One · proof of concept. All institutions, people and partners are fictional. Articles are read from QS Newsletters and QS Insights Magazine and link back to the original.</span><a href="#/membership/plans">Plans & benefits</a></footer>
           </div>
         </main>
       </div>

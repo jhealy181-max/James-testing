@@ -1,6 +1,6 @@
 {
   "name": "qs-one",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": true,
   "description": "QS One membership proof of concept: Node API + React client. No runtime dependencies.",
   "type": "module",
@@ -9,6 +9,6 @@
     "start": "node server/index.js",
     "build": "cd client && npm install --no-audit --no-fund && npm run build",
     "dev:client": "cd client && npm run dev",
-    "reset-data": "node -e \"require('fs').rmSync('data/db.json',{force:true});console.log('Demo data will be recreated on next start.')\""
+    "reset-data": "node -e \"require('fs').rmSync('data/db.json',{force:true});console.log('Demo data will be recreated on next start. QS content in data/content.json is kept.')\""
   }
 }

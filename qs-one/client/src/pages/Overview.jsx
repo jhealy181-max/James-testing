@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { api } from '../api.js';
 import { useApp, PageTitle, Panel, Link, fmtNumDate, fmtDateTime, until, signed, Tag } from '../ui.jsx';
-import { IntelCard } from './Intelligence.jsx';
+import { ContentCard, DigestCta } from './Intelligence.jsx';
 import { StatusCards } from './Pulse.jsx';
 import { Onboarding } from './Membership.jsx';
 
@@ -13,7 +13,7 @@ export default function Overview() {
   const open = rec.find(p => p.status === 'open');
   const latestMine = rec.find(p => p.contributed);
   useEffect(() => {
-    api('intel').then(d => setIntel(d.items.filter(i => i.itemType === 'intel'))).catch(() => setIntel([]));
+    api('content?view=foryou&limit=3').then(setIntel).catch(() => setIntel({ items: [] }));
     if (latestMine) api(`pulses/${latestMine.id}`).then(setPulse).catch(() => {});
   }, []);
 
@@ -66,8 +66,10 @@ export default function Overview() {
         </Panel>
       )}
 
-      <Panel title="Intelligence for you" sub="Weekly Signals are free. Monthly domain briefings and executive briefings depend on your plan." action={<Link to="intelligence">All intelligence →</Link>}>
-        <div className="grid g3">{(intel || []).slice(0, 3).map(i => <IntelCard key={i.id} item={i} />)}</div>
+      <Panel title="From QS this week" sub={intel?.locked ? 'Top stories from QS Newsletters and Insights Magazine. Your full curated feed is included from Member.' : 'Curated from QS Newsletters and Insights Magazine by your interests and regions.'} action={<Link to="intelligence">All intelligence →</Link>}>
+        {intel && !intel.items.length ? <p className="muted">QS One is reading the latest newsletters and magazine. Check back in a few minutes.</p> : <div className="grid g3">{(intel?.items || []).map(i => <ContentCard key={i.id} item={i} />)}</div>}
+        <div style={{ height: 16 }} />
+        <DigestCta compact />
       </Panel>
 
       <div className="grid g2">

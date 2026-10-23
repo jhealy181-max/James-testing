@@ -16,7 +16,7 @@ export const DOMAINS = [
 export const TIERS = {
   Free: {
     rank: 0, usd: 0, gbp: 0, label: 'Network (free)',
-    intel: 'Weekly Signal newsletter; partial library of case studies and frameworks',
+    intel: 'Full QS Newsletters and Insights Magazine library; weekly digest sign-up',
     communities: 'Open quarterly sessions', pulse: 'Contribute; see headline results',
     connect: 'Verified profile; receive introductions', analytics: [], recognition: [],
     domainCommunities: 0, chapters: false, execCouncil: false, cohortCuts: false, bespokeCohort: false,
@@ -24,7 +24,7 @@ export const TIERS = {
   },
   Member: {
     rank: 1, usd: 20000, gbp: 15000, label: 'Member',
-    intel: '+ Monthly domain briefings; closed-door expert webinars',
+    intel: '+ Curated "For you" feed by your themes and regions',
     communities: 'Membership of one domain community', pulse: '+ Results by region and institution type',
     connect: '+ 2 introductions a quarter; 5 passes for one summit', analytics: [], recognition: ['Badge', 'Certificate'],
     domainCommunities: 1, chapters: true, execCouncil: false, cohortCuts: true, bespokeCohort: false,
@@ -32,7 +32,7 @@ export const TIERS = {
   },
   'Member Plus': {
     rank: 2, usd: 60000, gbp: 45000, label: 'Member Plus',
-    intel: '+ Quarterly executive-team briefing; QS Market Insights subscription',
+    intel: '+ Curated feed; quarterly executive-team briefing; QS Market Insights subscription',
     communities: 'All domain communities', pulse: '+ Results by region and institution type',
     connect: '+ Matching at every summit; 8 summit passes', analytics: ['Market Expert'], recognition: ['Badge', 'Certificate', 'Interview', 'Exhibition outside home region'],
     domainCommunities: 4, chapters: true, execCouncil: false, cohortCuts: true, bespokeCohort: false,
@@ -40,7 +40,7 @@ export const TIERS = {
   },
   Council: {
     rank: 3, usd: 110000, gbp: 85000, label: 'Council', cap: 25,
-    intel: '+ Private executive briefings; 20 analyst hours',
+    intel: '+ Curated feed; private executive briefings; 20 analyst hours',
     communities: 'Executive Council seats; consulted on community themes', pulse: '+ Bespoke benchmark cohort',
     connect: '+ Concierge introductions; stand at a summit', analytics: ['WUR Rankings', 'Student Insight', 'Market Expert'], recognition: ['Badge', 'Certificate', 'Interview', 'Exhibition outside home region'],
     domainCommunities: 4, chapters: true, execCouncil: true, cohortCuts: true, bespokeCohort: true,
@@ -152,32 +152,7 @@ export function buildSeed() {
     { id: 'o3', at: at(24, 13), title: 'Partner-hosted open session: faster offer-making', domain: 'mobility', host: 'Atlas EdTech', partnerId: 'p1', registrations: ['u3b'] }
   ];
 
-  // Intelligence items, each with an access level (free, member, plus, council).
-  const intel = [
-    { id: 'n1', kind: 'Signal', access: 'free', domains: ['mobility'], published: at(-1), title: 'This week: deposits split by market as visa timelines lengthen', summary: 'Early Pulse returns show deposit changes diverging sharply by source market. Official statistics will not show this until 2027.', soWhat: 'Market-level averages hide the risk. Check your two largest markets separately.', action: 'Answer the October Recruitment Pulse to see your position against peers.', sourceIds: ['gsf-report', 'iss'], label: 'QS Analysis' },
-    { id: 'n2', kind: 'Signal', access: 'free', domains: ['mobility'], published: at(-8), title: 'Affordability and visas act as filters, not selling points', summary: 'ISS findings suggest students rule destinations out on cost and visa access before comparing institutions.', soWhat: 'Conversion spend in markets where you fail the filter has low returns.', action: 'Review spend in markets where visa or cost filters tightened this year.', sourceIds: ['iss'], label: 'QS Analysis' },
-    { id: 'n3', kind: 'Signal', access: 'free', domains: ['mobility', 'skills'], published: at(-15), title: 'Chinese applicants weigh employment outcomes more heavily than in 2022', summary: 'ISS China shows the importance of employment options up 11 points and post-study work up 14 points since 2022.', soWhat: 'Outcome evidence carries more weight than rank alone in this market.', action: 'Bring careers and recruitment teams together on outcome messaging.', sourceIds: ['iss-china'], label: 'QS Analysis' },
-    { id: 'n4', kind: 'Monthly briefing', access: 'member', domains: ['mobility'], published: at(-5), title: 'October mobility briefing: planning for a regional, hybrid 2027', summary: 'The three Global Student Flows scenarios applied to 2027 intake planning, with September Pulse results.', soWhat: 'Most members plan for one scenario. Few have a stress case.', action: 'Use the market-prioritisation canvas before the November community session.', sourceIds: ['gsf-report', 'gsf-hub', 'recruitment-datasets'], label: 'QS Analysis', body: ['QS Global Student Flows describes three paths to 2030: Regulated Regionalism, Hybrid Multiversity and Talent Race Rebound. September Pulse results show 40% of respondents plan for Regulated Regionalism, but only a minority have tested a second scenario.', 'For recruitment leaders, the practical step is to name a base case and a stress case, and check which markets and programmes remain viable under both.', 'Illustrative editorial for the proof of concept. Scenario descriptions come from QS’s public Global Student Flows pages.'] },
-    { id: 'n5', kind: 'Monthly briefing', access: 'member', domains: ['institutions'], published: at(-12), title: 'Reputation briefing: from rankings data to strategy', summary: 'Connecting indicator evidence to credible research and partnership choices, without chasing the metric.', soWhat: 'Durable gains come from real collaboration and outcomes.', action: 'Compare partnership strategies in the Reputation community.', sourceIds: ['metrics-to-strategy', 'wur-dataset'], label: 'QS Analysis' },
-    { id: 'n6', kind: 'Monthly briefing', access: 'member', domains: ['innovation'], published: at(-18), title: 'AI briefing: from pilots to an accountable roadmap', summary: 'Governance, assessment, operations and evaluation.', soWhat: 'Institutions without AI governance will struggle with partners and regulators.', action: 'Benchmark your stage in the AI Adoption Pulse.', sourceIds: ['ai-assess', 'rai'], label: 'QS Analysis' },
-    { id: 'n7', kind: 'Executive-team briefing', access: 'plus', domains: ['mobility', 'institutions'], published: at(-20), title: 'Q4 executive briefing: revenue resilience in a capped market', summary: 'For vice-chancellors and executive teams: scenarios, peer moves and three decisions to take before January.', soWhat: 'International revenue risk is now a board-level question.', action: 'Schedule a 30-minute executive walkthrough with your QS analyst.', sourceIds: ['gsf-report', 'uk-recruitment', 'us-landscape'], label: 'QS Analysis' },
-    { id: 'n8', kind: 'Private executive briefing', access: 'council', domains: ['institutions'], published: at(-7), title: 'Council briefing: your position against a bespoke peer cohort', summary: 'Prepared for each Council institution using its bespoke Pulse cohort and QS data.', soWhat: 'Tailored to your institution.', action: 'Book analyst hours to go deeper.', sourceIds: ['wur-dataset'], label: 'QS Analysis' }
-  ];
-  const library = [
-    { id: 'l1', kind: 'Framework', access: 'free', domains: ['mobility'], title: 'Market-prioritisation canvas', summary: 'Score source markets on scenario resilience, visa filter, affordability, competition and programme fit.' },
-    { id: 'l2', kind: 'Case study', access: 'free', domains: ['mobility'], title: 'Using Global Student Flows to prioritise recruitment markets', summary: 'How a UK university tested market priorities with QS consulting.', url: 'https://www.qs.com/case-studies/global-student-flows-international-recruitment-strategy' },
-    { id: 'l3', kind: 'Framework', access: 'member', domains: ['mobility'], title: 'TNE partner evaluation framework', summary: 'Partner selection, operating models, quality assurance and exit terms.' },
-    { id: 'l4', kind: 'Case study', access: 'member', domains: ['mobility'], title: 'Recruiting under an enrolment cap', summary: 'A member’s portfolio approach to cap allocation (member practice).', member: true },
-    { id: 'l5', kind: 'Framework', access: 'member', domains: ['innovation'], title: 'AI roadmap framework', summary: 'From isolated pilots to an accountable institutional roadmap.' },
-    { id: 'l6', kind: 'Case study', access: 'free', domains: ['innovation'], title: 'Our AI assessment policy, one year on', summary: 'Three assessment categories replaced a blanket ban (member practice).', member: true },
-    { id: 'l7', kind: 'Framework', access: 'plus', domains: ['institutions'], title: 'Revenue diversification options appraisal', summary: 'A board-ready template for comparing TNE, online, pathway and research revenue options.' },
-    { id: 'l8', kind: 'Case study', access: 'member', domains: ['skills'], title: 'Co-designing a data-engineering module with an employer', summary: 'Contracts, teaching model and interview guarantee (member practice).', member: true }
-  ];
-  const webinars = [
-    { id: 'w1', access: 'member', domains: ['mobility'], at: at(7, 15), title: 'Closed-door: what visa officers are seeing this autumn', speaker: 'Former immigration official (off the record)', registrations: ['u1', 'u7'], sponsor: null },
-    { id: 'w2', access: 'member', domains: ['institutions'], at: at(21, 14), title: 'Closed-door: reading the 2027 rankings cycle', speaker: 'QS research team', registrations: ['u8'], sponsor: null },
-    { id: 'w3', access: 'member', domains: ['innovation'], at: at(28, 16), title: 'AI in admissions: governance lessons', speaker: 'Panel of three members', registrations: [], sponsor: 'Cloudpeak AI' }
-  ];
+  // Intelligence content is no longer seeded: it is read from QS Newsletters and QS Insights Magazine (server/ingest.js).
 
   // Recruitment Pulse: monthly waves with numeric answers by market.
   const MARKETS = ['India', 'Nigeria', 'China', 'Pakistan', 'Vietnam', 'United States'];
@@ -271,5 +246,5 @@ export function buildSeed() {
     { id: 'x3', communityId: 'c4', type: 'Practice note', authorId: 'u7', createdAt: at(-6), status: null, title: 'Our AI assessment policy, one year on', body: 'We replaced a blanket ban with three categories: AI-free, AI-assisted and AI-integrated. Misconduct cases fell and staff confidence rose.', replies: [], useful: ['u2'] }
   ];
 
-  return { meta: { createdAt: new Date().toISOString(), version: 4 }, institutions, partners, people, personas, communities, openSessions, intel, library, webinars, pulses, responses, events, intros, board, signings, posts, audit: [] };
+  return { meta: { createdAt: new Date().toISOString(), version: 5 }, institutions, partners, people, personas, communities, openSessions, pulses, responses, events, intros, board, signings, posts, audit: [] };
 }

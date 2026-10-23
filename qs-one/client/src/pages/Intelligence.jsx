@@ -1,150 +1,275 @@
 import React, { useEffect, useMemo, useState } from 'react';
+import DOMPurify from 'dompurify';
 import { api } from '../api.js';
-import { useApp, PageTitle, Panel, Trust, Tag, Lock, Link, Ext, SourceBadge, Empty, fmtDate, fmtDateTime, until, ago } from '../ui.jsx';
+import { useApp, PageTitle, Panel, Tag, Lock, Link, Ext, SourceBadge, Empty, Modal, fmtDate, ago } from '../ui.jsx';
 
-const dname = (boot, id) => boot.domains.find(d => d.id === id)?.short || id;
+// Real content from QS Newsletters and QS Insights Magazine, read by server/ingest.js.
+// The library is free. The curated "For you" feed is included from Member.
+const VIDEO_HOSTS = ['www.youtube.com', 'youtube.com', 'www.youtube-nocookie.com', 'youtube-nocookie.com', 'player.vimeo.com', 'fast.wistia.net', 'www.loom.com'];
+DOMPurify.addHook('uponSanitizeElement', (node, data) => {
+  if (data.tagName === 'iframe') { let ok = false; try { ok = VIDEO_HOSTS.includes(new URL(node.getAttribute('src') || '').hostname); } catch { /* bad url */ } if (!ok) node.parentNode?.removeChild(node); }
+});
+DOMPurify.addHook('afterSanitizeAttributes', node => {
+  if (node.tagName === 'A') { node.setAttribute('target', '_blank'); node.setAttribute('rel', 'noopener noreferrer'); }
+  if (node.tagName === 'IMG') { node.setAttribute('loading', 'lazy'); node.setAttribute('referrerpolicy', 'no-referrer'); }
+  if (node.tagName === 'IFRAME') { node.setAttribute('loading', 'lazy'); node.setAttribute('allow', 'fullscreen; picture-in-picture'); }
+});
+const clean = html => DOMPurify.sanitize(html || '', { ADD_TAGS: ['iframe'], ADD_ATTR: ['allowfullscreen', 'target', 'loading', 'referrerpolicy', 'allow'], FORBID_ATTR: ['style', 'class'] });
 
-export function IntelCard({ item }) {
+const premium = ent => ent.kind === 'staff' || (ent.kind === 'member' && ent.rank >= 1);
+const sourceHost = it => { try { return new URL(it.url).hostname.replace(/^www\./, ''); } catch { return 'source'; } };
+
+export function DigestCta({ compact }) {
   const { boot } = useApp();
-  const isIntel = item.itemType === 'intel';
   return (
-    <article className={`card ${item.locked ? 'locked-card' : ''}`}>
-      <div className="card-top"><Trust label={item.label} /><span>{item.kind}</span><span>· {fmtDate(item.published)}</span></div>
-      <h3>{isIntel && !item.locked ? <Link to={`intelligence/${item.id}`} className="">{item.title}</Link> : isIntel ? item.title : <a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a>}</h3>
-      <p>{item.summary}</p>
-      {!isIntel && item.excerpts?.[0] && <div className="excerpt">“{item.excerpts[0]}”</div>}
-      <div className="card-top">{item.domains.map(d => <Tag key={d}>{dname(boot, d)}</Tag>)}</div>
+    <div className={`digest ${compact ? 'compact' : ''}`}>
+      <div><strong>Get the QS weekly digest</strong><span className="meta">The QS newsletters in your inbox each week. Sign-up is handled by QS Newsletters.</span></div>
+      <a className="btn amber" href={boot.digestUrl} target="_blank" rel="noopener noreferrer">Sign up ↗</a>
+    </div>
+  );
+}
+
+function StaffControls({ item, onChange }) {
+  const { ent, toast } = useApp();
+  if (ent.kind !== 'staff') return null;
+  async function set(patch, msg) { try { const r = await api(`content/${encodeURIComponent(item.id)}`, { method: 'PATCH', body: patch }); toast(msg); onChange?.(r); } catch (e) { toast(e.message, true); } }
+  return (
+    <span className="staff-ctl">
+      <button className="btn sm ghost" onClick={() => set(item.pinned ? { pinned: false } : { pinned: true, pinDays: 14 }, item.pinned ? 'Unpinned.' : 'Pinned to the top for 14 days.')}>{item.pinned ? 'Unpin' : 'Pin'}</button>
+      <button className="btn sm ghost" onClick={() => set({ hidden: !item.hidden }, item.hidden ? 'Shown again.' : 'Hidden from members.')}>{item.hidden ? 'Unhide' : 'Hide'}</button>
+    </span>
+  );
+}
+
+export function ContentCard({ item, onChange, compact }) {
+  return (
+    <article className={`card content-card ${item.hidden ? 'is-hidden' : ''}`}>
+      {item.image && !compact && <Link to={`intelligence/a/${encodeURIComponent(item.id)}`} className="thumb" aria-hidden="true" tabIndex={-1}><img src={item.image} alt="" loading="lazy" referrerPolicy="no-referrer" onError={e => { e.currentTarget.parentNode.style.display = 'none'; }} /></Link>}
+      <div className="card-top">
+        {item.pinned && <Tag tone="navy">Pinned</Tag>}
+        <span className="src-name">{item.series}</span><span>· {fmtDate(item.published)}</span>
+      </div>
+      <h3><Link to={`intelligence/a/${encodeURIComponent(item.id)}`} className="">{item.title}</Link></h3>
+      {!compact && <p>{item.summary}</p>}
+      <div className="card-top">
+        <Tag tone="amber">{item.type}</Tag>
+        {item.sponsored && <Tag tone="outline">Sponsored</Tag>}
+        {item.themes.slice(0, 2).map(t => <Tag key={t.id}>{t.label}</Tag>)}
+      </div>
       <div className="card-foot">
-        {isIntel ? (item.locked ? <Lock>Included from {item.accessLabel}</Lock> : <Tag tone={item.access === 'free' ? 'green' : 'blue'}>{item.accessLabel}</Tag>) : <SourceBadge status={item.status} asOf={item.asOf} />}
-        {isIntel ? (item.locked ? <Link to="membership/plans">See plans</Link> : <Link to={`intelligence/${item.id}`}>Read</Link>) : <Ext href={item.url} />}
+        <span className="meta">{item.readMins} min read{item.videoCount ? ' · ▶ video' : ''}{item.status === 'partial' ? ' · summary only' : ''}</span>
+        <StaffControls item={item} onChange={onChange} />
       </div>
       {item.reasons && <div className="why">Why you see this: {item.reasons.join(' · ')}</div>}
     </article>
   );
 }
 
-export function Intelligence() {
+function NoContent() {
   const { boot, ent } = useApp();
-  const [items, setItems] = useState(null);
-  const [domain, setDomain] = useState('all');
-  const [kind, setKind] = useState('all');
-  useEffect(() => { api('intel').then(d => setItems(d.items)); }, []);
-  const kinds = ['Signal', 'Monthly briefing', 'Executive-team briefing', 'Private executive briefing', 'QS Evidence'];
-  const shown = useMemo(() => (items || []).filter(i => (domain === 'all' || i.domains.includes(domain)) && (kind === 'all' || (kind === 'QS Evidence' ? i.itemType !== 'intel' : i.kind === kind))), [items, domain, kind]);
+  const st = boot.content.ingest;
+  return (
+    <div className="notice left grey">
+      {st.running || !st.lastRun ? 'QS One is reading the QS newsletters and Insights Magazine for the first time. This takes a few minutes. Reload the page shortly.' : 'No articles have been read yet. The server may not be able to reach newsletters.qs.com or magazine.qs.com.'}
+      {ent.kind === 'staff' && <> See <Link to="intelligence/sources">content sources</Link> for details.</>}
+    </div>
+  );
+}
+
+const TABS = [['intelligence', 'For you'], ['intelligence/latest', 'Latest from QS'], ['intelligence/magazine', 'Insights Magazine'], ['intelligence/media', 'Media library']];
+function Tabs({ at }) { return <div className="seg tabs" role="tablist">{TABS.map(([to, l]) => <a key={to} href={`#/${to}`} className={at === to ? 'on' : ''} role="tab" aria-selected={at === to}>{l}</a>)}</div>; }
+
+export function Intelligence({ tab }) {
+  const { ent } = useApp();
+  const at = tab ? `intelligence/${tab}` : 'intelligence';
   return (
     <>
-      <PageTitle title="Intelligence" lede="Executive-ready interpretation of QS data, Pulse results and expert views. Every item shows who produced it, when, and the QS sources behind it." />
-      <Panel title="Signals & briefings" action={null}>
-        <div className="notice left">Weekly Signal: free for every institution. Monthly domain briefings and closed-door webinars: Member. Quarterly executive-team briefing: Member Plus. Private executive briefings: Council. Your plan: <b>{ent.label}</b>.</div>
-        <div style={{ height: 20 }} />
-        <div className="filters">
-          <label className="field"><span>Domain</span><select className="select" value={domain} onChange={e => setDomain(e.target.value)}><option value="all">All domains</option>{boot.domains.map(d => <option key={d.id} value={d.id}>{d.name}</option>)}</select></label>
-          <label className="field"><span>Format</span><select className="select" value={kind} onChange={e => setKind(e.target.value)}><option value="all">All formats</option>{kinds.map(k => <option key={k}>{k}</option>)}</select></label>
-        </div>
-        {!items ? <p className="muted">Loading…</p> : shown.length ? <div className="grid g3">{shown.map(i => <IntelCard key={i.id} item={i} />)}</div> : <Empty>Nothing matches these filters.</Empty>}
-      </Panel>
+      <PageTitle title="Intelligence" lede="Articles from QS Newsletters and QS Insights Magazine, broken into individual stories and tagged by theme. The library is free. Your curated feed is included from Member." />
+      <Tabs at={at} />
+      <div style={{ height: 20 }} />
+      {tab === 'latest' ? <Latest /> : tab === 'magazine' ? <Editions /> : tab === 'media' ? <Media /> : <ForYou premium={premium(ent)} />}
     </>
   );
 }
 
-export function Briefing({ id }) {
-  const { boot } = useApp();
-  const [b, setB] = useState(null);
-  const [err, setErr] = useState('');
-  useEffect(() => { api(`intel/${id}`).then(setB).catch(e => setErr(e.message)); }, [id]);
-  if (err) return <><Link to="intelligence" className="back">← Intelligence</Link><div className="lock-panel" style={{ marginTop: 24 }}><strong>🔒 {err}</strong><Link to="membership/plans" className="btn amber">See plans</Link></div></>;
-  if (!b) return <p className="muted">Loading…</p>;
+function ForYou({ premium: isPremium }) {
+  const { boot, me } = useApp();
+  const [d, setD] = useState(null);
+  const load = () => api('content?view=foryou&limit=24').then(setD).catch(() => setD({ items: [], total: 0 }));
+  useEffect(() => { load(); }, []);
+  if (!d) return <p className="muted">Loading…</p>;
+  const interests = me.interests.map(i => boot.domains.find(x => x.id === i)?.short).join(', ');
   return (
     <>
-      <Link to="intelligence" className="back">← Intelligence</Link>
-      <PageTitle title={b.title} lede={b.summary} />
+      <Panel title="Curated for you" sub={`Ranked by your interests (${interests}), your regions and how recent each story is. Items pinned by QS come first.`} action={<Link to="profile">Change interests →</Link>}>
+        {!d.items.length ? <NoContent /> : <div className="grid g3">{d.items.map(i => <ContentCard key={i.id} item={i} onChange={load} />)}</div>}
+        {d.locked && d.items.length > 0 && (
+          <div className="lock-panel" style={{ marginTop: 20 }}>
+            <strong>🔒 {d.lockedMessage}</strong>
+            <span className="meta">You are seeing the top three. Every article stays free to read in Latest from QS.</span>
+            <span style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}><Link to="intelligence/latest" className="btn ghost">Browse the free library</Link><Link to="membership/plans" className="btn amber">See plans</Link></span>
+          </div>
+        )}
+      </Panel>
+      <DigestCta />
+    </>
+  );
+}
+
+function Latest() {
+  const { boot, ent } = useApp();
+  const [f, setF] = useState({ q: '', theme: '', source: '', type: '' });
+  const [d, setD] = useState(null);
+  const qs = useMemo(() => Object.entries(f).filter(([, v]) => v).map(([k, v]) => `${k}=${encodeURIComponent(v)}`).join('&'), [f]);
+  const load = () => api(`content?view=latest&limit=90${qs ? '&' + qs : ''}${ent.kind === 'staff' ? '&hidden=1' : ''}`).then(setD);
+  useEffect(() => { const t = setTimeout(load, f.q ? 250 : 0); return () => clearTimeout(t); }, [qs]);
+  const set = k => e => setF(x => ({ ...x, [k]: e.target.value }));
+  return (
+    <Panel title="Latest from QS" sub="Every story from QS Newsletters and QS Insights Magazine, newest first. Free for everyone." action={null}>
+      <div className="filters">
+        <label className="field"><span>Search</span><input className="input" value={f.q} onChange={set('q')} placeholder="Title, author or series" /></label>
+        <label className="field"><span>Theme</span><select className="select" value={f.theme} onChange={set('theme')}><option value="">All themes</option>{(d?.facets.themes || []).map(t => <option key={t.value} value={t.value}>{t.label} ({t.n})</option>)}</select></label>
+        <label className="field"><span>Source</span><select className="select" value={f.source} onChange={set('source')}><option value="">All sources</option><option value="newsletters">QS Newsletters</option><option value="magazine">QS Insights Magazine</option><option value="library">Media library</option></select></label>
+        <label className="field"><span>Format</span><select className="select" value={f.type} onChange={set('type')}><option value="">All formats</option>{(d?.facets.types || []).map(t => <option key={t.value} value={t.value}>{t.value} ({t.n})</option>)}</select></label>
+      </div>
+      {!d ? <p className="muted">Loading…</p> : !d.status.items ? <NoContent /> : d.items.length ? <><p className="meta">{d.total} stor{d.total === 1 ? 'y' : 'ies'}</p><div className="grid g3">{d.items.map(i => <ContentCard key={i.id} item={i} onChange={load} />)}</div></> : <Empty>Nothing matches these filters.</Empty>}
+    </Panel>
+  );
+}
+
+function Editions() {
+  const [d, setD] = useState(null);
+  useEffect(() => { api('editions').then(setD); }, []);
+  if (!d) return <p className="muted">Loading…</p>;
+  if (!d.editions.length) return <NoContent />;
+  return d.editions.map(e => (
+    <Panel key={e.n} title={e.title} sub={`${e.articles.length} articles · read ${ago(e.fetchedAt)}`} action={<Ext href={e.url}>Open on magazine.qs.com ↗</Ext>}>
+      <div className="edition">
+        {e.image && <img className="cover" src={e.image} alt={`Cover of ${e.title}`} referrerPolicy="no-referrer" onError={ev => { ev.currentTarget.style.display = 'none'; }} />}
+        <div className="grid g3">{e.articles.map(a => <ContentCard key={a.id} item={a} compact />)}</div>
+      </div>
+    </Panel>
+  ));
+}
+
+function Media() {
+  const { boot, ent, toast } = useApp();
+  const [kind, setKind] = useState('all');
+  const [d, setD] = useState(null);
+  const [adding, setAdding] = useState(false);
+  const [f, setF] = useState({ title: '', url: '', description: '', themes: [] });
+  const load = () => api(`media${kind === 'video' ? '?kind=video' : ''}`).then(setD);
+  useEffect(() => { load(); }, [kind]);
+  async function add(e) {
+    e.preventDefault();
+    try { await api('media', { method: 'POST', body: f }); toast('Video added to the media library.'); setAdding(false); setF({ title: '', url: '', description: '', themes: [] }); load(); } catch (err) { toast(err.message, true); }
+  }
+  const themeOpts = Object.entries(boot.themeLabels);
+  return (
+    <Panel title="Media library" sub="Images and videos synced from QS articles, plus videos added by the QS team. Each links back to its story." action={ent.kind === 'staff' ? <button className="btn amber" onClick={() => setAdding(true)}>Add a video</button> : null}>
+      <div className="filters"><div className="seg" role="group">{[['all', 'All media'], ['video', 'Videos only']].map(([k, l]) => <button key={k} className={kind === k ? 'on' : ''} onClick={() => setKind(k)}>{l}</button>)}</div></div>
+      {!d ? <p className="muted">Loading…</p> : !d.media.length ? <Empty>No images or videos yet. They appear here as articles are read.</Empty> : (
+        <div className="media-grid">{d.media.map(m => (
+          <figure key={m.src} className="media-item">
+            {m.kind === 'video' ? (m.videoKind === 'file' ? <video src={m.src} poster={m.poster || undefined} controls preload="none" /> : <iframe src={m.src} title={m.title} loading="lazy" allow="fullscreen; picture-in-picture" allowFullScreen />) : <img src={m.src} alt={m.alt || ''} loading="lazy" referrerPolicy="no-referrer" onError={e => { e.currentTarget.closest('figure').style.display = 'none'; }} />}
+            <figcaption><Link to={`intelligence/a/${encodeURIComponent(m.itemId)}`}>{m.title}</Link><span className="meta">{m.kind === 'video' ? '▶ Video · ' : ''}{m.source} · {fmtDate(m.published)}</span></figcaption>
+          </figure>
+        ))}</div>
+      )}
+      {adding && (
+        <Modal title="Add a video" onClose={() => setAdding(false)}>
+          <form className="form" onSubmit={add}>
+            <label className="field"><span>Title</span><input className="input" required minLength={3} value={f.title} onChange={e => setF({ ...f, title: e.target.value })} /></label>
+            <label className="field"><span>Video link</span><input className="input" required type="url" placeholder="YouTube, Vimeo, Wistia or Loom link, or a direct .mp4 link" value={f.url} onChange={e => setF({ ...f, url: e.target.value })} /></label>
+            <label className="field"><span>Description</span><textarea className="textarea" rows={3} value={f.description} onChange={e => setF({ ...f, description: e.target.value })} /></label>
+            <fieldset className="field"><span>Themes</span><div className="checks">{themeOpts.map(([id, l]) => <label key={id} className="check"><input type="checkbox" checked={f.themes.includes(id)} onChange={e => setF({ ...f, themes: e.target.checked ? [...f.themes, id] : f.themes.filter(x => x !== id) })} /> {l}</label>)}</div></fieldset>
+            <p className="meta">Proof of concept: videos are added by link. Uploading video files needs storage and is planned for a later phase.</p>
+            <div className="form-actions"><button type="button" className="btn ghost" onClick={() => setAdding(false)}>Cancel</button><button className="btn amber">Add video</button></div>
+          </form>
+        </Modal>
+      )}
+    </Panel>
+  );
+}
+
+export function Article({ id }) {
+  const { ent } = useApp();
+  const [a, setA] = useState(null);
+  const [err, setErr] = useState('');
+  const load = () => api(`content/${encodeURIComponent(id)}`).then(setA).catch(e => setErr(e.message));
+  useEffect(() => { load(); }, [id]);
+  const body = useMemo(() => clean(a?.html), [a?.html]);
+  if (err) return <><Link to="intelligence/latest" className="back">← Intelligence</Link><div className="notice left grey" style={{ marginTop: 24 }}>{err}</div></>;
+  if (!a) return <p className="muted">Loading…</p>;
+  const from = a.source === 'magazine' ? `${a.series}` : a.source === 'library' ? 'the QS One media library' : (a.issueTitle && a.issueTitle !== a.title ? (a.issueTitle.startsWith(a.series) ? a.issueTitle : `${a.series}: ${a.issueTitle}`) : a.series);
+  return (
+    <>
+      <Link to={a.source === 'magazine' ? 'intelligence/magazine' : 'intelligence/latest'} className="back">← {a.source === 'magazine' ? 'Insights Magazine' : 'Latest from QS'}</Link>
+      <div className="article-head">
+        <div className="card-top">{a.pinned && <Tag tone="navy">Pinned</Tag>}<Tag tone="amber">{a.type}</Tag>{a.sponsored && <Tag tone="outline">Sponsored</Tag>}<span>{a.series} · {fmtDate(a.published)} · {a.readMins} min read</span></div>
+        <h1 className="page-title">{a.title}</h1>
+        {a.author && <p className="byline">By {a.author}</p>}
+      </div>
       <div className="two-col">
         <Panel action={null}>
-          <div className="card-top" style={{ marginBottom: 16 }}><Trust label={b.label} /><span>{b.kind}</span><span>· {fmtDate(b.published)}</span>{b.domains.map(d => <Tag key={d}>{dname(boot, d)}</Tag>)}<Tag>Illustrative editorial</Tag></div>
-          <div className="reader-body">{(b.body || [b.summary, 'Illustrative editorial for the proof of concept. A published item would contain the evidence, analysis and implications with links to underlying sources.']).map((p, n) => <p key={n}>{p}</p>)}</div>
+          {a.status === 'partial' && <div className="notice left grey" style={{ marginBottom: 16 }}>Only part of this article could be read automatically. <Ext href={a.url}>Read the full article on {sourceHost(a)} ↗</Ext></div>}
+          <div className="reader-body article" dangerouslySetInnerHTML={{ __html: body }} />
+          <div className="provenance">Originally published in {from}. <Ext href={a.url}>Read on {sourceHost(a)} ↗</Ext></div>
         </Panel>
         <div className="grid">
-          {b.soWhat && <div className="callout"><div className="kicker">So what</div><p>{b.soWhat}</p></div>}
-          {b.action && <div className="callout blue"><div className="kicker">Suggested action</div><p>{b.action}</p></div>}
-          <Panel small title="QS sources" action={null}>
-            {b.sources.map(s => <div className="row" key={s.id}><span><Ext href={s.url}>{s.title} ↗</Ext><span className="meta"><SourceBadge status={s.status} asOf={s.asOf} /></span></span></div>)}
+          <Panel small title="Themes" action={ent.kind === 'staff' ? <StaffControls item={a} onChange={load} /> : false}>
+            <div className="card-top">{a.themes.length ? a.themes.map(t => <Tag key={t.id}>{t.label}</Tag>) : <span className="meta">Not yet tagged</span>}</div>
+            {a.regions.length > 0 && <div className="card-top" style={{ marginTop: 10 }}>{a.regions.map(r => <Tag key={r} tone="outline">{r}</Tag>)}</div>}
           </Panel>
+          {a.siblings.length > 0 && (
+            <Panel small title={a.source === 'magazine' ? `More from ${a.series}` : 'More from this issue'} action={false}>
+              {a.siblings.map(s => <div className="row" key={s.id}><span><Link to={`intelligence/a/${encodeURIComponent(s.id)}`}>{s.title}</Link><span className="meta">{s.type}</span></span></div>)}
+            </Panel>
+          )}
+          {a.related.length > 0 && (
+            <Panel small title="Related" action={false}>
+              {a.related.map(s => <div className="row" key={s.id}><span><Link to={`intelligence/a/${encodeURIComponent(s.id)}`}>{s.title}</Link><span className="meta">{s.series} · {fmtDate(s.published)}</span></span></div>)}
+            </Panel>
+          )}
+          <DigestCta compact />
         </div>
       </div>
     </>
   );
 }
 
-export function Webinars() {
-  const { boot, toast } = useApp();
-  const [items, setItems] = useState(null);
-  const load = () => api('webinars').then(d => setItems(d.items));
-  useEffect(() => { load(); }, []);
-  async function reg(w) { try { const r = await api(`webinars/${w.id}/register`, { method: 'POST' }); toast(r.registered ? 'Registered. (Demo: no calendar invite is sent.)' : 'Registration cancelled.'); load(); } catch (e) { toast(e.message, true); } }
-  return (
-    <>
-      <PageTitle title="Closed-door expert webinars" lede="Experts speaking off the record, for members only. Sponsored sessions are labelled." />
-      <Panel title="Upcoming" action={null}>
-        {!items ? <p className="muted">Loading…</p> : <div className="grid g3">{items.map(w => (
-          <article className={`card ${w.locked ? 'locked-card' : ''}`} key={w.id}>
-            <div className="card-top">{w.domains.map(d => <Tag key={d}>{dname(boot, d)}</Tag>)}{w.sponsor && <Trust label="Partner" />}</div>
-            <h3>{w.title}</h3>
-            <p>{w.speaker}{w.sponsor ? ` · sponsored by ${w.sponsor}` : ''}</p>
-            <p className="meta">{fmtDateTime(w.at)} · {until(w.at)} · {w.count} registered</p>
-            <div className="card-foot">{w.locked ? <><Lock>Included from {w.accessLabel}</Lock><Link to="membership/plans">See plans</Link></> : <><Tag tone="blue">{w.accessLabel}</Tag><button className={`btn sm ${w.registered ? 'ghost' : 'amber'}`} onClick={() => reg(w)}>{w.registered ? 'Cancel' : 'Register'}</button></>}</div>
-          </article>
-        ))}</div>}
-      </Panel>
-    </>
-  );
-}
-
-export function Library() {
-  const { boot } = useApp();
-  const [items, setItems] = useState(null);
-  const [kind, setKind] = useState('all');
-  useEffect(() => { api('library').then(d => setItems(d.items)); }, []);
-  const shown = (items || []).filter(i => kind === 'all' || i.kind === kind);
-  return (
-    <>
-      <PageTitle title="Case studies & frameworks" lede="Usable tools and precedents from QS and from members. Free members can use part of the library." />
-      <Panel title="Library" action={null}>
-        <div className="filters"><div className="seg" role="group">{['all', 'Framework', 'Case study'].map(k => <button key={k} className={kind === k ? 'on' : ''} onClick={() => setKind(k)}>{k === 'all' ? 'All' : k === 'Framework' ? 'Frameworks' : 'Case studies'}</button>)}</div></div>
-        {!items ? <p className="muted">Loading…</p> : <div className="grid g3">{shown.map(l => (
-          <article className={`card ${l.locked ? 'locked-card' : ''}`} key={l.id}>
-            <div className="card-top"><Tag tone="amber">{l.kind}</Tag>{l.member && <Trust label="Member practice" />}{l.domains.map(d => <Tag key={d}>{dname(boot, d)}</Tag>)}</div>
-            <h3>{l.title}</h3><p>{l.summary}</p>
-            <div className="card-foot">{l.locked ? <><Lock>Included from {l.accessLabel}</Lock><Link to="membership/plans">See plans</Link></> : <><Tag tone="green">{l.accessLabel === 'Free' ? 'Free' : l.accessLabel}</Tag>{l.url ? <Ext href={l.url} /> : <span className="meta">Download (demo)</span>}</>}</div>
-          </article>
-        ))}</div>}
-      </Panel>
-    </>
-  );
-}
-
 export function Sources() {
-  const { boot, toast } = useApp();
+  const { boot, ent, toast } = useApp();
   const [d, setD] = useState(null);
-  const load = () => api('sources').then(setD);
+  const [ing, setIng] = useState(null);
+  const load = () => { api('sources').then(setD); if (ent.kind === 'staff') api('ingest').then(setIng); };
   useEffect(() => { load(); }, []);
-  useEffect(() => { if (!d?.status.running) return; const t = setInterval(load, 3000); return () => clearInterval(t); }, [d?.status.running]);
+  const running = d?.status.running || ing?.running;
+  useEffect(() => { if (!running) return; const t = setInterval(load, 3000); return () => clearInterval(t); }, [running]);
   async function refreshNow() { try { const r = await api('sources/refresh', { method: 'POST' }); toast(r.message, !r.started); load(); } catch (e) { toast(e.message, true); } }
+  async function ingestNow() { try { const r = await api('ingest/run', { method: 'POST' }); toast(r.message, !r.started); load(); } catch (e) { toast(e.message, true); } }
   if (!d) return <p className="muted">Loading…</p>;
   const live = d.sources.filter(s => s.status === 'live').length;
+  const tone = s => (s === 'ok' ? 'green' : s === 'partial' ? 'amber' : 'red');
   return (
     <>
-      <PageTitle title="QS data sources" lede="QS One reads public qs.com pages, keeps short excerpts with a link back, and records when each was read. If a page cannot be read, it shows a saved copy and says so." />
-      <Panel title="Source status" action={<button className="btn amber" onClick={refreshNow} disabled={d.status.running}>{d.status.running ? 'Refreshing…' : 'Refresh from qs.com'}</button>}>
-        <div className="tiles">
-          <div className="tile"><span className="t-label">Read live</span><span className="t-val">{live}/{d.sources.length}</span></div>
-          <div className="tile"><span className="t-label">Last refresh</span><span className="t-val" style={{ fontSize: 28 }}>{d.status.lastRun ? ago(d.status.lastRun.finished) : 'Not yet'}</span></div>
-          <div className="tile"><span className="t-label">Schedule</span><span className="t-val" style={{ fontSize: 28 }}>Every {d.status.refreshHours} h</span></div>
-          <div className="tile"><span className="t-label">Saved copies dated</span><span className="t-val" style={{ fontSize: 28 }}>{fmtDate(d.status.snapshotDate)}</span></div>
-        </div>
-        {d.status.live && live === 0 && !d.status.running && <><div style={{ height: 16 }} /><div className="notice left">No pages read live yet. If this persists, the server may lack internet access or qs.com may be refusing automated requests. Saved copies are shown meanwhile.</div></>}
-        <div style={{ height: 20 }} />
-        <div className="scroll"><table className="table"><thead><tr><th>Source</th><th>Domain</th><th>Status</th><th>Notes</th></tr></thead><tbody>
-          {d.sources.map(s => <tr key={s.id}><td><strong>{s.title}</strong><div><Ext href={s.url}>{s.url.replace('https://www.', '')}</Ext></div></td><td>{boot.domains.find(x => x.id === s.domain)?.short || 'Events'}</td><td><SourceBadge status={s.status} asOf={s.asOf} /></td><td className="meta">{s.lastError ? `Last attempt: ${s.lastError}` : s.status === 'live' ? `${s.excerpts.length} excerpts` : 'Saved summary'}</td></tr>)}
+      <PageTitle title="Content sources" lede="Where QS One's content comes from. Articles are read from public QS newsletter and magazine pages, split into stories and tagged automatically. Every story links back to where it was first published." />
+      <Panel title="QS Newsletters and QS Insights Magazine" sub={`${boot.content.items} stories · ${boot.content.editions} magazine editions · checked every ${boot.content.ingest.everyHours} hours`} action={ent.kind === 'staff' ? <button className="btn amber" onClick={ingestNow} disabled={running}>{ing?.running ? 'Reading…' : 'Check for new content'}</button> : null}>
+        {ent.kind !== 'staff' ? <p className="muted">Last checked {boot.content.ingest.lastRun ? ago(boot.content.ingest.lastRun.finished) : 'not yet'}.</p> : !ing ? <p className="muted">Loading…</p> : (
+          <div className="scroll"><table className="table"><thead><tr><th>Source</th><th>Status</th><th>Found</th><th>New</th><th>Updated</th><th>Notes</th></tr></thead><tbody>
+            {['newsletters', 'magazine'].map(k => { const s = ing.sources[k]; return (
+              <tr key={k}><td><strong>{k === 'newsletters' ? 'QS Newsletters' : 'QS Insights Magazine'}</strong><div className="meta">{ing.config[k === 'newsletters' ? 'NEWSLETTER_BASE' : 'MAGAZINE_BASE']}{s?.method ? ` · via ${s.method}` : ''}</div></td>
+                <td>{s ? <Tag tone={tone(s.status)}>{s.status}</Tag> : <Tag>not run</Tag>}<div className="meta">{s?.finishedAt ? ago(s.finishedAt) : ''}</div></td>
+                <td>{s?.found ?? '–'}</td><td>{s?.added ?? '–'}</td><td>{s?.updated ?? '–'}</td>
+                <td className="meta">{[...(s?.log || []), s?.skippedPromo ? `${s.skippedPromo} promotional blocks skipped` : null, s?.partial ? `${s.partial} articles only partly read` : null, ...(s?.errors || []).slice(0, 4)].filter(Boolean).map((l, i) => <div key={i}>{l}</div>)}</td></tr>
+            ); })}
+          </tbody></table></div>
+        )}
+      </Panel>
+      <Panel title="QS data pages" sub="Public qs.com pages behind QS evidence, with short excerpts and a link back." action={ent.kind === 'staff' ? <button className="btn ghost" onClick={refreshNow} disabled={d.status.running}>{d.status.running ? 'Refreshing…' : 'Refresh from qs.com'}</button> : null}>
+        <p className="meta">{live}/{d.sources.length} read live · last refresh {d.status.lastRun ? ago(d.status.lastRun.finished) : 'not yet'} · saved copies dated {fmtDate(d.status.snapshotDate)}</p>
+        <div className="scroll"><table className="table"><thead><tr><th>Source</th><th>Domain</th><th>Status</th></tr></thead><tbody>
+          {d.sources.map(s => <tr key={s.id}><td><strong>{s.title}</strong><div><Ext href={s.url}>{s.url.replace('https://www.', '')}</Ext></div></td><td>{boot.domains.find(x => x.id === s.domain)?.short || 'Events'}</td><td><SourceBadge status={s.status} asOf={s.asOf} /></td></tr>)}
         </tbody></table></div>
       </Panel>
     </>

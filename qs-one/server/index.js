@@ -8,6 +8,7 @@ import { load, reset, save, id } from './store.js';
 import * as store from './store.js';
 import { DOMAINS, TIERS, ACCESS_RANK, ACCESS_LABEL } from './seed.js';
 import { startScheduler, refreshAll, getSources, getListing, getStatus } from './sources.js';
+import { startContentScheduler, runIngest, allItems, getItem, getEditions, setOverride, getStatus as getIngestStatus, getMessages, addMessage, removeMessage, addLibraryItem, THEME_LABELS } from './ingest.js';
 
 const PORT = Number(process.env.PORT || 3000);
 const PUBLIC = path.resolve('public');
@@ -90,33 +91,47 @@ function communityView(c, me) {
   return { ...c, members: undefined, memberIds: c.members, memberCount: c.members.length, institutionCount: institutions, isMember: isIn, canJoin, whyNot: why, next };
 }
 function eventView(e, me) { return { ...e, attending: e.attendees.includes(me.id), attendeeCount: e.attendees.length, attendees: undefined, past: Date.parse(e.start) + 3 * DAY < Date.now() }; }
-const locked = (item, me) => ACCESS_RANK[item.access] > accessRank(me);
 
-// ---------- intelligence ----------
-function intelFor(me) {
-  const sources = getSources(); const byId = Object.fromEntries(sources.map(s => [s.id, s]));
-  const items = db().intel.map(b => {
-    const l = locked(b, me);
-    const base = { ...b, itemType: 'intel', locked: l, accessLabel: ACCESS_LABEL[b.access], sources: (b.sourceIds || []).map(i => byId[i]).filter(Boolean).map(s => ({ id: s.id, title: s.title, url: s.url, status: s.status, asOf: s.asOf })) };
-    if (l) { delete base.body; delete base.soWhat; delete base.action; }
-    return base;
-  });
-  for (const s of sources.filter(s => s.domain !== 'events')) items.push({ id: `src-${s.id}`, itemType: 'source', label: 'QS Evidence', kind: s.kind, title: s.title, summary: s.summary, domains: [s.domain], published: s.asOf, url: s.url, status: s.status, asOf: s.asOf, excerpts: s.excerpts.slice(0, 2), access: 'free', locked: false, priority: s.priority });
-  for (const l of getListing()) items.push({ id: `lst-${l.url}`, itemType: 'listing', label: 'QS Evidence', kind: 'QS Insights article', title: l.title, summary: 'New on QS Insights.', domains: [l.domain], published: l.fetchedAt, url: l.url, status: 'live', asOf: l.fetchedAt, access: 'free', locked: false });
-  return items.map(it => {
-    const reasons = []; let score = 0;
-    const overlap = it.domains.filter(d => me.interests.includes(d));
-    if (overlap.length) { score += 3 + overlap.length - 1; reasons.push(`Your interest: ${overlap.map(d => DOMAINS.find(x => x.id === d).short).join(', ')}`); }
-    if (it.kind === 'Signal') { score += 1; }
-    const age = (Date.now() - Date.parse(it.published)) / DAY;
-    if (age < 7) { score += 2; reasons.push('This week'); }
-    if (it.itemType === 'intel') score += 1.5;
-    if (it.itemType === 'source') score += (5 - (it.priority || 4)) * 0.4;
-    if (it.locked) score -= 1.5;
-    if (!reasons.length) reasons.push('Across your domains');
-    return { ...it, score, reasons };
-  }).sort((a, b) => b.score - a.score || String(b.published).localeCompare(String(a.published)));
+// ---------- intelligence: real QS content (server/ingest.js) ----------
+// The library is free for everyone. The curated "For you" feed is included from Member.
+const DIGEST_SIGNUP_URL = process.env.DIGEST_SIGNUP_URL || 'https://newsletters.qs.com/#/portal/signup';
+const FREE_FORYOU_PREVIEW = 3;
+const card = (it, me) => ({
+  id: it.id, source: it.source, sourceLabel: it.sourceLabel, series: it.series, issueId: it.issueId || null, issueTitle: it.issueTitle || null, editionN: it.editionN || null,
+  title: it.title, summary: it.summary, type: it.type, author: it.author, published: it.published, url: it.url, image: it.image,
+  themes: it.themes, regions: it.regions, domains: it.domains, sponsored: !!it.sponsored, pinned: !!it.pinned, status: it.status,
+  readMins: Math.max(1, Math.round((it.words || 0) / 220)), videoCount: (it.videos || []).length, imageCount: (it.images || []).length,
+  ...(isStaff(me) ? { hidden: !!it.hidden, tagMethod: it.tagMethod } : {})
+});
+function scoreFor(it, me) {
+  const reasons = []; let score = 0;
+  const overlap = (it.domains || []).filter(d => me.interests.includes(d));
+  if (overlap.length) { score += 3 + overlap.length; reasons.push(`Your interest: ${overlap.map(d => DOMAINS.find(x => x.id === d).short).join(', ')}`); }
+  const myRegions = [...new Set([...(me.regions || []), orgOf(me)?.region].filter(Boolean))];
+  const reg = (it.regions || []).filter(r => myRegions.includes(r));
+  if (reg.length) { score += 1.5; reasons.push(`Your region: ${reg.join(', ')}`); }
+  const age = (Date.now() - Date.parse(it.published || 0)) / DAY;
+  score += Math.max(0, 3 - age / 7);
+  if (age < 7) reasons.push('This week');
+  if (it.type === 'Feature' || it.type === 'Profile' || it.type === 'Opinion') score += 0.8;
+  if (it.type === 'News brief') score -= 0.3;
+  if (it.status === 'partial') score -= 1;
+  if (it.pinned) { score += 100; reasons.unshift('Pinned by QS'); }
+  if (!reasons.length) reasons.push('Across your domains');
+  return { score, reasons };
 }
+const byDate = (a, b) => (b.pinned - a.pinned) || String(b.published || '').localeCompare(String(a.published || ''));
+function filterItems(items, q) {
+  const s = String(q.q || '').toLowerCase().trim();
+  return items.filter(it => (!q.theme || it.themes.some(t => t.id === q.theme)) && (!q.domain || it.domains.includes(q.domain)) && (!q.source || it.source === q.source)
+    && (!q.series || it.series === q.series) && (!q.type || it.type === q.type) && (!q.region || it.regions.includes(q.region))
+    && (!s || `${it.title} ${it.summary} ${it.author || ''} ${it.series}`.toLowerCase().includes(s)));
+}
+function facets(items) {
+  const count = (fn) => { const m = {}; for (const it of items) for (const k of [].concat(fn(it)).filter(Boolean)) m[k] = (m[k] || 0) + 1; return Object.entries(m).sort((a, b) => b[1] - a[1]).map(([value, n]) => ({ value, n })); };
+  return { themes: count(it => it.themes.map(t => t.id)).map(f => ({ ...f, label: THEME_LABELS[f.value] })), series: count(it => it.series), types: count(it => it.type), regions: count(it => it.regions), sources: count(it => it.source) };
+}
+const contentSummary = () => { const items = allItems(); return { items: items.length, newThisWeek: items.filter(i => Date.now() - Date.parse(i.published || 0) < 7 * DAY).length, editions: getEditions().length, ingest: getIngestStatus() }; };
 
 // ---------- Pulse ----------
 const median = xs => { const s = [...xs].sort((a, b) => a - b); const n = s.length; if (!n) return null; return n % 2 ? s[(n - 1) / 2] : (s[n / 2 - 1] + s[n / 2]) / 2; };
@@ -217,27 +232,71 @@ route('GET', '/api/bootstrap', ({ me }) => {
     intros: d.intros.filter(n => n.fromId === me.id || n.toId === me.id),
     introsUsed: d.intros.filter(n => n.fromId === me.id && Date.now() - Date.parse(n.createdAt) < 90 * DAY).length,
     pulses: d.pulses.map(p => pulseSummary(p, me)),
-    webinarCount: d.webinars.length,
+    content: contentSummary(), messages: getMessages(), digestUrl: DIGEST_SIGNUP_URL, themeLabels: THEME_LABELS,
     sourceStatus: getStatus()
   };
 });
 
-// Intelligence
-route('GET', '/api/intel', ({ me }) => ({ items: intelFor(me) }));
-route('GET', '/api/intel/:id', ({ me, params }) => {
-  const b = intelFor(me).find(i => i.id === params.id && i.itemType === 'intel') || fail(404, 'Briefing not found.');
-  if (b.locked) fail(403, `This ${b.kind.toLowerCase()} is included from ${b.accessLabel}.`);
-  return b;
+// Intelligence: QS Newsletters and QS Insights Magazine
+route('GET', '/api/content', ({ me, query }) => {
+  const view = query.view || 'latest';
+  const pool = allItems({ includeHidden: isStaff(me) && query.hidden === '1' });
+  let items = filterItems(pool, query);
+  let locked = false;
+  if (view === 'foryou') {
+    items = items.map(it => ({ it, ...scoreFor(it, me) })).sort((a, b) => b.score - a.score).map(x => ({ ...x.it, reasons: x.reasons }));
+    if (!isStaff(me) && accessRank(me) < 1) { locked = true; items = items.slice(0, FREE_FORYOU_PREVIEW); }
+  } else items.sort(byDate);
+  const total = items.length;
+  const limit = Math.min(Number(query.limit) || 60, 200);
+  return { view, total, locked, lockedMessage: locked ? 'Your curated feed is included from Member. The full library stays free.' : null, items: items.slice(0, limit).map(it => ({ ...card(it, me), reasons: it.reasons })), facets: facets(pool), digestUrl: DIGEST_SIGNUP_URL, status: contentSummary() };
 });
-route('GET', '/api/library', ({ me }) => ({ items: db().library.map(l => ({ ...l, locked: locked(l, me), accessLabel: ACCESS_LABEL[l.access] })) }));
-route('GET', '/api/webinars', ({ me }) => ({ items: db().webinars.map(w => ({ ...w, locked: locked(w, me), accessLabel: ACCESS_LABEL[w.access], registered: w.registrations.includes(me.id), count: w.registrations.length, registrations: undefined, past: Date.parse(w.at) < Date.now() })) }));
-route('POST', '/api/webinars/:id/register', ({ me, params }) => {
-  const w = db().webinars.find(x => x.id === params.id) || fail(404, 'Webinar not found.');
-  if (locked(w, me)) fail(403, `Closed-door webinars are included from ${ACCESS_LABEL[w.access]}.`);
-  w.registrations = w.registrations.includes(me.id) ? w.registrations.filter(x => x !== me.id) : [...w.registrations, me.id];
-  audit(me, w.registrations.includes(me.id) ? 'Registered for webinar' : 'Cancelled webinar registration', w.title); save();
-  return { registered: w.registrations.includes(me.id) };
+route('GET', '/api/content/:id', ({ me, params }) => {
+  const it = getItem(decodeURIComponent(params.id)) || fail(404, 'Article not found. It may have been removed at source.');
+  if (it.hidden && !isStaff(me)) fail(404, 'Article not found.');
+  const all = allItems();
+  const siblings = all.filter(x => x.id !== it.id && ((it.issueId && x.issueId === it.issueId) || (it.editionN && x.editionN === it.editionN))).sort((a, b) => (a.position ?? 0) - (b.position ?? 0) || a.title.localeCompare(b.title));
+  const themeIds = it.themes.map(t => t.id);
+  const related = all.filter(x => x.id !== it.id && !siblings.includes(x) && x.themes.some(t => themeIds.includes(t.id))).sort(byDate).slice(0, 4);
+  return { ...card(it, me), html: it.html, images: it.images, videos: it.videos, words: it.words, siblings: siblings.slice(0, 20).map(x => card(x, me)), related: related.map(x => card(x, me)), digestUrl: DIGEST_SIGNUP_URL };
 });
+route('PATCH', '/api/content/:id', ({ me, params, body }) => {
+  if (!isStaff(me)) fail(403, 'Pinning and hiding content is for the QS One team.');
+  const it = getItem(decodeURIComponent(params.id)) || fail(404, 'Article not found.');
+  const patch = {};
+  if ('pinned' in body) { patch.pinned = !!body.pinned; patch.pinUntil = body.pinned && body.pinDays ? new Date(Date.now() + Number(body.pinDays) * DAY).toISOString() : null; }
+  if ('hidden' in body) patch.hidden = !!body.hidden;
+  setOverride(it.id, patch);
+  audit(me, patch.hidden ? 'Hid article' : 'hidden' in patch ? 'Unhid article' : patch.pinned ? 'Pinned article' : 'Unpinned article', it.title); save();
+  return { ...card(getItem(it.id), me) };
+});
+route('GET', '/api/editions', ({ me }) => {
+  const all = allItems();
+  return { editions: getEditions().map(e => ({ ...e, articles: e.order.map(id => all.find(i => i.id === id)).filter(Boolean).map(it => card(it, me)) })) };
+});
+route('GET', '/api/media', ({ me, query }) => {
+  const out = [];
+  for (const it of filterItems(allItems(), query).sort(byDate)) {
+    for (const v of it.videos || []) out.push({ kind: 'video', src: v.src, videoKind: v.kind, poster: v.poster || null, itemId: it.id, title: it.title, source: it.sourceLabel, published: it.published, themes: it.themes });
+    if (query.kind !== 'video') for (const im of (it.images || []).slice(0, 4)) out.push({ kind: 'image', src: im.src, alt: im.alt, itemId: it.id, title: it.title, source: it.sourceLabel, published: it.published, themes: it.themes });
+  }
+  const seen = new Set(); const media = out.filter(m => !seen.has(m.src) && seen.add(m.src));
+  return { media: media.slice(0, 300), total: media.length };
+});
+route('POST', '/api/media', ({ me, body }) => {
+  if (!isStaff(me)) fail(403, 'Adding to the media library is for the QS One team.');
+  let it; try { it = addLibraryItem({ title: str(body.title, 200, 3, 'Title'), url: str(body.url, 600, 8, 'Video link'), description: str(body.description, 2000), themes: Array.isArray(body.themes) ? body.themes : [], addedBy: me.name }); } catch (e) { fail(e.status || 400, e.message); }
+  audit(me, 'Added video to media library', it.title); save();
+  return card(it, me);
+});
+route('GET', '/api/ingest', ({ me }) => { if (!isStaff(me)) fail(403, 'For the QS One team.'); return getIngestStatus(); });
+route('POST', '/api/ingest/run', ({ me }) => { if (!isStaff(me)) fail(403, 'For the QS One team.'); const r = runIngest(`manual (${me.name})`); audit(me, 'Started content ingestion'); save(); return r; });
+route('POST', '/api/messages', ({ me, body }) => {
+  if (!isStaff(me)) fail(403, 'Messages are posted by the QS One team.');
+  const m = addMessage({ id: id('m'), text: str(body.text, 280, 3, 'Message'), link: body.link ? str(body.link, 500) : null, linkLabel: body.linkLabel ? str(body.linkLabel, 40) : null, until: body.days ? new Date(Date.now() + Number(body.days) * DAY).toISOString() : null, by: me.name, at: now() });
+  audit(me, 'Posted banner message', m.text); save(); return m;
+});
+route('DELETE', '/api/messages/:id', ({ me, params }) => { if (!isStaff(me)) fail(403, 'For the QS One team.'); removeMessage(params.id); audit(me, 'Removed banner message'); save(); return { ok: true }; });
 route('GET', '/api/sources', () => ({ sources: getSources(), listing: getListing(), status: getStatus() }));
 route('POST', '/api/sources/refresh', ({ me }) => { const r = refreshAll({ reason: `manual (${me.name})` }); audit(me, 'Refreshed QS sources'); save(); return r; });
 
@@ -492,4 +551,4 @@ const server = http.createServer(async (req, res) => {
     send(res, e.status || 500, { error: e instanceof HttpError ? e.message : 'Something went wrong on the server. Check the console.' });
   }
 });
-server.listen(PORT, '0.0.0.0', () => { console.log(`\n  QS One proof of concept running on http://localhost:${PORT}\n  Demo data only. No sign-in, no emails sent.\n`); startScheduler(); });
+server.listen(PORT, '0.0.0.0', () => { console.log(`\n  QS One proof of concept running on http://localhost:${PORT}\n  Demo data only. No sign-in, no emails sent.\n`); startScheduler(); startContentScheduler(); });

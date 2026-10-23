@@ -158,7 +158,7 @@ export function Profile() {
           <label className="field"><span>Short bio</span><textarea className="textarea" value={f.bio} onChange={e => setF({ ...f, bio: e.target.value })} maxLength={600} /></label>
           <fieldset><legend>Contact and email</legend>
             <label className="check"><input type="checkbox" checked={f.partnerContact} onChange={e => setF({ ...f, partnerContact: e.target.checked })} />Commercial partners may request introductions (you accept or decline each one)</label>
-            <label className="field"><span>Weekly Signal newsletter</span><select className="select" value={f.newsletter} onChange={e => setF({ ...f, newsletter: e.target.value })}><option value="weekly">Weekly</option><option value="monthly">Monthly briefings only</option><option value="off">Off</option></select></label>
+            <div className="field"><span>QS weekly digest</span><a className="btn ghost" href={boot.digestUrl} target="_blank" rel="noopener noreferrer">Sign up on QS Newsletters ↗</a><span className="meta">Your digest subscription is managed by QS Newsletters, not QS One.</span></div>
           </fieldset>
           <div className="form-actions"><span className="meta">Preferences only. The demo does not send email.</span><button className="btn amber">Save profile</button></div>
         </form>
