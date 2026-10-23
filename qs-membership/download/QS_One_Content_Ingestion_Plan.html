@@ -1,0 +1,384 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QS One Content Ingestion Plan</title>
+<meta name="description" content="Plan for ingesting QS newsletters and QS Insights Magazine into QS One: segmentation, component and theme tagging, review and a curated feed.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{color-scheme:light;--ink:#161616;--ink2:#333;--muted:#5c5c5c;--faint:#8a8a8a;--bg:#f4f4f4;--line:#e3e3e3;--line2:#d2d2d2;--amber:#efa800;--amberDark:#c98b00;--logo:#f7a600;--amberSoft:#fbe9b7;--amberLine:#e9b949;--amberWash:#fff8e8;--grey:#a8a8a8;--sel:#eaf2fe;--selLine:#3b74db;--navy:#20397f;--green:#2f9d6a;--greenSoft:#eef6f1;--yellow:#d99a06;--yellowSoft:#fdf6e7;--red:#d24a4a;--redSoft:#fbefef}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Figtree,"Segoe UI",system-ui,Arial,sans-serif}
+a{color:var(--ink)}
+.top{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:env(safe-area-inset-top,0px);z-index:10}
+.top .in{max-width:1320px;margin:0 auto;padding-inline:24px;height:68px;display:flex;align-items:center;gap:14px}
+.logo{width:40px;height:40px;background:var(--logo);color:#fff;font-weight:800;font-size:18px;letter-spacing:-.06em;display:grid;place-items:center;flex:none}
+.prod{font-size:24px;font-weight:500;white-space:nowrap}.sub{color:var(--faint);font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ver{margin-left:auto;border:1px solid var(--line2);border-radius:6px;padding:8px 14px;font-weight:600;font-size:14px;white-space:nowrap}
+.tabs{background:#fff;box-shadow:0 4px 10px rgba(0,0,0,.05);position:sticky;top:calc(env(safe-area-inset-top,0px) + 68px);z-index:9}
+.tabs .in{max-width:1320px;margin:0 auto;padding:12px 24px;display:flex;gap:12px;overflow-x:auto;scrollbar-width:none}
+.tabs .in::-webkit-scrollbar{display:none}
+.tab{flex:none;border:1px solid var(--line);border-radius:8px;padding:8px 14px;text-decoration:none;display:grid;min-width:140px;background:#fff}
+.tab b{font-size:16px}.tab span{font-size:13px;color:var(--muted)}.tab:hover{background:var(--sel);border-color:var(--selLine)}
+main{max-width:1320px;margin:0 auto;padding-inline:24px;padding-block:8px 64px}
+h1{font-size:clamp(30px,3.8vw,46px);font-weight:600;letter-spacing:-.02em;line-height:1.08;margin:48px 0 12px;text-wrap:balance}
+.lede{font-size:clamp(18px,1.8vw,24px);font-weight:600;line-height:1.35;margin:0 0 26px;max-width:1150px;text-wrap:balance}
+.panel{background:#fff;border-radius:12px;padding:28px;margin-bottom:22px}
+.ph{margin-bottom:16px}.ph h2{font-size:clamp(21px,2.3vw,28px);font-weight:600;margin:0;letter-spacing:-.01em;text-wrap:balance}.ph p{margin:6px 0 0;color:var(--muted);max-width:80ch}
+.notice{background:var(--amberSoft);border:1px solid var(--amberLine);border-radius:8px;padding:13px 18px;font-weight:600;text-align:center}
+.notice.l{text-align:left;font-weight:500}.notice.g{background:#f6f6f6;border-color:var(--line)}
+.grid{display:grid;gap:18px}.g2{grid-template-columns:repeat(2,minmax(0,1fr))}.g3{grid-template-columns:repeat(3,minmax(0,1fr))}.g4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.card{border:1px solid var(--line);border-radius:12px;padding:20px;background:#fff;min-width:0}
+.card h3{margin:0 0 6px;font-size:18px;font-weight:600}.card p,.card li{color:var(--muted);font-size:15px}.card ul{margin:6px 0 0;padding-left:18px}.card li{margin:3px 0}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.tile{padding:22px 16px;text-align:center;border-right:1px solid var(--line);display:grid;gap:6px;align-content:center;min-height:150px}
+.tile:last-child{border-right:0}.tile .l{font-size:18px}.tile .v{font-size:32px;font-weight:700;letter-spacing:-.02em;line-height:1.1}.tile .s{font-size:14px;color:var(--muted)}
+.status4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.st{border-radius:8px;padding:16px;display:grid;gap:6px}.st b{font-size:16px}.st span{color:var(--ink2);font-size:15px}
+.st.gr{background:var(--greenSoft)}.st.ye{background:var(--yellowSoft)}.st.re{background:var(--redSoft)}.st.bl{background:var(--sel)}
+.tag{display:inline-block;font-size:12.5px;font-weight:600;border-radius:99px;padding:3px 10px;background:#f0f0f0;margin:0 6px 6px 0;white-space:nowrap}
+.tag.a{background:var(--amberSoft);color:#7a5300}.tag.n{background:var(--navy);color:#fff}.tag.gn{background:var(--greenSoft);color:#1d6e48}.tag.b{background:var(--sel);color:#1f4fa8}.tag.r{background:var(--redSoft);color:#a33030}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table{width:100%;border-collapse:separate;border-spacing:0;font-size:14.5px}
+th,td{padding:11px 13px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+thead th{background:#fafafa;font-size:14px}td:first-child{font-weight:700}
+.pipe{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px;align-items:stretch}
+.stage{border:1px solid var(--line);border-radius:10px;padding:14px;background:#fff;position:relative;display:grid;gap:6px;align-content:start}
+.stage .n{width:28px;height:28px;border-radius:50%;background:var(--amber);font-weight:800;display:grid;place-items:center;font-size:14px}
+.stage b{font-size:15.5px}.stage span{font-size:13.5px;color:var(--muted)}
+.stage:not(:last-child)::after{content:"→";position:absolute;right:-12px;top:50%;transform:translateY(-50%);font-weight:800;color:var(--amberDark);background:var(--bg);width:16px;text-align:center}
+.store{margin-top:12px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.store div{background:#f6f6f6;border:1px dashed var(--line2);border-radius:8px;padding:10px 12px;font-size:14px}
+.store b{display:block}
+.mock{border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.mock .bar{background:#fafafa;border-bottom:1px solid var(--line);padding:10px 14px;font-size:14px;font-weight:600;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.seg{padding:14px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:14px}
+.seg:last-child{border-bottom:0}.seg h4{margin:0 0 4px;font-size:15.5px}.seg p{margin:0;color:var(--muted);font-size:14px}
+.code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12.5px;background:#f6f6f6;border:1px solid var(--line);border-radius:8px;padding:14px;white-space:pre;overflow-x:auto;color:var(--ink2)}
+.dl{display:grid;grid-template-columns:200px minmax(0,1fr);border-top:1px solid var(--line)}
+.dl dt,.dl dd{margin:0;padding:11px 0;border-bottom:1px solid var(--line)}.dl dt{font-weight:700;padding-right:14px}.dl dd{color:var(--ink2)}
+.tl{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.tl .card{display:grid;gap:6px;align-content:start}.when{font-weight:700;color:var(--amberDark);font-size:13.5px;text-transform:uppercase;letter-spacing:.06em}
+footer{max-width:1320px;margin:0 auto;padding:0 24px 48px;color:var(--faint);font-size:13px}
+@media (max-width:1100px){.pipe{grid-template-columns:repeat(4,minmax(0,1fr))}.stage:nth-child(4)::after{display:none}.g4,.status4,.tl,.store{grid-template-columns:repeat(2,minmax(0,1fr))}.g3{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:640px){main,.top .in,.tabs .in,footer{padding-inline:16px}.pipe,.g2,.g3,.g4,.status4,.tl,.store{grid-template-columns:minmax(0,1fr)}.stage::after{display:none}.sub,.ver{display:none}.panel{padding:18px}.seg{grid-template-columns:minmax(0,1fr)}.dl{grid-template-columns:1fr}.dl dt{border-bottom:0;padding-bottom:0}.tile{border-right:0;border-bottom:1px solid var(--line)}}
+</style>
+</head>
+<body>
+
+<header class="top"><div class="in"><span class="logo" aria-hidden="true">QS</span><span class="prod">QS One</span><span class="sub">Content ingestion plan · newsletters and QS Insights Magazine</span><span class="ver">Draft for review · 23 Oct 2026</span></div></header>
+<nav class="tabs" aria-label="Sections"><div class="in">
+  <a class="tab" href="#summary"><b>Summary</b><span>The approach</span></a>
+  <a class="tab" href="#sources"><b>Sources</b><span>What we ingest</span></a>
+  <a class="tab" href="#pipeline"><b>Pipeline</b><span>Seven stages</span></a>
+  <a class="tab" href="#newsletter"><b>Newsletters</b><span>Split into parts</span></a>
+  <a class="tab" href="#magazine"><b>Magazine</b><span>Articles + themes</span></a>
+  <a class="tab" href="#taxonomy"><b>Tagging</b><span>Components, themes</span></a>
+  <a class="tab" href="#feed"><b>Curated feed</b><span>How it ranks</span></a>
+  <a class="tab" href="#scale"><b>Scale</b><span>Replit and beyond</span></a>
+  <a class="tab" href="#phases"><b>Phases</b><span>Delivery plan</span></a>
+  <a class="tab" href="#decisions"><b>Decisions</b><span>Needed from you</span></a>
+</div></nav>
+
+<main>
+<section id="summary">
+  <h1>Turning QS newsletters and the magazine into QS One content</h1>
+  <p class="lede">Read each newsletter issue and magazine edition once, split it into self-contained items, tag every item by QS One component, theme, region and role, and serve it through one curated feed. Each new source is a configured connector, not new code.</p>
+  <div class="panel">
+    <div class="notice">Principle: ingest once, split into items, tag against one controlled vocabulary, have editors review what the machine is unsure of, then curate per person</div>
+    <div style="height:20px"></div>
+    <div class="status4">
+      <div class="st bl"><b>Newsletters → parts</b><span>Each issue is broken into its sections: lead feature, in-brief items, chart, data point, people moves, event promo. Each part goes to the component it serves.</span></div>
+      <div class="st gr"><b>Magazine → articles</b><span>Each edition is broken into articles: cover story, briefing, opinion, profile, Spotlight. Each is tagged by theme and grouped into collections.</span></div>
+      <div class="st ye"><b>Tag with confidence</b><span>Rules handle what's obvious (series, section headings, source tags). An AI classifier does the rest against a fixed taxonomy. Anything below a confidence threshold goes to an editor.</span></div>
+      <div class="st re"><b>Curate, don't flood</b><span>The feed ranks by role, interests, region and recency. Editors can pin and build collections, and a "why you see this" line explains each item.</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="sources">
+  <h1>What we ingest</h1>
+  <p class="lede">Two QS-owned publications with different shapes. A newsletter issue holds many short items; a magazine edition holds many full articles.</p>
+  <div class="grid g2">
+    <div class="panel">
+      <div class="ph"><h2>QS Newsletters</h2><p><a href="https://newsletters.qs.com/">newsletters.qs.com</a>. Several series, published weekly or daily.</p></div>
+      <div class="scroll"><table><thead><tr><th>Series</th><th>Typical parts</th><th>Main QS One use</th></tr></thead><tbody>
+        <tr><td>QS Mid Week Brief</td><td>Teaser questions, lead feature, "In brief" items, magazine and event promos</td><td><span class="tag a">Intelligence</span><span class="tag a">Communities</span></td></tr>
+        <tr><td>Student Flows</td><td>Market updates, scenarios, data points</td><td><span class="tag a">Intelligence</span><span class="tag a">Pulse</span></td></tr>
+        <tr><td>Skills &amp; Workforce (with HolonIQ)</td><td>Labour-market stories, reskilling, data points</td><td><span class="tag a">Intelligence</span></td></tr>
+        <tr><td>AI &amp; Digital Innovation</td><td>News briefs, cases, tools</td><td><span class="tag a">Intelligence</span><span class="tag a">Communities</span></td></tr>
+        <tr><td>Chart of the Day</td><td>One chart and commentary</td><td><span class="tag a">Pulse</span><span class="tag a">Intelligence</span></td></tr>
+        <tr><td>Power Moves</td><td>Leadership appointments</td><td><span class="tag a">Connect</span></td></tr>
+        <tr><td>Summits / EdTech 50</td><td>Event and award announcements</td><td><span class="tag a">Connect</span></td></tr>
+      </tbody></table></div>
+    </div>
+    <div class="panel">
+      <div class="ph"><h2>QS Insights Magazine</h2><p><a href="https://magazine.qs.com/qs-insights-magazine-46/">magazine.qs.com</a>. Numbered editions (e.g. <a href="https://magazine.qs.com/qs-insights-magazine-40/">40</a>, <a href="https://magazine.qs.com/qs-insights-magazine-46/">46</a>). Each has a Cover page listing its articles and one page per article.</p></div>
+      <div class="scroll"><table><thead><tr><th>Article type</th><th>Example (edition 40)</th><th>Handling</th></tr></thead><tbody>
+        <tr><td>Cover story</td><td>"Ripple effect": US policy and internationalisation</td><td>Feature; can be pinned</td></tr>
+        <tr><td>Briefing</td><td>"Addressing uncertainty in UK higher ed"</td><td>Signal candidate</td></tr>
+        <tr><td>Series / analysis</td><td>"The Platform University" (part two)</td><td>Linked to part one</td></tr>
+        <tr><td>Opinion</td><td>"Why purpose must drive AI strategy"</td><td>Labelled as a view</td></tr>
+        <tr><td>Profile / interview</td><td>"The accidental academic"</td><td>Linked to Connect</td></tr>
+        <tr><td>Event write-up</td><td>"From adoption to architecture" (QS India Summit)</td><td>Linked to summit</td></tr>
+        <tr><td>Spotlight</td><td>Edition 46: Modern College of Business and Science</td><td><span class="tag r">Check if sponsored</span></td></tr>
+      </tbody></table></div>
+    </div>
+  </div>
+  <div class="notice l">Two caveats. This planning environment could not reach either site (its network blocks them), so the structures above come from search-engine snapshots and must be confirmed in Phase 0. The newsletter site's URL pattern (<code>/tag/…</code>, <code>/author/…</code>) suggests Ghost, which offers RSS feeds and a Content API. If so, QS should give QS One an API key rather than having it scrape pages.</div>
+</section>
+
+<section id="pipeline">
+  <h1>The pipeline</h1>
+  <p class="lede">Seven stages. Each can be re-run independently, records what it did, and skips work it has already done for the same content version.</p>
+  <div class="panel">
+    <div class="pipe">
+      <div class="stage"><span class="n">1</span><b>Discover</b><span>Find new or changed issues via API, RSS, sitemap or the edition Cover page</span></div>
+      <div class="stage"><span class="n">2</span><b>Fetch</b><span>Download politely (conditional requests, rate limits); store the raw copy by content fingerprint</span></div>
+      <div class="stage"><span class="n">3</span><b>Parse</b><span>Remove page furniture; extract title, date, author, series, body, images and links</span></div>
+      <div class="stage"><span class="n">4</span><b>Split</b><span>Break newsletters into parts using series templates; one magazine page becomes one article</span></div>
+      <div class="stage"><span class="n">5</span><b>Tag</b><span>Rules first, then an AI classifier; summary, "so what" and confidence score</span></div>
+      <div class="stage"><span class="n">6</span><b>Review</b><span>Editors check low-confidence and sensitive items, set access tier and labels</span></div>
+      <div class="stage"><span class="n">7</span><b>Publish</b><span>Index for search, related items and the curated feed; build collections</span></div>
+    </div>
+    <div class="store">
+      <div><b>Source registry</b>Each source's connector type, schedule, rights and owner</div>
+      <div><b>Raw store</b>Original HTML or JSON, versioned by fingerprint, for re-processing</div>
+      <div><b>Content store</b>Items, tags, versions, review status</div>
+      <div><b>Job log</b>Each stage's run, result and error; feeds the "QS data sources" page</div>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="ph"><h2>One interface for every source</h2><p>Each source is a connector with three functions. Adding HolonIQ, QS press releases, summit agendas or webinar transcripts later means writing one connector plus a configuration entry.</p></div>
+<div class="code">// server/ingest/connectors/ghost.js (shape only)
+export default {
+  id: 'qs-newsletters',
+  discover: async (since) => [...],      // [{ url, externalId, updatedAt }] from Content API or RSS
+  fetch:    async (ref) => ({ raw, etag }),// one issue as HTML/JSON
+  parse:    (raw) => ({ issue, blocks })   // clean metadata + ordered blocks (heading, text, image, link)
+};
+// sources.config.json
+{ "id": "qs-newsletters", "connector": "ghost", "schedule": "every 2h",
+  "series": { "qs-mid-week-brief": "templates/midweek.json", "charts": "templates/chart.json" },
+  "rights": "QS-owned", "defaultAccess": "free" }</div>
+  </div>
+</section>
+
+<section id="newsletter">
+  <h1>Splitting newsletters into component parts</h1>
+  <p class="lede">An issue is a bundle. QS One needs the parts: a lead feature for Intelligence, a discussion question for a Community, a chart for Pulse context, an appointment for Connect.</p>
+  <div class="panel">
+    <div class="ph"><h2>How splitting works</h2></div>
+    <dl class="dl">
+      <dt>Series templates</dt><dd>A small configuration file per series names its recurring sections (e.g. Mid Week Brief: teaser questions → lead feature → "In brief" items → promos) and the heading text or layout that marks each one.</dd>
+      <dt>Generic fallback</dt><dd>Where no template matches, split on headings and dividers, then merge fragments under about 60 words into their neighbour.</dd>
+      <dt>Part types</dt><dd>Lead feature · News brief · Data point · Chart · Discussion question · Case example · People move · Event · Promo · Sponsored.</dd>
+      <dt>Promos are kept</dt><dd>Event and magazine promos are not deleted. They become links to the matching summit or edition, and never appear as articles in the feed.</dd>
+      <dt>Provenance</dt><dd>Every part keeps its parent issue, its position, the original link (anchored to the section where possible) and the issue date.</dd>
+    </dl>
+  </div>
+  <div class="panel">
+    <div class="ph"><h2>Example: one Mid Week Brief issue, split and routed</h2><p>Illustrative output. Headlines are paraphrased from search snapshots of the August 2026 issue; exact sections are confirmed in Phase 0.</p></div>
+    <div class="mock">
+      <div class="bar">QS Mid Week Brief · 12 Aug 2026 <span class="tag">1 issue → 5 parts</span></div>
+      <div class="seg"><div><h4>Teaser: How should higher education rethink opportunity when the rules are changing?</h4><p>Discussion question</p></div><div><span class="tag a">Communities</span><span class="tag">Opening prompt for the next session</span><span class="tag b">Institutions</span></div></div>
+      <div class="seg"><div><h4>Lead: race-based scholarships become scarcer as legal challenges mount</h4><p>Lead feature with an "In brief" summary</p></div><div><span class="tag a">Intelligence</span><span class="tag">Signal candidate</span><span class="tag b">Mobility</span><span class="tag">US · Scholarships · Policy</span></div></div>
+      <div class="seg"><div><h4>In brief: university–industry partnership item</h4><p>News brief</p></div><div><span class="tag a">Intelligence</span><span class="tag b">Skills</span><span class="tag">Employer partnerships</span></div></div>
+      <div class="seg"><div><h4>Chart of the week</h4><p>Chart with one data point</p></div><div><span class="tag a">Pulse</span><span class="tag">Context next to Pulse results</span></div></div>
+      <div class="seg"><div><h4>Promo: QS summit registration</h4><p>Event promo</p></div><div><span class="tag a">Connect</span><span class="tag">Linked to the summit page, not shown in the feed</span></div></div>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="ph"><h2>Where each part type goes in QS One</h2></div>
+    <div class="scroll"><table><thead><tr><th>Part type</th><th>Component</th><th>Where it appears</th></tr></thead><tbody>
+      <tr><td>Lead feature, news brief</td><td><span class="tag a">Intelligence</span></td><td>Feed; candidate for the weekly Signal; source for monthly briefings</td></tr>
+      <tr><td>Data point, chart</td><td><span class="tag a">Pulse</span></td><td>"Context" panel beside Pulse results for the same market or theme; also in the feed</td></tr>
+      <tr><td>Discussion question, case example</td><td><span class="tag a">Communities</span></td><td>Suggested prompts for facilitators; pre-reads for the matching community session</td></tr>
+      <tr><td>People move</td><td><span class="tag a">Connect</span></td><td>"Leadership changes" on institution profiles; prompts for an introduction (public information only)</td></tr>
+      <tr><td>Event, summit promo</td><td><span class="tag a">Connect</span></td><td>Linked to Summits; never shown as an article</td></tr>
+      <tr><td>Sponsored</td><td>Labelled Partner</td><td>Only in partner slots, always labelled</td></tr>
+    </tbody></table></div>
+  </div>
+</section>
+
+<section id="magazine">
+  <h1>Magazine: articles, themes and collections</h1>
+  <p class="lede">Each article becomes one item with a type, themes, regions, institutions and people, and joins edition, theme and editor-made collections.</p>
+  <div class="grid g2">
+    <div class="panel">
+      <div class="ph"><h2>Extraction</h2></div>
+      <dl class="dl">
+        <dt>Edition index</dt><dd>Read the edition's Cover page to list its articles, their order and the cover story. The sitemap catches anything not listed.</dd>
+        <dt>Per article</dt><dd>Title, standfirst, author, article type, publication date, body, pull quotes, images with credits, and links.</dd>
+        <dt>Series links</dt><dd>Spot "part one / part two" and connect the parts.</dd>
+        <dt>PDF edition</dt><dd>Where an edition offers a PDF page, store a link to it only. Prefer the web article as the source text.</dd>
+        <dt>Spotlight</dt><dd>Flag for editorial review. If it is sponsored or institution-funded, label it "Partner" and keep it out of QS Analysis.</dd>
+      </dl>
+    </div>
+    <div class="panel">
+      <div class="ph"><h2>Example tags: edition 40</h2></div>
+      <div class="scroll"><table><thead><tr><th>Article</th><th>Themes</th></tr></thead><tbody>
+        <tr><td>Ripple effect</td><td><span class="tag b">Mobility</span><span class="tag">US policy</span><span class="tag">Internationalisation</span></td></tr>
+        <tr><td>Addressing uncertainty in UK higher ed</td><td><span class="tag b">Institutions</span><span class="tag">Financial sustainability</span><span class="tag">UK</span></td></tr>
+        <tr><td>The Platform University (pt 2)</td><td><span class="tag b">Innovation</span><span class="tag">New models</span><span class="tag">Digital platforms</span></td></tr>
+        <tr><td>Do "tech deans" make better leaders?</td><td><span class="tag b">Institutions</span><span class="tag">Leadership</span><span class="tag">Business schools</span></td></tr>
+        <tr><td>Why purpose must drive AI strategy</td><td><span class="tag b">Innovation</span><span class="tag">AI strategy</span><span class="tag">Opinion</span></td></tr>
+        <tr><td>Is the Middle East crisis pricing out education abroad?</td><td><span class="tag b">Mobility</span><span class="tag">Middle East</span><span class="tag">Affordability</span></td></tr>
+      </tbody></table></div>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="ph"><h2>Collections drive the curated feed</h2></div>
+    <div class="tiles">
+      <div class="tile"><span class="l">Edition</span><span class="v">Auto</span><span class="s">"QS Insights Magazine 46" in the original order</span></div>
+      <div class="tile"><span class="l">Theme</span><span class="v">Auto</span><span class="s">e.g. "Financial sustainability", always current</span></div>
+      <div class="tile"><span class="l">Editor's pick</span><span class="v">Manual</span><span class="s">e.g. "Read before the October community session"</span></div>
+      <div class="tile"><span class="l">Series</span><span class="v">Auto</span><span class="s">e.g. "The Platform University", parts in order</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="taxonomy">
+  <h1>Tagging: one vocabulary for everything</h1>
+  <p class="lede">Every item, whether a newsletter part, magazine article or QS page, gets the same six kinds of tag. The vocabulary is stored as data, versioned, and owned by editorial.</p>
+  <div class="panel">
+    <div class="scroll"><table><thead><tr><th>Tag kind</th><th>Values (starting set)</th><th>How it is set</th></tr></thead><tbody>
+      <tr><td>Component</td><td>Intelligence · Communities · Pulse · Connect</td><td>From the part type (rules), checked by the classifier</td></tr>
+      <tr><td>Content type</td><td>Lead feature · News brief · Data point · Chart · Discussion question · Case example · Opinion · Profile · Event write-up · People move · Promo · Sponsored</td><td>Series template, then classifier</td></tr>
+      <tr><td>Domain → theme</td><td>4 domains, about 30 themes (e.g. Mobility → Student flows, Visa policy, Agents, TNE, Scholarships, Affordability; Institutions → Rankings &amp; reputation, Financial sustainability, Leadership, Mergers; Skills → Employability, Employer partnerships, Apprenticeships; Innovation → AI strategy, Assessment, Digital platforms, New models). Finance and technology domains added Sep 2027.</td><td>Classifier picks at most 3 themes, each with a confidence score</td></tr>
+      <tr><td>Geography</td><td>Region and country (ISO codes)</td><td>Named-entity extraction, normalised</td></tr>
+      <tr><td>Entities</td><td>Institutions (matched to QS institution IDs), organisations, people, policies</td><td>Extraction, then matched to the QS institution list</td></tr>
+      <tr><td>Audience</td><td>Executive · Strategy · Recruitment · Partnerships · Research · Careers · Digital · Finance</td><td>Classifier; drives the role ranking in the feed</td></tr>
+    </tbody></table></div>
+  </div>
+  <div class="grid g3">
+    <div class="card"><h3>1 · Rules first</h3><p>Rules are cheap and predictable. The series sets defaults (Chart of the Day → Chart → Pulse), section headings set the part type, and source tags such as Ghost's "Student Flows" map to themes.</p></div>
+    <div class="card"><h3>2 · AI classifier</h3><p>A Claude model returns structured output against the current taxonomy: themes, regions, audience, a 40-word summary, a "so what" line, and a confidence score for each tag. Each item is classified once per content version.</p></div>
+    <div class="card"><h3>3 · People on exceptions</h3><p>Items go to the editor queue if confidence is below 0.7, or if they are sponsored, name individuals, or may be breaking news. Every edit becomes a labelled example that improves the rules and prompt.</p></div>
+  </div>
+  <div class="notice l">Quality is measured, not assumed. Editors hand-tag a set of about 200 items. Every change to the prompt or taxonomy is scored against that set (agreement on component, theme and type) before it goes live. Changing the taxonomy triggers a background re-tag of affected items.</div>
+</section>
+
+<section id="feed">
+  <h1>The curated feed</h1>
+  <p class="lede">One ranked list per person, assembled from three inputs: what the person cares about, what is fresh, and what editors want seen. Each item carries a plain reason it was chosen.</p>
+  <div class="grid g2">
+    <div class="panel">
+      <div class="ph"><h2>Ranking signals</h2></div>
+      <dl class="dl">
+        <dt>Relevance</dt><dd>Theme matches the person's interests; audience matches their role; region matches their regions or their institution's markets.</dd>
+        <dt>Context</dt><dd>A boost for items on the theme of their next community session or the Pulse they just answered.</dd>
+        <dt>Freshness</dt><dd>Decays over days for news briefs and over weeks for features and frameworks.</dd>
+        <dt>Editorial</dt><dd>Pins, collections and suppression (e.g. retracted or superseded items).</dd>
+        <dt>Diversity</dt><dd>At most two items in a row from one source or theme; one item per story where the newsletter and magazine cover the same thing.</dd>
+        <dt>Access</dt><dd>Tier-locked items show as a teaser with "Included from Member". Partner items only appear in labelled slots.</dd>
+      </dl>
+    </div>
+    <div class="panel">
+      <div class="ph"><h2>Where the feed is used</h2></div>
+      <div class="scroll"><table><tbody>
+        <tr><td>Intelligence home</td><td>The full personal feed, with filters by component, theme and format</td></tr>
+        <tr><td>Weekly Signal email</td><td>Top items for the week, assembled automatically and approved by an editor before sending</td></tr>
+        <tr><td>Community pages</td><td>"Read before the session": items on the session's theme</td></tr>
+        <tr><td>Pulse results</td><td>"Context": charts and data points for the same market</td></tr>
+        <tr><td>Institution profile</td><td>Coverage of that institution, and its leadership changes</td></tr>
+        <tr><td>Magazine view</td><td>Editions in their original order, plus theme collections</td></tr>
+      </tbody></table></div>
+    </div>
+  </div>
+</section>
+
+<section id="scale">
+  <h1>Making it scale</h1>
+  <p class="lede">The proof of concept stores everything in one JSON file. That is fine for a demo, but the archive (years of newsletters, 46+ magazine editions) and daily updates need a proper store and background jobs.</p>
+  <div class="grid g2">
+    <div class="panel">
+      <div class="ph"><h2>On Replit</h2></div>
+      <dl class="dl">
+        <dt>Database</dt><dd>Replit PostgreSQL with full-text search, plus vector search for "related items" and duplicate detection.</dd>
+        <dt>Raw store</dt><dd>Replit Object Storage for original pages, keyed by fingerprint.</dd>
+        <dt>Jobs</dt><dd>A job table in the database with retries and back-off, worked by a separate scheduled process so ingestion never slows the app.</dd>
+        <dt>Secrets</dt><dd>Anthropic API key and the newsletter platform key, held in Replit Secrets.</dd>
+        <dt>Dependencies</dt><dd>This relaxes the "no runtime dependencies" rule. It needs a database driver and an HTML parser.</dd>
+      </dl>
+    </div>
+    <div class="panel">
+      <div class="ph"><h2>Design choices that keep it cheap and safe</h2></div>
+      <dl class="dl">
+        <dt>Incremental</dt><dd>Only new or changed content is processed (API timestamps, ETags, fingerprints).</dd>
+        <dt>Idempotent</dt><dd>Re-running a stage on the same version does nothing new, so failures can simply be retried.</dd>
+        <dt>Backfill in batches</dt><dd>The archive is classified through the batch API overnight; live items go through as they arrive.</dd>
+        <dt>Model choice</dt><dd>A small, fast model for tagging; a stronger model only for summaries that editors will publish.</dd>
+        <dt>Observability</dt><dd>Each source shows last run, items found, items queued for review and errors on the existing "QS data sources" page.</dd>
+      </dl>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="ph"><h2>Content item record</h2><p>The single record every source produces.</p></div>
+<div class="code">{
+  "id": "nl-midweek-2026-08-12-02",
+  "source": "qs-newsletters", "series": "qs-mid-week-brief",
+  "parent": { "type": "issue", "id": "midweek-2026-08-12", "title": "QS Midweek Brief - August 12, 2026", "position": 2 },
+  "canonicalUrl": "https://newsletters.qs.com/…#section-2",
+  "published": "2026-08-12", "author": "…", "contentHash": "sha256:…", "version": 1,
+  "title": "…", "summary": "…", "soWhat": "…", "bodyStored": true, "displayMode": "excerpt",
+  "partType": "lead-feature", "component": "intelligence",
+  "themes": [{ "id": "mobility.scholarships", "confidence": 0.91 }],
+  "regions": ["US"], "institutions": [], "audience": ["Recruitment", "Executive"],
+  "access": "free", "label": "QS Analysis", "sponsored": false,
+  "review": { "status": "auto-approved", "taxonomyVersion": 3, "by": null },
+  "collections": ["theme:mobility.scholarships", "issue:midweek-2026-08-12"]
+}</div>
+  </div>
+  <div class="panel">
+    <div class="ph"><h2>Rights and governance</h2></div>
+    <div class="grid g3">
+      <div class="card"><h3>Owned, but check contributors</h3><p>QS owns both titles. Guest authors, partner Spotlights and image credits may carry their own terms. Display mode per item: full text, excerpt with link, or link only.</p></div>
+      <div class="card"><h3>Labelling stays strict</h3><p>Opinion is labelled as opinion. Sponsored content is labelled Partner. Nothing from a newsletter becomes "QS Analysis" without editorial approval.</p></div>
+      <div class="card"><h3>People and institutions</h3><p>Power Moves contains named individuals. Use public information only, link to the source, and never feed it into partner targeting.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="phases">
+  <h1>Delivery plan</h1>
+  <p class="lede">Prove it on recent content, then add the archive, then scale out to other sources.</p>
+  <div class="panel">
+    <div class="tl">
+      <div class="card"><span class="when">Phase 0 · 1 week</span><h3>Access and taxonomy</h3><p>Confirm both platforms and get first-party access (newsletter API key; magazine export or API). Agree the theme taxonomy and display rights. Hand-tag 200 items as the quality benchmark.</p></div>
+      <div class="card"><span class="when">Phase 1 · 2–3 weeks</span><h3>Recent content in the app</h3><p>Connectors, parsing and splitting for the last 3 months of newsletters and the last 3 editions. Rule-based tags. Items appear in Intelligence with component and theme filters. Runs inside the current proof of concept.</p></div>
+      <div class="card"><span class="when">Phase 2 · 3–4 weeks</span><h3>Classifier, review, feed</h3><p>AI tagging with confidence scores; an editor review queue in the team view; collections; curated feed; context panels on Pulse and Community pages. Move to Postgres and background jobs.</p></div>
+      <div class="card"><span class="when">Phase 3 · ongoing</span><h3>Archive and new sources</h3><p>Batch-tag the full archive; related items and duplicate detection; automatic Weekly Signal draft; add HolonIQ, qs.com insights, summit agendas and webinar transcripts as connectors.</p></div>
+    </div>
+  </div>
+  <div class="panel">
+    <div class="ph"><h2>How we know it works</h2></div>
+    <div class="tiles">
+      <div class="tile"><span class="l">Split accuracy</span><span class="v">≥95%</span><span class="s">of benchmark issues split into the same parts as an editor would</span></div>
+      <div class="tile"><span class="l">Component and type</span><span class="v">≥90%</span><span class="s">agreement with the benchmark</span></div>
+      <div class="tile"><span class="l">Review load</span><span class="v">≤20%</span><span class="s">of items need an editor</span></div>
+      <div class="tile"><span class="l">Freshness</span><span class="v">&lt;2 h</span><span class="s">from newsletter publication to the QS One feed</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="decisions">
+  <h1>Decisions needed from you</h1>
+  <p class="lede">Five answers unlock Phase 0.</p>
+  <div class="panel">
+    <dl class="dl">
+      <dt>1 · Access route</dt><dd>Can the QS digital team give QS One an API key for the newsletter platform and an export or API for the magazine? Recommended: yes, because it is more reliable than reading pages and avoids being blocked.</dd>
+      <dt>2 · Display rights</dt><dd>Show full text in QS One, or excerpts linking back to newsletters.qs.com and magazine.qs.com? Recommended: full text for QS-authored items, excerpt for guest and partner items.</dd>
+      <dt>3 · Taxonomy owner</dt><dd>Who in editorial owns the theme list and the review queue (about 1–2 hours a day at launch)?</dd>
+      <dt>4 · Access tiers</dt><dd>Is newsletter and magazine content free in QS One (it is public today), with only QS One-specific analysis tier-locked? Recommended: yes. It helps the free Network grow.</dd>
+      <dt>5 · AI use</dt><dd>Approve using a Claude model for tagging and summaries, with editor approval required before anything is published as QS Analysis.</dd>
+    </dl>
+  </div>
+</section>
+</main>
+<footer>QS One content ingestion plan · draft. Source structures were inferred from search snapshots of newsletters.qs.com and magazine.qs.com and need confirming in Phase 0. Example tags are illustrative.</footer>
+</body>
+</html>
